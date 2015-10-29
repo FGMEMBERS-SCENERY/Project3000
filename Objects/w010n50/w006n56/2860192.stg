@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac -5.91344 56.51616 12.51 19.6543
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.91479 56.51597 8.57 313.291
+OBJECT_SHARED Models/lib/office4x14.ac -5.91357 56.51647 8.04 0
+OBJECT_SHARED Models/lib/coal_pile.ac -5.91552 56.51598 8.16 138.602
+OBJECT_SHARED Models/lib/coal_pile.ac -5.91561 56.51592 8.33 137.296
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -5.91388 56.51638 8.12 231.546
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -5.91432 56.51647 7.66 42.2734
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -5.91414 56.51652 7.75 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -5.91386 56.51641 8.13 228.991
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -5.91482 56.51603 8.55 313.229
+OBJECT_SHARED Models/lib/cone.ac -5.91766 56.51606 6.79 0
+OBJECT_SHARED Models/lib/cone.ac -5.91786 56.51629 6.28 0
+OBJECT_SHARED Models/lib/cone.ac -5.91639 56.51641 6.78 0
+OBJECT_SHARED Models/lib/cone.ac -5.91660 56.51664 6.23 0
+OBJECT_SHARED Models/lib/cone.ac -5.91513 56.51676 6.54 0
+OBJECT_SHARED Models/lib/cone.ac -5.91534 56.51699 5.97 0
+OBJECT_SHARED Models/lib/cone.ac -5.91386 56.51712 6.50 0
+OBJECT_SHARED Models/lib/cone.ac -5.91406 56.51734 5.93 0
+OBJECT_SHARED Models/lib/cone.ac -5.91259 56.51747 6.19 0
+OBJECT_SHARED Models/lib/cone.ac -5.91280 56.51769 5.63 0
+OBJECT_SHARED Models/lib/cone.ac -5.91133 56.51782 6.13 0
+OBJECT_SHARED Models/lib/cone.ac -5.91154 56.51804 5.53 0
+OBJECT_SHARED Models/lib/cone.ac -5.91007 56.51817 5.81 0
+OBJECT_SHARED Models/lib/cone.ac -5.91027 56.51839 5.21 0
+OBJECT_SHARED Models/lib/cone.ac -5.90880 56.51852 5.75 0
+OBJECT_SHARED Models/lib/cone.ac -5.90901 56.51874 5.10 0
+# END dsf2stg

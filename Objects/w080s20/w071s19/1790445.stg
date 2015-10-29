@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -70.33616 -18.35061 -0.32 160.82
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.33586 -18.35036 -0.32 70.82
+OBJECT_SHARED Models/lib/office40x25.ac -70.33582 -18.35021 -0.32 160.82
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.33639 -18.35088 -0.32 -19.18
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.33631 -18.35091 -0.32 -19.18
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.33634 -18.35074 -0.32 -19.18
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.33626 -18.35076 -0.32 -19.18
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.33634 -18.35074 -0.32 -19.18
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.33626 -18.35076 -0.32 -19.18
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33599 -18.34916 -0.30 145.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33598 -18.34912 -0.29 85.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33615 -18.34960 -0.30 145.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33613 -18.34956 -0.30 85.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33634 -18.35003 -0.31 145.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33632 -18.34999 -0.31 85.82
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.33528 -18.34700 -0.26 -19.18
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.33515 -18.34664 -0.25 -19.18
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -70.33589 -18.34917 -0.30 160.82
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -70.33605 -18.34961 -0.30 160.82
+OBJECT_SHARED Models/lib/jetway_e12m.ac -70.33617 -18.34957 -0.30 340.82
+OBJECT_SHARED Models/lib/jetway_e12m.ac -70.33602 -18.34913 -0.29 340.82
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -70.33617 -18.34957 -0.30 237.491
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -70.33602 -18.34913 -0.29 221.458
+# END dsf2stg

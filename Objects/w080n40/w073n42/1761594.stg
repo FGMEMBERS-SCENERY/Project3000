@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -72.26697 42.90350 151.30 315
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.27198 42.90601 153.05 90
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.26720 42.90199 151.86 269.1
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -72.26712 42.90347 151.38 83.8
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -72.26709 42.90347 151.38 38.16
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -72.26710 42.90345 151.41 345.07
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -72.26633 42.89862 151.94 256.76
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -72.26634 42.89864 151.94 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -72.26637 42.89862 152.04 0
+OBJECT_SHARED Models/lib/SmHangar.ac -72.26548 42.89998 150.64 358.17
+OBJECT_SHARED Models/lib/SmHangar.ac -72.26596 42.90096 150.98 52.78
+OBJECT_SHARED Models/lib/fboModern1.ac -72.26652 42.90290 151.03 357.6
+OBJECT_SHARED Models/lib/SmHangar.ac -72.27428 42.90654 154.01 112.39
+OBJECT_SHARED Models/lib/cars14.ac -72.27312 42.90687 153.57 177.21
+OBJECT_SHARED Models/lib/LongRow.ac -72.26600 42.89785 151.85 143.11
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.26539 42.89771 151.32 9.45999
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.26718 42.90283 151.64 88.39
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -72.26639 42.90273 151.00 136.3
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.26704 42.90342 151.33 357.11
+OBJECT_SHARED Models/lib/SmHangar.ac -72.26546 42.90029 150.56 357.86
+OBJECT_SHARED Models/lib/MedHangar.ac -72.26662 42.90193 151.39 357.48
+OBJECT_SHARED Models/lib/MedHangar.ac -72.27448 42.90617 153.90 177.87
+OBJECT_SHARED Models/lib/office32x25n.ac -72.27245 42.90657 153.20 267.04
+OBJECT_SHARED Models/lib/LongRow.ac -72.26658 42.89772 152.43 143.11
+OBJECT_SHARED Models/lib/LongRow.ac -72.26568 42.89814 151.50 143.11
+OBJECT_SHARED Models/lib/SmHangar.ac -72.26573 42.90083 150.68 53.48
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -72.27283 42.90691 153.37 177.51
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -72.27258 42.90690 153.26 177.51
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -72.27236 42.90689 153.18 177.51
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -72.27214 42.90689 153.02 177.51
+# END dsf2stg

@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.95841 44.78297 242.87 210.68
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 0.95804 44.78223 240.66 72.8971
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.95702 44.78261 240.20 250.427
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.95770 44.78293 241.68 160.196
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95881 44.78238 242.51 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95874 44.78225 242.11 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95865 44.78235 242.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95871 44.78245 242.62 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95885 44.78261 242.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95873 44.78255 242.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95846 44.78260 242.38 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95839 44.78223 241.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95827 44.78221 241.06 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95824 44.78229 241.30 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95495 44.78300 239.40 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 0.95539 44.78297 239.59 0
+OBJECT_SHARED Models/lib/SmHangar.ac 0.95862 44.78299 243.25 72.9
+OBJECT_SHARED Models/lib/SmHangar.ac 0.95726 44.78288 240.99 72.9
+OBJECT_SHARED Models/lib/SmHangar.ac 0.95764 44.78280 241.40 72.95
+OBJECT_SHARED Models/lib/SmHangar.ac 0.95796 44.78273 241.76 73.05
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 0.95820 44.78283 242.32 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.95832 44.78230 241.44 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.95841 44.78251 242.19 0
+OBJECT_SHARED Models/lib/SmHangar.ac 0.95827 44.78241 241.66 344.364
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.95810 44.78257 241.89 343.318
+# END dsf2stg

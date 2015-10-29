@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -92.22038 38.81847 -0.72 -19.52
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -92.22020 38.81870 -0.73 -22.36
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -92.22016 38.81892 -0.73 68.2
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -92.22023 38.82238 -0.78 303.69
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -92.21975 38.81957 -0.74 66.8
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -92.22049 38.81824 -0.72 64.18
+OBJECT_SHARED Models/lib/SmHangar.ac -92.22010 38.82007 -0.75 158
+OBJECT_SHARED Models/lib/MedHangar.ac -92.22030 38.81964 -0.74 158
+OBJECT_SHARED Models/lib/fboModern1.ac -92.22107 38.81878 -0.73 68.45
+OBJECT_SHARED Models/lib/office32x25.ac -92.22241 38.81573 -0.66 70.25
+OBJECT_SHARED Models/lib/MedHangar.ac -92.22320 38.81352 -0.59 158
+OBJECT_SHARED Models/lib/office112x50.ac -92.22300 38.81514 -0.64 248.58
+OBJECT_SHARED Models/lib/MedHangar.ac -92.22026 38.82235 -0.78 222.19
+OBJECT_SHARED Models/lib/MedHangar.ac -92.22200 38.81617 -0.67 158
+OBJECT_SHARED Models/lib/MedHangar.ac -92.21991 38.82038 -0.76 159
+OBJECT_SHARED Models/lib/LgMaint.ac -92.21956 38.82116 -0.77 158
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -92.22137 38.81865 -0.72 68.74
+OBJECT_SHARED Models/lib/RampGroup.xml -92.22118 38.81745 -0.70 203.58
+OBJECT_SHARED Models/lib/RampGroup.xml -92.22132 38.81719 -0.69 207
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -92.21357 38.81647 -0.67 0
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -92.22334 38.81454 -0.62 249.73
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -92.22338 38.81455 -0.62 249.81
+OBJECT_SHARED Models/Transport/Norberttruck.xml -92.22361 38.81459 -0.62 250.51
+OBJECT_SHARED Models/Transport/Norberttruck.xml -92.22303 38.81426 -0.62 158.87
+OBJECT_SHARED Models/Transport/Norberttruck.xml -92.22370 38.81462 -0.62 249.68
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -92.22103 38.81856 -0.72 68.39
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -92.22131 38.81865 -0.72 69.07
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.22346 38.81460 -0.62 160.7
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -92.22382 38.81468 -0.62 248.51
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -92.22394 38.81472 -0.62 248.38
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -92.22158 38.81697 -0.69 159
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -92.22176 38.81703 -0.69 159
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -92.22180 38.81671 -0.68 159
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -92.22195 38.81676 -0.68 159
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.22179 38.81665 -0.68 68.72
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.22181 38.81676 -0.68 243.43
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.22207 38.81683 -0.68 339.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.22160 38.81702 -0.69 250.19
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.22169 38.81710 -0.69 69.97
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -92.22210 38.81681 -0.68 159
+# END dsf2stg

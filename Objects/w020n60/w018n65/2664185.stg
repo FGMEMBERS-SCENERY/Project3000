@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -17.41958 65.95526 -0.81 347.471
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -17.41895 65.95640 -0.80 166.909
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -17.41910 65.95590 -0.81 77.6917
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -17.41925 65.95562 -0.81 80.877
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -17.41887 65.95591 -0.81 148.922
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -17.41902 65.95555 -0.81 23.4659
+OBJECT_SHARED Models/lib/stack_of_cones.ac -17.41918 65.95577 -0.81 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -17.41918 65.95559 -0.81 79.3588
+# END dsf2stg

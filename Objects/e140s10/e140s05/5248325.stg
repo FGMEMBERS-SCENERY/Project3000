@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 140.62848 -4.90682 -0.10 246.506
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 140.62859 -4.90655 -0.11 247.122
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 140.63045 -4.90767 -0.17 246.501
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 140.62966 -4.90676 -0.14 247.18
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 140.62888 -4.90628 -0.10 336.438
+# END dsf2stg

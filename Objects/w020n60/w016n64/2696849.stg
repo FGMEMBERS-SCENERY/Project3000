@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -15.22694 64.30240 -0.64 131.057
+OBJECT_SHARED Models/lib/cars2.ac -15.22682 64.30262 -0.64 104.127
+OBJECT_SHARED Models/lib/cars4.ac -15.22643 64.30234 -0.65 189.894
+OBJECT_SHARED Models/lib/stack_of_cones.ac -15.22675 64.30226 -0.64 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -15.22624 64.30205 -0.65 194.421
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -15.22636 64.30231 -0.65 194.744
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -15.22693 64.30267 -0.64 101.514
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -15.22683 64.30248 -0.64 101.31
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -15.22675 64.30229 -0.64 99.6601
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -15.22658 64.30198 -0.65 105.154
+OBJECT_SHARED Models/lib/chariot1.ac -15.22657 64.30194 -0.65 190.62
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -15.22658 64.30196 -0.65 22.8335
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -15.22668 64.30205 -0.65 21.8012
+OBJECT_SHARED Models/lib/chariot1.ac -15.22673 64.30200 -0.65 1.04163
+OBJECT_SHARED Models/lib/HorizTanks2.ac -15.22604 64.30141 -0.66 101.19
+OBJECT_SHARED Models/lib/SmHangar.ac -15.22696 64.30278 -0.63 12.5679
+# END dsf2stg

@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -68.31401 -54.84079 29.04 247.58
+OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -68.30621 -54.84183 28.69 138.82
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -68.31457 -54.83986 26.54 98.13
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -68.30930 -54.84196 27.84 122.74
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -68.30792 -54.84077 28.84 244.53
+OBJECT_SHARED Models/lib/HorizTanks2.ac -68.30866 -54.84132 29.23 183.29
+OBJECT_SHARED Models/lib/HorizTanks2.ac -68.30869 -54.84103 29.10 183.35
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -68.30868 -54.84116 29.18 3.69
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -68.31036 -54.83888 30.63 0
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -68.31017 -54.83852 27.03 180.07
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -68.31009 -54.83888 30.74 0.820007
+OBJECT_SHARED Models/lib/FireStationLg.ac -68.31076 -54.83999 28.41 273.58
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -68.31237 -54.84005 27.70 2.07001
+OBJECT_SHARED Models/lib/jetway_e10m.ac -68.31237 -54.83996 27.70 271.55
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -68.31285 -54.84001 27.46 347.75
+OBJECT_SHARED Models/lib/jetway_e4m.ac -68.31283 -54.83998 27.51 241.49
+OBJECT_SHARED Models/lib/cars7.ac -68.31272 -54.83865 31.44 0.849998
+OBJECT_SHARED Models/lib/cars7.ac -68.31273 -54.83867 31.44 180.72
+OBJECT_SHARED Models/lib/cars7.ac -68.31313 -54.83877 31.21 271.36
+OBJECT_SHARED Models/lib/cars7.ac -68.31316 -54.83877 31.14 90.73
+OBJECT_SHARED Models/lib/cars7.ac -68.31360 -54.83868 29.50 181.13
+OBJECT_SHARED Models/lib/cars7.ac -68.31360 -54.83866 29.50 1.92
+OBJECT_SHARED Models/lib/cars14.ac -68.31059 -54.83876 29.64 0.910004
+OBJECT_SHARED Models/lib/cars14.ac -68.31224 -54.83952 27.95 273.541
+OBJECT_SHARED Models/lib/cars14.ac -68.31316 -54.83955 28.10 273.18
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.31185 -54.84015 27.91 183.44
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.31333 -54.84017 27.26 184.04
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.31227 -54.84021 27.67 156.43
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.31282 -54.84017 27.42 155.13
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.31047 -54.84021 28.41 185.87
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.31105 -54.84020 28.19 185.27
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.30511 -54.84145 29.04 81.69
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.30512 -54.84122 29.13 97.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.30514 -54.84100 29.22 107.36
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.30606 -54.84099 29.08 141.12
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.30669 -54.84098 28.98 187.59
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.31113 -54.84108 27.75 1
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.31186 -54.84110 27.45 2.53
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.31248 -54.84112 27.20 3.88
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -68.31524 -54.83961 22.88 182.56
+OBJECT_SHARED Models/lib/office40x25.ac -68.30872 -54.83987 30.85 92.6
+OBJECT_SHARED Models/lib/office65x50.ac -68.31029 -54.83961 29.58 1.77
+OBJECT_SHARED Models/lib/office32x25.ac -68.30930 -54.83869 31.47 180.18
+OBJECT_SHARED Models/lib/SmHangar.ac -68.31001 -54.84086 28.22 4.48
+OBJECT_SHARED Models/lib/MedHangar.ac -68.31009 -54.84028 28.50 4.26
+# END dsf2stg

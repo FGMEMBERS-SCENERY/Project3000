@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars7.ac -70.32775 -53.25326 -0.34 71.99
+OBJECT_SHARED Models/lib/office3x10.ac -70.37501 -53.27938 -0.05 179
+OBJECT_SHARED Models/lib/office3x10.ac -70.37306 -53.28010 -0.07 261
+OBJECT_SHARED Models/lib/office3x10.ac -70.37290 -53.28011 -0.08 82
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.32544 -53.25368 -0.32 162.74
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -70.36036 -53.29250 -0.46 97.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.36044 -53.29278 -0.47 274
+OBJECT_SHARED Models/lib/SmHangar.ac -70.32545 -53.25441 -0.34 159.9
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -70.32542 -53.25412 -0.33 249.56
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.32526 -53.25410 -0.33 69.98
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -70.32748 -53.25278 -0.33 204.15
+OBJECT_SHARED Models/Aircraft/D328_services.xml -70.33682 -53.25051 -0.34 353.52
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -70.32142 -53.25448 -0.28 77.94
+OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -70.32166 -53.25264 -0.24 208.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.32509 -53.25339 -0.31 279.93
+# END dsf2stg

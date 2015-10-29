@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -124.40941 43.08453 -0.70 1.4
+OBJECT_SHARED Models/lib/SmHangar.ac -124.40968 43.08674 -0.67 180.44
+OBJECT_SHARED Models/lib/SmHangar.ac -124.40967 43.08606 -0.68 180.35
+OBJECT_SHARED Models/lib/SmHangar.ac -124.40967 43.08624 -0.68 180.65
+OBJECT_SHARED Models/lib/SmHangar.ac -124.40967 43.08640 -0.67 180.68
+OBJECT_SHARED Models/lib/SmHangar.ac -124.40967 43.08658 -0.67 180.9
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -124.40970 43.08398 -0.70 181.05
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -124.40971 43.08430 -0.70 180.83
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -124.40939 43.08338 -0.71 182.31
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -124.40961 43.08674 -0.67 271.86
+# END dsf2stg

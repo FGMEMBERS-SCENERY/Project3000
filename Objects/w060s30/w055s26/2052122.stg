@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -54.48457 -25.60085 -0.74 321.85
+OBJECT_SHARED Models/lib/MedHangar.ac -54.48435 -25.60138 -0.75 51.42
+OBJECT_SHARED Models/lib/SmHangar.ac -54.48451 -25.60157 -0.75 232.4
+OBJECT_SHARED Models/lib/SmHangar.ac -54.48418 -25.60180 -0.76 232.34
+OBJECT_SHARED Models/lib/SmHangar.ac -54.48389 -25.60209 -0.78 322.37
+OBJECT_SHARED Models/lib/MedHangar.ac -54.48491 -25.60122 -0.74 230.91
+OBJECT_SHARED Models/lib/SmHangar.ac -54.48553 -25.60100 -0.72 231.34
+OBJECT_SHARED Models/lib/MedHangar.ac -54.48574 -25.59980 -0.69 317.01
+OBJECT_SHARED Models/lib/LgMaint.ac -54.48760 -25.59824 -0.61 228.46
+OBJECT_SHARED Models/lib/LgMaint.ac -54.48843 -25.59759 -0.57 228.32
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -54.48969 -25.59722 -0.52 318.26
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -54.48514 -25.60066 -0.72 318.52
+OBJECT_SHARED Models/lib/FireStationLg.ac -54.48664 -25.59897 -0.65 47.81
+OBJECT_SHARED Models/lib/office112x50.ac -54.49467 -25.60303 -0.44 143.57
+OBJECT_SHARED Models/lib/office112x50.ac -54.49555 -25.60407 -0.41 142.59
+# END dsf2stg

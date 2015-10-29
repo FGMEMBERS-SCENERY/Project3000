@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -98.66023 30.79004 -0.88 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -98.66007 30.79007 -0.88 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -98.65982 30.78985 -0.88 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -98.65978 30.78949 -0.88 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -98.65960 30.78965 -0.88 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -98.66067 30.78970 -0.87 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.66015 30.78975 -0.88 44.4
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.66027 30.78984 -0.88 312.22
+OBJECT_SHARED Models/lib/cars4.ac -98.65996 30.78970 -0.88 133.89
+OBJECT_SHARED Models/lib/cars4.ac -98.66005 30.78988 -0.88 131.92
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.66063 30.78967 -0.87 42.55
+OBJECT_SHARED Models/Misc/picnic_table.ac -98.66006 30.78982 -0.88 315
+OBJECT_SHARED Models/Misc/picnic_table.ac -98.66011 30.78978 -0.88 313.26
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -98.66000 30.78968 -0.88 223.07
+OBJECT_SHARED Models/lib/LongRow.ac -98.65881 30.78855 -0.86 43.5
+OBJECT_SHARED Models/lib/LongRow.ac -98.65929 30.78881 -0.87 43.15
+OBJECT_SHARED Models/lib/LongRow.ac -98.65964 30.78929 -0.87 44.31
+OBJECT_SHARED Models/lib/SmHangar.ac -98.66019 30.78982 -0.88 43.59
+OBJECT_SHARED Models/lib/SmHangar.ac -98.66033 30.78994 -0.88 44.01
+OBJECT_SHARED Models/lib/SmHangar.ac -98.66066 30.79014 -0.88 133.56
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -98.66012 30.78928 -0.87 312.07
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.65958 30.78867 -0.86 132.53
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.66034 30.78879 -0.86 312.04
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.66092 30.78933 -0.86 311.75
+# END dsf2stg

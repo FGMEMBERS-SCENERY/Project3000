@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -69.22621 -12.60195 -0.35 129.09
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -69.22181 -12.60209 -0.26 26.13
+OBJECT_SHARED Models/Aircraft/D328_services.xml -69.22094 -12.60212 -0.24 198.97
+OBJECT_SHARED Models/lib/HorizTanks2.ac -69.22023 -12.60428 -0.25 359.47
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -69.21999 -12.60422 -0.24 44.17
+OBJECT_SHARED Models/lib/HorizTanks2.ac -69.22023 -12.60402 -0.25 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -69.22023 -12.60415 -0.25 179.94
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -69.21997 -12.60408 -95.24 180
+OBJECT_SHARED Models/lib/cars14.ac -69.22092 -12.60382 -0.26 89.75
+OBJECT_SHARED Models/lib/cars10.ac -69.22059 -12.60380 -0.26 90
+OBJECT_SHARED Models/lib/cars10.ac -69.22059 -12.60352 -0.25 90
+OBJECT_SHARED Models/lib/cars10.ac -69.22059 -12.60323 -0.25 90
+OBJECT_SHARED Models/lib/cars10.ac -69.22059 -12.60295 -0.25 90
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -69.22076 -12.60321 -0.25 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22067 -12.60373 -0.26 1.79001
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22067 -12.60358 -0.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22067 -12.60347 -0.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22067 -12.60334 -0.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22068 -12.60319 -0.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22068 -12.60306 -0.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22069 -12.60291 -0.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22069 -12.60276 -0.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22122 -12.60372 -0.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22122 -12.60352 -0.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22122 -12.60338 -0.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22122 -12.60322 -0.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22122 -12.60303 -0.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22123 -12.60285 -0.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -69.22122 -12.60270 -0.26 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -69.22137 -12.60379 -0.27 134
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -69.22142 -12.60316 -0.27 134
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -69.22143 -12.60259 -0.26 134
+# END dsf2stg

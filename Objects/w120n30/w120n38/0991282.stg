@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/coal_pile.ac -119.33157 38.83887 1459.83 180
+OBJECT_SHARED Models/lib/coal_pile.ac -119.33160 38.83888 1459.83 0
+OBJECT_SHARED Models/lib/coal_pile.ac -119.33157 38.83894 1459.83 180
+OBJECT_SHARED Models/lib/coal_pile.ac -119.33160 38.83895 1459.83 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -119.33073 38.83868 1459.06 289.98
+OBJECT_SHARED Models/lib/watertank3x1.ac -119.33071 38.83866 1459.06 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -119.33074 38.83866 1459.06 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -119.33059 38.83867 1459.06 3.62
+OBJECT_SHARED Models/Transport/hatchback_red.ac -119.33063 38.83867 1459.06 0
+OBJECT_SHARED Models/Airport/cargobox.xml -119.33122 38.83884 1459.26 273.88
+OBJECT_SHARED Models/Airport/cargoim.xml -119.33119 38.83884 1459.26 270.28
+OBJECT_SHARED Models/Airport/cargoim.xml -119.33120 38.83882 1459.26 0
+OBJECT_SHARED Models/Airport/cargoim.xml -119.33122 38.83883 1459.26 270.3
+OBJECT_SHARED Models/Airport/cargobox.xml -119.33124 38.83883 1459.26 271.17
+OBJECT_SHARED Models/Airport/cargobox.xml -119.33124 38.83879 1459.26 269.27
+OBJECT_SHARED Models/Airport/cargobox.xml -119.33122 38.83879 1459.26 180.21
+OBJECT_SHARED Models/Airport/cargobox.xml -119.33119 38.83879 1459.26 0
+OBJECT_SHARED Models/Airport/cargoip.xml -119.33124 38.83881 1459.26 88.48
+OBJECT_SHARED Models/Airport/cargoip.xml -119.33122 38.83881 1459.26 180.77
+OBJECT_SHARED Models/Airport/cargoip.xml -119.33119 38.83881 1459.26 1.62
+OBJECT_SHARED Models/lib/container6.ac -119.33086 38.83863 1458.86 348.52
+OBJECT_SHARED Models/lib/container1.ac -119.33097 38.83859 1458.86 82.78
+OBJECT_SHARED Models/lib/container1.ac -119.33097 38.83862 1458.86 354.75
+OBJECT_SHARED Models/lib/container1.ac -119.33096 38.83865 1458.86 352.59
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -119.33092 38.83867 1459.06 81.47
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -119.33128 38.83905 1459.67 269.38
+OBJECT_SHARED Models/lib/SmHangar.ac -119.33136 38.83891 1459.46 359.49
+# END dsf2stg

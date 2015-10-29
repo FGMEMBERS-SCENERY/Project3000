@@ -1,0 +1,54 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -4.34293 53.10850 3.29 3.87
+OBJECT_SHARED Models/Misc/picnic_table.ac -4.34287 53.10837 3.33 3.87
+OBJECT_SHARED Models/Misc/picnic_table.ac -4.34282 53.10847 3.28 249.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -4.34303 53.10842 3.34 249.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -4.34371 53.10841 3.40 249.44
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.34396 53.10846 3.37 239.04
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.33407 53.09997 3.44 40.32
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.33427 53.09995 3.52 40.32
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.33462 53.09991 3.63 40.32
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.33446 53.09990 3.57 267.42
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.33486 53.09987 3.72 338.96
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.34380 53.10845 3.36 338.96
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.34378 53.10837 3.40 207.9
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -4.34293 53.10869 3.20 109.18
+OBJECT_SHARED Models/lib/stack_of_cones.ac -4.34406 53.10838 3.42 352.41
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -4.34384 53.10829 3.45 319.4
+OBJECT_SHARED Models/Misc/picnic_table.ac -4.34384 53.10839 3.41 217.57
+OBJECT_SHARED Models/Misc/picnic_table.ac -4.34372 53.10835 3.44 143.62
+OBJECT_SHARED Models/lib/office16x4n.ac -4.34383 53.10841 3.41 53.49
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -4.34344 53.10884 3.20 164.32
+OBJECT_SHARED Models/lib/office40x25.ac -4.33462 53.09997 3.64 101.54
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -4.33686 53.10126 3.73 281.17
+OBJECT_SHARED Models/lib/LgMaint.ac -4.33778 53.10041 3.82 192.66
+OBJECT_SHARED Models/lib/office16x4n.ac -4.33597 53.10155 3.64 100.9
+OBJECT_SHARED Models/lib/HorizTanks2.ac -4.33657 53.10093 3.73 27.95
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -4.33802 53.10150 3.81 195.1
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -4.33951 53.10140 3.85 359.51
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -4.34087 53.10099 3.73 203.77
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -4.33608 53.10142 3.65 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -4.33582 53.10145 3.62 53.13
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -4.33650 53.10136 3.70 336.37
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -4.33678 53.10103 3.74 185.53
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -4.33686 53.10128 3.73 148.24
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -4.33751 53.10005 3.80 278.75
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -4.33794 53.10083 3.82 43.57
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -4.33671 53.10072 3.74 295.46
+OBJECT_SHARED Models/lib/CargoDolly.ac -4.33698 53.10033 3.77 107.35
+OBJECT_SHARED Models/lib/CargoPodPkng.ac -4.33681 53.10053 3.75 61.56
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -4.33629 53.10151 3.67 8.39002
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -4.33412 53.10124 3.46 22.14
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -4.33440 53.10169 3.44 155.77
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -4.33669 53.10101 3.73 284.11
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -4.33656 53.10055 3.74 126.03
+OBJECT_SHARED Models/Aircraft/D328_services.xml -4.33829 53.10101 3.83 101.59
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -4.33912 53.10089 3.83 11.34
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -4.33699 53.10048 3.77 225
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -4.33708 53.10019 3.78 58.83
+OBJECT_SHARED Models/lib/container6.ac -4.33647 53.10076 3.72 183.01
+OBJECT_SHARED Models/lib/NoParkStripes.ac -4.33678 53.10148 3.72 10.23
+OBJECT_SHARED Models/lib/container6.ac -4.33580 53.10150 3.62 0
+# END dsf2stg

@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -87.91845 42.00072 198.52 311.69
+OBJECT_SHARED Models/Airport/egkk_oil.xml -87.93225 42.00025 201.03 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -87.93063 42.00024 200.66 0
+# END dsf2stg

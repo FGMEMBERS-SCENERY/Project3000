@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/B1900_services.xml 106.84688 43.13712 -0.72 270.72
+OBJECT_SHARED Models/Misc/6barrels.ac 106.84718 43.13607 -0.72 0
+OBJECT_SHARED Models/lib/coal_pile.ac 106.84513 43.13613 -0.72 90
+OBJECT_SHARED Models/lib/SmHangar.ac 106.84663 43.13670 -0.72 213.24
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 106.84638 43.13705 -0.73 119.73
+# END dsf2stg

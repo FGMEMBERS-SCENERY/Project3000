@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 17.83453 48.61995 160.79 174.96
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 17.83161 48.61181 161.21 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 17.83201 48.61107 160.29 0
+OBJECT_SHARED Models/Aircraft/B1900_services.xml 17.83166 48.61137 161.15 87.61
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 17.83128 48.61202 161.13 171.57
+OBJECT_SHARED Models/lib/SmHangar.ac 17.83201 48.61097 160.17 353.86
+OBJECT_SHARED Models/lib/office32x25.ac 17.83226 48.61126 160.32 173.99
+OBJECT_SHARED Models/lib/chariot1.ac 17.83160 48.61130 161.15 90
+# END dsf2stg

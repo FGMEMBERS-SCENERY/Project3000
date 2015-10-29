@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml -45.41345 61.16443 39.37 0
+OBJECT_SHARED Models/Airport/cargobox.xml -45.41344 61.16440 39.37 0
+OBJECT_SHARED Models/Airport/cargobox.xml -45.41340 61.16441 39.37 0
+OBJECT_SHARED Models/Airport/cargoip.xml -45.41339 61.16444 39.37 0
+OBJECT_SHARED Models/Airport/cargoip.xml -45.41334 61.16444 39.52 0
+OBJECT_SHARED Models/Airport/cargoip.xml -45.41336 61.16446 39.20 0
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -45.41300 61.16435 40.00 321.344
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -45.41298 61.16433 40.16 324.464
+OBJECT_SHARED Models/lib/chariot1.ac -45.41299 61.16426 40.16 222.365
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -45.41634 61.16253 39.38 201.393
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -45.41367 61.16427 39.10 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -45.41561 61.16297 39.12 60.574
+OBJECT_SHARED Models/lib/chariot4.ac -45.41604 61.16254 39.71 39.9236
+OBJECT_SHARED Models/lib/chariot4.ac -45.41583 61.16270 39.52 39.9236
+OBJECT_SHARED Models/lib/chariot4.ac -45.41586 61.16264 39.61 47.2955
+OBJECT_SHARED Models/lib/container6.ac -45.41311 61.16465 39.52 0
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -45.41339 61.16459 39.04 90
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -45.41334 61.16458 39.20 90
+OBJECT_SHARED Models/lib/loader.ac -45.41323 61.16456 39.36 270
+OBJECT_SHARED Models/lib/fboModern1.ac -45.41737 61.16240 38.52 320.002
+OBJECT_SHARED Models/lib/SmHangar.ac -45.41172 61.16483 61.27 319.695
+OBJECT_SHARED Models/lib/SmHangar.ac -45.41511 61.16282 40.09 320.195
+OBJECT_SHARED Models/lib/MedHangar.ac -45.41282 61.16477 39.71 319.365
+OBJECT_SHARED Models/lib/MedHangar.ac -45.41517 61.16343 38.78 319.931
+OBJECT_SHARED Models/Aircraft/D328_services.xml -45.41635 61.16266 38.87 48.6523
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -45.42701 61.15524 46.68 276.761
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -45.42616 61.15548 49.59 276.761
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -45.42683 61.15588 45.26 277.711
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -45.42622 61.15565 48.90 277.711
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -45.42449 61.15560 58.00 278.563
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -45.42553 61.15608 50.98 277.975
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -45.41348 61.16381 40.37 140.535
+OBJECT_SHARED Models/lib/HorizTanks2.ac -45.42834 61.15549 39.24 229.935
+OBJECT_SHARED Models/lib/HorizTanks2.ac -45.42849 61.15555 38.25 231.275
+OBJECT_SHARED Models/lib/HorizTanks2.ac -45.42864 61.15561 37.42 231.204
+# END dsf2stg

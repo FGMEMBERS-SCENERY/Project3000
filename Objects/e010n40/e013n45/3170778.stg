@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.61619 45.47451 -0.61 26.98
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.61600 45.47476 -0.67 26.98
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.61637 45.47428 -0.55 29.03
+OBJECT_SHARED Models/lib/HorizTanks2.ac 13.61654 45.47402 -0.53 27.51
+OBJECT_SHARED Models/Airport/cargobox.xml 13.61636 45.47401 -0.59 121.24
+OBJECT_SHARED Models/Airport/cargoip.xml 13.61632 45.47400 -0.64 116.03
+OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 13.61630 45.47351 -0.68 298.01
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.61634 45.47333 -0.69 300.75
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 13.61622 45.47510 -0.53 208.61
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.61521 45.47444 -1.00 301.4
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.61504 45.47464 -1.05 303.9
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.61667 45.47342 -0.53 119.22
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.61651 45.47361 -0.60 120.19
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.61730 45.47484 0.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.61723 45.47474 -0.06 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.61714 45.47455 -0.16 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.61709 45.47473 -0.12 0
+OBJECT_SHARED Models/lib/fboModern1.ac 13.61654 45.47498 -0.40 27.74
+OBJECT_SHARED Models/lib/SmHangar.ac 13.61594 45.47497 -0.69 116.24
+OBJECT_SHARED Models/lib/SmHangar.ac 13.61644 45.47547 -0.38 26.67
+# END dsf2stg

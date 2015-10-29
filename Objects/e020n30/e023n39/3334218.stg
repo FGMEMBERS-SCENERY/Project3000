@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.50117 39.17622 10.41 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.50131 39.17654 10.90 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.50152 39.17698 11.68 0
+OBJECT_SHARED Models/lib/FireStationLg.ac 23.50136 39.17736 12.63 250.77
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 23.50108 39.17738 12.98 74.51
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 23.50105 39.17722 12.54 74.67
+OBJECT_SHARED Models/lib/chariot4.ac 23.50108 39.17602 10.11 72.95
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 23.50113 39.17606 10.30 250.02
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 23.50118 39.17619 10.41 341.57
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 23.50156 39.17552 8.71 340.35
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 23.50167 39.17563 8.82 104.57
+OBJECT_SHARED Models/lib/loader.ac 23.50143 39.17547 8.88 255.92
+OBJECT_SHARED Models/lib/loader.ac 23.50147 39.17568 9.18 75.17
+OBJECT_SHARED Models/lib/CargoDolly.ac 23.50180 39.17557 8.73 336.8
+OBJECT_SHARED Models/lib/CargoDolly.ac 23.50182 39.17561 8.73 336.8
+OBJECT_SHARED Models/lib/CargoDolly.ac 23.50184 39.17564 8.73 336.8
+OBJECT_SHARED Models/lib/CargoDolly.ac 23.50185 39.17567 8.84 336.8
+OBJECT_SHARED Models/lib/belt_loader.ac 23.50155 39.17547 8.71 254.74
+OBJECT_SHARED Models/lib/belt_loader.ac 23.50162 39.17545 8.51 252.38
+OBJECT_SHARED Models/lib/belt_loader.ac 23.50128 39.17639 10.73 157.45
+OBJECT_SHARED Models/lib/belt_loader.ac 23.50129 39.17643 10.73 157.45
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 23.50035 39.17564 11.21 339.94
+OBJECT_SHARED Models/lib/cars14.ac 23.50043 39.17652 14.85 159.7
+OBJECT_SHARED Models/lib/cars14.ac 23.50063 39.17695 14.58 160.2
+OBJECT_SHARED Models/lib/cars7.ac 23.50089 39.17718 13.39 71.17
+# END dsf2stg

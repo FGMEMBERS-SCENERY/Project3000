@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -118.98814 42.65758 -0.36 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -118.98900 42.65738 -0.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -118.98874 42.65739 -0.33 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.98883 42.65743 -0.33 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.98882 42.65731 -0.33 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.98895 42.65732 -0.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -118.98889 42.65736 -0.33 180
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -118.98867 42.65747 -0.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -118.98873 42.65732 -0.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -118.98808 42.65733 -0.35 0
+OBJECT_SHARED Models/lib/SmHangar.ac -118.98917 42.65630 -0.30 163.44
+OBJECT_SHARED Models/lib/watertank3x1.ac -118.98941 42.65590 -0.31 110
+OBJECT_SHARED Models/lib/office16x4n.ac -118.98942 42.65605 -0.31 73.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -118.98927 42.65623 -0.30 180
+# END dsf2stg

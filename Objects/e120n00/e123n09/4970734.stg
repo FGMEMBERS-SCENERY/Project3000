@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 123.85307 9.65809 -0.24 185.04
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 123.85290 9.65689 -0.21 187.82
+OBJECT_SHARED Models/lib/container1.ac 123.85309 9.65700 -0.21 0
+OBJECT_SHARED Models/lib/loader.ac 123.85309 9.65703 -0.21 187.6
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 123.85312 9.65698 -0.21 189.77
+OBJECT_SHARED Models/Airport/cargobox.xml 123.85305 9.65697 -0.21 9.45999
+OBJECT_SHARED Models/Airport/cargobox.xml 123.85302 9.65696 -0.21 7.59
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 123.85308 9.65746 -0.23 97.59
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 123.85308 9.65743 -0.23 0
+OBJECT_SHARED Models/lib/belt_loader.ac 123.85310 9.65741 -0.23 270
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 123.85308 9.65739 -0.23 0
+OBJECT_SHARED Models/lib/caisses_group.ac 123.85314 9.65719 -0.22 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 123.85307 9.65719 -0.22 0
+OBJECT_SHARED Models/lib/belt_loader.ac 123.85319 9.65724 -0.22 269.34
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 123.85308 9.65711 -0.22 188.28
+OBJECT_SHARED Models/Airport/cargobox.xml 123.85303 9.65698 -0.21 338.4
+OBJECT_SHARED Models/Airport/cargoip.xml 123.85301 9.65696 -0.21 4.39999
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 123.85276 9.65747 -0.23 277.43
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 123.85277 9.65761 -0.23 191.77
+OBJECT_SHARED Models/lib/container6.ac 123.85297 9.65697 -0.21 274.76
+OBJECT_SHARED Models/Transport/hatchback_red.ac 123.85277 9.65735 -0.22 88.26
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 123.85275 9.65760 -0.23 7.59
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 123.85276 9.65749 -0.23 273.58
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 123.85303 9.65790 -0.24 96.51
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 123.85308 9.65696 -0.21 276.09
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 123.85309 9.65685 -0.21 276.09
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 123.85306 9.65722 -0.22 276.09
+# END dsf2stg

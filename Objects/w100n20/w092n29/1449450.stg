@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -91.33391 29.71147 -0.81 214.2
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -91.33376 29.71157 -0.81 213.69
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -91.33512 29.71140 -0.83 213.69
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -91.33537 29.71140 -0.83 215.71
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -91.33558 29.71129 -0.84 216.25
+OBJECT_SHARED Models/lib/SmHangar.ac -91.33465 29.71171 -0.82 120.96
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -91.33893 29.71290 -0.84 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -91.33794 29.71295 -0.83 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -91.33783 29.71389 -0.81 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -91.33792 29.71405 -0.81 0
+OBJECT_SHARED Models/lib/MedHangar.ac -91.33337 29.71250 -0.79 302.49
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -91.33337 29.71145 -0.81 35.07
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -91.34040 29.71182 -0.87 -59.04
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -91.33983 29.71244 -0.86 22.48
+OBJECT_SHARED Models/lib/MedHangar.ac -91.33905 29.71247 -0.85 125.51
+OBJECT_SHARED Models/lib/SmHangar.ac -91.34007 29.71200 -0.87 119.48
+OBJECT_SHARED Models/lib/SmHangar.ac -91.33976 29.71216 -0.86 119.58
+OBJECT_SHARED Models/lib/SmHangar.ac -91.34109 29.71150 -0.88 121.7
+# END dsf2stg

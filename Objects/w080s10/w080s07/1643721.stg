@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -79.82931 -6.77791 -0.32 254.17
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82415 -6.77922 -0.28 35
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82432 -6.77704 -0.33 35
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82429 -6.77758 -0.32 35
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82422 -6.77810 -0.30 35
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82417 -6.77875 -0.29 35
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82413 -6.77977 -0.26 35
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82473 -6.78052 -0.24 3.14999
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82439 -6.78049 -0.24 2.44
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82411 -6.78047 -0.24 3.89999
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82884 -6.77791 -0.32 257.66
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82855 -6.77700 -0.34 257.95
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82863 -6.77721 -0.34 257.86
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82871 -6.77747 -0.34 257.2
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.82877 -6.77769 -0.33 256.52
+OBJECT_SHARED Models/lib/MedHangar.ac -79.82859 -6.77667 -0.35 164.35
+OBJECT_SHARED Models/lib/MedHangar.ac -79.82912 -6.77854 -0.31 164.11
+OBJECT_SHARED Models/lib/LongRow.ac -79.82404 -6.78062 -0.24 274.13
+OBJECT_SHARED Models/lib/LongRow.ac -79.82426 -6.78064 -0.24 274.16
+OBJECT_SHARED Models/lib/LongRow.ac -79.82447 -6.78065 -0.24 273.26
+OBJECT_SHARED Models/lib/MedHangar.ac -79.82401 -6.77984 -0.26 3.5
+OBJECT_SHARED Models/lib/SmHangar.ac -79.82402 -6.77947 -0.27 3.91
+OBJECT_SHARED Models/lib/MedHangar.ac -79.82408 -6.77874 -0.29 3.42
+OBJECT_SHARED Models/lib/MedHangar.ac -79.82413 -6.77807 -0.30 3.44
+OBJECT_SHARED Models/lib/SmHangar.ac -79.82414 -6.77767 -0.31 3.62
+OBJECT_SHARED Models/lib/MedHangar.ac -79.82419 -6.77708 -0.33 3.73
+OBJECT_SHARED Models/lib/MedHangar.ac -79.82495 -6.78309 -0.28 300.21
+OBJECT_SHARED Models/lib/MedHangar.ac -79.82458 -6.78225 -0.25 359.1
+OBJECT_SHARED Models/lib/MedHangar.ac -79.82434 -6.78472 -0.31 357.55
+OBJECT_SHARED Models/lib/MedHangar.ac -79.82484 -6.78542 -0.33 290.42
+OBJECT_SHARED Models/lib/SmHangar.ac -79.82549 -6.78844 -0.39 340.54
+OBJECT_SHARED Models/lib/SmHangar.ac -79.82524 -6.78715 -0.37 66.12
+OBJECT_SHARED Models/lib/SmHangar.ac -79.82496 -6.78827 -0.39 322.36
+OBJECT_SHARED Models/lib/SmHangar.ac -79.82583 -6.78980 -0.41 23.6
+OBJECT_SHARED Models/lib/SmHangar.ac -79.82550 -6.79092 -0.43 327.94
+OBJECT_SHARED Models/lib/SmHangar.ac -79.82484 -6.79159 -0.43 354.43
+OBJECT_SHARED Models/lib/SmHangar.ac -79.82507 -6.79193 -0.44 263.5
+OBJECT_SHARED Models/lib/FireStationLg.ac -79.82845 -6.77613 -0.36 344.38
+OBJECT_SHARED Models/lib/cars7.ac -79.82925 -6.77757 -0.33 250
+OBJECT_SHARED Models/lib/cars7.ac -79.82926 -6.77755 -0.33 70
+OBJECT_SHARED Models/lib/cars7.ac -79.82919 -6.77734 -0.34 70
+OBJECT_SHARED Models/lib/cars7.ac -79.82917 -6.77735 -0.34 250
+OBJECT_SHARED Models/lib/cars7.ac -79.82911 -6.77712 -0.34 70
+OBJECT_SHARED Models/lib/cars7.ac -79.82910 -6.77713 -0.34 250
+OBJECT_SHARED Models/lib/cars7.ac -79.82903 -6.77692 -0.34 250
+OBJECT_SHARED Models/lib/cars7.ac -79.82905 -6.77690 -0.34 70
+# END dsf2stg

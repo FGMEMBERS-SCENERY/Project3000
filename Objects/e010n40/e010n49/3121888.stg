@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.22224 49.61139 292.07 215.54
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.22271 49.61146 291.13 185.39
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.22246 49.61050 294.76 281.07
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.22248 49.61047 294.76 101.5
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.22248 49.61044 295.11 279.27
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.22246 49.61054 294.76 281.31
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.22244 49.61057 294.47 279.16
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.22262 49.61040 295.05 191.97
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.22257 49.61039 295.05 189.9
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.22275 49.61042 294.94 195.24
+OBJECT_SHARED Models/lib/LongRow.ac 10.22267 49.61050 294.64 99.92
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.22269 49.61042 294.99 238.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.22245 49.61146 291.25 189.87
+# END dsf2stg

@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 88.90918 25.76306 -0.99 19.1801
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 88.90903 25.76345 -0.99 24.7032
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 88.90927 25.76350 -0.99 42.5107
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90934 25.76313 -0.99 90
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90935 25.76314 -0.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90936 25.76314 -0.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90937 25.76313 -0.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90936 25.76312 -0.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90935 25.76310 -0.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90934 25.76311 -0.99 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90934 25.76312 -0.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90932 25.76311 -0.99 270
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 88.90922 25.76277 -0.99 300.735
+OBJECT_SHARED Models/Transport/hatchback_red.ac 88.90951 25.76325 -0.99 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 88.90936 25.76353 -0.99 273.769
+OBJECT_SHARED Models/Transport/hatchback_red.ac 88.90935 25.76342 -0.99 45.0002
+OBJECT_SHARED Models/Transport/hatchback_red.ac 88.90942 25.76324 -0.99 45.0002
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 88.90930 25.76313 -0.99 306.027
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 88.90929 25.76315 -0.99 267.274
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 88.90920 25.76310 -0.99 90
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 88.90933 25.76315 -0.99 280.62
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 88.90931 25.76317 -0.99 298.073
+OBJECT_SHARED Models/lib/chariot3curve.ac 88.90908 25.76338 -0.99 2.60253
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 88.90911 25.76343 -0.99 0
+OBJECT_SHARED Models/lib/watertank3x1.ac 88.90918 25.76351 -0.99 14.9313
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 88.90925 25.76284 -0.99 289.547
+# END dsf2stg

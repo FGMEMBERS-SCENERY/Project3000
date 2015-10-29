@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 10.23120 48.96136 497.70 164.91
+OBJECT_SHARED Models/lib/SmHangar.ac 10.23140 48.96129 497.56 255.54
+OBJECT_SHARED Models/lib/SmHangar.ac 10.23126 48.96132 497.48 255.54
+OBJECT_SHARED Models/lib/SmHangar.ac 10.23158 48.96132 497.65 254.97
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.23180 48.96165 499.12 74.97
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.23167 48.96137 498.04 75.28
+OBJECT_SHARED Models/lib/stack_of_cones.ac 10.23146 48.96129 497.61 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.23087 48.96175 498.35 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.23081 48.96164 497.96 315
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.23103 48.96168 498.43 255.32
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.23101 48.96164 498.13 255.32
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.23100 48.96161 498.13 255.32
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23174 48.96155 498.74 76.09
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23105 48.96129 497.31 254.05
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23088 48.96153 497.75 223.15
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23083 48.96150 497.66 227.02
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23086 48.96125 496.84 60.64
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.23100 48.96143 497.53 57.64
+# END dsf2stg

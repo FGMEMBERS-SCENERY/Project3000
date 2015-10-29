@@ -1,0 +1,67 @@
+# osm2city_e000n50_e006n51_3056466
+# do not edit below this line
+# Last Written Tue Jul 28 13:36:13 2015
+#
+OBJECT_STATIC e000n50_e006n51_3056466city0413.xml 6.71092 51.24484 36.76 0
+OBJECT_STATIC lightmap-switch.xml 6.71092 51.24484 36.76 0
+OBJECT_STATIC e000n50_e006n51_3056466city0513.xml 6.73961 51.24484 39.05 0
+# END osm2city_e000n50_e006n51_3056466
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 6.50389 51.22801 36.48 229.84
+OBJECT_SHARED Models/Misc/picnic_table.ac 6.50384 51.22803 36.50 234.25
+OBJECT_SHARED Models/Misc/picnic_table.ac 6.50375 51.22807 36.52 235.49
+OBJECT_SHARED Models/Misc/picnic_table.ac 6.50368 51.22810 36.54 232.37
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 6.50382 51.22783 36.55 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 6.50361 51.22822 36.55 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 6.50258 51.22872 36.79 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 6.50162 51.22936 36.83 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.50268 51.22938 36.65 317.73
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.50356 51.22826 36.55 318.24
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.50320 51.22843 36.66 323.39
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.50152 51.22978 36.72 139.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.50096 51.23009 36.68 141.52
+OBJECT_SHARED Models/lib/cars7.ac 6.50309 51.22754 36.94 143.43
+OBJECT_SHARED Models/lib/cars7.ac 6.50342 51.22738 36.80 321.53
+OBJECT_SHARED Models/lib/office32x25n.ac 6.50299 51.22798 36.79 50.95
+OBJECT_SHARED Models/lib/office32x25.ac 6.50257 51.22842 36.84 51.83
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 6.50209 51.22844 36.99 320.87
+OBJECT_SHARED Models/lib/LongRow.ac 6.50024 51.22991 36.84 320.37
+OBJECT_SHARED Models/lib/LongRow.ac 6.50072 51.22966 36.86 320.37
+OBJECT_SHARED Models/lib/MedHangar.ac 6.50357 51.23315 38.52 19.47
+OBJECT_SHARED Models/lib/SmHangar.ac 6.50240 51.23453 38.04 48.57
+OBJECT_SHARED Models/lib/SmHangar.ac 6.50209 51.23469 38.14 50.19
+OBJECT_SHARED Models/lib/MedHangar.ac 6.50106 51.23491 37.73 50.47
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50440 51.22801 36.33 -40.18
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50333 51.22824 36.64 230.31
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50300 51.22840 36.72 230.31
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50276 51.22852 36.77 230.31
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50247 51.22866 36.81 230.31
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50106 51.22889 37.11 229.39
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50218 51.22880 36.86 230.31
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50193 51.22868 36.94 260.54
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50156 51.22922 36.91 141.01
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50085 51.22849 37.36 339.31
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50175 51.22864 37.02 181.3
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50359 51.22814 36.57 232.88
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50395 51.22798 36.46 49.4
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.50361 51.22760 36.70 100.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.50702 51.22683 34.75 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.50671 51.22695 34.60 216.87
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.50648 51.22695 34.53 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.50602 51.22695 34.38 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50577 51.22686 34.33 90
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50614 51.22686 34.42 90
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50666 51.22686 34.59 95.19
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50713 51.22688 34.74 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50692 51.22687 34.67 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50648 51.22690 34.53 254.05
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50624 51.22704 34.40 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50565 51.22700 34.41 288.44
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50512 51.22697 35.03 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50277 51.22722 37.19 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50268 51.22719 37.23 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50173 51.22734 37.59 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.50193 51.22732 37.50 0
+# END dsf2stg

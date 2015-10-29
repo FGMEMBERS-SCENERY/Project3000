@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac 15.54346 41.43093 -0.61 113.75
+OBJECT_SHARED Models/lib/FireStationLg.ac 15.54464 41.43240 -0.57 186.45
+OBJECT_SHARED Models/lib/SmHangar.ac 15.54413 41.43199 -0.58 276.58
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 15.54394 41.43383 -0.54 5.76999
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 15.54401 41.43244 -0.57 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 15.54394 41.43333 -0.56 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 15.54369 41.43443 -0.53 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 15.54356 41.43512 -0.52 0
+# END dsf2stg

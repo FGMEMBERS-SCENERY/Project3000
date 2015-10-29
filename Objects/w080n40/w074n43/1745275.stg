@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09662 43.98643 146.39 239.04
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09655 43.98657 146.34 135
+OBJECT_SHARED Models/lib/SmHangar.ac -73.09605 43.98381 144.67 182.01
+OBJECT_SHARED Models/lib/SmHangar.ac -73.09643 43.98715 146.04 184.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09693 43.98738 145.95 227.49
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09655 43.98670 146.27 239.42
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.09607 43.98660 145.99 92.76
+OBJECT_SHARED Models/lib/SmHangar.ac -73.09610 43.98487 145.66 181.5
+OBJECT_SHARED Models/lib/SmHangar.ac -73.09641 43.98692 146.16 184.34
+OBJECT_SHARED Models/lib/SmHangar.ac -73.09626 43.98602 146.22 184.71
+OBJECT_SHARED Models/lib/SmHangar.ac -73.09640 43.98641 146.31 178.32
+OBJECT_SHARED Models/lib/SmHangar.ac -73.09639 43.98662 146.26 178.84
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09689 43.98744 145.95 52.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -73.09632 43.98626 146.23 91.31
+# END dsf2stg

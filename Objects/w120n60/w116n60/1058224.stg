@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25.ac -115.78126 60.83892 -0.35 205.52
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -115.78185 60.83774 -0.38 205.88
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -115.78176 60.83775 -0.37 25.43
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -115.78136 60.83869 -0.36 23.93
+# END dsf2stg

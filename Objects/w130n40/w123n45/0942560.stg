@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -122.95106 45.53796 61.08 130.37
+OBJECT_SHARED Models/lib/HorizTanks2.ac -122.95352 45.54050 60.54 303.9
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.95077 45.53764 61.08 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.95085 45.53238 61.39 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.94784 45.53447 61.04 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.94807 45.53315 61.12 0
+OBJECT_SHARED Models/lib/office32x25.ac -122.94846 45.53309 61.12 89.08
+OBJECT_SHARED Models/lib/office40x25.ac -122.94751 45.53291 61.36 88.81
+OBJECT_SHARED Models/lib/FireStationLg.ac -122.95928 45.54640 59.00 36.36
+OBJECT_SHARED Models/lib/MedHangar.ac -122.95636 45.54297 59.92 179.74
+OBJECT_SHARED Models/lib/MedHangar.ac -122.95630 45.54242 59.97 179.38
+OBJECT_SHARED Models/lib/MedHangar.ac -122.95630 45.54065 60.10 178.81
+OBJECT_SHARED Models/lib/MedHangar.ac -122.95628 45.54135 60.05 179.43
+OBJECT_SHARED Models/lib/LongRow.ac -122.95310 45.53701 60.83 359
+OBJECT_SHARED Models/lib/LongRow.ac -122.95309 45.53733 60.82 359
+OBJECT_SHARED Models/lib/LongRow.ac -122.95140 45.53731 61.08 359
+OBJECT_SHARED Models/lib/LongRow.ac -122.95140 45.53698 61.08 359
+OBJECT_SHARED Models/lib/LongRow.ac -122.95204 45.53638 60.99 359
+OBJECT_SHARED Models/lib/LongRow.ac -122.95176 45.53667 60.98 359
+OBJECT_SHARED Models/lib/LongRow.ac -122.95312 45.53670 60.84 359
+OBJECT_SHARED Models/lib/LongRow.ac -122.95312 45.53639 60.85 359
+OBJECT_SHARED Models/lib/fboModern1.ac -122.94661 45.53330 60.86 270
+OBJECT_SHARED Models/lib/fboModern1.ac -122.94564 45.53321 60.50 270
+OBJECT_SHARED Models/lib/LongRow.ac -122.94107 45.53842 58.75 50
+OBJECT_SHARED Models/lib/LongRow.ac -122.94146 45.53862 58.86 50
+OBJECT_SHARED Models/lib/LongRow.ac -122.94185 45.53884 59.60 50
+OBJECT_SHARED Models/lib/MedHangar.ac -122.93941 45.54029 59.62 320.74
+OBJECT_SHARED Models/lib/MedHangar.ac -122.94061 45.54029 59.82 230.19
+OBJECT_SHARED Models/lib/MedHangar.ac -122.95158 45.53261 61.27 314.09
+OBJECT_SHARED Models/lib/MedHangar.ac -122.94979 45.53332 61.29 269.65
+OBJECT_SHARED Models/lib/MedHangar.ac -122.95486 45.54118 60.29 216.25
+OBJECT_SHARED Models/lib/MedHangar.ac -122.95440 45.54073 60.53 215.96
+OBJECT_SHARED Models/lib/SmHangar.ac -122.95575 45.54044 60.12 268.45
+OBJECT_SHARED Models/lib/MedHangar.ac -122.95281 45.53948 60.77 179.11
+OBJECT_SHARED Models/lib/SmHangar.ac -122.95242 45.53912 60.95 180
+OBJECT_SHARED Models/lib/MedHangar.ac -122.95210 45.53867 60.95 218.16
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.95142 45.53817 61.08 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.94145 45.54063 59.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.94161 45.54028 60.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.94196 45.54046 60.38 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.94165 45.54073 60.48 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.94121 45.54051 59.94 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -122.94665 45.53388 60.83 0
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.94843 45.53379 61.07 0
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.94826 45.53375 61.07 0
+# END dsf2stg

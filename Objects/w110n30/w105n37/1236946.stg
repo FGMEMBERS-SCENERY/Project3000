@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -104.33658 37.26310 -0.80 316.39
+OBJECT_SHARED Models/lib/MedHangar.ac -104.33644 37.26285 -0.79 47.14
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -104.33676 37.26257 -0.80 60.93
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -104.33785 37.26234 -0.81 139.64
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -104.33775 37.26160 -0.80 295.08
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -104.33768 37.26148 -0.80 295.08
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -104.33783 37.26171 -0.80 292.22
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -104.33789 37.26181 -0.80 296.02
+# END dsf2stg

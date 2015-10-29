@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars7.ac -76.24794 36.74482 -0.21 16.07
+OBJECT_SHARED Models/lib/cars7.ac -76.24794 36.74481 -0.21 195.97
+OBJECT_SHARED Models/lib/cars7.ac -76.24822 36.74475 -0.20 195.97
+OBJECT_SHARED Models/lib/cars14.ac -76.24757 36.74518 -0.21 285.29
+OBJECT_SHARED Models/lib/cars14.ac -76.24807 36.74518 -0.19 196.81
+OBJECT_SHARED Models/lib/cars14.ac -76.24765 36.74546 -0.20 105.48
+OBJECT_SHARED Models/lib/cars14.ac -76.24804 36.74515 -0.20 16.57
+OBJECT_SHARED Models/lib/cars14.ac -76.24835 36.74512 -0.18 196.18
+OBJECT_SHARED Models/lib/cars6.ac -76.24699 36.74522 -0.23 286.5
+OBJECT_SHARED Models/lib/cars7.ac -76.24843 36.74573 -0.17 192.75
+OBJECT_SHARED Models/Transport/hatchback_green.ac -76.24823 36.74589 -0.18 284.04
+OBJECT_SHARED Models/lib/cars14.ac -76.24790 36.74623 -0.18 286.06
+OBJECT_SHARED Models/lib/cars14.ac -76.24782 36.74604 -0.19 286.06
+OBJECT_SHARED Models/lib/cars14.ac -76.24777 36.74588 -0.19 286.06
+OBJECT_SHARED Models/lib/cars14.ac -76.24787 36.74625 -0.18 106.37
+OBJECT_SHARED Models/lib/cars14.ac -76.24779 36.74606 -0.19 106.37
+OBJECT_SHARED Models/lib/cars14.ac -76.24774 36.74590 -0.19 106.37
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.24814 36.74715 -0.15 170.02
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.24795 36.74643 -0.17 104.18
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.24740 36.74573 -0.21 199.62
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.24872 36.74667 -0.14 199.65
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.24859 36.74631 -0.15 200.5
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24820 36.74459 -0.20 270
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24822 36.74464 -0.20 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24824 36.74469 -0.20 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24828 36.74478 -0.20 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24830 36.74485 -0.20 270
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24833 36.74491 -0.19 206.56
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24834 36.74493 -0.19 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24836 36.74500 -0.19 225
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24838 36.74504 -0.19 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24840 36.74509 -0.18 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24844 36.74517 -0.18 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -76.24846 36.74524 -0.18 0
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -76.24873 36.74559 -0.16 16.39
+# END dsf2stg

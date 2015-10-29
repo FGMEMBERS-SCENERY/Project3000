@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -52.33128 -31.71627 -0.65 -52.99
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -52.33130 -31.71631 -0.65 125.618
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -52.33128 -31.71633 -0.65 125.257
+# END dsf2stg

@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 14.40268 58.09890 95.02 258.37
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 14.40253 58.09846 95.74 -11.45
+OBJECT_SHARED Models/lib/SmHangar.ac 14.40290 58.09948 94.48 170.04
+OBJECT_SHARED Models/lib/SmHangar.ac 14.40280 58.09912 94.77 169.38
+OBJECT_SHARED Models/lib/SmHangar.ac 14.40331 58.09953 93.69 81.47
+# END dsf2stg

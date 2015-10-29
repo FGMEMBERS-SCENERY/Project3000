@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.37844 52.20001 69.98 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.37963 52.19990 70.25 86.73
+OBJECT_SHARED Models/lib/cars6.ac 8.37485 52.19969 70.11 357.98
+OBJECT_SHARED Models/lib/cars6.ac 8.37659 52.19959 70.25 0
+OBJECT_SHARED Models/lib/SmHangar.ac 8.38026 52.20009 70.28 180.38
+OBJECT_SHARED Models/lib/SmHangar.ac 8.38041 52.20009 70.31 180.38
+OBJECT_SHARED Models/lib/SmHangar.ac 8.38055 52.20009 70.32 180.38
+OBJECT_SHARED Models/lib/MedHangar.ac 8.37942 52.19985 70.28 270
+OBJECT_SHARED Models/lib/LongRow.ac 8.37533 52.19968 70.12 0.07
+OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 8.38140 52.20006 -14.69 250.06
+OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 8.38100 52.20006 -14.67 236.08
+OBJECT_SHARED Models/lib/MedHangar.ac 8.37806 52.19983 70.16 270
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.37532 52.19945 70.26 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.38667 52.20030 70.50 270
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.38694 52.20052 70.43 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.38670 52.20047 70.42 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.38107 52.19992 70.42 24.86
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.38131 52.19992 70.41 314.94
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.38078 52.19993 70.42 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.38166 52.20007 70.31 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.38159 52.19995 70.36 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.37818 52.19950 70.52 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.37848 52.19971 70.31 181.97
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.37868 52.19971 70.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37845 52.19950 70.55 90
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37865 52.19960 70.45 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37856 52.19962 70.44 243.43
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37843 52.19961 70.43 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37829 52.19952 70.53 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37799 52.19952 70.50 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37781 52.19954 70.48 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37658 52.19963 70.25 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37696 52.19976 70.08 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37709 52.19972 70.21 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37704 52.19963 70.30 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.37690 52.19966 70.18 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.37540 52.19977 70.03 266.31
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.38025 52.20004 70.34 94.76
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.38040 52.20014 70.31 -88.15
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.37974 52.19982 70.33 -74.06
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.37836 52.19978 70.17 233.62
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.37516 52.19970 70.12 180
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.37499 52.19970 70.11 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.37473 52.19970 70.11 180
+# END dsf2stg

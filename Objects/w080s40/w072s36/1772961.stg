@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.60305 -35.37882 -0.68 187
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.60297 -35.37852 -0.67 103
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.60413 -35.37972 -0.68 188.3
+OBJECT_SHARED Models/lib/office32x25n.ac -71.61690 -35.38916 -0.52 147
+OBJECT_SHARED Models/lib/office40x25.ac -71.61720 -35.39025 -0.51 330
+OBJECT_SHARED Models/lib/office32x25.ac -71.61404 -35.38679 -0.59 141
+OBJECT_SHARED Models/lib/office32x25n.ac -71.60114 -35.37885 -0.70 142
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -71.60160 -35.37924 -0.70 57
+OBJECT_SHARED Models/lib/cars6.ac -71.60211 -35.37937 -0.70 51
+OBJECT_SHARED Models/lib/cars6.ac -71.60196 -35.37921 -0.70 53
+OBJECT_SHARED Models/lib/cars4.ac -71.60185 -35.37931 -0.70 325
+OBJECT_SHARED Models/lib/cars4.ac -71.60204 -35.37951 -0.70 325
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -71.60223 -35.37975 -0.71 51
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -71.60166 -35.37932 -0.70 -36
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -71.60185 -35.37951 -0.71 -36
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.60325 -35.37871 -0.67 47
+OBJECT_SHARED Models/lib/HorizTanks2.ac -71.60331 -35.37877 -0.67 139.3
+OBJECT_SHARED Models/lib/SmHangar.ac -71.60387 -35.37924 -0.68 139.26
+OBJECT_SHARED Models/lib/SmHangar.ac -71.60347 -35.37885 -0.67 139.55
+# END dsf2stg

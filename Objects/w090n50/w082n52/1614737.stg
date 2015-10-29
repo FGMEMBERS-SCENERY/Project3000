@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66830 52.28416 -0.38 86.21
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66782 52.28418 -0.39 42.93
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66780 52.28416 -0.39 42.93
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66786 52.28420 -0.39 42.93
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66776 52.28415 -0.38 42.93
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66773 52.28412 -0.38 42.93
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66797 52.28429 -0.39 69.31
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66825 52.28417 -0.38 86.21
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66834 52.28415 -0.38 86.21
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66846 52.28393 -0.37 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66869 52.28423 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66842 52.28395 -0.37 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66865 52.28424 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66839 52.28396 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66862 52.28426 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66836 52.28398 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66859 52.28427 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66833 52.28399 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66856 52.28429 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66830 52.28400 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66852 52.28430 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66850 52.28432 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66846 52.28433 -0.38 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66843 52.28435 -0.39 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66839 52.28436 -0.39 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66836 52.28438 -0.39 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66833 52.28439 -0.39 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66829 52.28441 -0.39 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66826 52.28442 -0.39 130
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66872 52.28421 -0.38 130
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -81.66993 52.28409 -0.37 126.49
+OBJECT_SHARED Models/lib/SmHangar.ac -81.66927 52.28382 -0.36 307.78
+# END dsf2stg

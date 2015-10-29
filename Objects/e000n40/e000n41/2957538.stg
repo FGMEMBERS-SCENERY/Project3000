@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 0.65269 41.55004 208.85 171.957
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.65254 41.55012 208.78 160.585
+OBJECT_SHARED Models/Misc/6barrels.ac 0.65225 41.55162 202.53 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.65147 41.54974 208.72 126.136
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.65157 41.54972 208.75 166.39
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.65160 41.54980 208.69 289.756
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.65152 41.54984 208.66 277.275
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.65137 41.54977 208.62 117.408
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.65140 41.54986 208.53 10.3047
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.65127 41.54981 208.59 121.522
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.65131 41.54988 208.50 335.273
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.65117 41.54984 208.55 109.926
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 0.65120 41.54991 208.47 31.2181
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.65230 41.55160 202.62 4.50446
+OBJECT_SHARED Models/lib/office6x12.ac 0.65208 41.55000 208.71 247.854
+OBJECT_SHARED Models/lib/SmHangar.ac 0.65213 41.55018 208.62 158.85
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 0.65203 41.54970 208.84 67.4633
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65173 41.54980 208.73 337.005
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65155 41.55001 208.51 337.005
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65164 41.54985 208.62 157.003
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65160 41.54986 208.60 157.003
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65156 41.54987 208.59 160.002
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65153 41.54989 208.58 160.002
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65150 41.54990 208.56 166
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65174 41.54992 208.66 251.003
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65176 41.54994 208.67 248.004
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65158 41.54999 208.52 346.003
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.65150 41.55001 208.49 332.001
+# END dsf2stg

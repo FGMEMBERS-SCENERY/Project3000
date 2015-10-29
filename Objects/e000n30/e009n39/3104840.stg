@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.06380 39.24848 -0.09 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.06311 39.24887 -0.06 210.13
+OBJECT_SHARED Models/Aircraft/D328_services.xml 9.06143 39.24853 -0.08 222.03
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 9.06064 39.24921 -0.09 133.61
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.06231 39.24993 -0.01 295.02
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.06271 39.24986 -0.01 29.96
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.06253 39.24964 -0.01 303.07
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.06482 39.24691 -0.17 213.18
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.06495 39.24694 -0.17 215.91
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.06372 39.24861 -0.09 122.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.06503 39.24702 -0.17 218.11
+OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 9.06474 39.24679 -0.17 216.12
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 9.06430 39.24760 -0.13 27.9
+OBJECT_SHARED Models/lib/office40x25.ac 9.05350 39.24512 -0.41 146.62
+OBJECT_SHARED Models/lib/office32x25n.ac 9.05279 39.24357 -0.45 236.69
+OBJECT_SHARED Models/lib/office65x50.ac 9.05186 39.24416 -0.46 236.57
+OBJECT_SHARED Models/lib/office112x50.ac 9.05177 39.24424 -0.47 56.74
+OBJECT_SHARED Models/lib/fboModern1.ac 9.06373 39.24800 -0.10 32.07
+OBJECT_SHARED Models/lib/SmHangar.ac 9.06582 39.24669 -0.20 46.93
+OBJECT_SHARED Models/lib/SmHangar.ac 9.06546 39.24697 -0.19 49.07
+OBJECT_SHARED Models/lib/MedHangar.ac 9.06456 39.24763 -0.14 32.36
+OBJECT_SHARED Models/lib/SmHangar.ac 9.06300 39.24911 -0.05 122.55
+OBJECT_SHARED Models/lib/SmHangar.ac 9.06322 39.24922 -0.05 122.55
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 9.06257 39.24987 -0.00 37.43
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.05455 39.24627 -0.35 325.38
+OBJECT_SHARED Models/lib/LongRow.ac 9.05460 39.24511 -0.38 148.94
+OBJECT_SHARED Models/lib/LongRow.ac 9.05360 39.24417 -0.42 59.58
+OBJECT_SHARED Models/lib/LgMaint.ac 9.05429 39.24318 -0.42 238.01
+OBJECT_SHARED Models/lib/RampParking.xml 9.06133 39.24845 -0.09 311.81
+OBJECT_SHARED Models/lib/RampParking.xml 9.06092 39.24879 -0.09 311.93
+OBJECT_SHARED Models/lib/RampParking.xml 9.06053 39.24913 -0.10 313.13
+OBJECT_SHARED Models/lib/RampParking.xml 9.06013 39.24947 -0.10 312.95
+OBJECT_SHARED Models/lib/RampParking.xml 9.05972 39.24981 -0.10 312.31
+# END dsf2stg

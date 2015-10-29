@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -72.26763 48.52451 -0.50 0
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -72.26751 48.52442 -0.50 75.7627
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.26662 48.52401 -0.49 125.363
+OBJECT_SHARED Models/lib/stack_of_cones.ac -72.26691 48.52382 -0.50 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.26695 48.52379 -0.50 217.75
+OBJECT_SHARED Models/lib/container6.ac -72.26786 48.52451 -0.50 37.97
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26659 48.52475 -0.48 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26686 48.52495 -0.48 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26701 48.52511 -0.48 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26705 48.52486 -0.48 0
+OBJECT_SHARED Models/lib/cone.ac -72.26792 48.52452 -0.50 0
+OBJECT_SHARED Models/lib/cone.ac -72.26779 48.52449 -0.50 0
+OBJECT_SHARED Models/lib/cone.ac -72.26785 48.52456 -0.50 0
+OBJECT_SHARED Models/lib/cone.ac -72.26786 48.52446 -0.50 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.26691 48.52371 -0.50 260.54
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.26657 48.52389 -0.49 -1.17001
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.26777 48.52447 -0.50 168.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.26720 48.52474 -0.49 78.11
+OBJECT_SHARED Models/lib/MedHangar.ac -72.26751 48.52458 -0.50 126.1
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.26645 48.52369 -0.50 129.04
+# END dsf2stg

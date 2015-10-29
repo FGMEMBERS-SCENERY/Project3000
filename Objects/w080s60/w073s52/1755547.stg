@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.22526 -51.60044 -0.51 255.46
+OBJECT_SHARED Models/lib/SmHangar.ac -72.22542 -51.60126 -0.53 232.53
+OBJECT_SHARED Models/lib/SmHangar.ac -72.22575 -51.60110 -0.52 218.32
+# END dsf2stg

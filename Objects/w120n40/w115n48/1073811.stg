@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -114.24813 48.31335 -0.07 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.24833 48.31319 -0.07 348.26
+OBJECT_SHARED Models/lib/MedHangar.ac -114.24726 48.31426 -0.13 324.78
+OBJECT_SHARED Models/lib/SmHangar.ac -114.24955 48.30745 -0.13 313.4
+OBJECT_SHARED Models/lib/NoParkStripes.xml -114.24782 48.30859 -0.15 40.65
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -114.24539 48.31608 -0.22 56.42
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -114.24556 48.31437 -0.15 26.9
+OBJECT_SHARED Models/lib/LongRow.ac -114.24657 48.31471 -0.14 325.24
+OBJECT_SHARED Models/lib/LongRow.ac -114.24994 48.30769 -0.12 42.89
+OBJECT_SHARED Models/lib/SmHangar.ac -114.24913 48.30828 -0.14 313.23
+OBJECT_SHARED Models/lib/MedHangar.ac -114.24967 48.30951 -0.08 312.55
+OBJECT_SHARED Models/lib/LongRow.ac -114.24595 48.31372 -0.14 323.53
+OBJECT_SHARED Models/lib/LongRow.ac -114.24690 48.31381 -0.11 324.57
+OBJECT_SHARED Models/lib/MedHangar.ac -114.24642 48.31217 -0.11 56.48
+OBJECT_SHARED Models/lib/MedHangar.ac -114.24795 48.31351 -0.08 323.73
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -114.24779 48.30857 -0.15 221.54
+OBJECT_SHARED Models/lib/LongRow.ac -114.24525 48.31601 -0.22 325.24
+# END dsf2stg

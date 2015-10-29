@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25n.ac -116.41376 36.30129 622.00 285.36
+OBJECT_SHARED Models/lib/cars10.ac -116.41507 36.30084 622.30 14.77
+OBJECT_SHARED Models/Transport/hatchback_red.ac -116.41504 36.30110 622.27 107.88
+OBJECT_SHARED Models/Transport/hatchback_red.ac -116.41512 36.30135 622.25 284.2
+OBJECT_SHARED Models/Transport/hatchback_red.ac -116.41522 36.30164 622.26 106.52
+OBJECT_SHARED Models/Transport/hatchback_red.ac -116.41530 36.30189 622.27 286.46
+OBJECT_SHARED Models/lib/cars10.ac -116.41459 36.30228 622.28 195.72
+OBJECT_SHARED Models/lib/cars10.ac -116.41452 36.30197 622.27 195.72
+OBJECT_SHARED Models/lib/cars4.ac -116.41518 36.30208 622.27 14.58
+OBJECT_SHARED Models/lib/cars4.ac -116.41528 36.30099 622.28 194.5
+OBJECT_SHARED Models/lib/cars7.ac -116.41448 36.30098 622.00 285.36
+# END dsf2stg

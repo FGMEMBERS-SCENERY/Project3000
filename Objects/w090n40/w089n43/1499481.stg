@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -88.69575 43.43059 282.85 343.739
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.69565 43.43084 282.81 347.637
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.69614 43.43063 282.87 0
+OBJECT_SHARED Models/lib/chariot3curve.ac -88.69656 43.42983 282.90 270
+OBJECT_SHARED Models/Airport/cargobox.xml -88.69643 43.42994 282.92 0
+OBJECT_SHARED Models/lib/CargoDolly.ac -88.69636 43.42997 282.92 90
+OBJECT_SHARED Models/lib/CargoDolly.ac -88.69652 43.42936 282.85 90
+# END dsf2stg

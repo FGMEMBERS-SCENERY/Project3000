@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -72.36397 48.77539 -0.39 307.27
+OBJECT_SHARED Models/lib/fboModern1.ac -72.36497 48.77541 -0.37 266.15
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.36351 48.77586 -0.38 214.12
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.36368 48.77578 -0.38 215.91
+OBJECT_SHARED Models/lib/SmHangar.ac -72.36296 48.77589 -0.39 306.77
+OBJECT_SHARED Models/lib/SmHangar.ac -72.36322 48.77576 -0.39 306.41
+OBJECT_SHARED Models/lib/SmHangar.ac -72.36347 48.77564 -0.39 306.67
+OBJECT_SHARED Models/lib/SmHangar.ac -72.36372 48.77551 -0.39 307.05
+OBJECT_SHARED Models/lib/SmHangar.ac -72.36422 48.77527 -0.38 306.54
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.36303 48.77586 -0.39 -53.58
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.36328 48.77573 -0.39 125.94
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.36353 48.77561 -0.39 -53.74
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.36379 48.77548 -0.39 -52.91
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.36404 48.77536 -0.39 -52.42
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.36429 48.77523 -0.38 125.73
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.36485 48.77550 -0.37 277.33
+# END dsf2stg

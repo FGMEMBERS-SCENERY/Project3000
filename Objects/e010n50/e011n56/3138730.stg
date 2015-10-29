@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.55557 56.70065 7.30 193.791
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.55573 56.70006 7.08 349.38
+OBJECT_SHARED Models/lib/SmHangar.ac 11.55529 56.70006 7.22 241.3
+OBJECT_SHARED Models/lib/cone.ac 11.55474 56.70022 7.44 0
+OBJECT_SHARED Models/lib/cone.ac 11.55471 56.70022 7.44 0
+OBJECT_SHARED Models/lib/cone.ac 11.55469 56.70022 7.44 0
+OBJECT_SHARED Models/lib/cone.ac 11.55466 56.70023 7.44 0
+OBJECT_SHARED Models/lib/cone.ac 11.55464 56.70023 7.42 0
+OBJECT_SHARED Models/lib/cone.ac 11.55475 56.70035 7.54 0
+OBJECT_SHARED Models/lib/cone.ac 11.55472 56.70035 7.54 0
+OBJECT_SHARED Models/lib/cone.ac 11.55469 56.70035 7.64 0
+OBJECT_SHARED Models/lib/cone.ac 11.55467 56.70035 7.64 0
+OBJECT_SHARED Models/lib/cone.ac 11.55464 56.70035 7.53 0
+OBJECT_SHARED Models/lib/cone.ac 11.55464 56.70033 7.53 0
+OBJECT_SHARED Models/lib/cone.ac 11.55464 56.70031 7.53 0
+OBJECT_SHARED Models/lib/cone.ac 11.55464 56.70030 7.53 0
+OBJECT_SHARED Models/lib/cone.ac 11.55464 56.70028 7.53 0
+OBJECT_SHARED Models/lib/cone.ac 11.55464 56.70027 7.53 0
+OBJECT_SHARED Models/lib/cone.ac 11.55464 56.70025 7.42 0
+OBJECT_SHARED Models/lib/cone.ac 11.55464 56.70023 7.42 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 11.55547 56.70000 7.13 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.55511 56.70010 7.28 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.55506 56.70009 7.28 237.095
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.55471 56.70033 7.54 85.7335
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.55471 56.70030 7.54 86.9541
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.55470 56.70027 7.54 85.6013
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.55470 56.70024 7.44 86.5663
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55514 56.70078 7.87 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55498 56.70075 7.92 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55484 56.70071 7.96 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55480 56.70044 7.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55475 56.70053 7.75 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55456 56.70054 7.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55480 56.70063 7.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55465 56.70061 7.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55457 56.70046 7.73 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55466 56.70049 7.75 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.55529 56.70080 7.54 0
+# END dsf2stg

@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -97.41122 31.14923 -0.84 152.74
+OBJECT_SHARED Models/lib/LongRow.ac -97.41290 31.14552 -0.88 152.7
+OBJECT_SHARED Models/lib/LongRow.ac -97.41264 31.14594 -0.87 152.7
+OBJECT_SHARED Models/lib/LongRow.ac -97.41237 31.14636 -0.87 152.7
+OBJECT_SHARED Models/lib/LongRow.ac -97.41215 31.14676 -0.87 152.7
+OBJECT_SHARED Models/lib/LongRow.ac -97.41196 31.14706 -0.87 152.7
+OBJECT_SHARED Models/lib/LgMaint.ac -97.41479 31.15302 -0.73 242.7
+OBJECT_SHARED Models/lib/LgMaint.ac -97.41629 31.15370 -0.69 241.31
+OBJECT_SHARED Models/lib/fboModern1.ac -97.41342 31.14925 -0.82 331.53
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.41117 31.14979 -0.83 54.82
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.41240 31.15079 -0.80 152.84
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.41255 31.15086 -0.80 153.64
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -97.41532 31.14920 -0.80 0
+# END dsf2stg

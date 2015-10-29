@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -106.04778 36.02642 -0.57 187.426
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -106.04765 36.02663 -0.56 190.389
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -106.04654 36.02564 -0.60 280.39
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -106.04651 36.02551 -0.60 280.39
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -106.04643 36.02515 -0.63 280.39
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -106.04710 36.02602 -0.59 8.34479
+# END dsf2stg

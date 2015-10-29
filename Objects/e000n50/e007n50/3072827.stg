@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.89508 50.92750 404.22 203.2
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.89514 50.92751 404.50 202.3
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.89519 50.92752 404.74 202.11
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.89308 50.92804 399.93 319.64
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.89541 50.92761 404.82 19.54
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89552 50.92741 407.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89183 50.92810 402.01 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89327 50.92727 403.60 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89387 50.92709 405.39 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.89393 50.92728 404.26 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.89346 50.92755 401.63 133.03
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.89505 50.92743 405.02 23.2
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.89351 50.92747 402.48 49.9
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.89278 50.92784 400.86 307.3
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.89174 50.92821 401.98 315
+OBJECT_SHARED Models/lib/MedHangar.ac 7.89471 50.92740 403.66 293.55
+OBJECT_SHARED Models/lib/MedHangar.ac 7.89256 50.92800 400.88 224.22
+OBJECT_SHARED Models/lib/MedHangar.ac 7.89326 50.92761 401.58 223.97
+OBJECT_SHARED Models/lib/SmHangar.ac 7.89403 50.92728 404.29 291.98
+OBJECT_SHARED Models/lib/SmHangar.ac 7.89514 50.92747 404.50 292.99
+# END dsf2stg

@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25n.ac -70.28725 44.04900 -0.70 336.5
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.28665 44.04943 -0.70 245.98
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.28678 44.04894 -0.71 154
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.28727 44.04871 -0.70 65.87
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.28677 44.05007 -0.70 156.12
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.28647 44.05036 -0.70 156.11
+OBJECT_SHARED Models/lib/MedHangar.ac -70.28700 44.04970 -0.70 155.66
+OBJECT_SHARED Models/lib/LongRow.ac -70.28929 44.04644 -0.69 247.96
+OBJECT_SHARED Models/lib/SmHangar.ac -70.27935 44.04736 -0.73 350.47
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.28679 44.04770 -0.71 66.76
+OBJECT_SHARED Models/lib/MedHangar.ac -70.28747 44.04808 -0.71 156.04
+OBJECT_SHARED Models/lib/MedHangar.ac -70.28940 44.04704 -0.69 159.62
+OBJECT_SHARED Models/lib/LongRow.ac -70.28891 44.04575 -0.70 248.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.28755 44.04708 -0.71 243.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.28740 44.04751 -0.71 68.44
+# END dsf2stg

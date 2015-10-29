@@ -1,0 +1,46 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 20.50477 38.11911 -0.31 302.83
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 20.50484 38.11910 -0.31 305.4
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 20.50459 38.11921 -0.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 20.50446 38.11936 -0.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 20.50433 38.11949 -0.29 0
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 20.50395 38.11999 -0.27 307.22
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 20.50392 38.11998 -0.26 303.98
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 20.50388 38.11996 -0.26 316.04
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 20.50374 38.11989 -0.26 307.96
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 20.50378 38.11990 -0.26 307.4
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 20.50381 38.11992 -0.26 300.14
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 20.50385 38.11994 -0.26 303.82
+OBJECT_SHARED Models/lib/chariot2.ac 20.50384 38.11991 -0.26 33.66
+OBJECT_SHARED Models/lib/chariot2.ac 20.50385 38.11989 -0.26 38.05
+OBJECT_SHARED Models/lib/chariot3curve.ac 20.50394 38.11990 -0.27 342.91
+OBJECT_SHARED Models/Airport/cargoip.xml 20.50389 38.11970 -0.27 300.14
+OBJECT_SHARED Models/Airport/cargoip.xml 20.50387 38.11972 -0.27 300.47
+OBJECT_SHARED Models/Airport/cargoip.xml 20.50391 38.11972 -0.27 307.82
+OBJECT_SHARED Models/Airport/cargoip.xml 20.50390 38.11973 -0.27 308.42
+OBJECT_SHARED Models/Airport/cargobox.xml 20.50394 38.11972 -0.27 31.61
+OBJECT_SHARED Models/Airport/cargobox.xml 20.50392 38.11976 -0.27 37.48
+OBJECT_SHARED Models/Airport/cargobox.xml 20.50393 38.11974 -0.27 34.59
+OBJECT_SHARED Models/lib/stack_of_cones.ac 20.50368 38.11984 -0.26 196.7
+OBJECT_SHARED Models/lib/stack_of_cones.ac 20.50369 38.11983 -0.26 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 20.50369 38.11985 -0.26 282.53
+OBJECT_SHARED Models/lib/stack_of_cones.ac 20.50367 38.11985 -0.26 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 20.50452 38.12008 -0.28 123.69
+OBJECT_SHARED Models/lib/office65x50.ac 20.50509 38.11974 -0.31 214.75
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 20.50561 38.11859 -0.34 214.73
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 20.50382 38.11978 -0.27 226.71
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 20.50385 38.11977 -0.27 221.46
+OBJECT_SHARED Models/lib/loader.ac 20.50416 38.11971 -0.28 127.37
+OBJECT_SHARED Models/lib/loader.ac 20.50412 38.11970 -0.28 122.1
+OBJECT_SHARED Models/lib/belt_loader.ac 20.50402 38.11960 -0.28 -53.92
+OBJECT_SHARED Models/lib/belt_loader.ac 20.50405 38.11961 -0.28 -54.39
+OBJECT_SHARED Models/lib/belt_loader.ac 20.50408 38.11963 -0.28 -58.74
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 20.50391 38.11973 -0.27 170
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 20.50484 38.11865 -0.32 165.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 20.50434 38.11922 -0.29 166.09
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 20.50296 38.11959 -0.24 213.21
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 20.50275 38.11947 -0.23 215.22
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 20.50531 38.11836 -0.34 33.98
+# END dsf2stg

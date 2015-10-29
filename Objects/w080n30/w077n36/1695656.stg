@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.90077 36.69630 -0.78 187.47
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.90058 36.69605 -0.78 14.75
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.90109 36.69500 -0.77 283.75
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.90042 36.69471 -0.76 94.29
+OBJECT_SHARED Models/lib/office16x4n.ac -76.89973 36.69496 -0.76 225
+OBJECT_SHARED Models/lib/SmHangar.ac -76.90050 36.69620 -0.78 8.47
+OBJECT_SHARED Models/lib/MedHangar.ac -76.90042 36.69566 -0.77 8.87
+OBJECT_SHARED Models/lib/MedHangar.ac -76.89998 36.69378 -0.74 8.87
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.90005 36.69878 -0.81 345.58
+OBJECT_SHARED Models/lib/cone.ac -76.90002 36.69876 -0.80 0
+OBJECT_SHARED Models/lib/cone.ac -76.89999 36.69878 -0.80 0
+OBJECT_SHARED Models/lib/cone.ac -76.89996 36.69880 -0.80 0
+OBJECT_SHARED Models/lib/cone.ac -76.89994 36.69881 -0.80 0
+OBJECT_SHARED Models/lib/cone.ac -76.89992 36.69883 -0.80 0
+OBJECT_SHARED Models/lib/cone.ac -76.90121 36.69322 -0.74 0
+OBJECT_SHARED Models/lib/cone.ac -76.90118 36.69321 -0.74 0
+OBJECT_SHARED Models/lib/cone.ac -76.90115 36.69319 -0.74 0
+OBJECT_SHARED Models/lib/cone.ac -76.90112 36.69317 -0.74 0
+OBJECT_SHARED Models/lib/cone.ac -76.90110 36.69316 -0.74 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.90112 36.69314 -0.73 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.90113 36.69312 -0.73 0
+# END dsf2stg

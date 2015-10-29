@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -114.71171 33.61454 118.96 90
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.71405 33.61391 119.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.71405 33.61389 119.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.71453 33.61389 119.00 89.4271
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.71460 33.61389 119.00 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -114.71429 33.61374 119.00 0
+OBJECT_SHARED Models/lib/cars6.ac -114.71412 33.61385 119.00 0.239731
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -114.71361 33.61410 119.00 34.6947
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -114.71297 33.61415 118.94 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -114.71247 33.61412 118.91 358.299
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -114.71228 33.61413 118.91 1.14572
+OBJECT_SHARED Models/lib/cars6.ac -114.71465 33.61385 119.00 0.400665
+OBJECT_SHARED Models/lib/LongRow.ac -114.71303 33.61384 118.90 0
+# END dsf2stg

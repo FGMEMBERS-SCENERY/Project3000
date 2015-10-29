@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -76.44002 42.91400 -0.26 71.64
+OBJECT_SHARED Models/lib/cone.ac -76.44418 42.91373 -0.37 0
+OBJECT_SHARED Models/lib/cone.ac -76.44415 42.91377 -0.37 0
+OBJECT_SHARED Models/lib/cone.ac -76.44412 42.91382 -0.37 0
+OBJECT_SHARED Models/lib/cone.ac -76.43234 42.91286 -0.31 0
+OBJECT_SHARED Models/lib/cone.ac -76.43233 42.91295 -0.31 0
+OBJECT_SHARED Models/lib/cone.ac -76.43232 42.91303 -0.32 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.44231 42.91427 -0.33 74.01
+OBJECT_SHARED Models/lib/LongRow.ac -76.43707 42.91291 -0.17 265.33
+OBJECT_SHARED Models/lib/MedHangar.ac -76.44125 42.91411 -0.29 70.8
+# END dsf2stg

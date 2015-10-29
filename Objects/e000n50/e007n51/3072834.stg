@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.60226 51.09987 470.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.60536 51.10055 470.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.60586 51.10064 470.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.60693 51.10084 471.07 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.60745 51.10096 471.17 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60761 51.10164 472.07 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60784 51.10101 471.38 309.81
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60761 51.10098 471.26 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60723 51.10096 471.04 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60704 51.10086 471.03 299.75
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60671 51.10082 471.00 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60636 51.10076 470.86 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60596 51.10069 470.77 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60575 51.10063 470.75 288.44
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60555 51.10058 470.72 281.31
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60519 51.10048 470.64 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60497 51.10044 470.59 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60471 51.10036 470.54 288.44
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60452 51.10030 470.50 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60445 51.09987 470.37 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60421 51.09982 470.27 180
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.60318 51.09980 470.09 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.60293 51.09999 470.24 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.60331 51.09985 470.17 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.60509 51.10052 470.62 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.60484 51.10045 470.57 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.60435 51.10028 470.49 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.60335 51.10011 470.30 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.60518 51.10057 470.64 16.5
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.60422 51.10030 470.48 21.45
+OBJECT_SHARED Models/lib/cars4.ac 7.60321 51.10008 470.30 208.99
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.60330 51.10028 470.44 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.60347 51.10013 470.29 0
+OBJECT_SHARED Models/lib/office16x4n.ac 7.60266 51.09985 470.06 289.94
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.60552 51.10075 470.69 15.59
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.60489 51.10057 470.60 18.92
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.60446 51.10037 470.52 205.2
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.60382 51.10027 470.42 208.28
+# END dsf2stg

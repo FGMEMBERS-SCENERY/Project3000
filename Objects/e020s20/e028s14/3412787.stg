@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac 28.42737 -13.14236 -0.43 310.24
+OBJECT_SHARED Models/lib/coal_pile.ac 28.42756 -13.14232 -0.43 90
+OBJECT_SHARED Models/Misc/6barrels.ac 28.42738 -13.14235 -0.43 70.71
+OBJECT_SHARED Models/lib/container6.ac 28.42743 -13.14234 -0.43 302.01
+OBJECT_SHARED Models/Airport/cargoip.xml 28.42741 -13.14231 -0.43 143.88
+OBJECT_SHARED Models/Airport/cargobox.xml 28.42738 -13.14230 -0.43 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 28.42755 -13.14236 -0.43 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 28.42716 -13.14247 -0.43 0
+# END dsf2stg

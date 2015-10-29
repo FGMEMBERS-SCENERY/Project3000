@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.53049 64.22996 -0.75 260.61
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.53050 64.22993 -0.75 256.52
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.53015 64.22983 -0.74 347.33
+OBJECT_SHARED Models/Airport/cargoip.xml -76.53058 64.23015 -0.75 148.72
+OBJECT_SHARED Models/Airport/cargobox.xml -76.53053 64.23015 -0.75 56.23
+OBJECT_SHARED Models/Airport/cargobox.xml -76.53057 64.23016 -0.75 146.26
+OBJECT_SHARED Models/lib/CargoDolly.ac -76.53032 64.22998 -0.75 333.43
+OBJECT_SHARED Models/lib/container6.ac -76.53081 64.23025 -0.76 324.77
+OBJECT_SHARED Models/lib/container6.ac -76.52680 64.22984 -0.70 295.74
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.53053 64.22990 -0.75 253.23
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.53009 64.22983 -0.74 343.24
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.53002 64.22981 -0.74 339.95
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -76.53000 64.23002 -0.74 341.57
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.52919 64.22972 -0.73 180
+OBJECT_SHARED Models/lib/chariot1.ac -76.53066 64.23021 -0.75 221.51
+OBJECT_SHARED Models/lib/container6.ac -76.53067 64.23009 -0.75 321.66
+OBJECT_SHARED Models/lib/container6.ac -76.53086 64.23016 -0.76 47.57
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.53109 64.23005 -0.76 220.18
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.52923 64.22968 -0.73 242.02
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.53004 64.22988 -0.74 253.32
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.53025 64.22966 -0.74 245.16
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.52832 64.23005 -0.72 345.49
+OBJECT_SHARED Models/lib/office3x10.ac -76.53093 64.23012 -0.75 227.2
+# END dsf2stg

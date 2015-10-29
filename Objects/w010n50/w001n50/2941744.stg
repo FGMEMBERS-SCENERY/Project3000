@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -0.75587 50.85893 28.31 90.84
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -0.75630 50.85934 28.68 94.61
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -0.75587 50.85867 28.21 93.96
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.75493 50.85803 27.71 97.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.75482 50.85750 27.56 97.94
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.75351 50.86117 29.14 89.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.75333 50.86127 29.17 89.6
+OBJECT_SHARED Models/lib/office4x14.ac -0.75338 50.85963 27.95 183.21
+OBJECT_SHARED Models/lib/office4x14.ac -0.75447 50.85799 27.61 188.02
+OBJECT_SHARED Models/lib/MedHangar.ac -0.75516 50.85871 28.02 9.31
+OBJECT_SHARED Models/lib/MedHangar.ac -0.75372 50.86059 28.73 2.96
+OBJECT_SHARED Models/lib/LongRow.ac -0.75502 50.86072 29.14 2.46
+OBJECT_SHARED Models/lib/SmHangar.ac -0.75509 50.86018 28.80 3.17
+OBJECT_SHARED Models/lib/MedHangar.ac -0.75534 50.85979 28.64 2.21
+OBJECT_SHARED Models/lib/MedHangar.ac -0.75476 50.86046 28.91 2.75
+OBJECT_SHARED Models/lib/MedHangar.ac -0.75513 50.86045 28.95 2.75
+OBJECT_SHARED Models/lib/MedHangar.ac -0.75532 50.85940 28.41 1.03
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -0.75288 50.85832 27.19 187
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -0.75147 50.85501 25.30 68.68
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -0.75597 50.86005 28.98 282.88
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -0.75654 50.85980 29.05 271.75
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -0.75640 50.85997 29.14 103.71
+OBJECT_SHARED Models/lib/canopy18x8.ac -0.75364 50.85810 27.37 97.8
+OBJECT_SHARED Models/lib/canopy18x8.ac -0.75339 50.85828 27.34 186.48
+OBJECT_SHARED Models/lib/canopy18x8.ac -0.75371 50.85841 27.48 275.61
+OBJECT_SHARED Models/lib/canopy18x8.ac -0.75373 50.85855 27.52 96.49
+OBJECT_SHARED Models/lib/canopy18x8.ac -0.75347 50.85873 27.54 187.05
+OBJECT_SHARED Models/lib/canopy18x8.ac -0.75380 50.85886 27.73 276.9
+OBJECT_SHARED Models/lib/canopy18x8.ac -0.75384 50.85900 27.79 97.35
+OBJECT_SHARED Models/lib/canopy18x8.ac -0.75356 50.85918 27.81 187.53
+OBJECT_SHARED Models/lib/canopy18x8.ac -0.75390 50.85931 27.96 276.77
+# END dsf2stg

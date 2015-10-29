@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -104.01016 30.36748 -0.55 132.69
+OBJECT_SHARED Models/lib/SmHangar.ac -104.00995 30.36813 -0.54 47.89
+OBJECT_SHARED Models/lib/SmHangar.ac -104.00970 30.36791 -0.55 46.36
+OBJECT_SHARED Models/lib/SmHangar.ac -104.01007 30.36732 -0.56 340.46
+OBJECT_SHARED Models/lib/SmHangar.ac -104.01017 30.36710 -0.56 340.03
+OBJECT_SHARED Models/lib/SmHangar.ac -104.01217 30.36874 -0.59 134.19
+OBJECT_SHARED Models/lib/MedHangar.ac -104.01164 30.36914 -0.58 133.56
+OBJECT_SHARED Models/lib/SmHangar.ac -104.01131 30.36830 -0.57 45
+OBJECT_SHARED Models/lib/SmHangar.ac -104.01148 30.36845 -0.57 45.25
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -104.01024 30.36766 -0.55 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.00911 30.36744 -0.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.00925 30.36750 -0.52 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.00938 30.36757 -0.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.00951 30.36761 -0.55 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -104.00958 30.36751 -0.55 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -104.00972 30.36758 -0.55 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -104.01029 30.36762 -0.55 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -104.01033 30.36759 -0.55 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -104.01108 30.36810 -0.57 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -104.01098 30.36802 -0.57 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -104.01085 30.36793 -0.57 0
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -104.01053 30.36731 -0.59 226.47
+OBJECT_SHARED Models/lib/HorizTanks2.ac -104.01066 30.36730 -0.59 317.3
+OBJECT_SHARED Models/lib/SmHangar.ac -104.01191 30.36844 -0.59 132.89
+# END dsf2stg

@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 27.67526 64.28185 -0.71 283.24
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 27.67671 64.28102 -0.70 73.6
+OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 27.67496 64.28230 -0.72 46.57
+OBJECT_SHARED Models/Misc/picnic_table.ac 27.67484 64.28187 -0.70 8.75
+OBJECT_SHARED Models/lib/office32x25.ac 27.67508 64.28112 -0.69 9.46
+OBJECT_SHARED Models/lib/FireStationLg.ac 27.67506 64.28000 -0.73 98.98
+OBJECT_SHARED Models/lib/chariot4.ac 27.67557 64.28090 -0.70 101.31
+OBJECT_SHARED Models/lib/cars14.ac 27.67412 64.28160 -0.69 278.76
+OBJECT_SHARED Models/lib/cars7.ac 27.67469 64.28182 -0.70 10.22
+OBJECT_SHARED Models/lib/cars14.ac 27.67320 64.28154 -0.69 278.77
+OBJECT_SHARED Models/lib/cars14.ac 27.67407 64.28195 -0.70 99.46
+OBJECT_SHARED Models/lib/cars14.ac 27.67315 64.28188 -0.70 99.46
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 27.67422 64.28181 -0.70 98.97
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 27.67338 64.28175 -0.70 99.04
+OBJECT_SHARED Models/lib/MedHangar.ac 27.67742 64.27998 -0.73 280.13
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 27.67697 64.28071 -0.71 103.39
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 27.67659 64.28067 -0.71 279.46
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 27.67628 64.28065 -0.71 189.62
+OBJECT_SHARED Models/lib/HorizTanks2.ac 27.67474 64.28010 -0.72 96.34
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 27.67547 64.28095 -0.70 190.3
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 27.67531 64.28134 -0.69 190.3
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 27.67513 64.28173 -0.70 190.3
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 27.67494 64.28218 -0.71 190.3
+# END dsf2stg

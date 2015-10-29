@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 16.95674 60.59638 60.09 88.15
+OBJECT_SHARED Models/lib/FireStationLg.ac 16.95804 60.59574 60.02 178.28
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 16.95623 60.59472 60.12 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac 16.95673 60.59494 60.06 90
+OBJECT_SHARED Models/lib/office32x25n.ac 16.95856 60.59437 60.01 178.87
+OBJECT_SHARED Models/lib/MedHangar.ac 16.95791 60.59540 60.03 358.98
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 16.95793 60.59482 60.04 269.39
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 16.95817 60.59719 60.00 118.94
+OBJECT_SHARED Models/lib/cars6.ac 16.95655 60.59736 60.22 179.64
+OBJECT_SHARED Models/lib/SmHangar.ac 16.95701 60.59728 60.06 90
+OBJECT_SHARED Models/lib/SmHangar.ac 16.95841 60.59726 60.00 90
+OBJECT_SHARED Models/lib/SmHangar.ac 16.95799 60.59726 60.00 90
+OBJECT_SHARED Models/lib/SmHangar.ac 16.95757 60.59728 60.00 90
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.95542 60.59748 60.43 3.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.95534 60.59748 60.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 16.95542 60.59755 60.43 0
+# END dsf2stg

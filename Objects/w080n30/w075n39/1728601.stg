@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.57099 39.45202 17.87 350.57
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.57155 39.45211 17.91 78.04
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.57196 39.45189 17.95 78.04
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.57242 39.45162 17.94 78.04
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.57271 39.45136 17.93 78.04
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.57311 39.45116 17.92 78.04
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.57345 39.45099 17.90 78.04
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.57350 39.45078 17.86 166.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.57375 39.45037 17.77 60.92
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.57417 39.45025 17.75 131.99
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -74.58777 39.45551 19.62 114.84
+OBJECT_SHARED Models/lib/office32x25n.ac -74.58526 39.45638 19.59 158.69
+OBJECT_SHARED Models/lib/MedHangar.ac -74.58821 39.45797 20.22 175.42
+OBJECT_SHARED Models/lib/FireStationLg.ac -74.57711 39.44760 16.61 107.91
+OBJECT_SHARED Models/lib/office32x25.ac -74.58040 39.44508 14.76 15.95
+OBJECT_SHARED Models/lib/office40x25.ac -74.58099 39.44572 15.22 284.98
+OBJECT_SHARED Models/lib/SmHangar.ac -74.58182 39.44697 16.08 196.76
+OBJECT_SHARED Models/lib/office65x50.ac -74.58028 39.44583 15.31 18.25
+OBJECT_SHARED Models/lib/office32x25n.ac -74.57910 39.44613 15.57 198.62
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.57100 39.44570 15.32 205.13
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.57105 39.44578 15.40 205.13
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.57142 39.44615 15.71 103.43
+OBJECT_SHARED Models/lib/MedHangar.ac -74.57330 39.44770 16.70 17.26
+OBJECT_SHARED Models/lib/MedHangar.ac -74.57350 39.44824 16.96 17.26
+OBJECT_SHARED Models/lib/office40x25.ac -74.56465 39.44870 16.60 63.89
+OBJECT_SHARED Models/lib/office32x25.ac -74.56503 39.44879 16.68 151.76
+OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -74.56480 39.44696 -69.22 0
+OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -74.56467 39.44716 -69.10 0
+OBJECT_SHARED Models/lib/FireStationLg.ac -74.56978 39.44966 17.40 62.56
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.57239 39.45178 17.96 229.65
+OBJECT_SHARED Models/lib/jetway_e16m.ac -74.57346 39.45092 17.88 143.65
+OBJECT_SHARED Models/lib/jetway_e10m.ac -74.57350 39.45084 17.86 214.8
+OBJECT_SHARED Models/lib/jetway_e16m.ac -74.57360 39.45079 17.86 157.12
+OBJECT_SHARED Models/lib/jetway_e10m.ac -74.57333 39.45102 17.89 90
+OBJECT_SHARED Models/lib/jetway_e16m.ac -74.57299 39.45120 17.91 90
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.57378 39.45084 17.87 267.7
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.57361 39.45101 17.90 256.93
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.57333 39.45110 17.91 202
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.57299 39.45135 17.95 202
+OBJECT_SHARED Models/lib/jetway_e14m.ac -74.57231 39.45167 17.95 120.03
+# END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac 16.67906 43.28771 530.27 55.23
+OBJECT_SHARED Models/lib/SmHangar.ac 16.68041 43.28961 526.87 56.57
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 16.67913 43.28920 528.44 233.558
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 16.68074 43.28903 525.20 144.57
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 16.68102 43.28890 525.78 147.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 16.68089 43.28896 525.30 140.26
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 16.67925 43.28780 529.87 324.38
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 16.67899 43.28807 528.39 238.78
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 16.67910 43.28826 527.75 49.05
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 16.67907 43.28822 527.98 54.62
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 16.67965 43.28915 527.71 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 16.67893 43.28842 528.53 0
+# END dsf2stg

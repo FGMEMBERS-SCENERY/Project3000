@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.76331 40.19643 93.00 180
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75468 40.19644 94.92 102
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75474 40.19618 94.79 102
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75480 40.19593 94.56 102
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75433 40.19504 93.97 147.24
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75452 40.19525 94.08 147.24
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75472 40.19546 94.27 147.24
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75464 40.19489 93.83 327.24
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75484 40.19511 93.94 327.24
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75503 40.19532 94.07 327.24
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75558 40.19554 94.11 12
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75592 40.19558 94.13 12
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75626 40.19563 94.06 12
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.77057 40.19911 95.45 63.21
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.77004 40.19891 95.11 64.45
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.76737 40.19787 94.61 62.93
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.76832 40.19824 94.88 62.09
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.76184 40.19686 94.10 -12.96
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.76093 40.19670 93.95 166.98
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.75874 40.19632 94.09 168.11
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.75965 40.19648 94.04 -12.99
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -76.75839 40.19522 93.18 0
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -76.75782 40.19515 93.27 270
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -76.75897 40.19533 93.10 0
+OBJECT_SHARED Models/Aircraft/D328_services.xml -76.75479 40.19468 93.64 34.56
+OBJECT_SHARED Models/Aircraft/D328_services.xml -76.75951 40.19545 93.03 90
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -76.76052 40.19560 92.92 90
+OBJECT_SHARED Models/Aircraft/ATR42.xml -76.75583 40.19532 93.93 259.09
+OBJECT_SHARED Models/Aircraft/ATR42.xml -76.75446 40.19599 94.69 -10.51
+OBJECT_SHARED Models/Aircraft/D328_services.xml -76.76152 40.19573 92.71 90
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.75782 40.19530 93.45 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.75838 40.19538 93.36 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.75897 40.19549 93.28 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.75952 40.19559 93.21 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.76005 40.19567 93.15 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.76053 40.19575 93.11 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.76104 40.19584 92.99 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.76152 40.19592 92.92 180
+OBJECT_SHARED Models/lib/LongRow.ac -76.76177 40.19685 93.84 347.14
+OBJECT_SHARED Models/lib/LongRow.ac -76.77158 40.19959 95.72 332.85
+OBJECT_SHARED Models/lib/LongRow.ac -76.75959 40.19647 94.06 347.14
+OBJECT_SHARED Models/lib/LongRow.ac -76.76946 40.19876 94.19 332.85
+OBJECT_SHARED Models/lib/LgMaint.ac -76.76785 40.19805 94.70 62.64
+OBJECT_SHARED Models/lib/fboModern1.ac -76.77027 40.19889 95.31 63.44
+# END dsf2stg

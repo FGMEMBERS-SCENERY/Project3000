@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.44007 23.03665 59.16 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43942 23.03708 59.48 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43899 23.03734 59.72 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43857 23.03761 59.89 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43805 23.03793 60.16 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43762 23.03820 60.42 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43555 23.03962 61.31 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43591 23.03939 61.11 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43620 23.03921 60.99 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43644 23.03906 60.88 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43680 23.03884 60.73 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43742 23.03856 60.33 123.69
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.43714 23.03872 60.53 123.69
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -81.43705 23.03849 60.66 124.16
+OBJECT_SHARED Models/lib/office32x25.ac -81.43982 23.03736 58.95 304.23
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -81.43793 23.03876 59.74 213.18
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -81.43604 23.03886 61.36 211.26
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -81.43500 23.03946 61.84 211.26
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -81.43550 23.03915 61.60 211.26
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -81.43706 23.03823 60.85 211.26
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -81.43654 23.03854 61.18 211.26
+OBJECT_SHARED Models/lib/belt_loader.ac -81.43605 23.03901 61.29 -56.98
+OBJECT_SHARED Models/lib/belt_loader.ac -81.43658 23.03876 60.90 -56.98
+OBJECT_SHARED Models/lib/caisses_group.ac -81.43642 23.03893 61.01 120.47
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -81.43663 23.03881 60.90 123.69
+# END dsf2stg

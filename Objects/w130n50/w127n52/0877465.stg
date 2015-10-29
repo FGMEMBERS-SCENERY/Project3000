@@ -1,0 +1,54 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58668 52.38758 -0.56 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58656 52.38737 -0.56 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -126.58775 52.38768 -0.57 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -126.58695 52.38777 -0.56 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -126.58674 52.38784 -0.56 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -126.58658 52.38853 -0.57 0
+OBJECT_SHARED Models/lib/office16x4n.ac -126.58659 52.38837 -0.57 199.04
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -126.58647 52.38852 -0.56 0
+OBJECT_SHARED Models/lib/cars10.ac -126.58598 52.38726 -0.56 198.66
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -126.58623 52.38746 -0.56 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -126.58629 52.38737 -0.56 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -126.58617 52.38739 -0.56 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -126.58635 52.38745 -0.56 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58875 52.38748 -0.57 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58863 52.38750 -0.57 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58855 52.38754 -0.57 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58795 52.38765 -0.57 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58786 52.38745 -0.57 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58789 52.38753 -0.57 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58774 52.38770 -0.57 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58712 52.38783 -0.56 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58680 52.38767 -0.56 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58658 52.38771 -0.56 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58695 52.38776 -0.56 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58669 52.38785 -0.56 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58688 52.38781 -0.56 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58636 52.38766 -0.56 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58662 52.38760 -0.56 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58597 52.38767 -0.56 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58589 52.38753 -0.56 270
+OBJECT_SHARED Models/lib/cars10.ac -126.58592 52.38735 -0.56 108.62
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -126.58738 52.38797 -0.56 198.8
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -126.58663 52.38807 -0.57 111.22
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -126.58850 52.38778 -0.57 287.57
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -126.58657 52.38793 -0.57 98.75
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -126.58788 52.38750 -0.57 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -126.58791 52.38754 -0.57 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -126.58792 52.38759 -0.57 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -126.58706 52.38768 -0.56 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -126.58708 52.38773 -0.56 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58585 52.38742 -0.56 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58596 52.38728 -0.56 111.56
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -126.58645 52.38718 -0.56 270
+OBJECT_SHARED Models/lib/stack_of_cones.ac -126.58660 52.38856 -0.57 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -126.58646 52.38788 -0.56 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -126.58678 52.38783 -0.56 286.19
+OBJECT_SHARED Models/Misc/picnic_table.ac -126.58685 52.38781 -0.56 19.65
+OBJECT_SHARED Models/lib/MedHangar.ac -126.58749 52.38792 -0.57 288.48
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -126.58709 52.38780 -0.56 291.8
+OBJECT_SHARED Models/lib/MedHangar.ac -126.58831 52.38775 -0.57 288.1
+# END dsf2stg

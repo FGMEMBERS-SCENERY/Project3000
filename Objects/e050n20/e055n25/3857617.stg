@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/B747.xml 55.36000 25.25007 5.02 237.485
+OBJECT_SHARED Models/Aircraft/737virgin.xml 55.36586 25.26037 -25.01 328.76
+OBJECT_SHARED Models/Aircraft/B747.xml 55.35500 25.25262 3.44 237.263
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 55.35709 25.25083 4.06 326.92
+# END dsf2stg

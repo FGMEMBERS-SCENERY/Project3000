@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/belt_loader.ac 20.24670 49.06862 693.87 187.12
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 20.24944 49.06939 692.41 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 20.24850 49.06898 692.80 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 20.24778 49.06868 693.20 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 20.24693 49.06862 693.76 0
+OBJECT_SHARED Models/lib/FireStationLg.ac 20.24879 49.06898 692.63 133.26
+OBJECT_SHARED Models/lib/office32x25.ac 20.24740 49.06837 693.41 96.71
+OBJECT_SHARED Models/lib/chariot4.ac 20.24682 49.06857 693.82 180
+OBJECT_SHARED Models/lib/chariot3curve.ac 20.24777 49.06901 693.29 126.19
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 20.24742 49.06900 693.53 0
+OBJECT_SHARED Models/Aircraft/320austrian.xml 20.24743 49.06882 693.49 154.8
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 20.24608 49.06817 694.25 277.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 20.24493 49.06793 695.12 94.97
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 20.24471 49.06768 695.28 0
+# END dsf2stg

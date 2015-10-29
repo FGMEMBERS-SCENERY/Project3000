@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParking.xml -46.66054 -23.62394 793.17 302.88
+OBJECT_SHARED Models/lib/RampParking.xml -46.66037 -23.62425 793.57 302.88
+OBJECT_SHARED Models/lib/RampParking.xml -46.66015 -23.62457 794.15 302.88
+OBJECT_SHARED Models/lib/RampParking.xml -46.65993 -23.62488 794.73 302.88
+OBJECT_SHARED Models/lib/RampGroup.xml -46.66074 -23.62370 792.73 302.88
+OBJECT_SHARED Models/Aircraft/D328_services.xml -46.66061 -23.62349 792.64 212.88
+OBJECT_SHARED Models/lib/RampParking.xml -46.66075 -23.62314 792.09 302.88
+OBJECT_SHARED Models/lib/cone.ac -46.65421 -23.62482 799.04 0
+OBJECT_SHARED Models/lib/cone.ac -46.65418 -23.62487 799.10 0
+OBJECT_SHARED Models/lib/cone.ac -46.65487 -23.62484 798.50 0
+OBJECT_SHARED Models/lib/cone.ac -46.65483 -23.62489 798.64 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -46.65569 -23.62206 795.95 210.79
+OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -46.65511 -23.62295 797.13 32.47
+# END dsf2stg

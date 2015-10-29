@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.15456 50.87994 19.38 327.03
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.15450 50.87989 19.36 349.8
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.15446 50.87985 19.17 24.62
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.15438 50.87981 19.14 51.34
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.15342 50.88018 19.43 146.98
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.15490 50.88007 19.78 66.67
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.15389 50.88045 19.99 117.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.15413 50.88053 20.17 123.11
+OBJECT_SHARED Models/lib/SmHangar.ac 0.15262 50.87992 17.20 354.79
+OBJECT_SHARED Models/lib/office3x10.ac 0.15455 50.88004 19.55 235.67
+OBJECT_SHARED Models/lib/office3x10.ac 0.15451 50.88001 19.53 230.83
+OBJECT_SHARED Models/lib/office3x10.ac 0.15449 50.87999 19.52 226.47
+OBJECT_SHARED Models/lib/office3x10.ac 0.15445 50.87996 19.51 223.83
+OBJECT_SHARED Models/lib/office3x10.ac 0.15441 50.87994 19.33 232.12
+OBJECT_SHARED Models/lib/office3x10.ac 0.15437 50.87992 19.31 232.43
+OBJECT_SHARED Models/lib/office3x10.ac 0.15435 50.87989 19.31 233.13
+OBJECT_SHARED Models/lib/office3x10.ac 0.15431 50.87987 19.30 231.07
+OBJECT_SHARED Models/lib/SmHangar.ac 0.15259 50.88005 17.23 52.97
+OBJECT_SHARED Models/lib/SmHangar.ac 0.15308 50.88020 19.18 144.97
+OBJECT_SHARED Models/lib/SmHangar.ac 0.15419 50.88003 19.43 137.82
+# END dsf2stg

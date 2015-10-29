@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -11.58383 25.22605 -0.87 74.2273
+OBJECT_SHARED Models/lib/LongRow.ac -11.58328 25.22740 -0.88 0.511559
+OBJECT_SHARED Models/lib/LongRow.ac -11.58329 25.22762 -0.88 0.705147
+OBJECT_SHARED Models/lib/MedHangar.ac -11.58380 25.22743 -0.89 1.40207
+# END dsf2stg

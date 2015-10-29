@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.26398 42.15279 526.01 226.01
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.25718 42.15783 521.90 97.97
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.25704 42.15734 522.50 -42.35
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.26341 42.15304 525.90 19.98
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.26418 42.15267 526.01 61.7
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.26471 42.15242 525.93 172.85
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.26661 42.15177 526.08 226.74
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.26580 42.15203 525.98 249.44
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.26592 42.15207 526.15 10.49
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.26544 42.15268 526.88 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.26532 42.15273 526.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.26523 42.15270 526.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.26459 42.15331 529.13 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.26483 42.15320 528.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.26511 42.15307 528.09 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.26540 42.15294 527.44 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.26567 42.15285 526.90 0
+OBJECT_SHARED Models/lib/cars4.ac -79.26544 42.15232 526.16 117.55
+OBJECT_SHARED Models/lib/cars10.ac -79.26562 42.15248 526.51 208.26
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -79.26656 42.15168 525.96 211.46
+OBJECT_SHARED Models/lib/MedHangar.ac -79.25767 42.15752 522.61 180
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.26650 42.15156 525.78 124.38
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -79.26653 42.15159 525.78 31.17
+OBJECT_SHARED Models/lib/fboModern1.ac -79.26628 42.15190 526.08 118.45
+OBJECT_SHARED Models/lib/MedHangar.ac -79.26379 42.15291 526.01 123.05
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -79.26083 42.15458 529.18 207.65
+OBJECT_SHARED Models/lib/SmHangar.ac -79.25707 42.15707 522.80 1.53
+OBJECT_SHARED Models/lib/fboModern1.ac -79.25719 42.15756 522.24 1.14
+# END dsf2stg

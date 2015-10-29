@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -116.78477 36.86755 963.50 269.72
+OBJECT_SHARED Models/Transport/hatchback_red.ac -116.78501 36.86808 964.51 270
+OBJECT_SHARED Models/Transport/hatchback_red.ac -116.78501 36.86811 964.51 270
+OBJECT_SHARED Models/lib/office16x4n.ac -116.78390 36.86808 964.35 90
+OBJECT_SHARED Models/lib/SmHangar.ac -116.78391 36.86837 964.86 0.190002
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -116.78490 36.86820 964.68 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.78482 36.86771 963.84 269.79
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -116.78413 36.86834 964.68 89.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.78412 36.86847 965.02 90.61
+# END dsf2stg

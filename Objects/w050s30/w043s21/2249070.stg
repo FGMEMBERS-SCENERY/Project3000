@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars14.ac -42.18236 -20.26417 813.80 182.55
+OBJECT_SHARED Models/lib/cars14.ac -42.18238 -20.26419 813.80 2.55
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -42.18236 -20.26434 815.07 150.52
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -42.18237 -20.26422 813.80 226.52
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -42.18237 -20.26412 813.07 153.8
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -42.18238 -20.26401 812.87 218
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -42.18252 -20.26440 817.26 125.12
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -42.18247 -20.26361 814.10 338.42
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -42.18250 -20.26431 816.00 92.39
+OBJECT_SHARED Models/Airport/cargobox.xml -42.18250 -20.26436 817.26 124.33
+OBJECT_SHARED Models/Airport/cargobox.xml -42.18250 -20.26435 816.00 6.64999
+OBJECT_SHARED Models/lib/cone.ac -42.18266 -20.26443 820.03 247.48
+OBJECT_SHARED Models/lib/cone.ac -42.18260 -20.26443 818.19 85.56
+OBJECT_SHARED Models/lib/cone.ac -42.18249 -20.26442 817.26 42.8
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -42.18248 -20.26443 817.26 -30.01
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -42.18249 -20.26408 815.18 3.56
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -42.18251 -20.26369 814.36 42.31
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -42.18219 -20.26368 808.02 113.96
+OBJECT_SHARED Models/Misc/6barrels.ac -42.18251 -20.26361 814.10 270.48
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -42.18245 -20.26390 814.77 181.72
+OBJECT_SHARED Models/lib/stack_of_cones.ac -42.18246 -20.26378 814.57 45.03
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -42.18208 -20.26388 807.21 94.24
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -42.18245 -20.26383 814.57 93.81
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -42.18246 -20.26367 814.36 93.81
+# END dsf2stg

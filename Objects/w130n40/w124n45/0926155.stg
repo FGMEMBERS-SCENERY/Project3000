@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -123.13902 45.19895 44.96 122.439
+OBJECT_SHARED Models/lib/MedHangar.ac -123.14548 45.19891 44.13 90.33
+OBJECT_SHARED Models/lib/SmHangar.ac -123.13808 45.19891 45.12 122.73
+OBJECT_SHARED Models/lib/SmHangar.ac -123.13927 45.19835 44.96 122.12
+OBJECT_SHARED Models/lib/office32x25.ac -123.14336 45.20002 44.21 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.14033 45.19982 44.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.14022 45.20010 44.92 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.13951 45.20058 45.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.14155 45.19985 44.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.14271 45.19919 44.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.14274 45.19850 44.39 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.14243 45.19850 44.51 0
+OBJECT_SHARED Models/lib/MedHangar.ac -123.14209 45.19983 44.20 90
+OBJECT_SHARED Models/lib/MedHangar.ac -123.13833 45.19928 45.14 122.19
+OBJECT_SHARED Models/lib/MedHangar.ac -123.13761 45.19959 45.15 122.73
+OBJECT_SHARED Models/lib/LongRow.ac -123.14164 45.19732 44.45 0
+OBJECT_SHARED Models/lib/LongRow.ac -123.14108 45.19766 44.61 90
+OBJECT_SHARED Models/lib/LongRow.ac -123.14156 45.19829 44.50 270
+OBJECT_SHARED Models/lib/LongRow.ac -123.14205 45.19829 44.50 270
+OBJECT_SHARED Models/lib/LongRow.ac -123.14431 45.19766 44.23 90
+OBJECT_SHARED Models/lib/LongRow.ac -123.14370 45.19828 44.29 270
+OBJECT_SHARED Models/lib/LongRow.ac -123.14307 45.19767 44.34 90
+OBJECT_SHARED Models/lib/office32x25.ac -123.13846 45.20039 45.20 90
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -123.13115 45.19050 46.85 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.14263 45.19671 44.27 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.14502 45.19671 43.15 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.14343 45.19691 44.29 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -123.13110 45.19040 46.87 0
+# END dsf2stg

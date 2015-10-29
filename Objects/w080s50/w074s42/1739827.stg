@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06488 -41.12759 -0.15 252.41
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06367 -41.12963 -0.16 106.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06361 -41.12905 -0.14 148.39
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06497 -41.12883 -0.18 214.51
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06507 -41.13003 -0.21 305.54
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06564 -41.12906 -0.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06568 -41.12912 -0.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06560 -41.12916 -0.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06504 -41.12912 -0.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06516 -41.12913 -0.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06538 -41.12916 -0.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06529 -41.12912 -0.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06535 -41.12920 -0.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06523 -41.12921 -0.20 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06507 -41.12921 -0.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06519 -41.12927 -0.20 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06529 -41.12926 -0.20 255.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06542 -41.12926 -0.21 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06549 -41.12920 -0.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06549 -41.12912 -0.21 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06358 -41.12747 -0.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06357 -41.12732 -0.10 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06356 -41.12719 -0.10 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06357 -41.12699 -0.10 116.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06356 -41.12677 -0.09 161.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06355 -41.12667 -0.08 176.82
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06363 -41.12648 -0.08 206.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06355 -41.12619 -0.07 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06457 -41.12602 -0.10 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06480 -41.12601 -0.10 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06492 -41.12601 -0.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06502 -41.12600 -0.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06510 -41.12602 -0.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06567 -41.12598 -0.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06577 -41.12599 -0.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06547 -41.12814 -0.18 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06534 -41.13064 -0.23 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06518 -41.13063 -0.23 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06519 -41.13078 -0.23 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06539 -41.13072 -0.24 270
+OBJECT_SHARED Models/lib/SmHangar.ac -73.06382 -41.13070 -0.18 358.55
+# END dsf2stg

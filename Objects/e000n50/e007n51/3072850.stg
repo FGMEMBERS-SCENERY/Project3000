@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.70120 51.31304 465.95 209.58
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.69993 51.31242 459.62 305.54
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.70081 51.31280 463.87 209.48
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.69986 51.31308 464.39 295.2
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.69998 51.31275 460.51 306.87
+OBJECT_SHARED Models/lib/SmHangar.ac 7.70095 51.31282 464.71 121.27
+OBJECT_SHARED Models/lib/office40x25.ac 7.70002 51.31307 464.69 30.47
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.70053 51.31323 466.71 293.2
+OBJECT_SHARED Models/lib/office16x4n.ac 7.69983 51.31344 467.41 206.57
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.70058 51.31343 468.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.70084 51.31301 465.25 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.69984 51.31231 459.33 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 7.69941 51.31202 457.52 218.42
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.71011 51.31560 472.45 180
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.70825 51.31564 455.71 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.70855 51.31548 458.83 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.70949 51.31526 468.19 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.71055 51.31383 489.70 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.71068 51.31360 491.02 26.56
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.71074 51.31337 491.83 348.69
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.71008 51.31302 491.73 296.57
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.70916 51.31282 489.53 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.70832 51.31256 487.70 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.70797 51.31249 487.11 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.69976 51.31353 468.30 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.69844 51.31252 455.48 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.69849 51.31228 453.52 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.69828 51.31153 452.03 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.69970 51.31242 458.24 180
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.69976 51.31307 464.19 180
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.69969 51.31286 462.00 0
+# END dsf2stg

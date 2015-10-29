@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -72.68095 46.35973 -0.41 164.21
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -72.68122 46.35961 -0.40 158.27
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -72.67902 46.35831 -0.45 237.18
+OBJECT_SHARED Models/lib/LgMaint.ac -72.67942 46.35846 -0.44 148.49
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.67562 46.36229 -0.51 320.26
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.67488 46.36232 -0.52 240.06
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.67558 46.36258 -0.51 204.27
+OBJECT_SHARED Models/lib/fboModern1.ac -72.67583 46.36238 -0.50 148.93
+# END dsf2stg

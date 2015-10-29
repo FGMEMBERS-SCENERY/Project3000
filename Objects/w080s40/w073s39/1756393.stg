@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -72.66220 -38.26799 -0.80 252
+OBJECT_SHARED Models/lib/cars7.ac -72.66279 -38.26830 -0.79 71
+OBJECT_SHARED Models/lib/SmHangar.ac -72.66263 -38.26822 -0.79 162
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.66234 -38.26875 -0.79 325
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.66075 -38.26750 -0.81 187
+# END dsf2stg

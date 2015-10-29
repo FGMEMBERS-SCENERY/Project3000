@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -176.47310 -43.81611 -0.58 18.32
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -176.47415 -43.81593 -0.57 18.64
+OBJECT_SHARED Models/lib/SmHangar.ac -176.47409 -43.81611 -0.58 288.64
+OBJECT_SHARED Models/lib/SmHangar.ac -176.47421 -43.81571 -0.57 198.43
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -176.47439 -43.81555 -0.56 108.44
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -176.47432 -43.81561 -0.56 108.89
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -176.47387 -43.81639 -0.58 17.35
+OBJECT_SHARED Models/lib/cars14.ac -176.47342 -43.81631 -0.59 288.96
+OBJECT_SHARED Models/lib/cars7.ac -176.47338 -43.81609 -0.58 108.18
+OBJECT_SHARED Models/lib/cars6.ac -176.47339 -43.81645 -0.59 199.09
+OBJECT_SHARED Models/lib/stack_of_cones.ac -176.47369 -43.81598 -0.57 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -176.47349 -43.81601 -0.58 18.26
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -176.47362 -43.81596 -0.57 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -176.47344 -43.81602 -0.58 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -176.47418 -43.81576 -0.57 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -176.47430 -43.81584 -0.57 288.4
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -176.47417 -43.81578 -0.57 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -176.47418 -43.81574 -0.57 288.08
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -176.47414 -43.81620 -0.58 198.81
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -176.47423 -43.81567 -0.57 198.46
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -176.47347 -43.81596 -0.58 -71.81
+# END dsf2stg

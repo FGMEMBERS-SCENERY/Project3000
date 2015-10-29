@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -93.51552 47.21251 -0.48 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -93.51556 47.21262 -0.48 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -93.51538 47.21312 -0.47 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -93.51559 47.21216 -0.49 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -93.51559 47.21220 -0.49 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.51675 47.21378 -0.47 106.14
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.51675 47.21383 -0.47 103.5
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.51601 47.21392 -0.46 280.47
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.51597 47.21383 -0.46 281.79
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.51594 47.21376 -0.46 285.38
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -93.51521 47.21271 -0.47 0
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51722 47.21135 -0.52 129.8
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51753 47.21071 -0.54 220.61
+OBJECT_SHARED Models/lib/LongRow.ac -93.51735 47.21023 -0.54 43.32
+OBJECT_SHARED Models/lib/MedHangar.ac -93.51629 47.21544 -0.43 194.43
+OBJECT_SHARED Models/lib/MedHangar.ac -93.51570 47.21328 -0.47 192.94
+OBJECT_SHARED Models/lib/MedHangar.ac -93.51619 47.21435 -0.45 193.09
+OBJECT_SHARED Models/lib/LongRow.ac -93.51675 47.21587 -0.42 105.56
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51686 47.21444 -0.46 177.4
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51742 47.21411 -0.47 177.88
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51740 47.21430 -0.47 178.12
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51741 47.21450 -0.46 179.91
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51739 47.21470 -0.46 178.98
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51740 47.21490 -0.46 178.73
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51739 47.21510 -0.45 178.34
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51738 47.21530 -0.45 179.35
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51738 47.21551 -0.44 179.37
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51737 47.21573 -0.44 178.92
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51736 47.21594 -0.43 180.6
+OBJECT_SHARED Models/lib/SmHangar.ac -93.51737 47.21614 -0.43 178.94
+OBJECT_SHARED Models/lib/LongRow.ac -93.51701 47.21481 -0.45 90
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -93.51532 47.21348 -0.46 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -93.51608 47.21524 -0.43 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -93.51618 47.21567 -0.42 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -93.51588 47.21413 -0.45 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -93.51531 47.21364 -0.46 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -93.51534 47.21383 -0.45 0
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -93.51512 47.21278 -0.47 90
+OBJECT_SHARED Models/Aircraft/D328_services.xml -93.51525 47.21308 -0.47 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.51600 47.21409 -0.45 103.46
+# END dsf2stg

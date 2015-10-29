@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.62814 44.92955 -0.27 174.52
+OBJECT_SHARED Models/Aircraft/D328_services.xml -89.62733 44.92910 -0.26 222.774
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.63119 44.93001 -0.34 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.63119 44.93032 -0.34 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.62986 44.92937 -0.32 131.906
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.62958 44.92933 -0.31 141.843
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -89.62860 44.92926 -0.29 270
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -89.62899 44.92927 -0.30 270
+OBJECT_SHARED Models/lib/SmHangar.ac -89.63211 44.92960 -0.37 359.33
+OBJECT_SHARED Models/lib/SmHangar.ac -89.63211 44.92927 -0.38 0.830002
+OBJECT_SHARED Models/lib/SmHangar.ac -89.63047 44.92967 -0.33 360
+OBJECT_SHARED Models/lib/SmHangar.ac -89.63030 44.92946 -0.33 179.51
+OBJECT_SHARED Models/lib/SmHangar.ac -89.63077 44.93020 -0.33 180
+OBJECT_SHARED Models/lib/SmHangar.ac -89.63077 44.93041 -0.33 181.02
+OBJECT_SHARED Models/lib/LongRow.ac -89.63088 44.92940 -0.34 90
+OBJECT_SHARED Models/lib/office32x25.ac -89.62924 44.92958 -0.30 264.64
+OBJECT_SHARED Models/lib/LongRow.ac -89.63159 44.92924 -0.37 90
+OBJECT_SHARED Models/lib/MedHangar.ac -89.63132 44.93011 -0.35 180.24
+OBJECT_SHARED Models/lib/LongRow.ac -89.63035 44.92985 -0.33 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.62857 44.92946 -0.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.62855 44.92954 -0.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.62854 44.92967 -0.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.62733 44.92942 -0.25 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.62782 44.92945 -0.27 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -89.62867 44.92935 -0.29 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -89.62906 44.92936 -0.30 0
+OBJECT_SHARED Models/lib/CargoDolly.ac -89.62867 44.92921 -0.29 90
+OBJECT_SHARED Models/lib/CargoDolly.ac -89.62872 44.92920 -0.29 90
+OBJECT_SHARED Models/lib/CargoDolly.ac -89.62905 44.92922 -0.30 90
+OBJECT_SHARED Models/lib/CargoDolly.ac -89.62911 44.92921 -0.30 90
+OBJECT_SHARED Models/Misc/picnic_table.ac -89.62855 44.92961 -0.28 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -89.62895 44.92966 -0.29 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.62980 44.92948 -0.32 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.62894 44.92943 -0.29 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.62729 44.92923 -0.26 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.62791 44.92926 -0.27 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.62964 44.92956 -0.31 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.62890 44.92948 -0.29 270
+OBJECT_SHARED Models/lib/cars10.ac -89.62738 44.92949 -0.25 175.307
+# END dsf2stg

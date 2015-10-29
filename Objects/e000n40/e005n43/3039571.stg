@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 5.78615 43.25039 418.18 233
+OBJECT_SHARED Models/lib/MedHangar.ac 5.78561 43.25069 418.27 233
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 5.78078 43.25282 418.40 321.179
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 5.78453 43.25121 418.37 321.652
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 5.78487 43.25102 418.29 321.657
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 5.78391 43.25114 418.08 323.437
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.78157 43.25298 418.61 51.7794
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 5.78721 43.25041 418.76 53.4383
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 5.77985 43.25392 417.55 54.6139
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.78481 43.25178 418.95 322.921
+OBJECT_SHARED Models/lib/SmHangar.ac 5.78100 43.25271 418.42 233.28
+OBJECT_SHARED Models/lib/cone.ac 5.78361 43.25158 418.44 0
+OBJECT_SHARED Models/lib/cone.ac 5.78358 43.25169 418.50 0
+OBJECT_SHARED Models/lib/cone.ac 5.78370 43.25168 418.54 0
+OBJECT_SHARED Models/lib/FireStationLg.ac 5.78125 43.25258 418.44 52.3713
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.78055 43.25236 419.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.78054 43.25269 418.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.78389 43.25101 417.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.78204 43.25154 417.89 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.78435 43.25089 418.01 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.78454 43.25088 418.08 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.78398 43.25109 418.11 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.78246 43.25160 418.11 0
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 5.78371 43.25161 418.47 -37.6371
+# END dsf2stg

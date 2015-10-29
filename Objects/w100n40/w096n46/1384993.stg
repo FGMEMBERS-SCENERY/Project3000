@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -95.60321 46.61055 -0.64 137.353
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.60393 46.61163 -0.63 137.78
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.60275 46.61044 -0.65 317.863
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60265 46.61134 -0.65 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60333 46.61175 -0.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60315 46.61164 -0.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60298 46.61153 -0.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60280 46.61143 -0.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60197 46.61086 -0.65 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60183 46.61079 -0.65 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60170 46.61071 -0.66 0
+OBJECT_SHARED Models/lib/LongRow.ac -95.60317 46.61141 -0.64 139.55
+OBJECT_SHARED Models/lib/LongRow.ac -95.60350 46.61113 -0.64 139.55
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -95.60234 46.61086 -0.65 -39.81
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -95.60260 46.61064 -0.65 -44.08
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.60240 46.61053 -0.65 319.76
+OBJECT_SHARED Models/lib/stack_of_cones.ac -95.60248 46.61057 -0.65 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -95.60260 46.61076 -0.65 315
+OBJECT_SHARED Models/Misc/picnic_table.ac -95.60271 46.61082 -0.65 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.60379 46.61162 -0.63 201.07
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.60400 46.61174 -0.63 166.43
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.60241 46.61097 -0.65 319.09
+# END dsf2stg

@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.28643 44.87046 37.45 155.56
+OBJECT_SHARED Models/Misc/picnic_table.ac -73.28662 44.87050 39.27 338.96
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.28391 44.87404 29.10 10.46
+OBJECT_SHARED Models/Misc/picnic_table.ac -73.28598 44.87173 38.28 67.31
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28657 44.86929 33.68 212.73
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28579 44.86960 28.21 57.72
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28569 44.86934 28.00 130.92
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28555 44.86959 28.00 201.04
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28565 44.86974 28.00 328.67
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28600 44.86944 29.13 321.01
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28641 44.86931 32.05 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28725 44.86918 38.59 222.27
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28683 44.86916 34.96 117.9
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28637 44.86918 31.69 208.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28672 44.87000 37.82 173.29
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28644 44.87020 35.87 69.14
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28651 44.87002 35.82 248.63
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28536 44.87153 32.74 261.87
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28479 44.87289 34.14 257.9
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28453 44.87345 34.31 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28348 44.87485 28.98 206.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -73.28399 44.87484 35.01 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28422 44.87476 34.78 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28376 44.87487 34.59 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28444 44.87355 33.84 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28553 44.87136 33.21 180
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28529 44.87171 32.80 180
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28625 44.87028 35.40 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28623 44.87018 33.88 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28682 44.87003 38.82 180
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -73.28672 44.87016 38.87 0
+# END dsf2stg

@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -94.50978 45.09647 -0.33 312.88
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -94.50995 45.09582 -0.31 297.9
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -94.50995 45.09587 -0.31 124.38
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -94.50975 45.09643 -0.32 304.29
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -94.51029 45.09642 -0.33 132.88
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -94.50937 45.09614 -0.31 128.22
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -94.51073 45.09659 -0.35 208.98
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.51106 45.09713 -0.37 286.98
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.51103 45.09727 -0.37 286.98
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -94.50955 45.09629 -0.32 110.58
+OBJECT_SHARED Models/lib/office32x25.ac -94.51067 45.09688 -0.35 222.68
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -94.51070 45.09650 -0.34 41.71
+OBJECT_SHARED Models/lib/SmHangar.ac -94.51029 45.09631 -0.33 40.94
+OBJECT_SHARED Models/lib/SmHangar.ac -94.51010 45.09615 -0.33 41.31
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50971 45.09585 -0.31 42.04
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50961 45.09565 -0.30 221.32
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50981 45.09580 -0.31 221.59
+OBJECT_SHARED Models/lib/SmHangar.ac -94.51000 45.09595 -0.32 222.54
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50942 45.09549 -0.29 221.54
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50952 45.09570 -0.30 42.29
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50991 45.09600 -0.32 42.3
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50895 45.09572 -0.29 41.69
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50914 45.09588 -0.30 41.05
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50933 45.09603 -0.30 41.18
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51068 45.09546 -0.32 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51080 45.09549 -0.32 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51106 45.09559 -0.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51117 45.09566 -0.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51126 45.09574 -0.34 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51130 45.09586 -0.34 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51129 45.09591 -0.34 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51132 45.09607 -0.35 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51136 45.09624 -0.35 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51139 45.09635 -0.35 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51139 45.09643 -0.36 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51117 45.09626 -0.35 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51112 45.09606 -0.34 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51103 45.09597 -0.34 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51100 45.09590 -0.34 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51087 45.09580 -0.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -94.51078 45.09569 -0.33 0
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50952 45.09619 -0.31 40.98
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50971 45.09634 -0.32 41.3
+OBJECT_SHARED Models/lib/SmHangar.ac -94.50989 45.09650 -0.33 39.86
+OBJECT_SHARED Models/lib/MedHangar.ac -94.51089 45.09766 -0.38 220.2
+OBJECT_SHARED Models/lib/MedHangar.ac -94.51025 45.09617 -0.33 221.52
+# END dsf2stg

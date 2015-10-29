@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac 0.51538 44.82247 51.11 267.43
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.51614 44.82241 50.84 86.12
+OBJECT_SHARED Models/lib/belt_loader.ac 0.51581 44.82235 50.95 264.81
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 0.51066 44.82262 51.41 266.03
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.51158 44.82267 52.39 86.63
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.51198 44.82278 51.88 85.54
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 0.51653 44.82206 51.12 294.34
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 0.51085 44.82313 52.40 354.93
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 0.51468 44.82275 50.91 175.76
+OBJECT_SHARED Models/lib/chariot1.ac 0.51602 44.82242 50.84 356.63
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 0.51549 44.82244 51.16 175.4
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 0.51526 44.82246 51.19 266.269
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 0.51466 44.82250 50.97 266.269
+OBJECT_SHARED Models/lib/stack_of_cones.ac 0.51460 44.82252 50.95 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 0.51592 44.82235 50.88 86.05
+OBJECT_SHARED Models/Transport/hatchback_red.ac 0.51636 44.82200 51.26 177.4
+OBJECT_SHARED Models/Transport/hatchback_red.ac 0.51628 44.82200 51.31 0
+OBJECT_SHARED Models/lib/SmHangar.ac 0.51104 44.82237 51.55 275.57
+OBJECT_SHARED Models/lib/SmHangar.ac 0.51119 44.82238 51.62 275.57
+OBJECT_SHARED Models/lib/FireStationLg.ac 0.51509 44.82235 51.22 48.99
+OBJECT_SHARED Models/lib/SmHangar.ac 0.51601 44.82227 50.98 264.78
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 0.51469 44.82219 51.33 357.16
+OBJECT_SHARED Models/lib/MedHangar.ac 0.51222 44.82249 51.69 275.297
+OBJECT_SHARED Models/lib/MedHangar.ac 0.51277 44.82252 51.25 275.93
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.51263 44.82292 51.20 3.32001
+OBJECT_SHARED Models/lib/caisses_group.ac 0.51386 44.82260 50.91 172.08
+# END dsf2stg

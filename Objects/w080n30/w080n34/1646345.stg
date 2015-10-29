@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.72851 34.19259 -0.71 -0.170013
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.72840 34.19286 -0.72 -0.170013
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.72826 34.19284 -0.72 179.95
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.72818 34.19258 -0.72 179.95
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.72822 34.19245 -0.71 110.22
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -79.72848 34.19245 -0.71 71.18
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.72796 34.19247 -0.72 234.4
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.72794 34.19286 -0.73 234.4
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.72877 34.19236 -0.71 60.21
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.72878 34.19272 -0.71 83.29
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -79.72923 34.19355 -0.72 179.86
+OBJECT_SHARED Models/lib/LongRow.ac -79.73273 34.19356 -0.67 179.74
+OBJECT_SHARED Models/lib/LongRow.ac -79.73274 34.19395 -0.67 179.74
+OBJECT_SHARED Models/lib/LongRow.ac -79.73235 34.19356 -0.68 179.74
+OBJECT_SHARED Models/lib/LongRow.ac -79.73235 34.19395 -0.68 179.74
+OBJECT_SHARED Models/lib/LongRow.ac -79.73240 34.19424 -0.69 179.74
+OBJECT_SHARED Models/lib/SmHangar.ac -79.73214 34.19457 -0.70 90
+OBJECT_SHARED Models/lib/SmHangar.ac -79.73212 34.19484 -0.70 90
+OBJECT_SHARED Models/lib/SmHangar.ac -79.73229 34.19457 -0.69 90
+OBJECT_SHARED Models/lib/SmHangar.ac -79.73225 34.19484 -0.70 90
+OBJECT_SHARED Models/lib/SmHangar.ac -79.73248 34.19457 -0.69 90
+OBJECT_SHARED Models/lib/SmHangar.ac -79.73239 34.19484 -0.69 90
+OBJECT_SHARED Models/lib/MedHangar.ac -79.73038 34.19387 -0.71 90
+OBJECT_SHARED Models/lib/SmHangar.ac -79.73361 34.19146 -0.61 179.27
+OBJECT_SHARED Models/lib/SmHangar.ac -79.73347 34.19174 -0.61 179.27
+OBJECT_SHARED Models/lib/MedHangar.ac -79.73286 34.19133 -0.62 269.69
+OBJECT_SHARED Models/lib/MedHangar.ac -79.73263 34.19256 -0.65 178.88
+OBJECT_SHARED Models/lib/office32x25.ac -79.72945 34.19413 -0.73 269.61
+# END dsf2stg

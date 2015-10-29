@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -64.30202 -27.75683 -0.58 140.83
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -64.30087 -27.76073 -0.66 337.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -64.30009 -27.76030 -0.68 151.19
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -64.29962 -27.76053 -0.70 129.8
+OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -64.30094 -27.76140 -0.67 0
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -64.30223 -27.75610 -0.56 175.53
+OBJECT_SHARED Models/Aircraft/D328_services.xml -64.29907 -27.75973 -0.70 213.69
+OBJECT_SHARED Models/Aircraft/320austrian.xml -64.30159 -27.75720 -0.59 130.38
+OBJECT_SHARED Models/Transport/hatchback_green.ac -64.30103 -27.75753 -0.62 138.37
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -64.30040 -27.75813 -0.65 126.87
+OBJECT_SHARED Models/lib/HorizTanks2.ac -64.29908 -27.76010 -0.71 312.82
+OBJECT_SHARED Models/lib/HorizTanks2.ac -64.29917 -27.76017 -0.71 312.2
+OBJECT_SHARED Models/lib/HorizTanks2.ac -64.29926 -27.76024 -0.70 311.26
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -64.29940 -27.76034 -0.70 131.97
+OBJECT_SHARED Models/lib/MedHangar.ac -64.30050 -27.75855 -0.65 40.31
+OBJECT_SHARED Models/lib/SmHangar.ac -64.30155 -27.75672 -0.59 40.16
+OBJECT_SHARED Models/lib/SmHangar.ac -64.30002 -27.76097 -0.69 301.37
+OBJECT_SHARED Models/lib/SmHangar.ac -64.29979 -27.76085 -0.69 301.23
+OBJECT_SHARED Models/lib/SmHangar.ac -64.30025 -27.76110 -0.69 301.2
+OBJECT_SHARED Models/lib/MedHangar.ac -64.29960 -27.75941 -0.69 39.27
+OBJECT_SHARED Models/lib/SmHangar.ac -64.29995 -27.75901 -0.67 39.56
+# END dsf2stg

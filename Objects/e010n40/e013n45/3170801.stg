@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 13.48401 45.82148 7.66 190.17
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 13.47855 45.82431 7.34 280.7
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 13.47865 45.82459 7.35 103.13
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 13.47862 45.82444 7.34 189.83
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 13.48646 45.82335 7.28 268.84
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 13.48359 45.82313 7.40 9.15
+OBJECT_SHARED Models/Aircraft/737virgin.xml 13.48209 45.82162 7.61 189.46
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 13.48318 45.82129 7.68 280.37
+OBJECT_SHARED Models/lib/loader.ac 13.48671 45.82237 7.40 -14.22
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 13.48559 45.82202 7.58 281.04
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 13.48215 45.82172 7.60 278.5
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 13.48489 45.82184 7.60 236.31
+OBJECT_SHARED Models/lib/chariot3curve.ac 13.48201 45.82160 7.61 160.96
+OBJECT_SHARED Models/lib/container6.ac 13.48421 45.82135 7.67 101.67
+OBJECT_SHARED Models/lib/caisses_group.ac 13.48417 45.82150 7.66 279.69
+OBJECT_SHARED Models/lib/chariot3.ac 13.48474 45.82194 7.59 280.51
+OBJECT_SHARED Models/lib/chariot1.ac 13.48668 45.82241 7.40 150.02
+OBJECT_SHARED Models/lib/belt_loader.ac 13.48670 45.82232 7.41 5.60001
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 13.48641 45.82198 7.50 191.31
+OBJECT_SHARED Models/Aircraft/320austrian.xml 13.48484 45.82184 7.61 190.72
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 13.48423 45.82130 7.69 280.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.48087 45.82284 7.44 8.04001
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.48000 45.82269 7.45 10.66
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.48400 45.82163 7.64 -79.5
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.48485 45.82174 7.62 -81.75
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.48549 45.82181 7.61 -79.1
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.48642 45.82210 7.48 -56.12
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.48138 45.82122 7.65 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.48672 45.82193 7.50 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.48322 45.82145 7.66 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.48463 45.82360 7.32 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.48307 45.82337 7.38 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 13.48095 45.82311 7.41 0
+OBJECT_SHARED Models/lib/jetway_e14m.ac 13.48432 45.82156 7.64 109.08
+OBJECT_SHARED Models/lib/jetway_e14m.ac 13.48512 45.82165 7.62 100.74
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml 13.48509 45.82178 7.61 219.58
+OBJECT_SHARED Models/lib/office32x25.ac 13.48145 45.82072 7.49 102.8
+OBJECT_SHARED Models/lib/SmHangar.ac 13.48718 45.82187 7.47 280.62
+OBJECT_SHARED Models/lib/MedHangar.ac 13.48650 45.82179 7.53 279.83
+OBJECT_SHARED Models/lib/MedHangar.ac 13.48370 45.82120 7.70 280.81
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 13.47851 45.82225 9.38 9.60001
+OBJECT_SHARED Models/lib/FireStationLg.ac 13.48716 45.82246 7.00 189.17
+OBJECT_SHARED Models/lib/office65x50.ac 13.47723 45.82352 7.41 205.28
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml 13.48426 45.82169 7.62 218.06
+# END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac -78.78706 22.02452 -0.95 24.87
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.78728 22.02452 -0.94 -64.58
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.78745 22.02444 -0.95 -64.58
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.78761 22.02437 -0.94 -64.58
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.78779 22.02429 -0.94 -64.58
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.78798 22.02420 -0.94 -64.58
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.78817 22.02413 -0.94 -64.58
+OBJECT_SHARED Models/lib/FireStationLg.ac -78.78834 22.02394 -0.94 114.98
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -78.78756 22.02404 -0.95 26.82
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -78.78635 22.02388 -0.96 0
+# END dsf2stg

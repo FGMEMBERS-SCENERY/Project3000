@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.33646 45.49801 -0.36 318.4
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 12.33531 45.49810 -0.50 312.4
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 12.33665 45.49912 -0.31 312.4
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 12.33743 45.49980 -0.23 312.4
+OBJECT_SHARED Models/lib/LongRow.ac 12.33679 45.49967 -0.30 47.86
+OBJECT_SHARED Models/lib/LongRow.ac 12.33651 45.49893 -0.34 227.48
+OBJECT_SHARED Models/lib/SmHangar.ac 12.33529 45.49790 -0.51 229.94
+OBJECT_SHARED Models/lib/SmHangar.ac 12.33564 45.49779 -0.47 229.13
+# END dsf2stg

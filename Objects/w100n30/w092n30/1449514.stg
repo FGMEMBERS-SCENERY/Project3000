@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -91.48009 30.71358 -0.74 143.05
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -91.48081 30.71308 -0.74 264.96
+OBJECT_SHARED Models/lib/SmHangar.ac -91.48009 30.71698 -0.66 179
+OBJECT_SHARED Models/lib/LongRow.ac -91.48004 30.71434 -0.73 176
+OBJECT_SHARED Models/lib/LongRow.ac -91.48000 30.71476 -0.71 176
+OBJECT_SHARED Models/lib/LongRow.ac -91.47996 30.71515 -0.71 176
+OBJECT_SHARED Models/lib/MedHangar.ac -91.48026 30.71335 -0.74 175
+OBJECT_SHARED Models/lib/SmHangar.ac -91.48015 30.71389 -0.73 355.26
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -91.48022 30.71369 -0.74 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -91.47982 30.71535 -0.70 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -91.48065 30.71543 -0.69 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -91.48067 30.71331 -0.74 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -91.48087 30.71333 -0.73 90
+# END dsf2stg

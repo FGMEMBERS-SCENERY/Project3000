@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.99561 60.15484 -0.10 64.057
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.99625 60.15370 -0.12 201.25
+OBJECT_SHARED Models/lib/SmHangar.ac 12.99569 60.15459 -0.11 22.2499
+OBJECT_SHARED Models/lib/SmHangar.ac 12.99532 60.15507 -0.10 22.3813
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 12.99367 60.15026 -0.23 -64.3599
+OBJECT_SHARED Models/lib/HorizTanks2.ac 12.99296 60.15112 -0.22 291.841
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.99315 60.15041 -0.24 7.12473
+OBJECT_SHARED Models/lib/office32x25n.ac 12.99110 60.15077 -0.25 22.0201
+# END dsf2stg

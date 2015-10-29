@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -125.95668 54.38155 -0.43 322.449
+OBJECT_SHARED Models/Transport/hatchback_red.ac -125.95654 54.38201 -0.44 125.322
+OBJECT_SHARED Models/Transport/hatchback_red.ac -125.95648 54.38199 -0.43 128.909
+OBJECT_SHARED Models/Transport/hatchback_red.ac -125.95643 54.38197 -0.43 129.572
+OBJECT_SHARED Models/Transport/hatchback_red.ac -125.95637 54.38194 -0.43 134.787
+OBJECT_SHARED Models/Transport/hatchback_red.ac -125.95615 54.38189 -0.43 151.26
+OBJECT_SHARED Models/Transport/hatchback_red.ac -125.95649 54.38162 -0.43 311.838
+OBJECT_SHARED Models/Transport/hatchback_red.ac -125.95656 54.38165 -0.43 311.634
+OBJECT_SHARED Models/Transport/hatchback_red.ac -125.95660 54.38168 -0.44 316.935
+OBJECT_SHARED Models/Transport/hatchback_red.ac -125.95619 54.38190 -0.43 127.393
+OBJECT_SHARED Models/Transport/hatchback_red.ac -125.95624 54.38192 -0.43 127.766
+OBJECT_SHARED Models/Transport/hatchback_black.ac -125.95599 54.38179 -0.43 43.0172
+OBJECT_SHARED Models/Misc/picnic_table.ac -125.95578 54.38167 -0.43 136.769
+OBJECT_SHARED Models/Misc/picnic_table.ac -125.95571 54.38165 -0.43 161.917
+OBJECT_SHARED Models/lib/stack_of_cones.ac -125.95651 54.38141 -0.43 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -125.95565 54.38142 -0.42 0
+OBJECT_SHARED Models/lib/office16x4n.ac -125.95542 54.38120 -0.41 140.115
+OBJECT_SHARED Models/lib/SmHangar.ac -125.95699 54.38225 -0.45 50.1275
+OBJECT_SHARED Models/lib/SmHangar.ac -125.95672 54.38212 -0.44 50.404
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -125.95649 54.38145 -0.42 44.3724
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -125.95645 54.38124 -0.42 44.045
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -125.95712 54.38161 -0.43 232.468
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -125.95843 54.38272 -0.46 230.452
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -125.95723 54.38193 -0.44 313.762
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -125.95730 54.38152 -0.43 232.355
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -125.95753 54.38207 -0.45 317.216
+# END dsf2stg

@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.02982 42.58616 548.18 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.02990 42.58531 547.48 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.02999 42.58444 546.84 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.03007 42.58358 546.32 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.03150 42.57695 543.62 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.03157 42.57630 543.52 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.03070 42.57597 543.74 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.03075 42.57533 543.68 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.03083 42.57458 543.62 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.03090 42.57383 543.58 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.03098 42.57308 543.58 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.03228 42.56429 546.41 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 21.03236 42.56352 547.51 0
+OBJECT_SHARED Models/lib/chariot2.ac 21.03009 42.58470 546.98 90
+OBJECT_SHARED Models/lib/chariot3.ac 21.03013 42.58380 546.43 90
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 21.03094 42.57386 543.58 87.66
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 21.03088 42.57461 543.59 92.07
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 21.03068 42.57473 543.65 119.72
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 21.03080 42.57536 543.66 84.53
+OBJECT_SHARED Models/lib/jetway_e10m.ac 21.03080 42.57536 543.66 181.22
+OBJECT_SHARED Models/lib/jetway_e10m.ac 21.03088 42.57461 543.59 183.58
+OBJECT_SHARED Models/lib/jetway_e10m.ac 21.03094 42.57386 543.58 181.19
+OBJECT_SHARED Models/lib/jetway_e14m.ac 21.03068 42.57473 543.65 271.68
+OBJECT_SHARED Models/lib/FireStationLg.ac 21.03029 42.57994 544.65 1.4
+OBJECT_SHARED Models/lib/MedHangar.ac 21.03026 42.58025 544.77 181.23
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 21.03034 42.58204 545.45 272.3
+OBJECT_SHARED Models/lib/office6x12.ac 21.02914 42.58581 548.22 88.85
+OBJECT_SHARED Models/lib/office8x14.ac 21.02944 42.58624 548.38 3.47
+OBJECT_SHARED Models/lib/office8x14.ac 21.02940 42.58602 548.23 4.20001
+OBJECT_SHARED Models/lib/SmHangar.ac 21.02971 42.58643 548.38 183.59
+OBJECT_SHARED Models/lib/belt_loader.ac 21.02987 42.58557 547.68 5.14002
+OBJECT_SHARED Models/lib/belt_loader.ac 21.02986 42.58554 547.61 5.14002
+OBJECT_SHARED Models/Transport/hatchback_green.ac 21.02992 42.58507 547.34 274.69
+OBJECT_SHARED Models/Transport/hatchback_green.ac 21.02986 42.58540 547.55 272.29
+OBJECT_SHARED Models/Transport/hatchback_green.ac 21.02986 42.58543 547.55 272.82
+OBJECT_SHARED Models/Transport/hatchback_green.ac 21.02986 42.58547 547.61 275.27
+OBJECT_SHARED Models/lib/loader.ac 21.02994 42.58571 547.76 0
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 21.03019 42.58347 546.22 185.95
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 21.03005 42.58354 546.31 185.95
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 21.03000 42.58344 546.25 185.95
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 21.03006 42.58335 546.15 6.34
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 21.02976 42.58575 547.88 270
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 21.02982 42.58576 547.88 267.06
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 21.03009 42.58490 547.11 279.16
+# END dsf2stg

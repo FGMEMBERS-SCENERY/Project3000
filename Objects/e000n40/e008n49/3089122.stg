@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.61180 49.57111 95.52 112.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.61087 49.57087 95.46 191.46
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.61130 49.57055 95.74 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.61182 49.57022 95.66 224.1
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.61162 49.57060 95.65 205.08
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.61170 49.57062 95.60 203.43
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.61194 49.57075 95.66 292.62
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.61131 49.57034 95.54 108.08
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.61136 49.57035 95.50 108.44
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.61238 49.57069 95.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.61186 49.57066 95.61 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.61144 49.57040 95.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.61151 49.57083 95.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.61161 49.57075 95.71 116.57
+OBJECT_SHARED Models/lib/office16x4n.ac 8.61146 49.57068 95.73 21.93
+OBJECT_SHARED Models/lib/office16x4n.ac 8.61176 49.57073 95.66 287.72
+OBJECT_SHARED Models/lib/stack_of_cones.ac 8.61246 49.57055 96.02 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 8.61180 49.57016 95.64 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.61138 49.57079 95.66 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.61152 49.57071 95.73 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.61146 49.57055 95.64 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.61098 49.57119 95.25 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.61102 49.57109 95.34 341.57
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.61105 49.57101 95.42 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.61200 49.57069 95.54 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.61270 49.57088 95.77 180
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.61251 49.57076 95.68 206.56
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.61268 49.57077 95.88 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.61271 49.57060 96.18 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.61207 49.56996 96.22 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.61173 49.57003 95.82 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.61265 49.57039 96.38 235.38
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.61261 49.57058 96.06 32.69
+# END dsf2stg

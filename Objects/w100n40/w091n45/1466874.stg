@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -90.42716 45.95409 -0.49 -77.4698
+OBJECT_SHARED Models/lib/MedHangar.ac -90.42657 45.95262 -0.50 179.535
+OBJECT_SHARED Models/lib/SmHangar.ac -90.42693 45.95427 -0.49 180.659
+OBJECT_SHARED Models/lib/SmHangar.ac -90.42679 45.95357 -0.50 180
+# END dsf2stg

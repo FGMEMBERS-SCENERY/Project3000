@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -74.20637 -13.15357 2743.79 246.77
+OBJECT_SHARED Models/lib/RampParking.xml -74.20569 -13.15326 2728.26 271.909
+OBJECT_SHARED Models/lib/RampParking.xml -74.20561 -13.15453 2721.65 330.683
+OBJECT_SHARED Models/lib/RampParking.xml -74.20606 -13.15397 2731.30 279.904
+OBJECT_SHARED Models/lib/cars6.ac -74.20667 -13.15366 2743.44 336.26
+OBJECT_SHARED Models/lib/cars6.ac -74.20649 -13.15373 2743.80 156.059
+OBJECT_SHARED Models/lib/cars6.ac -74.20660 -13.15350 2743.63 336.545
+OBJECT_SHARED Models/lib/cars6.ac -74.20642 -13.15357 2743.79 156.922
+OBJECT_SHARED Models/lib/cars6.ac -74.20650 -13.15325 2743.56 335.344
+OBJECT_SHARED Models/lib/cars6.ac -74.20632 -13.15333 2743.66 154.747
+OBJECT_SHARED Models/lib/cars6.ac -74.20644 -13.15312 2743.49 334.806
+OBJECT_SHARED Models/lib/cars6.ac -74.20626 -13.15319 2743.60 154.238
+OBJECT_SHARED Models/lib/cars14.ac -74.20656 -13.15313 2743.39 156.49
+OBJECT_SHARED Models/lib/cars14.ac -74.20674 -13.15355 2743.32 156.741
+OBJECT_SHARED Models/lib/cars14.ac -74.20677 -13.15357 2742.54 335.539
+OBJECT_SHARED Models/lib/cars14.ac -74.20659 -13.15314 2743.39 337.15
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.20567 -13.15296 2730.73 153.126
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -74.20573 -13.15306 2729.77 -26.4069
+OBJECT_SHARED Models/lib/SmHangar.ac -74.20495 -13.15244 2721.57 156.212
+OBJECT_SHARED Models/lib/SmHangar.ac -74.20405 -13.15082 2714.86 65.4235
+OBJECT_SHARED Models/lib/SmHangar.ac -74.20450 -13.15112 2719.59 155.384
+OBJECT_SHARED Models/lib/SmHangar.ac -74.20419 -13.15174 2712.52 247.495
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20652 -13.15301 2743.38 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20655 -13.15309 2743.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20658 -13.15316 2743.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20663 -13.15325 2743.45 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20671 -13.15347 2743.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20675 -13.15355 2742.48 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20678 -13.15362 2742.54 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20682 -13.15369 2742.74 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20549 -13.15243 2731.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20603 -13.15295 2743.57 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20613 -13.15288 2743.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20630 -13.15282 2743.36 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20629 -13.15270 2743.30 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20641 -13.15275 2743.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20560 -13.15206 2743.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20576 -13.15199 2743.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.20570 -13.15232 2743.36 0
+# END dsf2stg

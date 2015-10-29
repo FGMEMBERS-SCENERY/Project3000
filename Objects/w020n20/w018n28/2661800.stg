@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac -17.75699 28.63670 13.44 211.61
+OBJECT_SHARED Models/lib/office6x12.ac -17.75701 28.63681 12.40 182.35
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -17.75698 28.63434 22.67 1.97
+OBJECT_SHARED Models/Transport/hatchback_black.ac -17.75704 28.63440 23.11 5.63
+# END dsf2stg

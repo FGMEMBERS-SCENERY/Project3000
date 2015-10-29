@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -6.87909 56.49877 9.68 306.87
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -6.87958 56.49921 9.95 189.66
+OBJECT_SHARED Models/lib/stack_of_cones.ac -6.87959 56.49894 9.92 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -6.87957 56.49892 9.91 95.86
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -6.87913 56.49871 9.68 246.8
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -6.87931 56.49911 9.82 150.68
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -6.87841 56.49825 9.29 -42.57
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -6.87907 56.49820 9.51 235.01
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -6.87978 56.49856 9.94 97.83
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -6.87974 56.49823 9.81 270
+OBJECT_SHARED Models/lib/cars10.ac -6.87977 56.49822 9.82 97.29
+OBJECT_SHARED Models/lib/cars10.ac -6.87985 56.49851 9.95 277.07
+OBJECT_SHARED Models/lib/cars10.ac -6.87958 56.49854 9.82 277.07
+OBJECT_SHARED Models/lib/office3x10.ac -6.87958 56.49886 9.91 9.45999
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -6.87969 56.49897 9.98 190.59
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -6.87848 56.49900 9.46 102.36
+# END dsf2stg

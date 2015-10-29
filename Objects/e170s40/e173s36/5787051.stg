@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91834 -35.26158 -0.76 112.05
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91600 -35.26226 -0.80 136.52
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91744 -35.26205 -0.78 35.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91292 -35.26315 -0.83 15.38
+OBJECT_SHARED Models/lib/SmHangar.ac 173.91584 -35.26283 -0.80 317.88
+OBJECT_SHARED Models/lib/hangar81x16.ac 173.91298 -35.26381 -0.84 108.16
+OBJECT_SHARED Models/lib/SmHangar.ac 173.91849 -35.26147 -0.76 57.07
+OBJECT_SHARED Models/lib/SmHangar.ac 173.91853 -35.26156 -0.75 337.15
+OBJECT_SHARED Models/lib/SmHangar.ac 173.91728 -35.26217 -0.78 302.81
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 173.91230 -35.26311 -0.84 196.66
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 173.91236 -35.26308 -0.84 61.77
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 173.91174 -35.26296 -0.84 330.17
+OBJECT_SHARED Models/Misc/picnic_table.ac 173.91193 -35.26326 -0.84 286.11
+OBJECT_SHARED Models/Misc/picnic_table.ac 173.91187 -35.26328 -0.84 286.41
+OBJECT_SHARED Models/lib/belt_loader.ac 173.91177 -35.26296 -0.84 -72.89
+OBJECT_SHARED Models/lib/chariot2.ac 173.91175 -35.26290 -0.84 49.88
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 173.91250 -35.26304 -0.83 286.44
+OBJECT_SHARED Models/lib/stack_of_cones.ac 173.91179 -35.26301 -0.84 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 173.91259 -35.26311 -0.83 105.7
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 173.91254 -35.26301 -0.83 196.18
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 173.91183 -35.26316 -0.84 0
+OBJECT_SHARED Models/lib/cars6.ac 173.91620 -35.26278 -0.80 45.67
+OBJECT_SHARED Models/lib/cars14.ac 173.91215 -35.26389 -0.84 231.3
+OBJECT_SHARED Models/lib/cars7.ac 173.91260 -35.26372 -0.84 111.68
+OBJECT_SHARED Models/lib/cars7.ac 173.91262 -35.26371 -0.84 292.11
+OBJECT_SHARED Models/lib/cars14.ac 173.91247 -35.26357 -0.84 112.02
+OBJECT_SHARED Models/lib/cars14.ac 173.91244 -35.26359 -0.84 292.03
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91150 -35.26179 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91143 -35.26191 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91162 -35.26188 -0.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91136 -35.26201 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91153 -35.26199 -0.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91844 -35.26124 -0.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91831 -35.26124 -0.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91819 -35.26124 -0.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91804 -35.26120 -0.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91790 -35.26115 -0.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91797 -35.26104 -0.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91655 -35.26260 -0.79 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91295 -35.26371 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91298 -35.26381 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91302 -35.26390 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91306 -35.26400 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91310 -35.26411 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.91314 -35.26422 -0.84 0
+# END dsf2stg

@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -88.51534 44.24963 -0.37 349.42
+OBJECT_SHARED Models/lib/LongRow.ac -88.51521 44.24940 -0.38 63.43
+OBJECT_SHARED Models/lib/LongRow.ac -88.51473 44.24923 -0.38 64.49
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -88.51415 44.24992 -0.34 242.65
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -88.51434 44.24998 -0.34 65.43
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -88.51749 44.24981 -0.40 108.82
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -88.51566 44.24907 -0.39 63.43
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -88.51672 44.24950 -0.40 154.94
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -88.51591 44.24945 -0.39 151.59
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -88.51525 44.24934 -0.38 154.03
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -88.51476 44.24916 -0.38 153.74
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -88.51936 44.24972 -0.43 158.8
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -88.51969 44.24923 -0.45 108.44
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -88.51987 44.24897 -0.45 108.15
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -88.52022 44.24845 -0.47 158.18
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -88.52160 44.24971 -0.45 289.69
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -88.51954 44.24820 -0.47 153.7
+# END dsf2stg

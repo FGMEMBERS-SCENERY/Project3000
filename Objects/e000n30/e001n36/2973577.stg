@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/chariot5.ac 1.32568 36.21682 -0.47 246.04
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 1.32543 36.21683 -0.46 139.76
+OBJECT_SHARED Models/lib/CargoPodPkng.ac 1.32501 36.21654 -0.46 103.38
+OBJECT_SHARED Models/Airport/cargobox.xml 1.32492 36.21675 -0.45 345.96
+OBJECT_SHARED Models/Airport/cargobox.xml 1.32494 36.21673 -0.45 248.2
+OBJECT_SHARED Models/Airport/cargobox.xml 1.32493 36.21672 -0.45 167.47
+OBJECT_SHARED Models/Airport/cargobox.xml 1.32496 36.21675 -0.45 208.3
+OBJECT_SHARED Models/Airport/cargobox.xml 1.32490 36.21674 -0.45 173.29
+OBJECT_SHARED Models/lib/container6.ac 1.32437 36.21663 -0.44 184.09
+OBJECT_SHARED Models/lib/belt_loader.ac 1.32429 36.21660 -0.44 119.36
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 1.32391 36.21665 -0.43 282.16
+OBJECT_SHARED Models/lib/FireStationLg.ac 1.33207 36.21059 -0.71 24.22
+OBJECT_SHARED Models/lib/office32x25.ac 1.32586 36.21818 -0.43 13.65
+OBJECT_SHARED Models/lib/LgMaint.ac 1.33364 36.21050 -0.74 294.75
+OBJECT_SHARED Models/lib/fboModern1.ac 1.32748 36.20907 -0.65 293.68
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 1.32562 36.21735 -0.45 283.54
+OBJECT_SHARED Models/lib/office112x50.ac 1.33119 36.21048 -0.70 293.91
+OBJECT_SHARED Models/Aircraft/D328_services.xml 1.32779 36.21004 -0.65 112.38
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 1.32680 36.20970 -0.63 20.3
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 1.32579 36.21674 -0.47 14.1
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 1.32392 36.21645 -0.43 146.69
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 1.32316 36.21632 -0.42 230.87
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 1.32291 36.21628 -0.41 224.09
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 1.32528 36.21816 -0.42 280.94
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 1.32476 36.21802 -0.41 192.26
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 1.32458 36.21799 -0.41 192.38
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 1.32407 36.21791 -0.40 13.31
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 1.32530 36.21804 -0.43 101.44
+# END dsf2stg

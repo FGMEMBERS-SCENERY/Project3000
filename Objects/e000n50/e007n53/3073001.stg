@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.36966 53.72480 0.22 273.33
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.37059 53.72457 0.40 1.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.37032 53.72456 0.46 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.36998 53.72416 1.38 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.37035 53.72419 1.20 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.36996 53.72442 0.95 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.37019 53.72447 0.68 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.36993 53.72452 0.75 313.6
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.36997 53.72449 0.73 315.33
+OBJECT_SHARED Models/Transport/hatchback_red.ac 7.36973 53.72464 0.60 338.94
+OBJECT_SHARED Models/Transport/hatchback_red.ac 7.36957 53.72462 0.65 344.5
+OBJECT_SHARED Models/Transport/hatchback_red.ac 7.36965 53.72462 0.63 340.82
+OBJECT_SHARED Models/lib/SmHangar.ac 7.36983 53.72455 0.57 225.53
+# END dsf2stg

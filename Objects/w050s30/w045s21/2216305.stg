@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -44.87352 -20.17385 792.04 212.71
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -44.87395 -20.17314 786.16 66.96
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -44.87400 -20.17305 786.16 300.3
+OBJECT_SHARED Models/Airport/cargoip.xml -44.87397 -20.17310 786.16 27.2
+OBJECT_SHARED Models/Airport/cargobox.xml -44.87396 -20.17312 786.16 29.25
+OBJECT_SHARED Models/lib/SmHangar.ac -44.87392 -20.17298 785.55 121.64
+OBJECT_SHARED Models/lib/MedHangar.ac -44.87356 -20.17279 784.40 121.73
+OBJECT_SHARED Models/lib/fboModern1.ac -44.87379 -20.17344 788.37 211.27
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -44.87279 -20.17354 786.63 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -44.87278 -20.17355 787.16 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -44.87278 -20.17355 786.63 0
+OBJECT_SHARED Models/lib/SmHangar.ac -44.87256 -20.17386 787.31 31.78
+OBJECT_SHARED Models/lib/SmHangar.ac -44.87273 -20.17362 786.44 32.14
+OBJECT_SHARED Models/lib/MedHangar.ac -44.87300 -20.17323 786.49 31.58
+OBJECT_SHARED Models/lib/stack_of_cones.ac -44.87258 -20.17387 787.31 180
+OBJECT_SHARED Models/lib/cone.ac -44.87305 -20.17317 787.21 0
+OBJECT_SHARED Models/lib/cone.ac -44.87307 -20.17314 786.68 0
+OBJECT_SHARED Models/lib/cone.ac -44.87309 -20.17312 786.68 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -44.87384 -20.17296 785.62 0
+OBJECT_SHARED Models/lib/cone.ac -44.87360 -20.17372 790.59 0
+OBJECT_SHARED Models/lib/cone.ac -44.87357 -20.17377 791.28 90
+OBJECT_SHARED Models/lib/cone.ac -44.87354 -20.17381 791.35 0
+OBJECT_SHARED Models/lib/cone.ac -44.87349 -20.17389 792.04 0
+OBJECT_SHARED Models/lib/cone.ac -44.87346 -20.17392 792.04 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -44.87330 -20.17278 784.63 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -44.87324 -20.17285 785.39 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -44.87032 -20.17947 790.90 -57.75
+OBJECT_SHARED Models/Misc/6barrels.ac -44.87061 -20.17944 791.92 303.57
+OBJECT_SHARED Models/lib/stack_of_cones.ac -44.87209 -20.17457 786.67 68.32
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -44.87209 -20.17456 786.67 124.29
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -44.87221 -20.17437 786.67 132.51
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -44.87194 -20.17474 785.59 123.12
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -44.87202 -20.17451 785.59 212.02
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -44.87188 -20.17492 786.31 -6.70999
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -44.87212 -20.17458 786.67 31.58
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -44.87246 -20.17434 788.48 34.13
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -44.87268 -20.17404 788.56 28.66
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -44.87308 -20.17309 786.68 33.42
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -44.87280 -20.17353 786.63 30.65
+# END dsf2stg

@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -66.87154 52.92602 -0.29 22.02
+OBJECT_SHARED Models/lib/container1.ac -66.87305 52.92694 -0.25 0
+OBJECT_SHARED Models/lib/container1.ac -66.87310 52.92693 -0.25 0
+OBJECT_SHARED Models/lib/container1.ac -66.87311 52.92696 -0.25 0
+OBJECT_SHARED Models/lib/container6.ac -66.87325 52.92806 -0.24 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -66.87356 52.92590 -0.25 18.96
+OBJECT_SHARED Models/Transport/hatchback_green.ac -66.87397 52.92659 -0.24 286.65
+OBJECT_SHARED Models/Transport/hatchback_green.ac -66.87348 52.92591 -0.25 19.98
+OBJECT_SHARED Models/Transport/hatchback_black.ac -66.87414 52.92764 -0.23 200.35
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -66.87290 52.92600 -0.27 22.11
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -66.87309 52.92602 -0.26 18.44
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -66.87327 52.92593 -0.26 200.56
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -66.87419 52.92597 -0.24 20.56
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -66.87475 52.92640 -0.22 22.38
+OBJECT_SHARED Models/Transport/hatchback_green.ac -66.87365 52.92650 -0.24 19.44
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -66.87450 52.92645 -0.23 200.23
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -66.87411 52.92633 -0.23 290.22
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -66.87446 52.92604 -0.23 18.44
+OBJECT_SHARED Models/lib/CargoPalettePkng.ac -66.87360 52.92826 -0.23 112.56
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -66.87337 52.92825 -0.23 109.98
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.87218 52.92577 -0.28 290.56
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -66.87234 52.92611 -0.28 292.13
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -66.87344 52.92710 -0.25 108.85
+OBJECT_SHARED Models/lib/loader.ac -66.87337 52.92702 -0.25 199.18
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -66.87320 52.92597 -0.26 109.23
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -66.87440 52.92645 -0.23 109.81
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -66.87446 52.92606 -0.23 110.1
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -66.87455 52.92623 -0.23 289.7
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -66.87469 52.92638 -0.22 109.65
+OBJECT_SHARED Models/lib/MedHangar.ac -66.87213 52.92519 -0.29 199.8
+OBJECT_SHARED Models/lib/HorizTanks2.ac -66.87355 52.92704 -0.24 290.28
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -66.87363 52.92760 -0.23 290.22
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -66.87398 52.92827 -0.22 288.43
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -66.87219 52.92563 -0.28 345.63
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -66.87254 52.92606 -0.27 291.8
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -66.87297 52.92665 -0.26 286.7
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -66.87316 52.92696 -0.25 289.29
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -66.87279 52.92632 -0.26 288.44
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -66.87328 52.92758 -0.24 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -66.87362 52.92708 -0.24 264.92
+OBJECT_SHARED Models/lib/SmHangar.ac -66.86382 52.91500 -0.40 199.98
+# END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml -3.97288 55.97400 104.88 0
+OBJECT_SHARED Models/Airport/cargoip.xml -3.97291 55.97403 104.88 20.22
+OBJECT_SHARED Models/lib/SmHangar.ac -3.97603 55.97342 106.43 288.95
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -3.97648 55.97341 106.47 304.16
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.97269 55.97429 104.21 286.98
+OBJECT_SHARED Models/lib/stack_of_cones.ac -3.97286 55.97415 104.65 0
+OBJECT_SHARED Models/lib/MedHangar.ac -3.97235 55.97401 104.89 15.42
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -3.97286 55.97425 104.22 0
+OBJECT_SHARED Models/lib/SmHangar.ac -3.97254 55.97373 105.56 197.53
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -3.97654 55.97356 106.03 287.68
+OBJECT_SHARED Models/lib/SmHangar.ac -3.97265 55.97392 105.11 197.71
+OBJECT_SHARED Models/lib/LgMaint.ac -3.97399 55.97376 105.35 287.22
+# END dsf2stg

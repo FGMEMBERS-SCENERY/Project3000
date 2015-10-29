@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.11088 44.74659 -0.43 47.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.11069 44.74671 -0.43 39
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.11055 44.74683 -0.43 69.07
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -81.11189 44.74768 -0.38 225.27
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.11100 44.74649 -0.43 26.44
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -81.11186 44.74651 -0.41 261.67
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.11149 44.74671 -0.41 313.02
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.11177 44.74667 -0.41 224.83
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.11038 44.74643 -0.44 46.97
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.11063 44.74625 -0.44 48.51
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.11294 44.74592 -0.41 45.97
+OBJECT_SHARED Models/lib/cars6.ac -81.11198 44.74751 -0.39 133.61
+OBJECT_SHARED Models/lib/SmHangar.ac -81.11322 44.74603 -0.40 137.71
+OBJECT_SHARED Models/lib/SmHangar.ac -81.11307 44.74615 -0.40 137.71
+OBJECT_SHARED Models/lib/SmHangar.ac -81.11293 44.74626 -0.40 137.71
+OBJECT_SHARED Models/lib/SmHangar.ac -81.11176 44.74632 -0.42 216.54
+OBJECT_SHARED Models/lib/SmHangar.ac -81.11193 44.74649 -0.41 216.54
+OBJECT_SHARED Models/lib/SmHangar.ac -81.11157 44.74615 -0.42 216.54
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -81.11058 44.74741 -0.41 314.19
+# END dsf2stg

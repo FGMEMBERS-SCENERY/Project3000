@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.31991 -3.78968 -0.36 265.601
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.32050 -3.78913 -0.36 259.875
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.31958 -3.78863 -0.34 158.429
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.30565 -3.78524 -0.27 282.45
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.30492 -3.78587 -0.29 147.995
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.30510 -3.78389 -0.24 180
+OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -73.30211 -3.78358 -0.28 153.435
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -73.30439 -3.78519 -0.28 -79.4609
+OBJECT_SHARED Models/lib/cars10.ac -73.30289 -3.78503 -0.30 34
+OBJECT_SHARED Models/lib/cars14.ac -73.30274 -3.78544 -0.31 33
+OBJECT_SHARED Models/lib/cars14.ac -73.30242 -3.78473 -0.30 124
+OBJECT_SHARED Models/lib/cars14.ac -73.30312 -3.78519 -0.30 124
+OBJECT_SHARED Models/lib/cars14.ac -73.30233 -3.78516 -0.31 33
+OBJECT_SHARED Models/lib/cars14.ac -73.30235 -3.78514 -0.31 213
+OBJECT_SHARED Models/lib/cars14.ac -73.30212 -3.78501 -0.31 33
+OBJECT_SHARED Models/lib/cars14.ac -73.30214 -3.78499 -0.31 213
+OBJECT_SHARED Models/lib/cars14.ac -73.30276 -3.78543 -0.31 213
+OBJECT_SHARED Models/lib/cars14.ac -73.30295 -3.78554 -0.31 213
+OBJECT_SHARED Models/lib/cars14.ac -73.30294 -3.78556 -0.31 33
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.30286 -3.78495 -0.30 33.44
+OBJECT_SHARED Models/lib/SmHangar.ac -73.30530 -3.78578 -0.28 215.95
+OBJECT_SHARED Models/lib/SmHangar.ac -73.32035 -3.78941 -0.36 213.85
+OBJECT_SHARED Models/lib/MedHangar.ac -73.32011 -3.78899 -0.35 122.6
+# END dsf2stg

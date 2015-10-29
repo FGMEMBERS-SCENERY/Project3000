@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml 12.61651 35.50008 -0.30 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 12.61581 35.50007 -0.32 124
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 12.61604 35.50019 -0.32 124
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 12.61632 35.50032 -0.31 124
+OBJECT_SHARED Models/lib/loader.ac 12.61631 35.50041 -0.31 122.96
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 12.61608 35.50074 -0.33 301.83
+OBJECT_SHARED Models/lib/loader.ac 12.61589 35.50008 -0.32 211.91
+OBJECT_SHARED Models/lib/belt_loader.ac 12.61581 35.50005 -0.32 216.33
+# END dsf2stg

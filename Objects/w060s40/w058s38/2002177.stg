@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -57.58437 -37.93434 -0.62 229.6
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -57.58162 -37.93309 -0.62 12.35
+OBJECT_SHARED Models/lib/LgMaint.ac -57.58259 -37.93427 -0.60 61.54
+OBJECT_SHARED Models/lib/cars2.ac -57.58292 -37.93285 -0.64 101.75
+OBJECT_SHARED Models/lib/cars2.ac -57.58290 -37.93296 -0.64 102.38
+OBJECT_SHARED Models/lib/cars4.ac -57.58296 -37.93275 -0.64 100.19
+OBJECT_SHARED Models/lib/cars10.ac -57.58264 -37.93316 -0.63 101.53
+OBJECT_SHARED Models/lib/cars10.ac -57.58275 -37.93277 -0.64 102.65
+OBJECT_SHARED Models/lib/office32x25n.ac -57.58480 -37.93106 -0.70 149.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -57.58068 -37.93284 -0.61 286.78
+OBJECT_SHARED Models/Aircraft/737virgin.xml -57.58134 -37.93430 -0.58 105.85
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.58395 -37.93172 -0.68 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.58387 -37.93162 -0.68 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.58378 -37.93152 -0.68 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.58315 -37.93397 -0.62 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.58286 -37.93358 -0.62 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.58294 -37.93368 -0.62 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.58300 -37.93378 -0.62 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.58307 -37.93387 -0.62 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -57.58155 -37.93344 -0.61 148.62
+# END dsf2stg

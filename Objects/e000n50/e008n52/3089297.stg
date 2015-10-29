@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.32815 52.35219 44.32 342.53
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.33041 52.35239 44.81 149.04
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.32974 52.35275 44.90 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.33035 52.35288 45.21 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.32985 52.35296 44.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32776 52.35312 44.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32805 52.35309 44.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32839 52.35306 44.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32867 52.35301 44.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32895 52.35298 44.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32923 52.35295 44.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32939 52.35307 45.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32996 52.35279 45.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32958 52.35318 45.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32983 52.35288 45.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.33014 52.35299 45.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.33000 52.35293 44.99 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.33004 52.35281 45.06 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.33018 52.35286 45.10 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.33029 52.35297 45.13 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.33008 52.35311 44.96 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.32985 52.35303 44.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.32975 52.35282 44.91 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.32989 52.35269 44.84 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.32985 52.35276 44.95 0
+OBJECT_SHARED Models/lib/cars6.ac 8.32939 52.35292 44.86 69.02
+OBJECT_SHARED Models/lib/cars6.ac 8.32976 52.35302 45.01 249.92
+OBJECT_SHARED Models/lib/MedHangar.ac 8.32817 52.35264 44.23 78.31
+OBJECT_SHARED Models/lib/SmHangar.ac 8.33071 52.35276 45.48 171.17
+OBJECT_SHARED Models/lib/SmHangar.ac 8.33068 52.35264 44.90 170.93
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.33004 52.35267 44.98 345.44
+OBJECT_SHARED Models/lib/SmHangar.ac 8.32909 52.35268 44.57 77.54
+OBJECT_SHARED Models/lib/SmHangar.ac 8.32869 52.35275 44.50 77.68
+OBJECT_SHARED Models/lib/SmHangar.ac 8.32867 52.35268 44.41 77.68
+OBJECT_SHARED Models/lib/SmHangar.ac 8.32864 52.35259 44.31 77.84
+# END dsf2stg

@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac 140.50401 -4.76346 -0.34 0
+OBJECT_SHARED Models/Misc/6barrels.ac 140.50413 -4.76343 -0.34 180
+OBJECT_SHARED Models/lib/coal_pile.ac 140.50367 -4.76366 -0.34 20.94
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 140.50581 -4.76672 -0.38 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 140.50597 -4.76662 -0.38 0
+OBJECT_SHARED Models/Misc/6barrels.ac 140.50372 -4.76357 -0.34 256.62
+# END dsf2stg

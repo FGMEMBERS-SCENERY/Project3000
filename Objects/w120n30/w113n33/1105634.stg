@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -112.36034 33.54652 247.49 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -112.36039 33.54743 332.96 0
+OBJECT_SHARED Models/lib/office40x25.ac -112.36578 33.53986 331.21 182.69
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -112.36703 33.53043 328.56 198.43
+OBJECT_SHARED Models/lib/LongRow.ac -112.37671 33.53244 329.18 117.75
+OBJECT_SHARED Models/lib/MedHangar.ac -112.38048 33.53135 329.15 317.683
+OBJECT_SHARED Models/lib/MedHangar.ac -112.38230 33.52972 328.73 317.683
+OBJECT_SHARED Models/lib/MedHangar.ac -112.38284 33.52925 328.67 317.683
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -112.37606 33.53290 329.27 91.147
+OBJECT_SHARED Models/lib/MedHangar.ac -112.37473 33.53391 329.56 182.14
+# END dsf2stg

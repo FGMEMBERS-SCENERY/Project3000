@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.25598 51.16215 462.74 273.47
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.25751 51.16232 465.90 178.15
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.25548 51.16206 463.57 275.71
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.25539 51.16205 463.22 275.44
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.25788 51.16244 467.30 177.14
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.25779 51.16244 467.07 173.99
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.25772 51.16244 466.89 176.63
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25809 51.16239 467.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25472 51.16200 464.51 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25611 51.16247 464.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25595 51.16238 464.29 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.25616 51.16239 463.94 356.73
+OBJECT_SHARED Models/lib/MedHangar.ac 8.25661 51.16230 463.62 86.27
+OBJECT_SHARED Models/lib/SmHangar.ac 8.25579 51.16207 463.06 97.54
+OBJECT_SHARED Models/lib/cars4.ac 8.25527 51.16216 464.42 186.34
+# END dsf2stg

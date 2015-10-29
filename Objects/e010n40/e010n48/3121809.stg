@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 10.44635 48.29122 490.96 341.62
+OBJECT_SHARED Models/lib/SmHangar.ac 10.44582 48.29117 491.21 70.56
+OBJECT_SHARED Models/lib/SmHangar.ac 10.44568 48.29121 491.18 70.56
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.44546 48.29089 490.79 255.64
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.44706 48.29100 491.45 156.95
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.44551 48.29101 490.89 253.58
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.44602 48.29118 491.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.44706 48.29109 491.53 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.44670 48.29099 490.94 161.35
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.44666 48.29100 490.94 164.5
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.44661 48.29100 490.88 164.28
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.44596 48.29126 491.39 341.69
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.44511 48.29160 491.65 354.81
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.44519 48.29159 491.65 348.2
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.44516 48.29160 491.65 345.65
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.44503 48.29150 491.50 156.45
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.44508 48.29149 491.50 156.6
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.44515 48.29147 491.50 164.36
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.44538 48.29145 491.37 196.86
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.44543 48.29133 491.22 198.82
+OBJECT_SHARED Models/lib/cars2.ac 10.44645 48.29103 490.94 269.64
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44698 48.29115 491.38 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44691 48.29118 491.32 180
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44605 48.29128 491.27 225
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44603 48.29139 491.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44591 48.29142 491.45 135
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44574 48.29145 491.38 251.56
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44561 48.29150 491.51 246.8
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44544 48.29150 491.51 281.31
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44551 48.29141 491.36 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44553 48.29134 491.22 33.69
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.44554 48.29128 491.22 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.44652 48.29106 490.89 164.97
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.44612 48.29126 491.27 266.04
+# END dsf2stg

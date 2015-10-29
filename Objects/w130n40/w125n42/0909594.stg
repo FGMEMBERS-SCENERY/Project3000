@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -124.42659 42.41993 -0.52 274.086
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -124.42622 42.41946 -0.54 50.7111
+OBJECT_SHARED Models/Transport/Norberttruck.xml -124.42621 42.41984 -0.54 50.1951
+OBJECT_SHARED Models/Transport/Norberttruck.xml -124.42633 42.41989 -0.54 228.367
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -124.42652 42.41918 -0.52 22.2099
+OBJECT_SHARED Models/Misc/picnic_table.ac -124.42607 42.41878 -0.54 247.38
+OBJECT_SHARED Models/Misc/picnic_table.ac -124.42629 42.41878 -0.54 32.0051
+OBJECT_SHARED Models/Misc/picnic_table.ac -124.42643 42.41891 -0.54 180
+OBJECT_SHARED Models/Misc/picnic_table.ac -124.42650 42.41905 -0.54 308.66
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -124.42665 42.41914 -0.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -124.42658 42.41953 -0.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -124.42668 42.42044 -0.52 0
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42356 42.41873 -0.58 0.989998
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42356 42.41894 -0.58 0
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42345 42.41092 -0.49 357.9
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42356 42.41045 -0.46 358.78
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42351 42.41069 -0.47 358.36
+OBJECT_SHARED Models/lib/MedHangar.ac -124.42391 42.41563 -0.55 0
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42371 42.41758 -0.57 2.49
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42372 42.41771 -0.57 2.39
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42372 42.41785 -0.57 1.68427
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42341 42.41824 -0.59 271.482
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42360 42.41824 -0.57 271.193
+OBJECT_SHARED Models/lib/LongRow.ac -124.42363 42.41741 -0.57 273.581
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -124.42381 42.41820 -0.57 181.01
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42383 42.41593 -0.55 0.800003
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42383 42.41607 -0.56 0.949997
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42363 42.41623 -0.56 0.540001
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42364 42.41638 -0.56 0
+OBJECT_SHARED Models/lib/SmHangar.ac -124.42364 42.41656 -0.56 0.970001
+OBJECT_SHARED Models/Transport/hatchback_green.ac -124.42364 42.41808 -0.57 268.977
+# END dsf2stg

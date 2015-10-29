@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -78.92384 33.68372 -0.55 281.74
+OBJECT_SHARED Models/lib/MedHangar.ac -78.93407 33.67293 -0.37 191.74
+OBJECT_SHARED Models/lib/MedHangar.ac -78.93394 33.67093 -0.38 191.74
+OBJECT_SHARED Models/lib/LongRow.ac -78.93552 33.67211 -0.32 191.74
+OBJECT_SHARED Models/lib/LongRow.ac -78.93589 33.67352 -0.30 191.74
+OBJECT_SHARED Models/lib/LgMaint.ac -78.93336 33.66857 -0.39 191.74
+OBJECT_SHARED Models/lib/LgMaint.ac -78.93367 33.66988 -0.38 191.74
+OBJECT_SHARED Models/lib/LgMaint.ac -78.93429 33.67174 -0.36 191.74
+OBJECT_SHARED Models/lib/MedHangar.ac -78.91998 33.67337 -0.76 350.32
+OBJECT_SHARED Models/lib/MedHangar.ac -78.91984 33.67409 -0.77 350.32
+OBJECT_SHARED Models/lib/MedHangar.ac -78.92014 33.67229 -0.77 350.32
+OBJECT_SHARED Models/lib/MedHangar.ac -78.91970 33.67473 -0.77 350.32
+OBJECT_SHARED Models/lib/LgMaint.ac -78.91987 33.67556 -0.76 350.32
+OBJECT_SHARED Models/lib/LgMaint.ac -78.91987 33.67556 -0.76 350.32
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92356 33.68034 -0.62 35
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92387 33.68029 -0.61 35
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92419 33.68023 -0.61 35
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92397 33.68055 -0.61 215
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92364 33.68061 -0.62 215
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92356 33.68219 -0.59 303.74
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92377 33.68299 -0.57 303.74
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92370 33.68313 -0.57 214.51
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92380 33.68311 -0.56 260.8
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92370 33.68272 -0.57 303.74
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92363 33.68245 -0.58 303.74
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -78.91959 33.67624 -0.76 0
+# END dsf2stg

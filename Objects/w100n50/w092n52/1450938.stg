@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -91.31463 52.94456 -0.21 67.08
+OBJECT_SHARED Models/lib/MedHangar.ac -91.31529 52.94458 -0.23 157.06
+OBJECT_SHARED Models/Airport/cargoip.xml -91.31539 52.94421 -0.22 336.11
+OBJECT_SHARED Models/Airport/cargoip.xml -91.31536 52.94420 -0.22 65.65
+OBJECT_SHARED Models/Airport/cargobox.xml -91.31533 52.94419 -0.22 336.43
+OBJECT_SHARED Models/lib/HorizTanks2.ac -91.31483 52.94512 -0.22 150
+OBJECT_SHARED Models/lib/HorizTanks2.ac -91.31491 52.94503 -0.22 150
+OBJECT_SHARED Models/lib/HorizTanks2.ac -91.31456 52.94553 -0.22 236
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -91.31351 52.94523 -0.20 80
+# END dsf2stg

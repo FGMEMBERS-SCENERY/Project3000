@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -124.89656 49.72131 22.84 267.93
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -124.90748 49.70545 15.47 97.3
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90012 49.72438 19.72 68.22
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90073 49.72385 20.74 358.07
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -124.90617 49.70939 18.30 20.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -124.90639 49.70935 18.20 21.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -124.90720 49.70940 18.54 200.89
+OBJECT_SHARED Models/lib/MedHangar.ac -124.90672 49.70907 18.30 289.67
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90898 49.70620 17.54 2.91
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90805 49.70633 16.80 49
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90734 49.70639 16.19 45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90650 49.70632 15.46 26.57
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90159 49.71413 22.67 325.58
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90164 49.71395 22.58 293.02
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90167 49.71390 22.50 293.02
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90181 49.71388 22.50 242.81
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90329 49.71295 21.60 23.87
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90255 49.71267 21.39 290.25
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90265 49.71251 21.15 290.25
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90276 49.71232 20.95 290.25
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90288 49.71212 20.73 290.25
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90300 49.71194 20.52 292.9
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90578 49.70613 15.28 356.13
+OBJECT_SHARED Models/lib/FireStationLg.ac -124.90221 49.71647 24.44 336.83
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -124.89296 49.71012 17.32 202.09
+# END dsf2stg

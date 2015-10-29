@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -89.45922 45.62946 -0.54 210.49
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -89.45929 45.62942 -0.54 211.92
+OBJECT_SHARED Models/lib/LongRow.ac -89.46014 45.62822 -0.52 123.98
+OBJECT_SHARED Models/lib/fboModern1.ac -89.45988 45.62915 -0.54 303.55
+OBJECT_SHARED Models/lib/SmHangar.ac -89.46085 45.62763 -0.51 38.06
+OBJECT_SHARED Models/lib/SmHangar.ac -89.46105 45.62782 -0.51 37.62
+OBJECT_SHARED Models/lib/SmHangar.ac -89.46123 45.62800 -0.52 36.55
+OBJECT_SHARED Models/lib/MedHangar.ac -89.46263 45.62740 -0.51 33.9
+OBJECT_SHARED Models/lib/MedHangar.ac -89.46306 45.62789 -0.53 33.16
+OBJECT_SHARED Models/lib/SmHangar.ac -89.46143 45.62820 -0.53 34.88
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.46414 45.62660 -0.50 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.46422 45.62667 -0.50 0
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -89.45991 45.62931 -0.54 270
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -89.46024 45.62919 -0.54 270
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.45845 45.62826 -0.50 68.4
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.45817 45.62864 -0.51 69.35
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.45832 45.62843 -0.50 72
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -89.45879 45.62858 -0.51 253.5
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -89.45891 45.62840 -0.51 248.75
+OBJECT_SHARED Models/Aircraft/D328_services.xml -89.46137 45.62862 -0.53 90
+OBJECT_SHARED Models/Aircraft/D328_services.xml -89.46169 45.62854 -0.54 90
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.46517 45.62659 -0.51 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.46550 45.62649 -0.50 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.46570 45.62636 -0.50 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.46597 45.62628 -0.50 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.46440 45.62697 -0.51 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -89.46420 45.62697 -0.51 0
+OBJECT_SHARED Models/lib/SmHangar.ac -89.45770 45.62882 -0.51 339.68
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.45910 45.62837 -0.51 67.85
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.45795 45.62860 -0.51 67.92
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.45822 45.62820 -0.50 67.46
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.45884 45.62873 -0.52 -27.04
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.45935 45.62938 -0.54 270
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.45924 45.62943 -0.54 270
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -89.46157 45.62862 -0.54 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -89.46015 45.62928 -0.54 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -89.45979 45.62938 -0.54 0
+# END dsf2stg

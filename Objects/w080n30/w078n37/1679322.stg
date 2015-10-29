@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -77.33250 37.49706 -0.60 166.99
+OBJECT_SHARED Models/lib/SmHangar.ac -77.33439 37.49726 -0.62 331.82
+OBJECT_SHARED Models/lib/MedHangar.ac -77.33476 37.49703 -0.63 257.97
+OBJECT_SHARED Models/lib/MedHangar.ac -77.33567 37.49754 -0.63 168.15
+OBJECT_SHARED Models/lib/MedHangar.ac -77.33549 37.49820 -0.61 168.15
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.33622 37.49732 -0.64 167.34
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.33618 37.49754 -0.63 167.34
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.33779 37.49848 -0.62 231.11
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.33770 37.49843 -0.62 231.11
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.33762 37.49837 -0.62 231.11
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.33396 37.49987 -0.54 31.11
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.33431 37.49994 -0.55 31.11
+OBJECT_SHARED Models/lib/office32x25n.ac -77.31435 37.49272 -0.24 0
+OBJECT_SHARED Models/lib/office32x25.ac -77.31427 37.49360 -0.22 0.949997
+OBJECT_SHARED Models/lib/MedHangar.ac -77.31242 37.49371 -0.15 179.57
+# END dsf2stg

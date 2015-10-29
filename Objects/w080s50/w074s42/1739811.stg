@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09805 -41.43259 -0.65 333.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09805 -41.43262 -0.65 293.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09806 -41.43295 -0.64 333.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09806 -41.43299 -0.64 293.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09807 -41.43332 -0.63 333.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09807 -41.43336 -0.63 293.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09807 -41.43370 -0.62 333.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09807 -41.43373 -0.62 293.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09809 -41.43407 -0.61 333.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09809 -41.43411 -0.61 293.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09808 -41.43452 -0.61 333.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09808 -41.43455 -0.61 303.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09736 -41.43506 -0.59 313.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09738 -41.43549 -0.58 313.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09739 -41.43586 -0.57 313.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.09740 -41.43631 -0.56 313.47
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -73.09788 -41.43261 -0.65 102.16
+OBJECT_SHARED Models/lib/jetway_e16m.ac -73.09830 -41.43260 -0.65 358.47
+OBJECT_SHARED Models/lib/jetway_e16m.ac -73.09788 -41.43261 -0.65 178.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09827 -41.43260 -0.65 358.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09810 -41.43261 -0.65 358.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09791 -41.43261 -0.65 358.47
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -73.09792 -41.43297 -0.64 110.47
+OBJECT_SHARED Models/lib/jetway_e16m.ac -73.09788 -41.43297 -0.64 178.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09811 -41.43297 -0.64 358.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09813 -41.43297 -0.64 358.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09815 -41.43297 -0.64 358.47
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -73.09792 -41.43335 -0.63 110.47
+OBJECT_SHARED Models/lib/jetway_e16m.ac -73.09789 -41.43335 -0.63 178.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09811 -41.43334 -0.63 358.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09813 -41.43334 -0.63 358.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09815 -41.43334 -0.63 358.47
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -73.09793 -41.43372 -0.63 110.47
+OBJECT_SHARED Models/lib/jetway_e16m.ac -73.09789 -41.43372 -0.63 178.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09811 -41.43372 -0.62 358.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09814 -41.43372 -0.62 358.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09816 -41.43372 -0.62 358.47
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -73.09801 -41.43409 -0.62 88.02
+OBJECT_SHARED Models/lib/jetway_e16m.ac -73.09820 -41.43409 -0.61 358.47
+OBJECT_SHARED Models/lib/jetway_e10m.ac -73.09820 -41.43409 -0.61 178.47
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -73.09831 -41.43409 -0.61 358.47
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -73.09697 -41.43508 -0.60 221.96
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.09719 -41.43665 -0.55 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.09698 -41.43698 -0.54 0
+OBJECT_SHARED Models/lib/SmHangar.ac -73.09767 -41.43165 -0.67 179.72
+OBJECT_SHARED Models/lib/SmHangar.ac -73.09779 -41.43165 -0.67 179.72
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.09790 -41.43556 -0.58 269.62
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -73.09736 -41.43133 -0.68 88.87
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -73.09767 -41.43137 -0.68 -0.179993
+OBJECT_SHARED Models/lib/MedHangar.ac -73.09728 -41.42670 -0.74 178.59
+OBJECT_SHARED Models/lib/fboModern1.ac -73.09754 -41.44052 -0.61 177.86
+OBJECT_SHARED Models/lib/MedHangar.ac -73.09777 -41.44277 -0.66 177.78
+OBJECT_SHARED Models/lib/FireStationLg.ac -73.09758 -41.43714 -0.54 358.82
+# END dsf2stg

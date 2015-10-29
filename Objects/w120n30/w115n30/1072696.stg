@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.80841 30.93184 -0.33 90
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.80845 30.93180 -0.33 2.00955
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.80848 30.93178 -0.33 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.80874 30.93208 -0.28 221.987
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.80870 30.93212 -0.28 222.324
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -114.80869 30.93242 -0.28 131.092
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -114.80897 30.93259 -0.27 117.35
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -114.80918 30.93263 -0.27 160.302
+OBJECT_SHARED Models/Aircraft/ATR42.xml -114.80808 30.93113 -0.34 -16.991
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -114.80828 30.93097 -0.34 40.5812
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -114.80814 30.93143 -0.34 309.468
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -114.80824 30.93148 -0.33 220.48
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -114.80785 30.93109 -0.34 -1.80603
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -114.80907 30.93283 -0.27 79.2869
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -114.80849 30.93173 -0.33 39.71
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -114.80882 30.93207 -0.28 37.9211
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -114.80829 30.93154 -0.33 190.054
+# END dsf2stg

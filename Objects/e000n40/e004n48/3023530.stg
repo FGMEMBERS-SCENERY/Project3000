@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 4.68492 48.70044 121.17 329.339
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 4.68245 48.69989 121.42 340.107
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 4.68238 48.69992 121.39 327.724
+OBJECT_SHARED Models/Transport/hatchback_red.ac 4.68231 48.69993 121.38 326.889
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 4.68231 48.70009 121.24 334.195
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 4.68269 48.70019 121.35 65.2247
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 4.68516 48.70064 121.12 336.529
+OBJECT_SHARED Models/lib/SmHangar.ac 4.68293 48.69990 121.45 245.256
+OBJECT_SHARED Models/lib/SmHangar.ac 4.68273 48.69996 121.46 245.049
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.68165 48.70029 121.14 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.68429 48.70079 121.21 0
+OBJECT_SHARED Models/lib/SmHangar.ac 4.68514 48.70058 121.12 246.367
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 4.68376 48.70066 121.28 154.333
+# END dsf2stg

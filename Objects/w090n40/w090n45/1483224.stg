@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.79967 45.46796 -0.33 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -89.79969 45.46782 -0.33 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -89.79964 45.46770 -0.34 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.79647 45.46762 -0.39 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.79702 45.46762 -0.38 0
+OBJECT_SHARED Models/lib/SmHangar.ac -89.79770 45.46757 -0.37 90
+OBJECT_SHARED Models/lib/SmHangar.ac -89.79771 45.46776 -0.37 90.75
+OBJECT_SHARED Models/lib/SmHangar.ac -89.79729 45.46766 -0.38 90
+OBJECT_SHARED Models/lib/SmHangar.ac -89.79668 45.46756 -0.39 90
+OBJECT_SHARED Models/lib/SmHangar.ac -89.79668 45.46770 -0.39 90
+OBJECT_SHARED Models/lib/SmHangar.ac -89.79668 45.46784 -0.38 90
+OBJECT_SHARED Models/lib/SmHangar.ac -89.79669 45.46797 -0.38 90
+OBJECT_SHARED Models/lib/SmHangar.ac -89.79822 45.46759 -0.37 90
+OBJECT_SHARED Models/lib/SmHangar.ac -89.79821 45.46775 -0.36 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.79717 45.46789 -0.37 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.79839 45.46809 -0.35 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.79841 45.46809 -0.35 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.79843 45.46809 -0.35 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.79845 45.46809 -0.35 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.79848 45.46809 -0.35 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.79727 45.46787 -0.37 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.79912 45.46768 -0.35 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -89.79914 45.46809 -0.33 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.79647 45.46753 -0.39 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.79703 45.46753 -0.39 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -89.79720 45.46784 -0.38 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -89.79902 45.46771 -0.35 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.79746 45.46784 -0.37 270
+OBJECT_SHARED Models/lib/office40x25.ac -89.79883 45.46775 -0.35 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -89.79922 45.46764 -0.35 269.714
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -89.79942 45.46764 -0.34 90
+# END dsf2stg

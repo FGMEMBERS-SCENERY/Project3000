@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParking.xml -84.08263 43.53780 -0.59 59.29
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -84.08150 43.53792 -0.58 235.39
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -84.08239 43.53789 -0.59 257.3
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -84.08209 43.53767 -0.58 24.64
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -84.09010 43.53433 -0.58 175.38
+OBJECT_SHARED Models/Aircraft/737virgin.xml -84.08925 43.53373 -0.56 50.6
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -84.08925 43.53395 -0.57 289.52
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -84.08950 43.53404 -0.57 168.51
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -84.08996 43.53408 -0.57 197.68
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -84.08949 43.53373 -0.56 72.23
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -84.08238 43.53771 -0.59 291.83
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -84.08278 43.53787 -0.60 237.94
+OBJECT_SHARED Models/Aircraft/737virgin.xml -84.08191 43.53752 -0.58 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -84.08273 43.52711 -0.55 0
+OBJECT_SHARED Models/lib/MedHangar.ac -84.08979 43.52965 -0.54 135.01
+OBJECT_SHARED Models/lib/MedHangar.ac -84.08928 43.53002 -0.53 133.99
+OBJECT_SHARED Models/lib/FireStationLg.ac -84.08731 43.53233 -0.51 359.92
+OBJECT_SHARED Models/lib/fboModern1.ac -84.08841 43.53032 -0.52 134.45
+OBJECT_SHARED Models/lib/LgMaint.ac -84.09212 43.52883 -0.57 90
+# END dsf2stg

@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac 106.81841 47.63976 -0.37 0
+OBJECT_SHARED Models/lib/coal_pile.ac 106.83007 47.64176 -0.58 0
+OBJECT_SHARED Models/lib/coal_pile.ac 106.82802 47.64185 -0.56 90
+OBJECT_SHARED Models/lib/coal_pile.ac 106.82533 47.64280 -0.51 90
+OBJECT_SHARED Models/lib/coal_pile.ac 106.82315 47.64206 -0.48 90
+OBJECT_SHARED Models/lib/coal_pile.ac 106.81279 47.64461 -0.23 90
+OBJECT_SHARED Models/lib/coal_pile.ac 106.81140 47.64548 -0.25 90
+OBJECT_SHARED Models/lib/coal_pile.ac 106.80812 47.64529 -0.33 90
+OBJECT_SHARED Models/lib/coal_pile.ac 106.80638 47.64602 -0.37 90
+OBJECT_SHARED Models/lib/coal_pile.ac 106.80896 47.65348 -0.17 90
+OBJECT_SHARED Models/Airport/egkk_oil.xml 106.80366 47.65369 -0.27 246.696
+OBJECT_SHARED Models/Airport/egkk_oil.xml 106.80422 47.65359 -0.28 101.659
+OBJECT_SHARED Models/Airport/egkk_oil.xml 106.80437 47.65392 -0.27 291.559
+OBJECT_SHARED Models/Airport/egkk_oil.xml 106.80380 47.65403 -0.27 51.1343
+OBJECT_SHARED Models/lib/FireStationLg.ac 106.81547 47.65242 -0.17 254.796
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 106.82410 47.65151 -0.38 255.464
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 106.82799 47.65073 -0.46 31.4653
+OBJECT_SHARED Models/lib/container6.ac 106.82266 47.65152 -0.36 347.153
+OBJECT_SHARED Models/lib/chariot5.ac 106.81919 47.65215 -0.27 165.169
+OBJECT_SHARED Models/lib/chariot3curve.ac 106.81724 47.65245 -0.21 38.1387
+OBJECT_SHARED Models/lib/belt_loader.ac 106.82424 47.65149 -0.38 107.698
+OBJECT_SHARED Models/lib/belt_loader.ac 106.81767 47.65260 -0.23 74.7454
+OBJECT_SHARED Models/lib/belt_loader.ac 106.81756 47.65261 -0.23 76.201
+OBJECT_SHARED Models/Misc/picnic_table.ac 106.81851 47.64470 -0.38 172.875
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 106.81846 47.64476 -0.36 0
+OBJECT_SHARED Models/lib/LgMaint.ac 106.82760 47.65091 -0.46 75.4118
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 106.81359 47.65267 -0.13 165.575
+OBJECT_SHARED Models/Aircraft/D328_services.xml 106.81224 47.65208 -0.12 75.0805
+# END dsf2stg

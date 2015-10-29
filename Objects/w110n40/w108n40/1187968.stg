@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -107.89125 40.04133 -0.63 232.431
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -107.89233 40.04072 -0.64 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -107.89225 40.04087 -0.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -107.89237 40.04092 -0.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -107.89248 40.04096 -0.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -107.89259 40.04088 -0.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -107.89265 40.04078 -0.66 0
+OBJECT_SHARED Models/lib/office16x4n.ac -107.89187 40.04046 -0.64 77.6852
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -107.89150 40.04093 -0.64 230.308
+OBJECT_SHARED Models/lib/SmHangar.ac -107.89177 40.04094 -0.64 320
+OBJECT_SHARED Models/lib/SmHangar.ac -107.89145 40.04124 -0.63 320
+OBJECT_SHARED Models/lib/SmHangar.ac -107.89046 40.04215 -0.62 318.562
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -107.89129 40.04200 -0.64 140.117
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -107.89141 40.04207 -0.64 316.848
+# END dsf2stg

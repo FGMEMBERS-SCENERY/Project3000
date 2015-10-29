@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.72414 33.80878 -0.73 315.32
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.72384 33.80852 -0.74 315.32
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.72360 33.80831 -0.75 315.32
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.72308 33.80869 -0.74 94.4
+OBJECT_SHARED Models/lib/MedHangar.ac -78.72222 33.80948 -0.73 43.89
+OBJECT_SHARED Models/lib/office32x25n.ac -78.72033 33.80979 -0.73 116.56
+OBJECT_SHARED Models/lib/office32x25n.ac -78.72175 33.80881 -0.75 134.43
+OBJECT_SHARED Models/lib/office40x25.ac -78.72135 33.80915 -0.74 134.27
+OBJECT_SHARED Models/lib/office32x25.ac -78.72095 33.80966 -0.73 131.45
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -78.71992 33.81131 -0.69 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -78.71996 33.81139 -0.69 133.49
+OBJECT_SHARED Models/lib/SmHangar.ac -78.71963 33.81121 -0.69 315
+OBJECT_SHARED Models/lib/MedHangar.ac -78.72026 33.81076 -0.70 313.18
+OBJECT_SHARED Models/lib/MedHangar.ac -78.71990 33.81103 -0.70 313.18
+OBJECT_SHARED Models/lib/MedHangar.ac -78.72169 33.81029 -0.71 313.18
+OBJECT_SHARED Models/lib/MedHangar.ac -78.72264 33.80913 -0.74 313.18
+OBJECT_SHARED Models/lib/cars6.ac -78.72070 33.81036 -0.71 223.74
+OBJECT_SHARED Models/lib/cars6.ac -78.72308 33.80870 -0.74 41.79
+OBJECT_SHARED Models/lib/cars6.ac -78.72280 33.80873 -0.74 223.64
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -78.72447 33.80848 -0.74 46.58
+# END dsf2stg

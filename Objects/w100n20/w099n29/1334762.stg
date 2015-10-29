@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -98.45209 29.73774 -0.74 347.01
+OBJECT_SHARED Models/lib/SmHangar.ac -98.45281 29.73696 -0.76 170.54
+OBJECT_SHARED Models/lib/SmHangar.ac -98.45292 29.73645 -0.76 170.54
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.45221 29.73796 -0.74 79.99
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.45213 29.73782 -0.74 348.64
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.45235 29.73903 -0.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.45163 29.73892 -0.72 0
+OBJECT_SHARED Models/lib/SmHangar.ac -98.45192 29.73822 -0.73 174.81
+OBJECT_SHARED Models/lib/SmHangar.ac -98.45375 29.73753 -0.78 258.99
+OBJECT_SHARED Models/lib/SmHangar.ac -98.45400 29.73757 -0.78 258.96
+OBJECT_SHARED Models/lib/SmHangar.ac -98.45424 29.73761 -0.79 258.76
+OBJECT_SHARED Models/lib/MedHangar.ac -98.45324 29.73568 -0.77 261.96
+OBJECT_SHARED Models/lib/MedHangar.ac -98.45294 29.73758 -0.76 259.13
+OBJECT_SHARED Models/lib/LongRow.ac -98.45189 29.73654 -0.74 81.03
+OBJECT_SHARED Models/lib/LongRow.ac -98.45247 29.73666 -0.75 80.54
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -98.45422 29.73767 -0.78 347.47
+OBJECT_SHARED Models/lib/office6x12.ac -98.45245 29.73791 -0.74 348.69
+# END dsf2stg

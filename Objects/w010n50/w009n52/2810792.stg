@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92485 52.69357 3.00 197.57
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92373 52.69356 2.72 197.5
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92251 52.69350 2.44 197.44
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92139 52.69344 2.19 197.41
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92031 52.69339 1.96 197.1
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.91921 52.69328 1.75 197.62
+OBJECT_SHARED Models/lib/LgMaint.ac -8.90507 52.70694 2.02 324.97
+OBJECT_SHARED Models/lib/MedHangar.ac -8.90767 52.70391 0.62 343.35
+OBJECT_SHARED Models/lib/LgMaint.ac -8.90898 52.70013 -0.04 11.07
+OBJECT_SHARED Models/lib/LongRow.ac -8.90838 52.69898 0.00 10.76
+OBJECT_SHARED Models/lib/FireStationLg.ac -8.91273 52.69087 1.28 108.73
+OBJECT_SHARED Models/lib/office32x25.ac -8.91347 52.69039 1.43 92.01
+OBJECT_SHARED Models/lib/MedHangar.ac -8.91346 52.69079 1.36 272.19
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -8.91787 52.69178 1.66 50.44
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -8.92815 52.69539 4.06 305.33
+OBJECT_SHARED Models/lib/LongRow.ac -8.92777 52.69636 3.97 4.09
+OBJECT_SHARED Models/lib/office32x25.ac -8.92814 52.69536 4.06 34.05
+# END dsf2stg

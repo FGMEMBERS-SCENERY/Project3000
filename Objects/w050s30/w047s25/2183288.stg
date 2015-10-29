@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -46.82944 -24.07106 15.25 -70
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -46.82685 -24.07040 11.77 210
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -46.82723 -24.07058 11.79 200
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -46.82902 -24.07085 14.15 -70
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -46.82939 -24.06961 13.25 200
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -46.82979 -24.07051 14.14 204
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -46.82980 -24.07026 13.87 185
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -46.82997 -24.07003 13.75 200
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -46.83005 -24.06980 13.70 190
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -46.82980 -24.06981 13.56 200
+OBJECT_SHARED Models/Transport/hatchback_red.ac -46.83016 -24.06979 13.76 240
+OBJECT_SHARED Models/Transport/hatchback_black.ac -46.82996 -24.07030 14.29 220
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82953 -24.07021 13.55 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82923 -24.07012 13.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82926 -24.07023 13.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82929 -24.07022 13.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82930 -24.07015 13.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82939 -24.07024 13.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82943 -24.07022 13.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82946 -24.07027 13.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82957 -24.07031 13.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82959 -24.07026 13.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82973 -24.07021 13.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82956 -24.07014 13.53 0
+OBJECT_SHARED Models/lib/SmHangar.ac -46.82933 -24.06985 13.24 288
+# END dsf2stg

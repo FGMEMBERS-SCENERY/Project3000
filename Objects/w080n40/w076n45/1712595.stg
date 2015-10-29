@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -75.17407 45.30293 62.88 201.43
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.17496 45.30262 62.86 109.07
+OBJECT_SHARED Models/lib/SmHangar.ac -75.17461 45.30236 63.09 293.17
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -75.17365 45.30285 62.77 202.62
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -75.17432 45.30249 63.12 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -75.17432 45.30248 63.12 0
+# END dsf2stg

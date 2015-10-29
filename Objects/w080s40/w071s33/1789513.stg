@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70633 -32.75052 -0.58 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70645 -32.75043 -0.58 255.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70643 -32.75006 -0.57 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70645 -32.75021 -0.57 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70646 -32.75032 -0.58 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70612 -32.75057 -0.58 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70586 -32.75065 -0.58 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70557 -32.75072 -0.57 71.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70526 -32.75081 -0.57 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70499 -32.75088 -0.57 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70478 -32.75092 -0.56 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70450 -32.75097 -0.56 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70429 -32.75101 -0.56 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70430 -32.75090 -0.56 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70436 -32.75077 -0.55 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70442 -32.75057 -0.55 209.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70450 -32.75047 -0.55 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70455 -32.75037 -0.54 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70463 -32.75024 -0.54 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70470 -32.75015 -0.54 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70484 -32.75001 -0.54 225
+# END dsf2stg

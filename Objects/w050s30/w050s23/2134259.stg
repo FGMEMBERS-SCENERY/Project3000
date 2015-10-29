@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -49.07342 -22.16234 594.01 296.97
+OBJECT_SHARED Models/lib/office32x25n.ac -49.07355 -22.16132 594.77 293.96
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -49.07084 -22.16546 590.50 115.96
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -49.07093 -22.16529 590.99 115.96
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -49.07103 -22.16510 591.48 115.96
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -49.07141 -22.16439 593.23 115.96
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -49.07149 -22.16420 593.71 115.96
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -49.07158 -22.16401 594.20 115.96
+OBJECT_SHARED Models/lib/RampGroup.xml -49.07186 -22.16600 590.63 295.15
+OBJECT_SHARED Models/lib/RampParking.xml -49.07247 -22.16452 592.90 295
+OBJECT_SHARED Models/lib/RampParking.xml -49.07231 -22.16486 592.77 295
+OBJECT_SHARED Models/lib/RampParking.xml -49.07213 -22.16518 592.38 295
+OBJECT_SHARED Models/lib/RampParking.xml -49.07197 -22.16551 591.70 295
+OBJECT_SHARED Models/Airport/cargobox.xml -49.07269 -22.16412 593.31 304.7
+OBJECT_SHARED Models/Airport/cargobox.xml -49.07267 -22.16411 593.31 212.01
+OBJECT_SHARED Models/Airport/cargobox.xml -49.07268 -22.16414 593.31 22
+OBJECT_SHARED Models/Airport/cargobox.xml -49.07266 -22.16413 593.31 22
+OBJECT_SHARED Models/lib/belt_loader.ac -49.07249 -22.16408 593.92 -67.07
+OBJECT_SHARED Models/lib/belt_loader.ac -49.07253 -22.16408 593.92 -65.06
+OBJECT_SHARED Models/lib/loader.ac -49.07228 -22.16405 594.90 270
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -49.07257 -22.16413 593.62 22.83
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -49.07261 -22.16416 593.36 22.83
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -49.07235 -22.16406 594.70 0
+OBJECT_SHARED Models/lib/office16x4n.ac -49.07770 -22.15369 577.52 296.57
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -49.07759 -22.15348 577.64 30.07
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -49.07709 -22.15403 580.38 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -49.07714 -22.15393 580.24 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -49.07719 -22.15384 579.69 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -49.07724 -22.15372 579.54 0
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -49.07300 -22.16548 588.83 205.31
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -49.07271 -22.16603 588.48 205.31
+OBJECT_SHARED Models/lib/cars10.ac -49.07271 -22.16603 588.48 115.2
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -49.07084 -22.16546 590.50 297.98
+OBJECT_SHARED Models/lib/cars10.ac -49.07300 -22.16548 588.83 292.25
+OBJECT_SHARED Models/lib/cars6.ac -49.07278 -22.16553 589.44 293.96
+# END dsf2stg

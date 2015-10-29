@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -85.67984 43.12899 -0.33 180
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -85.67988 43.12943 -0.33 130.39
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -85.67997 43.13061 -0.35 88.12
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -85.67906 43.12975 -0.36 0
+OBJECT_SHARED Models/lib/cars7.ac -85.68013 43.12952 -0.33 179.82
+OBJECT_SHARED Models/lib/cars14.ac -85.67996 43.13030 -0.35 359.15
+OBJECT_SHARED Models/lib/LongRow.ac -85.67914 43.13095 -0.38 270
+OBJECT_SHARED Models/lib/LongRow.ac -85.67873 43.13095 -0.39 270
+OBJECT_SHARED Models/lib/office32x25.ac -85.67977 43.12989 -0.34 0
+OBJECT_SHARED Models/lib/MedHangar.ac -85.67954 43.13028 -0.36 180
+OBJECT_SHARED Models/lib/LongRow.ac -85.67834 43.13095 -0.40 270
+OBJECT_SHARED Models/lib/LongRow.ac -85.67793 43.13095 -0.41 270
+OBJECT_SHARED Models/lib/SmHangar.ac -85.67957 43.13072 -0.36 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -85.68042 43.12846 -0.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -85.68088 43.12839 -0.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -85.68063 43.12952 -0.32 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -85.67957 43.13067 -0.36 311.63
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -85.67950 43.12966 -0.35 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.67897 43.12949 -0.35 268.64
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -85.67914 43.12973 -0.36 178.84
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -85.67988 43.12947 -0.33 89.54
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -85.67909 43.12944 -0.35 178.39
+OBJECT_SHARED Models/lib/chariot1.ac -85.67954 43.12982 -0.35 94.4
+OBJECT_SHARED Models/lib/chariot1.ac -85.67820 43.13029 -0.39 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -85.67974 43.12897 -0.33 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -85.67981 43.12897 -0.33 182.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.67892 43.12914 -0.35 91.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.67891 43.12888 -0.34 88.64
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -85.67885 43.12998 -0.37 357.14
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -85.68040 43.12896 -0.31 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -85.68000 43.13095 -0.36 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -85.68019 43.13088 -0.35 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -85.68041 43.13075 -0.34 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.67935 43.13172 -0.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.67935 43.13163 -0.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.67934 43.13154 -0.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.68017 43.13113 -0.36 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.68041 43.13101 -0.35 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.68065 43.13068 -0.34 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.68224 43.12967 -0.28 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -85.68200 43.12960 -0.28 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -85.68263 43.13002 -0.27 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -85.68261 43.13013 -0.28 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -85.68222 43.13005 -0.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -85.68040 43.12938 -0.32 0
+# END dsf2stg

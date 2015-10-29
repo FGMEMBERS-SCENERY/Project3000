@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -124.29120 42.07684 -0.71 162.07
+OBJECT_SHARED Models/lib/office32x25.ac -124.29156 42.07693 -0.69 213.89
+OBJECT_SHARED Models/lib/SmHangar.ac -124.29018 42.07581 -0.71 36.69
+OBJECT_SHARED Models/lib/SmHangar.ac -124.29102 42.07626 -0.70 36.45
+OBJECT_SHARED Models/lib/SmHangar.ac -124.29114 42.07638 -0.70 36.87
+OBJECT_SHARED Models/lib/SmHangar.ac -124.29126 42.07649 -0.70 36.86
+OBJECT_SHARED Models/lib/SmHangar.ac -124.29044 42.07565 -0.71 37.68
+OBJECT_SHARED Models/lib/SmHangar.ac -124.29061 42.07581 -0.70 37.83
+OBJECT_SHARED Models/lib/LongRow.ac -124.29038 42.07624 -0.71 126.9
+OBJECT_SHARED Models/lib/SmHangar.ac -124.28846 42.07364 -0.71 38.19
+OBJECT_SHARED Models/lib/MedHangar.ac -124.28945 42.07536 -0.72 35.59
+OBJECT_SHARED Models/lib/MedHangar.ac -124.28899 42.07412 -0.71 37.92
+OBJECT_SHARED Models/lib/SmHangar.ac -124.28809 42.07329 -0.71 40.03
+OBJECT_SHARED Models/lib/SmHangar.ac -124.28828 42.07345 -0.71 38.73
+OBJECT_SHARED Models/lib/SmHangar.ac -124.28865 42.07382 -0.71 37.91
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -124.28960 42.07558 -0.71 305.89
+# END dsf2stg

@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.23045 -12.62902 -0.32 15.07
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -69.23211 -12.62636 -0.26 99.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.23132 -12.62939 -0.33 304.59
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -69.23174 -12.62928 -0.33 40.6
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.23220 -12.62885 -0.32 234.95
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23243 -12.62854 -0.32 177.84
+OBJECT_SHARED Models/lib/MedHangar.ac -69.23239 -12.62809 -0.31 177.9
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23239 -12.62752 -0.29 177.91
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23238 -12.62731 -0.28 177.97
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23237 -12.62711 -0.28 178.05
+OBJECT_SHARED Models/lib/MedHangar.ac -69.23234 -12.62676 -0.27 177.79
+OBJECT_SHARED Models/lib/MedHangar.ac -69.23161 -12.62657 -0.26 89.62
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23201 -12.62920 -0.33 270
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23187 -12.62902 -0.33 0.239998
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23216 -12.62900 -0.33 180.8
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23114 -12.62914 -0.32 179.54
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23083 -12.62932 -0.33 270
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23104 -12.62932 -0.33 270
+OBJECT_SHARED Models/lib/SmHangar.ac -69.23071 -12.62914 -0.32 359.61
+# END dsf2stg

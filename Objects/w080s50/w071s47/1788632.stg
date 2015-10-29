@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars14.ac -70.98517 -46.53795 -0.48 70.0152
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -70.98335 -46.53790 -0.51 267.8
+OBJECT_SHARED Models/Aircraft/D328_services.xml -70.98590 -46.53742 -0.46 357.71
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.98560 -46.53711 -0.46 276.95
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.98371 -46.53838 -0.51 338.5
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -70.98623 -46.53773 -0.46 119.09
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -70.98602 -46.53773 -0.47 70.24
+OBJECT_SHARED Models/lib/SmHangar.ac -70.98392 -46.53817 -0.51 249.59
+OBJECT_SHARED Models/lib/MedHangar.ac -70.98437 -46.53803 -0.50 249.09
+# END dsf2stg

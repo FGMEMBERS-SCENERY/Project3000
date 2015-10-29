@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.51532 47.23808 591.64 269
+OBJECT_SHARED Models/lib/hangar81x16.ac 8.51617 47.23778 592.06 180
+OBJECT_SHARED Models/lib/6space_wStop.ac 8.51405 47.23779 590.69 2
+OBJECT_SHARED Models/lib/6space_wStop.ac 8.51369 47.23775 590.42 201
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51604 47.23779 591.98 180
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51604 47.23775 591.89 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.51601 47.23777 591.96 180
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.51401 47.23782 590.66 92
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.51402 47.23775 590.60 272
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.51374 47.23776 590.46 110
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.51369 47.23782 590.42 290.01
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.51347 47.23804 590.41 358
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.51460 47.23792 591.08 89
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 8.51566 47.23790 591.84 62
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51600 47.23775 591.86 260
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51599 47.23779 591.94 180
+# END dsf2stg

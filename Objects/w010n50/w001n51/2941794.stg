@@ -1,0 +1,46 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -0.42415 51.55708 37.34 339.57
+OBJECT_SHARED Models/lib/caisses_group.ac -0.41195 51.54945 30.99 90
+OBJECT_SHARED Models/lib/CargoPalettePkng.ac -0.41638 51.54955 31.90 174.67
+OBJECT_SHARED Models/Airport/cargoip.xml -0.41609 51.54950 31.81 0
+OBJECT_SHARED Models/Airport/cargobox.xml -0.41604 51.54951 31.80 0
+OBJECT_SHARED Models/Airport/cargobox.xml -0.41608 51.54952 31.80 0
+OBJECT_SHARED Models/lib/loader.ac -0.41690 51.54962 32.05 270
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -0.41697 51.54964 32.06 170.96
+OBJECT_SHARED Models/lib/container6.ac -0.41611 51.54958 31.82 0
+OBJECT_SHARED Models/lib/container6.ac -0.41599 51.54958 31.78 0
+OBJECT_SHARED Models/lib/belt_loader.ac -0.41919 51.54996 32.92 270
+OBJECT_SHARED Models/Aircraft/D328_services.xml -0.41894 51.55013 32.88 355.76
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -0.41917 51.55595 37.41 198.76
+OBJECT_SHARED Models/lib/MedHangar.ac -0.41252 51.55741 39.47 111.61
+OBJECT_SHARED Models/lib/LgMaint.ac -0.41491 51.55696 38.67 111.87
+OBJECT_SHARED Models/lib/office65x50.ac -0.42023 51.55650 37.59 287.9
+OBJECT_SHARED Models/lib/office112x50.ac -0.41750 51.55697 38.21 289.29
+OBJECT_SHARED Models/lib/FireStationLg.ac -0.41343 51.55730 39.21 290.49
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -0.42280 51.54909 33.60 355.03
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -0.42307 51.54918 33.74 265.62
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -0.42217 51.54927 33.56 348.69
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -0.42337 51.54942 33.96 174.62
+OBJECT_SHARED Models/lib/SmHangar.ac -0.42110 51.54939 33.30 286.39
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -0.42348 51.54938 33.99 84.57
+OBJECT_SHARED Models/lib/HorizTanks2.ac -0.42348 51.54929 33.92 175.31
+OBJECT_SHARED Models/lib/cars4.ac -0.40907 51.55154 32.02 32.01
+OBJECT_SHARED Models/lib/office32x25n.ac -0.40778 51.55085 31.34 236.96
+OBJECT_SHARED Models/lib/office32x25.ac -0.40727 51.55126 31.80 326.73
+OBJECT_SHARED Models/lib/cars10.ac -0.41713 51.54960 32.11 264.44
+OBJECT_SHARED Models/lib/fboModern1.ac -0.41900 51.54976 32.77 265.22
+OBJECT_SHARED Models/lib/MedHangar.ac -0.41801 51.54946 32.37 354.19
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -0.41780 51.54992 32.41 47.89
+OBJECT_SHARED Models/lib/chariot1.ac -0.41429 51.54951 31.37 90
+OBJECT_SHARED Models/lib/chariot1.ac -0.41292 51.54940 31.14 90
+OBJECT_SHARED Models/lib/chariot1.ac -0.41295 51.54940 31.15 93.81
+OBJECT_SHARED Models/lib/chariot1.ac -0.41320 51.54941 31.18 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -0.41282 51.54954 31.11 58.84
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -0.41368 51.54963 31.27 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -0.41461 51.54980 31.48 83.13
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -0.41555 51.54984 31.70 87.04
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -0.41653 51.54988 32.03 85.07
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -0.41666 51.55009 32.13 172.9
+# END dsf2stg

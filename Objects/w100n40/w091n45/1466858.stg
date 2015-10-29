@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -90.40815 45.70104 -0.69 211.46
+OBJECT_SHARED Models/lib/SmHangar.ac -90.40864 45.70470 -0.69 210.96
+OBJECT_SHARED Models/lib/SmHangar.ac -90.40842 45.70440 -0.70 210.1
+OBJECT_SHARED Models/lib/SmHangar.ac -90.40827 45.70474 -0.70 33.98
+OBJECT_SHARED Models/lib/SmHangar.ac -90.40811 45.70455 -0.70 34.03
+OBJECT_SHARED Models/lib/SmHangar.ac -90.41007 45.70363 -0.69 32.01
+OBJECT_SHARED Models/lib/SmHangar.ac -90.41023 45.70381 -0.69 31.09
+OBJECT_SHARED Models/lib/SmHangar.ac -90.41175 45.70371 -0.69 118.17
+OBJECT_SHARED Models/lib/SmHangar.ac -90.41209 45.70304 -0.68 90
+OBJECT_SHARED Models/lib/SmHangar.ac -90.40852 45.70187 -0.70 34.88
+OBJECT_SHARED Models/lib/MedHangar.ac -90.40854 45.70130 -0.70 211.83
+OBJECT_SHARED Models/lib/SmHangar.ac -90.40809 45.70137 -0.70 31.72
+OBJECT_SHARED Models/lib/SmHangar.ac -90.40791 45.70117 -0.70 33.6094
+OBJECT_SHARED Models/lib/MedHangar.ac -90.40958 45.70371 -0.70 122.12
+OBJECT_SHARED Models/lib/MedHangar.ac -90.40887 45.70404 -0.70 121.93
+OBJECT_SHARED Models/lib/office40x25.ac -90.41092 45.70388 -0.69 299.36
+OBJECT_SHARED Models/lib/SmHangar.ac -90.40675 45.70510 -0.70 216.255
+OBJECT_SHARED Models/lib/SmHangar.ac -90.40731 45.70486 -0.70 33.3415
+OBJECT_SHARED Models/lib/cone.ac -90.41032 45.70388 -0.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.40985 45.70436 -0.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.40982 45.70430 -0.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.40923 45.70478 -0.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.40913 45.70465 -0.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.40901 45.70453 -0.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.40896 45.70442 -0.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.40974 45.70420 -0.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.40965 45.70411 -0.69 0
+OBJECT_SHARED Models/lib/cone.ac -90.41031 45.70388 -0.69 0
+OBJECT_SHARED Models/lib/cone.ac -90.41035 45.70387 -0.69 0
+OBJECT_SHARED Models/lib/cone.ac -90.41039 45.70385 -0.69 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -90.41066 45.70354 -0.69 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -90.41088 45.70353 -0.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.41052 45.70348 -0.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.41072 45.70342 -0.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.41057 45.70358 -0.69 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.41125 45.70359 -0.69 122.006
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.41193 45.70332 -0.69 298.81
+# END dsf2stg

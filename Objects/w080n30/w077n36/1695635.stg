@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -76.17234 36.25425 -0.57 181.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.17317 36.25357 -0.53 31.3
+OBJECT_SHARED Models/lib/SmHangar.ac -76.17367 36.25321 -0.51 300.52
+OBJECT_SHARED Models/lib/MedHangar.ac -76.17431 36.25328 -0.50 212.27
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -76.17431 36.25274 -95.49 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.17203 36.25407 -0.57 299.59
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -76.16815 36.25590 -0.67 210.36
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -76.16807 36.25578 -0.67 210.36
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.17456 36.26424 -0.64 132.78
+OBJECT_SHARED Models/lib/office32x25.ac -76.17552 36.26544 -0.62 42.97
+OBJECT_SHARED Models/lib/office32x25n.ac -76.17416 36.26419 -0.65 41.91
+OBJECT_SHARED Models/lib/office32x25.ac -76.15903 36.26318 -0.84 87.4
+OBJECT_SHARED Models/lib/office32x25.ac -76.15865 36.26316 -0.84 87.4
+OBJECT_SHARED Models/lib/office40x25.ac -76.15894 36.26255 -0.84 87.37
+OBJECT_SHARED Models/lib/office32x25n.ac -76.15945 36.26254 -0.84 86.91
+OBJECT_SHARED Models/lib/office65x50.ac -76.16112 36.26284 -0.83 26.34
+# END dsf2stg

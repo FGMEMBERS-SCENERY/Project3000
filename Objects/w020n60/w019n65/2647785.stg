@@ -1,0 +1,51 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07562 65.65511 -0.65 91.91
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07545 65.65393 -0.68 182.6
+OBJECT_SHARED Models/lib/HorizTanks2.ac -18.07618 65.65519 -0.65 89.84
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -18.07507 65.65163 -0.74 101.8
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -18.07591 65.65088 -0.75 331.47
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -18.07498 65.65454 -0.67 184.2
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -18.07366 65.65428 -0.68 272.89
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -18.07598 65.65310 -0.70 128
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -18.07697 65.65369 -0.68 64.19
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07563 65.65183 -0.73 275.63
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07556 65.65157 -0.74 275.63
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07508 65.65144 -0.75 5.53
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07593 65.65060 -0.76 184.12
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07376 65.65377 -0.69 183.06
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07624 65.65402 -0.68 4.45001
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07592 65.65428 -0.67 95.5
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07533 65.65448 -0.67 93.78
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07579 65.65447 -0.67 4.95001
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07434 65.65375 -0.70 4.63
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07590 65.65408 -0.68 94.34
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -18.07315 65.65379 -0.70 183.09
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -18.07679 65.65401 -0.68 186.36
+OBJECT_SHARED Models/Airport/cargobox.xml -18.07500 65.65145 -0.75 0
+OBJECT_SHARED Models/Airport/cargobox.xml -18.07500 65.65147 -0.74 0
+OBJECT_SHARED Models/Airport/cargobox.xml -18.07512 65.65145 -0.74 0
+OBJECT_SHARED Models/Airport/cargobox.xml -18.07506 65.65148 -0.74 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -18.07515 65.65446 -0.67 284.93
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -18.07338 65.65382 -0.70 302.12
+OBJECT_SHARED Models/Airport/cargoip.xml -18.07512 65.65148 -0.74 0
+OBJECT_SHARED Models/Airport/cargoip.xml -18.07506 65.65146 -0.74 0
+OBJECT_SHARED Models/Airport/cargoip.xml -18.07519 65.65148 -0.74 0
+OBJECT_SHARED Models/lib/caisses_group.ac -18.07524 65.65419 -0.68 191.64
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -18.07559 65.65498 -0.66 181.1
+OBJECT_SHARED Models/lib/cars4.ac -18.07635 65.65076 -0.75 184.43
+OBJECT_SHARED Models/lib/cars14.ac -18.07641 65.65189 -0.73 275.94
+OBJECT_SHARED Models/lib/cars14.ac -18.07703 65.65289 -0.70 93.18
+OBJECT_SHARED Models/lib/cars14.ac -18.07791 65.65311 -0.69 4.42
+OBJECT_SHARED Models/lib/cars14.ac -18.07801 65.65368 -0.68 4.56
+OBJECT_SHARED Models/lib/cars14.ac -18.07653 65.65453 -0.66 4.14
+OBJECT_SHARED Models/lib/cars7.ac -18.07709 65.65401 -0.67 279.97
+OBJECT_SHARED Models/lib/MedHangar.ac -18.07497 65.65199 -0.73 184.37
+OBJECT_SHARED Models/lib/MedHangar.ac -18.07524 65.65336 -0.70 184.18
+OBJECT_SHARED Models/lib/SmHangar.ac -18.07532 65.65288 -0.71 184.43
+OBJECT_SHARED Models/lib/LongRow.ac -18.07726 65.65297 -0.70 94.88
+OBJECT_SHARED Models/lib/LongRow.ac -18.07651 65.65301 -0.70 94.88
+OBJECT_SHARED Models/lib/MedHangar.ac -18.07508 65.65248 -0.72 184.94
+OBJECT_SHARED Models/lib/MedHangar.ac -18.07519 65.65135 -0.75 183.61
+# END dsf2stg

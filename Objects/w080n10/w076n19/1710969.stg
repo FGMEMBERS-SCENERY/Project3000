@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -75.84079 19.97188 -0.16 86.19
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -75.84080 19.97192 -0.16 86.19
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -75.84079 19.97196 -0.16 86.19
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -75.83879 19.97205 -0.20 90.1
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.83673 19.97256 -0.25 90.71
+OBJECT_SHARED Models/lib/FireStationLg.ac -75.84213 19.97054 -0.09 270.42
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -75.84295 19.97108 -0.09 180
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.84358 19.97102 -95.07 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.84357 19.97122 -95.07 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.83735 19.97255 -0.24 90.71
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.83759 19.97227 -0.23 160.32
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.83767 19.97227 -0.23 90.5
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.83848 19.97225 -0.21 90.5
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.83898 19.97218 -0.20 90.5
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.83953 19.97214 -0.19 90.5
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.83998 19.97214 -0.18 90.5
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.84035 19.97207 -0.17 90.5
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.84093 19.97170 -0.15 180
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.84094 19.97201 -0.16 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.83788 19.97192 -0.21 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.83683 19.97221 -0.24 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.83731 19.97221 -0.23 180
+OBJECT_SHARED Models/lib/RampParking.xml -75.83848 19.97185 -0.20 180.5
+OBJECT_SHARED Models/lib/RampGroup.xml -75.83948 19.97197 -0.19 180
+OBJECT_SHARED Models/lib/RampParking.xml -75.83994 19.97169 -0.17 90
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -75.84021 19.97249 -0.18 180.39
+OBJECT_SHARED Models/lib/office32x25.ac -75.83725 19.97911 -0.35 2.68
+OBJECT_SHARED Models/lib/HorizTanks2.ac -75.83649 19.97759 -0.34 3.9
+OBJECT_SHARED Models/lib/HorizTanks2.ac -75.83649 19.97767 -0.34 3.9
+OBJECT_SHARED Models/lib/office16x4n.ac -75.83773 19.97377 -0.26 90
+OBJECT_SHARED Models/lib/office32x25n.ac -75.83790 19.97274 -0.23 270.56
+# END dsf2stg

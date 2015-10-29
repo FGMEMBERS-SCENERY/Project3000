@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars7.ac -71.14579 -42.90586 -0.46 303.01
+OBJECT_SHARED Models/lib/cars7.ac -71.14521 -42.90574 -0.46 303.16
+OBJECT_SHARED Models/lib/cars7.ac -71.14651 -42.90592 -0.47 122.52
+OBJECT_SHARED Models/lib/cars7.ac -71.14664 -42.90580 -0.48 127.27
+OBJECT_SHARED Models/lib/cars7.ac -71.14662 -42.90579 -0.48 306.87
+OBJECT_SHARED Models/lib/cars6.ac -71.14529 -42.90611 -0.45 210.51
+OBJECT_SHARED Models/lib/cars14.ac -71.14587 -42.90553 -0.48 123.69
+OBJECT_SHARED Models/lib/cars14.ac -71.14589 -42.90555 -0.48 303.56
+OBJECT_SHARED Models/lib/cars14.ac -71.14611 -42.90533 -0.48 122.2
+OBJECT_SHARED Models/lib/SmHangar.ac -71.14631 -42.90657 -0.47 121.26
+OBJECT_SHARED Models/lib/SmHangar.ac -71.14419 -42.90553 -0.46 35.3
+OBJECT_SHARED Models/lib/MedHangar.ac -71.14505 -42.90602 -0.45 122.99
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -71.14578 -42.90633 -0.46 30.67
+OBJECT_SHARED Models/lib/SmHangar.ac -71.14659 -42.90672 -0.47 133.41
+# END dsf2stg

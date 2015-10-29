@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -71.20200 -29.91766 -0.73 19
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -71.20230 -29.91753 -0.73 19
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -71.20259 -29.91740 -0.74 19
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -71.20294 -29.91726 -0.74 19
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -71.20327 -29.91710 -0.75 19
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -71.20361 -29.91695 -0.76 19
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -71.20483 -29.91643 -0.78 19
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -71.20392 -29.91682 -0.76 19
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -71.20422 -29.91669 -0.77 19
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -71.20452 -29.91656 -0.77 19
+OBJECT_SHARED Models/lib/SmHangar.ac -71.19866 -29.91903 -0.65 245.63
+OBJECT_SHARED Models/lib/SmHangar.ac -71.19951 -29.91869 -0.67 245.63
+OBJECT_SHARED Models/lib/SmHangar.ac -71.19940 -29.91873 -0.67 245.07
+OBJECT_SHARED Models/lib/FireStationLg.ac -71.20151 -29.91788 -0.72 63.99
+# END dsf2stg

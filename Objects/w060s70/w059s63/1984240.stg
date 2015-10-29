@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -58.98161 -62.19326 0.00 339.28
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -58.98007 -62.19348 0.00 -50.97
+OBJECT_SHARED Models/lib/MedHangar.ac -58.98079 -62.19359 0.00 239.24
+# END dsf2stg

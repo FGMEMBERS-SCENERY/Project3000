@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52099 37.40623 -0.54 137.74
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52150 37.40687 -0.56 316.33
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52126 37.40664 -0.55 310.4
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52292 37.40828 -0.61 318.22
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.52105 37.40645 -0.54 309.73
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.52345 37.40865 -0.63 129.72
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -77.52194 37.40722 -0.57 220.4
+OBJECT_SHARED Models/lib/LongRow.ac -77.51853 37.40663 -0.51 130
+OBJECT_SHARED Models/lib/LongRow.ac -77.52086 37.40886 -0.61 130
+OBJECT_SHARED Models/lib/LongRow.ac -77.51936 37.40801 -0.56 130
+OBJECT_SHARED Models/lib/LongRow.ac -77.51970 37.40780 -0.56 130
+OBJECT_SHARED Models/lib/LongRow.ac -77.51904 37.40823 -0.56 130
+OBJECT_SHARED Models/lib/LongRow.ac -77.51819 37.40686 -0.52 130
+OBJECT_SHARED Models/lib/office40x25.ac -77.52111 37.40751 -0.57 218.89
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -77.51991 37.40698 -0.54 128.37
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -77.52047 37.40748 -0.56 128.37
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -77.52091 37.40790 -0.58 128.37
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -77.52077 37.40777 -0.58 128.37
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -77.52021 37.40726 -0.56 128.37
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -77.52062 37.40763 -0.57 128.37
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -77.52005 37.40712 -0.55 128.37
+OBJECT_SHARED Models/lib/MedHangar.ac -77.51871 37.40488 -0.54 39.7
+OBJECT_SHARED Models/lib/MedHangar.ac -77.51950 37.40553 -0.54 37.98
+OBJECT_SHARED Models/lib/MedHangar.ac -77.52073 37.40661 -0.54 39
+OBJECT_SHARED Models/lib/MedHangar.ac -77.52030 37.40620 -0.53 39
+OBJECT_SHARED Models/lib/SmHangar.ac -77.51901 37.40602 -0.52 313.04
+OBJECT_SHARED Models/lib/SmHangar.ac -77.51944 37.40643 -0.52 127.53
+OBJECT_SHARED Models/lib/SmHangar.ac -77.51909 37.40515 -0.54 41.33
+# END dsf2stg

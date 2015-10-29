@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -70.37789 -25.56316 -0.16 181.98
+OBJECT_SHARED Models/lib/SmHangar.ac -70.37802 -25.56285 -0.15 213.99
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.37786 -25.56310 -0.15 219.81
+# END dsf2stg

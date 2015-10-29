@@ -1,0 +1,84 @@
+# osm2city_e000n50_e006n51_3056466
+# do not edit below this line
+# Last Written Tue Jul 28 13:36:13 2015
+#
+OBJECT_STATIC e000n50_e006n51_3056466city0414.xml 6.71092 51.26282 25.02 0
+OBJECT_STATIC lightmap-switch.xml 6.71092 51.26282 25.02 0
+OBJECT_STATIC e000n50_e006n51_3056466city0514.xml 6.73961 51.26282 35.65 0
+# END osm2city_e000n50_e006n51_3056466
+
+
+#OBJECT_SHARED /mh/vfl_stadion.ac 7.23649314 51.48992044 117.9952 299.6 0.0 -0.0
+
+OBJECT_SHARED /mh/messe_duesseldorf.ac 6.74134192 51.26025901 44.3269 38.5 0.0 -0.0
+
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 6.74308 51.28669 35.51 180
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 6.74316 51.28684 35.47 180
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 6.74313 51.28712 35.44 180
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 6.74284 51.28739 34.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 6.74299 51.28750 35.42 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 6.74260 51.28756 34.86 270
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 6.74235 51.28746 34.79 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 6.74242 51.28726 34.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 6.74293 51.28722 34.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.74277 51.28669 35.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.74306 51.28695 35.49 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74230 51.28598 36.74 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74238 51.28584 36.84 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74243 51.28570 36.87 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74255 51.28543 36.88 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74269 51.28513 36.74 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74281 51.28492 36.60 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74287 51.28471 36.61 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74296 51.28446 36.55 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74310 51.28421 36.64 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74328 51.28385 36.09 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74340 51.28361 35.94 45
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74351 51.28337 35.92 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74366 51.28300 35.94 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74391 51.28266 35.89 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74412 51.28222 35.90 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74424 51.28203 35.88 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74431 51.28185 35.87 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74448 51.28153 35.38 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74468 51.28119 35.85 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74478 51.28107 35.83 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74494 51.28079 35.82 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74505 51.28053 35.08 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74520 51.28022 35.56 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74536 51.27991 35.70 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74560 51.27950 35.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74745 51.27648 36.06 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74730 51.27660 36.24 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74701 51.27703 36.41 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74681 51.27744 35.49 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74583 51.27910 35.18 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74568 51.27934 35.25 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74595 51.27892 35.22 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74612 51.27858 35.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74626 51.27833 35.15 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74643 51.27808 35.51 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74657 51.27784 34.80 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74671 51.27760 35.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.74856 51.27569 36.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.74835 51.27553 36.28 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.74827 51.27545 36.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.74873 51.27477 34.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.74861 51.27490 35.05 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74975 51.27410 35.46 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74935 51.27411 35.42 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74922 51.27421 35.22 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74909 51.27431 35.10 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74900 51.27445 34.92 198.43
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74879 51.27469 34.97 206.56
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74869 51.27483 35.03 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74855 51.27501 35.05 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 6.74845 51.27512 35.11 0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.74944 51.27500 36.42 120.1
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.74993 51.27617 35.94 191.61
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.74969 51.27640 35.87 -78.82
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.74986 51.27691 35.68 9.73001
+# END dsf2stg

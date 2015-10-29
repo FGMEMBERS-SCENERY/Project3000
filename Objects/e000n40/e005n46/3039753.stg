@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.28928 46.20379 261.59 71.36
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 5.28931 46.20274 263.21 270
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.28821 46.20260 266.04 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.28773 46.20320 262.62 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 5.28882 46.20410 262.31 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 5.28837 46.20357 263.37 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 5.28878 46.20301 264.60 0
+OBJECT_SHARED Models/lib/office3x10.ac 5.28879 46.20345 262.63 179.58
+OBJECT_SHARED Models/lib/office3x10.ac 5.28880 46.20387 262.43 180.27
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.29029 46.20491 258.92 270
+OBJECT_SHARED Models/lib/MedHangar.ac 5.28925 46.20396 261.56 180
+OBJECT_SHARED Models/lib/office3x10.ac 5.28879 46.20310 264.14 179.12
+OBJECT_SHARED Models/lib/MedHangar.ac 5.28925 46.20357 261.92 179.89
+OBJECT_SHARED Models/lib/MedHangar.ac 5.28924 46.20270 263.44 179.86
+OBJECT_SHARED Models/lib/SmHangar.ac 5.28912 46.20246 263.77 90
+OBJECT_SHARED Models/lib/SmHangar.ac 5.28921 46.20242 263.32 180
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 5.28874 46.20418 262.41 0.119995
+# END dsf2stg

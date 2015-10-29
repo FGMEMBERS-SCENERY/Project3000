@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.34945 35.61995 96.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.34940 35.61987 96.00 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.34923 35.61788 96.01 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.34922 35.61809 96.00 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -119.34922 35.61796 96.01 83.99
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -119.34922 35.61798 96.01 284.89
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -119.34922 35.61801 96.01 304.7
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.34920 35.61995 96.00 55.95
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.34920 35.62005 96.00 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -119.34962 35.62044 95.69 1.16
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34944 35.62160 95.36 0
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34944 35.62139 95.51 0
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34945 35.62119 95.68 0
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34937 35.61751 96.01 359.11
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34937 35.61772 96.01 359.11
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -119.34949 35.61725 96.01 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -119.34949 35.61709 96.00 182.2
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -119.34952 35.62038 95.69 91.19
+OBJECT_SHARED Models/Transport/hatchback_red.ac -119.34951 35.61982 95.70 270
+OBJECT_SHARED Models/Transport/hatchback_red.ac -119.34951 35.62010 95.68 270.9
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -119.34952 35.61999 95.69 88.95
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -119.34951 35.62003 95.69 91.79
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -119.34921 35.61847 96.00 89.52
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -119.34920 35.61906 96.00 89.52
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -119.34920 35.61979 96.00 89.52
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -119.34919 35.62013 96.00 89.52
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -119.34919 35.62038 96.00 89.52
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -119.34919 35.62072 96.00 89.52
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -119.34977 35.62189 95.06 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -119.34976 35.62186 95.06 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -119.34976 35.62183 95.12 89.6
+# END dsf2stg

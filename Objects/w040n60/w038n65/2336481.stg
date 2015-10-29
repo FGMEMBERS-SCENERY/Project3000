@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -37.13652 65.57411 -0.44 95.65
+OBJECT_SHARED Models/Airport/cargoip.xml -37.13286 65.57384 -0.37 0
+OBJECT_SHARED Models/Airport/cargoip.xml -37.13292 65.57384 -0.37 0
+OBJECT_SHARED Models/Airport/cargoip.xml -37.13286 65.57381 -0.37 0
+OBJECT_SHARED Models/Airport/cargobox.xml -37.13286 65.57389 -0.37 0
+OBJECT_SHARED Models/Airport/cargobox.xml -37.13290 65.57387 -0.37 0
+OBJECT_SHARED Models/Airport/cargobox.xml -37.13291 65.57389 -0.37 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -37.13290 65.57397 -0.38 5.98
+OBJECT_SHARED Models/lib/fboModern1.ac -37.13392 65.57401 -0.40 95.82
+# END dsf2stg

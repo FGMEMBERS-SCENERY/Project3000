@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -8.67934 41.25494 51.67 279.19
+OBJECT_SHARED Models/lib/MedHangar.ac -8.67923 41.25524 52.36 10.37
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -8.67921 41.25582 -42.78 0
+OBJECT_SHARED Models/lib/FireStationLg.ac -8.67947 41.25612 51.01 191.31
+# END dsf2stg

@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac 14.62201 53.39636 -0.75 253.54
+OBJECT_SHARED Models/lib/cars2.ac 14.62175 53.39625 -0.81 78.26
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 14.62201 53.39642 -0.75 254.42
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 14.62233 53.39608 -0.94 43.85
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 14.62257 53.39592 -1.07 219.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.62184 53.39662 -0.62 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 14.62180 53.39652 -0.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.62172 53.39634 -0.81 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 14.62332 53.39613 -0.96 75.81
+# END dsf2stg

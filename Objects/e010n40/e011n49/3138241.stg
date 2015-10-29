@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.28645 49.06260 529.83 345.26
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28526 49.06257 530.30 43.92
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28523 49.06254 530.24 46.77
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28520 49.06252 530.24 50.92
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28517 49.06249 530.24 41.14
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 11.28489 49.06262 530.47 230.95
+OBJECT_SHARED Models/lib/stack_of_cones.ac 11.28496 49.06283 530.62 307.41
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.28506 49.06276 530.58 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.28512 49.06272 530.48 320.21
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.28515 49.06273 530.48 323.64
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.28509 49.06274 530.48 47.14
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.28507 49.06283 530.58 315.81
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.28517 49.06315 530.64 218.87
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28536 49.06322 530.74 317.33
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28551 49.06332 530.55 8.03
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28547 49.06329 530.55 4.82001
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28512 49.06266 530.48 142.64
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28312 49.06199 530.66 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28318 49.06203 530.62 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28356 49.06230 530.74 322.7
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28395 49.06254 530.76 141.34
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28412 49.06269 530.91 119.59
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28417 49.06275 530.87 211.87
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28482 49.06322 530.46 5.97
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28513 49.06332 530.36 33.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28526 49.06332 530.46 67.89
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28527 49.06337 530.22 240.02
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28531 49.06341 530.22 108.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28543 49.06345 530.27 332.93
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28567 49.06358 529.94 123.22
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28571 49.06351 530.18 325.01
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28579 49.06348 530.22 101.1
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28585 49.06342 530.51 329.83
+OBJECT_SHARED Models/lib/office3x10.ac 11.28543 49.06334 530.51 315.13
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 11.28481 49.06296 530.87 315.28
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 11.28495 49.06282 530.66 316.84
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 11.28506 49.06274 530.48 316.92
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28570 49.06287 530.42 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28561 49.06282 530.36 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28552 49.06277 530.41 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28543 49.06273 530.35 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28534 49.06267 530.39 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28527 49.06261 530.30 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28519 49.06256 530.34 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28645 49.06245 529.76 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28637 49.06250 529.73 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28629 49.06256 529.87 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28621 49.06261 529.91 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28613 49.06267 530.05 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28605 49.06273 530.09 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28597 49.06278 530.19 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28589 49.06284 530.23 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 11.28579 49.06290 530.37 0
+# END dsf2stg

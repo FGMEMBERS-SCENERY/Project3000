@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.28307 41.53303 49.61 126.03
+OBJECT_SHARED Models/lib/6space_wStop.ac -71.28320 41.53172 48.85 94.81
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.28293 41.53276 49.75 126.95
+OBJECT_SHARED Models/lib/office40x25.ac -71.28389 41.53153 47.86 156
+OBJECT_SHARED Models/lib/cars10.ac -71.28390 41.53108 47.72 245.48
+OBJECT_SHARED Models/lib/cars14.ac -71.28415 41.53106 47.46 154.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -71.28296 41.53173 49.10 94.67
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.28399 41.53128 47.66 246.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.28303 41.53245 49.48 308.38
+OBJECT_SHARED Models/lib/office40x25.ac -71.28576 41.53039 44.61 346.54
+OBJECT_SHARED Models/lib/SmHangar.ac -71.28323 41.53103 48.56 161.32
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.28250 41.53130 49.53 257.74
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.28270 41.53257 49.90 129.17
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.28279 41.53272 49.82 308.05
+OBJECT_SHARED Models/lib/office40x25.ac -71.28337 41.53143 48.47 337.79
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.28270 41.53191 49.56 96.83
+# END dsf2stg

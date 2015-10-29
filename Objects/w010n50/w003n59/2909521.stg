@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -2.57490 59.25236 -0.23 155.35
+OBJECT_SHARED Models/lib/cone.ac -2.57492 59.25240 -0.23 0
+OBJECT_SHARED Models/lib/cone.ac -2.57485 59.25241 -0.23 0
+OBJECT_SHARED Models/lib/cone.ac -2.57479 59.25231 -0.22 0
+OBJECT_SHARED Models/lib/cone.ac -2.57474 59.25222 -0.22 0
+OBJECT_SHARED Models/lib/cone.ac -2.57492 59.25217 -0.22 0
+OBJECT_SHARED Models/lib/cone.ac -2.57514 59.25214 -0.22 0
+OBJECT_SHARED Models/lib/cone.ac -2.57522 59.25225 -0.23 0
+OBJECT_SHARED Models/lib/cone.ac -2.57528 59.25235 -0.23 0
+OBJECT_SHARED Models/lib/cone.ac -2.57516 59.25237 -0.23 0
+OBJECT_SHARED Models/lib/office3x10.ac -2.57491 59.25255 -0.23 19.8849
+OBJECT_SHARED Models/lib/cars4.ac -2.57490 59.25251 -0.23 198.947
+# END dsf2stg

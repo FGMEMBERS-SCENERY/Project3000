@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -72.08326 -39.82565 -0.73 186
+OBJECT_SHARED Models/lib/SmHangar.ac -72.08259 -39.82561 -0.72 7
+OBJECT_SHARED Models/lib/SmHangar.ac -72.08182 -39.82516 -0.71 186
+OBJECT_SHARED Models/lib/cars14.ac -72.08289 -39.82578 -0.72 98.12
+OBJECT_SHARED Models/lib/cars7.ac -72.08146 -39.82526 -0.70 99
+OBJECT_SHARED Models/lib/HorizTanks2.ac -72.08672 -39.82550 -0.76 8
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -72.08641 -39.82557 -0.76 52
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.08107 -39.82507 -0.70 32
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.08314 -39.82537 -0.72 333
+# END dsf2stg

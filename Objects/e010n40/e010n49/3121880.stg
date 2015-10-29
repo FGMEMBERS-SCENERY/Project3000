@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.21855 49.39031 398.90 240.39
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.21785 49.39031 399.15 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.21836 49.39107 398.82 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.21886 49.39112 398.50 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 10.21789 49.39031 399.15 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 10.21822 49.39054 399.01 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 10.21860 49.39111 398.70 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.21860 49.39113 398.70 112.15
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.21768 49.39055 399.09 199.12
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.21794 49.39079 399.01 118.23
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.21804 49.39108 398.77 55.35
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.21831 49.39115 398.83 -66.8
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.21858 49.39035 398.85 65.14
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.21860 49.39039 398.85 242.95
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.21851 49.39035 398.90 183.64
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.21797 49.39015 399.10 286.78
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.21817 49.39116 398.79 319.4
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 10.21782 49.39046 399.18 163.46
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.21736 49.39092 398.83 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.21765 49.39036 399.25 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.21749 49.39068 398.89 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 10.21772 49.39024 399.24 56.53
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 10.21764 49.39040 399.25 310.71
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 10.21756 49.39054 399.13 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 10.21743 49.39078 398.78 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 10.21738 49.39089 398.83 60.95
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.21868 49.39047 398.80 232.13
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.21883 49.39115 398.53 89.68
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.21837 49.39107 398.82 146.18
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.21836 49.39049 398.92 -15.82
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.21779 49.39057 399.14 109.28
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.21816 49.38979 399.02 241.16
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.21901 49.39109 398.43 109.25
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 10.21858 49.39119 398.65 177.42
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.21887 49.39128 398.43 110.85
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.21824 49.39117 398.79 169.81
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 10.21911 49.39131 398.29 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 10.21928 49.39130 398.17 107.53
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 10.21909 49.39126 398.29 62.11
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 10.21920 49.39132 398.23 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 10.21747 49.39064 398.96 322.52
+OBJECT_SHARED Models/lib/SmHangar.ac 10.21787 49.39038 399.16 199.76
+OBJECT_SHARED Models/lib/LongRow.ac 10.21853 49.39048 398.88 110.22
+OBJECT_SHARED Models/lib/office3x10.ac 10.21838 49.39112 398.82 19.18
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 10.21843 49.39033 398.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.21787 49.39100 398.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.21778 49.39100 398.70 0
+OBJECT_SHARED Models/lib/NoParkStripes.ac 10.21889 49.39084 398.62 109.85
+# END dsf2stg

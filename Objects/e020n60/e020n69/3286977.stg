@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 20.89743 69.00196 -0.34 200.254
+OBJECT_SHARED Models/lib/cars2.ac 20.89819 69.00142 -0.34 316.242
+OBJECT_SHARED Models/lib/cars2.ac 20.89785 69.00156 -0.34 315.741
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 20.89824 69.00140 -0.34 46.3402
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 20.89790 69.00154 -0.34 45.7256
+OBJECT_SHARED Models/lib/cars4.ac 20.89756 69.00233 -0.35 275.814
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 20.89758 69.00224 -0.35 5.71063
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 20.89756 69.00229 -0.35 5.49612
+# END dsf2stg

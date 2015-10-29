@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07826 42.32485 235.34 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07794 42.32509 235.28 1.70999
+OBJECT_SHARED Models/lib/cars2.ac -88.07781 42.32572 235.11 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07755 42.32568 235.12 216.51
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07761 42.32543 235.21 92.65
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -88.07795 42.32531 235.22 270
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07536 42.32525 235.66 34.51
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07620 42.32549 235.45 358.85
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07695 42.32485 235.42 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07726 42.32498 235.34 119.05
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07683 42.32552 235.32 356.99
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07811 42.32509 235.26 355.6
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.07697 42.32570 235.24 180
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -88.07798 42.32572 235.10 0
+# END dsf2stg

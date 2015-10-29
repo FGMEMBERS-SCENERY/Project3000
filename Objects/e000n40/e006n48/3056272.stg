@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac 6.06340 48.32103 328.59 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 6.06335 48.32103 328.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.06399 48.32096 328.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.06374 48.32128 328.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 6.06272 48.32102 328.70 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.06073 48.32019 336.98 227.231
+OBJECT_SHARED Models/lib/SmHangar.ac 6.06290 48.32040 334.23 338.667
+OBJECT_SHARED Models/lib/SmHangar.ac 6.06295 48.32049 331.17 339.063
+OBJECT_SHARED Models/lib/MedHangar.ac 6.06195 48.32006 337.39 323.592
+OBJECT_SHARED Models/lib/HorizTanks2.ac 6.06132 48.31927 337.86 226.086
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.06168 48.31946 337.27 322.289
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 6.06334 48.32239 327.34 185.254
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.06402 48.32195 327.65 -86.3418
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.06183 48.31940 337.02 90.8185
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 6.06282 48.32096 328.68 341.864
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.06227 48.32033 336.34 -36.0761
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.06146 48.31916 337.63 313.182
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 6.06313 48.32191 327.85 -84.8979
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.06278 48.32062 328.87 161.4
+# END dsf2stg

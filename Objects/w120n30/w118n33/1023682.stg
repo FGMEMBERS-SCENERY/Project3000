@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.28320 33.12486 95.59 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.28325 33.12498 95.71 0
+OBJECT_SHARED Models/lib/SmHangar.ac -117.28290 33.12470 95.26 191.31
+OBJECT_SHARED Models/lib/LongRow.ac -117.28125 33.12441 94.56 101.31
+OBJECT_SHARED Models/lib/LongRow.ac -117.28167 33.12434 94.40 101.31
+OBJECT_SHARED Models/lib/LongRow.ac -117.28216 33.12425 94.17 101.31
+OBJECT_SHARED Models/lib/LongRow.ac -117.28231 33.12422 94.17 101.31
+OBJECT_SHARED Models/lib/LongRow.ac -117.28061 33.12448 94.70 11
+OBJECT_SHARED Models/lib/LongRow.ac -117.28068 33.12479 94.89 11.11
+OBJECT_SHARED Models/lib/LongRow.ac -117.27815 33.12485 92.38 100
+OBJECT_SHARED Models/lib/LongRow.ac -117.27929 33.12471 92.03 100
+OBJECT_SHARED Models/lib/LongRow.ac -117.27776 33.12490 93.46 100
+OBJECT_SHARED Models/lib/LongRow.ac -117.27854 33.12479 92.99 100
+# END dsf2stg

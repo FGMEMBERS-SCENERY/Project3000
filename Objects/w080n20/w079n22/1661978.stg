@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.32735 22.46613 -0.66 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.32899 22.46583 -0.71 0
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -78.33015 22.46618 -0.73 199.54
+OBJECT_SHARED Models/lib/office32x25n.ac -78.33511 22.46615 -0.82 288.18
+OBJECT_SHARED Models/lib/FireStationLg.ac -78.33599 22.46587 -0.84 288.71
+OBJECT_SHARED Models/lib/office32x25.ac -78.33249 22.46606 -0.78 288.98
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -78.33326 22.46585 -0.80 200.71
+OBJECT_SHARED Models/lib/cars6.ac -78.33030 22.46661 -0.72 18.78
+OBJECT_SHARED Models/lib/cars4.ac -78.32885 22.46618 -0.70 289.77
+OBJECT_SHARED Models/lib/chariot5.ac -78.32846 22.46600 -0.69 16.92
+OBJECT_SHARED Models/lib/CargoPalettePkng.ac -78.32808 22.46629 -0.68 198.87
+OBJECT_SHARED Models/lib/loader.ac -78.32822 22.46623 -0.68 -72.7
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -78.32809 22.46620 -0.68 288
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -78.32776 22.46613 -0.67 17.28
+OBJECT_SHARED Models/lib/belt_loader.ac -78.32895 22.46583 -0.71 -72.3
+OBJECT_SHARED Models/lib/belt_loader.ac -78.32857 22.46618 -0.69 -72.3
+OBJECT_SHARED Models/lib/belt_loader.ac -78.32859 22.46617 -0.69 -72.3
+OBJECT_SHARED Models/lib/container6.ac -78.32835 22.46625 -0.69 289.06
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.32790 22.46597 -0.68 197.63
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.32917 22.46556 -0.72 197.63
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.32851 22.46576 -0.70 197.63
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.32820 22.46612 -0.68 108.57
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.32849 22.46603 -0.69 108.57
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.32875 22.46595 -0.70 108.57
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.32896 22.46589 -0.71 108.57
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.32935 22.46576 -0.72 108.57
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.32957 22.46570 -0.73 108.57
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -78.32977 22.46563 -0.73 108.57
+# END dsf2stg

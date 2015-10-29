@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -60.80691 -31.71013 17.79 21.7117
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -60.80622 -31.70887 18.36 22.2855
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -60.80644 -31.70929 18.18 24.0437
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -60.80665 -31.70969 17.94 22.4563
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80579 -31.70922 18.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80572 -31.70910 18.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80564 -31.70898 18.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80561 -31.70884 18.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80570 -31.70879 18.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80553 -31.70873 18.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80552 -31.70862 18.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80528 -31.70887 18.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80513 -31.70892 18.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80499 -31.70896 18.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80505 -31.70911 18.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80518 -31.70906 19.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80531 -31.70902 19.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80518 -31.70922 18.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80541 -31.70918 18.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80549 -31.70935 18.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80535 -31.70951 18.70 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -60.80538 -31.70972 18.71 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -60.80568 -31.70962 18.51 270
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -60.80553 -31.70987 18.72 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -60.80569 -31.70989 18.58 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -60.80583 -31.70978 18.46 225
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -60.80566 -31.71017 18.77 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -60.80586 -31.71017 18.61 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -60.80594 -31.71000 18.48 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.80782 -31.71255 17.69 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -60.80689 -31.71184 18.08 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -60.80687 -31.71225 18.16 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -60.80731 -31.71210 17.90 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -60.80703 -31.71217 18.10 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -60.80714 -31.71232 18.05 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -60.80718 -31.71240 18.01 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -60.80824 -31.71265 17.78 153.67
+OBJECT_SHARED Models/lib/HorizTanks2.ac -60.80812 -31.71287 17.75 245.74
+OBJECT_SHARED Models/lib/HorizTanks2.ac -60.80824 -31.71283 17.78 245.97
+OBJECT_SHARED Models/lib/SmHangar.ac -60.80980 -31.71775 18.65 338.45
+OBJECT_SHARED Models/lib/MedHangar.ac -60.80984 -31.71722 17.67 337.92
+OBJECT_SHARED Models/lib/MedHangar.ac -60.80635 -31.71089 19.00 338.57
+OBJECT_SHARED Models/lib/MedHangar.ac -60.80613 -31.70892 18.46 337.06
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -60.80641 -31.70951 18.14 247.15
+OBJECT_SHARED Models/lib/SmHangar.ac -60.80924 -31.71610 18.34 248.84
+OBJECT_SHARED Models/lib/fboModern1.ac -60.80950 -31.71665 17.94 337.97
+# END dsf2stg

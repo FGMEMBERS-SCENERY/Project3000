@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -21.32986 65.99504 31.53 244.922
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -21.32965 65.99521 31.42 244.765
+OBJECT_SHARED Models/lib/SmHangar.ac -21.32937 65.99521 31.25 67.3764
+OBJECT_SHARED Models/lib/office8x14.ac -21.32987 65.99494 31.48 151.782
+OBJECT_SHARED Models/lib/office3x10.ac -21.32961 65.99513 31.36 244.106
+OBJECT_SHARED Models/lib/cars4.ac -21.32984 65.99505 31.46 241.557
+# END dsf2stg

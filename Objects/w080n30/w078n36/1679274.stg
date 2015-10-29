@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.48531 36.68281 -0.56 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.48374 36.68320 -0.58 86.82
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.48359 36.68265 -0.60 341.57
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.48361 36.68343 -0.58 266.57
+OBJECT_SHARED Models/lib/office16x4n.ac -77.48388 36.68255 -0.59 359.06
+OBJECT_SHARED Models/lib/office40x25.ac -77.48337 36.68216 -0.61 90.62
+OBJECT_SHARED Models/lib/office16x4n.ac -77.48737 36.68455 -0.47 268.52
+OBJECT_SHARED Models/lib/office16x4n.ac -77.48625 36.68287 -0.54 268.52
+OBJECT_SHARED Models/Transport/hatchback_red.ac -77.48771 36.68437 -0.47 23.2
+OBJECT_SHARED Models/Transport/hatchback_red.ac -77.48767 36.68437 -0.47 20.32
+OBJECT_SHARED Models/Transport/hatchback_black.ac -77.48711 36.68469 -0.48 268.73
+OBJECT_SHARED Models/Transport/hatchback_black.ac -77.48820 36.68436 -0.46 268.73
+OBJECT_SHARED Models/lib/SmHangar.ac -77.48448 36.68233 -0.59 270.23
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.48426 36.68332 -0.57 179.28
+# END dsf2stg
