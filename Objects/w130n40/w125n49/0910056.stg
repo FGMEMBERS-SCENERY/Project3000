@@ -2,6 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/SmHangar.ac -124.89656 49.72131 22.84 267.93
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -124.90762 49.70544 16.29 187.3
 OBJECT_SHARED Models/lib/10_spaces_dual.ac -124.90748 49.70545 15.47 97.3
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90012 49.72438 19.72 68.22
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -124.90073 49.72385 20.74 358.07

@@ -33,6 +33,8 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.41865 43.72495 1.21 240
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.41884 43.72509 1.17 240
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.41875 43.72502 0.94 240
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.41894 43.72516 1.37 240
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.42043 43.72646 6.93 80.06
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.41897 43.72544 2.12 181.22
+OBJECT_SHARED Models/lib/lamp10m.xml 7.42043 43.72646 6.93 80.06
+OBJECT_SHARED Models/lib/lamp10m.xml 7.41897 43.72544 2.12 181.22
+OBJECT_SHARED Models/Airport/helipad40m.ac 7.42062 43.72618 3.93 225.13
+OBJECT_SHARED Models/Airport/helipad40m.ac 7.41938 43.72529 2.13 225.58
 # END dsf2stg

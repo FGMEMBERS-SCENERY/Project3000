@@ -1,8 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86253 38.52616 93.67 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86243 38.52632 93.33 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86232 38.52647 93.00 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86222 38.52662 93.03 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86212 38.52678 93.09 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86201 38.52693 93.13 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86100 38.52749 93.27 153.99
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86082 38.52740 93.08 330.95
 OBJECT_SHARED Models/lib/cars4.ac -77.86070 38.52757 93.08 243.13
 OBJECT_SHARED Models/lib/cars2.ac -77.86093 38.52795 93.34 332.74
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86078 38.52789 93.26 62.02
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86226 38.52623 93.46 331.5
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86215 38.52639 93.30 331.5
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86204 38.52655 93.52 331.5
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86174 38.52699 93.37 331.5
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86398 38.52360 92.47 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86388 38.52376 92.72 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86378 38.52391 92.83 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86367 38.52407 93.11 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86357 38.52422 93.20 152.41
+OBJECT_SHARED Models/lib/6space_wStop.ac -77.86346 38.52438 93.50 152.41
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -77.86333 38.52421 93.74 63.44
 OBJECT_SHARED Models/lib/10_spaces_dual.ac -77.86341 38.52410 93.75 153.16
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -77.86363 38.52378 93.81 152.7
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.86029 38.52801 92.95 168.37

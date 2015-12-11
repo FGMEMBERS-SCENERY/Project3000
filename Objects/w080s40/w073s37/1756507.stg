@@ -1,15 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -72.03979 -36.58706 -0.73 153.16
-OBJECT_SHARED Models/lib/cars7.ac -72.03950 -36.58656 -0.74 328.14
-OBJECT_SHARED Models/lib/SmHangar.ac -72.03967 -36.58678 -0.73 148.24
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.03921 -36.58615 -0.75 59.51
-OBJECT_SHARED Models/lib/SmHangar.ac -72.03966 -36.58755 -0.72 333.53
-OBJECT_SHARED Models/lib/MedHangar.ac -72.04011 -36.58790 -0.71 153.75
-OBJECT_SHARED Models/lib/HorizTanks2.ac -72.03936 -36.58642 -0.74 149.11
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -72.03959 -36.58646 -0.74 276.16
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.03931 -36.58705 -0.73 1.67999
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.03874 -36.58651 -0.74 109.37
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.03896 -36.58640 -0.74 104.74
+OBJECT_SHARED Models/lib/cars7.ac -72.03979 -36.58706 153.72 153.16
+OBJECT_SHARED Models/lib/cars7.ac -72.03950 -36.58656 153.59 328.14
+OBJECT_SHARED Models/lib/SmHangar.ac -72.03967 -36.58678 153.61 148.24
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.03921 -36.58615 153.53 59.51
+OBJECT_SHARED Models/lib/SmHangar.ac -72.03966 -36.58755 153.97 333.53
+OBJECT_SHARED Models/lib/MedHangar.ac -72.04011 -36.58790 154.10 153.75
+OBJECT_SHARED Models/lib/cube16x10.ac -72.03962 -36.58719 153.85 152.12
+OBJECT_SHARED Models/lib/HorizTanks2.ac -72.03936 -36.58642 153.54 149.11
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -72.03959 -36.58646 153.50 276.16
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.03931 -36.58705 153.90 1.67999
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.03874 -36.58651 153.86 109.37
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.03896 -36.58640 153.69 104.74
 # END dsf2stg

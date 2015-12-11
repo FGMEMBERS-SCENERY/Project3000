@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -111.37669 52.64566 706.51 0
+OBJECT_SHARED Models/lib/cone.ac -111.37645 52.64566 705.85 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -111.37657 52.64562 706.47 180
+OBJECT_SHARED Models/Misc/picnic_table.ac -111.37650 52.64541 706.39 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -111.37656 52.64541 706.39 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.37643 52.64544 705.73 0
+OBJECT_SHARED Models/lib/cone.ac -111.37674 52.64540 706.39 342.646
+OBJECT_SHARED Models/lib/cone.ac -111.37673 52.64540 706.39 270
+OBJECT_SHARED Models/lib/stack_of_cones.ac -111.37724 52.64540 706.39 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.37722 52.64537 706.39 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.37720 52.64537 706.39 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.37688 52.64523 706.31 2.20319
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.37684 52.64523 706.31 3.17981
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.37692 52.64523 706.31 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.37697 52.64523 706.31 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -111.37713 52.64540 706.39 180
+OBJECT_SHARED Models/lib/SmHangar.ac -111.37691 52.64539 706.39 270
+# END dsf2stg

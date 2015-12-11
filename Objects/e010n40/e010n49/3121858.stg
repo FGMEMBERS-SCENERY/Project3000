@@ -4,6 +4,7 @@
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.50828 49.03894 455.35 24.57
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.50806 49.03878 455.50 24.34
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.50806 49.03882 455.50 105.95
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.50807 49.03886 455.65 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.50807 49.03874 455.38 275.36
 OBJECT_SHARED Models/lib/stack_of_cones.ac 10.50838 49.03890 455.21 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.50950 49.03746 451.91 117.35
@@ -29,5 +30,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 10.50059 49.03837 467.24 306.38
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.50042 49.03834 467.84 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.50904 49.03787 453.11 179.57
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.50868 49.03826 454.04 350.16
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 10.50834 49.03875 455.10 96.02
+OBJECT_SHARED Models/lib/farm19x12.ac 10.50819 49.03870 455.24 275.91
 OBJECT_SHARED Models/lib/SmHangar.ac 10.50831 49.03889 455.35 276.26
 # END dsf2stg

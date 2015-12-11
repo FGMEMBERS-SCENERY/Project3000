@@ -90,9 +90,11 @@ OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -85.73366 38.16215 139.22 334.2
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -85.73518 38.16098 138.74 248.29
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -85.73517 38.16101 138.74 248.78
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -85.73515 38.16104 138.75 250.11
+OBJECT_SHARED Models/lib/transformer3x3.ac -85.73537 38.16194 138.96 250
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -85.73581 38.16195 138.94 244.72
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -85.73570 38.16197 138.95 247.53
 OBJECT_SHARED Models/lib/office4x14.ac -85.73484 38.16250 139.19 70.17
+OBJECT_SHARED Models/lib/transformer3x3.ac -85.73428 38.16173 139.03 250
 OBJECT_SHARED Models/lib/HorizTanks2.ac -85.73564 38.16184 138.91 340
 OBJECT_SHARED Models/lib/HorizTanks2.ac -85.73560 38.16193 138.94 340
 OBJECT_SHARED Models/lib/HorizTanks2.ac -85.73528 38.16173 138.92 160

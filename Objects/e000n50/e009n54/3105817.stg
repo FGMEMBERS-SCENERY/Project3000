@@ -3,9 +3,9 @@
 #
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.49821 54.46073 18.50 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.49871 54.45591 14.66 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 9.49995 54.46336 20.85 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 9.49957 54.46206 19.92 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 9.49946 54.46191 19.80 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.49995 54.46336 20.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.49957 54.46206 19.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.49946 54.46191 19.80 0
 OBJECT_SHARED Models/lib/MedHangar.ac 9.49822 54.46033 17.90 226.38
 OBJECT_SHARED Models/lib/SmHangar.ac 9.49896 54.45978 16.77 90
 OBJECT_SHARED Models/lib/SmHangar.ac 9.49753 54.45914 18.09 93.96
@@ -14,5 +14,5 @@ OBJECT_SHARED Models/lib/SmHangar.ac 9.49999 54.45713 14.45 123.02
 OBJECT_SHARED Models/lib/SmHangar.ac 9.49654 54.45771 17.89 43.81
 OBJECT_SHARED Models/lib/SmHangar.ac 9.49645 54.45689 16.89 189.23
 OBJECT_SHARED Models/lib/office32x25n.ac 9.49831 54.45707 15.70 154.07
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.49992 54.45345 14.86 205.91
+OBJECT_SHARED Models/lib/lamp10m.xml 9.49992 54.45345 14.86 205.91
 # END dsf2stg

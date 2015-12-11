@@ -1,30 +1,31 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -72.82831 -42.78002 -0.42 134.42
-OBJECT_SHARED Models/Aircraft/D328_services.xml -72.82742 -42.77938 -0.42 225
-OBJECT_SHARED Models/Aircraft/B1900_services.xml -72.83046 -42.78398 -0.50 99.04
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.83094 -42.78319 -0.48 339.34
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.82921 -42.78222 -0.43 98.13
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.83139 -42.78633 -0.56 248.04
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.83091 -42.78547 -0.54 248.63
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.83042 -42.78460 -0.51 246.19
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82999 -42.78378 -0.48 246.45
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82919 -42.78199 -0.42 255.96
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82877 -42.78114 -0.40 251.56
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82837 -42.78038 -0.41 252.34
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82800 -42.77966 -0.43 251.08
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82916 -42.78361 -0.47 68.02
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82906 -42.78339 -0.46 73.14
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82898 -42.78325 -0.46 73.5
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82883 -42.78295 -0.45 72.73
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82868 -42.78267 -0.43 70.91
-OBJECT_SHARED Models/lib/cars14.ac -72.82972 -42.78388 -0.48 160.02
-OBJECT_SHARED Models/lib/MedHangar.ac -72.82869 -42.78163 -0.40 340.65
-OBJECT_SHARED Models/lib/SmHangar.ac -72.82839 -42.78104 -0.40 340.829
-OBJECT_SHARED Models/lib/SmHangar.ac -72.82821 -42.78066 -0.40 340.902
-OBJECT_SHARED Models/lib/MedHangar.ac -72.82684 -42.78082 -0.38 161.779
-OBJECT_SHARED Models/lib/MedHangar.ac -72.82791 -42.78001 -0.42 341.26
-OBJECT_SHARED Models/lib/MedHangar.ac -72.82677 -42.77983 -0.40 73.04
-OBJECT_SHARED Models/lib/MedHangar.ac -72.82722 -42.78166 -0.38 161.8
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -72.82831 -42.78002 26.68 134.42
+OBJECT_SHARED Models/Aircraft/D328_services.xml -72.82742 -42.77938 25.73 225
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -72.83046 -42.78398 22.33 99.04
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.83094 -42.78319 26.61 339.34
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.82921 -42.78222 27.37 98.13
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.83139 -42.78633 17.14 248.04
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.83091 -42.78547 17.51 248.63
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.83042 -42.78460 19.08 246.19
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82999 -42.78378 23.89 246.45
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82919 -42.78199 26.57 255.96
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82877 -42.78114 26.49 251.56
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82837 -42.78038 26.47 252.34
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82800 -42.77966 26.45 251.08
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82916 -42.78361 25.70 68.02
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82906 -42.78339 26.93 73.14
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82898 -42.78325 27.59 73.5
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82883 -42.78295 29.48 72.73
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -72.82868 -42.78267 29.10 70.91
+OBJECT_SHARED Models/lib/cars14.ac -72.82972 -42.78388 23.57 160.02
+OBJECT_SHARED Models/lib/cube16x10.ac -72.83001 -42.78431 21.02 159.74
+OBJECT_SHARED Models/lib/MedHangar.ac -72.82869 -42.78163 25.86 340.65
+OBJECT_SHARED Models/lib/SmHangar.ac -72.82839 -42.78104 25.92 340.829
+OBJECT_SHARED Models/lib/SmHangar.ac -72.82821 -42.78066 25.86 340.902
+OBJECT_SHARED Models/lib/MedHangar.ac -72.82684 -42.78082 23.43 161.779
+OBJECT_SHARED Models/lib/MedHangar.ac -72.82791 -42.78001 26.01 341.26
+OBJECT_SHARED Models/lib/MedHangar.ac -72.82677 -42.77983 24.36 73.04
+OBJECT_SHARED Models/lib/MedHangar.ac -72.82722 -42.78166 24.22 161.8
 # END dsf2stg

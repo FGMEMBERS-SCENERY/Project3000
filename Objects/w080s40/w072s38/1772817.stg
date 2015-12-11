@@ -1,26 +1,26 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71196 -37.74698 -0.65 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71180 -37.74696 -0.65 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71134 -37.74691 -0.65 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71110 -37.74685 -0.65 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71086 -37.74688 -0.64 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71069 -37.74696 -0.64 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71043 -37.74704 -0.63 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71022 -37.74713 -0.63 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71002 -37.74721 -0.62 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.70988 -37.74728 -0.62 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.70971 -37.74732 -0.62 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.70948 -37.74234 -0.72 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.70956 -37.74217 -0.72 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.70928 -37.74276 -0.71 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.70921 -37.74305 -0.70 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.70910 -37.74385 -0.69 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.70928 -37.74341 -0.70 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.70913 -37.74559 -0.65 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71059 -37.74458 -0.69 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.71140 -37.74444 -0.70 0
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.71037 -37.74110 -0.74 173.42
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.70995 -37.74646 -0.64 334.54
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71196 -37.74698 576.54 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71180 -37.74696 575.09 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71134 -37.74691 570.92 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71110 -37.74685 568.91 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71086 -37.74688 568.03 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71069 -37.74696 567.15 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71043 -37.74704 564.98 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71022 -37.74713 564.38 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71002 -37.74721 563.90 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.70988 -37.74728 563.93 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.70971 -37.74732 560.30 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.70948 -37.74234 533.81 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.70956 -37.74217 534.45 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.70928 -37.74276 534.79 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.70921 -37.74305 539.15 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.70910 -37.74385 543.62 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.70928 -37.74341 543.19 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.70913 -37.74559 549.38 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71059 -37.74458 551.17 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -71.71140 -37.74444 551.04 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.71037 -37.74110 541.71 173.42
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.70995 -37.74646 551.73 334.54
 # END dsf2stg

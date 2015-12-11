@@ -1,5 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -75.99612 37.82820 -0.37 351.995
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -75.99580 37.82965 1.00 263.634
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -75.99585 37.82931 1.00 261.93
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -75.99612 37.82820 1.00 351.995
 # END dsf2stg

@@ -6,7 +6,8 @@ OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.05150 50.14690 258.68 3.26999
 OBJECT_SHARED Models/lib/stack_of_cones.ac 11.05161 50.14694 258.78 181.99
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.05167 50.14695 258.88 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 11.05182 50.14692 258.98 178.94
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 11.04943 50.14859 260.07 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.05182 50.14688 258.98 89.38
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.04943 50.14859 260.07 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.05224 50.14659 259.79 233.13
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.05216 50.14670 259.73 185.19
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.05207 50.14681 259.25 257.91
@@ -88,4 +89,6 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 11.05214 50.15051 257.74 219.97
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.05207 50.15052 257.74 117.73
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.05195 50.15053 257.91 220.52
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 11.05178 50.14716 259.58 269.68
+OBJECT_SHARED Models/lib/shed8x10.ac 11.05206 50.14689 259.32 179.66
+OBJECT_SHARED Models/lib/transformer3x3.ac 11.05165 50.14693 258.88 217.69
 # END dsf2stg

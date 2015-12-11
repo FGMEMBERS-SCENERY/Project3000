@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 5.04650 48.09270 290.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 5.04650 48.09270 290.99 0
 OBJECT_SHARED Models/lib/MedHangar.ac 5.04418 48.09329 289.46 179.684
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.04474 48.09251 291.18 181.014
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.04430 48.09341 289.47 259.091

@@ -1,24 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -87.64021 39.01344 -0.65 89.5252
-OBJECT_SHARED Models/lib/LongRow.ac -87.64132 39.01071 -0.66 87.6809
-OBJECT_SHARED Models/lib/MedHangar.ac -87.64189 39.01283 -0.68 88.5871
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.64179 39.01335 -0.68 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.63989 39.01349 -0.65 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -87.63987 39.01358 -0.65 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -87.64024 39.01369 -0.66 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.64235 39.01246 -0.69 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.64137 39.01266 -0.67 90.6511
-OBJECT_SHARED Models/lib/stack_of_cones.ac -87.64148 39.01070 -0.66 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -87.64216 39.01290 -0.69 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -87.64160 39.01273 -0.68 0
-OBJECT_SHARED Models/lib/cone.ac -87.64235 39.01249 -0.69 0
-OBJECT_SHARED Models/lib/HorizTanks2.ac -87.64240 39.01325 -0.69 29.4075
-OBJECT_SHARED Models/lib/cars6.ac -87.64220 39.01331 -0.69 358.562
-OBJECT_SHARED Models/lib/cars10.ac -87.64178 39.01312 -0.68 179.014
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -87.64087 39.01310 -0.66 -89.5304
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -87.64159 39.01308 -0.68 -86.4605
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -87.64201 39.01334 -0.69 88.5122
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -87.64212 39.01289 -0.68 56.7937
+OBJECT_SHARED Models/lib/SmHangar.ac -87.64021 39.01344 136.99 89.5252
+OBJECT_SHARED Models/lib/LongRow.ac -87.64132 39.01071 137.07 87.6809
+OBJECT_SHARED Models/lib/MedHangar.ac -87.64189 39.01283 137.16 88.5871
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.64179 39.01335 137.14 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.63989 39.01349 136.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.63987 39.01358 136.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.64024 39.01369 136.99 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.64235 39.01246 137.23 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.64137 39.01266 137.07 90.6511
+OBJECT_SHARED Models/lib/stack_of_cones.ac -87.64148 39.01070 137.10 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -87.64216 39.01290 137.21 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -87.64160 39.01273 137.11 0
+OBJECT_SHARED Models/lib/cone.ac -87.64235 39.01249 137.23 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -87.64240 39.01325 137.18 29.4075
+OBJECT_SHARED Models/lib/cars6.ac -87.64220 39.01331 137.17 358.562
+OBJECT_SHARED Models/lib/cars10.ac -87.64178 39.01312 137.14 179.014
+OBJECT_SHARED Models/lib/lamp10m.xml -87.64087 39.01310 136.99 -89.5304
+OBJECT_SHARED Models/lib/lamp10m.xml -87.64159 39.01308 137.11 -86.4605
+OBJECT_SHARED Models/lib/lamp10m.xml -87.64201 39.01334 137.17 88.5122
+OBJECT_SHARED Models/lib/lamp10m.xml -87.64212 39.01289 137.19 56.7937
 # END dsf2stg

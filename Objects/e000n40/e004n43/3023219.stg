@@ -1,15 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.89287 43.76687 113.93 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.89302 43.76586 118.07 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.89287 43.76687 113.93 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.89302 43.76586 118.07 0
 OBJECT_SHARED Models/Transport/hatchback_red.ac 4.89304 43.76730 108.03 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 4.89294 43.76730 110.66 0
 OBJECT_SHARED Models/lib/office6x12.ac 4.89298 43.76684 111.45 85.5154
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.89284 43.76727 113.07 90
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.89284 43.76719 113.47 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.89284 43.76727 113.07 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.89284 43.76719 113.47 0
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 4.89318 43.76663 109.19 261.027
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 4.89334 43.76714 107.95 355.101
+OBJECT_SHARED Models/lib/shed8x10.ac 4.89304 43.76714 108.77 84.7188
+OBJECT_SHARED Models/lib/shed8x10.ac 4.89294 43.76714 111.40 84.7188
 OBJECT_SHARED Models/lib/SmHangar.ac 4.89304 43.76674 110.25 175.563
 OBJECT_SHARED Models/lib/SmHangar.ac 4.89303 43.76663 110.88 175.563
 OBJECT_SHARED Models/lib/SmHangar.ac 4.89305 43.76642 111.13 175.08

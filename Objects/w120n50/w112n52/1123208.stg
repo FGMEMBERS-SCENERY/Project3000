@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92796 52.22009 824.19 191.309
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92787 52.22010 824.19 227.119
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92788 52.22019 824.10 184.085
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92786 52.22007 824.19 232.123
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92771 52.22013 824.19 183.576
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92777 52.22012 824.19 226.467
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92129 52.21608 823.41 141.341
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92135 52.21604 823.40 224.999
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92136 52.21611 823.41 146.311
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92140 52.21599 823.40 224.999
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92917 52.21911 826.36 212.735
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92922 52.21919 826.27 156.502
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92937 52.21926 826.18 233.745
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92603 52.21676 826.18 237.264
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92611 52.21676 826.18 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92614 52.21669 826.31 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.92622 52.21672 826.31 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.92553 52.21711 825.79 122.649
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.92557 52.21715 825.79 302.306
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.92559 52.21717 825.69 299.386
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.92564 52.21722 825.69 301.743
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.92567 52.21724 825.69 300.189
+OBJECT_SHARED Models/lib/cone.ac -111.92516 52.21735 826.02 214.695
+OBJECT_SHARED Models/lib/cone.ac -111.92676 52.21760 825.17 202.62
+OBJECT_SHARED Models/lib/cone.ac -111.92677 52.21759 825.17 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.92674 52.21738 825.39 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.92676 52.21737 825.39 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.92674 52.21737 825.39 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.92697 52.21785 824.99 31.4743
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.92699 52.21784 824.99 31.4743
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.92530 52.21730 826.02 34.0994
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -111.92523 52.21723 826.09 33.2747
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -111.92572 52.21734 825.58 122.565
+OBJECT_SHARED Models/lib/stack_of_cones.ac -111.92585 52.21745 825.48 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -111.92540 52.21732 826.02 302.106
+OBJECT_SHARED Models/lib/cone.ac -111.92454 52.21738 825.93 139.185
+OBJECT_SHARED Models/lib/cone.ac -111.92464 52.21748 825.85 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -111.92535 52.21716 826.09 232.696
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -111.92459 52.21743 825.93 122.656
+OBJECT_SHARED Models/lib/deciduous-tree.xml -111.92538 52.21713 826.17 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -111.92693 52.21748 825.27 303
+OBJECT_SHARED Models/lib/shed8x10.ac -111.92675 52.21765 825.08 33
+OBJECT_SHARED Models/lib/shed8x10.ac -111.92650 52.21775 825.05 33
+OBJECT_SHARED Models/lib/SmHangar.ac -111.92597 52.21752 825.37 213
+OBJECT_SHARED Models/lib/lamp10m.xml -111.92554 52.21720 825.69 34.0366
+OBJECT_SHARED Models/lib/lamp10m.xml -111.92529 52.21730 826.02 34.0366
+OBJECT_SHARED Models/lib/lamp10m.xml -111.92519 52.21738 825.93 214.186
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -111.92616 52.21726 825.58 126.515
+# END dsf2stg

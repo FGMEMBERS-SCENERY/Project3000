@@ -1,5 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/Airport/helipad40m.ac -17.10236 28.09721 87.68 16.33
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -17.10265 28.09732 92.30 198.77
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -17.10267 28.09726 92.30 290.05
 # END dsf2stg

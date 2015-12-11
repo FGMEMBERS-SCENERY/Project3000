@@ -15,8 +15,10 @@ OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -68.31009 -54.83888 30.74 0.82
 OBJECT_SHARED Models/lib/FireStationLg.ac -68.31076 -54.83999 28.41 273.58
 OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -68.31237 -54.84005 27.70 2.07001
 OBJECT_SHARED Models/lib/jetway_e10m.ac -68.31237 -54.83996 27.70 271.55
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -68.31237 -54.83995 27.75 271.47
 OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -68.31285 -54.84001 27.46 347.75
 OBJECT_SHARED Models/lib/jetway_e4m.ac -68.31283 -54.83998 27.51 241.49
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -68.31283 -54.83996 27.51 272.12
 OBJECT_SHARED Models/lib/cars7.ac -68.31272 -54.83865 31.44 0.849998
 OBJECT_SHARED Models/lib/cars7.ac -68.31273 -54.83867 31.44 180.72
 OBJECT_SHARED Models/lib/cars7.ac -68.31313 -54.83877 31.21 271.36

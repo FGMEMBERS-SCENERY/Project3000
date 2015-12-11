@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -80.40980 22.15878 -0.88 114.18
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -80.41031 22.15828 -0.86 202.8
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -80.41000 22.15776 -0.85 267.48
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -80.41001 22.15770 -0.84 272.29
-OBJECT_SHARED Models/lib/office32x25.ac -80.40988 22.15895 -0.88 294.62
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -80.40980 22.15878 34.47 114.18
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -80.41031 22.15828 33.97 202.8
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -80.41000 22.15776 34.61 267.48
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -80.41001 22.15770 34.66 272.29
+OBJECT_SHARED Models/lib/office32x25.ac -80.40988 22.15895 34.27 294.62
 # END dsf2stg

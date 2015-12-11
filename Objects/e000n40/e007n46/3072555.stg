@@ -1,6 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/Airport/helipad40m.ac 7.87822 46.64770 684.07 123.27
+OBJECT_SHARED Models/lib/transformer3x3.ac 7.87837 46.64812 689.59 186.34
 OBJECT_SHARED Models/lib/MedHangar.ac 7.87841 46.64788 684.50 33.83
 OBJECT_SHARED Models/Transport/hatchback_red.ac 7.87814 46.64804 687.18 151.46
 OBJECT_SHARED Models/Transport/hatchback_red.ac 7.87817 46.64802 686.76 147.64

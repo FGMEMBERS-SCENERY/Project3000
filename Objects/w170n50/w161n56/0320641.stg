@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -160.55574 56.00920 -0.31 104.53
-OBJECT_SHARED Models/lib/SmHangar.ac -160.55531 56.00935 -0.32 333.44
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -160.55550 56.00915 -0.31 64.44
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -160.55640 56.00966 -0.31 0
-OBJECT_SHARED Models/lib/HorizTanks2.ac -160.55512 56.00963 -0.33 59.72
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -160.55574 56.00920 4.08 104.53
+OBJECT_SHARED Models/lib/SmHangar.ac -160.55531 56.00935 5.28 333.44
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -160.55550 56.00915 4.26 64.44
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -160.55640 56.00966 3.15 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -160.55512 56.00963 4.72 59.72
 # END dsf2stg

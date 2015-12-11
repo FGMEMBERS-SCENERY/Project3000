@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -9.68795 31.40402 -0.08 208.56
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -9.68759 31.40392 -0.07 339.29
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -9.68785 31.40392 -0.08 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -9.68799 31.40393 -0.09 0
-OBJECT_SHARED Models/lib/10_spaces_dual.ac -9.68866 31.40248 -0.15 111.23
-OBJECT_SHARED Models/lib/10_spaces_dual.ac -9.68850 31.40253 -0.14 111.6
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -9.68812 31.40457 -0.07 290.58
-OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -9.68935 31.40550 -0.10 6.48999
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -9.68795 31.40402 103.92 208.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -9.68759 31.40392 104.80 339.29
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -9.68785 31.40392 104.26 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -9.68799 31.40393 103.96 0
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -9.68866 31.40248 104.39 111.23
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -9.68850 31.40253 104.73 111.6
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -9.68812 31.40457 102.78 290.58
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -9.68935 31.40550 100.79 6.48999
 # END dsf2stg

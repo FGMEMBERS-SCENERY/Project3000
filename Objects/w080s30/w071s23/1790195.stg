@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -70.06588 -22.13666 -0.39 220.45
-OBJECT_SHARED Models/lib/SmHangar.ac -70.06600 -22.13675 -0.39 39.96
+OBJECT_SHARED Models/lib/cars7.ac -70.06588 -22.13666 1059.84 220.45
+OBJECT_SHARED Models/lib/cube16x10.ac -70.06614 -22.13656 1058.99 270
+OBJECT_SHARED Models/lib/SmHangar.ac -70.06600 -22.13675 1059.46 39.96
 # END dsf2stg

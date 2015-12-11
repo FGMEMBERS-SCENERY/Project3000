@@ -1,10 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/transformer3x3.ac -73.09653 43.98766 145.75 180.6
 OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09662 43.98643 146.39 239.04
 OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09655 43.98657 146.34 135
 OBJECT_SHARED Models/lib/SmHangar.ac -73.09605 43.98381 144.67 182.01
 OBJECT_SHARED Models/lib/SmHangar.ac -73.09643 43.98715 146.04 184.44
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -73.09646 43.98559 146.32 2.97
 OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09693 43.98738 145.95 227.49
 OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09655 43.98670 146.27 239.42
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.09607 43.98660 145.99 92.76

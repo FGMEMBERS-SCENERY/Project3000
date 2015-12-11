@@ -1,18 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.23463 47.59995 -0.47 144.03
-OBJECT_SHARED Models/lib/fboModern1.ac -70.23410 47.59967 -0.47 234.43
-OBJECT_SHARED Models/lib/cone.ac -70.23456 47.59992 -0.47 45
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.23447 47.60044 -0.48 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -70.23446 47.60028 -0.48 54.87
-OBJECT_SHARED Models/Misc/picnic_table.ac -70.23443 47.60028 -0.48 52.9186
-OBJECT_SHARED Models/lib/cone.ac -70.23458 47.59992 -0.47 353.66
-OBJECT_SHARED Models/lib/cone.ac -70.23458 47.59993 -0.47 0
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -70.23449 47.60036 -0.48 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.23370 47.59946 -0.48 270
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -70.23444 47.60033 -0.48 97.37
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.23397 47.59973 -0.47 25.63
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.23420 47.59976 -0.47 278.37
-OBJECT_SHARED Models/lib/SmHangar.ac -70.23451 47.60024 -0.48 144.36
+OBJECT_SHARED Models/Airport/helipad40m.ac -70.23477 47.60010 286.52 323.893
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.23463 47.59995 286.64 144.03
+OBJECT_SHARED Models/lib/fboModern1.ac -70.23410 47.59967 286.42 234.43
+OBJECT_SHARED Models/lib/cone.ac -70.23456 47.59992 286.64 45
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.23447 47.60044 286.61 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -70.23446 47.60028 286.62 54.87
+OBJECT_SHARED Models/Misc/picnic_table.ac -70.23443 47.60028 286.67 52.9186
+OBJECT_SHARED Models/lib/cone.ac -70.23458 47.59992 286.64 353.66
+OBJECT_SHARED Models/lib/cone.ac -70.23458 47.59993 286.64 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -70.23449 47.60036 286.61 0
+OBJECT_SHARED Models/lib/lamp10m.xml -70.23370 47.59946 286.71 270
+OBJECT_SHARED Models/lib/lamp10m.xml -70.23444 47.60033 286.67 97.37
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.23397 47.59973 286.70 25.63
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.23420 47.59976 286.60 278.37
+OBJECT_SHARED Models/lib/SmHangar.ac -70.23451 47.60024 286.64 144.36
 # END dsf2stg

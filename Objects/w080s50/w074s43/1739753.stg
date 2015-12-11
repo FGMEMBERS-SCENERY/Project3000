@@ -1,18 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars14.ac -73.72273 -42.34849 -0.63 84
-OBJECT_SHARED Models/lib/cars14.ac -73.72276 -42.34874 -0.64 84
-OBJECT_SHARED Models/lib/cars14.ac -73.72281 -42.34907 -0.65 84
-OBJECT_SHARED Models/lib/cars14.ac -73.72284 -42.34938 -0.65 84
-OBJECT_SHARED Models/lib/cars14.ac -73.72287 -42.34969 -0.65 84
-OBJECT_SHARED Models/lib/cars14.ac -73.72293 -42.35007 -0.66 84
-OBJECT_SHARED Models/lib/office32x25n.ac -73.72267 -42.34812 -0.62 85
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.72158 -42.34708 -0.60 86
-OBJECT_SHARED Models/lib/SmHangar.ac -73.72204 -42.34692 -0.60 87
-OBJECT_SHARED Models/lib/SmHangar.ac -73.72164 -42.34758 -0.62 176
-OBJECT_SHARED Models/lib/SmHangar.ac -73.72148 -42.34598 -0.58 176
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.72091 -42.34705 -0.61 325
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.72094 -42.34750 -0.62 291.32
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -73.72142 -42.34980 -0.66 202.93
+OBJECT_SHARED Models/lib/cars14.ac -73.72273 -42.34849 166.47 84
+OBJECT_SHARED Models/lib/cars14.ac -73.72276 -42.34874 166.44 84
+OBJECT_SHARED Models/lib/cars14.ac -73.72281 -42.34907 166.58 84
+OBJECT_SHARED Models/lib/cars14.ac -73.72284 -42.34938 166.61 84
+OBJECT_SHARED Models/lib/cars14.ac -73.72287 -42.34969 166.59 84
+OBJECT_SHARED Models/lib/cars14.ac -73.72293 -42.35007 166.63 84
+OBJECT_SHARED Models/lib/office32x25n.ac -73.72267 -42.34812 166.36 85
+OBJECT_SHARED Models/lib/cube16x10.ac -73.72180 -42.34801 166.88 356.01
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.72158 -42.34708 166.73 86
+OBJECT_SHARED Models/lib/SmHangar.ac -73.72204 -42.34692 166.41 87
+OBJECT_SHARED Models/lib/SmHangar.ac -73.72164 -42.34758 166.90 176
+OBJECT_SHARED Models/lib/SmHangar.ac -73.72148 -42.34598 166.35 176
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.72091 -42.34705 167.16 325
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.72094 -42.34750 167.30 291.32
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -73.72142 -42.34980 167.49 202.93
 # END dsf2stg

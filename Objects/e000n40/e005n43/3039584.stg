@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.18453 43.53945 31.69 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.18444 43.53945 31.59 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.18532 43.53921 31.87 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.18536 43.53934 31.95 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.18433 43.53945 31.54 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.18537 43.53927 31.95 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.18536 43.53914 31.82 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.18416 43.53943 31.47 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 5.18436 43.53925 31.50 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 5.18423 43.53926 31.44 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18453 43.53945 31.69 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18444 43.53945 31.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18532 43.53921 31.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18536 43.53934 31.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18433 43.53945 31.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18537 43.53927 31.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18536 43.53914 31.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18416 43.53943 31.47 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 5.18436 43.53925 31.50 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 5.18423 43.53926 31.44 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 5.18351 43.53902 31.00 270
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.17303 43.53936 27.60 181.33
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.18495 43.53917 31.70 180

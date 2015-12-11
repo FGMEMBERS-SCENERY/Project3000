@@ -11,14 +11,20 @@ OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.91476 48.34289 476.46 151.
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.91493 48.34284 475.69 150.59
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.91484 48.34208 474.86 155.48
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.91548 48.34283 473.74 151.93
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.91456 48.34299 477.35 243.85
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.91414 48.34175 476.38 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.91392 48.34257 479.37 0
 OBJECT_SHARED Models/lib/office16x4n.ac 9.91474 48.34323 476.97 244.92
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.91445 48.34235 476.75 150.49
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.91454 48.34294 477.24 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.91465 48.34336 477.39 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.91498 48.34325 476.09 180
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.91463 48.34303 477.10 206.56
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.91450 48.34290 477.38 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 9.91464 48.34289 476.89 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 9.91461 48.34287 477.00 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 9.91457 48.34286 477.14 0
+OBJECT_SHARED Models/lib/propane-tank.ac 9.91381 48.34261 479.80 64.89
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.91395 48.34263 479.26 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.91444 48.34313 477.95 0
 OBJECT_SHARED Models/Transport/hatchback_red.ac 9.91457 48.34336 477.73 164.75
@@ -29,9 +35,9 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 9.91420 48.34237 477.90 159.44
 OBJECT_SHARED Models/Transport/hatchback_red.ac 9.91401 48.34260 479.02 238.18
 OBJECT_SHARED Models/Transport/hatchback_red.ac 9.91416 48.34238 478.06 156.3
 OBJECT_SHARED Models/Transport/hatchback_red.ac 9.91413 48.34240 478.18 152.45
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.91460 48.34307 477.38 249.23
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.91449 48.34293 477.42 246.91
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.91441 48.34310 478.05 332.45
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.91389 48.34264 479.49 153.95
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.91368 48.34200 478.57 243.02
+OBJECT_SHARED Models/lib/lamp10m.xml 9.91460 48.34307 477.38 249.23
+OBJECT_SHARED Models/lib/lamp10m.xml 9.91449 48.34293 477.42 246.91
+OBJECT_SHARED Models/lib/lamp10m.xml 9.91441 48.34310 478.05 332.45
+OBJECT_SHARED Models/lib/lamp10m.xml 9.91389 48.34264 479.49 153.95
+OBJECT_SHARED Models/lib/lamp10m.xml 9.91368 48.34200 478.57 243.02
 # END dsf2stg

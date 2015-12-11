@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -67.74952 -53.78128 -0.01 317.6
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -67.74975 -53.78179 -0.02 180.08
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -67.74975 -53.78189 -0.02 270.13
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -67.74975 -53.78167 -0.02 270.08
-OBJECT_SHARED Models/lib/FireStationLg.ac -67.74942 -53.78152 -0.02 359.95
-OBJECT_SHARED Models/lib/SmHangar.ac -67.74848 -53.78193 -0.05 180.06
-OBJECT_SHARED Models/lib/MedHangar.ac -67.74814 -53.78157 -0.05 180.6
-OBJECT_SHARED Models/lib/SmHangar.ac -67.74925 -53.78163 -0.03 268.64
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -67.74952 -53.78128 19.93 317.6
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -67.74975 -53.78179 20.38 180.08
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -67.74975 -53.78189 20.46 270.13
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -67.74975 -53.78167 20.29 270.08
+OBJECT_SHARED Models/lib/FireStationLg.ac -67.74942 -53.78152 20.11 359.95
+OBJECT_SHARED Models/lib/SmHangar.ac -67.74848 -53.78193 19.75 180.06
+OBJECT_SHARED Models/lib/MedHangar.ac -67.74814 -53.78157 19.39 180.6
+OBJECT_SHARED Models/lib/SmHangar.ac -67.74925 -53.78163 20.13 268.64
 # END dsf2stg

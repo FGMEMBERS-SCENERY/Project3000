@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -123.00713 44.90744 61.55 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -123.00741 44.90745 61.55 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -123.00777 44.91012 60.40 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -123.00713 44.90744 61.55 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -123.00741 44.90745 61.55 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -123.00777 44.91012 60.40 0
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -123.00668 44.90623 61.97 180
 OBJECT_SHARED Models/lib/HorizTanks2.ac -123.00127 44.91578 59.64 88.727
 OBJECT_SHARED Models/lib/HorizTanks2.ac -123.00146 44.91578 59.64 86.8204

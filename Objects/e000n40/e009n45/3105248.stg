@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.19918 45.53919 144.70 183.1
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.19923 45.53846 144.65 181.65
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.19928 45.53797 144.67 181.54
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.19931 45.53735 144.69 18.08
+OBJECT_SHARED Models/lib/lamp10m.xml 9.19918 45.53919 144.70 183.1
+OBJECT_SHARED Models/lib/lamp10m.xml 9.19923 45.53846 144.65 181.65
+OBJECT_SHARED Models/lib/lamp10m.xml 9.19928 45.53797 144.67 181.54
+OBJECT_SHARED Models/lib/lamp10m.xml 9.19931 45.53735 144.69 18.08
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 9.20549 45.53632 141.74 90
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 9.20555 45.53632 141.80 91.74
 OBJECT_SHARED Models/lib/container6.ac 9.20571 45.53628 141.93 93.88

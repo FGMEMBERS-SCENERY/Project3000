@@ -1,23 +1,23 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.64740 -38.92745 -0.73 261.17
-OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64740 -38.92745 -0.73 342.88
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.64724 -38.92704 -0.74 261.17
-OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64724 -38.92704 -0.74 342.88
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.64711 -38.92667 -0.74 261.17
-OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64711 -38.92667 -0.74 342.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64734 -38.92749 -0.73 148
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64733 -38.92745 -0.73 87.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64719 -38.92707 -0.74 147.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64717 -38.92704 -0.74 87.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64705 -38.92671 -0.74 147.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64703 -38.92667 -0.74 87.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64689 -38.92629 -0.74 147.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64688 -38.92626 -0.74 87.88
-OBJECT_SHARED Models/lib/MedHangar.ac -72.64556 -38.92281 -0.74 342.88
-OBJECT_SHARED Models/lib/MedHangar.ac -72.64540 -38.92241 -0.74 342.88
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.64574 -38.92476 -0.74 72.88
-OBJECT_SHARED Models/lib/FireStationLg.ac -72.64569 -38.92365 -0.74 162.88
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -72.64543 -38.92329 -0.74 -17.12
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.64740 -38.92745 110.41 261.17
+OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64740 -38.92745 110.41 342.88
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.64724 -38.92704 110.45 261.17
+OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64724 -38.92704 110.45 342.88
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.64711 -38.92667 106.57 261.17
+OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64711 -38.92667 106.57 342.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64734 -38.92749 109.61 148
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64733 -38.92745 109.61 87.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64719 -38.92707 110.45 147.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64717 -38.92704 110.45 87.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64705 -38.92671 107.01 147.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64703 -38.92667 107.01 87.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64689 -38.92629 101.69 147.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64688 -38.92626 101.69 87.88
+OBJECT_SHARED Models/lib/MedHangar.ac -72.64556 -38.92281 95.50 342.88
+OBJECT_SHARED Models/lib/MedHangar.ac -72.64540 -38.92241 95.46 342.88
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.64574 -38.92476 95.89 72.88
+OBJECT_SHARED Models/lib/FireStationLg.ac -72.64569 -38.92365 95.65 162.88
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -72.64543 -38.92329 95.59 -17.12
 # END dsf2stg

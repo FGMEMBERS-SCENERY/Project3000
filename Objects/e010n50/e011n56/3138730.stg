@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.55486 56.70039 7.41 0
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.55557 56.70065 7.30 193.791
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.55573 56.70006 7.08 349.38
 OBJECT_SHARED Models/lib/SmHangar.ac 11.55529 56.70006 7.22 241.3
@@ -24,6 +25,7 @@ OBJECT_SHARED Models/lib/cone.ac 11.55464 56.70023 7.42 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 11.55547 56.70000 7.13 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.55511 56.70010 7.28 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 11.55506 56.70009 7.28 237.095
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 11.55478 56.70042 7.66 356.987
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.55471 56.70033 7.54 85.7335
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.55471 56.70030 7.54 86.9541
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.55470 56.70027 7.54 85.6013

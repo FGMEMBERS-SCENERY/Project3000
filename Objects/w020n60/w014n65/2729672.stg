@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/stack_of_cones.ac -13.73920 65.13397 -0.41 0
-OBJECT_SHARED Models/lib/cars4.ac -13.73933 65.13401 -0.41 202.272
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -13.73940 65.13397 -0.41 200.637
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -13.73874 65.13409 -0.42 209.291
+OBJECT_SHARED Models/lib/stack_of_cones.ac -13.73920 65.13397 0.36 0
+OBJECT_SHARED Models/lib/cars4.ac -13.73933 65.13401 0.36 202.272
+OBJECT_SHARED Models/lib/lamp10m.xml -13.73940 65.13397 0.36 200.637
+OBJECT_SHARED Models/lib/lamp10m.xml -13.73874 65.13409 0.34 209.291
 # END dsf2stg

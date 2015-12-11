@@ -1,31 +1,32 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45344 51.31199 192.54 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45457 51.31196 190.91 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45489 51.31193 189.67 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45517 51.31163 188.55 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45488 51.31159 189.84 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45490 51.31170 189.71 270
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45468 51.31118 190.90 206.56
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45464 51.31140 191.00 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45344 51.31199 192.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45457 51.31196 190.91 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45489 51.31193 189.67 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45517 51.31163 188.55 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45488 51.31159 189.84 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45490 51.31170 189.71 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45468 51.31118 190.90 206.56
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45464 51.31140 191.00 180
 OBJECT_SHARED Models/lib/cars4.ac 9.45455 51.31181 191.23 175.26
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45453 51.31138 191.49 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45347 51.31102 192.49 270
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45326 51.31112 192.72 216.87
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45328 51.31156 193.34 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45329 51.31198 192.61 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45384 51.31163 193.07 218.66
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 9.45373 51.31161 193.12 225
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.45426 51.31159 192.61 266.67
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45453 51.31138 191.49 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45347 51.31102 192.49 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45326 51.31112 192.72 216.87
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45328 51.31156 193.34 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45329 51.31198 192.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45384 51.31163 193.07 218.66
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.45373 51.31161 193.12 225
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 9.45428 51.31154 192.53 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.45426 51.31159 192.61 266.67
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.45432 51.31160 192.34 357.38
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.45438 51.31160 192.07 355.74
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.45432 51.31156 192.34 358.67
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.45438 51.31156 192.07 356.63
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.45421 51.31134 192.21 126.87
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.45399 51.31118 192.47 126.87
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.45325 51.31116 192.85 41.04
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.45394 51.31196 191.87 -59.86
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.45328 51.31149 193.21 -53.13
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 9.45394 51.31153 192.90 -49.76
+OBJECT_SHARED Models/lib/lamp10m.xml 9.45421 51.31134 192.21 126.87
+OBJECT_SHARED Models/lib/lamp10m.xml 9.45399 51.31118 192.47 126.87
+OBJECT_SHARED Models/lib/lamp10m.xml 9.45325 51.31116 192.85 41.04
+OBJECT_SHARED Models/lib/lamp10m.xml 9.45394 51.31196 191.87 -59.86
+OBJECT_SHARED Models/lib/lamp10m.xml 9.45328 51.31149 193.21 -53.13
+OBJECT_SHARED Models/lib/lamp10m.xml 9.45394 51.31153 192.90 -49.76
 # END dsf2stg

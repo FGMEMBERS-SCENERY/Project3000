@@ -2,11 +2,11 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/SmHangar.ac 7.55951 49.40230 347.38 36.5
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.55775 49.40284 347.31 198.43
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.55752 49.40270 347.24 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.55819 49.40288 346.93 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.55840 49.40290 346.42 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.55849 49.40284 345.79 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.55843 49.40277 345.94 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.55825 49.40279 346.39 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.55775 49.40284 347.31 198.43
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.55752 49.40270 347.24 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.55819 49.40288 346.93 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.55840 49.40290 346.42 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.55849 49.40284 345.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.55843 49.40277 345.94 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.55825 49.40279 346.39 0
 # END dsf2stg

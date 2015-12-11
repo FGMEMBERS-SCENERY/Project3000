@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/stack_of_cones.ac -15.33132 66.22049 -0.61 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -15.33165 66.22079 -0.62 354.618
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -15.33101 66.22068 -0.62 86.1687
-OBJECT_SHARED Models/lib/cars2.ac -15.33125 66.22036 -0.61 85.3999
+OBJECT_SHARED Models/lib/stack_of_cones.ac -15.33132 66.22049 5.22 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -15.33165 66.22079 4.90 354.618
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -15.33101 66.22068 5.28 86.1687
+OBJECT_SHARED Models/lib/cars2.ac -15.33125 66.22036 5.27 85.3999
 # END dsf2stg

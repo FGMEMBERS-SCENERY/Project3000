@@ -1,23 +1,23 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars14.ac -65.29242 -19.01445 -0.43 224.39
-OBJECT_SHARED Models/lib/cars14.ac -65.29240 -19.01447 -0.43 44.42
-OBJECT_SHARED Models/lib/cars2.ac -65.29235 -19.01373 -0.43 77.22
-OBJECT_SHARED Models/lib/cars2.ac -65.29219 -19.01353 -0.42 20.23
-OBJECT_SHARED Models/lib/cars4.ac -65.29232 -19.01363 -0.42 44.36
-OBJECT_SHARED Models/lib/cars4.ac -65.29253 -19.01391 -0.43 46.48
-OBJECT_SHARED Models/lib/cars4.ac -65.29306 -19.01443 -0.43 46.44
-OBJECT_SHARED Models/lib/cars10.ac -65.29286 -19.01424 -0.43 45.74
-OBJECT_SHARED Models/lib/cars14.ac -65.29209 -19.01478 -0.43 225.06
-OBJECT_SHARED Models/lib/cars14.ac -65.29207 -19.01479 -0.43 44.78
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29453 -19.01427 -0.44 315
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29435 -19.01446 -0.44 315.84
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29468 -19.01409 -0.44 312.29
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29273 -19.01350 -0.43 43.8
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29315 -19.01391 -0.43 44.05
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29295 -19.01372 -0.43 43.47
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29257 -19.01335 -0.43 43.9
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29336 -19.01407 -0.43 45.17
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -65.29279 -19.01413 -0.43 45.15
+OBJECT_SHARED Models/lib/cars14.ac -65.29242 -19.01445 2906.25 224.39
+OBJECT_SHARED Models/lib/cars14.ac -65.29240 -19.01447 2906.25 44.42
+OBJECT_SHARED Models/lib/cars2.ac -65.29235 -19.01373 2907.92 77.22
+OBJECT_SHARED Models/lib/cars2.ac -65.29219 -19.01353 2908.29 20.23
+OBJECT_SHARED Models/lib/cars4.ac -65.29232 -19.01363 2907.92 44.36
+OBJECT_SHARED Models/lib/cars4.ac -65.29253 -19.01391 2907.83 46.48
+OBJECT_SHARED Models/lib/cars4.ac -65.29306 -19.01443 2906.39 46.44
+OBJECT_SHARED Models/lib/cars10.ac -65.29286 -19.01424 2906.63 45.74
+OBJECT_SHARED Models/lib/cars14.ac -65.29209 -19.01478 2905.65 225.06
+OBJECT_SHARED Models/lib/cars14.ac -65.29207 -19.01479 2905.65 44.78
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29453 -19.01427 2905.95 315
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29435 -19.01446 2905.30 315.84
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29468 -19.01409 2904.93 312.29
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29273 -19.01350 2908.31 43.8
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29315 -19.01391 2907.46 44.05
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29295 -19.01372 2908.30 43.47
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29257 -19.01335 2908.31 43.9
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.29336 -19.01407 2907.30 45.17
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -65.29279 -19.01413 2907.05 45.15
 # END dsf2stg

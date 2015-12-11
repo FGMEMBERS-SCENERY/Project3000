@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.84426 54.79395 1.48 250.02
+OBJECT_SHARED Models/lib/lamp10m.xml 8.84426 54.79395 1.48 250.02
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 8.84449 54.79403 1.21 243.43
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.84307 54.79363 0.82 252.55
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.84343 54.79333 0.98 339.86
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.84372 54.79322 1.29 278.53
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.84385 54.79309 1.37 12.53
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.84467 54.79312 1.39 337.07
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 8.84484 54.79358 1.37 73.74
+OBJECT_SHARED Models/lib/lamp10m.xml 8.84307 54.79363 0.82 252.55
+OBJECT_SHARED Models/lib/lamp10m.xml 8.84343 54.79333 0.98 339.86
+OBJECT_SHARED Models/lib/lamp10m.xml 8.84372 54.79322 1.29 278.53
+OBJECT_SHARED Models/lib/lamp10m.xml 8.84385 54.79309 1.37 12.53
+OBJECT_SHARED Models/lib/lamp10m.xml 8.84467 54.79312 1.39 337.07
+OBJECT_SHARED Models/lib/lamp10m.xml 8.84484 54.79358 1.37 73.74
 OBJECT_SHARED Models/lib/office40x25.ac 8.84334 54.79392 1.15 341.09
 OBJECT_SHARED Models/lib/SmHangar.ac 8.84426 54.79391 1.48 253.18
 OBJECT_SHARED Models/lib/SmHangar.ac 8.84442 54.79388 1.32 253.18
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.84463 54.79385 1.14 163.93
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.84550 54.79330 2.13 180
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.84543 54.79364 2.21 225
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.84550 54.79330 2.13 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.84543 54.79364 2.21 225
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.84585 54.79429 2.56 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.84576 54.79387 2.46 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.84569 54.79397 2.48 206.56

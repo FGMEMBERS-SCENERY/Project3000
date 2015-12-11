@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -120.24700 36.33851 100.09 0.179993
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -120.24697 36.33895 99.98 90.73
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -120.24682 36.34145 99.46 45.37
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -120.24665 36.34001 99.77 -27.85
+OBJECT_SHARED Models/lib/lamp10m.xml -120.24700 36.33851 100.09 0.179993
+OBJECT_SHARED Models/lib/lamp10m.xml -120.24697 36.33895 99.98 90.73
+OBJECT_SHARED Models/lib/lamp10m.xml -120.24682 36.34145 99.46 45.37
+OBJECT_SHARED Models/lib/lamp10m.xml -120.24665 36.34001 99.77 -27.85
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -120.24692 36.33916 99.94 0
 OBJECT_SHARED Models/Transport/hatchback_red.ac -120.24667 36.34079 99.61 266.67
 OBJECT_SHARED Models/Transport/hatchback_red.ac -120.24671 36.34087 99.58 274.57
@@ -25,6 +25,8 @@ OBJECT_SHARED Models/lib/container1.ac -120.24694 36.34070 99.62 0
 OBJECT_SHARED Models/lib/container1.ac -120.24694 36.34067 99.62 0
 OBJECT_SHARED Models/lib/container1.ac -120.24695 36.34061 99.65 0
 OBJECT_SHARED Models/lib/container1.ac -120.24694 36.34064 99.65 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.24692 36.34025 99.73 269.88
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.24698 36.34025 99.73 270
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -120.24698 36.34110 99.54 180.08
 OBJECT_SHARED Models/lib/SmHangar.ac -120.24709 36.33860 100.07 90.01
 OBJECT_SHARED Models/lib/SmHangar.ac -120.24710 36.33832 100.13 89.85

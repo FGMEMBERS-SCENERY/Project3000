@@ -3,8 +3,8 @@
 #
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.28928 46.20379 261.59 71.36
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 5.28931 46.20274 263.21 270
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.28821 46.20260 266.04 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.28773 46.20320 262.62 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.28821 46.20260 266.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.28773 46.20320 262.62 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 5.28882 46.20410 262.31 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 5.28837 46.20357 263.37 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 5.28878 46.20301 264.60 0

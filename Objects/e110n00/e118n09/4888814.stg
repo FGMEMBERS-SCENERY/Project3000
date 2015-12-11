@@ -1,29 +1,29 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 118.75548 9.74056 -0.32 268.15
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 118.75731 9.74014 -0.36 358
-OBJECT_SHARED Models/lib/MedHangar.ac 118.75774 9.74046 -0.38 269
-OBJECT_SHARED Models/lib/container6.ac 118.75718 9.74053 -0.36 90
-OBJECT_SHARED Models/lib/container6.ac 118.75693 9.74058 -0.36 0
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 118.75713 9.74053 -0.36 90
-OBJECT_SHARED Models/lib/container6.ac 118.75589 9.74065 -0.34 0
-OBJECT_SHARED Models/lib/container6.ac 118.75571 9.74062 -0.34 0
-OBJECT_SHARED Models/lib/container6.ac 118.75564 9.74065 -0.34 0
-OBJECT_SHARED Models/lib/loader.ac 118.75687 9.74062 -0.36 89.48
-OBJECT_SHARED Models/lib/chariot3curve.ac 118.75718 9.74062 -0.36 217.7
-OBJECT_SHARED Models/lib/LuggCartGroup.ac 118.75708 9.74057 -0.36 180.15
-OBJECT_SHARED Models/lib/LuggCartGroup.ac 118.75586 9.74063 -0.34 198.43
-OBJECT_SHARED Models/lib/chariot1.ac 118.75591 9.74060 -0.34 90
-OBJECT_SHARED Models/lib/chariot1.ac 118.75588 9.74059 -0.34 90
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 118.75669 9.74076 -0.36 358.68
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 118.75635 9.74077 -0.34 358.68
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 118.75601 9.74078 -0.34 358.68
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 118.75708 9.74053 -0.36 266.63
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 118.75633 9.74059 -0.34 266.63
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 118.75668 9.74057 -0.36 266.63
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 118.75600 9.74062 -0.34 266.63
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 118.75575 9.74063 -0.34 266.63
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 118.75539 9.74103 -0.32 267.62
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 118.75542 9.74084 -0.32 271.44
+OBJECT_SHARED Models/lib/SmHangar.ac 118.75548 9.74056 15.83 268.15
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 118.75731 9.74014 17.34 358
+OBJECT_SHARED Models/lib/MedHangar.ac 118.75774 9.74046 16.47 269
+OBJECT_SHARED Models/lib/container6.ac 118.75718 9.74053 16.41 90
+OBJECT_SHARED Models/lib/container6.ac 118.75693 9.74058 16.43 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 118.75713 9.74053 16.41 90
+OBJECT_SHARED Models/lib/container6.ac 118.75589 9.74065 16.96 0
+OBJECT_SHARED Models/lib/container6.ac 118.75571 9.74062 16.75 0
+OBJECT_SHARED Models/lib/container6.ac 118.75564 9.74065 16.96 0
+OBJECT_SHARED Models/lib/loader.ac 118.75687 9.74062 16.44 89.48
+OBJECT_SHARED Models/lib/chariot3curve.ac 118.75718 9.74062 16.44 217.7
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 118.75708 9.74057 16.42 180.15
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 118.75586 9.74063 16.86 198.43
+OBJECT_SHARED Models/lib/chariot1.ac 118.75591 9.74060 16.55 90
+OBJECT_SHARED Models/lib/chariot1.ac 118.75588 9.74059 16.45 90
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 118.75669 9.74076 16.37 358.68
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 118.75635 9.74077 16.91 358.68
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 118.75601 9.74078 16.91 358.68
+OBJECT_SHARED Models/lib/lamp10m.xml 118.75708 9.74053 16.41 266.63
+OBJECT_SHARED Models/lib/lamp10m.xml 118.75633 9.74059 16.45 266.63
+OBJECT_SHARED Models/lib/lamp10m.xml 118.75668 9.74057 16.42 266.63
+OBJECT_SHARED Models/lib/lamp10m.xml 118.75600 9.74062 16.75 266.63
+OBJECT_SHARED Models/lib/lamp10m.xml 118.75575 9.74063 16.86 266.63
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 118.75539 9.74103 17.17 267.62
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 118.75542 9.74084 17.40 271.44
 # END dsf2stg

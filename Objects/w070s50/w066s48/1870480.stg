@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office40x25.ac -65.90791 -47.73445 -0.67 176.596
-OBJECT_SHARED Models/lib/office32x25.ac -65.90822 -47.73492 -0.67 177.978
-OBJECT_SHARED Models/lib/SmHangar.ac -65.90815 -47.73537 -0.67 174.514
-OBJECT_SHARED Models/lib/SmHangar.ac -65.90632 -47.73429 -0.67 16.314
-OBJECT_SHARED Models/lib/SmHangar.ac -65.90651 -47.73417 -0.67 110.323
+OBJECT_SHARED Models/lib/office40x25.ac -65.90791 -47.73445 76.03 176.596
+OBJECT_SHARED Models/lib/office32x25.ac -65.90822 -47.73492 74.98 177.978
+OBJECT_SHARED Models/lib/SmHangar.ac -65.90815 -47.73537 73.18 174.514
+OBJECT_SHARED Models/lib/SmHangar.ac -65.90632 -47.73429 76.20 16.314
+OBJECT_SHARED Models/lib/SmHangar.ac -65.90651 -47.73417 76.51 110.323
 # END dsf2stg

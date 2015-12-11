@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.99102 43.39105 6.16 266.33
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.99085 43.39096 9.35 -65.56
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.99079 43.39079 12.58 -76.1
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.99074 43.39065 15.70 -76.97
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.99069 43.39048 17.54 -77.47
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.99115 43.39041 13.67 -86.27
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.99119 43.39058 10.66 -79.38
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.99124 43.39073 8.82 -78.69
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.99129 43.39090 6.43 -77.39
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99102 43.39105 6.16 266.33
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99085 43.39096 9.35 -65.56
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99079 43.39079 12.58 -76.1
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99074 43.39065 15.70 -76.97
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99069 43.39048 17.54 -77.47
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99115 43.39041 13.67 -86.27
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99119 43.39058 10.66 -79.38
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99124 43.39073 8.82 -78.69
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99129 43.39090 6.43 -77.39
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99000 43.39100 20.65 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99006 43.39098 19.34 90
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99007 43.39089 19.36 0

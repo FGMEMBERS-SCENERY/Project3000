@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -72.82990 44.11531 444.09 153.28
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.83048 44.11257 437.47 176.82
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.83053 44.11377 437.16 149.35
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.83049 44.11394 437.69 213.69
@@ -24,6 +25,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -72.82388 44.11961 436.97 133.78
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.82383 44.11990 435.73 139.54
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.82390 44.12022 437.60 234.58
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.82472 44.12116 430.88 189.78
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -72.82953 44.11587 444.70 153.28
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.82732 44.11830 443.66 204.09
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.82423 44.11968 437.79 240.83
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.82437 44.11942 439.92 127.69
@@ -48,6 +50,9 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -72.83038 44.11546 445.18 264.29
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.83050 44.11535 444.89 199.18
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.83062 44.11377 436.94 209.74
 OBJECT_SHARED Models/lib/SmHangar.ac -72.82851 44.11688 444.93 146.53
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -72.82931 44.11616 444.88 153.28
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -72.82970 44.11560 444.51 153.28
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -72.83011 44.11502 443.67 153.83
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.82701 44.11533 443.49 228.01
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.82735 44.11529 444.53 231.34
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.82714 44.11548 445.02 140.83

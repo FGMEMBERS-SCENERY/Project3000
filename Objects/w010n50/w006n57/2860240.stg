@@ -3,8 +3,9 @@
 #
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -5.82505 57.25332 9.11 309.4
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -5.82548 57.25327 9.09 121.4
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -5.82423 57.25348 8.71 151.699
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -5.82393 57.25324 10.39 270
+OBJECT_SHARED Models/lib/lamp10m.xml -5.82423 57.25348 8.71 151.699
+OBJECT_SHARED Models/lib/lamp10m.xml -5.82393 57.25324 10.39 270
+OBJECT_SHARED Models/lib/schranke.ac -5.82366 57.25310 10.62 317.046
 OBJECT_SHARED Models/lib/cars10.ac -5.82396 57.25323 10.41 120.408
 OBJECT_SHARED Models/lib/coal_pile.ac -5.82352 57.25362 8.50 90
 OBJECT_SHARED Models/lib/coal_pile.ac -5.82337 57.25367 8.29 90
@@ -21,4 +22,5 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.82450 57.25339 8.92 3
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.82454 57.25338 8.92 32.1472
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.82458 57.25336 8.91 32.1472
 OBJECT_SHARED Models/lib/office3x10.ac -5.82522 57.25340 8.91 27.7857
+OBJECT_SHARED Models/lib/shed8x10.ac -5.82536 57.25319 9.30 303.818
 # END dsf2stg

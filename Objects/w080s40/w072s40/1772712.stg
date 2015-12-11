@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92313 -39.28970 -0.59 78
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92371 -39.28959 -0.58 78
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92342 -39.28961 -0.58 78
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92400 -39.28954 -0.57 78
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92522 -39.28935 -0.54 78
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92466 -39.28944 -0.55 79
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92428 -39.28950 -0.56 79
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92496 -39.28939 -0.55 78
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -71.92171 -39.28996 -0.62 78
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -71.92281 -39.28966 -0.60 258
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.92554 -39.28930 -0.53 347.11
-OBJECT_SHARED Models/lib/cars14.ac -71.92665 -39.29104 -0.53 78.5
-OBJECT_SHARED Models/lib/cars14.ac -71.92598 -39.29115 -0.55 78.5
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92313 -39.28970 255.82 78
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92371 -39.28959 255.01 78
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92342 -39.28961 255.44 78
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92400 -39.28954 254.59 78
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92522 -39.28935 252.87 78
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92466 -39.28944 253.61 79
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92428 -39.28950 254.19 79
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92496 -39.28939 253.16 78
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -71.92171 -39.28996 257.55 78
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -71.92281 -39.28966 256.19 258
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.92554 -39.28930 252.44 347.11
+OBJECT_SHARED Models/lib/cars14.ac -71.92665 -39.29104 251.15 78.5
+OBJECT_SHARED Models/lib/cars14.ac -71.92598 -39.29115 252.46 78.5
 # END dsf2stg

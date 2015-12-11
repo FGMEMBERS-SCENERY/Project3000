@@ -3,10 +3,10 @@
 #
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -43.16689 -22.90702 7.41 183.8
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -43.16693 -22.90644 7.16 183.8
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -43.16810 -22.90597 5.23 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -43.16805 -22.90587 5.20 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -43.16795 -22.90589 7.00 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -43.16799 -22.90599 7.16 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -43.16810 -22.90597 5.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -43.16805 -22.90587 5.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -43.16795 -22.90589 7.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -43.16799 -22.90599 7.16 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -43.16805 -22.90634 7.70 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -43.16806 -22.90626 7.70 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -43.16835 -22.90561 -0.00 0
@@ -19,7 +19,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -43.16713 -22.90641 7.27 
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -43.16718 -22.90623 7.18 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -43.16760 -22.90635 7.42 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -43.16748 -22.90639 7.51 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -43.16799 -22.90615 7.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -43.16799 -22.90615 7.33 0
 OBJECT_SHARED Models/lib/chariot1.ac -43.16685 -22.90728 7.58 3.18
 OBJECT_SHARED Models/lib/chariot1.ac -43.16685 -22.90725 7.68 3.18
 OBJECT_SHARED Models/lib/LuggCartGroup.ac -43.16691 -22.90695 7.41 3.99

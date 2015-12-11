@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25.ac -84.13324 9.43975 23.73 320.527
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -84.13270 9.43941 22.57 72.1598
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -84.13263 9.43952 22.42 70.2328
+OBJECT_SHARED Models/lib/watertank3x1.ac -84.13314 9.43994 24.01 228.576
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -84.13300 9.43982 22.85 330.751
+# END dsf2stg

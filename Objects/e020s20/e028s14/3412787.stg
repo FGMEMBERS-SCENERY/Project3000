@@ -1,12 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/6barrels.ac 28.42737 -13.14236 -0.43 310.24
-OBJECT_SHARED Models/lib/coal_pile.ac 28.42756 -13.14232 -0.43 90
-OBJECT_SHARED Models/Misc/6barrels.ac 28.42738 -13.14235 -0.43 70.71
-OBJECT_SHARED Models/lib/container6.ac 28.42743 -13.14234 -0.43 302.01
-OBJECT_SHARED Models/Airport/cargoip.xml 28.42741 -13.14231 -0.43 143.88
-OBJECT_SHARED Models/Airport/cargobox.xml 28.42738 -13.14230 -0.43 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 28.42755 -13.14236 -0.43 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 28.42716 -13.14247 -0.43 0
+OBJECT_SHARED Models/Misc/6barrels.ac 28.42737 -13.14236 1252.59 310.24
+OBJECT_SHARED Models/lib/coal_pile.ac 28.42756 -13.14232 1252.48 90
+OBJECT_SHARED Models/Misc/6barrels.ac 28.42738 -13.14235 1252.59 70.71
+OBJECT_SHARED Models/lib/container6.ac 28.42743 -13.14234 1252.37 302.01
+OBJECT_SHARED Models/Airport/cargoip.xml 28.42741 -13.14231 1252.37 143.88
+OBJECT_SHARED Models/Airport/cargobox.xml 28.42738 -13.14230 1252.37 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 28.42672 -13.14231 1251.91 74.45
+OBJECT_SHARED Models/lib/shed8x10.ac 28.42697 -13.14263 1252.77 179.78
+OBJECT_SHARED Models/lib/transformer3x3.ac 28.42883 -13.14235 1249.93 90.48
+OBJECT_SHARED Models/lib/transformer3x3.ac 28.42715 -13.14251 1252.61 91.91
+OBJECT_SHARED Models/Misc/picnic_table.ac 28.42727 -13.14250 1252.74 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 28.42755 -13.14236 1252.62 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 28.42716 -13.14247 1252.68 0
 # END dsf2stg

@@ -18,5 +18,5 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23105 48.96129 497.31 254.05
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23088 48.96153 497.75 223.15
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23083 48.96150 497.66 227.02
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23086 48.96125 496.84 60.64
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 10.23100 48.96143 497.53 57.64
+OBJECT_SHARED Models/lib/lamp10m.xml 10.23100 48.96143 497.53 57.64
 # END dsf2stg

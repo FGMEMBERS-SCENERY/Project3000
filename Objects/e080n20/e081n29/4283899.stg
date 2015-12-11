@@ -1,13 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/chariot1.ac 81.81841 29.97129 -0.32 168.071
-OBJECT_SHARED Models/Airport/cargoip.xml 81.81899 29.97117 -0.33 346.409
-OBJECT_SHARED Models/Airport/cargobox.xml 81.81896 29.97117 -0.33 344.774
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81884 29.97153 -0.33 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81909 29.97139 -0.34 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81912 29.97146 -0.34 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81821 29.97160 -0.32 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81785 29.97168 -0.30 0
-OBJECT_SHARED Models/Aircraft/B1900_services.xml 81.81799 29.97122 -0.30 272.24
+OBJECT_SHARED Models/lib/chariot1.ac 81.81841 29.97129 2973.06 168.071
+OBJECT_SHARED Models/Airport/cargoip.xml 81.81899 29.97117 2971.37 346.409
+OBJECT_SHARED Models/Airport/cargobox.xml 81.81896 29.97117 2971.37 344.774
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81884 29.97153 2975.59 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81909 29.97139 2974.80 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81912 29.97146 2976.38 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81821 29.97160 2976.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81785 29.97168 2978.94 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 81.81806 29.97174 2978.04 345.287
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 81.81900 29.97162 2977.70 345.155
+OBJECT_SHARED Models/Aircraft/B1900_services.xml 81.81799 29.97122 2973.24 272.24
 # END dsf2stg

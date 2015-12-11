@@ -1,6 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -71.86430 -42.07494 -0.52 284.58
-OBJECT_SHARED Models/lib/SmHangar.ac -71.86466 -42.07501 -0.52 285.18
+OBJECT_SHARED Models/lib/SmHangar.ac -71.86430 -42.07494 248.53 284.58
+OBJECT_SHARED Models/lib/SmHangar.ac -71.86466 -42.07501 249.86 285.18
+OBJECT_SHARED Models/lib/farm19x12.ac -71.86321 -42.07555 248.52 182.73
+OBJECT_SHARED Models/lib/farm19x12.ac -71.86368 -42.07558 249.20 183.48
+OBJECT_SHARED Models/lib/farm19x12.ac -71.86387 -42.07564 249.71 5.15
+OBJECT_SHARED Models/lib/farm19x12.ac -71.87214 -42.07514 262.64 189.3
 # END dsf2stg

@@ -15,6 +15,8 @@ OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -108.75987 45.70155 1057.23 1
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -108.75731 45.70276 1051.93 220
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -108.76144 45.70086 1056.20 130
 OBJECT_SHARED Models/lib/SmHangar.ac -108.75767 45.70276 1053.16 310
+OBJECT_SHARED Models/lib/hangar81x16.ac -108.75888 45.70235 1055.12 40
+OBJECT_SHARED Models/lib/hangar81x16.ac -108.75940 45.70269 1054.98 310
 OBJECT_SHARED Models/lib/SmHangar.ac -108.75525 45.70457 1049.47 219
 OBJECT_SHARED Models/lib/SmHangar.ac -108.75491 45.70429 1049.44 219
 OBJECT_SHARED Models/lib/SmHangar.ac -108.75543 45.70473 1049.47 219
@@ -29,9 +31,9 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -108.76105 45.69704 1048.63 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -108.76095 45.69691 1048.54 270
 OBJECT_SHARED Models/Trees/billboard-tree.xml -108.76120 45.69712 1048.71 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -108.76122 45.69698 1048.63 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -108.76085 45.69693 1048.54 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -108.76112 45.69693 1048.54 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -108.76101 45.69719 1048.80 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -108.76091 45.69704 1048.63 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -108.76120 45.69705 1048.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -108.76085 45.69693 1048.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -108.76112 45.69693 1048.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -108.76101 45.69719 1048.80 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -108.76091 45.69704 1048.63 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -108.76120 45.69705 1048.63 0
 # END dsf2stg

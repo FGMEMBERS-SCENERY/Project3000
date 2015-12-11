@@ -1,11 +1,26 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.43114 59.36845 -0.25 243.434
-OBJECT_SHARED Models/lib/office3x10.ac -2.42907 59.36796 -0.28 68.875
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -2.43199 59.36896 -0.23 246.801
-OBJECT_SHARED Models/lib/office3x10.ac -2.43156 59.36923 -0.23 269.37
-OBJECT_SHARED Models/lib/office4x14.ac -2.43150 59.36919 -0.23 270.939
-OBJECT_SHARED Models/lib/cars4.ac -2.43091 59.36906 -0.24 248.706
-OBJECT_SHARED Models/lib/office3x10.ac -2.43126 59.36878 -0.24 339.59
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.43114 59.36845 16.69 243.434
+OBJECT_SHARED Models/lib/office3x10.ac -2.42907 59.36796 15.71 68.875
+OBJECT_SHARED Models/Misc/6barrels.ac -2.42959 59.36784 16.11 243.435
+OBJECT_SHARED Models/lib/coal_pile.ac -2.42965 59.36793 16.14 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.42976 59.36789 16.22 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.42979 59.36784 16.25 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.42981 59.36780 16.27 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.42982 59.36775 16.27 90
+OBJECT_SHARED Models/lib/shed8x10.ac -2.43124 59.36904 17.61 270
+OBJECT_SHARED Models/lib/propane-tank.ac -2.43150 59.36908 17.39 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -2.43199 59.36896 17.06 246.801
+OBJECT_SHARED Models/Misc/6barrels.ac -2.43151 59.36889 17.51 0
+OBJECT_SHARED Models/Misc/6barrels.ac -2.43152 59.36892 17.51 0
+OBJECT_SHARED Models/Misc/6barrels.ac -2.43168 59.36890 17.46 0
+OBJECT_SHARED Models/lib/office3x10.ac -2.43156 59.36923 17.22 269.37
+OBJECT_SHARED Models/lib/office4x14.ac -2.43150 59.36919 17.28 270.939
+OBJECT_SHARED Models/lib/cars4.ac -2.43091 59.36906 16.55 248.706
+OBJECT_SHARED Models/lib/coal_pile.ac -2.43149 59.36894 17.51 58.3245
+OBJECT_SHARED Models/lib/shed8x10.ac -2.43139 59.36902 17.60 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -2.43205 59.36902 17.00 67.8101
+OBJECT_SHARED Models/lib/office3x10.ac -2.43126 59.36878 17.09 339.59
+OBJECT_SHARED Models/lib/schranke.ac -2.43118 59.36886 17.00 156.615
 # END dsf2stg

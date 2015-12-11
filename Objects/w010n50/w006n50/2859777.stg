@@ -1,16 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars4.ac -5.66893 50.10309 -0.52 297.67
-OBJECT_SHARED Models/lib/cars6.ac -5.66853 50.10316 -0.53 297.27
-OBJECT_SHARED Models/lib/cars10.ac -5.66871 50.10322 -0.53 296.75
-OBJECT_SHARED Models/lib/cars6.ac -5.66871 50.10338 -0.53 298.87
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -5.66856 50.10131 -0.50 217.945
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -5.66787 50.10254 -0.53 120.35
-OBJECT_SHARED Models/lib/FireStationLg.ac -5.66789 50.10200 -0.52 210.09
-OBJECT_SHARED Models/lib/FireStationLg.ac -5.66817 50.10230 -0.52 210.34
-OBJECT_SHARED Models/lib/office16x4n.ac -5.66863 50.10294 -0.53 89.28
-OBJECT_SHARED Models/lib/office16x4n.ac -5.66862 50.10264 -0.52 206.57
-OBJECT_SHARED Models/lib/MedHangar.ac -5.66831 50.10147 -0.51 306.81
-OBJECT_SHARED Models/lib/MedHangar.ac -5.66786 50.10169 -0.52 307.02
+OBJECT_SHARED Models/lib/cars4.ac -5.66893 50.10309 118.85 297.67
+OBJECT_SHARED Models/lib/cars6.ac -5.66853 50.10316 119.22 297.27
+OBJECT_SHARED Models/lib/cars10.ac -5.66871 50.10322 119.05 296.75
+OBJECT_SHARED Models/lib/cars6.ac -5.66871 50.10338 119.01 298.87
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -5.66856 50.10131 119.23 217.945
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -5.66787 50.10254 120.58 120.35
+OBJECT_SHARED Models/lib/cube16x10.ac -5.66771 50.10183 120.18 209.94
+OBJECT_SHARED Models/lib/FireStationLg.ac -5.66789 50.10200 119.99 210.09
+OBJECT_SHARED Models/lib/FireStationLg.ac -5.66817 50.10230 119.69 210.34
+OBJECT_SHARED Models/lib/office16x4n.ac -5.66863 50.10294 119.17 89.28
+OBJECT_SHARED Models/lib/office16x4n.ac -5.66862 50.10264 119.22 206.57
+OBJECT_SHARED Models/lib/MedHangar.ac -5.66831 50.10147 119.52 306.81
+OBJECT_SHARED Models/lib/MedHangar.ac -5.66786 50.10169 120.01 307.02
 # END dsf2stg

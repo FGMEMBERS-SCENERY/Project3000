@@ -12,12 +12,12 @@ OBJECT_SHARED Models/lib/LongRow.ac -122.94012 45.42817 49.42 145
 OBJECT_SHARED Models/lib/LongRow.ac -122.93970 45.42838 48.89 145
 OBJECT_SHARED Models/lib/LongRow.ac -122.93925 45.42855 53.00 145
 OBJECT_SHARED Models/Trees/billboard-tree.xml -122.94162 45.43076 39.51 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -122.94323 45.42876 38.31 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -122.94282 45.42890 38.36 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -122.94323 45.42876 38.31 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -122.94282 45.42890 38.36 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -122.93917 45.43152 42.20 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -122.93933 45.43169 41.49 270
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -122.94155 45.43051 39.37 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -122.93952 45.43134 40.28 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -122.94013 45.43167 40.23 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -122.93922 45.42949 51.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.94155 45.43051 39.37 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -122.93952 45.43134 40.28 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.94013 45.43167 40.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -122.93922 45.42949 51.70 0
 # END dsf2stg

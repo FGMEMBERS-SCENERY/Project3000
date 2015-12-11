@@ -1,5 +1,5 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -56.00865 -4.25029 -0.20 185.15
+OBJECT_SHARED Models/lib/lamp10m.xml -56.00865 -4.25029 26.23 185.15
 # END dsf2stg

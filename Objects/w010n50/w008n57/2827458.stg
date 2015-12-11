@@ -1,8 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.44913 57.02562 -0.31 180.725
-OBJECT_SHARED Models/lib/cargobox2x3m.ac -7.44949 57.02527 -0.32 293.198
-OBJECT_SHARED Models/lib/cars10.ac -7.44944 57.02514 -0.32 238.891
-OBJECT_SHARED Models/lib/cars10.ac -7.45000 57.02499 -0.33 63.9467
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.44913 57.02562 3.32 180.725
+OBJECT_SHARED Models/lib/propane-tank.ac -7.44914 57.02567 3.39 2.86237
+OBJECT_SHARED Models/lib/propane-tank.ac -7.44914 57.02565 3.39 2.86237
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -7.44949 57.02527 3.37 293.198
+OBJECT_SHARED Models/lib/cars10.ac -7.44944 57.02514 3.26 238.891
+OBJECT_SHARED Models/lib/cars10.ac -7.45000 57.02499 3.63 63.9467
 # END dsf2stg

@@ -7,7 +7,11 @@ OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -92.86083 44.99511 280.87 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -92.86083 44.99511 280.87 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -92.86082 44.99512 280.87 0
 OBJECT_SHARED Models/lib/office40x25.ac -92.85927 44.99551 280.91 45.88
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -92.85793 44.99632 280.82 0
+OBJECT_SHARED Models/lib/cube16x10.ac -92.85416 44.99346 280.30 42.83
 OBJECT_SHARED Models/Transport/hatchback_red.ac -92.85981 44.99681 280.86 318.02
+OBJECT_SHARED Models/lib/hangar81x16.ac -92.86206 44.99694 280.57 45.37
+OBJECT_SHARED Models/lib/hangar81x16.ac -92.86182 44.99416 280.44 133.8
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -92.85795 44.99618 280.83 136.83
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -92.86078 44.99833 280.39 311.5
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -92.86074 44.99830 280.41 311.5
@@ -30,9 +34,9 @@ OBJECT_SHARED Models/Airport/Avgas_Pump.ac -92.85809 44.99609 280.84 42.57
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -92.86045 44.99826 280.46 314.36
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -92.85818 44.99653 280.83 315.27
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.85931 44.99550 280.91 43.45
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -92.85939 44.99727 280.77 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -92.86060 44.99621 280.91 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -92.85936 44.99534 280.91 0
+OBJECT_SHARED Models/lib/lamp10m.xml -92.85939 44.99727 280.77 0
+OBJECT_SHARED Models/lib/lamp10m.xml -92.86060 44.99621 280.91 0
+OBJECT_SHARED Models/lib/lamp10m.xml -92.85936 44.99534 280.91 0
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -92.86064 44.99380 280.38 46.74
 OBJECT_SHARED Models/lib/MedHangar.ac -92.85962 44.99506 280.88 136.72
 OBJECT_SHARED Models/lib/SmHangar.ac -92.86106 44.99522 280.86 44.76

@@ -11,5 +11,5 @@ OBJECT_SHARED Models/lib/SmHangar.ac 22.82377 58.99317 5.01 212.08
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 22.82293 58.99466 4.43 121.84
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 22.82250 58.99393 5.57 300.68
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 22.82388 58.99404 4.54 32.65
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 22.82332 58.99415 4.91 0
+OBJECT_SHARED Models/lib/lamp10m.xml 22.82332 58.99415 4.91 0
 # END dsf2stg

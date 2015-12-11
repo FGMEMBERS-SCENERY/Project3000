@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -72.80381 -36.12604 -0.33 185.73
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.80477 -36.12576 -0.29 231.34
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.80447 -36.12693 -0.33 0.899994
-OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80318 -36.12542 -0.33 0
-OBJECT_SHARED Models/lib/SmHangar.ac -72.80468 -36.12672 -0.32 195.68
-OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80332 -36.12560 -0.33 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80302 -36.12517 -0.33 270
+OBJECT_SHARED Models/lib/cars7.ac -72.80381 -36.12604 9.55 185.73
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.80477 -36.12576 10.03 231.34
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.80447 -36.12693 9.54 0.899994
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80318 -36.12542 9.50 0
+OBJECT_SHARED Models/lib/SmHangar.ac -72.80468 -36.12672 9.54 195.68
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80332 -36.12560 9.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80302 -36.12517 9.78 270
 # END dsf2stg

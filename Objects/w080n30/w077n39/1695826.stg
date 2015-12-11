@@ -161,14 +161,15 @@ OBJECT_SHARED Models/lib/LongRow.ac -76.40919 39.31788 2.51 45.0048
 OBJECT_SHARED Models/Trees/billboard-tree.xml -76.42215 39.32877 2.37 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -76.42224 39.32878 2.37 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -76.42221 39.32883 2.37 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -76.42428 39.33069 5.09 330.803
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.42296 39.32892 1.76 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.42312 39.32895 1.82 0
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -76.42155 39.32868 4.57 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.42278 39.32882 1.79 270
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.42295 39.32876 1.70 270
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.42312 39.32871 1.44 270
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.42288 39.32834 1.52 270
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.42268 39.32840 1.76 270
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -76.42250 39.32847 2.02 270
+OBJECT_SHARED Models/lib/lamp10m.xml -76.42278 39.32882 1.79 270
+OBJECT_SHARED Models/lib/lamp10m.xml -76.42295 39.32876 1.70 270
+OBJECT_SHARED Models/lib/lamp10m.xml -76.42312 39.32871 1.44 270
+OBJECT_SHARED Models/lib/lamp10m.xml -76.42288 39.32834 1.52 270
+OBJECT_SHARED Models/lib/lamp10m.xml -76.42268 39.32840 1.76 270
+OBJECT_SHARED Models/lib/lamp10m.xml -76.42250 39.32847 2.02 270
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.42212 39.32886 2.49 299.431
 # END dsf2stg

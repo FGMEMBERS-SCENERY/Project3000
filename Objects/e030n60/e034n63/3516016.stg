@@ -1,7 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/HorizTanks2.ac 34.28803 63.75776 -0.81 292.24
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 34.28836 63.75778 -0.81 202.11
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 34.28826 63.75775 -0.81 196.07
+OBJECT_SHARED Models/lib/farm19x12.ac 34.28671 63.75852 108.58 114.57
+OBJECT_SHARED Models/lib/HorizTanks2.ac 34.28803 63.75776 108.45 292.24
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 34.28836 63.75778 108.31 202.11
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 34.28826 63.75775 108.34 196.07
 # END dsf2stg

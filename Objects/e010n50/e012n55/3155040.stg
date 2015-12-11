@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/hangar81x16.ac 12.13219 55.59272 41.87 63.99
 OBJECT_SHARED Models/lib/HorizTanks2.ac 12.12855 55.59465 41.93 65.22
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 12.12836 55.59470 41.91 243.78
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 12.12932 55.58996 40.39 0

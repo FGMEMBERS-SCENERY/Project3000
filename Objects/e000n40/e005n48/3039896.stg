@@ -1,9 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.14550 48.38399 297.03 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 5.14543 48.38408 300.03 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.14550 48.38399 297.03 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.14543 48.38408 300.03 0
 OBJECT_SHARED Models/Transport/hatchback_red.ac 5.14561 48.38413 297.23 82.0303
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.14654 48.38422 290.61 0
+OBJECT_SHARED Models/lib/farm19x12.ac 5.14526 48.38414 302.68 87.0549
 OBJECT_SHARED Models/lib/LongRow.ac 5.14574 48.38407 295.20 354.935
 # END dsf2stg

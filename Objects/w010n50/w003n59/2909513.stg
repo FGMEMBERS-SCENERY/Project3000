@@ -1,16 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cone.ac -2.64042 59.15422 -0.24 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.64042 59.15388 -0.25 240.63
-OBJECT_SHARED Models/lib/cars4.ac -2.64030 59.15389 -0.25 46.3149
-OBJECT_SHARED Models/lib/office3x10.ac -2.64024 59.15396 -0.25 315.243
-OBJECT_SHARED Models/lib/cone.ac -2.64037 59.15399 -0.25 0
-OBJECT_SHARED Models/lib/cone.ac -2.64053 59.15393 -0.25 0
-OBJECT_SHARED Models/lib/cone.ac -2.64073 59.15408 -0.25 0
-OBJECT_SHARED Models/lib/cone.ac -2.64095 59.15397 -0.25 0
-OBJECT_SHARED Models/lib/cone.ac -2.64058 59.15414 -0.25 0
-OBJECT_SHARED Models/lib/cone.ac -2.64020 59.15411 -0.24 0
-OBJECT_SHARED Models/lib/cone.ac -2.64072 59.15384 -0.26 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.64026 59.15411 -0.25 72.6458
+OBJECT_SHARED Models/lib/schranke.ac -2.64039 59.15390 11.79 314.504
+OBJECT_SHARED Models/lib/cone.ac -2.64042 59.15422 11.34 0
+OBJECT_SHARED Models/lib/lamp10m.xml -2.64042 59.15388 11.77 240.63
+OBJECT_SHARED Models/lib/cars4.ac -2.64030 59.15389 11.86 46.3149
+OBJECT_SHARED Models/Misc/6barrels.ac -2.64017 59.15397 11.80 225
+OBJECT_SHARED Models/lib/office3x10.ac -2.64024 59.15396 11.76 315.243
+OBJECT_SHARED Models/lib/cone.ac -2.64037 59.15399 11.67 0
+OBJECT_SHARED Models/lib/cone.ac -2.64053 59.15393 11.69 0
+OBJECT_SHARED Models/lib/cone.ac -2.64073 59.15408 11.26 0
+OBJECT_SHARED Models/lib/cone.ac -2.64095 59.15397 11.22 0
+OBJECT_SHARED Models/lib/cone.ac -2.64058 59.15414 11.37 0
+OBJECT_SHARED Models/lib/cone.ac -2.64020 59.15411 11.64 0
+OBJECT_SHARED Models/lib/cone.ac -2.64072 59.15384 11.67 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.64026 59.15411 11.60 72.6458
 # END dsf2stg

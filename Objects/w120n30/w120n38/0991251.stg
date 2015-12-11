@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -119.22408 38.25979 1971.34 179.54
+OBJECT_SHARED Models/lib/lamp10m.xml -119.22408 38.25979 1971.34 179.54
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -119.22355 38.25896 1971.57 180.12
 OBJECT_SHARED Models/lib/cars6.ac -119.22379 38.25879 1971.62 0.050003
 OBJECT_SHARED Models/lib/FireStationLg.ac -119.22366 38.25857 1971.67 0

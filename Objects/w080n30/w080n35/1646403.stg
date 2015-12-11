@@ -1,16 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office16x4n.ac -79.18957 35.01991 -0.30 145.99
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.18992 35.02054 -0.31 155.48
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.19052 35.01933 -0.34 56.63
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.18960 35.02066 -0.29 66.29
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.18956 35.02065 -0.29 66.29
-OBJECT_SHARED Models/lib/stack_of_cones.ac -79.18959 35.02040 -0.30 43.33
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.18969 35.02061 -0.30 333.44
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.19033 35.01983 -0.33 102.66
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.19078 35.01919 -0.35 8.04001
-OBJECT_SHARED Models/lib/office16x4n.ac -79.18928 35.02039 -0.28 239.45
-OBJECT_SHARED Models/lib/SmHangar.ac -79.18940 35.02057 -0.29 61.72
-OBJECT_SHARED Models/lib/SmHangar.ac -79.18949 35.02033 -0.29 241.48
+OBJECT_SHARED Models/lib/office16x4n.ac -79.18957 35.01991 89.02 145.99
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.18992 35.02054 88.36 155.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.19052 35.01933 88.13 56.63
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.18960 35.02066 88.50 66.29
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.18956 35.02065 88.50 66.29
+OBJECT_SHARED Models/lib/watertank3x1.ac -79.18977 35.02046 88.40 245.92
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.18959 35.02040 88.51 43.33
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.18969 35.02061 88.44 333.44
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.19033 35.01983 88.19 102.66
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.19078 35.01919 88.04 8.04001
+OBJECT_SHARED Models/lib/office16x4n.ac -79.18928 35.02039 89.04 239.45
+OBJECT_SHARED Models/lib/SmHangar.ac -79.18940 35.02057 88.64 61.72
+OBJECT_SHARED Models/lib/SmHangar.ac -79.18949 35.02033 88.78 241.48
 # END dsf2stg

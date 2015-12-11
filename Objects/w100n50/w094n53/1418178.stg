@@ -1,6 +1,6 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.34457 53.06225 -0.35 66.29
-OBJECT_SHARED Models/lib/MedHangar.ac -93.34361 53.06160 -0.37 248.45
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.34457 53.06225 282.60 66.29
+OBJECT_SHARED Models/lib/MedHangar.ac -93.34361 53.06160 282.03 248.45
 # END dsf2stg

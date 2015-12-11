@@ -1,6 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/shed8x10.ac -121.18775 36.32956 67.00 293.79
+OBJECT_SHARED Models/lib/watertank3x1.ac -121.18774 36.32950 67.00 293.45
+OBJECT_SHARED Models/lib/watertank3x1.ac -121.18770 36.32952 67.00 293.37
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -121.18822 36.32991 67.00 270
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -121.18819 36.33031 68.12 113.96
 OBJECT_SHARED Models/lib/SmHangar.ac -121.18823 36.33040 68.58 203.85

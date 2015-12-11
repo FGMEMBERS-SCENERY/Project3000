@@ -1,13 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.64528 45.46183 49.15 270
+OBJECT_SHARED Models/lib/lamp10m.xml -75.64528 45.46183 49.15 270
 OBJECT_SHARED Models/lib/SmHangar.ac -75.64555 45.46219 47.72 193.03
 OBJECT_SHARED Models/lib/cone.ac -75.64405 45.46203 49.15 0
 OBJECT_SHARED Models/lib/cone.ac -75.64532 45.46186 48.68 0
 OBJECT_SHARED Models/lib/NoParkStripes.xml -75.64507 45.46194 48.82 192
 OBJECT_SHARED Models/lib/NoParkStripes.xml -75.64516 45.46192 48.75 192
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -75.64510 45.46191 48.82 190
+OBJECT_SHARED Models/lib/shed8x10.ac -75.64576 45.46206 47.96 11
 OBJECT_SHARED Models/lib/cars6.ac -75.64520 45.46235 47.21 194.04
 OBJECT_SHARED Models/lib/cars6.ac -75.64569 45.46230 47.42 104.93
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.64054 45.46271 48.38 0
@@ -18,11 +19,11 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.64339 45.46203 49.59 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.64453 45.46184 49.74 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.64528 45.46173 49.63 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.64575 45.46167 49.27 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.64557 45.46252 46.87 90
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.64617 45.45867 57.72 270
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.64671 45.45859 57.84 270
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.64593 45.45803 59.22 -83.09
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.64652 45.45794 59.35 -81.38
+OBJECT_SHARED Models/lib/lamp10m.xml -75.64557 45.46252 46.87 90
+OBJECT_SHARED Models/lib/lamp10m.xml -75.64617 45.45867 57.72 270
+OBJECT_SHARED Models/lib/lamp10m.xml -75.64671 45.45859 57.84 270
+OBJECT_SHARED Models/lib/lamp10m.xml -75.64593 45.45803 59.22 -83.09
+OBJECT_SHARED Models/lib/lamp10m.xml -75.64652 45.45794 59.35 -81.38
 OBJECT_SHARED Models/Misc/6barrels.ac -75.64204 45.45791 59.85 142.13
 OBJECT_SHARED Models/Misc/6barrels.ac -75.64203 45.45793 59.85 146.31
 OBJECT_SHARED Models/Misc/6barrels.ac -75.64202 45.45797 59.59 157.69
@@ -32,7 +33,7 @@ OBJECT_SHARED Models/Misc/6barrels.ac -75.64200 45.45795 59.85 127.27
 OBJECT_SHARED Models/Misc/6barrels.ac -75.64201 45.45797 59.59 163.81
 OBJECT_SHARED Models/Misc/6barrels.ac -75.64198 45.45799 59.59 250.5
 OBJECT_SHARED Models/Misc/6barrels.ac -75.64198 45.45797 59.59 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -75.64459 45.45975 54.90 270
+OBJECT_SHARED Models/lib/lamp10m.xml -75.64459 45.45975 54.90 270
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -75.64461 45.45848 58.05 0
 OBJECT_SHARED Models/lib/container6.ac -75.64201 45.45819 59.06 327.72
 OBJECT_SHARED Models/lib/container6.ac -75.64194 45.45803 59.53 327.72
@@ -90,12 +91,12 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64495 45.45752 60.25 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64484 45.45758 60.03 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64463 45.45768 59.82 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64515 45.45792 59.37 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -75.64665 45.45790 59.34 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -75.64665 45.45797 59.12 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -75.64666 45.45801 59.11 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -75.64669 45.45808 58.90 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -75.64673 45.45827 58.47 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -75.64677 45.45841 58.24 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.64665 45.45790 59.34 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.64665 45.45797 59.12 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.64666 45.45801 59.11 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.64669 45.45808 58.90 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.64673 45.45827 58.47 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.64677 45.45841 58.24 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64752 45.45753 59.49 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64760 45.45758 59.22 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64786 45.45765 58.98 0
@@ -170,7 +171,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64543 45.45857 57.92 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64544 45.45863 57.92 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64546 45.45867 57.72 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -75.64547 45.45873 57.72 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -75.64683 45.45860 57.82 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.64683 45.45860 57.82 0
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -75.63976 45.46246 49.84 191.31
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -75.63957 45.46249 49.99 181.22
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -75.63972 45.46273 48.96 55.95
@@ -267,6 +268,7 @@ OBJECT_SHARED Models/lib/cars10.ac -75.64436 45.45744 60.49 329.88
 OBJECT_SHARED Models/lib/cars10.ac -75.64389 45.45745 60.48 149.43
 OBJECT_SHARED Models/lib/cars10.ac -75.64425 45.45759 60.10 329.79
 OBJECT_SHARED Models/lib/cars10.ac -75.64409 45.45778 59.61 330.56
+OBJECT_SHARED Models/lib/6space_wStop.ac -75.64627 45.45927 55.67 280.12
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -75.64532 45.45959 55.21 102.63
 OBJECT_SHARED Models/lib/cars10.ac -75.64528 45.45941 55.64 11.4
 OBJECT_SHARED Models/lib/cars10.ac -75.64487 45.45947 55.50 190.86

@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/hangar81x16.ac -106.27573 40.74479 2484.46 180
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -106.27039 40.74499 2475.68 355.6
 OBJECT_SHARED Models/Airport/cargobox.xml -106.26907 40.74507 2484.01 61.93
 OBJECT_SHARED Models/Airport/cargobox.xml -106.26916 40.74496 2484.03 59.04
@@ -13,6 +14,7 @@ OBJECT_SHARED Models/lib/office16x4n.ac -106.27857 40.74941 2471.83 92.86
 OBJECT_SHARED Models/lib/MedHangar.ac -106.27379 40.74464 2485.08 359.66
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -106.27393 40.74439 2485.22 181.51
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -106.27439 40.74441 2485.22 179.34
+OBJECT_SHARED Models/lib/cube16x10.ac -106.27875 40.74894 2472.39 270
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -106.26884 40.74303 2479.82 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -106.26911 40.74312 2480.11 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -106.26954 40.74317 2470.47 270

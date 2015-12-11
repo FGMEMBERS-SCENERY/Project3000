@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -63.89998 -8.71225 -0.30 92.39
-OBJECT_SHARED Models/lib/SmHangar.ac -63.90022 -8.71227 -0.30 92.26
-OBJECT_SHARED Models/lib/fboModern1.ac -63.89974 -8.71305 -0.29 2.96
-OBJECT_SHARED Models/lib/LgMaint.ac -63.89966 -8.71419 -0.27 2.66
-OBJECT_SHARED Models/lib/MedHangar.ac -63.89986 -8.71524 -0.24 271.97
-OBJECT_SHARED Models/lib/LongRow.ac -63.90016 -8.70501 -0.38 93.09
-OBJECT_SHARED Models/lib/LongRow.ac -63.90026 -8.70341 -0.38 273.73
-OBJECT_SHARED Models/lib/LongRow.ac -63.89932 -8.70423 -0.39 273.44
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -63.89952 -8.70772 -0.37 91.52
-OBJECT_SHARED Models/lib/SmHangar.ac -63.89786 -8.70611 -0.41 1.15
-OBJECT_SHARED Models/lib/SmHangar.ac -63.89787 -8.70571 -0.41 3.56
-OBJECT_SHARED Models/lib/LongRow.ac -63.90053 -8.70108 -0.37 272.82
-OBJECT_SHARED Models/lib/LongRow.ac -63.90049 -8.70198 -0.37 273.48
-OBJECT_SHARED Models/lib/MedHangar.ac -63.89936 -8.70005 -0.39 44.84
-OBJECT_SHARED Models/lib/LgMaint.ac -63.90047 -8.69964 -0.36 88.01
-OBJECT_SHARED Models/lib/fboModern1.ac -63.89932 -8.70357 -0.40 92.77
+OBJECT_SHARED Models/lib/SmHangar.ac -63.89998 -8.71225 88.53 92.39
+OBJECT_SHARED Models/lib/SmHangar.ac -63.90022 -8.71227 88.44 92.26
+OBJECT_SHARED Models/lib/fboModern1.ac -63.89974 -8.71305 88.74 2.96
+OBJECT_SHARED Models/lib/LgMaint.ac -63.89966 -8.71419 87.66 2.66
+OBJECT_SHARED Models/lib/MedHangar.ac -63.89986 -8.71524 86.50 271.97
+OBJECT_SHARED Models/lib/LongRow.ac -63.90016 -8.70501 88.93 93.09
+OBJECT_SHARED Models/lib/LongRow.ac -63.90026 -8.70341 89.39 273.73
+OBJECT_SHARED Models/lib/LongRow.ac -63.89932 -8.70423 90.90 273.44
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -63.89952 -8.70772 88.30 91.52
+OBJECT_SHARED Models/lib/SmHangar.ac -63.89786 -8.70611 84.84 1.15
+OBJECT_SHARED Models/lib/SmHangar.ac -63.89787 -8.70571 84.83 3.56
+OBJECT_SHARED Models/lib/LongRow.ac -63.90053 -8.70108 90.14 272.82
+OBJECT_SHARED Models/lib/LongRow.ac -63.90049 -8.70198 89.68 273.48
+OBJECT_SHARED Models/lib/MedHangar.ac -63.89936 -8.70005 91.81 44.84
+OBJECT_SHARED Models/lib/LgMaint.ac -63.90047 -8.69964 90.85 88.01
+OBJECT_SHARED Models/lib/fboModern1.ac -63.89932 -8.70357 90.11 92.77
 # END dsf2stg

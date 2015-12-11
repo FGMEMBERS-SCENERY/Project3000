@@ -5,7 +5,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 7.22733 53.38848 -2.22 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 7.22733 53.38860 -2.25 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 7.23009 53.38905 -2.17 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 7.23038 53.38909 -2.13 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.22989 53.38900 -2.19 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.22989 53.38900 -2.19 90
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.23058 53.38914 -2.11 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.22969 53.38898 -2.19 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.22706 53.38862 -2.28 0
@@ -37,14 +37,14 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 7.22831 53.38907 -2.33 17.24
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.22818 53.38908 -2.34 17.53
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.22828 53.38910 -2.33 18.44
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.22820 53.38905 -2.31 18.89
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.23103 53.38973 -2.07 21.8
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.22713 53.38886 -2.39 270
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.22769 53.38895 -2.35 90
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.22785 53.38856 -2.27 -14.04
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.23091 53.38960 -2.10 12.99
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.22904 53.38914 -2.26 -71.08
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.22838 53.38916 -2.34 -68.84
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.22759 53.38902 -2.38 -74.58
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.22697 53.38890 -2.40 270
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.22604 53.38897 -2.49 212.97
+OBJECT_SHARED Models/lib/lamp10m.xml 7.23103 53.38973 -2.07 21.8
+OBJECT_SHARED Models/lib/lamp10m.xml 7.22713 53.38886 -2.39 270
+OBJECT_SHARED Models/lib/lamp10m.xml 7.22769 53.38895 -2.35 90
+OBJECT_SHARED Models/lib/lamp10m.xml 7.22785 53.38856 -2.27 -14.04
+OBJECT_SHARED Models/lib/lamp10m.xml 7.23091 53.38960 -2.10 12.99
+OBJECT_SHARED Models/lib/lamp10m.xml 7.22904 53.38914 -2.26 -71.08
+OBJECT_SHARED Models/lib/lamp10m.xml 7.22838 53.38916 -2.34 -68.84
+OBJECT_SHARED Models/lib/lamp10m.xml 7.22759 53.38902 -2.38 -74.58
+OBJECT_SHARED Models/lib/lamp10m.xml 7.22697 53.38890 -2.40 270
+OBJECT_SHARED Models/lib/lamp10m.xml 7.22604 53.38897 -2.49 212.97
 # END dsf2stg

@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -16.46155 66.30727 -0.66 268.57
-OBJECT_SHARED Models/lib/SmHangar.ac -16.46164 66.30742 -0.65 0
-OBJECT_SHARED Models/lib/SmHangar.ac -16.46172 66.30719 -0.66 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -16.46155 66.30727 7.56 268.57
+OBJECT_SHARED Models/lib/SmHangar.ac -16.46164 66.30742 7.75 0
+OBJECT_SHARED Models/lib/SmHangar.ac -16.46172 66.30719 7.20 0
 # END dsf2stg

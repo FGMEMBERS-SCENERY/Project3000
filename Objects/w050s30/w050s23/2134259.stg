@@ -3,6 +3,7 @@
 #
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -49.07342 -22.16234 594.01 296.97
 OBJECT_SHARED Models/lib/office32x25n.ac -49.07355 -22.16132 594.77 293.96
+OBJECT_SHARED Models/lib/cube16x10.ac -49.07120 -22.16685 588.20 25.29
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -49.07084 -22.16546 590.50 115.96
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -49.07093 -22.16529 590.99 115.96
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -49.07103 -22.16510 591.48 115.96
@@ -24,6 +25,7 @@ OBJECT_SHARED Models/lib/loader.ac -49.07228 -22.16405 594.90 270
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -49.07257 -22.16413 593.62 22.83
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -49.07261 -22.16416 593.36 22.83
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -49.07235 -22.16406 594.70 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -49.07762 -22.15353 577.64 28.07
 OBJECT_SHARED Models/lib/office16x4n.ac -49.07770 -22.15369 577.52 296.57
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -49.07759 -22.15348 577.64 30.07
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -49.07709 -22.15403 580.38 0

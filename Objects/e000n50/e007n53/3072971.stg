@@ -1,18 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.79999 53.16130 1.63 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.80077 53.16203 1.66 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.80062 53.16201 1.45 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.80051 53.16195 1.39 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.80081 53.16217 1.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.79999 53.16130 1.63 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.80077 53.16203 1.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.80062 53.16201 1.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.80051 53.16195 1.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.80081 53.16217 1.48 0
 OBJECT_SHARED Models/Transport/hatchback_red.ac 7.79984 53.16211 1.02 324.58
 OBJECT_SHARED Models/Transport/hatchback_red.ac 7.79997 53.16209 1.08 325.41
 OBJECT_SHARED Models/Transport/hatchback_red.ac 7.80022 53.16164 1.50 55.01
+OBJECT_SHARED Models/lib/hangar81x16.ac 7.79925 53.16210 0.78 329.1
 OBJECT_SHARED Models/Transport/hatchback_red.ac 7.80031 53.16187 1.32 60.58
 OBJECT_SHARED Models/Transport/hatchback_red.ac 7.80042 53.16181 1.44 55.3
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.79920 53.16173 1.05 331.7
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.80060 53.16240 1.30 154.98
+OBJECT_SHARED Models/lib/propane-tank.ac 7.79995 53.16224 1.03 61.26
+OBJECT_SHARED Models/lib/propane-tank.ac 7.80034 53.16198 1.30 146.31
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.79972 53.16230 0.88 148.67
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.79977 53.16234 0.90 337.38
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.79979 53.16221 0.95 236.82

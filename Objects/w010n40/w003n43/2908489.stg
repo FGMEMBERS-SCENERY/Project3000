@@ -85,7 +85,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.64723 43.18259 116.23 
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.64719 43.18265 116.39 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.64730 43.18265 115.93 0
 OBJECT_SHARED Models/lib/cars6.ac -2.64448 43.18179 126.31 200.01
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.64530 43.18219 126.33 79.61
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.64600 43.18228 125.57 80.22
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.64480 43.18213 126.67 41.84
+OBJECT_SHARED Models/lib/lamp10m.xml -2.64530 43.18219 126.33 79.61
+OBJECT_SHARED Models/lib/lamp10m.xml -2.64600 43.18228 125.57 80.22
+OBJECT_SHARED Models/lib/lamp10m.xml -2.64480 43.18213 126.67 41.84
 # END dsf2stg

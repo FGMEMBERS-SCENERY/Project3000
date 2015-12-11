@@ -51,5 +51,5 @@ OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -72.54322 42.18993 71.38 84.83
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -72.54335 42.18980 71.41 81.03
 OBJECT_SHARED Models/lib/fboModern1.ac -72.53791 42.19914 72.71 188.77
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.53650 42.19636 71.68 313.25
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.54290 42.18991 71.27 270
+OBJECT_SHARED Models/lib/lamp10m.xml -72.54290 42.18991 71.27 270
 # END dsf2stg

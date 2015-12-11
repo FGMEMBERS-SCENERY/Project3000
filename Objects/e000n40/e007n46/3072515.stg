@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.75271 46.02963 1635.90 201.037
+OBJECT_SHARED Models/lib/lamp10m.xml 7.75271 46.02963 1635.90 201.037
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 7.75271 46.02922 1624.61 303.716
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.75246 46.02875 1616.48 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.75233 46.02880 1619.26 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.75276 46.02976 1639.59 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.75284 46.02970 1634.45 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.75246 46.02875 1616.48 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.75233 46.02880 1619.26 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.75276 46.02976 1639.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.75284 46.02970 1634.45 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.75280 46.02958 1633.04 339.78
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.75276 46.02953 1631.57 337.71
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.75272 46.02960 1635.58 336.47

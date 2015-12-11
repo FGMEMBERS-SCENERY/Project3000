@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/office3x10.ac -117.50539 34.75825 909.28 173.83
 OBJECT_SHARED Models/lib/office3x10.ac -117.50573 34.75832 911.32 252.68
 OBJECT_SHARED Models/lib/office16x4n.ac -117.50527 34.75788 910.00 269.81
 OBJECT_SHARED Models/lib/coal_pile.ac -117.50071 34.75713 904.05 74.11

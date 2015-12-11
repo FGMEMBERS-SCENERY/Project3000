@@ -2,4 +2,6 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.49176 59.79765 91.20 32.57
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.49180 59.79783 91.09 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.49152 59.79743 91.51 63.84
 # END dsf2stg

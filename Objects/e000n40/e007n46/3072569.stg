@@ -6,6 +6,7 @@ OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 7.49990 46.91356 508.48 206.57
 OBJECT_SHARED Models/Aircraft/D328_services.xml 7.49872 46.91457 508.41 260.71
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.49803 46.91493 508.36 309.14
 OBJECT_SHARED Models/lib/LongRow.ac 7.49959 46.91456 508.49 117.22
+OBJECT_SHARED Models/lib/farm19x12.ac 7.49992 46.91402 508.47 131.88
 OBJECT_SHARED Models/lib/office6x12.ac 7.49918 46.91434 508.45 298.86
 OBJECT_SHARED Models/lib/SmHangar.ac 7.49730 46.90711 509.47 200.07
 OBJECT_SHARED Models/lib/SmHangar.ac 7.49737 46.90697 509.50 200.07
@@ -13,12 +14,12 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 7.49990 46.91390 508.47 309.21
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.49994 46.91388 508.47 312.59
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.49997 46.91385 508.48 313.71
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.50000 46.91383 508.48 312.74
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.49916 46.91627 508.00 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.49978 46.91638 508.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.49916 46.91627 508.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.49978 46.91638 508.00 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 7.49867 46.91637 508.00 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.49986 46.91380 508.47 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.49986 46.91380 508.47 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 7.49995 46.91371 508.48 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.49973 46.91387 508.46 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.49967 46.91398 508.46 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.49998 46.91369 508.48 62.79
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.49973 46.91387 508.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.49967 46.91398 508.46 0
+OBJECT_SHARED Models/lib/lamp10m.xml 7.49998 46.91369 508.48 62.79
 # END dsf2stg

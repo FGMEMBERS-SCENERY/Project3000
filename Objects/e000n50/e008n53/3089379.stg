@@ -1,15 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.78386 53.56947 6.20 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.78328 53.56926 6.97 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.78357 53.56942 6.58 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.78833 53.57024 7.08 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.78802 53.57021 6.98 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.78649 53.56975 6.92 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.78678 53.56979 7.01 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.78707 53.57001 7.09 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.78683 53.56996 6.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.78386 53.56947 6.20 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.78328 53.56926 6.97 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.78357 53.56942 6.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.78833 53.57024 7.08 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.78802 53.57021 6.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.78649 53.56975 6.92 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.78678 53.56979 7.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.78707 53.57001 7.09 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.78683 53.56996 6.54 0
+OBJECT_SHARED Models/lib/propane-tank.ac 8.78766 53.56940 6.67 296.56
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.78761 53.56949 6.77 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.78693 53.56975 7.01 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.78663 53.56974 6.93 0

@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.01286 36.39996 -0.55 325.95
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.01261 36.39971 -0.55 150.26
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.01394 36.39983 -0.58 238.7
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.01334 36.39970 -0.57 326.51
-OBJECT_SHARED Models/lib/LongRow.ac -76.01193 36.40113 -0.51 325
-OBJECT_SHARED Models/lib/LongRow.ac -76.01224 36.40079 -0.52 325
-OBJECT_SHARED Models/lib/LongRow.ac -76.01274 36.40029 -0.54 325
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.01328 36.39964 -0.57 239.46
-OBJECT_SHARED Models/lib/HorizTanks2.ac -76.01324 36.39970 -0.57 329.29
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.01286 36.39996 3.38 325.95
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.01261 36.39971 3.35 150.26
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.01394 36.39983 3.40 238.7
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.01334 36.39970 3.30 326.51
+OBJECT_SHARED Models/lib/LongRow.ac -76.01193 36.40113 3.26 325
+OBJECT_SHARED Models/lib/LongRow.ac -76.01224 36.40079 3.48 325
+OBJECT_SHARED Models/lib/LongRow.ac -76.01274 36.40029 3.56 325
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.01328 36.39964 3.27 239.46
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.01324 36.39970 3.28 329.29
 # END dsf2stg

@@ -3,9 +3,9 @@
 #
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.32815 52.35219 44.32 342.53
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.33041 52.35239 44.81 149.04
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.32974 52.35275 44.90 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.33035 52.35288 45.21 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 8.32985 52.35296 44.95 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.32974 52.35275 44.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.33035 52.35288 45.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.32985 52.35296 44.95 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32776 52.35312 44.69 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32805 52.35309 44.66 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32839 52.35306 44.66 0
@@ -18,14 +18,15 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32958 52.35318 45.00 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.32983 52.35288 45.02 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.33014 52.35299 45.04 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.33000 52.35293 44.99 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.33004 52.35281 45.06 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.33018 52.35286 45.10 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.33029 52.35297 45.13 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.33008 52.35311 44.96 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.32985 52.35303 44.95 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.32975 52.35282 44.91 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.32989 52.35269 44.84 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.32985 52.35276 44.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.33004 52.35281 45.06 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.33018 52.35286 45.10 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.33029 52.35297 45.13 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.33008 52.35311 44.96 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.32985 52.35303 44.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.32975 52.35282 44.91 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.32989 52.35269 44.84 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.32985 52.35276 44.95 0
+OBJECT_SHARED Models/lib/hangar81x16.ac 8.32776 52.35316 44.77 258.63
 OBJECT_SHARED Models/lib/cars6.ac 8.32939 52.35292 44.86 69.02
 OBJECT_SHARED Models/lib/cars6.ac 8.32976 52.35302 45.01 249.92
 OBJECT_SHARED Models/lib/MedHangar.ac 8.32817 52.35264 44.23 78.31

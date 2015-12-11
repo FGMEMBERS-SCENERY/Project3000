@@ -1,6 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/transformer3x3.ac 13.92354 59.60996 184.55 277.306
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.92124 59.61100 186.09 116.566
 OBJECT_SHARED Models/lib/SmHangar.ac 13.92133 59.61134 187.36 15.875
 OBJECT_SHARED Models/lib/SmHangar.ac 13.92374 59.61010 184.55 0
 OBJECT_SHARED Models/lib/SmHangar.ac 13.92375 59.61031 184.69 359.012

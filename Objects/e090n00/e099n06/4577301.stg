@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 99.73273 6.34196 10.62 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 99.73319 6.34262 10.04 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 99.72918 6.33670 5.54 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 99.72970 6.33747 5.70 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 99.73024 6.33825 5.87 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 99.73103 6.33943 6.18 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 99.73156 6.34021 6.44 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 99.73205 6.34097 6.70 0
+OBJECT_SHARED Models/lib/lamp10m.xml 99.73273 6.34196 10.62 0
+OBJECT_SHARED Models/lib/lamp10m.xml 99.73319 6.34262 10.04 0
+OBJECT_SHARED Models/lib/lamp10m.xml 99.72918 6.33670 5.54 0
+OBJECT_SHARED Models/lib/lamp10m.xml 99.72970 6.33747 5.70 0
+OBJECT_SHARED Models/lib/lamp10m.xml 99.73024 6.33825 5.87 0
+OBJECT_SHARED Models/lib/lamp10m.xml 99.73103 6.33943 6.18 0
+OBJECT_SHARED Models/lib/lamp10m.xml 99.73156 6.34021 6.44 0
+OBJECT_SHARED Models/lib/lamp10m.xml 99.73205 6.34097 6.70 0
 OBJECT_SHARED Models/lib/office32x25.ac 99.73338 6.34362 9.45 176.979
 OBJECT_SHARED Models/lib/office32x25.ac 99.73372 6.34397 9.25 86.6335
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 99.73376 6.34207 7.35 204.458

@@ -1,25 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/HorizTanks2.ac 170.60887 69.78064 -0.22 11.93
-OBJECT_SHARED Models/lib/HorizTanks2.ac 170.60892 69.78056 -0.22 12.43
-OBJECT_SHARED Models/lib/HorizTanks2.ac 170.60881 69.78072 -0.22 11.5
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60901 69.77810 -95.29 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60898 69.77778 -95.30 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60818 69.77774 -95.31 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60811 69.77811 -95.30 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60918 69.77846 -95.28 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60938 69.77883 -95.27 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60921 69.77914 -95.26 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 170.60903 69.77738 -85.31 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 170.60988 69.77946 -85.24 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 170.60971 69.77987 -85.23 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 170.60915 69.78039 -85.23 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60893 69.78006 -95.24 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60899 69.77967 -95.25 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 170.60112 69.78879 -0.46 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 170.60242 69.78750 -0.43 0
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 170.60300 69.78850 -0.43 103.26
-OBJECT_SHARED Models/lib/MedHangar.ac 170.59828 69.79039 -0.50 102.89
-OBJECT_SHARED Models/lib/SmHangar.ac 170.60451 69.78721 -0.39 11.25
+OBJECT_SHARED Models/lib/HorizTanks2.ac 170.60887 69.78064 1.42 11.93
+OBJECT_SHARED Models/lib/HorizTanks2.ac 170.60892 69.78056 1.42 12.43
+OBJECT_SHARED Models/lib/HorizTanks2.ac 170.60881 69.78072 1.42 11.5
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60901 69.77810 -93.68 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60898 69.77778 -93.68 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60818 69.77774 -93.76 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60811 69.77811 -93.75 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60918 69.77846 -93.66 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60938 69.77883 -93.65 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60921 69.77914 -93.64 0
+OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 170.60903 69.77738 -83.69 0
+OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 170.60988 69.77946 -83.53 0
+OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 170.60971 69.77987 -83.52 0
+OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 170.60915 69.78039 -83.59 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60893 69.78006 -93.60 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 170.60899 69.77967 -93.62 0
+OBJECT_SHARED Models/lib/lamp10m.xml 170.60112 69.78879 1.25 0
+OBJECT_SHARED Models/lib/lamp10m.xml 170.60242 69.78750 1.25 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 170.60300 69.78850 1.37 103.26
+OBJECT_SHARED Models/lib/MedHangar.ac 170.59828 69.79039 1.14 102.89
+OBJECT_SHARED Models/lib/SmHangar.ac 170.60451 69.78721 1.44 11.25
 # END dsf2stg

@@ -1,8 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/coal_pile.ac 101.33023 43.01160 -0.63 175.638
-OBJECT_SHARED Models/lib/coal_pile.ac 101.33138 43.01047 -0.63 90
-OBJECT_SHARED Models/Misc/6barrels.ac 101.33126 43.01164 -0.64 0
-OBJECT_SHARED Models/lib/MedHangar.ac 101.33604 43.01108 -0.69 0.560707
+OBJECT_SHARED Models/lib/coal_pile.ac 101.33023 43.01160 1563.07 175.638
+OBJECT_SHARED Models/lib/coal_pile.ac 101.33138 43.01047 1561.39 90
+OBJECT_SHARED Models/Misc/6barrels.ac 101.33126 43.01164 1563.26 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 101.33014 43.01096 1562.05 264.96
+OBJECT_SHARED Models/lib/MedHangar.ac 101.33604 43.01108 1563.40 0.560707
 # END dsf2stg

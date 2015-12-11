@@ -20,10 +20,12 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -116.27172 35.96931 483.8
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -116.27148 35.96881 478.04 355.34
 OBJECT_SHARED Models/lib/watertank3x1.ac -116.27146 35.96852 478.10 179.79
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -116.27148 35.96823 478.10 269.6
+OBJECT_SHARED Models/lib/cube16x10.ac -116.27088 35.96872 478.06 89.91
 OBJECT_SHARED Models/lib/SmHangar.ac -116.27117 35.96867 478.06 179.17
 OBJECT_SHARED Models/lib/SmHangar.ac -116.27118 35.96832 478.14 269.86
 OBJECT_SHARED Models/lib/FireStationLg.ac -116.27136 35.97136 479.46 89.34
 OBJECT_SHARED Models/lib/SmHangar.ac -116.27208 35.97171 484.96 179.26
+OBJECT_SHARED Models/lib/cube16x10.ac -116.27206 35.97206 485.20 359.3
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.27120 35.97163 479.30 89.96
 OBJECT_SHARED Models/lib/cargobox2x3m.ac -116.27208 35.97118 484.71 267.05
 OBJECT_SHARED Models/lib/chariot1.ac -116.27213 35.97120 484.71 85.34
@@ -36,6 +38,7 @@ OBJECT_SHARED Models/lib/CargoPodPkng.ac -116.27169 35.97152 484.84 179.12
 OBJECT_SHARED Models/Airport/cargobox.xml -116.27165 35.97141 484.80 0
 OBJECT_SHARED Models/Airport/cargobox.xml -116.27167 35.97141 484.80 178.58
 OBJECT_SHARED Models/Airport/cargobox.xml -116.27169 35.97142 484.80 270.96
+OBJECT_SHARED Models/lib/propane-tank.ac -116.27181 35.97141 484.80 90.59
 OBJECT_SHARED Models/lib/watertank3x1.ac -116.27177 35.97139 484.80 359.94
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -116.27092 35.97206 479.37 180
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -116.27167 35.97206 485.20 328
@@ -43,6 +46,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -116.27090 35.97117 479.4
 OBJECT_SHARED Models/lib/stack_of_cones.ac -116.27197 35.97216 485.26 5.97
 OBJECT_SHARED Models/lib/stack_of_cones.ac -116.27090 35.97138 479.46 134.9
 OBJECT_SHARED Models/lib/stack_of_cones.ac -116.27220 35.97146 484.84 303.44
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -116.27088 35.97206 479.37 359.31
 OBJECT_SHARED Models/lib/cone.ac -116.27199 35.97216 485.26 354.2
 OBJECT_SHARED Models/lib/cone.ac -116.27220 35.97148 484.84 181.51
 OBJECT_SHARED Models/lib/cone.ac -116.27092 35.97136 479.46 113.41
@@ -58,6 +62,7 @@ OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -116.27127 35.96846 478.10 3
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -116.27219 35.97182 485.02 269.7
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -116.27250 35.97181 485.02 271.2
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -116.27246 35.97184 485.02 269.13
+OBJECT_SHARED Models/lib/shed8x10.ac -116.27183 35.96945 483.95 274.4
 OBJECT_SHARED Models/Misc/6barrels.ac -116.27180 35.96849 483.51 94.54
 OBJECT_SHARED Models/Misc/6barrels.ac -116.27180 35.96850 483.51 17.53
 OBJECT_SHARED Models/Misc/6barrels.ac -116.27178 35.96850 483.51 16.65
@@ -68,6 +73,7 @@ OBJECT_SHARED Models/lib/coal_pile.ac -116.27190 35.96860 483.49 85.06
 OBJECT_SHARED Models/lib/coal_pile.ac -116.27196 35.96859 483.49 316.4
 OBJECT_SHARED Models/lib/coal_pile.ac -116.27192 35.96853 483.51 91.22
 OBJECT_SHARED Models/lib/coal_pile.ac -116.27183 35.96856 483.49 251.57
+OBJECT_SHARED Models/lib/transformer3x3.ac -116.27187 35.96841 483.53 268.86
 OBJECT_SHARED Models/lib/coal_pile.ac -116.27153 35.96834 483.55 180.14
 OBJECT_SHARED Models/lib/coal_pile.ac -116.27156 35.96827 483.55 0
 OBJECT_SHARED Models/lib/coal_pile.ac -116.27153 35.96827 483.55 180.14

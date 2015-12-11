@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -115.71867 33.66192 -0.80 11.0409
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -115.71856 33.66211 -0.80 105.524
-OBJECT_SHARED Models/lib/stack_of_cones.ac -115.71838 33.66216 -0.80 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71840 33.66222 -0.80 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71843 33.66220 -0.80 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71845 33.66221 -0.80 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71843 33.66223 -0.80 270
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71845 33.66223 -0.80 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -115.71867 33.66192 519.17 11.0409
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -115.71856 33.66211 519.29 105.524
+OBJECT_SHARED Models/lib/stack_of_cones.ac -115.71838 33.66216 518.61 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71840 33.66222 518.61 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71843 33.66220 518.61 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71845 33.66221 518.61 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71843 33.66223 518.61 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71845 33.66223 518.61 0
 # END dsf2stg

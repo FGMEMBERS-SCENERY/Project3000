@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -118.30340 34.90571 819.75 278.85
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.30292 34.90573 819.75 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.30251 34.90612 820.59 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.30248 34.90626 820.24 0
@@ -73,9 +74,9 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.30402 34.90637 821.6
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.30374 34.90637 821.67 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -118.30343 34.90572 819.75 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -118.30347 34.90571 819.75 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -118.30372 34.90550 820.12 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -118.30344 34.90608 820.59 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -118.30374 34.90617 821.29 0
+OBJECT_SHARED Models/lib/lamp10m.xml -118.30372 34.90550 820.12 0
+OBJECT_SHARED Models/lib/lamp10m.xml -118.30344 34.90608 820.59 0
+OBJECT_SHARED Models/lib/lamp10m.xml -118.30374 34.90617 821.29 0
 OBJECT_SHARED Models/lib/SmHangar.ac -118.30370 34.90559 820.33 180.43
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -118.30357 34.90599 820.96 180
 # END dsf2stg

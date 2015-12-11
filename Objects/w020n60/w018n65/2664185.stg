@@ -1,12 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -17.41958 65.95526 -0.81 347.471
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -17.41895 65.95640 -0.80 166.909
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -17.41910 65.95590 -0.81 77.6917
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -17.41925 65.95562 -0.81 80.877
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -17.41887 65.95591 -0.81 148.922
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -17.41902 65.95555 -0.81 23.4659
-OBJECT_SHARED Models/lib/stack_of_cones.ac -17.41918 65.95577 -0.81 0
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -17.41918 65.95559 -0.81 79.3588
+OBJECT_SHARED Models/lib/lamp10m.xml -17.41958 65.95526 6.82 347.471
+OBJECT_SHARED Models/lib/lamp10m.xml -17.41895 65.95640 6.58 166.909
+OBJECT_SHARED Models/lib/lamp10m.xml -17.41910 65.95590 6.68 77.6917
+OBJECT_SHARED Models/lib/lamp10m.xml -17.41925 65.95562 6.74 80.877
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -17.41887 65.95591 6.67 148.922
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -17.41902 65.95555 6.73 23.4659
+OBJECT_SHARED Models/lib/stack_of_cones.ac -17.41918 65.95577 6.70 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -17.41918 65.95559 6.74 79.3588
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -17.41923 65.96007 6.02 88.3641
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -17.41927 65.95970 6.07 260.669
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -17.41905 65.95574 6.71 260.765
+OBJECT_SHARED Models/lib/cube16x10.ac -17.41894 65.95622 6.61 170.533
 # END dsf2stg

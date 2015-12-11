@@ -1,11 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -72.58570 -47.24475 -0.54 104.53
-OBJECT_SHARED Models/lib/SmHangar.ac -72.58536 -47.24468 -0.54 271.7
-OBJECT_SHARED Models/lib/SmHangar.ac -72.58589 -47.24496 -0.54 0
-OBJECT_SHARED Models/lib/SmHangar.ac -72.58662 -47.24490 -0.54 93.34
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.58662 -47.24438 -0.55 179.28
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.58522 -47.24418 -0.55 27
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.58625 -47.24474 -0.55 337.01
+OBJECT_SHARED Models/lib/cars7.ac -72.58570 -47.24475 201.55 104.53
+OBJECT_SHARED Models/lib/cube16x10.ac -72.58530 -47.24453 202.13 181.74
+OBJECT_SHARED Models/lib/SmHangar.ac -72.58536 -47.24468 201.85 271.7
+OBJECT_SHARED Models/lib/SmHangar.ac -72.58589 -47.24496 200.91 0
+OBJECT_SHARED Models/lib/SmHangar.ac -72.58662 -47.24490 200.28 93.34
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.58662 -47.24438 201.15 179.28
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.58522 -47.24418 202.90 27
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.58625 -47.24474 201.04 337.01
 # END dsf2stg

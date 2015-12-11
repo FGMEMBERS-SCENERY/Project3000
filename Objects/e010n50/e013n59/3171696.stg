@@ -2,7 +2,11 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/SmHangar.ac 13.11081 59.85813 120.19 192.375
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.11060 59.85835 120.59 102.285
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.11110 59.85872 121.06 102.285
 OBJECT_SHARED Models/lib/SmHangar.ac 13.11085 59.85855 121.02 101.687
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.11181 59.85883 120.50 0
+OBJECT_SHARED Models/lib/propane-tank.ac 13.11141 59.85868 120.85 104.036
 OBJECT_SHARED Models/Transport/hatchback_red.ac 13.11040 59.85813 120.21 278.584
 OBJECT_SHARED Models/Transport/hatchback_red.ac 13.11039 59.85816 120.40 278.584
 OBJECT_SHARED Models/Transport/hatchback_red.ac 13.11038 59.85820 120.40 278.584

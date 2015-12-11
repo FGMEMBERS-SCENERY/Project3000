@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -71.69215 -46.58130 -0.35 42.46
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.69333 -46.57765 -0.39 208.78
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.69116 -46.58099 -0.33 92.91
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.69267 -46.58071 -0.37 268.45
+OBJECT_SHARED Models/lib/cars7.ac -71.69215 -46.58130 305.69 42.46
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.69333 -46.57765 303.23 208.78
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.69116 -46.58099 305.62 92.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.69267 -46.58071 304.89 268.45
 # END dsf2stg

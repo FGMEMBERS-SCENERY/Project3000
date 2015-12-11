@@ -9,7 +9,11 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 26.69024 58.31006 64.46 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 26.69104 58.30992 64.09 182
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 26.68911 58.31005 65.11 0
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 26.69161 58.31001 63.73 2
+OBJECT_SHARED Models/lib/hangar81x16.ac 26.68840 58.30985 65.33 92
+OBJECT_SHARED Models/lib/transformer3x3.ac 26.66347 58.30746 71.43 92
+OBJECT_SHARED Models/lib/hangar81x16.ac 26.68593 58.31055 66.29 2
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 26.68678 58.30972 65.87 93
 OBJECT_SHARED Models/lib/office32x25.ac 26.69086 58.31018 64.03 272
 OBJECT_SHARED Models/lib/office40x25.ac 26.69011 58.31020 64.46 2
+OBJECT_SHARED Models/lib/transformer3x3.ac 26.69731 58.30661 63.25 92
 # END dsf2stg

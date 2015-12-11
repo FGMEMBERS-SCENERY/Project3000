@@ -80,6 +80,12 @@ OBJECT_SHARED Models/Aircraft/B747.xml 144.48328 -38.02593 12.29 174.6
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 144.48179 -38.02019 14.74 307.51
 OBJECT_SHARED Models/Aircraft/D328_services.xml 144.47527 -38.02969 10.98 238.3
 OBJECT_SHARED Models/Aircraft/737virgin.xml 144.47426 -38.02731 11.10 352.1
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 144.47261 -38.02684 11.00 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 144.47349 -38.02696 10.96 0
+OBJECT_SHARED Models/lib/lamp10m.xml 144.47261 -38.02684 11.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 144.47349 -38.02696 10.96 0
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 144.46612 -38.05458 10.69 195.6
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 144.46607 -38.05427 10.68 189.4
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 144.46975 -38.03268 9.82 173.5
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 144.46983 -38.03212 9.84 170.7
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 144.47025 -38.02756 10.28 175
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 144.47030 -38.02721 10.37 169.9
 # END dsf2stg

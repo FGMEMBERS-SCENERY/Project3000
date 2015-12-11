@@ -129,8 +129,11 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac 9.04026 56.18272 47.25 0
 OBJECT_SHARED Models/lib/cone.ac 9.04048 56.18276 47.28 0
 OBJECT_SHARED Models/lib/cone.ac 9.04034 56.18280 47.26 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.03159 56.18344 45.84 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.04002 56.18277 47.19 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.03991 56.18278 47.17 0
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 9.04075 56.18264 47.34 191.18
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 9.04143 56.18260 47.47 0
+OBJECT_SHARED Models/lib/watertank3x1.ac 9.03033 56.18351 45.79 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 9.04059 56.18268 47.31 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.04059 56.18269 47.31 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.03892 56.18270 47.01 263.367
@@ -141,6 +144,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac 9.04133 56.18262 47.45 261.741
 OBJECT_SHARED Models/lib/LongRow.ac 9.04248 56.18308 47.62 263.157
 OBJECT_SHARED Models/lib/office16x4n.ac 9.04044 56.18253 47.29 262.044
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.03458 56.18319 46.24 272.353
+OBJECT_SHARED Models/lib/hangar81x16.ac 9.03187 56.18334 45.83 176.041
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.04042 56.18279 47.27 330.642
 OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 9.03720 56.18277 -38.33 0
 OBJECT_SHARED Models/lib/SmHangar.ac 9.03448 56.18319 46.22 166.93

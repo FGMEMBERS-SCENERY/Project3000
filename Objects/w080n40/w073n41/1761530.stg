@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.45563 41.92321 78.95 -83.5
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -72.45566 41.92336 78.82 -84.71
+OBJECT_SHARED Models/lib/lamp10m.xml -72.45563 41.92321 78.95 -83.5
+OBJECT_SHARED Models/lib/lamp10m.xml -72.45566 41.92336 78.82 -84.71
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.45646 41.92472 77.73 95.61
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.45567 41.92288 78.73 8.28
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.45590 41.92278 78.40 183.33

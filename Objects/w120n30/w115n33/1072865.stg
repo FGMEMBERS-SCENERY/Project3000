@@ -2,6 +2,9 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/HorizTanks2.ac -114.71171 33.61454 118.96 90
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.71398 33.61389 119.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.71401 33.61389 119.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.71400 33.61390 119.00 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -114.71405 33.61391 119.00 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -114.71405 33.61389 119.00 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -114.71453 33.61389 119.00 89.4271

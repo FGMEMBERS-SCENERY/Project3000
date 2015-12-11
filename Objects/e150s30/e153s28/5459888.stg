@@ -3,6 +3,8 @@
 #
 OBJECT_SHARED Models/lib/LongRow.ac 153.06938 -27.20676 1.69 13.7
 OBJECT_SHARED Models/lib/LongRow.ac 153.07230 -27.20823 5.10 103.67
+OBJECT_SHARED Models/lib/farm19x12.ac 153.07266 -27.20769 3.99 283.48
+OBJECT_SHARED Models/lib/farm19x12.ac 153.07418 -27.20638 2.24 12.75
 OBJECT_SHARED Models/Misc/picnic_table.ac 153.07428 -27.20626 2.15 0
 OBJECT_SHARED Models/lib/SmHangar.ac 153.07359 -27.20668 2.55 14.19
 OBJECT_SHARED Models/lib/SmHangar.ac 153.07191 -27.20711 2.77 14.19
@@ -78,8 +80,8 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 153.07353 -27.20684 2.67 73.81
 OBJECT_SHARED Models/Trees/billboard-tree.xml 153.07357 -27.20683 2.67 164.48
 OBJECT_SHARED Models/Trees/billboard-tree.xml 153.07360 -27.20683 2.67 232.85
 OBJECT_SHARED Models/Trees/billboard-tree.xml 153.07366 -27.20683 2.67 243.43
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 153.07411 -27.20621 2.06 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 153.07418 -27.20619 2.06 222.27
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 153.07411 -27.20621 2.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 153.07418 -27.20619 2.06 222.27
 OBJECT_SHARED Models/Trees/billboard-tree.xml 153.07444 -27.20568 1.77 160.46
 OBJECT_SHARED Models/Trees/billboard-tree.xml 153.07446 -27.20651 2.34 239.62
 OBJECT_SHARED Models/Trees/billboard-tree.xml 153.07444 -27.20645 2.24 0

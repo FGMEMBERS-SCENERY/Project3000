@@ -1,8 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.85483 48.53512 134.89 -57.99
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -2.85545 48.53488 135.13 -56.31
+OBJECT_SHARED Models/lib/lamp10m.xml -2.85483 48.53512 134.89 -57.99
+OBJECT_SHARED Models/lib/lamp10m.xml -2.85545 48.53488 135.13 -56.31
+OBJECT_SHARED Models/lib/cube16x10.ac -2.85416 48.53520 134.82 121.81
+OBJECT_SHARED Models/lib/propane-tank.ac -2.85069 48.53670 133.74 35.07
+OBJECT_SHARED Models/lib/propane-tank.ac -2.85072 48.53669 133.74 34.57
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -2.85248 48.53596 134.13 206.74
 OBJECT_SHARED Models/lib/cone.ac -2.85177 48.53620 134.03 0
 OBJECT_SHARED Models/lib/cone.ac -2.85082 48.53676 133.63 0

@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/hangar81x16.ac -78.04380 38.24696 136.79 24.04
 OBJECT_SHARED Models/lib/HorizTanks2.ac -78.04421 38.24697 136.40 199.84
 OBJECT_SHARED Models/lib/cars2.ac -78.04419 38.24660 137.04 288.93
 OBJECT_SHARED Models/lib/6space_wStop.ac -78.04415 38.24649 137.19 18.83

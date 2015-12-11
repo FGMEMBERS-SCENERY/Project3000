@@ -17,6 +17,6 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 7.90202 52.37303 56.53 90
 OBJECT_SHARED Models/Trees/billboard-tree.xml 7.90255 52.37327 57.42 90
 OBJECT_SHARED Models/Trees/billboard-tree.xml 7.90291 52.37352 57.50 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 7.90142 52.37485 53.95 180
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.90135 52.37496 53.87 341.57
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.90123 52.37466 54.19 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.90135 52.37496 53.87 341.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.90123 52.37466 54.19 0
 # END dsf2stg

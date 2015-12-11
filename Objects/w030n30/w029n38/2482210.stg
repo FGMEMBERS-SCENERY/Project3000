@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -28.44252 38.55150 -0.39 9.26877
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -28.44635 38.55232 -0.49 -63.7121
-OBJECT_SHARED Models/lib/FireStationLg.ac -28.44546 38.55256 -0.47 95.741
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -28.44447 38.55199 -0.45 271.591
-OBJECT_SHARED Models/Transport/Norberttruck.xml -28.44439 38.55212 -0.44 91.9376
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -28.44488 38.55196 -0.45 1.81831
-OBJECT_SHARED Models/lib/cars14.ac -28.44462 38.55263 -0.44 277
-OBJECT_SHARED Models/lib/cars14.ac -28.44459 38.55264 -0.44 97
-OBJECT_SHARED Models/lib/cars14.ac -28.44459 38.55246 -0.44 277
-OBJECT_SHARED Models/lib/cars14.ac -28.44456 38.55247 -0.44 97
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -28.44626 38.55247 -0.49 292.068
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -28.44252 38.55209 -0.38 -83.5913
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -28.44144 38.55220 -0.35 -83.5913
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -28.44047 38.55229 -0.32 -83.5913
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -28.44252 38.55150 44.11 9.26877
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -28.44635 38.55232 41.11 -63.7121
+OBJECT_SHARED Models/lib/FireStationLg.ac -28.44546 38.55256 40.52 95.741
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -28.44447 38.55199 42.24 271.591
+OBJECT_SHARED Models/Transport/Norberttruck.xml -28.44439 38.55212 42.03 91.9376
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -28.44488 38.55196 42.13 1.81831
+OBJECT_SHARED Models/lib/cars14.ac -28.44462 38.55263 40.76 277
+OBJECT_SHARED Models/lib/cars14.ac -28.44459 38.55264 40.76 97
+OBJECT_SHARED Models/lib/cars14.ac -28.44459 38.55246 40.99 277
+OBJECT_SHARED Models/lib/cars14.ac -28.44456 38.55247 40.99 97
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -28.44626 38.55247 40.64 292.068
+OBJECT_SHARED Models/lib/lamp10m.xml -28.44252 38.55209 42.73 -83.5913
+OBJECT_SHARED Models/lib/lamp10m.xml -28.44144 38.55220 43.01 -83.5913
+OBJECT_SHARED Models/lib/lamp10m.xml -28.44047 38.55229 43.25 -83.5913
 # END dsf2stg

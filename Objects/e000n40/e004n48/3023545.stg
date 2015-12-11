@@ -2,12 +2,13 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 4.34453 48.90183 89.91 49.8698
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.34396 48.90167 89.60 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.34386 48.90172 89.52 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.34362 48.90181 88.84 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.34376 48.90213 88.45 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.34383 48.90219 88.35 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.34396 48.90167 89.60 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.34386 48.90172 89.52 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.34362 48.90181 88.84 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.34376 48.90213 88.45 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.34383 48.90219 88.35 0
 OBJECT_SHARED Models/lib/office4x14.ac 4.34359 48.90169 89.00 140.923
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 4.34465 48.90258 88.21 51.546
 OBJECT_SHARED Models/lib/SmHangar.ac 4.34351 48.90158 89.06 141.519
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 4.34571 48.90258 88.29 61.5535
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 4.34757 48.90426 88.86 140.711

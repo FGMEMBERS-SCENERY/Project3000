@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.64789 53.56596 79.22 123.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.64607 53.56543 78.18 303.85
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.64621 53.56531 78.06 300.14
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.64678 53.56636 79.39 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.64694 53.56646 79.51 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.64709 53.56654 79.57 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.64701 53.56640 79.46 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.64567 53.56566 78.39 0
+OBJECT_SHARED Models/lib/lamp10m.xml 12.64571 53.56575 78.39 318.26
+OBJECT_SHARED Models/lib/lamp10m.xml 12.64699 53.56611 79.18 135
+OBJECT_SHARED Models/lib/lamp10m.xml 12.64608 53.56581 78.62 45
+OBJECT_SHARED Models/lib/lamp10m.xml 12.64679 53.56624 79.21 130.37
+OBJECT_SHARED Models/lib/cars6.ac 12.64679 53.56619 79.21 221.26
+OBJECT_SHARED Models/lib/office3x10.ac 12.64716 53.56629 79.43 310.41
+OBJECT_SHARED Models/lib/office3x10.ac 12.64754 53.56638 79.61 310.6
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.64594 53.56553 78.26 133.67
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.64613 53.56576 78.62 27.03
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.65195 53.56236 76.42 309.61
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.65200 53.56233 76.39 312.51
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.65212 53.56233 76.45 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.64575 53.56559 78.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.64732 53.56628 79.46 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.64719 53.56622 79.31 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.64706 53.56614 79.19 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.64620 53.56571 78.55 39.88
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.64705 53.56624 79.31 39.19
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.64699 53.56620 79.27 40.52
+# END dsf2stg

@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/watertank3x1.ac -21.57608 64.05700 180.00 205.2
 OBJECT_SHARED Models/Misc/6barrels.ac -21.57615 64.05725 180.00 0
 OBJECT_SHARED Models/lib/MedHangar.ac -21.57658 64.05695 180.00 292.295
 OBJECT_SHARED Models/lib/SmHangar.ac -21.57600 64.05730 180.00 293.901

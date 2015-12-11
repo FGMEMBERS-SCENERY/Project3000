@@ -1,18 +1,30 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77664 -4.75672 -0.27 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77621 -4.75786 -0.31 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77651 -4.75828 -0.29 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77682 -4.75691 -0.27 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77679 -4.75737 -0.28 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77694 -4.75783 -0.29 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77670 -4.75802 -0.29 90
-OBJECT_SHARED Models/lib/office3x10.ac 140.77656 -4.75684 -0.27 350.85
-OBJECT_SHARED Models/lib/office3x10.ac 140.77685 -4.75725 -0.28 237.948
-OBJECT_SHARED Models/lib/office3x10.ac 140.77708 -4.75763 -0.28 129.506
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77645 -4.75784 -0.31 90
-OBJECT_SHARED Models/lib/office3x10.ac 140.77632 -4.75805 -0.31 18.2208
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 140.77336 -4.75717 -0.35 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 140.77346 -4.75700 -0.35 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77664 -4.75672 1732.38 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77621 -4.75786 1735.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77651 -4.75828 1739.02 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77682 -4.75691 1734.09 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77679 -4.75737 1739.45 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77694 -4.75783 1770.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77670 -4.75802 1744.40 90
+OBJECT_SHARED Models/lib/shed8x10.ac 140.77677 -4.75780 1768.85 95.8821
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 140.77730 -4.75712 1735.98 284.505
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 140.77734 -4.75775 1765.27 258.482
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 140.77652 -4.75725 1737.65 258.383
+OBJECT_SHARED Models/lib/office3x10.ac 140.77696 -4.75692 1734.18 229.91
+OBJECT_SHARED Models/lib/office3x10.ac 140.77656 -4.75684 1733.46 350.85
+OBJECT_SHARED Models/lib/transformer3x3.ac 140.77732 -4.75739 1739.75 273.751
+OBJECT_SHARED Models/lib/office3x10.ac 140.77685 -4.75725 1737.65 237.948
+OBJECT_SHARED Models/lib/shed8x10.ac 140.77690 -4.75822 1738.90 89.3336
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 140.77726 -4.75808 1738.63 251.356
+OBJECT_SHARED Models/lib/transformer3x3.ac 140.77623 -4.75774 1735.56 100.603
+OBJECT_SHARED Models/lib/office3x10.ac 140.77708 -4.75763 1744.99 129.506
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 140.77645 -4.75784 1735.71 90
+OBJECT_SHARED Models/lib/shed8x10.ac 140.77512 -4.75931 1733.67 151.761
+OBJECT_SHARED Models/lib/shed10x50.ac 140.77367 -4.75867 1704.54 333.1
+OBJECT_SHARED Models/lib/transformer3x3.ac 140.77652 -4.75818 1738.82 353.022
+OBJECT_SHARED Models/lib/office3x10.ac 140.77632 -4.75805 1736.29 18.2208
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 140.77336 -4.75717 1645.35 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 140.77346 -4.75700 1639.79 0
 # END dsf2stg

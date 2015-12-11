@@ -4,8 +4,9 @@
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.36966 53.72480 0.22 273.33
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.37059 53.72457 0.40 1.19
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.37032 53.72456 0.46 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.36998 53.72416 1.38 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 7.37035 53.72419 1.20 0
+OBJECT_SHARED Models/lib/farm19x12.ac 7.36926 53.72448 0.95 96.12
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.36998 53.72416 1.38 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.37035 53.72419 1.20 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.36996 53.72442 0.95 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.37019 53.72447 0.68 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.36993 53.72452 0.75 313.6

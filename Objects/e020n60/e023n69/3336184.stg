@@ -1,21 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.34424 69.97855 -0.53 235.62
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.34516 69.97836 -0.53 235.62
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.34896 69.97757 -0.49 235.62
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.34802 69.97777 -0.50 235.62
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.34613 69.97816 -0.52 235.62
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.34706 69.97796 -0.51 235.62
-OBJECT_SHARED Models/lib/chariot1.ac 23.34690 69.97801 -0.51 250.35
-OBJECT_SHARED Models/lib/cargobox2x3m.ac 23.34686 69.97802 -0.51 169.38
-OBJECT_SHARED Models/lib/cargobox2x3m.ac 23.34891 69.97756 -0.49 36.38
-OBJECT_SHARED Models/lib/chariot2.ac 23.34764 69.97773 -0.50 150.75
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 23.34812 69.97773 -0.49 282.8
-OBJECT_SHARED Models/lib/belt_loader.ac 23.34905 69.97754 -0.49 -57.3
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 23.35868 69.97640 -0.38 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 23.35809 69.97600 -0.38 90
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 23.35566 69.97635 -0.41 51.15
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.34138 69.97982 -0.57 209.86
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 23.34240 69.97943 -0.56 214.7
+OBJECT_SHARED Models/lib/lamp10m.xml 23.34424 69.97855 0.13 235.62
+OBJECT_SHARED Models/lib/lamp10m.xml 23.34516 69.97836 0.29 235.62
+OBJECT_SHARED Models/lib/lamp10m.xml 23.34896 69.97757 3.01 235.62
+OBJECT_SHARED Models/lib/lamp10m.xml 23.34802 69.97777 2.26 235.62
+OBJECT_SHARED Models/lib/lamp10m.xml 23.34613 69.97816 0.64 235.62
+OBJECT_SHARED Models/lib/lamp10m.xml 23.34706 69.97796 1.39 235.62
+OBJECT_SHARED Models/lib/chariot1.ac 23.34690 69.97801 1.42 250.35
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 23.34686 69.97802 1.42 169.38
+OBJECT_SHARED Models/lib/cargobox2x3m.ac 23.34891 69.97756 3.04 36.38
+OBJECT_SHARED Models/lib/chariot2.ac 23.34764 69.97773 2.19 150.75
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 23.34812 69.97773 2.40 282.8
+OBJECT_SHARED Models/lib/belt_loader.ac 23.34905 69.97754 3.27 -57.3
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 23.35868 69.97640 5.84 90
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 23.35809 69.97600 7.32 90
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 23.35566 69.97635 6.67 51.15
+OBJECT_SHARED Models/lib/lamp10m.xml 23.34138 69.97982 0.00 209.86
+OBJECT_SHARED Models/lib/lamp10m.xml 23.34240 69.97943 0.00 214.7
 # END dsf2stg

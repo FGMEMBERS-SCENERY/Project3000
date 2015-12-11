@@ -15,5 +15,5 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 11.02814 54.24481 -0.18 180.87
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.02853 54.24481 -0.27 180.87
 OBJECT_SHARED Models/lib/SmHangar.ac 11.02831 54.24476 -0.23 91.15
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.02878 54.24456 -0.31 180
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 11.02998 54.24457 -0.97 3.17999
+OBJECT_SHARED Models/lib/lamp10m.xml 11.02998 54.24457 -0.97 3.17999
 # END dsf2stg

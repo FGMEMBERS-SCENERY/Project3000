@@ -1,26 +1,29 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90537 48.11118 -0.66 308.42
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -98.90559 48.11137 -0.66 309.29
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -98.90649 48.11125 -0.66 311.53
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90855 48.11078 -0.66 229.69
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90801 48.11075 -0.66 44.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90770 48.11093 -0.66 41.08
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90756 48.11102 -0.66 52.52
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90491 48.11072 -0.66 133.01
-OBJECT_SHARED Models/lib/fboModern1.ac -98.90851 48.11088 -0.66 131.71
-OBJECT_SHARED Models/lib/cars6.ac -98.90906 48.11081 -0.65 311.55
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.90832 48.11023 -0.66 135
-OBJECT_SHARED Models/lib/cars2.ac -98.90447 48.10966 -0.66 221.11
-OBJECT_SHARED Models/lib/HorizTanks2.ac -98.90476 48.11006 -0.66 311.73
-OBJECT_SHARED Models/Transport/hatchback_black.ac -98.90421 48.10903 -0.66 41.51
-OBJECT_SHARED Models/Transport/Norberttruck.xml -98.90895 48.11058 -0.66 127.72
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -98.90549 48.11056 -0.66 135
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -98.90576 48.11060 -0.66 127.12
-OBJECT_SHARED Models/lib/MedHangar.ac -98.90758 48.11164 -0.65 131.85
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -98.90807 48.11020 -0.66 221.9
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -98.90801 48.11022 -0.66 222.62
-OBJECT_SHARED Models/lib/SmHangar.ac -98.90448 48.10986 -0.66 222.59
-OBJECT_SHARED Models/lib/MedHangar.ac -98.90596 48.11100 -0.66 222.21
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90537 48.11118 438.72 308.42
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -98.90559 48.11137 438.65 309.29
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -98.90649 48.11125 438.97 311.53
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90855 48.11078 439.00 229.69
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90801 48.11075 438.94 44.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90770 48.11093 438.92 41.08
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90756 48.11102 438.93 52.52
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -98.90491 48.11072 438.86 133.01
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.90432 48.10934 438.69 310.57
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.90516 48.11024 438.94 311.73
+OBJECT_SHARED Models/lib/fboModern1.ac -98.90851 48.11088 439.01 131.71
+OBJECT_SHARED Models/lib/cars6.ac -98.90906 48.11081 439.07 311.55
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.90832 48.11023 438.89 135
+OBJECT_SHARED Models/lib/cars2.ac -98.90447 48.10966 438.80 221.11
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.90476 48.11006 438.89 311.73
+OBJECT_SHARED Models/lib/watertank3x1.ac -98.90367 48.10882 438.26 135
+OBJECT_SHARED Models/Transport/hatchback_black.ac -98.90421 48.10903 438.57 41.51
+OBJECT_SHARED Models/Transport/Norberttruck.xml -98.90895 48.11058 439.02 127.72
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -98.90549 48.11056 438.96 135
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -98.90576 48.11060 438.94 127.12
+OBJECT_SHARED Models/lib/MedHangar.ac -98.90758 48.11164 439.01 131.85
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -98.90807 48.11020 438.87 221.9
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -98.90801 48.11022 438.86 222.62
+OBJECT_SHARED Models/lib/SmHangar.ac -98.90448 48.10986 438.85 222.59
+OBJECT_SHARED Models/lib/MedHangar.ac -98.90596 48.11100 438.97 222.21
 # END dsf2stg

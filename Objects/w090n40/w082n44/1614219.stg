@@ -1,29 +1,29 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -81.06023 44.16304 -0.23 187.35
-OBJECT_SHARED Models/lib/SmHangar.ac -81.06018 44.16145 -0.20 268.55
-OBJECT_SHARED Models/lib/SmHangar.ac -81.06047 44.16145 -0.19 268.55
-OBJECT_SHARED Models/lib/SmHangar.ac -81.06077 44.16146 -0.19 268.55
-OBJECT_SHARED Models/lib/SmHangar.ac -81.06054 44.16108 -0.19 268.55
-OBJECT_SHARED Models/lib/HorizTanks2.ac -81.06062 44.16268 -0.21 7.75
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -81.06064 44.16318 -0.22 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.06165 44.15976 -0.12 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.06162 44.16007 -0.13 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.06139 44.16313 -0.20 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.06063 44.16212 -0.20 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.06060 44.16176 -0.20 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.06078 44.16159 -0.19 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.06119 44.16161 -0.17 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -81.06117 44.16215 -0.18 0
-OBJECT_SHARED Models/lib/cars2.ac -81.06016 44.16306 -0.23 97.4
-OBJECT_SHARED Models/lib/10_spaces_dual.ac -81.06016 44.16304 -0.23 7.39999
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.06057 44.16306 -0.22 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.06030 44.16249 -0.22 0
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -81.06039 44.16161 -0.20 0
-OBJECT_SHARED Models/lib/SmHangar.ac -81.06084 44.16109 -0.18 268.55
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.06088 44.16244 -0.20 180
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.06005 44.16113 -0.20 88.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.06138 44.16272 -0.19 267.71
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.06044 44.16203 -0.21 146.31
+OBJECT_SHARED Models/lib/SmHangar.ac -81.06023 44.16304 287.37 187.35
+OBJECT_SHARED Models/lib/SmHangar.ac -81.06018 44.16145 282.90 268.55
+OBJECT_SHARED Models/lib/SmHangar.ac -81.06047 44.16145 283.63 268.55
+OBJECT_SHARED Models/lib/SmHangar.ac -81.06077 44.16146 284.09 268.55
+OBJECT_SHARED Models/lib/SmHangar.ac -81.06054 44.16108 282.52 268.55
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.06062 44.16268 286.96 7.75
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.06064 44.16318 287.60 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.06165 44.15976 280.96 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.06162 44.16007 281.19 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.06139 44.16313 286.57 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.06063 44.16212 285.46 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.06060 44.16176 284.62 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.06078 44.16159 284.37 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.06119 44.16161 284.95 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.06117 44.16215 286.00 0
+OBJECT_SHARED Models/lib/cars2.ac -81.06016 44.16306 287.61 97.4
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -81.06016 44.16304 287.37 7.39999
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.06057 44.16306 287.50 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.06030 44.16249 286.12 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -81.06039 44.16161 283.76 0
+OBJECT_SHARED Models/lib/SmHangar.ac -81.06084 44.16109 282.99 268.55
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.06088 44.16244 286.49 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.06005 44.16113 281.91 88.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.06138 44.16272 286.25 267.71
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.06044 44.16203 284.88 146.31
 # END dsf2stg

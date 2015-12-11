@@ -2,6 +2,10 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/cars4.ac 13.02241 55.39483 0.54 142.875
+OBJECT_SHARED Models/lib/propane-tank.ac 13.02346 55.39451 0.46 55.6777
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.02203 55.39511 0.57 235.175
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.02436 55.39427 0.41 327.172
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.02303 55.39464 0.48 147.528
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.02405 55.39425 0.44 146.258
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.02365 55.39440 0.45 146.258
 # END dsf2stg

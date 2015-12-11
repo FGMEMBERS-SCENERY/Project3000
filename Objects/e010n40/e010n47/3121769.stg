@@ -1,9 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.34151 47.69482 710.32 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.34159 47.69487 710.45 333.63
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.34140 47.69484 710.21 333.4
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.34155 47.69484 710.32 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.34147 47.69485 710.34 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.34151 47.69486 710.34 7.60001
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.34147 47.69480 710.32 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.34142 47.69482 710.21 353.7
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.34159 47.69483 710.43 16
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.34155 47.69482 710.32 11.31
+OBJECT_SHARED Models/lib/lamp10m.xml 10.34182 47.69588 710.82 130.76
+OBJECT_SHARED Models/lib/lamp10m.xml 10.34133 47.69493 710.12 153.11
+OBJECT_SHARED Models/lib/lamp10m.xml 10.34232 47.69496 711.40 143.32
 OBJECT_SHARED Models/lib/LongRow.ac 10.34214 47.69472 711.02 14.9
 OBJECT_SHARED Models/lib/LongRow.ac 10.34218 47.69439 710.90 15.38
 OBJECT_SHARED Models/lib/SmHangar.ac 10.34144 47.69515 710.26 283.94

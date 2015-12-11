@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -88.68479 44.10212 -0.27 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68502 44.10225 -0.26 0
-OBJECT_SHARED Models/Misc/picnic_table.ac -88.68497 44.10229 -0.26 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -88.68601 44.10256 -95.24 0
-OBJECT_SHARED Models/lib/SmHangar.ac -88.68471 44.10175 -0.27 181.59
-OBJECT_SHARED Models/lib/SmHangar.ac -88.68493 44.10204 -0.26 90
-OBJECT_SHARED Models/lib/MedHangar.ac -88.68582 44.10273 -0.25 90
-OBJECT_SHARED Models/lib/MedHangar.ac -88.68451 44.10378 -0.30 179.12
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -88.68479 44.10212 228.15 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68502 44.10225 228.14 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -88.68497 44.10229 228.14 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -88.68601 44.10256 133.02 0
+OBJECT_SHARED Models/lib/SmHangar.ac -88.68471 44.10175 228.25 181.59
+OBJECT_SHARED Models/lib/SmHangar.ac -88.68493 44.10204 228.09 90
+OBJECT_SHARED Models/lib/MedHangar.ac -88.68582 44.10273 228.06 90
+OBJECT_SHARED Models/lib/MedHangar.ac -88.68451 44.10378 229.23 179.12
 # END dsf2stg

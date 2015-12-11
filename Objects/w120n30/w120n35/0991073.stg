@@ -2,12 +2,12 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/MedHangar.ac -119.68827 35.62499 84.25 181.05
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.68877 35.61800 86.84 7.82001
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.68860 35.61763 87.04 86.63
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -119.69026 35.62453 85.18 122.87
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.69044 35.62415 85.16 1.10001
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.69013 35.62410 85.16 216.87
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.69039 35.62394 85.25 353.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.68877 35.61800 86.84 7.82001
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.68860 35.61763 87.04 86.63
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -119.69026 35.62453 85.18 122.87
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.69044 35.62415 85.16 1.10001
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.69013 35.62410 85.16 216.87
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.69039 35.62394 85.25 353.57
 OBJECT_SHARED Models/Trees/billboard-tree.xml -119.69014 35.62387 85.25 218.66
 OBJECT_SHARED Models/Trees/billboard-tree.xml -119.69053 35.62445 85.78 202.75
 OBJECT_SHARED Models/Trees/billboard-tree.xml -119.69034 35.62364 85.39 293.03
@@ -18,12 +18,12 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -119.68857 35.61916 86.53 354.81
 OBJECT_SHARED Models/Trees/billboard-tree.xml -119.68793 35.61903 85.66 231.34
 OBJECT_SHARED Models/Trees/billboard-tree.xml -119.68850 35.61932 85.75 347.01
 OBJECT_SHARED Models/Trees/billboard-tree.xml -119.68867 35.61927 86.57 166.76
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.68795 35.61770 85.88 332
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.68781 35.61819 85.62 208.07
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.68804 35.61921 85.73 334.84
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.68828 35.61933 85.75 213.34
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.68888 35.61930 86.57 8.28
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -119.68875 35.61915 86.49 147.68
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.68795 35.61770 85.88 332
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.68781 35.61819 85.62 208.07
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.68804 35.61921 85.73 334.84
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.68828 35.61933 85.75 213.34
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.68888 35.61930 86.57 8.28
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.68875 35.61915 86.49 147.68
 OBJECT_SHARED Models/lib/cars7.ac -119.68936 35.61889 86.42 90.17
 OBJECT_SHARED Models/lib/cars7.ac -119.68941 35.61860 86.55 359.94
 OBJECT_SHARED Models/lib/cars7.ac -119.68941 35.61858 86.55 179.63
@@ -33,8 +33,8 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.69403 35.62353 88.15
 OBJECT_SHARED Models/lib/watertank3x1.ac -119.69398 35.62336 88.19 270.44
 OBJECT_SHARED Models/lib/watertank3x1.ac -119.69398 35.62338 88.19 270.72
 OBJECT_SHARED Models/lib/office16x4n.ac -119.69330 35.62457 87.03 355.67
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -119.68765 35.62493 84.19 103.46
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -119.68745 35.62422 83.79 -77.87
+OBJECT_SHARED Models/lib/lamp10m.xml -119.68765 35.62493 84.19 103.46
+OBJECT_SHARED Models/lib/lamp10m.xml -119.68745 35.62422 83.79 -77.87
 OBJECT_SHARED Models/Trees/billboard-tree.xml -119.69238 35.62415 86.47 237.65
 OBJECT_SHARED Models/Trees/billboard-tree.xml -119.69276 35.62442 87.05 30.62
 OBJECT_SHARED Models/Trees/billboard-tree.xml -119.69248 35.62439 86.38 297.3

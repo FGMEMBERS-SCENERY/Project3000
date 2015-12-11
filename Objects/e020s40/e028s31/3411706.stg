@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.67204 -30.11044 -0.77 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.66994 -30.10896 -0.81 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.67242 -30.11073 -0.76 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.67109 -30.10940 -0.79 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.67087 -30.10946 -0.79 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.67082 -30.10951 -0.79 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.66989 -30.10898 -0.81 0
-OBJECT_SHARED Models/lib/office8x14.ac 28.67097 -30.10944 -0.79 274.4
-OBJECT_SHARED Models/lib/SmHangar.ac 28.67073 -30.10975 -0.80 343.6
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 28.67048 -30.10975 -0.80 75.37
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.67204 -30.11044 1919.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.66994 -30.10896 1910.38 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.67242 -30.11073 1919.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.67109 -30.10940 1914.59 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.67087 -30.10946 1914.87 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.67082 -30.10951 1914.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.66989 -30.10898 1910.38 0
+OBJECT_SHARED Models/lib/office8x14.ac 28.67097 -30.10944 1914.45 274.4
+OBJECT_SHARED Models/lib/SmHangar.ac 28.67073 -30.10975 1916.25 343.6
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 28.67048 -30.10975 1915.44 75.37
 # END dsf2stg

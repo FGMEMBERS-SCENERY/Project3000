@@ -1,14 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -73.06058 -40.60501 -0.28 27.43
-OBJECT_SHARED Models/lib/cars7.ac -73.06066 -40.60451 -0.27 292.68
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -73.06083 -40.60506 -0.28 205.5
-OBJECT_SHARED Models/lib/cars7.ac -73.06086 -40.60425 -0.27 205.9
-OBJECT_SHARED Models/lib/cars14.ac -73.06181 -40.60421 -0.23 295.81
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.06100 -40.60429 -0.26 114.98
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -73.06126 -40.60491 -0.26 316.01
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -73.06246 -40.60411 -0.21 49.68
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.06054 -40.60560 -0.29 94.54
-OBJECT_SHARED Models/lib/MedHangar.ac -73.06243 -40.61406 -0.22 205.53
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -73.06058 -40.60501 60.10 27.43
+OBJECT_SHARED Models/lib/cars7.ac -73.06066 -40.60451 60.29 292.68
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -73.06083 -40.60506 59.99 205.5
+OBJECT_SHARED Models/lib/cube16x10.ac -73.06068 -40.60530 59.95 205.5
+OBJECT_SHARED Models/lib/cars7.ac -73.06086 -40.60425 60.28 205.9
+OBJECT_SHARED Models/lib/cars14.ac -73.06181 -40.60421 59.81 295.81
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.06100 -40.60429 60.21 114.98
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml -73.06126 -40.60491 59.84 316.01
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -73.06246 -40.60411 59.15 49.68
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.06054 -40.60560 60.38 94.54
+OBJECT_SHARED Models/lib/MedHangar.ac -73.06243 -40.61406 61.02 205.53
 # END dsf2stg

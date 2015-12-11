@@ -1,6 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54365 45.80254 1084.88 270
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54456 45.80249 1085.68 90
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54480 45.80249 1085.68 90
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54329 45.80253 1084.07 270
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54292 45.80253 1084.07 270
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54408 45.80254 1084.88 270
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54256 45.80247 1084.07 270
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54256 45.80257 1084.14 270.07
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54222 45.80247 1083.34 270
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54223 45.80257 1083.42 270.38
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54191 45.80246 1083.34 270
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54191 45.80256 1083.42 270
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -108.54184 45.80322 1083.88 90
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -108.54190 45.80335 1083.96 270
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -108.54183 45.80335 1083.96 88.85
@@ -15,6 +27,10 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac -108.54230 45.80302 1083.73 180
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -108.54233 45.80297 1083.73 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -108.54233 45.80302 1083.73 179.31
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -108.54241 45.80297 1083.73 0
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54225 45.80299 1083.73 359.51
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54239 45.80299 1083.73 0
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54214 45.80284 1083.58 180
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -108.54228 45.80284 1083.58 180.06
 OBJECT_SHARED Models/lib/10_spaces_dual.ac -108.54253 45.80284 1084.29 89.47
 OBJECT_SHARED Models/lib/10_spaces_dual.ac -108.54252 45.80300 1084.43 269.57
 OBJECT_SHARED Models/lib/cars6.ac -108.54284 45.80315 1084.50 359.42
@@ -298,7 +314,7 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -108.53996 45.80367 1083.09 
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -108.54041 45.80367 1083.09 45
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -108.54097 45.80367 1083.80 45
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -108.54153 45.80367 1084.27 45
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -108.54180 45.80367 1084.27 270
+OBJECT_SHARED Models/lib/lamp10m.xml -108.54180 45.80367 1084.27 270
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -108.55526 45.80491 1090.70 341.114
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -108.55530 45.80529 1090.73 337.11
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -108.53475 45.80373 1077.57 45

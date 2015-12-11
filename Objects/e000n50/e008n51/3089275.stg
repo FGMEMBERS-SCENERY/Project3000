@@ -13,10 +13,11 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 8.90200 51.93813 193.96 313.96
 OBJECT_SHARED Models/lib/SmHangar.ac 8.90339 51.93786 193.93 284.5
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.90224 51.93820 193.86 315.97
 OBJECT_SHARED Models/lib/SmHangar.ac 8.90217 51.93808 194.01 220.5
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.90403 51.93771 193.23 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.90468 51.93784 192.01 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.90358 51.93767 193.96 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.90292 51.93736 195.37 0
+OBJECT_SHARED Models/lib/hangar81x16.ac 8.90303 51.93729 195.51 148.72
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.90403 51.93771 193.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.90468 51.93784 192.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.90358 51.93767 193.96 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.90292 51.93736 195.37 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.90292 51.93744 195.37 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.90179 51.93826 193.57 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.90203 51.93799 194.14 0
@@ -32,5 +33,5 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 8.90028 51.93925 187.59 270
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.89981 51.93960 186.78 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.90072 51.93895 189.42 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.90081 51.93888 189.91 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml 8.90128 51.93854 192.13 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.90128 51.93854 192.13 0
 # END dsf2stg

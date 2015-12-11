@@ -5,8 +5,8 @@ OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -84.52429 45.65067 196.47 88.6
 OBJECT_SHARED Models/lib/cars10.ac -84.52419 45.65068 196.41 0.760002
 OBJECT_SHARED Models/lib/cars6.ac -84.52412 45.65054 196.71 0.18
 OBJECT_SHARED Models/lib/6space_wStop.ac -84.52440 45.65039 197.09 180
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -84.52389 45.65071 196.21 177.61
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -84.52422 45.65071 196.41 177.8
+OBJECT_SHARED Models/lib/lamp10m.xml -84.52389 45.65071 196.21 177.61
+OBJECT_SHARED Models/lib/lamp10m.xml -84.52422 45.65071 196.41 177.8
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -84.52315 45.65152 194.49 224.82
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -84.52356 45.65153 194.88 224.82
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -84.52114 45.65010 195.25 135.49
@@ -20,6 +20,7 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -84.52392 45.65095 195.72 46
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -84.52355 45.65095 195.78 45
 OBJECT_SHARED Models/lib/LongRow.ac -84.52159 45.65074 194.51 270.29
 OBJECT_SHARED Models/lib/LongRow.ac -84.52205 45.65074 195.03 270.29
+OBJECT_SHARED Models/lib/cube16x10.ac -84.52441 45.65059 196.72 0.470001
 OBJECT_SHARED Models/lib/SmHangar.ac -84.52265 45.65050 196.06 180.25
 OBJECT_SHARED Models/lib/SmHangar.ac -84.52265 45.65029 196.40 180.25
 OBJECT_SHARED Models/lib/SmHangar.ac -84.52265 45.65008 196.66 180.25
@@ -30,16 +31,21 @@ OBJECT_SHARED Models/lib/chariot1.ac -84.52252 45.65049 195.85 219.1
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -84.52282 45.65080 195.54 300.31
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -84.52259 45.65048 195.96 268.87
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.52383 45.65074 196.14 89.32
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -84.52430 45.65021 197.39 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -84.52409 45.65025 197.07 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -84.52421 45.65024 197.33 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -84.52435 45.65027 197.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.52430 45.65021 197.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.52409 45.65025 197.07 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.52421 45.65024 197.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.52435 45.65027 197.21 0
 OBJECT_SHARED Models/lib/cone.ac -84.52259 45.65054 195.96 0
 OBJECT_SHARED Models/lib/cone.ac -84.52259 45.65042 196.17 0
 OBJECT_SHARED Models/lib/cone.ac -84.52254 45.65048 195.85 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -84.52276 45.65061 195.96 270.58
+OBJECT_SHARED Models/Misc/picnic_table.ac -84.52394 45.65085 195.87 180.94
+OBJECT_SHARED Models/lib/vending-machine.ac -84.52390 45.65083 196.02 90.28
+OBJECT_SHARED Models/Misc/picnic_table.ac -84.52443 45.65047 196.91 27.55
 OBJECT_SHARED Models/lib/stack_of_cones.ac -84.52267 45.65053 196.06 338.2
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -84.52389 45.65085 196.02 352.88
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -84.52368 45.65090 195.81 179.81
+OBJECT_SHARED Models/lib/propane-tank.ac -84.52439 45.65076 196.36 85.91
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -84.52411 45.65085 196.16 269.32
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -84.52412 45.65092 195.97 0
 # END dsf2stg

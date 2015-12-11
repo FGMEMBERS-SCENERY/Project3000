@@ -8,15 +8,15 @@ OBJECT_SHARED Models/lib/SmHangar.ac -48.56413 -26.22049 13.41 17
 OBJECT_SHARED Models/lib/SmHangar.ac -48.56371 -26.22128 14.31 27
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -48.56433 -26.21970 13.07 107
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -48.56416 -26.22032 13.28 107
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56524 -26.21774 13.04 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56521 -26.21780 13.02 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56518 -26.21787 13.00 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56516 -26.21793 13.00 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56514 -26.21799 12.97 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56512 -26.21805 12.97 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56510 -26.21811 12.97 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56508 -26.21818 12.98 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56505 -26.21823 12.98 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56503 -26.21830 12.96 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -48.56501 -26.21836 12.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56524 -26.21774 13.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56521 -26.21780 13.02 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56518 -26.21787 13.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56516 -26.21793 13.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56514 -26.21799 12.97 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56512 -26.21805 12.97 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56510 -26.21811 12.97 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56508 -26.21818 12.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56505 -26.21823 12.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56503 -26.21830 12.96 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56501 -26.21836 12.99 0
 # END dsf2stg

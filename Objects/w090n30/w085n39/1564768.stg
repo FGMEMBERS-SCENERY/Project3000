@@ -2,6 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.78237 39.50708 314.44 122.348
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -84.78338 39.50622 315.11 180
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.78395 39.50760 314.74 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.78317 39.50760 314.56 90
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.78400 39.50751 314.78 0

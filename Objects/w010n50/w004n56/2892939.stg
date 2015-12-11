@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -3.21649 56.18538 124.38 121.81
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.22418 56.18120 119.05 300.296
 OBJECT_SHARED Models/lib/cars6.ac -3.22393 56.18119 118.90 299.156
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -3.22484 56.18082 118.67 305.599
@@ -13,6 +14,9 @@ OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -3.21552 56.18575 124.69 90
 OBJECT_SHARED Models/lib/stack_of_cones.ac -3.21547 56.18577 124.88 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -3.21542 56.18572 124.67 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -3.21539 56.18570 124.66 0
+OBJECT_SHARED Models/lib/propane-tank.ac -3.21709 56.18519 124.17 37.3159
+OBJECT_SHARED Models/lib/propane-tank.ac -3.21708 56.18518 124.17 37.3159
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -3.21581 56.18562 124.57 302.229
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -3.21575 56.18556 124.56 303.136
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -3.21578 56.18559 124.56 303.136
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.21550 56.18552 124.30 299.604

@@ -16,6 +16,7 @@ OBJECT_SHARED Models/lib/office32x25.ac -8.91347 52.69039 1.43 92.01
 OBJECT_SHARED Models/lib/MedHangar.ac -8.91346 52.69079 1.36 272.19
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -8.91787 52.69178 1.66 50.44
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -8.92815 52.69539 4.06 305.33
+OBJECT_SHARED Models/lib/shed8x10.ac -8.92646 52.69632 3.54 3.5
 OBJECT_SHARED Models/lib/LongRow.ac -8.92777 52.69636 3.97 4.09
 OBJECT_SHARED Models/lib/office32x25.ac -8.92814 52.69536 4.06 34.05
 # END dsf2stg

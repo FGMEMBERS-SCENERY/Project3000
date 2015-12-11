@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -86.70320 50.18371 -0.40 -77.88
-OBJECT_SHARED Models/lib/SmHangar.ac -86.70211 50.18359 -0.38 6.91
-OBJECT_SHARED Models/lib/office40x25.ac -86.70250 50.18402 -0.38 55.16
-OBJECT_SHARED Models/lib/SmHangar.ac -86.70281 50.18377 -0.39 102.57
-OBJECT_SHARED Models/lib/MedHangar.ac -86.70372 50.18304 -0.42 189.66
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -86.70344 50.18357 -0.40 190.71
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.70237 50.18308 -0.40 4.64002
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.70218 50.18348 -0.39 184.75
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -86.70320 50.18371 310.63 -77.88
+OBJECT_SHARED Models/lib/SmHangar.ac -86.70211 50.18359 310.69 6.91
+OBJECT_SHARED Models/lib/office40x25.ac -86.70250 50.18402 310.15 55.16
+OBJECT_SHARED Models/lib/SmHangar.ac -86.70281 50.18377 310.46 102.57
+OBJECT_SHARED Models/lib/MedHangar.ac -86.70372 50.18304 311.68 189.66
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -86.70344 50.18357 310.79 190.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.70237 50.18308 311.43 4.64002
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.70218 50.18348 310.84 184.75
 # END dsf2stg

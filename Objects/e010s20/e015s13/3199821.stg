@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office6x12.ac 15.74904 -12.80342 1708.42 305.35
+OBJECT_SHARED Models/lib/cube16x10.ac 15.74931 -12.80332 1708.38 319.63
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 15.74930 -12.80289 1708.27 229.75
+OBJECT_SHARED Models/lib/office8x14.ac 15.74831 -12.80343 1707.75 59.27
+OBJECT_SHARED Models/lib/office4x14.ac 15.74852 -12.80353 1707.95 149.09
+OBJECT_SHARED Models/lib/office3x10.ac 15.74859 -12.80354 1708.06 153.27
+OBJECT_SHARED Models/lib/lamp10m.xml 15.74957 -12.80334 1708.30 140.05
+OBJECT_SHARED Models/lib/lamp10m.xml 15.74997 -12.80289 1706.48 136.75
+OBJECT_SHARED Models/lib/caisses_group.ac 15.74954 -12.80317 1708.29 45.19
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 15.74972 -12.80340 1708.04 311.05
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.74915 -12.80344 1708.43 227.66
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 15.74968 -12.80351 1708.15 317.95
+OBJECT_SHARED Models/Transport/hatchback_red.ac 15.74876 -12.80337 1708.32 326.89
+OBJECT_SHARED Models/Transport/hatchback_red.ac 15.74874 -12.80337 1708.19 325.22
+OBJECT_SHARED Models/Transport/hatchback_red.ac 15.74843 -12.80347 1707.84 147.53
+OBJECT_SHARED Models/Transport/hatchback_red.ac 15.74841 -12.80346 1707.84 148.78
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 15.74827 -12.80469 1707.46 0
+OBJECT_SHARED Models/lib/office3x10.ac 15.74823 -12.80438 1707.41 306.401
+OBJECT_SHARED Models/lib/shed8x10.ac 15.74818 -12.80463 1707.37 49.6002
+# END dsf2stg

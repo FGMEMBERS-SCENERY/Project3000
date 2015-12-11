@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 17.43678 62.52678 0.91 339.504
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 17.43693 62.52691 0.91 329.466
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 17.43715 62.52700 0.91 314.125
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 17.43715 62.52700 0.91 138.565
+OBJECT_SHARED Models/Aircraft/320volare.xml 17.43764 62.52719 0.91 109.438
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 17.44154 62.52455 1.02 -7.35199
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 17.44201 62.52396 1.04 74.9804
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 17.44403 62.52220 1.07 287.879
+OBJECT_SHARED Models/lib/HorizTanks2.ac 17.44336 62.52330 1.07 198.246
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 17.44445 62.52083 1.06 271.081
+OBJECT_SHARED Models/lib/office32x25n.ac 17.43810 62.52798 0.92 19.2333
+OBJECT_SHARED Models/lib/FireStationLg.ac 17.44128 62.52370 1.02 19.0584
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 17.43550 62.52673 0.94 349.509
+OBJECT_SHARED Models/lib/MedHangar.ac 17.44434 62.52061 1.03 196.316
+OBJECT_SHARED Models/lib/fboModern1.ac 17.44322 62.52296 1.07 198.151
+OBJECT_SHARED Models/lib/cars10.ac 17.43457 62.52609 1.00 289.295
+OBJECT_SHARED Models/lib/cars10.ac 17.43491 62.52584 1.00 109.798
+OBJECT_SHARED Models/lib/office40x25.ac 17.44031 62.52183 1.00 105.421
+OBJECT_SHARED Models/lib/office32x25n.ac 17.44005 62.52285 1.00 108.433
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml 17.43761 62.52610 0.93 133.31
+OBJECT_SHARED Models/Airport/Jetway/jetway.xml 17.43730 62.52650 0.92 133.31
+# END dsf2stg

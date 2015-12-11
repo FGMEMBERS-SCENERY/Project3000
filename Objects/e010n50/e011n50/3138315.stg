@@ -9,6 +9,8 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 11.79999 50.13754 585.82 12.8
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.80018 50.13726 587.00 303.69
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.80016 50.13734 587.00 290.37
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.80016 50.13737 586.39 101.68
+OBJECT_SHARED Models/lib/office3x10.ac 11.80135 50.13762 585.01 350.18
+OBJECT_SHARED Models/lib/office3x10.ac 11.80134 50.13774 584.40 18.89
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.80120 50.13771 584.41 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 11.79840 50.14037 568.46 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 11.80058 50.13760 585.11 0
@@ -56,15 +58,18 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 11.80046 50.13739 586.34 133.96
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.80034 50.13738 586.38 234.07
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.80025 50.13735 586.98 346.37
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.80013 50.13751 585.80 0
+OBJECT_SHARED Models/lib/shed10x50.ac 11.80091 50.13752 585.68 17
+OBJECT_SHARED Models/lib/shed10x50.ac 11.80087 50.13760 585.07 17
 OBJECT_SHARED Models/lib/MedHangar.ac 11.79833 50.14045 567.87 206.46
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 11.80119 50.13771 584.41 29.05
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 11.80051 50.13758 585.13 0
-OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 11.80009 50.13750 585.80 12.43
-OBJECT_SHARED Models/Trees/deciduous-tree.xml 11.80009 50.13713 588.23 336.37
-OBJECT_SHARED Models/Trees/deciduous-tree.xml 11.80006 50.13719 587.62 143.7
-OBJECT_SHARED Models/Trees/deciduous-tree.xml 11.80003 50.13726 587.03 10.01
-OBJECT_SHARED Models/Trees/deciduous-tree.xml 11.80002 50.13733 587.03 119.43
-OBJECT_SHARED Models/Trees/deciduous-tree.xml 11.79998 50.13738 586.42 298.44
-OBJECT_SHARED Models/Trees/deciduous-tree.xml 11.79997 50.13742 586.42 119.75
-OBJECT_SHARED Models/Trees/deciduous-tree.xml 11.80048 50.13763 585.13 0
+OBJECT_SHARED Models/lib/lamp10m.xml 11.80119 50.13771 584.41 29.05
+OBJECT_SHARED Models/lib/lamp10m.xml 11.80051 50.13758 585.13 0
+OBJECT_SHARED Models/lib/lamp10m.xml 11.80009 50.13750 585.80 12.43
+OBJECT_SHARED Models/lib/schranke.ac 11.79994 50.13769 584.62 281.73
+OBJECT_SHARED Models/lib/deciduous-tree.xml 11.80009 50.13713 588.23 336.37
+OBJECT_SHARED Models/lib/deciduous-tree.xml 11.80006 50.13719 587.62 143.7
+OBJECT_SHARED Models/lib/deciduous-tree.xml 11.80003 50.13726 587.03 10.01
+OBJECT_SHARED Models/lib/deciduous-tree.xml 11.80002 50.13733 587.03 119.43
+OBJECT_SHARED Models/lib/deciduous-tree.xml 11.79998 50.13738 586.42 298.44
+OBJECT_SHARED Models/lib/deciduous-tree.xml 11.79997 50.13742 586.42 119.75
+OBJECT_SHARED Models/lib/deciduous-tree.xml 11.80048 50.13763 585.13 0
 # END dsf2stg

@@ -1,6 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/Misc/picnic_table.ac -116.87924 36.46379 -66.43 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -116.87875 36.46385 -66.50 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -116.88015 36.46411 -67.20 198.43
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.87997 36.46420 -67.26 199.83
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -116.87958 36.46434 -67.33 0

@@ -1,6 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -70.94652 43.98765 133.04 143.09
+OBJECT_SHARED Models/lib/shed10x50.ac -70.94629 43.98780 132.51 142.74
 OBJECT_SHARED Models/lib/SmHangar.ac -70.94893 43.98932 134.87 233.97
 OBJECT_SHARED Models/lib/LongRow.ac -70.94764 43.98854 133.57 324.33
 OBJECT_SHARED Models/lib/LongRow.ac -70.94857 43.98901 134.12 323.85
