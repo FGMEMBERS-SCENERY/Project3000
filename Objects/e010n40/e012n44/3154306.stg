@@ -22,7 +22,7 @@ OBJECT_SHARED Models/lib/belt_loader.ac 12.62023 44.02098 5.10 -35.84
 OBJECT_SHARED Models/lib/belt_loader.ac 12.62025 44.02100 5.08 -37
 OBJECT_SHARED Models/lib/belt_loader.ac 12.61704 44.02388 4.25 231.54
 OBJECT_SHARED Models/lib/belt_loader.ac 12.61706 44.02385 4.25 230.6
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 12.61666 44.02413 4.17 139.9
+OBJECT_SHARED Models/lib/fuel-truck.xml 12.61666 44.02413 4.17 139.9
 OBJECT_SHARED Models/lib/rw-guard-lights.ac 12.61676 44.01875 6.58 233
 OBJECT_SHARED Models/lib/rw-guard-lights.ac 12.60872 44.02322 4.22 233
 OBJECT_SHARED Models/lib/rw-guard-lights.ac 12.60070 44.02769 2.80 233
@@ -37,7 +37,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml 12.61997 44.02181 4.84 0
 OBJECT_SHARED Models/lib/lamp10m.xml 12.61652 44.02428 4.10 0
 OBJECT_SHARED Models/lib/lamp10m.xml 12.61747 44.02376 4.29 0
 OBJECT_SHARED Models/lib/lamp10m.xml 12.61815 44.02296 4.54 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.62107 44.02101 4.96 33.16
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.62107 44.02101 4.96 213.16
 OBJECT_SHARED Models/lib/deciduous-tree.xml 12.61916 44.02369 4.28 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml 12.61873 44.02397 4.21 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml 12.61863 44.02404 4.21 0

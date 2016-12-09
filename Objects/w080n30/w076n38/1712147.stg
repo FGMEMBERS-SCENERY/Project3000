@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.11715 38.31030 0.67 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.11757 38.31103 0.75 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.11762 38.31086 0.75 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.11767 38.31072 0.75 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.11765 38.31049 0.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.11742 38.31031 0.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.11823 38.31056 0.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.11806 38.31052 0.78 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -75.11799 38.31004 0.73 315.76
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -75.12291 38.31374 1.55 169.61
+OBJECT_SHARED Models/lib/fuel-truck.xml -75.11850 38.31028 0.80 345.38
+OBJECT_SHARED Models/lib/fuel-truck.xml -75.11856 38.31029 0.81 345.38
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11789 38.31056 0.76 77.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11808 38.31059 0.79 77.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11807 38.31061 0.79 77.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11806 38.31064 0.79 77.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11805 38.31069 0.79 77.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11827 38.31062 0.80 77.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11794 38.31059 0.76 257.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11814 38.31060 0.79 257.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11831 38.31068 0.81 257.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11810 38.31073 0.79 257.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11811 38.31068 0.79 257.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11809 38.31075 0.80 257.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11833 38.31063 0.80 257.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11832 38.31065 0.81 257.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.12249 38.31307 1.36 134.09
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.12228 38.31324 1.40 137.12
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.12217 38.31334 1.43 135
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11850 38.31040 0.81 256.5
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.11841 38.31028 0.79 349.99
+OBJECT_SHARED Models/lib/cars6.ac -75.11834 38.31104 0.83 136.85
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -75.11824 38.31085 0.81 167.74
+OBJECT_SHARED Models/lib/cars6.ac -75.11838 38.31100 0.84 136.55
+OBJECT_SHARED Models/lib/cars10.ac -75.11843 38.31086 0.83 135
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -75.11786 38.31079 0.78 167.74
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -75.11804 38.31082 0.79 167.74
+OBJECT_SHARED Models/lib/cars4.ac -75.11879 38.31155 0.88 47.35
+OBJECT_SHARED Models/lib/cars4.ac -75.11868 38.31164 0.87 227.35
+OBJECT_SHARED Models/lib/cars4.ac -75.11871 38.31185 0.88 227.35
+OBJECT_SHARED Models/lib/cars6.ac -75.11887 38.31171 0.89 47.35
+OBJECT_SHARED Models/lib/shed8x10.ac -75.12124 38.31294 1.28 47.09
+OBJECT_SHARED Models/lib/LongRow.ac -75.12002 38.31174 1.00 47.09
+OBJECT_SHARED Models/lib/LongRow.ac -75.11948 38.31134 0.95 47.09
+OBJECT_SHARED Models/lib/LongRow.ac -75.11975 38.31154 0.99 47.09
+OBJECT_SHARED Models/lib/LongRow.ac -75.12271 38.31304 1.32 47.09
+OBJECT_SHARED Models/lib/LongRow.ac -75.12347 38.31360 1.50 47.09
+OBJECT_SHARED Models/lib/LongRow.ac -75.12209 38.31257 1.20 47.09
+OBJECT_SHARED Models/lib/LongRow.ac -75.12237 38.31278 1.26 47.09
+OBJECT_SHARED Models/lib/LongRow.ac -75.12304 38.31328 1.41 47.09
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -75.11914 38.31229 0.94 136.89
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -75.12043 38.31168 1.00 136.5
+OBJECT_SHARED Models/lib/NoParkStripes.xml -75.12042 38.31167 1.00 46.5
+# END dsf2stg

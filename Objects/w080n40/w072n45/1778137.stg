@@ -22,8 +22,8 @@ OBJECT_SHARED Models/lib/SmHangar.ac -71.68519 45.44142 241.69 91.85
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.68698 45.44114 240.72 31.8
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -71.68972 45.44112 235.32 107.14
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.68995 45.44099 234.61 270
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.68942 45.43888 232.42 329.35
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.68990 45.43933 233.01 145.49
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.68942 45.43888 232.42 149.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.68990 45.43933 233.01 325.49
 OBJECT_SHARED Models/lib/cars7.ac -71.68922 45.44196 237.28 91.12
 OBJECT_SHARED Models/lib/cars14.ac -71.68967 45.44195 236.17 91.31
 OBJECT_SHARED Models/lib/cars7.ac -71.68919 45.44178 237.07 270.87
@@ -34,7 +34,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac -71.68601 45.44139 242.21 91.94
 OBJECT_SHARED Models/lib/SmHangar.ac -71.68642 45.44138 242.24 92.2
 OBJECT_SHARED Models/lib/SmHangar.ac -71.68686 45.44137 241.24 92.61
 OBJECT_SHARED Models/lib/LongRow.ac -71.68812 45.44143 238.84 2.29
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.68825 45.44001 236.94 272.97
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.68825 45.44001 236.94 2.97
 OBJECT_SHARED Models/lib/lamp10m.xml -71.68817 45.44020 237.36 3.25
 OBJECT_SHARED Models/lib/lamp10m.xml -71.69009 45.44070 234.09 182.6
 OBJECT_SHARED Models/lib/lamp10m.xml -71.68932 45.44130 236.33 91.27
@@ -52,6 +52,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac -71.68929 45.44158 236.65 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -71.68892 45.44156 237.45 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -71.68896 45.44156 237.25 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -71.68916 45.44156 236.85 0
+OBJECT_SHARED Models/lib/propane-tank.ac -71.68840 45.44146 238.34 90
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.69009 45.44196 235.48 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.69003 45.44168 235.36 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.69004 45.44176 235.47 0
@@ -67,6 +68,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.68844 45.44186 238.77
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.68847 45.44196 238.68 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.68831 45.44149 238.54 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.68831 45.44138 238.44 0
+OBJECT_SHARED Models/lib/propane-tank.ac -71.68843 45.44146 238.34 90
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -71.68847 45.44157 238.25 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -71.68933 45.44155 236.65 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -71.68933 45.44158 236.65 0

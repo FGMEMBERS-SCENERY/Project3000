@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 7.41299 47.18242 429.06 113.2
+OBJECT_SHARED Models/lib/citation.ac 7.41299 47.18242 429.06 113.2
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 7.41430 47.18224 428.38 24.49
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.41207 47.18171 428.76 114.97
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.41396 47.18216 428.52 25.02
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.41207 47.18171 428.76 294.97
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.41396 47.18216 428.52 205.02
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 7.41264 47.18231 429.11 114.29
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.41255 47.18184 428.71 114.18
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.41236 47.18213 429.03 114.02
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.41255 47.18184 428.71 204.18
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.41236 47.18213 429.03 204.02
 OBJECT_SHARED Models/lib/office40x25.ac 7.41070 47.18162 428.97 293.15
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.41140 47.18164 428.83 24.54
 OBJECT_SHARED Models/lib/MedHangar.ac 7.41157 47.18220 429.30 114.51

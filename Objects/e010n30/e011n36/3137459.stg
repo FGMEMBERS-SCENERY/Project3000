@@ -24,7 +24,7 @@ OBJECT_SHARED Models/lib/cube16x10.ac 11.96812 36.81964 173.08 331.6
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 11.97122 36.81381 191.47 45.68
 OBJECT_SHARED Models/lib/MedHangar.ac 11.97007 36.81359 190.22 332
 OBJECT_SHARED Models/lib/belt_loader.ac 11.96798 36.81898 175.66 245.43
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 11.96877 36.81940 171.43 45.81
+OBJECT_SHARED Models/lib/fuel-truck.xml 11.96877 36.81940 171.43 45.81
 OBJECT_SHARED Models/Airport/cargobox.xml 11.96714 36.81784 177.89 0
 OBJECT_SHARED Models/Airport/cargoip.xml 11.96714 36.81781 177.89 0
 OBJECT_SHARED Models/lib/chariot1.ac 11.96765 36.81874 176.15 335.79

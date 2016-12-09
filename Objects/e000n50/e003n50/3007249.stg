@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 3.45522 50.33002 47.04 303.58
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 3.45522 50.33002 47.04 123.58
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 3.45576 50.33026 47.06 301.43
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 3.45794 50.32971 46.91 207.37
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 3.45494 50.32991 47.13 300.49
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 3.46083 50.33106 48.94 117.34
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 3.45744 50.32955 46.85 300.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 3.45924 50.33054 47.63 119.12
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 3.45674 50.33055 47.12 60.94
+OBJECT_SHARED Models/lib/citation.ac 3.45744 50.32955 46.85 300.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 3.45924 50.33054 47.63 299.12
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 3.45674 50.33055 47.12 240.94
 OBJECT_SHARED Models/lib/lamp10m.xml 3.45762 50.33008 46.98 106.83
 OBJECT_SHARED Models/lib/lamp10m.xml 3.46092 50.33127 49.29 270
 OBJECT_SHARED Models/lib/lamp10m.xml 3.45849 50.33082 49.31 270
@@ -71,7 +71,7 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac 3.46161 50.33170 48.97 275.01
 OBJECT_SHARED Models/Transport/hatchback_green.ac 3.45842 50.33064 48.30 208.21
 OBJECT_SHARED Models/lib/cars2.ac 3.46142 50.33158 48.59 206.97
 OBJECT_SHARED Models/lib/SmHangar.ac 3.45939 50.33110 48.37 180
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 3.45751 50.33002 46.93 27.41
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 3.45751 50.33002 46.93 117.41
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 3.45772 50.33069 49.40 207.31
 OBJECT_SHARED Models/Trees/billboard-tree.xml 3.45149 50.32596 47.14 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 3.45111 50.32623 47.14 206.56

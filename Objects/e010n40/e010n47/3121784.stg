@@ -20,6 +20,7 @@ OBJECT_SHARED Models/lib/MedHangar.ac 10.22807 47.98774 629.44 99.94
 OBJECT_SHARED Models/lib/cube16x10.ac 10.23004 47.98851 629.34 9.29
 OBJECT_SHARED Models/lib/FireStationLg.ac 10.23026 47.98865 629.36 279.31
 OBJECT_SHARED Models/lib/fboModern1.ac 10.23267 47.98908 629.16 99.46
+OBJECT_SHARED Models/lib/industrial15x22.ac 10.23336 47.99018 627.49 280.28
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.23811 47.98588 628.45 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.23428 47.98454 628.85 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.23284 47.98370 629.28 0
@@ -191,7 +192,7 @@ OBJECT_SHARED Models/lib/cone.ac 10.23344 47.98904 628.67 0
 OBJECT_SHARED Models/lib/cone.ac 10.23351 47.98897 628.57 0
 OBJECT_SHARED Models/lib/cone.ac 10.22834 47.98734 629.81 0
 OBJECT_SHARED Models/lib/cone.ac 10.22823 47.98733 629.81 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 10.22819 47.98731 629.81 61.98
+OBJECT_SHARED Models/lib/fuel-truck.xml 10.22819 47.98731 629.81 61.98
 OBJECT_SHARED Models/lib/cargobox2x3m.ac 10.22839 47.98748 629.75 13.61
 OBJECT_SHARED Models/lib/cargobox2x3m.ac 10.22840 47.98745 629.77 8.94
 OBJECT_SHARED Models/lib/belt_loader.ac 10.22833 47.98745 629.75 8.23001
@@ -201,9 +202,9 @@ OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 10.23357 47.98899 6
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 10.22826 47.98739 629.78 191
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 10.23340 47.98897 628.67 305.62
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.23024 47.98267 630.10 100.65
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.22911 47.98255 630.85 357.93
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.22892 47.98255 630.91 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.23645 47.98612 629.23 29.01
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.22911 47.98255 630.85 177.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.22892 47.98255 630.91 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.23645 47.98612 629.23 209.01
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.23774 47.98663 627.72 29.09
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.22776 47.98814 628.90 189.51
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.23145 47.98920 629.30 189.73
@@ -259,7 +260,7 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23017 47.98248 630.36 329.97
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 10.23064 47.98822 629.48 191.84
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23211 47.98900 629.24 191.19
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23207 47.98899 629.24 189.81
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 10.22981 47.98807 629.46 279.56
+OBJECT_SHARED Models/lib/fuel-truck.xml 10.22981 47.98807 629.46 279.56
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 10.22908 47.98827 629.49 11.71
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 10.22906 47.98831 629.49 10.74
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 10.23369 47.98993 627.45 192.72

@@ -2,9 +2,9 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.70052 26.54840 5.18 84.96
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70053 26.54772 5.80 87.8
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70077 26.54758 5.88 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70115 26.54757 5.86 84.36
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70053 26.54772 5.80 267.8
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70077 26.54758 5.88 270
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70115 26.54757 5.86 264.36
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -78.69563 26.54765 5.85 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -78.69572 26.54770 6.11 176.92
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -78.69578 26.54752 6.32 179.27
@@ -18,12 +18,13 @@ OBJECT_SHARED Models/lib/lamp10m.xml -78.69541 26.54802 5.51 90
 OBJECT_SHARED Models/lib/lamp10m.xml -78.69566 26.54803 5.99 270
 OBJECT_SHARED Models/lib/lamp10m.xml -78.69567 26.54767 6.11 266.05
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.70176 26.54785 5.53 87.14
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -78.70239 26.54820 5.17 83.12
+OBJECT_SHARED Models/lib/citation.ac -78.70239 26.54820 5.17 83.12
 OBJECT_SHARED Models/Transport/hatchback_red.ac -78.69551 26.54800 5.71 0
 OBJECT_SHARED Models/Transport/hatchback_red.ac -78.70331 26.54690 5.16 0
 OBJECT_SHARED Models/Transport/hatchback_red.ac -78.70341 26.54679 5.42 109.44
 OBJECT_SHARED Models/Transport/hatchback_red.ac -78.70363 26.54684 5.50 109.44
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.70446 26.54815 5.04 80.54
+OBJECT_SHARED Models/lib/industrial13x24.ac -78.69966 26.54726 6.25 180.91
 OBJECT_SHARED Models/lib/lamp10m.xml -78.69568 26.54749 6.12 85.85
 OBJECT_SHARED Models/lib/lamp10m.xml -78.69552 26.54803 5.71 270
 OBJECT_SHARED Models/lib/lamp10m.xml -78.69553 26.54767 5.77 270
@@ -122,15 +123,15 @@ OBJECT_SHARED Models/lib/lamp10m.xml -78.70722 26.54738 4.84 130.601
 OBJECT_SHARED Models/lib/lamp10m.xml -78.70684 26.54732 5.54 12.3391
 OBJECT_SHARED Models/lib/lamp10m.xml -78.70725 26.54723 4.01 184.485
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -78.70927 26.54850 4.62 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70141 26.54802 5.48 86.19
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.70208 26.54775 5.66 85.31
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70141 26.54802 5.48 266.19
+OBJECT_SHARED Models/lib/citation.ac -78.70208 26.54775 5.66 85.31
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.70226 26.54853 4.92 86.72
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.69966 26.54767 5.86 277.48
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.70053 26.54752 5.99 87.55
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70052 26.54812 5.45 86.42
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70112 26.54830 5.24 85.52
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70194 26.54844 5.08 85.71
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70236 26.54805 5.26 82.65
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70052 26.54812 5.45 266.42
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70112 26.54830 5.24 265.52
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70194 26.54844 5.08 265.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.70236 26.54805 5.26 262.65
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -78.70325 26.54754 5.71 45
 OBJECT_SHARED Models/Transport/hatchback_red.ac -78.70296 26.54750 5.74 50.19
 OBJECT_SHARED Models/Transport/hatchback_red.ac -78.69562 26.54782 6.01 0
@@ -187,8 +188,8 @@ OBJECT_SHARED Models/lib/20_spaces_dual.ac -78.69549 26.54766 5.77 87.13
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -78.69547 26.54820 5.69 87.13
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -78.69548 26.54802 5.71 87.13
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -78.69548 26.54783 5.79 87.13
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -78.70657 26.54778 5.13 32.28
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -78.70628 26.54744 5.50 188.1
+OBJECT_SHARED Models/lib/fuel-truck.xml -78.70657 26.54778 5.13 32.28
+OBJECT_SHARED Models/lib/fuel-truck.xml -78.70628 26.54744 5.50 188.1
 OBJECT_SHARED Models/lib/chariot3curve.ac -78.70467 26.54811 5.03 261.38
 OBJECT_SHARED Models/lib/cargobox2x3m.ac -78.70459 26.54815 5.03 262.55
 OBJECT_SHARED Models/lib/cargobox2x3m.ac -78.70462 26.54814 5.03 252.62

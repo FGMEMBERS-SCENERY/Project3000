@@ -2,21 +2,21 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/office32x25.ac 100.40779 6.19614 7.26 225.71
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 100.40974 6.19904 5.06 226.06
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40775 6.19656 5.60 47.52
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40783 6.19665 5.61 47.52
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40792 6.19673 5.62 47.52
+OBJECT_SHARED Models/lib/fuel-truck.xml 100.40974 6.19904 5.06 226.06
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40775 6.19656 5.60 227.52
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40783 6.19665 5.61 227.52
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40792 6.19673 5.62 227.52
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 100.40853 6.19801 6.02 228.22
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 100.41057 6.19941 6.99 125.06
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 100.41028 6.19983 4.64 211.4
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.41014 6.19980 4.62 210.13
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.41004 6.19974 4.67 210.13
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40994 6.19968 4.71 210.13
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40770 6.19738 5.71 229.25
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40789 6.19758 5.74 229.25
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40916 6.19862 5.94 229.25
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40924 6.19872 5.99 229.25
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 100.39633 6.19168 5.08 319.4
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.41014 6.19980 4.62 30.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.41004 6.19974 4.67 30.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40994 6.19968 4.71 30.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40770 6.19738 5.71 49.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40789 6.19758 5.74 49.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40916 6.19862 5.94 49.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.40924 6.19872 5.99 49.25
+OBJECT_SHARED Models/lib/fuel-truck.xml 100.39633 6.19168 5.08 319.4
 OBJECT_SHARED Models/lib/belt_loader.ac 100.39645 6.19183 5.12 228.92
 OBJECT_SHARED Models/lib/stack_of_cones.ac 100.41058 6.19907 6.55 0
 OBJECT_SHARED Models/lib/office65x50.ac 100.40522 6.19421 5.09 304.67
@@ -115,7 +115,6 @@ OBJECT_SHARED Models/Airport/tower_small_airfield.xml 100.39704 6.19304 3.62 318
 OBJECT_SHARED Models/Transport/Norberttruck.xml 100.40027 6.19541 6.91 296.05
 OBJECT_SHARED Models/lib/container6.ac 100.40044 6.19550 6.93 27.41
 OBJECT_SHARED Models/lib/container6.ac 100.40048 6.19542 6.92 27.41
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 100.39613 6.19145 5.03 72
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 100.39577 6.19107 4.93 70.12
+OBJECT_SHARED Models/lib/admin31x12.ac 100.39602 6.19188 5.13 45.59
 OBJECT_SHARED Models/lib/FireStationLg.ac 100.39746 6.19399 3.78 226.75
 # END dsf2stg

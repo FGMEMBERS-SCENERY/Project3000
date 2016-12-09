@@ -7,10 +7,8 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 128.08613 -3.70740 25.72 
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 128.08655 -3.70727 25.82 192.26
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 128.08654 -3.70686 26.48 186.12
 OBJECT_SHARED Models/lib/6space_wStop.ac 128.08636 -3.70629 27.69 180
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 128.08836 -3.70605 27.04 34.74
-#OBJECT_SHARED Models/lib/jetway_e14m.ac 128.08837 -3.70607 27.01 91.61
-#OBJECT_SHARED Models/lib/jetway_e14m.ac 128.08792 -3.70607 27.01 90.3
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 128.08792 -3.70607 27.01 25.12
+OBJECT_SHARED Models/lib/jetway_e14m.ac 128.08837 -3.70607 27.01 91.61
+OBJECT_SHARED Models/lib/jetway_e14m.ac 128.08792 -3.70607 27.01 90.3
 OBJECT_SHARED Models/lib/shed8x10.ac 128.08594 -3.70722 26.07 0
 OBJECT_SHARED Models/lib/SmHangar.ac 128.08612 -3.70812 24.33 90
 OBJECT_SHARED Models/lib/FireStationLg.ac 128.08596 -3.71057 21.65 314.3
@@ -19,6 +17,8 @@ OBJECT_SHARED Models/Airport/tower_small_airfield.xml 128.08977 -3.70538 29.71 2
 OBJECT_SHARED Models/lib/transformer3x3.ac 128.08643 -3.70610 28.00 0
 OBJECT_SHARED Models/lib/shed8x10.ac 128.08565 -3.70726 26.00 0
 OBJECT_SHARED Models/lib/shed8x10.ac 128.08711 -3.70906 22.66 0
+OBJECT_SHARED Models/lib/industrial15x22.ac 128.09025 -3.70512 30.00 313.31
+OBJECT_SHARED Models/lib/industrial13x24.ac 128.08547 -3.71120 19.77 135
 OBJECT_SHARED Models/lib/transformer3x3.ac 128.08707 -3.70864 23.65 0
 OBJECT_SHARED Models/lib/transformer3x3.ac 128.08577 -3.70970 22.43 137.29
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 128.08573 -3.70995 21.91 48.08

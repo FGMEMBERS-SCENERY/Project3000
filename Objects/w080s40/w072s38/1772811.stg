@@ -3,7 +3,7 @@
 #
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -71.00771 -37.84853 1657.37 47.53
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -71.00826 -37.84860 1657.73 -42.78
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.00730 -37.84836 1657.23 167
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.00730 -37.84836 1657.23 347
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -71.00835 -37.84923 1658.25 263.53
 OBJECT_SHARED Models/lib/cars7.ac -71.00815 -37.84891 1657.87 317.44
 # END dsf2stg

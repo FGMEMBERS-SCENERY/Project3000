@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml 129.08927 33.19094 -0.74 57.1489
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 129.08906 33.19083 -0.74 338.641
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 129.08905 33.19083 -0.74 338.657
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 129.08905 33.19083 -0.74 68.4287
+OBJECT_SHARED Models/lib/vending-machine.ac 129.08903 33.19083 -0.74 248.264
+OBJECT_SHARED Models/lib/lamp10m.xml 129.08896 33.19100 -0.74 27.9771
+OBJECT_SHARED Models/lib/lamp10m.xml 129.08858 33.19064 -0.73 200.71
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 129.08856 33.19032 -0.73 117.085
+OBJECT_SHARED Models/lib/lamp10m.xml 129.08964 33.19090 -0.75 160
+OBJECT_SHARED Models/lib/lamp10m.xml 129.08898 33.19030 -0.73 295
+OBJECT_SHARED Models/lib/lamp10m.xml 129.08920 33.19012 -0.72 340
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.08875 33.19065 -0.73 70.926
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.08887 33.19091 -0.74 70.3155
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.08874 33.19089 -0.74 251.455
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.08877 33.19097 -0.74 251.335
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.08873 33.19084 -0.74 250.59
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.08877 33.19069 -0.74 72.1152
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.08888 33.19093 -0.74 251.478
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.08883 33.19082 -0.74 70.0654
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.08865 33.19068 -0.74 248.126
+OBJECT_SHARED Models/lib/2space_wStop.ac 129.08862 33.19067 -0.74 160.651
+OBJECT_SHARED Models/lib/6space_wStop.ac 129.08866 33.19077 -0.74 160.711
+OBJECT_SHARED Models/lib/6space_wStop.ac 129.08873 33.19093 -0.74 160.684
+OBJECT_SHARED Models/lib/4space_wStop.ac 129.08879 33.19065 -0.73 340.192
+OBJECT_SHARED Models/lib/2space_wStop.ac 129.08885 33.19080 -0.74 341.036
+OBJECT_SHARED Models/lib/6space_wStop.ac 129.08890 33.19092 -0.74 340.043
+# END dsf2stg

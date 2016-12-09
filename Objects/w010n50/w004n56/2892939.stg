@@ -4,7 +4,7 @@
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -3.21649 56.18538 124.38 121.81
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.22418 56.18120 119.05 300.296
 OBJECT_SHARED Models/lib/cars6.ac -3.22393 56.18119 118.90 299.156
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -3.22484 56.18082 118.67 305.599
+OBJECT_SHARED Models/lib/fuel-truck.xml -3.22484 56.18082 118.67 305.599
 OBJECT_SHARED Models/Transport/Norberttruck.xml -3.22488 56.18089 118.93 301.649
 OBJECT_SHARED Models/Transport/Norberttruck.xml -3.22492 56.18087 118.96 301.649
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.22499 56.18088 119.01 304.114
@@ -20,14 +20,14 @@ OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -3.21581 56.18562 124.57 
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -3.21575 56.18556 124.56 303.136
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -3.21578 56.18559 124.56 303.136
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.21550 56.18552 124.30 299.604
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.21591 56.18537 124.21 189.104
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.21591 56.18537 124.21 9.1044
 OBJECT_SHARED Models/lib/office3x10.ac -3.21685 56.18501 123.69 305.049
 OBJECT_SHARED Models/Misc/picnic_table.ac -3.21720 56.18502 123.80 213.275
 OBJECT_SHARED Models/Misc/picnic_table.ac -3.21722 56.18504 123.81 213.275
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.21738 56.18490 123.66 31.1463
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.21738 56.18490 123.66 121.146
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -3.21815 56.18448 123.12 30.7358
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.21796 56.18475 123.47 211.83
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.21776 56.18480 123.59 195.964
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.21796 56.18475 123.47 31.8301
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.21776 56.18480 123.59 15.9636
 OBJECT_SHARED Models/lib/cars4.ac -3.21845 56.18478 123.88 214.981
 OBJECT_SHARED Models/lib/cars2.ac -3.21790 56.18513 124.27 37.3672
 OBJECT_SHARED Models/lib/cars4.ac -3.21821 56.18503 124.20 28.9096

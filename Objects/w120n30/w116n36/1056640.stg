@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac -115.85544 36.00574 865.35 311.12
+OBJECT_SHARED Models/Transport/hatchback_red.ac -115.86110 36.00838 851.89 201.8
+OBJECT_SHARED Models/Transport/hatchback_red.ac -115.86113 36.00838 851.89 198.43
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -115.85561 36.00570 861.33 226.79
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -115.86133 36.00828 851.90 41.87
+OBJECT_SHARED Models/lib/shed8x10.ac -115.86489 36.01456 848.13 80.11
+OBJECT_SHARED Models/lib/watertank3x1.ac -115.86943 36.01617 866.19 320.87
+OBJECT_SHARED Models/lib/watertank3x1.ac -115.86944 36.01618 866.19 320.87
+OBJECT_SHARED Models/lib/propane-tank.ac -115.86938 36.01612 865.74 320.73
+OBJECT_SHARED Models/Misc/picnic_table.ac -115.86940 36.01602 865.29 320.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -115.85517 36.00603 865.64 44.06
+OBJECT_SHARED Models/lib/shed8x10.ac -115.85825 36.01432 860.65 299.96
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -115.85974 36.01362 854.71 25.28
+# END dsf2stg

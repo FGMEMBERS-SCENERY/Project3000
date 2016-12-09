@@ -36,7 +36,7 @@ OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.30597 45.10416 444.89 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -90.30609 45.10411 444.84 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -90.30795 45.10420 443.77 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.30623 45.10416 444.78 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.30808 45.10447 443.42 133.03
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.30781 45.10421 443.88 0
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -90.30809 45.10421 443.71 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.30808 45.10447 443.42 313.03
+OBJECT_SHARED Models/lib/citation.ac -90.30781 45.10421 443.88 0
+OBJECT_SHARED Models/lib/citation.ac -90.30809 45.10421 443.71 0
 # END dsf2stg

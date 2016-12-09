@@ -5,11 +5,11 @@ OBJECT_SHARED Models/lib/chariot3.ac 103.42880 4.54375 6.36 108.225
 OBJECT_SHARED Models/lib/chariot3curve.ac 103.42800 4.54088 5.44 303.53
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac 103.42862 4.54420 6.29 107.052
 OBJECT_SHARED Models/lib/belt_loader.ac 103.42875 4.54393 6.33 196.26
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 103.42920 4.54303 6.47 287.216
+OBJECT_SHARED Models/lib/fuel-truck.xml 103.42920 4.54303 6.47 287.216
 OBJECT_SHARED Models/lib/stack_of_cones.ac 103.42786 4.54250 6.64 0
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 103.42780 4.54256 6.68 0
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 103.42760 4.54066 5.28 244.92
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 103.42727 4.54257 6.36 89.74
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 103.42727 4.54257 6.36 269.74
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 103.42804 4.54181 6.12 265.95
 OBJECT_SHARED Models/lib/10_spaces_dual.ac 103.42880 4.54033 5.36 107.07
 OBJECT_SHARED Models/lib/10_spaces_dual.ac 103.42876 4.54046 5.46 107.07

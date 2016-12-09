@@ -3,7 +3,7 @@
 #
 OBJECT_SHARED Models/lib/cars7.ac -72.80381 -36.12604 9.55 185.73
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.80477 -36.12576 10.03 231.34
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.80447 -36.12693 9.54 0.899994
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.80447 -36.12693 9.54 180.9
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80318 -36.12542 9.50 0
 OBJECT_SHARED Models/lib/SmHangar.ac -72.80468 -36.12672 9.54 195.68
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80332 -36.12560 9.49 0

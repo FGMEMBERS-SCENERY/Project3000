@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac 167.94140 -29.03816 -0.32 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 167.94434 -29.03646 -0.40 343.856
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94416 -29.03746 -0.42 65.3703
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94407 -29.03762 -0.42 63.5208
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94399 -29.03759 -0.42 157.269
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 167.94408 -29.03717 -0.42 336.721
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 167.94344 -29.03475 -0.33 112.389
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 167.94359 -29.03485 -0.37 109.29
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 167.94290 -29.03490 -0.33 292.468
+OBJECT_SHARED Models/Airport/cargoim.xml 167.94355 -29.03515 -0.38 226.975
+OBJECT_SHARED Models/Airport/cargoim.xml 167.94357 -29.03513 -0.37 210.964
+OBJECT_SHARED Models/lib/loader.ac 167.94364 -29.03519 -0.38 35.1343
+OBJECT_SHARED Models/lib/container6.ac 167.94360 -29.03510 -0.37 128.66
+OBJECT_SHARED Models/lib/container1.ac 167.94369 -29.03522 -0.38 172.875
+OBJECT_SHARED Models/lib/container1.ac 167.94371 -29.03525 -0.38 198.435
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 167.94345 -29.03575 -0.35 189.686
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 167.94371 -29.03544 -0.38 280.728
+OBJECT_SHARED Models/lib/belt_loader.ac 167.94365 -29.03514 -0.37 39.8056
+OBJECT_SHARED Models/lib/fuel-truck.xml 167.94370 -29.03530 -0.38 43.4035
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 167.94255 -29.03727 -0.38 331.189
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94241 -29.03540 -0.30 316.469
+OBJECT_SHARED Models/lib/watertank3x1.ac 167.94459 -29.03496 -0.41 139.764
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94459 -29.03484 -0.40 226.029
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94268 -29.03725 -0.38 260.538
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.94472 -29.03552 -0.42 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.94251 -29.03554 -0.34 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.94249 -29.03567 -0.31 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.94223 -29.03709 -0.34 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.94245 -29.03773 -0.35 258.69
+OBJECT_SHARED Models/lib/watertank3x1.ac 167.94019 -29.03875 -0.28 170.134
+OBJECT_SHARED Models/lib/watertank3x1.ac 167.93994 -29.03862 -0.28 239.931
+OBJECT_SHARED Models/lib/industrial13x24.ac 167.94010 -29.03833 -0.28 243.587
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94028 -29.03871 -0.28 255.985
+OBJECT_SHARED Models/lib/MedHangar.ac 167.94173 -29.04177 -0.41 58.4558
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 167.94425 -29.03694 -95.41 0
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94426 -29.03602 -0.39 65.5561
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94414 -29.03642 -0.40 343.072
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94417 -29.03621 -0.40 157.38
+OBJECT_SHARED Models/lib/shed8x10.ac 167.94437 -29.03611 -0.40 156.038
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 167.94149 -29.03701 -95.30 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 167.94143 -29.03711 -95.30 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 167.94076 -29.03831 -95.32 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 167.94151 -29.03832 -0.36 359.919
+# END dsf2stg

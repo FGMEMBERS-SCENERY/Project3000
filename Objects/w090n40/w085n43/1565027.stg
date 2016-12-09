@@ -3,15 +3,9 @@
 #
 OBJECT_SHARED Models/lib/RampParking.xml -84.08263 43.53780 200.35 59.29
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -84.08150 43.53792 200.11 235.39
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -84.08239 43.53789 200.29 257.3
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -84.08209 43.53767 200.27 24.64
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -84.09010 43.53433 202.36 175.38
 OBJECT_SHARED Models/Aircraft/737virgin.xml -84.08925 43.53373 202.29 50.6
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -84.08925 43.53395 202.25 289.52
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -84.08950 43.53404 202.29 168.51
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -84.08996 43.53408 202.36 197.68
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -84.08949 43.53373 202.32 72.23
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -84.08238 43.53771 200.33 291.83
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -84.08278 43.53787 200.37 237.94
 OBJECT_SHARED Models/Aircraft/737virgin.xml -84.08191 43.53752 200.26 0
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -84.08273 43.52711 201.46 0

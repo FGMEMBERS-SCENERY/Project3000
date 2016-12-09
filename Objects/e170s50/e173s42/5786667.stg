@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 173.95872 -41.34290 -0.51 62.0732
+OBJECT_SHARED Models/lib/industrial13x24.ac 173.95967 -41.34240 -0.53 226.773
+OBJECT_SHARED Models/lib/coal_pile.ac 173.95894 -41.34263 -0.52 254.055
+OBJECT_SHARED Models/Misc/6barrels.ac 173.95935 -41.34279 -0.51 333.778
+OBJECT_SHARED Models/lib/coal_pile.ac 173.95851 -41.34327 -0.50 222.474
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 173.95889 -41.34299 -0.51 267.635
+OBJECT_SHARED Models/lib/transformer3x3.ac 173.95851 -41.34304 -0.51 73.474
+OBJECT_SHARED Models/lib/canopy38x8.ac 173.95946 -41.34423 -0.50 237.885
+# END dsf2stg

@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 23.42665 -19.97554 944.83 24.17
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 23.42411 -19.97644 944.31 270
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 23.42506 -19.97616 944.48 22.91
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 23.42488 -19.97580 944.50 112.38
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 23.42342 -19.97670 944.19 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 23.42128 -19.97760 943.88 359.33
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 23.43325 -19.97276 944.86 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 23.43302 -19.97287 944.84 61.21
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 23.43274 -19.97298 944.98 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 23.43251 -19.97308 945.00 60.98
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 23.43227 -19.97316 944.93 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 23.42201 -19.97695 944.46 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 23.42170 -19.97707 944.40 180
+OBJECT_SHARED Models/lib/lamp10m.xml 23.42541 -19.97612 944.49 -65
+OBJECT_SHARED Models/lib/lamp10m.xml 23.42597 -19.97589 944.49 -65
+OBJECT_SHARED Models/lib/lamp10m.xml 23.42643 -19.97569 944.61 -65
+OBJECT_SHARED Models/lib/lamp10m.xml 23.42809 -19.97498 945.08 -65
+OBJECT_SHARED Models/lib/lamp10m.xml 23.42689 -19.97550 944.67 -65
+OBJECT_SHARED Models/lib/office32x25.ac 23.42829 -19.97563 945.27 114.37
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 23.42889 -19.97541 945.45 25.04
+OBJECT_SHARED Models/lib/admin31x12.ac 23.42793 -19.97568 944.66 293.56
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 23.42818 -19.97517 945.10 203.67
+OBJECT_SHARED Models/lib/cube16x10.ac 23.42837 -19.97473 945.12 115.98
+OBJECT_SHARED Models/lib/SmHangar.ac 23.43332 -19.97333 945.08 294.63
+OBJECT_SHARED Models/lib/fboModern1.ac 23.43293 -19.97351 944.00 294.29
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 23.43756 -19.96606 941.25 204.61
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 23.42711 -19.97535 944.77 24.46
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 23.42619 -19.97574 944.73 24.73
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 23.42568 -19.97596 944.49 23
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 23.42743 -19.97511 944.97 205.64
+# END dsf2stg

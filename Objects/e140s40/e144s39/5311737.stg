@@ -27,8 +27,8 @@ OBJECT_SHARED Models/lib/SmHangar.ac 144.47174 -38.02688 10.79 175.378
 OBJECT_SHARED Models/lib/chariot4.ac 144.47345 -38.02728 10.90 263.1
 OBJECT_SHARED Models/lib/chariot4.ac 144.47291 -38.02722 10.92 263
 OBJECT_SHARED Models/lib/chariot4.ac 144.47242 -38.02720 10.72 263.91
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 144.47349 -38.02712 10.94 50.5
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 144.47163 -38.02701 10.77 357.5
+OBJECT_SHARED Models/lib/fuel-truck.xml 144.47349 -38.02712 10.94 50.5
+OBJECT_SHARED Models/lib/fuel-truck.xml 144.47163 -38.02701 10.77 357.5
 OBJECT_SHARED Models/lib/office40x25.ac 144.47452 -38.02675 11.40 263.91
 OBJECT_SHARED Models/lib/RampGroup.xml 144.47203 -38.02694 10.79 173.91
 OBJECT_SHARED Models/lib/RampGroup.xml 144.47257 -38.02700 10.96 172.8
@@ -71,7 +71,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.47231 -38.02616 10.95
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.47210 -38.02616 10.95 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.47195 -38.02615 10.95 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.47183 -38.02613 10.98 0
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 144.47546 -38.02734 11.29 137.6
+OBJECT_SHARED Models/lib/citation.ac 144.47546 -38.02734 11.29 137.6
 OBJECT_SHARED Models/Airport/egkk_oil.xml 144.47919 -38.02198 13.66 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 144.47247 -38.02631 10.93 92.11
 OBJECT_SHARED Models/Aircraft/B747.xml 144.48081 -38.02177 13.88 173.8

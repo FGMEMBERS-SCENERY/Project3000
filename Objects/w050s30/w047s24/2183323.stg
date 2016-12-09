@@ -53,8 +53,8 @@ OBJECT_SHARED Models/lib/deciduous-tree.xml -46.06849 -23.56591 749.75 0
 OBJECT_SHARED Models/Transport/hatchback_red.ac -46.06845 -23.56545 748.97 335
 OBJECT_SHARED Models/Transport/hatchback_red.ac -46.06832 -23.56657 751.98 335
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -46.06852 -23.56648 750.58 340
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.06816 -23.56520 748.71 335
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.06841 -23.56634 750.43 335
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.06816 -23.56520 748.71 155
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.06841 -23.56634 750.43 155
 OBJECT_SHARED Models/Transport/Norberttruck.xml -46.06877 -23.56526 748.69 162
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -46.06762 -23.56556 749.63 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -46.06850 -23.56510 748.48 0
@@ -129,10 +129,10 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -46.07613 -23.56117 744.11 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -46.07616 -23.56125 744.10 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -46.06795 -23.56599 750.14 340
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -46.06793 -23.56593 750.02 340
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.06772 -23.56540 749.24 65
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.06772 -23.56540 749.24 245
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -46.06815 -23.56533 748.89 158.81
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -46.06819 -23.56541 749.07 158.81
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -46.06777 -23.56578 749.96 160
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -46.06777 -23.56578 749.96 250
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -46.06838 -23.56586 749.80 339
 OBJECT_SHARED Models/lib/SmHangar.ac -46.06830 -23.56603 750.00 158
 OBJECT_SHARED Models/lib/SmHangar.ac -46.06855 -23.56519 748.61 163.17

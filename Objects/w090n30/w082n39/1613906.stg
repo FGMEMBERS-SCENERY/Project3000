@@ -19,7 +19,7 @@ OBJECT_SHARED Models/Airport/tower_small_airfield.xml -81.43402 39.34477 246.93 
 OBJECT_SHARED Models/lib/LongRow.ac -81.43297 39.34375 246.41 85.73
 OBJECT_SHARED Models/lib/LongRow.ac -81.43344 39.34380 246.62 85.73
 OBJECT_SHARED Models/lib/MedHangar.ac -81.43421 39.34378 246.93 83.66
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.43592 39.34571 248.10 252.91
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.43599 39.34567 248.16 252.91
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.43592 39.34571 248.10 252.91
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.43599 39.34567 248.16 252.91
 OBJECT_SHARED Models/lib/FireStationLg.ac -81.43602 39.34640 248.36 212.14
 # END dsf2stg

@@ -6,12 +6,12 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac 7.44539 53.27154 -0.47 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 7.44277 53.27125 -1.52 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 7.44358 53.27148 -1.30 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 7.44362 53.27134 -1.16 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.44153 53.27111 -2.07 9.62
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.44206 53.27113 -1.82 15.42
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.44589 53.27123 0.06 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.44153 53.27111 -2.07 189.62
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.44206 53.27113 -1.82 195.42
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.44589 53.27123 0.06 180
 OBJECT_SHARED Models/lib/stack_of_cones.ac 7.44574 53.27156 -0.41 0
 OBJECT_SHARED Models/lib/cars6.ac 7.44546 53.27129 -0.26 269.09
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.44357 53.27151 -1.30 98.9
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.44357 53.27151 -1.30 188.9
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.44468 53.27148 -0.80 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.44469 53.27139 -0.71 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.44463 53.27138 -0.74 0
@@ -20,6 +20,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 7.44460 53.27142 -0.75 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.44462 53.27147 -0.82 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.44457 53.27147 -0.85 0
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.44518 53.27126 -0.39 9.5
+OBJECT_SHARED Models/lib/admin31x12.ac 7.44451 53.27134 -0.72 10.59
 OBJECT_SHARED Models/lib/SmHangar.ac 7.44577 53.27128 -0.09 181.42
 OBJECT_SHARED Models/lib/SmHangar.ac 7.44577 53.27138 -0.19 181.14
 OBJECT_SHARED Models/lib/SmHangar.ac 7.44577 53.27148 -0.29 181.35

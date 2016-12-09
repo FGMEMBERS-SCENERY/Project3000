@@ -9,6 +9,7 @@ OBJECT_SHARED Models/lib/LongRow.ac 8.88260 46.16270 197.43 8.13
 OBJECT_SHARED Models/lib/LongRow.ac 8.88151 46.16259 197.24 8.13
 OBJECT_SHARED Models/lib/office6x12.ac 8.87963 46.16297 197.12 0
 OBJECT_SHARED Models/lib/office6x12.ac 8.87952 46.16296 197.10 0
+OBJECT_SHARED Models/lib/industrial13x24.ac 8.87953 46.16257 196.97 8.8
 OBJECT_SHARED Models/lib/SmHangar.ac 8.88134 46.16275 197.29 188.66
 OBJECT_SHARED Models/lib/6space_wStop.ac 8.88018 46.16226 196.95 276.56
 OBJECT_SHARED Models/lib/6space_wStop.ac 8.88040 46.16227 196.84 276.56
@@ -68,6 +69,6 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.88011 46.16285 197.15 8.70001
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.87992 46.16284 197.09 8.70001
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.87985 46.16283 197.08 8.70001
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.87955 46.16280 197.04 8.70001
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.88093 46.16236 197.09 219.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.88093 46.16236 197.09 39.5
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 8.88254 46.16199 197.04 6.91
 # END dsf2stg

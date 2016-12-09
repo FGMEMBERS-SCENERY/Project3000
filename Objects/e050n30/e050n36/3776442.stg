@@ -14,7 +14,7 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac 50.68283 36.90461 -19.51
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 50.68285 36.90463 -19.51 224.92
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 50.68288 36.90465 -19.58 235.48
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 50.68291 36.90467 -19.58 226.14
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 50.68281 36.90587 -20.06 49.49
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 50.68281 36.90587 -20.06 139.49
 OBJECT_SHARED Models/lib/MedHangar.ac 50.68023 36.91122 -23.12 48.46
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 50.68298 36.90478 -19.64 4.66
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 50.68253 36.90509 -19.56 3.85
@@ -39,7 +39,7 @@ OBJECT_SHARED Models/lib/4space_wStop.ac 50.68261 36.90412 -18.96 279.59
 OBJECT_SHARED Models/lib/cars6.ac 50.68242 36.90418 -18.95 137.2
 OBJECT_SHARED Models/lib/cars10.ac 50.68206 36.90445 -18.98 139.36
 OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml 50.68375 36.90409 -19.19 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 50.68241 36.90515 -19.48 139.76
+OBJECT_SHARED Models/lib/fuel-truck.xml 50.68241 36.90515 -19.48 139.76
 OBJECT_SHARED Models/Transport/Norberttruck.xml 50.68270 36.90414 -18.89 278.99
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 50.68401 36.90448 -20.51 359.3
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 50.68401 36.90450 -20.51 358.83

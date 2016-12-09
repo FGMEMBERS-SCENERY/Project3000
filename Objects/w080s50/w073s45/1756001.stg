@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -72.59284 -44.38278 14.52 242.21
+OBJECT_SHARED Models/lib/fuel-truck.xml -72.59284 -44.38278 14.52 242.21
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.59379 -44.38221 13.73 212.2
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.59457 -44.38278 11.64 255.697
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.59457 -44.38278 11.64 75.6969
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.59566 -44.38867 7.37 325.01
 OBJECT_SHARED Models/lib/cars7.ac -72.59300 -44.38315 14.33 166.08
 OBJECT_SHARED Models/lib/cars7.ac -72.59282 -44.38265 14.53 166.15

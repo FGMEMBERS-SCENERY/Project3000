@@ -28,8 +28,8 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 6.86300 51.61492 65.34 196.93
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.86294 51.61492 65.43 195.25
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.85873 51.61408 63.58 12.99
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.86129 51.61468 63.39 16
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.86046 51.61447 63.43 285.02
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.86225 51.61489 63.38 15.95
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.86046 51.61447 63.43 105.02
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.86225 51.61489 63.38 195.95
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 6.85623 51.61427 63.01 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 6.85719 51.61447 63.27 123.69
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 6.85753 51.61450 63.22 0
@@ -125,8 +125,10 @@ OBJECT_SHARED Models/lib/MedHangar.ac 6.86114 51.61454 63.48 287.86
 OBJECT_SHARED Models/lib/SmHangar.ac 6.86154 51.61466 63.41 286.51
 OBJECT_SHARED Models/lib/MedHangar.ac 6.86203 51.61479 63.40 287.01
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 6.86266 51.61491 63.40 196.94
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.86004 51.61507 63.17 16.07
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.86004 51.61507 63.17 106.07
 OBJECT_SHARED Models/lib/office16x4n.ac 6.85928 51.61311 64.79 322.99
 OBJECT_SHARED Models/lib/office16x4n.ac 6.85951 51.61357 64.50 143.37
 OBJECT_SHARED Models/lib/office16x4n.ac 6.85885 51.61347 64.57 235.88
+OBJECT_SHARED Models/lib/farm19x12.ac 6.85025 51.61395 61.71 82.56
+OBJECT_SHARED Models/lib/farm19x12.ac 6.85028 51.61411 61.57 82.56
 # END dsf2stg

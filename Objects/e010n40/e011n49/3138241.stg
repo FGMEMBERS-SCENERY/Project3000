@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.28645 49.06260 529.83 345.26
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.28645 49.06260 529.83 165.26
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28526 49.06257 530.30 43.92
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28523 49.06254 530.24 46.77
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28520 49.06252 530.24 50.92
@@ -13,7 +13,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 11.28512 49.06272 530.48 320.21
 OBJECT_SHARED Models/Misc/picnic_table.ac 11.28515 49.06273 530.48 323.64
 OBJECT_SHARED Models/Misc/picnic_table.ac 11.28509 49.06274 530.48 47.14
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.28507 49.06283 530.58 315.81
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.28517 49.06315 530.64 218.87
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.28517 49.06315 530.64 38.87
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28536 49.06322 530.74 317.33
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28551 49.06332 530.55 8.03
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.28547 49.06329 530.55 4.82001
@@ -36,6 +36,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28579 49.06348 530.22 101.1
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.28585 49.06342 530.51 329.83
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 11.28470 49.06284 530.75 46.82
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 11.28479 49.06279 530.71 227.38
+OBJECT_SHARED Models/lib/industrial13x24.ac 11.28499 49.06279 530.62 227.86
 OBJECT_SHARED Models/lib/office3x10.ac 11.28543 49.06334 530.51 315.13
 OBJECT_SHARED Models/lib/shed8x10.ac 11.28530 49.06326 530.46 44.88
 OBJECT_SHARED Models/lib/lamp10m.xml 11.28481 49.06296 530.87 315.28

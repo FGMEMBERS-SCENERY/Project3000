@@ -135,12 +135,12 @@ OBJECT_SHARED Models/lib/SmHangar.ac -76.41964 39.32340 3.05 181.424
 OBJECT_SHARED Models/lib/SmHangar.ac -76.41965 39.32321 2.96 178.963
 OBJECT_SHARED Models/lib/cars6.ac -76.42303 39.32869 1.52 25.0314
 OBJECT_SHARED Models/lib/cars10.ac -76.42289 39.32842 1.52 24.493
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.42048 39.32362 2.93 37.1508
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.42003 39.32458 3.38 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.41917 39.32377 3.25 56.3113
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.41952 39.32400 3.27 283.353
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.42137 39.32885 4.07 300.481
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.42119 39.32828 4.66 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.42048 39.32362 2.93 217.151
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.42003 39.32458 3.38 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.41917 39.32377 3.25 236.311
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.41952 39.32400 3.27 103.353
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.42137 39.32885 4.07 120.481
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.42119 39.32828 4.66 180
 OBJECT_SHARED Models/lib/LgMaint.ac -76.41792 39.33391 6.36 43.7633
 OBJECT_SHARED Models/lib/LgMaint.ac -76.41902 39.33474 6.89 44.1204
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -76.42126 39.33548 7.86 0
@@ -164,7 +164,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -76.42221 39.32883 2.37 0
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -76.42428 39.33069 5.09 330.803
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.42296 39.32892 1.76 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.42312 39.32895 1.82 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -76.42155 39.32868 4.57 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.42155 39.32868 4.57 0
 OBJECT_SHARED Models/lib/lamp10m.xml -76.42278 39.32882 1.79 270
 OBJECT_SHARED Models/lib/lamp10m.xml -76.42295 39.32876 1.70 270
 OBJECT_SHARED Models/lib/lamp10m.xml -76.42312 39.32871 1.44 270

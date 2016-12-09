@@ -21,8 +21,8 @@ OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 8.79446 41.91745 0.54 12.65
 OBJECT_SHARED Models/Aircraft/320volare.xml 8.79543 41.91901 0.43 19.69
 OBJECT_SHARED Models/Aircraft/320austrian.xml 8.79634 41.92093 0.54 15.75
 OBJECT_SHARED Models/lib/chariot3curve.ac 8.79528 41.91920 0.47 59.04
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.79303 41.91837 1.66 354.19
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.79299 41.91837 1.62 359.09
+OBJECT_SHARED Models/lib/fuel-truck.xml 8.79303 41.91837 1.66 354.19
+OBJECT_SHARED Models/lib/fuel-truck.xml 8.79299 41.91837 1.62 359.09
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.79138 41.92152 1.35 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.79170 41.92150 0.87 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.79153 41.92144 1.17 0
@@ -59,8 +59,9 @@ OBJECT_SHARED Models/lib/SmHangar.ac 8.79389 41.92235 1.14 267.14
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 8.79480 41.92081 1.99 242.9
 OBJECT_SHARED Models/lib/office40x25.ac 8.79316 41.91785 1.12 333.2
 OBJECT_SHARED Models/lib/office40x25.ac 8.79430 41.92121 0.84 333.57
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.79375 41.91843 1.98 243
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.79375 41.91843 1.98 333
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 8.79400 41.91861 1.77 -22.55
+OBJECT_SHARED Models/lib/admin31x12.ac 8.79366 41.91814 1.30 336.33
 OBJECT_SHARED Models/lib/FireStationLg.ac 8.79332 41.91837 2.18 66.72
 OBJECT_SHARED Models/lib/office32x25n.ac 8.80391 41.91973 0.68 155.59
 OBJECT_SHARED Models/lib/LgMaint.ac 8.80260 41.91833 -0.29 336.27

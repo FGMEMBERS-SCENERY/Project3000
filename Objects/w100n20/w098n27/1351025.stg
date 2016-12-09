@@ -1,0 +1,40 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50701 27.77721 -0.40 94.48
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50627 27.77699 -0.38 46.46
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50008 27.77769 -0.10 180
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50072 27.77181 -0.23 140
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50079 27.77121 -0.24 180
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50114 27.77158 -0.25 0
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50114 27.77120 -0.26 0
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50096 27.77109 -0.25 90
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50127 27.77219 -0.25 44.44
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50246 27.77218 -0.31 90
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50354 27.77375 -0.33 46.46
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50425 27.77430 -0.35 46.46
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50508 27.77502 -0.37 46.46
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50575 27.77558 -0.39 46.46
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50589 27.77668 -0.37 46.46
+OBJECT_SHARED Models/lib/lamp10m.xml -97.50616 27.77630 -0.39 -43.52
+OBJECT_SHARED Models/lib/HorizTanks2.ac -97.50612 27.77636 -0.39 316.48
+OBJECT_SHARED Models/lib/HorizTanks2.ac -97.50623 27.77626 -0.39 316.48
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -97.50605 27.77620 -0.39 226.48
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -97.50565 27.77593 -0.38 0
+OBJECT_SHARED Models/lib/MedHangar.ac -97.50431 27.77512 -0.34 44.48
+OBJECT_SHARED Models/lib/LgMaint.ac -97.50388 27.77403 -0.34 46.48
+OBJECT_SHARED Models/lib/office32x25n.ac -97.50004 27.77770 -0.10 180
+OBJECT_SHARED Models/lib/RampGroup.xml -97.50079 27.77172 -0.24 230
+OBJECT_SHARED Models/lib/RampGroup.xml -97.50079 27.77110 -0.24 270
+OBJECT_SHARED Models/lib/RampParking.xml -97.50127 27.77120 -0.27 90
+OBJECT_SHARED Models/lib/RampParking.xml -97.50127 27.77158 -0.26 90
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -97.50342 27.77173 -0.35 0
+OBJECT_SHARED Models/lib/fboModern1.ac -97.50609 27.77671 -0.38 46.48
+OBJECT_SHARED Models/lib/RampGroup.xml -97.50109 27.77109 -0.26 180
+OBJECT_SHARED Models/lib/LgMaint.ac -97.50540 27.77531 -0.38 46.48
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -97.50141 27.77158 -0.27 270.79
+OBJECT_SHARED Models/Aircraft/D328_services.xml -97.50510 27.77351 -0.40 224.09
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -97.50554 27.77390 -0.41 225.14
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -97.50627 27.77444 -0.43 133.11
+OBJECT_SHARED Models/lib/citation.ac -97.50670 27.77484 -0.44 134.14
+# END dsf2stg

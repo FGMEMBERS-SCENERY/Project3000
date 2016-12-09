@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52579 36.36220 155.54 130.75
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52619 36.36195 156.02 129.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52521 36.36223 154.54 81.8
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52677 36.36149 156.48 313.15
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52722 36.36128 156.37 130.91
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52708 36.36129 156.58 307.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52579 36.36220 155.54 310.75
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52619 36.36195 156.02 309.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52521 36.36223 154.54 261.8
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52677 36.36149 156.48 133.15
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52722 36.36128 156.37 310.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.52708 36.36129 156.58 127.3
 OBJECT_SHARED Models/lib/SmHangar.ac -78.52513 36.36222 154.16 38.26
 OBJECT_SHARED Models/lib/MedHangar.ac -78.52621 36.36177 156.57 308.79
 OBJECT_SHARED Models/lib/LongRow.ac -78.52761 36.36123 155.89 309.77

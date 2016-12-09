@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.83047 51.49144 186.31 148.13
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.83080 51.49097 185.04 338.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.83047 51.49144 186.31 328.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.83080 51.49097 185.04 158.91
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.82875 51.49119 182.71 152.97
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.82871 51.49120 182.71 154.22
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.82866 51.49122 182.71 327.84
@@ -53,8 +53,8 @@ OBJECT_SHARED Models/lib/transformer3x3.ac 10.82954 51.49142 184.74 242.51
 OBJECT_SHARED Models/lib/transformer3x3.ac 10.82952 51.49140 184.74 242.51
 OBJECT_SHARED Models/lib/transformer3x3.ac 10.82941 51.49146 184.96 62.73
 OBJECT_SHARED Models/lib/transformer3x3.ac 10.82939 51.49144 184.58 62.73
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.83062 51.49107 185.32 345.48
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.82993 51.49120 184.60 28.75
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.83062 51.49107 185.32 165.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.82993 51.49120 184.60 208.75
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.82931 51.49109 183.28 160.2
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.82936 51.49107 183.44 155.01
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.82941 51.49106 183.44 154.93

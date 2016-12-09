@@ -1,0 +1,6 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml -3.00003 16.73035 -0.22 115.5
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -3.00001 16.73032 -0.22 203.89
+# END dsf2stg

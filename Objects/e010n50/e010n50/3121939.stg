@@ -47,8 +47,8 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.99520 50.26517 454.26 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.99533 50.26522 454.34 341.565
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.99177 50.26487 447.29 277.328
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.99752 50.26359 448.31 78.3261
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.99653 50.26458 451.61 120.466
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.99367 50.26501 457.04 104.932
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.99653 50.26458 451.61 300.466
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.99367 50.26501 457.04 284.932
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.99263 50.26511 458.09 100.923
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.99448 50.26519 455.00 280.886
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.99544 50.26519 454.42 104.131
@@ -61,7 +61,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.99536 50.26507 455.10 
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.99312 50.26526 457.16 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.99217 50.26525 457.26 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.99189 50.26511 455.74 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.99437 50.26429 453.77 196.228
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.99437 50.26429 453.77 286.228
 OBJECT_SHARED Models/lib/cone.ac 10.99180 50.26488 447.29 0
 OBJECT_SHARED Models/lib/cone.ac 10.99364 50.26506 457.29 0
 OBJECT_SHARED Models/lib/cone.ac 10.99362 50.26499 457.12 0

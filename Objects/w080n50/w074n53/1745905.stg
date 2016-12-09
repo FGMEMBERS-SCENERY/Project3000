@@ -23,7 +23,7 @@ OBJECT_SHARED Models/Airport/cargoip.xml -73.67942 53.75603 298.06 0
 OBJECT_SHARED Models/Airport/cargoim.xml -73.67945 53.75602 298.06 0
 OBJECT_SHARED Models/lib/belt_loader.ac -73.67993 53.75599 297.47 16.14
 OBJECT_SHARED Models/Transport/hatchback_green.ac -73.68087 53.75619 295.59 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -73.68129 53.75511 296.78 74.02
+OBJECT_SHARED Models/lib/fuel-truck.xml -73.68129 53.75511 296.78 74.02
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -73.68018 53.75656 296.76 16.34
 OBJECT_SHARED Models/lib/lamp10m.xml -73.67805 53.75623 299.49 196.96
 OBJECT_SHARED Models/lib/lamp10m.xml -73.67892 53.75607 298.60 199.09

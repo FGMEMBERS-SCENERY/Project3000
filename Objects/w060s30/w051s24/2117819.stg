@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -50.23150 -23.02763 473.24 292.601
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -50.23176 -23.02813 475.88 26.3997
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -50.23150 -23.02763 473.24 22.6008
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -50.23176 -23.02813 475.88 206.4
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -50.23252 -23.02808 475.18 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -50.23251 -23.02784 473.42 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -50.23265 -23.02800 474.39 0

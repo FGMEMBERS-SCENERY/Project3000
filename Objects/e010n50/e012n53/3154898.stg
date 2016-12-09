@@ -3,12 +3,13 @@
 #
 OBJECT_SHARED Models/lib/SmHangar.ac 12.74285 53.29984 64.46 244.2
 OBJECT_SHARED Models/lib/transformer3x3.ac 12.73894 53.30150 63.51 104.44
+OBJECT_SHARED Models/lib/admin31x12.ac 12.73952 53.30154 63.43 285.69
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 12.74159 53.30211 64.17 12.79
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.74021 53.30192 63.75 12.34
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.73976 53.30182 63.55 14.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.74000 53.30186 63.65 11.04
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.74066 53.30054 64.17 11.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.74120 53.30040 64.21 340.2
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.73976 53.30182 63.55 194.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.74000 53.30186 63.65 191.04
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.74066 53.30054 64.17 191.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.74120 53.30040 64.21 160.2
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.73708 53.30241 64.22 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.73958 53.30135 63.53 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.73976 53.30141 63.61 0
@@ -19,7 +20,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 12.73917 53.30151 63.28 13.7
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.73916 53.30154 63.28 15.32
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.73923 53.30152 63.28 14.38
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.73922 53.30155 63.28 14.22
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.74103 53.30197 64.06 194.81
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.74103 53.30197 64.06 284.81
 OBJECT_SHARED Models/Transport/hatchback_red.ac 12.73925 53.30165 63.25 192.09
 OBJECT_SHARED Models/Transport/hatchback_red.ac 12.73730 53.30149 64.59 290.56
 OBJECT_SHARED Models/Transport/hatchback_red.ac 12.73875 53.30139 63.63 246.48

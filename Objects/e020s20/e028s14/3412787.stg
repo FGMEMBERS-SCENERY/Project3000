@@ -12,6 +12,7 @@ OBJECT_SHARED Models/lib/shed8x10.ac 28.42697 -13.14263 1252.77 179.78
 OBJECT_SHARED Models/lib/transformer3x3.ac 28.42883 -13.14235 1249.93 90.48
 OBJECT_SHARED Models/lib/transformer3x3.ac 28.42715 -13.14251 1252.61 91.91
 OBJECT_SHARED Models/Misc/picnic_table.ac 28.42727 -13.14250 1252.74 0
+OBJECT_SHARED Models/lib/admin31x12.ac 28.42722 -13.14240 1252.46 93.37
 OBJECT_SHARED Models/lib/stack_of_cones.ac 28.42755 -13.14236 1252.62 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 28.42716 -13.14247 1252.68 0
 # END dsf2stg

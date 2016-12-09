@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -105.89097 33.64940 -0.67 20.11
+OBJECT_SHARED Models/lib/lamp10m.xml -105.89161 33.64926 -0.69 -68.72
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -105.89254 33.64857 -0.72 292.16
+OBJECT_SHARED Models/lib/lamp10m.xml -105.89094 33.64940 -0.67 -69.8
+OBJECT_SHARED Models/lib/fuel-truck.xml -105.89004 33.64968 -0.64 112.96
+OBJECT_SHARED Models/lib/cone.ac -105.89137 33.64939 -0.67 326.59
+OBJECT_SHARED Models/lib/SmHangar.ac -105.89223 33.64878 -0.69 20.97
+OBJECT_SHARED Models/lib/SmHangar.ac -105.89218 33.64866 -0.69 20.97
+OBJECT_SHARED Models/lib/SmHangar.ac -105.89215 33.64898 -0.69 291.55
+OBJECT_SHARED Models/lib/SmHangar.ac -105.89189 33.64874 -0.69 200.86
+OBJECT_SHARED Models/lib/SmHangar.ac -105.89195 33.64886 -0.69 200.86
+OBJECT_SHARED Models/lib/cone.ac -105.89138 33.64941 -0.67 0
+OBJECT_SHARED Models/lib/admin31x12.ac -105.89150 33.64915 -0.67 113.69
+OBJECT_SHARED Models/lib/MedHangar.ac -105.89040 33.64948 -0.64 290.89
+OBJECT_SHARED Models/Airport/cargobox.xml -105.89127 33.64935 -0.67 33.9
+OBJECT_SHARED Models/Airport/cargoip.xml -105.89129 33.64934 -0.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -105.89130 33.64908 -0.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -105.89138 33.64905 -0.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -105.89146 33.64902 -0.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -105.89156 33.64899 -0.69 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -105.89100 33.64809 -0.69 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -105.89111 33.64827 -0.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -105.89134 33.64864 -0.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -105.89139 33.64873 -0.68 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -105.89132 33.64934 -0.67 303.93
+OBJECT_SHARED Models/lib/fuel-truck.xml -105.89212 33.64840 -0.70 255.64
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -105.89213 33.64848 -0.70 201.14
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -105.88970 33.65006 -0.63 19.42
+OBJECT_SHARED Models/lib/watertank3x1.ac -105.89078 33.64933 -0.67 13.561
+# END dsf2stg

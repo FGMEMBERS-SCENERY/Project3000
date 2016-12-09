@@ -1,11 +1,36 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars4.ac 13.02241 55.39483 0.54 142.875
-OBJECT_SHARED Models/lib/propane-tank.ac 13.02346 55.39451 0.46 55.6777
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.02203 55.39511 0.57 235.175
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.02436 55.39427 0.41 327.172
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.02303 55.39464 0.48 147.528
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.02405 55.39425 0.44 146.258
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.02365 55.39440 0.45 146.258
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.01169 55.43018 5.30 23.34
+OBJECT_SHARED Models/lib/shed8x10.ac 13.00717 55.42665 4.60 119.48
+OBJECT_SHARED Models/lib/office3x10.ac 13.00625 55.42715 4.52 29.58
+OBJECT_SHARED Models/lib/office3x10.ac 13.00617 55.42723 4.52 29.58
+OBJECT_SHARED Models/lib/office8x14.ac 13.00596 55.42749 4.51 117.38
+OBJECT_SHARED Models/lib/office6x12.ac 13.00632 55.42747 4.54 298.07
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.00617 55.42733 4.52 207.8
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.00652 55.42734 4.56 118.2
+OBJECT_SHARED Models/lib/SmHangar.ac 13.00622 55.42759 4.54 297.41
+OBJECT_SHARED Models/lib/LongRow.ac 13.01318 55.42453 4.83 130.73
+OBJECT_SHARED Models/lib/LongRow.ac 13.01340 55.42490 4.88 130.73
+OBJECT_SHARED Models/lib/shed10x50.ac 13.01218 55.42987 5.35 25.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.01167 55.42989 5.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.01143 55.42976 5.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.01221 55.42962 5.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.01206 55.42966 5.32 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.01172 55.42941 5.26 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.01156 55.42958 5.26 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.01219 55.42952 5.32 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.00699 55.42656 4.58 296.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.00685 55.42653 4.55 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.00683 55.42699 4.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.00678 55.42707 4.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.00672 55.42713 4.57 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.00657 55.42686 4.55 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.00637 55.42679 4.52 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.00639 55.42687 4.53 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.00630 55.42695 4.51 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.00699 55.42678 4.59 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.00636 55.42705 4.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.00619 55.42706 4.51 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.00641 55.42715 4.53 0
 # END dsf2stg

@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml -119.33365 52.85375 -0.52 291.98
+OBJECT_SHARED Models/lib/stack_of_cones.ac -119.33460 52.85361 -0.53 291.98
+OBJECT_SHARED Models/lib/cone.ac -119.33372 52.85383 -0.52 349.406
+OBJECT_SHARED Models/lib/cone.ac -119.33373 52.85383 -0.52 192.252
+OBJECT_SHARED Models/Transport/hatchback_red.ac -119.33370 52.85397 -0.52 201.98
+OBJECT_SHARED Models/Transport/hatchback_red.ac -119.33374 52.85396 -0.52 201.98
+OBJECT_SHARED Models/Transport/hatchback_red.ac -119.33378 52.85395 -0.52 201.98
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.33435 52.85382 -0.52 291.98
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -119.33430 52.85381 -0.52 291.98
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -119.33370 52.85390 -0.52 291.98
+OBJECT_SHARED Models/lib/watertank3x1.ac -119.33368 52.85390 -0.52 291.98
+OBJECT_SHARED Models/lib/watertank3x1.ac -119.33369 52.85391 -0.52 291.98
+OBJECT_SHARED Models/Misc/6barrels.ac -119.33370 52.85386 -0.52 181.257
+OBJECT_SHARED Models/Misc/6barrels.ac -119.33371 52.85385 -0.52 356.68
+OBJECT_SHARED Models/lib/lamp10m.xml -119.33432 52.85383 -0.52 21.9797
+OBJECT_SHARED Models/lib/lamp10m.xml -119.33372 52.85384 -0.52 21.9797
+OBJECT_SHARED Models/lib/shed8x10.ac -119.33363 52.85381 -0.52 291.98
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -119.33460 52.85358 -0.53 201.98
+OBJECT_SHARED Models/lib/SmHangar.ac -119.33342 52.85282 -0.50 21.9797
+OBJECT_SHARED Models/lib/SmHangar.ac -119.33301 52.85220 -0.49 21.9797
+# END dsf2stg

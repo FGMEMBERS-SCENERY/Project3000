@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -121.67518 46.60601 320.64 18.08
+OBJECT_SHARED Models/lib/office16x4n.ac -121.67545 46.60595 320.61 150.41
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -121.67611 46.60519 320.27 248.29
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -121.67519 46.60629 320.75 67.32
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.67536 46.60572 320.54 128.16
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.67524 46.60577 320.57 132.27
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.67525 46.60580 320.57 232.76
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.67522 46.60586 320.61 171.47
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.67525 46.60640 320.76 180
+# END dsf2stg

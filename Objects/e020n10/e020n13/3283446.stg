@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 20.84823 13.84383 -0.11 358.147
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 20.84824 13.84454 -0.13 89.0452
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 20.85002 13.84404 -0.15 88.3138
+OBJECT_SHARED Models/lib/MedHangar.ac 20.84955 13.84408 -0.15 267.026
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 20.85022 13.84432 -0.16 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84988 13.84354 -0.15 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84951 13.84373 -0.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84944 13.84373 -0.13 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84937 13.84374 -0.13 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84942 13.84365 -0.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84958 13.84364 -0.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84977 13.84363 -0.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84979 13.84373 -0.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84981 13.84380 -0.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84982 13.84386 -0.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 20.84981 13.84395 -0.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 20.84974 13.84406 -0.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 20.84984 13.84404 -0.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 20.84982 13.84412 -0.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 20.84975 13.84414 -0.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 20.84913 13.84408 -0.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 20.84750 13.84383 -0.10 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84762 13.84389 -0.10 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84783 13.84398 -0.11 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84831 13.84398 -0.12 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84838 13.84398 -0.12 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84709 13.84391 -0.09 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84702 13.84392 -0.09 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84698 13.84396 -0.09 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 20.84703 13.84401 -0.09 0
+OBJECT_SHARED Models/lib/SmHangar.ac 20.84690 13.84423 -0.10 266.519
+OBJECT_SHARED Models/lib/fuel-truck.xml 20.85037 13.84441 -0.17 266.27
+# END dsf2stg

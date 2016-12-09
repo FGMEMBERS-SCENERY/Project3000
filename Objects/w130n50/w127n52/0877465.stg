@@ -3,6 +3,7 @@
 #
 OBJECT_SHARED Models/lib/lamp10m.xml -126.58668 52.38758 41.12 270
 OBJECT_SHARED Models/lib/lamp10m.xml -126.58656 52.38737 25.33 270
+OBJECT_SHARED Models/lib/propane-tank.ac -126.58661 52.38785 41.11 20.77
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -126.58775 52.38768 40.56 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -126.58695 52.38777 41.12 0
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -126.58674 52.38784 41.12 0
@@ -33,9 +34,9 @@ OBJECT_SHARED Models/lib/lamp10m.xml -126.58597 52.38767 12.30 270
 OBJECT_SHARED Models/lib/lamp10m.xml -126.58589 52.38753 1.75 270
 OBJECT_SHARED Models/lib/cars10.ac -126.58592 52.38735 0.00 108.62
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -126.58738 52.38797 41.10 198.8
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -126.58663 52.38807 41.10 111.22
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -126.58663 52.38807 41.10 291.22
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -126.58850 52.38778 40.58 287.57
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -126.58657 52.38793 41.11 98.75
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -126.58657 52.38793 41.11 278.75
 OBJECT_SHARED Models/lib/deciduous-tree.xml -126.58788 52.38750 40.53 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml -126.58791 52.38754 40.53 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml -126.58792 52.38759 40.55 0
@@ -49,7 +50,8 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac -126.58660 52.38856 41.07 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -126.58646 52.38788 21.34 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -126.58678 52.38783 41.12 286.19
 OBJECT_SHARED Models/Misc/picnic_table.ac -126.58685 52.38781 41.12 19.65
+OBJECT_SHARED Models/lib/vending-machine.ac -126.58668 52.38783 41.12 110.11
 OBJECT_SHARED Models/lib/MedHangar.ac -126.58749 52.38792 41.11 288.48
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -126.58709 52.38780 41.12 291.8
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -126.58709 52.38780 41.12 21.8
 OBJECT_SHARED Models/lib/MedHangar.ac -126.58831 52.38775 40.56 288.1
 # END dsf2stg

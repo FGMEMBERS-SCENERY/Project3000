@@ -12,7 +12,7 @@ OBJECT_SHARED Models/lib/LongRow.ac -86.00652 31.86214 117.23 20.17
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -86.00793 31.86110 116.53 347.3
 OBJECT_SHARED Models/lib/HorizTanks2.ac -86.01313 31.85475 115.31 169.73
 OBJECT_SHARED Models/lib/HorizTanks2.ac -86.01311 31.85483 115.31 169.73
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -86.01277 31.85641 115.68 351.3
+OBJECT_SHARED Models/lib/fuel-truck.xml -86.01277 31.85641 115.68 351.3
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -86.00887 31.86716 16.86 0
 OBJECT_SHARED Models/lib/farm19x12.ac -86.01299 31.85588 115.64 258.904
 OBJECT_SHARED Models/lib/office16x4n.ac -86.00696 31.86067 114.79 92.9927

@@ -2,9 +2,9 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -41.18885 -20.83700 74.58 278.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -41.18900 -20.83688 78.12 282.2
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -41.18900 -20.83688 78.12 102.2
 OBJECT_SHARED Models/lib/SmHangar.ac -41.18609 -20.83585 74.58 326.86
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -41.18892 -20.83636 79.34 50.93
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -41.18892 -20.83636 79.34 140.93
 OBJECT_SHARED Models/lib/MedHangar.ac -41.18635 -20.83609 75.34 325.86
 OBJECT_SHARED Models/lib/deciduous-tree.xml -41.18812 -20.83532 80.44 286.7
 OBJECT_SHARED Models/lib/deciduous-tree.xml -41.18856 -20.83567 80.40 354.29
@@ -95,7 +95,7 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac -41.18807 -20.83551 81.30 297.78
 OBJECT_SHARED Models/Transport/hatchback_red.ac -41.18813 -20.83566 79.55 113.98
 OBJECT_SHARED Models/Transport/hatchback_red.ac -41.18816 -20.83564 81.48 113.98
 OBJECT_SHARED Models/Transport/hatchback_red.ac -41.18819 -20.83562 81.48 113.98
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -41.18900 -20.83590 78.96 321.01
+OBJECT_SHARED Models/lib/fuel-truck.xml -41.18900 -20.83590 78.96 321.01
 OBJECT_SHARED Models/lib/2vending-machines.ac -41.18836 -20.83588 81.69 322.02
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -41.18837 -20.83588 81.69 140.17
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -41.18830 -20.83581 81.88 140.53

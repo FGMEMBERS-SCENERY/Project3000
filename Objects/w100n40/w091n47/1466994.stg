@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.38304 47.83731 545.91 84.0075
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.37645 47.83524 531.52 169.919
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.37758 47.83533 533.23 170.311
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.38304 47.83731 545.91 264.007
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.37645 47.83524 531.52 349.919
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.37758 47.83533 533.23 350.311
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -90.37960 47.83554 534.95 172.504
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -90.37588 47.83519 530.95 169.38
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -90.38448 47.83637 543.70 17.0308
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -90.38485 47.83644 543.73 297.125
+OBJECT_SHARED Models/lib/fuel-truck.xml -90.38485 47.83644 543.73 297.125
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -90.38467 47.83642 543.72 46.4013
 OBJECT_SHARED Models/Transport/hatchback_red.ac -90.38390 47.83591 541.69 87.7974
 OBJECT_SHARED Models/Transport/hatchback_red.ac -90.38391 47.83586 541.69 91.7899
@@ -18,9 +18,9 @@ OBJECT_SHARED Models/lib/lamp10m.xml -90.38310 47.83620 542.52 -6.45001
 OBJECT_SHARED Models/lib/cars4.ac -90.38312 47.83613 542.11 265.04
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.38280 47.83576 540.82 84.29
 OBJECT_SHARED Models/lib/office3x10.ac -90.38206 47.83565 539.46 84.7
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.38485 47.83729 546.90 354.791
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.38473 47.83693 545.67 353.912
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -90.38400 47.83650 544.03 84.1046
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.38485 47.83729 546.90 174.791
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -90.38473 47.83693 545.67 173.912
+OBJECT_SHARED Models/lib/fuel-truck.xml -90.38400 47.83650 544.03 84.1046
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -90.38346 47.83648 543.84 85.8699
 OBJECT_SHARED Models/lib/MedHangar.ac -90.38390 47.83613 542.47 174.83
 OBJECT_SHARED Models/lib/cars10.ac -90.38308 47.83641 543.33 264.73

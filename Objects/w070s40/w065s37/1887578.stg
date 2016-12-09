@@ -2,8 +2,8 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/HorizTanks2.ac -64.27933 -36.59348 188.60 255.53
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -64.27922 -36.59352 188.50 153.46
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -64.27945 -36.59347 188.81 179.72
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -64.27922 -36.59352 188.50 243.46
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -64.27945 -36.59347 188.81 269.72
 OBJECT_SHARED Models/Trees/billboard-tree.xml -64.28059 -36.59156 190.93 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -64.28059 -36.59133 191.09 180
 OBJECT_SHARED Models/Trees/billboard-tree.xml -64.28056 -36.59118 191.14 0

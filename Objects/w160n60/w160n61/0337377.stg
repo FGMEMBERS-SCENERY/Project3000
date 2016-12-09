@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial15x22.ac -159.53251 61.57462 21.35 55.62
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -159.53185 61.57492 19.63 239.24
+OBJECT_SHARED Models/Transport/Norberttruck.xml -159.53267 61.57491 23.25 153.48
+OBJECT_SHARED Models/Transport/hatchback_black.ac -159.53272 61.57468 21.98 315.43
+OBJECT_SHARED Models/Transport/hatchback_red.ac -159.53193 61.57477 18.70 163.69
+OBJECT_SHARED Models/Transport/hatchback_red.ac -159.53159 61.57502 20.55 28.98
+OBJECT_SHARED Models/Transport/hatchback_red.ac -159.53163 61.57491 19.63 253.57
+OBJECT_SHARED Models/Transport/hatchback_red.ac -159.53181 61.57476 18.70 354.6
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -159.53536 61.57380 19.91 145.39
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -159.53793 61.57347 22.39 15.54
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -159.53879 61.57373 21.27 10.79
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -159.53412 61.57502 20.63 108.71
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -159.53366 61.57542 22.16 108.98
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -159.53324 61.57579 24.82 151.67
+OBJECT_SHARED Models/lib/stack_of_cones.ac -159.53413 61.57505 20.63 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -159.53527 61.57425 20.85 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -159.53885 61.57430 21.13 61.66
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -159.53908 61.57430 21.13 237.24
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -159.53733 61.57378 23.19 242.47
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -159.53697 61.57409 23.92 241.11
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -159.53772 61.57454 21.39 251.82
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -159.53857 61.57450 21.09 51.83
+OBJECT_SHARED Models/lib/fuel-truck.xml -159.53380 61.57537 22.16 329.44
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -159.53443 61.57444 19.21 239.2
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -159.53541 61.57383 19.91 324.7
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -159.53743 61.57387 23.44 238.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -159.53812 61.57424 21.46 67.34
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -159.53898 61.57419 21.16 62.88
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -159.53348 61.57572 24.96 333.08
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -159.53376 61.57550 22.79 149.88
+OBJECT_SHARED Models/lib/citation.ac -159.53436 61.57512 20.86 73.14
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -159.53481 61.57447 21.66 39.85
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -159.53402 61.57554 22.79 127.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -159.53442 61.57496 20.63 255.83
+OBJECT_SHARED Models/lib/office16x4n.ac -159.53502 61.57418 20.85 241.99
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -159.53797 61.57348 22.39 282.07
+OBJECT_SHARED Models/Transport/hatchback_red.ac -159.53900 61.57381 21.25 270
+OBJECT_SHARED Models/Transport/hatchback_red.ac -159.53860 61.57357 21.29 62.78
+OBJECT_SHARED Models/Transport/hatchback_red.ac -159.53854 61.57362 21.29 304.33
+OBJECT_SHARED Models/lib/SmHangar.ac -159.53811 61.57353 22.39 239.68
+OBJECT_SHARED Models/lib/SmHangar.ac -159.53863 61.57371 21.27 237.59
+OBJECT_SHARED Models/lib/SmHangar.ac -159.53886 61.57378 21.25 237.59
+OBJECT_SHARED Models/lib/SmHangar.ac -159.53536 61.57420 20.85 331.44
+OBJECT_SHARED Models/lib/SmHangar.ac -159.53540 61.57372 19.72 330.84
+OBJECT_SHARED Models/lib/MedHangar.ac -159.53391 61.57526 21.53 330.28
+OBJECT_SHARED Models/lib/MedHangar.ac -159.53346 61.57563 25.11 330.28
+# END dsf2stg

@@ -3,5 +3,5 @@
 #
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -121.39615 41.99884 1234.36 183.64
 OBJECT_SHARED Models/lib/SmHangar.ac -121.39618 41.99869 1234.31 177.5
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -121.39642 41.99845 1234.16 88.47
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -121.39642 41.99845 1234.16 178.47
 # END dsf2stg

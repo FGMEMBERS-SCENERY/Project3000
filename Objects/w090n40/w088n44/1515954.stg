@@ -1,21 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -87.42379 44.84213 219.87 260.36
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -87.42379 44.84213 219.87 350.36
 OBJECT_SHARED Models/lib/SmHangar.ac -87.42614 44.84099 219.04 348.86
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -87.42382 44.84214 219.87 -11.9
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -87.42384 44.84227 219.77 79.6
+OBJECT_SHARED Models/lib/fuel-truck.xml -87.42384 44.84227 219.77 79.6
 OBJECT_SHARED Models/Transport/hatchback_red.ac -87.42471 44.84248 219.84 347.2
 OBJECT_SHARED Models/Transport/hatchback_red.ac -87.42466 44.84248 219.84 347.2
 OBJECT_SHARED Models/Transport/hatchback_red.ac -87.42476 44.84249 219.85 347.01
 OBJECT_SHARED Models/Transport/hatchback_red.ac -87.42480 44.84249 219.85 348.47
 OBJECT_SHARED Models/Transport/hatchback_red.ac -87.42483 44.84250 219.85 347.59
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.42432 44.84157 219.65 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.42451 44.84160 219.67 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.42432 44.84157 219.65 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.42451 44.84160 219.67 180
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -87.42499 44.84096 219.65 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -87.42506 44.84077 219.63 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -87.42494 44.84114 219.65 153.44
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.42473 44.84163 219.70 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.42473 44.84163 219.70 180
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -87.42500 44.84170 219.75 0
 OBJECT_SHARED Models/Aircraft/ATR42.xml -87.42623 44.83758 218.83 186.16
 OBJECT_SHARED Models/Aircraft/ATR42.xml -87.42566 44.83700 219.17 237.6

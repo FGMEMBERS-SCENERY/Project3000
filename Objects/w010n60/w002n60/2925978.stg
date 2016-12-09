@@ -21,11 +21,11 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac -1.29545 60.43745 11.26 
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -1.29587 60.43752 11.61 158.04
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -1.29498 60.43733 11.16 158.04
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -1.29453 60.43724 10.91 158.04
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -1.29475 60.43653 12.06 335.035
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -1.29465 60.43653 11.97 317.05
+OBJECT_SHARED Models/lib/fuel-truck.xml -1.29475 60.43653 12.06 335.035
+OBJECT_SHARED Models/lib/fuel-truck.xml -1.29465 60.43653 11.97 317.05
 OBJECT_SHARED Models/lib/HorizTanks2.ac -1.29447 60.43646 11.81 65.7
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.29586 60.43685 12.61 163.5
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -1.29832 60.43681 14.56 268.38
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.29586 60.43685 12.61 343.5
+OBJECT_SHARED Models/lib/citation.ac -1.29832 60.43681 14.56 268.38
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -1.29855 60.43721 14.11 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -1.29774 60.43697 13.85 200.83
 OBJECT_SHARED Models/Aircraft/D328_services.xml -1.29194 60.43635 9.87 90

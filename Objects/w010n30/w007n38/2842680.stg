@@ -7,8 +7,8 @@ OBJECT_SHARED Models/lib/MedHangar.ac -6.81997 38.89460 177.74 53.24
 OBJECT_SHARED Models/lib/LongRow.ac -6.82089 38.88322 183.25 352.93
 OBJECT_SHARED Models/lib/fboModern1.ac -6.81907 38.88312 183.50 262.67
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -6.81496 38.88370 183.10 16.82
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -6.82496 38.88410 96.15 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -6.82492 38.88441 96.38 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -6.82496 38.88410 86.15 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -6.82492 38.88441 86.38 0
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -6.82525 38.88429 181.50 84.6
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.81702 38.88415 183.34 217.22
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.81834 38.88428 183.15 217.22

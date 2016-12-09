@@ -5,7 +5,8 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.90980 36.02740 130.9
 OBJECT_SHARED Models/Transport/hatchback_red.ac -120.90761 36.02417 133.44 297.65
 OBJECT_SHARED Models/Transport/hatchback_red.ac -120.90978 36.02643 130.89 141.1
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -120.90931 36.02629 132.21 209.41
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.90912 36.02665 132.23 118.18
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.90912 36.02665 132.23 208.18
+OBJECT_SHARED Models/lib/farm19x12.ac -120.90956 36.02639 130.89 29.87
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -120.90813 36.02534 133.49 30.08
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -120.90816 36.02537 133.51 29.65
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -120.90818 36.02539 133.51 29.02

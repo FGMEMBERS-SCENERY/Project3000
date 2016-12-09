@@ -34,10 +34,10 @@ OBJECT_SHARED Models/lib/cone.ac -1.72697 48.06871 35.61 0
 OBJECT_SHARED Models/lib/cone.ac -1.72466 48.06851 35.58 270
 OBJECT_SHARED Models/lib/cone.ac -1.72475 48.06852 35.58 243.43
 OBJECT_SHARED Models/lib/cone.ac -1.72484 48.06853 35.58 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -1.72343 48.06828 35.52 79.99
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -1.72392 48.06802 35.68 298.01
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -1.72394 48.06808 35.43 302.11
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.72801 48.06772 35.14 88.09
+OBJECT_SHARED Models/lib/fuel-truck.xml -1.72343 48.06828 35.52 79.99
+OBJECT_SHARED Models/lib/fuel-truck.xml -1.72392 48.06802 35.68 298.01
+OBJECT_SHARED Models/lib/fuel-truck.xml -1.72394 48.06808 35.43 302.11
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.72801 48.06772 35.14 268.09
 OBJECT_SHARED Models/lib/container6.ac -1.72470 48.06844 35.54 255.51
 OBJECT_SHARED Models/lib/container6.ac -1.72820 48.06345 33.52 226.68
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -1.72955 48.06440 33.78 241.7
@@ -71,9 +71,9 @@ OBJECT_SHARED Models/lib/belt_loader.ac -1.72723 48.06876 35.64 -76.6
 OBJECT_SHARED Models/lib/belt_loader.ac -1.72731 48.06877 35.63 -72.35
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -1.72302 48.06866 35.69 78.92
 OBJECT_SHARED Models/Aircraft/737virgin.xml -1.72197 48.07288 37.25 350.61
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.73438 48.06222 33.01 120.25
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.73452 48.06233 33.04 126.03
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -1.72963 48.06977 35.82 348.23
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.73438 48.06222 33.01 300.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.73452 48.06233 33.04 306.03
+OBJECT_SHARED Models/lib/citation.ac -1.72963 48.06977 35.82 348.23
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -1.72830 48.06916 35.73 40.24
 OBJECT_SHARED Models/lib/MedHangar.ac -1.73493 48.06191 32.92 214.66
 OBJECT_SHARED Models/lib/MedHangar.ac -1.73511 48.06248 33.09 126.87

@@ -2,14 +2,14 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/fboModern1.ac -74.52841 49.77837 388.54 151.571
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -74.52799 49.77886 388.26 62.27
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -74.52799 49.77886 388.26 152.27
 OBJECT_SHARED Models/lib/lamp10m.xml -74.52796 49.77890 388.26 193.04
 OBJECT_SHARED Models/Misc/picnic_table.ac -74.52836 49.77856 388.76 332.02
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -74.52837 49.77854 388.73 0
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -74.52677 49.77867 387.00 60.63
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -74.52704 49.77846 387.07 61.7
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -74.52806 49.77992 389.25 185.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -74.52868 49.77932 389.40 268.38
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -74.52806 49.77992 389.25 5.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -74.52868 49.77932 389.40 88.38
 OBJECT_SHARED Models/lib/SmHangar.ac -74.52813 49.77997 389.34 151.22
 OBJECT_SHARED Models/lib/SmHangar.ac -74.52836 49.77971 389.42 150.84
 OBJECT_SHARED Models/lib/lamp10m.xml -74.52840 49.77857 388.76 242.35

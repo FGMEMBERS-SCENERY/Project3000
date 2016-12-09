@@ -24,9 +24,9 @@ OBJECT_SHARED Models/lib/SmHangar.ac -81.81575 38.93259 218.07 324.79
 OBJECT_SHARED Models/lib/SmHangar.ac -81.81559 38.93276 221.81 324.32
 OBJECT_SHARED Models/lib/SmHangar.ac -81.81544 38.93293 213.45 324.27
 OBJECT_SHARED Models/lib/MedHangar.ac -81.81518 38.93363 191.13 325.77
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -81.81527 38.93383 218.51 59.53
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -81.81527 38.93383 218.51 149.53
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -81.81484 38.93330 180.00 53.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.81516 38.93376 207.41 330.95
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.81516 38.93376 207.41 150.95
 OBJECT_SHARED Models/Trees/billboard-tree.xml -81.81550 38.93182 224.99 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -81.81693 38.93167 223.90 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -81.81684 38.93189 224.11 0

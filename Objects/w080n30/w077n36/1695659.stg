@@ -35,6 +35,8 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml -76.24838 36.74504 4.98 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -76.24840 36.74509 4.98 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -76.24844 36.74517 4.98 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -76.24846 36.74524 4.98 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.24853 36.74561 4.98 104.83
 OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -76.24873 36.74559 4.98 16.39
 OBJECT_SHARED Models/lib/shed8x10.ac -76.24956 36.74519 4.98 68.82
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.24742 36.74566 4.98 197.26
 # END dsf2stg

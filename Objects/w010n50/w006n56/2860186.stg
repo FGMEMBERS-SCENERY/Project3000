@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -5.39776 56.46539 6.97 -40.34
+OBJECT_SHARED Models/lib/lamp10m.xml -5.39717 56.46547 7.53 -22.4
+OBJECT_SHARED Models/lib/lamp10m.xml -5.39743 56.46584 7.14 91.44
+OBJECT_SHARED Models/lib/lamp10m.xml -5.39714 56.46576 10.29 12.48
+OBJECT_SHARED Models/lib/lamp10m.xml -5.39711 56.46562 8.47 0.059998
+OBJECT_SHARED Models/lib/cars4.ac -5.39754 56.46664 6.71 359.01
+OBJECT_SHARED Models/lib/4space_wStop.ac -5.39732 56.46554 7.38 90
+OBJECT_SHARED Models/lib/cars6.ac -5.39746 56.46569 7.15 359.9
+OBJECT_SHARED Models/lib/cars6.ac -5.39713 56.46569 7.49 180
+OBJECT_SHARED Models/lib/cars6.ac -5.39713 56.46554 9.53 180
+OBJECT_SHARED Models/lib/cars4.ac -5.39725 56.46540 7.50 180.17
+OBJECT_SHARED Models/lib/cars6.ac -5.39761 56.46583 6.96 0.129997
+OBJECT_SHARED Models/lib/fuel-truck.xml -5.39801 56.46534 6.73 93.95
+OBJECT_SHARED Models/lib/chariot2.ac -5.39808 56.46528 6.65 1.52
+OBJECT_SHARED Models/lib/belt_loader.ac -5.39793 56.46514 6.92 270
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.39760 56.46538 7.13 270
+OBJECT_SHARED Models/lib/propane-tank.ac -5.39765 56.46527 7.12 1.17
+OBJECT_SHARED Models/lib/propane-tank.ac -5.39772 56.46527 7.05 1.17
+OBJECT_SHARED Models/lib/HorizTanks2.ac -5.39888 56.46201 6.54 33.63
+OBJECT_SHARED Models/lib/shed8x10.ac -5.39732 56.46774 6.62 8.35
+OBJECT_SHARED Models/lib/office3x10.ac -5.39717 56.46716 6.90 3.22
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -5.39731 56.46725 6.73 93.05
+OBJECT_SHARED Models/lib/office3x10.ac -5.39770 56.46581 6.86 270.34
+OBJECT_SHARED Models/lib/office3x10.ac -5.39734 56.46666 6.88 269.16
+OBJECT_SHARED Models/lib/office4x14.ac -5.39729 56.46656 6.97 180
+OBJECT_SHARED Models/lib/office3x10.ac -5.39836 56.46150 7.11 266.52
+OBJECT_SHARED Models/lib/NoParkStripes.xml -5.39845 56.46530 6.24 83.07
+# END dsf2stg

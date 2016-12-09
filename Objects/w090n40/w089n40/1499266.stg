@@ -14,9 +14,6 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.26906 40.04056 226.67
 OBJECT_SHARED Models/lib/cars10.ac -88.26895 40.04077 226.62 320.96
 OBJECT_SHARED Models/lib/cars6.ac -88.26930 40.04106 226.76 48.88
 OBJECT_SHARED Models/lib/RampParking.xml -88.26423 40.03581 226.26 137.58
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -88.26423 40.03598 226.23 334.71
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -88.26450 40.03616 226.21 312.58
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -88.26442 40.03627 226.19 229.18
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -88.26475 40.03598 226.27 287.69
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -88.27016 40.04020 226.89 91.16
 OBJECT_SHARED Models/lib/fboModern1.ac -88.26901 40.03887 226.27 43.92

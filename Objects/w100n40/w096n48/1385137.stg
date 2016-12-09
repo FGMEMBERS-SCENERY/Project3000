@@ -26,8 +26,8 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac -95.69776 48.85115 321.0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.69703 48.85106 321.01 283.24
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.69704 48.85110 321.01 267.07
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.69706 48.85115 321.01 289.42
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -95.69744 48.85120 321.01 102.58
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.69754 48.85129 321.00 192.53
+OBJECT_SHARED Models/lib/fuel-truck.xml -95.69744 48.85120 321.01 102.58
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.69754 48.85129 321.00 282.53
 OBJECT_SHARED Models/Transport/hatchback_red.ac -95.69770 48.85104 321.06 275.279
 OBJECT_SHARED Models/Transport/hatchback_red.ac -95.69771 48.85108 321.03 109.781
 OBJECT_SHARED Models/lib/LongRow.ac -95.69874 48.85047 321.18 101.17

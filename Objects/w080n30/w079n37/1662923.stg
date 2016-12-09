@@ -1,9 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.10099 37.18300 121.56 127.01
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.10149 37.18313 122.24 300.21
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.10099 37.18300 121.56 307.01
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.10149 37.18313 122.24 120.21
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.10160 37.18345 122.57 301
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.10180 37.18370 123.30 301
 OBJECT_SHARED Models/lib/shed10x50.ac -78.10125 37.18285 121.89 304.11
+OBJECT_SHARED Models/lib/industrial13x24.ac -78.10151 37.18294 123.74 124.59
 # END dsf2stg

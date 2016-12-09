@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.68232 55.59265 37.42 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.68232 55.59265 37.42 180
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.68309 55.59262 37.03 49.09
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 13.68205 55.59266 37.06 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.67700 55.59457 38.58 271.79
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.67700 55.59457 38.58 91.79
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.67835 55.59337 39.76 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.67801 55.59400 39.01 0
 OBJECT_SHARED Models/lib/shed8x10.ac 13.67752 55.59318 40.74 87.06

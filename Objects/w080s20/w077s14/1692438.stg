@@ -46,12 +46,12 @@ OBJECT_SHARED Models/Airport/FGRefuel02.xml -76.22454 -13.74602 6.66 249.16
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -76.22696 -13.74795 -85.51 257.34
 OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -76.22758 -13.74798 4.33 347.75
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -76.22764 -13.74775 4.11 346.6
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -76.22735 -13.74730 -81.22 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -76.22706 -13.74736 -80.96 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -76.22714 -13.74712 -81.07 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -76.22762 -13.74719 -81.50 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -76.22735 -13.74730 -91.22 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -76.22706 -13.74736 -90.96 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -76.22714 -13.74712 -91.07 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -76.22762 -13.74719 -91.50 0
 OBJECT_SHARED Models/Airport/egkk_oil.xml -76.22697 -13.74665 4.51 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -76.22736 -13.74652 -81.56 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -76.22736 -13.74652 -91.56 0
 OBJECT_SHARED Models/Airport/egkk_oil.xml -76.22652 -13.74717 5.53 0
 OBJECT_SHARED Models/Airport/egkk_oil.xml -76.22641 -13.74674 5.81 0
 # END dsf2stg

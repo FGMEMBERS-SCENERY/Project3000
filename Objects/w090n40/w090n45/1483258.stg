@@ -3,8 +3,8 @@
 #
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -89.26296 45.93284 499.00 270
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -89.26294 45.93415 499.00 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.26229 45.93268 498.99 0
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -89.26232 45.93299 498.99 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.26229 45.93268 498.99 180
+OBJECT_SHARED Models/lib/citation.ac -89.26232 45.93299 498.99 0
 OBJECT_SHARED Models/lib/SmHangar.ac -89.26827 45.93580 496.05 311.85
 OBJECT_SHARED Models/lib/SmHangar.ac -89.26795 45.93558 496.36 313.93
 OBJECT_SHARED Models/lib/SmHangar.ac -89.26773 45.93542 496.67 315.39

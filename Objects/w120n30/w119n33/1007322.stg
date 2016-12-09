@@ -13,8 +13,8 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac -118.41467 33.40329 476.
 OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -118.41545 33.40207 474.79 266.5
 OBJECT_SHARED Models/lib/canopy38x8.ac -118.41508 33.40322 476.66 305
 OBJECT_SHARED Models/lib/deciduous-tree.xml -118.41488 33.40291 476.27 72
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -118.41563 33.40314 478.17 36.5
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -118.41530 33.40384 477.10 215.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -118.41563 33.40314 478.17 216.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -118.41530 33.40384 477.10 35.5
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -118.41548 33.40368 477.04 216.51
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -118.41502 33.40295 476.42 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41473 33.40185 474.00 0

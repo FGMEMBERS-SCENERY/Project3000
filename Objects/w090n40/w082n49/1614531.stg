@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -81.00568 49.10483 -0.35 62.4111
+OBJECT_SHARED Models/lib/SmHangar.ac -81.00645 49.10472 -0.37 150.026
+OBJECT_SHARED Models/lib/SmHangar.ac -81.00628 49.10492 -0.37 150.026
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.00518 49.10401 -0.33 61.1578
+OBJECT_SHARED Models/lib/lamp10m.xml -81.00656 49.10437 -0.37 323.747
+OBJECT_SHARED Models/lib/lamp10m.xml -81.00574 49.10411 -0.34 328.571
+OBJECT_SHARED Models/lib/lamp10m.xml -81.00505 49.10421 -0.33 59.0356
+OBJECT_SHARED Models/lib/lamp10m.xml -81.00481 49.10458 -0.33 147.995
+OBJECT_SHARED Models/lib/lamp10m.xml -81.00558 49.10484 -0.35 149.932
+OBJECT_SHARED Models/lib/lamp10m.xml -81.00615 49.10504 -0.36 160.018
+OBJECT_SHARED Models/lib/lamp10m.xml -81.00674 49.10461 -0.37 235.175
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.00598 49.10427 -0.35 153.435
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.00647 49.10443 -0.37 149.621
+# END dsf2stg

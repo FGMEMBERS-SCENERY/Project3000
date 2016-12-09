@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -95.96638 45.57035 344.80 270.603
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.96776 45.57105 344.17 297.98
+OBJECT_SHARED Models/lib/fuel-truck.xml -95.96638 45.57035 344.80 270.603
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.96776 45.57105 344.17 117.98
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -95.96702 45.57116 344.55 267.614
 OBJECT_SHARED Models/lib/propane-tank.ac -95.97021 45.57099 343.63 0.567268
 OBJECT_SHARED Models/lib/propane-tank.ac -95.96953 45.57103 344.00 359.493
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.97044 45.57014 343.49 359.978
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.97044 45.57014 343.49 179.978
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.96869 45.57073 344.00 91.5482
 OBJECT_SHARED Models/lib/MedHangar.ac -95.97026 45.57061 343.56 90.1715
 OBJECT_SHARED Models/lib/MedHangar.ac -95.96949 45.57061 343.99 90
 OBJECT_SHARED Models/lib/LongRow.ac -95.96679 45.57057 344.68 119.173
 OBJECT_SHARED Models/lib/LongRow.ac -95.96761 45.57056 344.39 119.16
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.96842 45.57062 344.07 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.96842 45.57062 344.07 90
 OBJECT_SHARED Models/lib/cone.ac -95.96606 45.56965 344.83 180
 OBJECT_SHARED Models/lib/cone.ac -95.96647 45.56993 344.80 0
 OBJECT_SHARED Models/lib/cone.ac -95.96697 45.56908 344.51 180

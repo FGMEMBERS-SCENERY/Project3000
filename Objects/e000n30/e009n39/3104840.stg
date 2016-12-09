@@ -2,17 +2,17 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/lamp10m.xml 9.06380 39.24848 5.36 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.06311 39.24887 4.29 210.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.06311 39.24887 4.29 30.13
 OBJECT_SHARED Models/Aircraft/D328_services.xml 9.06143 39.24853 2.49 222.03
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 9.06064 39.24921 2.74 133.61
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.06231 39.24993 1.35 295.02
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.06271 39.24986 2.81 29.96
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.06253 39.24964 2.16 303.07
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.06231 39.24993 1.35 295.02
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.06271 39.24986 2.81 29.96
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.06253 39.24964 2.16 303.07
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.06482 39.24691 3.28 213.18
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.06495 39.24694 3.37 215.91
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.06372 39.24861 5.43 122.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.06503 39.24702 3.60 218.11
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 9.06474 39.24679 3.05 216.12
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.06503 39.24702 3.60 38.11
+OBJECT_SHARED Models/lib/citation.ac 9.06474 39.24679 3.05 216.12
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 9.06430 39.24760 4.18 27.9
 OBJECT_SHARED Models/lib/office40x25.ac 9.05350 39.24512 0.42 146.62
 OBJECT_SHARED Models/lib/office32x25n.ac 9.05279 39.24357 0.45 236.69

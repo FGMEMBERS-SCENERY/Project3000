@@ -3,11 +3,12 @@
 #
 OBJECT_SHARED Models/lib/farm19x12.ac 14.19195 42.43429 10.14 332.13
 OBJECT_SHARED Models/lib/SmHangar.ac 14.19194 42.43451 10.08 335.76
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 14.17682 42.42201 15.42 324.14
+OBJECT_SHARED Models/lib/industrial15x22.ac 14.19026 42.43309 10.41 142.85
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 14.17682 42.42201 15.42 54.14
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 14.17640 42.42173 15.59 137.01
 OBJECT_SHARED Models/lib/office32x25.ac 14.19452 42.43790 9.52 325.95
 OBJECT_SHARED Models/lib/SmHangar.ac 14.19375 42.43754 9.54 311.34
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 14.17618 42.42159 15.67 45
+OBJECT_SHARED Models/lib/fuel-truck.xml 14.17618 42.42159 15.67 45
 OBJECT_SHARED Models/lib/chariot1.ac 14.18820 42.43092 11.13 52.7
 OBJECT_SHARED Models/lib/caisses_group.ac 14.18875 42.43124 11.05 232.19
 OBJECT_SHARED Models/lib/chariot3curve.ac 14.18732 42.43015 11.41 279.44
@@ -18,9 +19,9 @@ OBJECT_SHARED Models/lib/container6.ac 14.18876 42.43095 11.18 232.35
 OBJECT_SHARED Models/lib/container1.ac 14.18904 42.43123 11.06 331.56
 OBJECT_SHARED Models/lib/belt_loader.ac 14.18750 42.43036 11.30 159.93
 OBJECT_SHARED Models/lib/belt_loader.ac 14.18782 42.43064 11.23 166.61
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 14.17602 42.42170 15.62 47.06
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 14.17664 42.42162 15.65 144.78
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 14.18681 42.43117 10.93 236
+OBJECT_SHARED Models/lib/fuel-truck.xml 14.17602 42.42170 15.62 47.06
+OBJECT_SHARED Models/lib/fuel-truck.xml 14.17664 42.42162 15.65 144.78
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 14.18681 42.43117 10.93 56
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 14.19000 42.43326 10.33 270
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.18400 42.42821 12.06 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.19367 42.43742 9.54 0

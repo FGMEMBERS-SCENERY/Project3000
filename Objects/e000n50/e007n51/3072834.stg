@@ -34,9 +34,11 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.60422 51.10030 470.48 
 OBJECT_SHARED Models/lib/cars4.ac 7.60321 51.10008 470.30 208.99
 OBJECT_SHARED Models/lib/stack_of_cones.ac 7.60330 51.10028 470.44 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 7.60347 51.10013 470.29 0
+OBJECT_SHARED Models/lib/propane-tank.ac 7.60347 51.10004 470.25 292.38
+OBJECT_SHARED Models/lib/propane-tank.ac 7.60353 51.10005 470.29 294.44
 OBJECT_SHARED Models/lib/office16x4n.ac 7.60266 51.09985 470.06 289.94
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.60552 51.10075 470.69 15.59
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.60489 51.10057 470.60 18.92
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.60446 51.10037 470.52 205.2
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.60552 51.10075 470.69 195.59
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.60489 51.10057 470.60 198.92
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.60446 51.10037 470.52 295.2
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.60382 51.10027 470.42 208.28
 # END dsf2stg

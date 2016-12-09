@@ -42,7 +42,7 @@ OBJECT_SHARED Models/lib/CargoPalettePkng.ac 9.51291 40.89937 9.80 122.2
 OBJECT_SHARED Models/lib/belt_loader.ac 9.51666 40.90259 10.84 5.98001
 OBJECT_SHARED Models/lib/belt_loader.ac 9.51624 40.90238 10.94 -45
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 9.50291 40.89596 9.99 262.09
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 9.52195 40.90369 8.08 213.56
+OBJECT_SHARED Models/lib/citation.ac 9.52195 40.90369 8.08 213.56
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.52159 40.90352 8.52 215.29
 OBJECT_SHARED Models/lib/belt_loader.ac 9.51285 40.90093 11.02 208.61
 OBJECT_SHARED Models/lib/belt_loader.ac 9.51284 40.90096 11.09 208.93
@@ -119,14 +119,9 @@ OBJECT_SHARED Models/lib/MedHangar.ac 9.51902 40.90440 13.49 124.78
 OBJECT_SHARED Models/lib/LgMaint.ac 9.51994 40.90475 10.49 124.86
 OBJECT_SHARED Models/lib/LgMaint.ac 9.52103 40.90469 9.37 73.91
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.51396 40.90191 12.26 213.37
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51664 40.90265 10.85 107.03
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51620 40.90241 10.96 102.45
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51576 40.90218 11.05 109.3
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51532 40.90195 11.10 111.03
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51488 40.90172 11.09 101.42
-#OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51664 40.90265 10.85 125
-#OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51620 40.90241 10.96 125
-#OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51576 40.90218 11.05 125
-#OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51532 40.90195 11.10 125
-#OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51488 40.90172 11.09 125
+OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51664 40.90265 10.85 125
+OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51620 40.90241 10.96 125
+OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51576 40.90218 11.05 125
+OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51532 40.90195 11.10 125
+OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51488 40.90172 11.09 125
 # END dsf2stg

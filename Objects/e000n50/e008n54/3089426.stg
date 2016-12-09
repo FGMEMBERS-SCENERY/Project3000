@@ -12,9 +12,9 @@ OBJECT_SHARED Models/lib/SmHangar.ac 8.68201 54.30849 -0.52 95.36
 OBJECT_SHARED Models/lib/HorizTanks2.ac 8.68245 54.30900 -0.55 180.71
 OBJECT_SHARED Models/lib/propane-tank.ac 8.68152 54.30869 -0.51 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 8.68219 54.30877 -0.53 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.68265 54.30836 -0.54 90
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.68265 54.30836 -0.54 270
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.68179 54.30838 -0.51 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 8.68189 54.30881 -85.51 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 8.68189 54.30881 -95.51 0
 OBJECT_SHARED Models/lib/lamp10m.xml 8.68252 54.30947 -0.58 90.37
 OBJECT_SHARED Models/lib/lamp10m.xml 8.68217 54.30897 -0.53 152.1
 OBJECT_SHARED Models/lib/lamp10m.xml 8.68218 54.30855 -0.52 89.14

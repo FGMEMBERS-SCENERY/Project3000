@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -77.24432 45.85794 156.42 109.83
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.24439 45.85807 156.54 107.65
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.24439 45.85807 156.54 287.65
 OBJECT_SHARED Models/lib/SmHangar.ac -77.24369 45.85812 156.06 111.45
 OBJECT_SHARED Models/lib/SmHangar.ac -77.24422 45.85816 156.44 18.19
 OBJECT_SHARED Models/lib/SmHangar.ac -77.24338 45.85820 155.88 109.23

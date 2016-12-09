@@ -6,6 +6,6 @@ OBJECT_SHARED Models/lib/cube16x10.ac -76.94068 20.98547 100.75 314.18
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.94000 20.98630 101.09 225.96
 OBJECT_SHARED Models/lib/lamp10m.xml -76.93999 20.98585 100.92 135
 OBJECT_SHARED Models/lib/lamp10m.xml -76.94012 20.98571 100.88 135
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.93876 20.98605 101.07 138.37
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.93876 20.98605 101.07 318.37
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -76.93870 20.98591 101.03 136.9
 # END dsf2stg

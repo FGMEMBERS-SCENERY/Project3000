@@ -21,9 +21,9 @@ OBJECT_SHARED Models/lib/container6.ac 9.82737 53.54520 -0.01 0
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.83798 53.53853 3.10 215.71
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.83402 53.53802 2.72 257.09
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.83221 53.53645 2.45 348.69
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.81930 53.54064 -0.01 348.69
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.83235 53.53659 2.48 180
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.83254 53.53707 2.25 180
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.81930 53.54064 -0.01 348.69
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.83235 53.53659 2.48 180
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.83254 53.53707 2.25 180
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.82234 53.54605 -0.01 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.82562 53.53911 -0.03 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.81732 53.53931 -0.01 0

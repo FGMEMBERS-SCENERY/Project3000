@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -124.11030 43.98476 16.05 101.97
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -124.11034 43.98369 14.45 11.55
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -124.11034 43.98369 14.45 191.55
 OBJECT_SHARED Models/lib/lamp10m.xml -124.10990 43.98322 13.85 102.28
 OBJECT_SHARED Models/lib/lamp10m.xml -124.11000 43.98354 14.17 102.63
 OBJECT_SHARED Models/lib/lamp10m.xml -124.11009 43.98386 14.85 102.63
@@ -19,7 +19,7 @@ OBJECT_SHARED Models/lib/6space_wStop.ac -124.11021 43.98462 15.76 11.67
 OBJECT_SHARED Models/lib/6space_wStop.ac -124.10964 43.98351 14.17 192.09
 OBJECT_SHARED Models/lib/SmHangar.ac -124.11115 43.98670 18.37 102.36
 OBJECT_SHARED Models/lib/MedHangar.ac -124.10960 43.98289 13.53 282.05
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -124.11023 43.98508 16.50 11.23
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -124.11023 43.98508 16.50 101.23
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -124.10895 43.97833 13.00 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -124.10890 43.97817 13.00 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -124.10899 43.97807 13.00 0

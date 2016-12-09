@@ -46,8 +46,8 @@ OBJECT_SHARED Models/lib/HorizTanks2.ac 13.33016 54.38447 17.02 90
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 13.33026 54.38453 17.05 0
 OBJECT_SHARED Models/lib/MedHangar.ac 13.32670 54.38453 16.23 90
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.33377 54.38460 17.69 271.29
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.32649 54.38445 16.17 90.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.32466 54.38437 15.73 179.95
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.33150 54.38471 17.14 185.38
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.32649 54.38445 16.17 270.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.32466 54.38437 15.73 359.95
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.33150 54.38471 17.14 5.38
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 13.33187 54.38461 17.29 135.18
 # END dsf2stg

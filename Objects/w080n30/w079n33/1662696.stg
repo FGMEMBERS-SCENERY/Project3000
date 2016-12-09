@@ -15,16 +15,5 @@ OBJECT_SHARED Models/lib/MedHangar.ac -78.92014 33.67229 5.27 350.32
 OBJECT_SHARED Models/lib/MedHangar.ac -78.91970 33.67473 5.62 350.32
 OBJECT_SHARED Models/lib/LgMaint.ac -78.91987 33.67556 5.67 350.32
 OBJECT_SHARED Models/lib/LgMaint.ac -78.91987 33.67556 5.67 350.32
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92356 33.68034 5.41 35
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92387 33.68029 5.39 35
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92419 33.68023 5.36 35
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92397 33.68055 5.38 215
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92364 33.68061 5.42 215
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92356 33.68219 5.43 303.74
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92377 33.68299 5.42 303.74
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92370 33.68313 5.43 214.51
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92380 33.68311 5.42 260.8
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92370 33.68272 5.43 303.74
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.92363 33.68245 5.44 303.74
 OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -78.91959 33.67624 5.79 0
 # END dsf2stg

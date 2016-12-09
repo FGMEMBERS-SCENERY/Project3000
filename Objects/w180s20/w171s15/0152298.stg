@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml -170.71381 -14.32843 -0.35 136.286
+OBJECT_SHARED Models/lib/belt_loader.ac -170.71393 -14.32828 -0.35 177.51
+OBJECT_SHARED Models/lib/belt_loader.ac -170.71392 -14.32825 -0.35 177.274
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -170.71332 -14.32842 -0.37 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -170.71569 -14.32822 -0.31 286.26
+OBJECT_SHARED Models/lib/caisses_group.ac -170.71354 -14.32838 -0.35 177.676
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -170.71257 -14.32953 -0.37 222.581
+OBJECT_SHARED Models/lib/FireStationLg.ac -170.71519 -14.33208 -0.32 300
+OBJECT_SHARED Models/lib/FireStationLg.ac -170.71516 -14.33215 -0.32 300
+OBJECT_SHARED Models/lib/MedHangar.ac -170.71557 -14.32837 -0.31 270
+OBJECT_SHARED Models/lib/MedHangar.ac -170.71479 -14.32836 -0.33 270
+OBJECT_SHARED Models/lib/SmHangar.ac -170.71527 -14.32846 -0.33 270
+OBJECT_SHARED Models/lib/SmHangar.ac -170.71527 -14.32839 -0.33 270
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -170.71322 -14.32820 -0.37 81.417
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -170.71248 -14.32866 -0.39 311.645
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -170.71273 -14.32836 -0.37 90
+OBJECT_SHARED Models/lib/belt_loader.ac -170.71277 -14.32929 -0.37 222.511
+OBJECT_SHARED Models/lib/belt_loader.ac -170.71279 -14.32926 -0.37 222.274
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -170.71265 -14.32903 -0.37 233.13
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -170.71315 -14.32854 -0.37 310.236
+OBJECT_SHARED Models/lib/chariot3curve.ac -170.71262 -14.32930 -0.37 90
+OBJECT_SHARED Models/lib/lamp10m.xml -170.71271 -14.32963 -0.37 219.806
+OBJECT_SHARED Models/lib/lamp10m.xml -170.71281 -14.32918 -0.37 220.365
+OBJECT_SHARED Models/lib/lamp10m.xml -170.71302 -14.32894 -0.37 218.29
+OBJECT_SHARED Models/lib/lamp10m.xml -170.71324 -14.32868 -0.37 218.29
+OBJECT_SHARED Models/lib/lamp10m.xml -170.71350 -14.32847 -0.37 219.289
+# END dsf2stg

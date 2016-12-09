@@ -24,6 +24,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac 7.90016 51.48325 235.38 310.23
 OBJECT_SHARED Models/lib/LongRow.ac 7.89922 51.48252 235.27 40.79
 OBJECT_SHARED Models/lib/LongRow.ac 7.89890 51.48234 234.69 40.79
 OBJECT_SHARED Models/lib/MedHangar.ac 7.89834 51.48220 235.27 311.8
+OBJECT_SHARED Models/lib/admin31x12.ac 7.90042 51.48336 234.66 129.29
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.90025 51.48343 235.21 308.84
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.90027 51.48344 235.15 308.84
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.90030 51.48345 235.18 308.84
@@ -33,9 +34,10 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 7.90033 51.48343 234.95 308.84
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.90031 51.48342 235.02 308.84
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.90028 51.48340 235.11 308.84
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 7.90008 51.48336 235.77 137.49
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.89784 51.48205 235.88 305.54
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.89964 51.48296 236.17 39.64
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.89861 51.48278 236.29 40.49
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.89784 51.48205 235.88 125.54
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.89964 51.48296 236.17 219.64
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.89861 51.48278 236.29 130.49
+OBJECT_SHARED Models/lib/propane-tank.ac 7.89805 51.48179 234.69 133.02
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.90072 51.48349 233.81 135
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.90069 51.48352 233.90 135
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89801 51.48173 234.43 0

@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -114.00677 51.12167 -0.24 0.420013
+OBJECT_SHARED Models/Airport/cargoip.xml -114.03085 51.12102 -0.48 0
+OBJECT_SHARED Models/lib/chariot3curve.ac -114.03078 51.12110 -0.48 90
+OBJECT_SHARED Models/lib/CargoDolly.ac -114.03243 51.12220 -0.45 130.6
+OBJECT_SHARED Models/lib/belt_loader.ac -114.03219 51.12201 -0.46 214.7
+OBJECT_SHARED Models/lib/container6.ac -114.03189 51.12228 -0.45 139.4
+OBJECT_SHARED Models/lib/container6.ac -114.03207 51.12216 -0.45 318.12
+OBJECT_SHARED Models/lib/loader.ac -114.02768 51.11896 -0.52 -46.33
+OBJECT_SHARED Models/lib/CargoPalettePkng.ac -114.02852 51.11943 -0.51 136.23
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -114.02941 51.11918 -0.52 225.44
+OBJECT_SHARED Models/Transport/Norberttruck.xml -114.02926 51.11919 -0.52 45
+OBJECT_SHARED Models/lib/6space_wStop.ac -114.00551 51.12134 -0.23 90
+OBJECT_SHARED Models/lib/6space_wStop.ac -114.00523 51.12134 -0.21 90
+OBJECT_SHARED Models/lib/6space_wStop.ac -114.00494 51.12134 -0.21 90
+OBJECT_SHARED Models/lib/6space_wStop.ac -114.00466 51.12134 -0.21 90
+OBJECT_SHARED Models/lib/6space_wStop.ac -114.00438 51.12134 -0.19 90
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -114.00471 51.12080 -0.22 0
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -114.00445 51.12081 -0.20 92.25
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -114.00470 51.12097 -0.21 90
+OBJECT_SHARED Models/lib/cars10.ac -114.00716 51.12018 -0.27 329.82
+OBJECT_SHARED Models/lib/cars10.ac -114.00702 51.12032 -0.27 329.82
+OBJECT_SHARED Models/lib/cars10.ac -114.00676 51.12003 -0.28 329.93
+OBJECT_SHARED Models/lib/cars10.ac -114.00664 51.12018 -0.27 329.93
+OBJECT_SHARED Models/lib/cars10.ac -114.00677 51.12003 -0.28 148.47
+OBJECT_SHARED Models/lib/cars10.ac -114.00662 51.12018 -0.27 148.47
+OBJECT_SHARED Models/lib/cars10.ac -114.00637 51.11988 -0.26 148.84
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -114.02812 51.11856 -0.53 135
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -114.00449 51.12116 -0.19 90.78
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -114.00507 51.12116 -0.21 90
+OBJECT_SHARED Models/lib/cars10.ac -114.00624 51.12004 -0.26 148.84
+OBJECT_SHARED Models/Transport/hatchback_black.ac -114.02958 51.11930 -0.52 315.83
+OBJECT_SHARED Models/lib/lamp10m.xml -114.03470 51.12280 -0.43 39.78
+OBJECT_SHARED Models/lib/lamp10m.xml -114.03381 51.12221 -0.45 39.78
+OBJECT_SHARED Models/lib/lamp10m.xml -114.03270 51.12168 -0.46 309.4
+OBJECT_SHARED Models/lib/lamp10m.xml -114.03215 51.12134 -0.47 309.4
+OBJECT_SHARED Models/lib/lamp10m.xml -114.03160 51.12101 -0.48 309.4
+OBJECT_SHARED Models/lib/lamp10m.xml -114.03105 51.12069 -0.49 309.4
+OBJECT_SHARED Models/lib/lamp10m.xml -114.03048 51.12036 -0.49 309.4
+OBJECT_SHARED Models/lib/lamp10m.xml -114.02991 51.12003 -0.50 309.4
+OBJECT_SHARED Models/lib/lamp10m.xml -114.02936 51.11970 -0.51 309.4
+OBJECT_SHARED Models/lib/lamp10m.xml -114.02879 51.11937 -0.51 309.4
+OBJECT_SHARED Models/lib/lamp10m.xml -114.02820 51.11901 -0.52 309.4
+OBJECT_SHARED Models/lib/lamp10m.xml -114.02740 51.11856 -0.52 309.4
+OBJECT_SHARED Models/lib/lamp10m.xml -114.02687 51.11821 -0.53 309.4
+# END dsf2stg

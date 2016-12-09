@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.58106 -36.91803 734.93 261.74
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.58106 -36.91803 734.93 81.74
 OBJECT_SHARED Models/lib/farm19x12.ac -71.58222 -36.91789 727.26 315
 OBJECT_SHARED Models/lib/cars7.ac -71.58066 -36.91878 727.16 44
 OBJECT_SHARED Models/lib/SmHangar.ac -71.58095 -36.91853 731.19 224

@@ -12,7 +12,7 @@ OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.01663 44.40797 51.27 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.01663 44.40799 51.27 243.43
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.01666 44.40798 51.24 270
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -69.00868 44.40904 51.32 223.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.00867 44.40913 51.52 44.29
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.00867 44.40913 51.52 224.29
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.01659 44.40798 51.27 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.01661 44.40800 51.27 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.01670 44.40796 51.24 270
@@ -41,9 +41,10 @@ OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.01707 44.40828 52.10 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.01703 44.40828 52.04 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.01709 44.40824 51.81 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.01707 44.40830 52.10 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.00979 44.40925 52.98 315
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.00979 44.40925 52.98 135
 OBJECT_SHARED Models/lib/SmHangar.ac -69.00784 44.40873 49.44 278.02
 OBJECT_SHARED Models/lib/SmHangar.ac -69.00649 44.40942 48.69 97.94
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -69.00822 44.40930 51.15 315.4
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -69.00822 44.40930 51.15 45.4
+OBJECT_SHARED Models/lib/industrial13x24.ac -69.01113 44.41047 55.61 130.2
 OBJECT_SHARED Models/lib/LongRow.ac -69.00705 44.40916 49.22 8.69
 # END dsf2stg

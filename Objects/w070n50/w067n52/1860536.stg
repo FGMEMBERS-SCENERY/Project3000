@@ -21,9 +21,9 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac -66.87411 52.92633 545.52 290.2
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -66.87446 52.92604 545.77 18.44
 OBJECT_SHARED Models/lib/CargoPalettePkng.ac -66.87360 52.92826 544.16 112.56
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac -66.87337 52.92825 544.13 109.98
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.87218 52.92577 545.80 290.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.87218 52.92577 545.80 110.56
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -66.87234 52.92611 545.41 292.13
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -66.87344 52.92710 544.90 108.85
+OBJECT_SHARED Models/lib/fuel-truck.xml -66.87344 52.92710 544.90 108.85
 OBJECT_SHARED Models/lib/loader.ac -66.87337 52.92702 544.97 199.18
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -66.87320 52.92597 545.46 109.23
 OBJECT_SHARED Models/lib/6space_wStop.ac -66.87445 52.92662 545.37 112.01

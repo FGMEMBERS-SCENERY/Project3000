@@ -5,8 +5,9 @@ OBJECT_SHARED Models/lib/shed8x10.ac 9.67304 49.51543 336.01 184.76
 OBJECT_SHARED Models/lib/SmHangar.ac 9.67404 49.51546 332.49 275.19
 OBJECT_SHARED Models/lib/SmHangar.ac 9.67389 49.51545 333.19 275.19
 OBJECT_SHARED Models/lib/MedHangar.ac 9.67356 49.51544 334.14 275.58
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.67231 49.51545 338.20 2.56
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.67260 49.51547 337.71 8.97
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.67231 49.51545 338.20 182.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.67260 49.51547 337.71 188.97
+OBJECT_SHARED Models/lib/propane-tank.ac 9.67418 49.51543 331.63 95.77
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.67208 49.51523 336.14 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.67244 49.51526 336.35 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.67265 49.51527 336.00 0
@@ -17,7 +18,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.67375 49.51549 333.70 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.67419 49.51551 331.75 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.67318 49.51543 335.51 276.04
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.67317 49.51545 335.79 275.53
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.67367 49.51556 334.23 275.36
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.67367 49.51556 334.23 5.36
 OBJECT_SHARED Models/lib/cars4.ac 9.67390 49.51533 332.68 5.58
 OBJECT_SHARED Models/lib/cars4.ac 9.67294 49.51517 334.69 96.01
 OBJECT_SHARED Models/lib/cars4.ac 9.67258 49.51527 336.11 274.95

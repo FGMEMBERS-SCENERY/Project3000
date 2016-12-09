@@ -18,4 +18,5 @@ OBJECT_SHARED Models/lib/lamp10m.xml 115.16602 -8.75105 2.92 -87.92
 OBJECT_SHARED Models/Aircraft/737virgin.xml 115.16795 -8.75071 3.75 182.8
 OBJECT_SHARED Models/Aircraft/737virgin.xml 115.16756 -8.75073 3.75 182.8
 OBJECT_SHARED Models/Aircraft/B747.xml 115.16695 -8.75078 3.42 273.15
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 115.16498 -8.75788 -0.00 316.85
 # END dsf2stg

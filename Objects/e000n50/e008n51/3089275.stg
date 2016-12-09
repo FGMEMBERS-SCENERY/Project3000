@@ -8,10 +8,11 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac 8.90360 51.93795 193.59 
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 8.90332 51.93769 194.38 285.71
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 8.90330 51.93771 194.41 287.1
 OBJECT_SHARED Models/lib/stack_of_cones.ac 8.90203 51.93778 195.06 0
+OBJECT_SHARED Models/lib/propane-tank.ac 8.90212 51.93796 194.16 43.73
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.90207 51.93811 193.98 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.90200 51.93813 193.96 313.96
 OBJECT_SHARED Models/lib/SmHangar.ac 8.90339 51.93786 193.93 284.5
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.90224 51.93820 193.86 315.97
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.90224 51.93820 193.86 135.97
 OBJECT_SHARED Models/lib/SmHangar.ac 8.90217 51.93808 194.01 220.5
 OBJECT_SHARED Models/lib/hangar81x16.ac 8.90303 51.93729 195.51 148.72
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.90403 51.93771 193.23 0

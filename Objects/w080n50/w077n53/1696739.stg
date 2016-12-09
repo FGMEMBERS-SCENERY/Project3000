@@ -23,7 +23,7 @@ OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.18800 53.57032 
 OBJECT_SHARED Models/Airport/cargobox.xml -76.18849 53.57031 224.53 0
 OBJECT_SHARED Models/Airport/cargoip.xml -76.18851 53.57029 224.53 0
 OBJECT_SHARED Models/lib/container6.ac -76.18842 53.57029 224.46 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -76.18784 53.57032 223.95 184.64
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.18784 53.57032 223.95 184.64
 OBJECT_SHARED Models/lib/SmHangar.ac -76.19025 53.57005 225.02 181.93
 OBJECT_SHARED Models/lib/FireStationLg.ac -76.19058 53.57012 225.32 1.33
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -76.18811 53.57054 224.55 5.26001

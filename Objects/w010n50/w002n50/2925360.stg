@@ -14,14 +14,14 @@ OBJECT_SHARED Models/Aircraft/320volare.xml -1.83561 50.77701 10.13 90
 OBJECT_SHARED Models/Aircraft/737virgin.xml -1.83586 50.77773 10.22 90
 OBJECT_SHARED Models/Aircraft/B747.xml -1.83333 50.77854 10.69 2.52
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -1.83314 50.78437 10.07 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.83068 50.78467 10.21 287.35
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.83012 50.78452 10.24 6.88
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.82968 50.78449 10.28 340.02
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.82950 50.78445 10.29 340.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.83068 50.78467 10.21 107.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.83012 50.78452 10.24 186.88
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.82968 50.78449 10.28 160.02
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.82950 50.78445 10.29 160.71
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -1.82985 50.78453 10.27 340.71
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -1.82934 50.78441 10.31 335.85
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -1.83066 50.78451 10.20 234.12
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.83048 50.78442 10.22 45.46
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.83048 50.78442 10.22 225.46
 OBJECT_SHARED Models/Aircraft/D328_services.xml -1.82843 50.78027 11.21 81.87
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -1.82878 50.78027 11.15 353.72
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -1.82943 50.78032 11.05 334.62
@@ -75,7 +75,7 @@ OBJECT_SHARED Models/lib/office32x25.ac -1.83377 50.78515 10.08 176.17
 OBJECT_SHARED Models/lib/office40x25.ac -1.83025 50.78469 10.24 67.63
 OBJECT_SHARED Models/lib/SmHangar.ac -1.83243 50.78452 10.10 17.1
 OBJECT_SHARED Models/lib/LongRow.ac -1.83381 50.78402 10.04 85.94
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.83032 50.78449 10.22 26.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.83032 50.78449 10.22 206.56
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -1.83557 50.77906 10.37 50.71
 OBJECT_SHARED Models/lib/LgMaint.ac -1.83971 50.78634 10.11 15.2
 # END dsf2stg

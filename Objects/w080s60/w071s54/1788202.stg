@@ -18,13 +18,13 @@ OBJECT_SHARED Models/lib/office3x10.ac -70.37306 -53.28010 33.67 261
 OBJECT_SHARED Models/lib/office3x10.ac -70.37290 -53.28011 33.73 82
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.32544 -53.25368 25.62 162.74
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -70.36036 -53.29250 47.62 97.01
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.36044 -53.29278 44.88 274
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.36044 -53.29278 44.88 4
 OBJECT_SHARED Models/lib/SmHangar.ac -70.32545 -53.25441 26.39 159.9
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -70.32542 -53.25412 26.05 249.56
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.32526 -53.25410 26.12 69.98
+OBJECT_SHARED Models/lib/fuel-truck.xml -70.32542 -53.25412 26.05 249.56
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.32526 -53.25410 26.12 159.98
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -70.32748 -53.25278 24.20 204.15
 OBJECT_SHARED Models/Aircraft/D328_services.xml -70.33682 -53.25051 19.13 353.52
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -70.32142 -53.25448 28.23 77.94
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -70.32166 -53.25264 26.96 208.3
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.32509 -53.25339 25.71 279.93
+OBJECT_SHARED Models/lib/citation.ac -70.32166 -53.25264 26.96 208.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.32509 -53.25339 25.71 99.93
 # END dsf2stg

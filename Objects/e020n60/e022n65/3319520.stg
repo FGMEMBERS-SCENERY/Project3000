@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 22.11742 65.54998 12.14 276.71
+OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 22.12797 65.54638 9.06 0
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 22.12090 65.54935 10.82 274.22
+OBJECT_SHARED Models/Aircraft/D328_services.xml 22.12064 65.54954 10.93 5.19
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 22.12455 65.54792 9.96 -72.47
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 22.12396 65.54809 9.96 11.89
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 22.12682 65.54680 9.35 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 22.12597 65.54690 9.61 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 22.12605 65.54656 9.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 22.12527 65.54700 9.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 22.12532 65.54725 9.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 22.12552 65.54748 9.96 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 22.12680 65.54652 9.46 -47.67
+OBJECT_SHARED Models/lib/MedHangar.ac 22.12832 65.54654 8.91 43.7
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 22.12211 65.54963 10.27 133.61
+OBJECT_SHARED Models/lib/HorizTanks2.ac 22.12765 65.54742 8.83 45
+OBJECT_SHARED Models/lib/HorizTanks2.ac 22.12749 65.54748 9.05 45
+OBJECT_SHARED Models/lib/SmHangar.ac 22.12688 65.54750 9.04 133.02
+OBJECT_SHARED Models/lib/SmHangar.ac 22.12722 65.54766 9.29 42.62
+OBJECT_SHARED Models/lib/MedHangar.ac 22.11902 65.55011 11.45 42.46
+OBJECT_SHARED Models/lib/SmHangar.ac 22.11818 65.55022 11.77 41.64
+OBJECT_SHARED Models/lib/MedHangar.ac 22.11861 65.54994 11.66 42.46
+OBJECT_SHARED Models/lib/shed10x50.ac 22.11783 65.54087 13.87 107.78
+OBJECT_SHARED Models/lib/shed10x50.ac 22.11752 65.54097 13.94 107.78
+OBJECT_SHARED Models/lib/office65x50.ac 22.11676 65.53718 12.80 41.06
+OBJECT_SHARED Models/lib/office65x50.ac 22.11795 65.53659 12.04 41.06
+OBJECT_SHARED Models/lib/FireStationLg.ac 22.12449 65.53689 11.94 43.33
+OBJECT_SHARED Models/lib/MedHangar.ac 22.12595 65.53680 11.85 289.83
+OBJECT_SHARED Models/lib/SmHangar.ac 22.10783 65.54297 15.69 356.3
+OBJECT_SHARED Models/lib/SmHangar.ac 22.10602 65.54247 16.75 313.07
+OBJECT_SHARED Models/lib/MedHangar.ac 22.10627 65.54274 16.58 83.99
+OBJECT_SHARED Models/lib/shed10x50.ac 22.10287 65.54435 17.43 40.82
+OBJECT_SHARED Models/lib/shed10x50.ac 22.10333 65.54452 17.21 40.82
+OBJECT_SHARED Models/lib/LgMaint.ac 22.12993 65.53568 11.10 295.22
+OBJECT_SHARED Models/lib/fboModern1.ac 22.12066 65.53696 12.15 222.76
+# END dsf2stg

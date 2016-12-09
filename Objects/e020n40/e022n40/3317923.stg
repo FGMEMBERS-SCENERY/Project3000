@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.97170 40.52620 -0.51 284.93
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.97199 40.52638 -0.49 105.4
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.97189 40.52665 -0.47 108.21
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.97155 40.52659 -0.49 284.04
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.97149 40.52674 -0.48 285.64
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.97170 40.52620 -0.51 104.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.97199 40.52638 -0.49 285.4
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.97189 40.52665 -0.47 288.21
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.97155 40.52659 -0.49 104.04
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.97149 40.52674 -0.48 105.64
 OBJECT_SHARED Models/lib/stack_of_cones.ac 22.98690 40.51818 3.21 275.95
 OBJECT_SHARED Models/lib/stack_of_cones.ac 22.98688 40.51812 3.04 0
 OBJECT_SHARED Models/lib/cone.ac 22.98716 40.51851 2.75 0

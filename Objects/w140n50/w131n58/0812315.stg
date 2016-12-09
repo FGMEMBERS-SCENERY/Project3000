@@ -1,6 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/propane-tank.ac -130.02353 58.42394 804.92 235
+OBJECT_SHARED Models/lib/propane-tank.ac -130.02356 58.42395 804.83 234.3
+OBJECT_SHARED Models/lib/propane-tank.ac -130.02359 58.42396 804.83 232.43
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -130.02229 58.42419 798.01 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -130.01662 58.42645 792.49 218.97
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -130.01800 58.42608 793.70 186.87
@@ -20,17 +23,17 @@ OBJECT_SHARED Models/lib/SmHangar.ac -130.02402 58.42397 804.83 307.12
 OBJECT_SHARED Models/lib/SmHangar.ac -130.02278 58.42427 804.99 31.38
 OBJECT_SHARED Models/lib/SmHangar.ac -130.02300 58.42445 804.80 37.84
 OBJECT_SHARED Models/lib/SmHangar.ac -130.02433 58.42384 805.01 306.4
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -130.02372 58.42417 804.64 261.15
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -130.01793 58.42625 794.16 307.41
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -130.02372 58.42417 804.64 351.15
+OBJECT_SHARED Models/lib/citation.ac -130.01793 58.42625 794.16 307.41
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -130.01715 58.42714 794.68 128.02
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -130.02438 58.42391 804.92 8.95001
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -130.02389 58.42420 804.64 323.54
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -130.01708 58.42608 791.35 38.49
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -130.02438 58.42391 804.92 188.95
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -130.02389 58.42420 804.64 143.54
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -130.01708 58.42608 791.35 218.49
 OBJECT_SHARED Models/Transport/hatchback_red.ac -130.01741 58.42604 791.12 37.26
 OBJECT_SHARED Models/Transport/hatchback_red.ac -130.01748 58.42608 791.35 215.8
 OBJECT_SHARED Models/Transport/Norberttruck.xml -130.01493 58.42766 801.48 35.54
 OBJECT_SHARED Models/lib/cars4.ac -130.01497 58.42717 800.99 33.45
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -130.01517 58.42738 801.59 303.39
+OBJECT_SHARED Models/lib/fuel-truck.xml -130.01517 58.42738 801.59 303.39
 OBJECT_SHARED Models/Transport/hatchback_red.ac -130.01552 58.42731 798.38 48.18
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -130.01728 58.42627 791.82 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -130.01727 58.42626 791.82 0
@@ -40,12 +43,15 @@ OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -130.02345 58.42380 805.49 2
 OBJECT_SHARED Models/Transport/hatchback_red.ac -130.02411 58.42382 805.01 23.5
 OBJECT_SHARED Models/Transport/hatchback_red.ac -130.02424 58.42360 805.19 180.43
 OBJECT_SHARED Models/Transport/hatchback_red.ac -130.02405 58.42364 805.19 122.42
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -130.02367 58.42408 804.74 311.64
+OBJECT_SHARED Models/lib/fuel-truck.xml -130.02367 58.42408 804.74 311.64
 OBJECT_SHARED Models/lib/stack_of_cones.ac -130.01764 58.42623 793.93 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -130.01447 58.42716 802.95 297.18
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -130.01805 58.42599 793.43 215.13
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -130.01728 58.42632 791.82 37.03
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -130.01450 58.42714 800.63 0
+OBJECT_SHARED Models/lib/propane-tank.ac -130.01680 58.42624 791.59 90
+OBJECT_SHARED Models/lib/propane-tank.ac -130.01678 58.42622 791.59 90
+OBJECT_SHARED Models/lib/propane-tank.ac -130.01675 58.42620 791.59 90
 OBJECT_SHARED Models/lib/watertank3x1.ac -130.01772 58.42598 793.43 0
 OBJECT_SHARED Models/lib/watertank3x1.ac -130.01776 58.42599 793.43 0
 OBJECT_SHARED Models/lib/watertank3x1.ac -130.01781 58.42600 793.43 0
@@ -67,8 +73,8 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac -130.02403 58.42420 804.64 0
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -130.02349 58.42393 805.39 147.87
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -130.02337 58.42403 805.29 0
 OBJECT_SHARED Models/lib/HorizTanks2.ac -130.01666 58.42683 793.58 308.26
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -130.01674 58.42685 793.58 306.84
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -130.01665 58.42688 793.95 305.43
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -130.01674 58.42685 793.58 36.84
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -130.01665 58.42688 793.95 35.43
 OBJECT_SHARED Models/lib/lamp10m.xml -130.02388 58.42401 804.83 -55.45
 OBJECT_SHARED Models/lib/lamp10m.xml -130.02421 58.42389 804.92 -54.87
 OBJECT_SHARED Models/lib/lamp10m.xml -130.01767 58.42568 792.48 -60.17

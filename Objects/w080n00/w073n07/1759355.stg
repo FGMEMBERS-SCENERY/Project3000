@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/jetway_e8m.ac -72.50861 7.92775 -0.39 90.5417
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -72.50686 7.92679 -0.37 245.602
+OBJECT_SHARED Models/lib/lamp10m.xml -72.50888 7.92789 -0.39 246.501
+OBJECT_SHARED Models/lib/lamp10m.xml -72.50872 7.92781 -0.39 254.745
+OBJECT_SHARED Models/lib/container6.ac -72.50890 7.92552 -0.41 140.711
+OBJECT_SHARED Models/lib/loader.ac -72.50874 7.92562 -0.41 24.2278
+OBJECT_SHARED Models/lib/loader.ac -72.50817 7.92903 -0.37 108.435
+OBJECT_SHARED Models/lib/container6.ac -72.50810 7.92896 -0.37 157.62
+OBJECT_SHARED Models/lib/chariot5.ac -72.50870 7.92782 -0.39 145.713
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -72.50886 7.92796 -0.39 213.69
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -72.50888 7.92797 -0.39 296.565
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -72.50887 7.92800 -0.39 195.945
+OBJECT_SHARED Models/lib/RampParking.xml -72.50869 7.92795 -0.39 332.987
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.50874 7.92578 -0.41 167.005
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.50893 7.92609 -0.41 175.601
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.50912 7.92640 -0.41 170.538
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.50694 7.92867 -0.35 204.444
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.50737 7.92888 -0.36 202.751
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.50776 7.92906 -0.36 199.983
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.50819 7.92927 -0.36 203.75
+OBJECT_SHARED Models/lib/RampParking.xml -72.50707 7.92838 -0.36 155.587
+OBJECT_SHARED Models/lib/RampParking.xml -72.50748 7.92859 -0.36 155.688
+OBJECT_SHARED Models/lib/RampParking.xml -72.50789 7.92879 -0.37 153.579
+OBJECT_SHARED Models/lib/RampParking.xml -72.50832 7.92898 -0.37 155.556
+# END dsf2stg

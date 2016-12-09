@@ -100,8 +100,8 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 103.10452 5.37780 9.64 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 103.10458 5.37773 9.70 180
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 103.10465 5.37768 9.74 90
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 103.10470 5.37763 9.78 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 103.10452 5.38687 3.92 225.46
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 103.10439 5.38674 4.07 225.46
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 103.10452 5.38687 3.92 45.46
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 103.10439 5.38674 4.07 45.46
 OBJECT_SHARED Models/lib/LongRow.ac 103.10354 5.38668 3.95 45.34
 OBJECT_SHARED Models/lib/LongRow.ac 103.10409 5.38723 5.33 45.34
 OBJECT_SHARED Models/lib/LongRow.ac 103.10464 5.38779 3.28 45.34
@@ -109,7 +109,7 @@ OBJECT_SHARED Models/lib/office8x14.ac 103.10092 5.38430 7.45 222.56
 OBJECT_SHARED Models/lib/office8x14.ac 103.10093 5.38448 7.81 312.75
 OBJECT_SHARED Models/lib/office8x14.ac 103.10104 5.38459 8.05 312.75
 OBJECT_SHARED Models/lib/FireStationLg.ac 103.10160 5.38446 6.56 315.24
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 103.10628 5.38184 7.68 317.97
+OBJECT_SHARED Models/lib/fuel-truck.xml 103.10628 5.38184 7.68 317.97
 OBJECT_SHARED Models/lib/HorizTanks2.ac 103.10640 5.38187 7.65 228
 OBJECT_SHARED Models/lib/office8x14.ac 103.10668 5.37941 11.51 222.47
 OBJECT_SHARED Models/lib/cars7.ac 103.10625 5.37880 9.35 132.94
@@ -137,14 +137,13 @@ OBJECT_SHARED Models/lib/belt_loader.ac 103.10517 5.37982 8.27 -38.54
 OBJECT_SHARED Models/lib/belt_loader.ac 103.10547 5.38010 8.62 -38.54
 OBJECT_SHARED Models/lib/JetWayWallBase.ac 103.10486 5.37949 8.24 230.82
 OBJECT_SHARED Models/lib/JetWayWallBase.ac 103.10481 5.37953 8.24 229.57
-#OBJECT_SHARED Models/lib/jetway_e10m.ac 103.10479 5.37951 8.24 222.96
+OBJECT_SHARED Models/lib/jetway_e10m.ac 103.10479 5.37951 8.24 222.96
 OBJECT_SHARED Models/lib/RampParking.xml 103.10472 5.37938 8.33 45
-#OBJECT_SHARED Models/lib/jetway_e10m.ac 103.10484 5.37947 8.26 226.88
+OBJECT_SHARED Models/lib/jetway_e10m.ac 103.10484 5.37947 8.26 226.88
 OBJECT_SHARED Models/lib/caisses_group.ac 103.10498 5.37961 8.22 318.81
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 103.10494 5.37959 8.23 136.39
 OBJECT_SHARED Models/lib/loader.ac 103.10522 5.37982 8.27 -41.77
 OBJECT_SHARED Models/lib/loader.ac 103.10551 5.38011 8.98 -41.77
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 103.10442 5.37898 6.87 247
 OBJECT_SHARED Models/lib/chariot3curve.ac 103.10565 5.38100 8.31 90
 OBJECT_SHARED Models/lib/belt_loader.ac 103.10574 5.38113 8.23 -47.35
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac 103.10551 5.38088 8.40 41.61

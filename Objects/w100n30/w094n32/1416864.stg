@@ -11,7 +11,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac -93.75010 32.54328 52.36 192.62
 OBJECT_SHARED Models/lib/SmHangar.ac -93.75007 32.54316 52.38 192.62
 OBJECT_SHARED Models/lib/SmHangar.ac -93.75004 32.54304 52.42 192.62
 OBJECT_SHARED Models/lib/SmHangar.ac -93.75001 32.54292 52.43 192.62
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -93.75156 32.54507 51.35 24.59
+OBJECT_SHARED Models/lib/fuel-truck.xml -93.75156 32.54507 51.35 24.59
 OBJECT_SHARED Models/lib/cars6.ac -93.75207 32.54437 51.59 336.21
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -93.75173 32.54560 50.83 327.01
 OBJECT_SHARED Models/lib/office4x14.ac -93.75133 32.54397 51.98 155.63
@@ -31,7 +31,7 @@ OBJECT_SHARED Models/Misc/6barrels.ac -93.75124 32.54497 51.51 146.52
 OBJECT_SHARED Models/Misc/6barrels.ac -93.75125 32.54496 51.49 196.49
 OBJECT_SHARED Models/lib/coal_pile.ac -93.75125 32.54493 51.57 90
 OBJECT_SHARED Models/lib/cars4.ac -93.75219 32.53350 51.75 318.45
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -93.75020 32.53236 51.04 196.93
+OBJECT_SHARED Models/lib/fuel-truck.xml -93.75020 32.53236 51.04 196.93
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -93.75048 32.53240 51.38 221.35
 OBJECT_SHARED Models/Transport/hatchback_red.ac -93.75000 32.53310 51.20 158.2
 OBJECT_SHARED Models/Transport/hatchback_red.ac -93.75001 32.53293 51.09 212.9
@@ -58,7 +58,7 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac -93.75029 32.53236 51.15 188.37
 OBJECT_SHARED Models/Transport/hatchback_red.ac -93.75032 32.53228 51.10 223.73
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -93.75056 32.53246 51.55 335.05
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -93.75057 32.53248 51.55 303.8
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -93.75022 32.53443 50.87 60.03
+OBJECT_SHARED Models/lib/fuel-truck.xml -93.75022 32.53443 50.87 60.03
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -93.75023 32.53449 50.88 329.9
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -93.75026 32.53752 51.20 90.6
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -93.75073 32.53702 51.04 343.03

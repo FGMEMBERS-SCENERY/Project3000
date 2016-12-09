@@ -7,6 +7,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml -17.41910 65.95590 6.68 77.6917
 OBJECT_SHARED Models/lib/lamp10m.xml -17.41925 65.95562 6.74 80.877
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -17.41887 65.95591 6.67 148.922
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -17.41902 65.95555 6.73 23.4659
+OBJECT_SHARED Models/lib/propane-tank.ac -17.41967 65.95645 6.62 349.271
 OBJECT_SHARED Models/lib/stack_of_cones.ac -17.41918 65.95577 6.70 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -17.41918 65.95559 6.74 79.3588
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -17.41923 65.96007 6.02 88.3641

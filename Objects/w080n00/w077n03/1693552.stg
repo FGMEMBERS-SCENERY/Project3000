@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99274 3.82030 -0.35 7.12503
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99275 3.82045 -0.35 6.34018
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99277 3.82062 -0.35 6.34021
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99338 3.82026 -0.33 180
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99339 3.82042 -0.34 180
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99340 3.82057 -0.34 180
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99239 3.82030 -0.35 135
+OBJECT_SHARED Models/lib/cube16x10.ac -76.99216 3.82029 -0.35 270
+# END dsf2stg

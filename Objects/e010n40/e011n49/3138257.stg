@@ -1,38 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml 11.44760 49.28610 424.68 146.63
-OBJECT_SHARED Models/lib/lamp10m.xml 11.44753 49.28605 424.84 56.09
-OBJECT_SHARED Models/lib/lamp10m.xml 11.44733 49.28625 425.25 59.11
-OBJECT_SHARED Models/lib/lamp10m.xml 11.44769 49.28654 424.88 -29.28
-OBJECT_SHARED Models/lib/lamp10m.xml 11.44795 49.28640 424.29 235.39
-OBJECT_SHARED Models/lib/SmHangar.ac 11.44802 49.28619 424.19 54.94
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 11.44766 49.28617 424.64 56.14
-OBJECT_SHARED Models/lib/transformer3x3.ac 11.44834 49.28618 423.65 54.85
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.44679 49.28583 425.58 180.82
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.44746 49.28641 425.15 146.37
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.44738 49.28632 425.20 145.41
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.44733 49.28628 425.35 151.74
-OBJECT_SHARED Models/lib/1space_dual.ac 11.44743 49.28639 425.31 325.5
-OBJECT_SHARED Models/lib/1space_dual.ac 11.44734 49.28631 425.35 325.5
-OBJECT_SHARED Models/lib/cars6.ac 11.44825 49.28628 423.69 146.55
-OBJECT_SHARED Models/lib/cars10.ac 11.44796 49.28641 424.29 146.91
-OBJECT_SHARED Models/lib/2space_wStop.ac 11.44811 49.28652 424.14 56.84
-OBJECT_SHARED Models/lib/6space_wStop.ac 11.44824 49.28647 423.94 56.63
-OBJECT_SHARED Models/lib/cars10.ac 11.44771 49.28670 424.97 326.32
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44790 49.28638 424.47 94.87
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.44829 49.28630 423.69 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 11.44812 49.28632 424.06 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 11.44772 49.28647 424.88 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.44785 49.28644 424.47 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44780 49.28667 424.79 242.83
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44778 49.28643 424.66 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44768 49.28651 424.88 295.46
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44803 49.28636 424.29 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44819 49.28628 423.88 281.57
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44825 49.28620 423.65 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44828 49.28624 423.65 241.53
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44836 49.28643 423.84 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44817 49.28651 423.94 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 11.44799 49.28659 424.35 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.49120 49.35142 571.78 290.03
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.49119 49.35145 572.09 292.77
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.49117 49.35149 572.09 280.22
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.49115 49.35153 572.09 286.7
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.49114 49.35156 572.47 290.83
+OBJECT_SHARED Models/lib/transformer3x3.ac 11.48954 49.35144 572.95 109.26
 # END dsf2stg

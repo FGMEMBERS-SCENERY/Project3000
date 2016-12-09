@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -122.65003 45.43081 1.00 281.35
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -122.64991 45.43088 1.00 7.20999
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.65001 45.43077 1.00 280.47
+# END dsf2stg

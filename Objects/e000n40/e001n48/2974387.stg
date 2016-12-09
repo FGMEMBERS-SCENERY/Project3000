@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 1.98128 48.84040 125.97 342.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 1.98128 48.84040 125.97 72.01
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 1.98128 48.84088 126.51 72.84
 OBJECT_SHARED Models/lib/cone.ac 1.97850 48.84208 127.87 0
 OBJECT_SHARED Models/lib/cone.ac 1.97762 48.84222 127.56 0
@@ -491,10 +491,10 @@ OBJECT_SHARED Models/lib/SmHangar.ac 1.97950 48.83972 126.09 253.25
 OBJECT_SHARED Models/lib/hangar81x16.ac 1.98387 48.83895 123.40 73.26
 OBJECT_SHARED Models/lib/shed8x10.ac 1.97979 48.83941 125.57 73.02
 OBJECT_SHARED Models/lib/office6x12.ac 1.97970 48.83947 125.72 162.75
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 1.98104 48.83949 125.14 71.97
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 1.98279 48.83915 123.96 71.88
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 1.98276 48.84075 125.82 72.32
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 1.98351 48.84059 125.30 72.18
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 1.98104 48.83949 125.14 251.97
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 1.98279 48.83915 123.96 251.88
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 1.98276 48.84075 125.82 252.32
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 1.98351 48.84059 125.30 252.18
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 1.98390 48.83890 123.28 71.38
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 1.98456 48.84036 124.67 35.18
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 1.97794 48.83973 127.21 73.18

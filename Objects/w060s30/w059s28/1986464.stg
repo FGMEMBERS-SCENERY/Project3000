@@ -5,7 +5,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac -58.75581 -27.44520 63.02 9.33
 OBJECT_SHARED Models/lib/FireStationLg.ac -58.75846 -27.44599 61.53 173.22
 OBJECT_SHARED Models/lib/HorizTanks2.ac -58.75768 -27.44622 61.77 39.23
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -58.75759 -27.44631 61.78 219.76
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -58.75750 -27.44640 61.80 309.94
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -58.75750 -27.44640 61.80 39.94
 OBJECT_SHARED Models/lib/SmHangar.ac -58.75786 -27.44725 61.52 270.95
 OBJECT_SHARED Models/lib/SmHangar.ac -58.75791 -27.44339 61.44 354.04
 OBJECT_SHARED Models/lib/SmHangar.ac -58.75788 -27.44314 62.10 354.9
@@ -20,8 +20,7 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -58.75812 -27.44715 61.47 35
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -58.75766 -27.44712 61.60 35
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -58.75770 -27.44629 61.75 135
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -58.75869 -27.44715 61.27 35
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -58.75852 -27.44720 61.38 239.43
-#OBJECT_SHARED Models/lib/jetway_e8m.ac -58.75852 -27.44726 61.34 90.46
+OBJECT_SHARED Models/lib/jetway_e8m.ac -58.75852 -27.44726 61.34 90.46
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -58.75852 -27.44728 61.34 89.15
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -58.75932 -27.44730 60.88 179.96
 OBJECT_SHARED Models/lib/cars7.ac -58.75736 -27.44778 61.73 181
@@ -39,7 +38,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml -58.75878 -27.44611 61.41 0
 OBJECT_SHARED Models/lib/lamp10m.xml -58.75897 -27.44612 61.34 0
 OBJECT_SHARED Models/lib/lamp10m.xml -58.75743 -27.44644 61.84 0
 OBJECT_SHARED Models/lib/lamp10m.xml -58.75774 -27.44610 61.79 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -58.75762 -27.44610 61.82 351.43
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -58.75742 -27.44641 61.84 272.63
+OBJECT_SHARED Models/lib/fuel-truck.xml -58.75762 -27.44610 61.82 351.43
+OBJECT_SHARED Models/lib/fuel-truck.xml -58.75742 -27.44641 61.84 272.63
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -58.75908 -27.44588 61.34 87.56
 # END dsf2stg

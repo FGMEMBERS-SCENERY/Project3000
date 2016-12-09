@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.86496 46.95996 432.43 311.46
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.86613 46.95958 432.24 45
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.86613 46.95958 432.24 225
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.86674 46.95941 432.12 45
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.86670 46.95938 432.13 47.82
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 6.86668 46.95941 432.13 316.43
@@ -29,7 +29,7 @@ OBJECT_SHARED Models/lib/6space_wStop.ac 6.86313 46.95898 432.13 315.2
 OBJECT_SHARED Models/lib/SmHangar.ac 6.86531 46.96025 432.31 46.69
 OBJECT_SHARED Models/lib/LongRow.ac 6.86533 46.95909 432.46 136.06
 OBJECT_SHARED Models/lib/LongRow.ac 6.86620 46.95976 432.18 136.27
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 6.86485 46.96027 432.43 316.78
+OBJECT_SHARED Models/lib/fuel-truck.xml 6.86485 46.96027 432.43 316.78
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.86654 46.95948 432.16 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.86659 46.95944 432.16 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.86666 46.95940 432.14 0

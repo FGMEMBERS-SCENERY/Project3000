@@ -62,8 +62,8 @@ OBJECT_SHARED Models/lib/propane-tank.ac -32.42739 -3.85630 54.10 270.7
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -32.42819 -3.85635 54.85 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -32.42832 -3.85654 54.13 178.64
 OBJECT_SHARED Models/Misc/6barrels.ac -32.42765 -3.85647 59.25 359.29
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -32.42884 -3.85643 58.01 181.37
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -32.42879 -3.85643 58.01 181.37
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -32.42884 -3.85643 58.01 271.37
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -32.42879 -3.85643 58.01 271.37
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -32.42851 -3.85638 55.44 88.15
 OBJECT_SHARED Models/Transport/hatchback_red.ac -32.42810 -3.85663 53.32 28.74
 OBJECT_SHARED Models/Transport/hatchback_red.ac -32.42812 -3.85664 53.24 25.17

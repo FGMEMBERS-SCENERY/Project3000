@@ -1,6 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/industrial13x24.ac 8.86561 47.20384 405.98 110.49
+OBJECT_SHARED Models/lib/industrial13x24.ac 8.86544 47.20380 405.96 110.49
+OBJECT_SHARED Models/lib/industrial13x24.ac 8.86528 47.20375 405.95 110.49
+OBJECT_SHARED Models/lib/industrial13x24.ac 8.86511 47.20371 405.95 110.49
+OBJECT_SHARED Models/lib/industrial13x24.ac 8.86494 47.20366 405.94 110.49
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.86451 47.20382 405.95 197.65
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.86449 47.20377 405.94 291.54
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.86452 47.20380 405.94 18.19
@@ -28,7 +33,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 8.86453 47.20377 405.94 16.62
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.86450 47.20384 405.94 15.76
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.86449 47.20386 405.95 17.61
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.86447 47.20388 405.95 17.19
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.86549 47.20422 405.99 286.03
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.86549 47.20422 405.99 16.03
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.86453 47.20339 405.91 21.67
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.86470 47.20344 405.92 200.68
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.86478 47.20345 405.92 25.94
@@ -42,7 +47,7 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.86497 47.20359 405.94 32.4
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.86472 47.20353 405.92 200.16
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.86461 47.20350 405.92 24.38
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.86451 47.20347 405.92 22.62
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86457 47.20416 405.98 13.72
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86457 47.20416 405.98 193.72
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 8.86398 47.20389 405.97 297.94
 OBJECT_SHARED Models/lib/office8x14.ac 8.86468 47.20375 405.94 18.23
 OBJECT_SHARED Models/lib/farm19x12.ac 8.86429 47.20379 405.95 106.57

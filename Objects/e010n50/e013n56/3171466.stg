@@ -1,19 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.74681 56.18425 54.84 16.26
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.74706 56.18431 55.07 334.8
-OBJECT_SHARED Models/lib/SmHangar.ac 13.74700 56.18408 54.93 195.16
-OBJECT_SHARED Models/lib/cone.ac 13.74980 56.18121 54.55 0
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.74923 56.18157 55.36 37.4
-OBJECT_SHARED Models/lib/cone.ac 13.74861 56.18147 55.57 0
-OBJECT_SHARED Models/lib/cone.ac 13.74852 56.18144 55.51 0
-OBJECT_SHARED Models/lib/cone.ac 13.74954 56.18119 54.72 0
-OBJECT_SHARED Models/lib/cone.ac 13.74915 56.18120 54.88 0
-OBJECT_SHARED Models/lib/cone.ac 13.74886 56.18129 55.17 0
-OBJECT_SHARED Models/lib/cone.ac 13.74892 56.18132 55.17 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 13.74954 56.18135 54.95 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.74879 56.18079 54.62 0
-OBJECT_SHARED Models/lib/office3x10.ac 13.74825 56.18107 55.31 102.8
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.74967 56.18143 54.85 105.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.67084 56.19870 54.48 202.48
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.67064 56.19866 54.37 20.56
+OBJECT_SHARED Models/lib/shed8x10.ac 13.67039 56.19865 54.11 112.74
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.66999 56.19904 54.44 112.62
+OBJECT_SHARED Models/lib/SmHangar.ac 13.67035 56.19883 54.39 205.12
+OBJECT_SHARED Models/lib/SmHangar.ac 13.67024 56.19896 54.56 205.12
 # END dsf2stg

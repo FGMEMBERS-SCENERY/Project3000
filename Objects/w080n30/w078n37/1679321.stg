@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52099 37.40623 61.27 137.74
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52150 37.40687 61.89 316.33
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52126 37.40664 61.63 310.4
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52292 37.40828 63.23 318.22
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52099 37.40623 61.27 317.74
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52150 37.40687 61.89 136.33
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52126 37.40664 61.63 130.4
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.52292 37.40828 63.23 138.22
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.52105 37.40645 61.51 309.73
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.52345 37.40865 63.79 129.72
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -77.52194 37.40722 62.20 220.4

@@ -35,8 +35,8 @@ OBJECT_SHARED Models/Airport/FGRefuel02.xml -3.84283 35.18091 10.80 5.75
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -3.84345 35.17973 12.27 275.93
 OBJECT_SHARED Models/lib/schranke.ac -3.84244 35.18830 5.86 6.54
 OBJECT_SHARED Models/lib/schranke.ac -3.84539 35.17851 13.08 0.800003
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.84237 35.17751 14.26 6.70999
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.84237 35.17751 14.26 186.71
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -3.84235 35.17818 15.09 6.84
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.84234 35.17733 14.42 6.63
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -3.84234 35.17733 14.42 186.63
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -3.84132 35.18107 11.43 0
 # END dsf2stg

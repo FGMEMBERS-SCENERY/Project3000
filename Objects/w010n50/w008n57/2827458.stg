@@ -1,10 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.44913 57.02562 3.32 180.725
-OBJECT_SHARED Models/lib/propane-tank.ac -7.44914 57.02567 3.39 2.86237
-OBJECT_SHARED Models/lib/propane-tank.ac -7.44914 57.02565 3.39 2.86237
-OBJECT_SHARED Models/lib/cargobox2x3m.ac -7.44949 57.02527 3.37 293.198
-OBJECT_SHARED Models/lib/cars10.ac -7.44944 57.02514 3.26 238.891
-OBJECT_SHARED Models/lib/cars10.ac -7.45000 57.02499 3.63 63.9467
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.44919 57.02544 -0.32 224.136
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.44926 57.02541 -0.32 225.806
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.44930 57.02538 -0.32 159.944
+OBJECT_SHARED Models/Transport/hatchback_red.ac -7.44933 57.02496 -0.33 250.836
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -7.44926 57.02353 -0.35 297.16
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -7.44928 57.02357 -0.35 297.104
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -7.44936 57.02492 -0.33 247.652
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.44913 57.02563 -0.31 180.72
+OBJECT_SHARED Models/lib/propane-tank.ac -7.44914 57.02567 -0.31 2.86
+OBJECT_SHARED Models/lib/propane-tank.ac -7.44914 57.02566 -0.31 2.86
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -7.44949 57.02528 -0.32 293.2
+OBJECT_SHARED Models/lib/cars10.ac -7.44944 57.02515 -0.32 238.89
+OBJECT_SHARED Models/lib/cars10.ac -7.45000 57.02500 -0.33 63.95
 # END dsf2stg

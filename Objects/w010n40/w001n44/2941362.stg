@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -0.47803 44.87331 72.27 82.1466
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -0.47804 44.87328 72.26 84.0531
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.47850 44.87358 70.86 86.52
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -0.47831 44.87349 71.36 266.511
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.47818 44.87370 71.10 0.12207
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.47731 44.87335 72.45 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.47737 44.87334 72.47 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.47731 44.87337 72.35 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.47733 44.87337 72.36 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.47737 44.87337 72.38 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -0.47840 44.87309 72.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -0.47728 44.87313 72.63 270
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.47846 44.87330 71.59 86.68
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.47835 44.87329 71.76 86.68
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -0.47860 44.87375 70.42 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -0.47796 44.87349 71.92 318.237
+OBJECT_SHARED Models/lib/SmHangar.ac -0.47822 44.87321 72.20 267.5
+# END dsf2stg

@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac 170.44198 -44.00211 -0.19 86.8302
+OBJECT_SHARED Models/lib/transformer3x3.ac 170.44150 -44.00244 -0.17 199.433
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 170.44221 -44.00245 -0.20 346.008
+OBJECT_SHARED Models/lib/stack_of_cones.ac 170.44212 -44.00263 -0.20 92.7703
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 170.44237 -44.00218 -0.19 18.217
+OBJECT_SHARED Models/lib/MedHangar.ac 170.44226 -44.00273 -0.20 45.0964
+OBJECT_SHARED Models/lib/HorizTanks2.ac 170.44221 -44.00220 -0.19 83.2281
+OBJECT_SHARED Models/lib/office3x10.ac 170.44145 -44.00233 -0.17 19.0969
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 170.44226 -44.00292 -0.21 48.0124
+# END dsf2stg

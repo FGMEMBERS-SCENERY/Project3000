@@ -33,10 +33,10 @@ OBJECT_SHARED Models/lib/LongRow.ac 8.32513 54.91032 8.01 98.84
 OBJECT_SHARED Models/lib/10_spaces_dual.ac 8.32909 54.91364 5.58 180
 OBJECT_SHARED Models/lib/20_spaces_dual.ac 8.32909 54.91401 5.64 180
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 8.32672 54.91101 5.41 318.82
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.32751 54.91061 5.45 341.08
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.32751 54.91061 5.45 161.08
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 8.32582 54.91193 5.46 36.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.32718 54.91064 5.44 343.41
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 8.32614 54.91147 5.43 316.15
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.32718 54.91064 5.44 163.41
+OBJECT_SHARED Models/lib/citation.ac 8.32614 54.91147 5.43 316.15
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 8.32458 54.91366 5.81 279.29
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 8.33135 54.91394 5.95 89.53
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 8.32529 54.91252 5.54 295.1
@@ -61,11 +61,12 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.34799 54.91838 11.82 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.34752 54.91831 11.80 0
 OBJECT_SHARED Models/lib/FireStationLg.ac 8.32495 54.91141 7.55 5.36
 OBJECT_SHARED Models/lib/office32x25.ac 8.32645 54.91079 5.43 52.17
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.32607 54.91122 5.43 136.43
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.32607 54.91122 5.43 226.43
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 8.33007 54.91388 6.05 270
 OBJECT_SHARED Models/lib/office4x14.ac 8.32950 54.91441 5.35 57.14
 OBJECT_SHARED Models/lib/office4x14.ac 8.32991 54.91452 5.80 2.07001
 OBJECT_SHARED Models/lib/office4x14.ac 8.32974 54.91432 5.63 57.09
+OBJECT_SHARED Models/lib/industrial15x22.ac 8.34774 54.91962 12.42 107.2
 OBJECT_SHARED Models/lib/MedHangar.ac 8.35666 54.90689 9.43 71.57
 OBJECT_SHARED Models/lib/SmHangar.ac 8.35764 54.90688 9.51 346.9
 OBJECT_SHARED Models/lib/LgMaint.ac 8.33867 54.92060 11.35 94.7
@@ -104,5 +105,5 @@ OBJECT_SHARED Models/lib/lamp10m.xml 8.32683 54.91083 5.42 231.71
 OBJECT_SHARED Models/lib/lamp10m.xml 8.32594 54.91078 5.45 142.98
 OBJECT_SHARED Models/lib/lamp10m.xml 8.32581 54.91046 5.47 187.67
 OBJECT_SHARED Models/lib/lamp10m.xml 8.32636 54.91017 5.46 12.24
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.33152 54.91402 6.00 92.16
+OBJECT_SHARED Models/lib/fuel-truck.xml 8.33152 54.91402 6.00 92.16
 # END dsf2stg

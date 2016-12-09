@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.79967 45.46796 453.19 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.79967 45.46796 453.19 180
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -89.79969 45.46782 453.24 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -89.79964 45.46770 453.29 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.79647 45.46762 451.25 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.79702 45.46762 451.96 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.79647 45.46762 451.25 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.79702 45.46762 451.96 180
 OBJECT_SHARED Models/lib/SmHangar.ac -89.79770 45.46757 453.03 90
 OBJECT_SHARED Models/lib/SmHangar.ac -89.79771 45.46776 453.51 90.75
 OBJECT_SHARED Models/lib/SmHangar.ac -89.79729 45.46766 452.30 90

@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.05709 52.17567 53.28 174.81
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.05529 52.17598 53.32 166.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.05709 52.17567 53.28 354.81
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.05529 52.17598 53.32 346.5
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.05769 52.17540 53.17 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.05763 52.17540 53.16 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.05755 52.17540 53.16 0
@@ -11,7 +11,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 9.05763 52.17537 53.16 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.05769 52.17537 53.17 0
 OBJECT_SHARED Models/lib/cars4.ac 9.05626 52.17585 53.29 78.5
 OBJECT_SHARED Models/lib/cars6.ac 9.05759 52.17574 53.30 171.7
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.05612 52.17574 53.23 349.38
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.05612 52.17574 53.23 79.38
 OBJECT_SHARED Models/lib/cars4.ac 9.05801 52.17565 53.27 176.31
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.05639 52.17370 52.64 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.05765 52.17354 52.63 0

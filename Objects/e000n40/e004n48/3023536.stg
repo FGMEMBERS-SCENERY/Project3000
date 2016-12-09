@@ -4,7 +4,7 @@
 OBJECT_SHARED Models/lib/LuggCartGroup.ac 4.18995 48.77979 166.75 90
 OBJECT_SHARED Models/lib/stack_of_cones.ac 4.19097 48.77973 171.63 0
 OBJECT_SHARED Models/Aircraft/B747.xml 4.19245 48.77945 171.49 78.05
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 4.19533 48.77746 162.02 257.91
+OBJECT_SHARED Models/lib/fuel-truck.xml 4.19533 48.77746 162.02 257.91
 OBJECT_SHARED Models/lib/chariot1.ac 4.19164 48.77963 172.15 76.7596
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac 4.19288 48.77947 170.18 349.389
 OBJECT_SHARED Models/Transport/Norberttruck.xml 4.19304 48.78084 166.51 259.529
@@ -37,8 +37,8 @@ OBJECT_SHARED Models/Airport/FGRefuel02.xml 4.19859 48.77766 161.57 -84.09
 OBJECT_SHARED Models/lib/cone.ac 4.19384 48.77923 169.24 0
 OBJECT_SHARED Models/lib/cone.ac 4.19373 48.77924 169.37 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 4.19165 48.77954 172.59 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 4.19866 48.77759 161.83 95.92
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 4.19865 48.77753 162.09 97.13
+OBJECT_SHARED Models/lib/fuel-truck.xml 4.19866 48.77759 161.83 95.92
+OBJECT_SHARED Models/lib/fuel-truck.xml 4.19865 48.77753 162.09 97.13
 OBJECT_SHARED Models/lib/CargoPodPkng.ac 4.19857 48.77754 162.09 187.289
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 4.19278 48.78090 166.90 259.662
 OBJECT_SHARED Models/Transport/Norberttruck.xml 4.19295 48.78085 166.48 259.097

@@ -33,12 +33,12 @@ OBJECT_SHARED Models/Misc/FlagpoleFG.xml -88.29285 37.00812 105.01 0
 OBJECT_SHARED Models/lib/transformer3x3.ac -88.29231 37.00811 104.66 181.41
 OBJECT_SHARED Models/lib/SmHangar.ac -88.28989 37.00633 103.85 130.2
 OBJECT_SHARED Models/lib/LongRow.ac -88.29080 37.00698 104.42 122.42
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.29133 37.00737 104.66 30.07
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.29133 37.00737 104.66 210.07
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -88.29373 37.00868 104.36 271.19
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -88.29127 37.00762 104.41 200.2
+OBJECT_SHARED Models/lib/citation.ac -88.29127 37.00762 104.41 200.2
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -88.29256 37.00821 104.80 0
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -88.29204 37.00841 104.05 92.02
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.29196 37.00857 103.86 91.68
+OBJECT_SHARED Models/lib/citation.ac -88.29204 37.00841 104.05 92.02
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.29196 37.00857 103.86 271.68
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -88.29247 37.00821 104.74 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -88.29266 37.00821 104.86 0
 # END dsf2stg

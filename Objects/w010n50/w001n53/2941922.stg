@@ -445,17 +445,17 @@ OBJECT_SHARED Models/lib/lamp10m.xml -0.35303 53.57963 24.70 203.4
 OBJECT_SHARED Models/lib/lamp10m.xml -0.35248 53.57947 24.50 -73.84
 OBJECT_SHARED Models/lib/transformer3x3.ac -0.35233 53.57970 24.35 339.04
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.35231 53.57915 24.58 338.5
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -0.35159 53.58001 23.90 120.58
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -0.35239 53.57985 24.29 110.56
+OBJECT_SHARED Models/lib/fuel-truck.xml -0.35159 53.58001 23.90 120.58
+OBJECT_SHARED Models/lib/fuel-truck.xml -0.35239 53.57985 24.29 110.56
 OBJECT_SHARED Models/lib/office4x14.ac -0.35332 53.57950 24.87 248.2
 OBJECT_SHARED Models/lib/office4x14.ac -0.35354 53.57955 24.94 248.2
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -0.35290 53.57979 24.56 249.75
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -0.35039 53.57990 23.50 66.45
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -0.35066 53.57954 23.82 62.78
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.35051 53.57966 23.66 61.82
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.35051 53.57966 23.66 241.82
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -0.35020 53.58303 22.40 153.45
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -0.34861 53.58239 21.71 295.69
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.35016 53.58016 23.26 154.65
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.35088 53.58027 23.49 153.44
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -0.35278 53.58116 24.07 187.96
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.35016 53.58016 23.26 334.65
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.35088 53.58027 23.49 333.44
+OBJECT_SHARED Models/lib/citation.ac -0.35278 53.58116 24.07 187.96
 # END dsf2stg

@@ -7,9 +7,9 @@ OBJECT_SHARED Models/lib/HorizTanks2.ac -18.07618 65.65519 5.06 89.84
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -18.07507 65.65163 8.22 101.8
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -18.07591 65.65088 9.59 331.47
 OBJECT_SHARED Models/Aircraft/B1900_services.xml -18.07498 65.65454 5.22 184.2
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -18.07366 65.65428 4.80 272.89
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -18.07598 65.65310 7.31 128
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -18.07697 65.65369 7.30 64.19
+OBJECT_SHARED Models/lib/citation.ac -18.07366 65.65428 4.80 272.89
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -18.07598 65.65310 7.31 308
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -18.07697 65.65369 7.30 244.19
 OBJECT_SHARED Models/lib/lamp10m.xml -18.07563 65.65183 8.41 275.63
 OBJECT_SHARED Models/lib/lamp10m.xml -18.07556 65.65157 8.62 275.63
 OBJECT_SHARED Models/lib/lamp10m.xml -18.07508 65.65144 8.42 5.53
@@ -33,7 +33,7 @@ OBJECT_SHARED Models/Airport/cargoip.xml -18.07512 65.65148 8.32 0
 OBJECT_SHARED Models/Airport/cargoip.xml -18.07506 65.65146 8.32 0
 OBJECT_SHARED Models/Airport/cargoip.xml -18.07519 65.65148 8.40 0
 OBJECT_SHARED Models/lib/caisses_group.ac -18.07524 65.65419 5.61 191.64
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -18.07559 65.65498 4.98 181.1
+OBJECT_SHARED Models/lib/fuel-truck.xml -18.07559 65.65498 4.98 181.1
 OBJECT_SHARED Models/lib/cars4.ac -18.07635 65.65076 10.10 184.43
 OBJECT_SHARED Models/lib/cars14.ac -18.07641 65.65189 8.91 275.94
 OBJECT_SHARED Models/lib/cars14.ac -18.07703 65.65289 8.20 93.18

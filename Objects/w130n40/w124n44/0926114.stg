@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/admin31x12.ac -123.28657 44.50333 73.94 157.035
 OBJECT_SHARED Models/lib/SmHangar.ac -123.28308 44.50496 74.00 60.03
 OBJECT_SHARED Models/lib/SmHangar.ac -123.28283 44.50485 73.97 58.6738
 OBJECT_SHARED Models/lib/SmHangar.ac -123.28256 44.50474 73.90 59.403

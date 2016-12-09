@@ -125,7 +125,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -72.92928 -47.47010 58.14 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.92927 -47.47019 58.13 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.92924 -47.46997 58.14 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -72.92930 -47.46994 58.16 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.93042 -47.46685 58.54 181.47
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.92968 -47.47447 58.23 19.21
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.93042 -47.46685 58.54 1.47
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.92968 -47.47447 58.23 199.21
 OBJECT_SHARED Models/lib/farm19x12.ac -72.93312 -47.47354 63.63 88.25
 # END dsf2stg

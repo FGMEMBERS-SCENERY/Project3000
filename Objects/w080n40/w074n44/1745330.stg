@@ -1,13 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.28643 44.87046 37.45 155.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.28643 44.87046 37.45 335.56
 OBJECT_SHARED Models/Misc/picnic_table.ac -73.28662 44.87050 39.27 338.96
 OBJECT_SHARED Models/lib/farm19x12.ac -73.28693 44.86981 38.76 56.94
 OBJECT_SHARED Models/lib/farm19x12.ac -73.28390 44.87470 34.66 180.09
+OBJECT_SHARED Models/lib/industrial13x24.ac -73.28607 44.87180 37.96 70.82
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -73.28642 44.87121 38.89 74.17
 OBJECT_SHARED Models/lib/shed10x50.ac -73.28669 44.87057 39.50 74.07
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.28391 44.87404 29.10 10.46
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.28391 44.87404 29.10 190.46
 OBJECT_SHARED Models/Misc/picnic_table.ac -73.28598 44.87173 38.28 67.31
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.28657 44.86929 33.68 212.73
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.28579 44.86960 28.21 57.72

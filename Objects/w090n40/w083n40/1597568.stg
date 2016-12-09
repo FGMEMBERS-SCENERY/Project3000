@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.90398 40.00611 247.93 265.75
+OBJECT_SHARED Models/Airport/egkk_oil.xml -82.87765 40.00619 239.73 267.4
+OBJECT_SHARED Models/Airport/egkk_oil.xml -82.87823 40.00622 240.00 267.17
+OBJECT_SHARED Models/lib/office112x50.ac -82.90069 40.00851 246.94 86.11
+OBJECT_SHARED Models/lib/LongRow.ac -82.88948 40.00581 246.76 355.77
+OBJECT_SHARED Models/lib/LongRow.ac -82.88950 40.00545 245.98 355.77
+# END dsf2stg

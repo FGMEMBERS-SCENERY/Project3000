@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -3.25737 54.12662 13.22 356.634
+OBJECT_SHARED Models/lib/shed8x10.ac -3.25736 54.12670 13.09 356.634
+OBJECT_SHARED Models/lib/shed8x10.ac -3.25735 54.12678 12.97 356.634
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -3.25752 54.12672 13.14 86.6629
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -3.25769 54.12672 13.20 86.6629
+OBJECT_SHARED Models/lib/office3x10.ac -3.26023 54.12520 15.21 321.18
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.26004 54.12589 14.57 320.194
+OBJECT_SHARED Models/lib/admin31x12.ac -3.26183 54.12576 14.53 22.2248
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25508 54.12711 11.54 222.729
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25504 54.12709 11.52 222.729
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25501 54.12706 11.51 222.729
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25497 54.12704 11.61 222.729
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25493 54.12703 11.59 222.729
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25533 54.12676 12.07 34.3124
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25540 54.12683 12.11 28.7868
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25542 54.12686 12.00 28.7868
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25551 54.12694 12.05 28.7868
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25549 54.12692 12.04 28.7868
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25547 54.12690 12.03 28.7868
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.25544 54.12688 12.01 28.7868
+OBJECT_SHARED Models/lib/cars6.ac -3.26026 54.12512 15.30 231.315
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -3.26023 54.12513 15.30 230.849
+OBJECT_SHARED Models/lib/cars4.ac -3.26210 54.12561 14.63 111.482
+OBJECT_SHARED Models/lib/cars4.ac -3.26218 54.12572 14.53 292.516
+OBJECT_SHARED Models/lib/cars4.ac -3.26232 54.12568 14.50 292.516
+OBJECT_SHARED Models/lib/cars6.ac -3.26195 54.12577 14.50 290.337
+OBJECT_SHARED Models/lib/cars6.ac -3.26242 54.12544 14.71 112.234
+OBJECT_SHARED Models/lib/lamp10m.xml -3.26133 54.12512 15.21 214.287
+OBJECT_SHARED Models/lib/citation.ac -3.26110 54.12520 15.17 36.9454
+OBJECT_SHARED Models/lib/lamp10m.xml -3.26146 54.12591 14.49 140.195
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -3.26115 54.12516 15.17 0
+OBJECT_SHARED Models/lib/schranke.ac -3.26078 54.12512 15.29 149.827
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -3.26020 54.12602 14.48 141.158
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -3.26026 54.12604 14.48 141.158
+# END dsf2stg

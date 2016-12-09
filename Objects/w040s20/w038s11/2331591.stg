@@ -143,11 +143,11 @@ OBJECT_SHARED Models/lib/office8x14.ac -37.07038 -10.98649 9.38 358.7
 OBJECT_SHARED Models/lib/office3x10.ac -37.07006 -10.98706 9.49 90
 OBJECT_SHARED Models/lib/office3x10.ac -37.07035 -10.98587 7.62 0
 OBJECT_SHARED Models/lib/transformer3x3.ac -37.07064 -10.98689 9.16 88.11
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -37.07033 -10.98629 8.58 358.78
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -37.07025 -10.98630 8.57 268.99
+OBJECT_SHARED Models/lib/fuel-truck.xml -37.07033 -10.98629 8.58 358.78
+OBJECT_SHARED Models/lib/fuel-truck.xml -37.07025 -10.98630 8.57 268.99
 OBJECT_SHARED Models/lib/HorizTanks2.ac -37.07026 -10.98645 8.98 0.620003
 OBJECT_SHARED Models/lib/HorizTanks2.ac -37.07026 -10.98653 9.38 359.54
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -37.07023 -10.98637 8.97 88.21
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -37.07023 -10.98637 8.97 178.21
 OBJECT_SHARED Models/lib/RampGroup.xml -37.07145 -10.98655 8.50 358.45
 OBJECT_SHARED Models/lib/RampParking.xml -37.07196 -10.98642 7.99 358.45
 OBJECT_SHARED Models/lib/RampGroup.xml -37.07223 -10.98653 7.94 358.45

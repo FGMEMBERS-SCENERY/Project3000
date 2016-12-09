@@ -2,18 +2,18 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -87.67886 30.28585 3.21 275.51
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67847 30.28498 3.00 90
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67847 30.28498 3.00 270
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -87.67860 30.28625 3.27 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67862 30.28638 3.28 97.91
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67866 30.28687 3.31 100.62
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67850 30.28657 3.30 275.71
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67827 30.28679 3.34 96.81
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67828 30.28692 3.35 91.88
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67829 30.28705 3.36 98.82
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67831 30.28717 3.38 84.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67904 30.28730 3.33 243.15
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67862 30.28638 3.28 277.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67866 30.28687 3.31 280.62
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67850 30.28657 3.30 95.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67827 30.28679 3.34 276.81
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67828 30.28692 3.35 271.88
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67829 30.28705 3.36 278.82
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67831 30.28717 3.38 264.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67904 30.28730 3.33 63.15
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -87.67858 30.28732 3.37 276.82
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67867 30.28785 3.44 276.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67867 30.28785 3.44 96.93
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -87.67836 30.28532 3.21 272.96
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -87.67874 30.28502 3.02 276.01
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -87.67893 30.28699 3.30 271.02
@@ -27,13 +27,13 @@ OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -87.67846 30.28607 3.26 277.4
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -87.67829 30.28772 3.45 89.03
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -87.67868 30.28829 3.50 278.95
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -87.67873 30.28850 3.54 280.73
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67473 30.28511 3.42 93.47
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67473 30.28511 3.42 273.47
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -87.67483 30.28423 3.70 192.53
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67496 30.28439 3.84 18
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67482 30.28439 3.66 5.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67494 30.28470 3.69 170.84
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67496 30.28439 3.84 198
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67482 30.28439 3.66 185.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.67494 30.28470 3.69 350.84
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -87.68178 30.28602 2.99 271.25
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.68179 30.28710 2.99 300.26
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.68179 30.28710 2.99 120.26
 OBJECT_SHARED Models/lib/MedHangar.ac -87.67435 30.28497 3.08 89.31
 OBJECT_SHARED Models/lib/MedHangar.ac -87.67473 30.28459 3.53 359.62
 OBJECT_SHARED Models/lib/SmHangar.ac -87.67478 30.28407 3.72 0.550003
@@ -55,6 +55,7 @@ OBJECT_SHARED Models/lib/LongRow.ac -87.68064 30.28804 3.00 180.02
 OBJECT_SHARED Models/lib/LongRow.ac -87.68031 30.28804 3.00 180.02
 OBJECT_SHARED Models/lib/LongRow.ac -87.68055 30.28634 3.00 180.15
 OBJECT_SHARED Models/lib/MedHangar.ac -87.67911 30.28697 3.28 183.77
+OBJECT_SHARED Models/lib/admin31x12.ac -87.67932 30.28751 3.32 4.4
 OBJECT_SHARED Models/lib/canopy18x8.ac -87.67934 30.28772 3.35 3.14
 OBJECT_SHARED Models/lib/canopy18x8.ac -87.67916 30.28752 3.33 94.65
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -87.67912 30.28766 3.37 0
@@ -80,8 +81,8 @@ OBJECT_SHARED Models/lib/cars14.ac -87.67956 30.28782 3.13 273.54
 OBJECT_SHARED Models/lib/cars14.ac -87.67954 30.28798 3.26 93.78
 OBJECT_SHARED Models/lib/cars14.ac -87.67957 30.28797 3.15 273.38
 OBJECT_SHARED Models/lib/cars4.ac -87.68003 30.28786 3.00 92.24
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -87.67889 30.28659 3.27 94.22
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -87.67893 30.28670 3.28 95.38
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -87.67892 30.28664 3.27 95.38
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -87.67891 30.28653 3.26 95.38
+OBJECT_SHARED Models/lib/fuel-truck.xml -87.67889 30.28659 3.27 94.22
+OBJECT_SHARED Models/lib/fuel-truck.xml -87.67893 30.28670 3.28 95.38
+OBJECT_SHARED Models/lib/fuel-truck.xml -87.67892 30.28664 3.27 95.38
+OBJECT_SHARED Models/lib/fuel-truck.xml -87.67891 30.28653 3.26 95.38
 # END dsf2stg

@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.17984 -39.00916 32.72 110.73
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18063 -39.00889 31.83 201.9
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18064 -39.00906 31.94 200.73
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18070 -39.00931 32.00 202.85
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18083 -39.00927 32.00 202.59
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18095 -39.00922 31.97 201.8
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18109 -39.00945 32.06 201.92
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.17984 -39.00916 32.72 290.73
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18063 -39.00889 31.83 21.9
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18064 -39.00906 31.94 20.73
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18070 -39.00931 32.00 22.85
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18083 -39.00927 32.00 22.59
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18095 -39.00922 31.97 21.8
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.18109 -39.00945 32.06 21.92
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 174.18093 -39.00981 30.71 202.76
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 174.18027 -39.00916 32.72 203.64
 OBJECT_SHARED Models/lib/cube16x10.ac 174.17962 -39.00934 32.79 113.6
@@ -19,6 +19,7 @@ OBJECT_SHARED Models/lib/hangarUL10x30.ac 174.17945 -39.01145 35.87 24.09
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 174.18050 -39.00959 32.92 23.33
 OBJECT_SHARED Models/lib/office8x14.ac 174.17693 -39.01076 33.57 23.56
 OBJECT_SHARED Models/lib/office8x14.ac 174.18034 -39.01000 31.59 293.55
+OBJECT_SHARED Models/lib/industrial13x24.ac 174.18090 -39.01040 32.26 203.56
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 174.17796 -39.01008 33.32 202.78
 OBJECT_SHARED Models/lib/MedHangar.ac 174.18124 -39.01076 31.84 203.62
 OBJECT_SHARED Models/lib/SmHangar.ac 174.17466 -39.01121 32.99 293.41
@@ -33,7 +34,7 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 174.17805 -39.00990 33.29 60
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 174.17745 -39.00969 32.13 358.15
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 174.17877 -39.00958 33.05 23.63
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 174.17873 -39.00960 33.05 23.43
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 174.17920 -39.00951 33.03 202.51
+OBJECT_SHARED Models/lib/fuel-truck.xml 174.17920 -39.00951 33.03 202.51
 OBJECT_SHARED Models/lib/chariot3.ac 174.17826 -39.00981 33.23 277.62
 OBJECT_SHARED Models/lib/chariot3curve.ac 174.17861 -39.00968 33.06 237.44
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 174.17840 -39.00979 33.23 0

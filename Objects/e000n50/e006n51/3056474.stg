@@ -118,6 +118,7 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac 6.59001 51.38366 40.77 225
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 6.59033 51.38456 40.82 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 6.59016 51.38372 40.86 180
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 6.59017 51.38411 41.04 0
+OBJECT_SHARED Models/lib/propane-tank.ac 6.59014 51.38421 41.06 119.98
 OBJECT_SHARED Models/lib/lamp10m.xml 6.58932 51.38320 40.11 205.94
 OBJECT_SHARED Models/lib/lamp10m.xml 6.59034 51.38347 41.17 115.46
 OBJECT_SHARED Models/lib/lamp10m.xml 6.59025 51.38355 40.88 117.9
@@ -126,9 +127,9 @@ OBJECT_SHARED Models/lib/lamp10m.xml 6.59022 51.38441 41.00 81.87
 OBJECT_SHARED Models/lib/lamp10m.xml 6.59049 51.38440 41.31 119.05
 OBJECT_SHARED Models/lib/lamp10m.xml 6.59061 51.38427 41.06 123.69
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.58997 51.38407 40.92 84.96
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.58998 51.38389 40.84 88.73
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.58900 51.38345 40.08 283.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.58873 51.38400 40.04 284.7
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.58883 51.38386 40.15 280.49
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.58897 51.38371 40.15 107.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.58998 51.38389 40.84 268.73
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.58900 51.38345 40.08 103.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.58873 51.38400 40.04 104.7
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.58883 51.38386 40.15 100.49
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.58897 51.38371 40.15 197.93
 # END dsf2stg

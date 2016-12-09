@@ -37,8 +37,8 @@ OBJECT_SHARED Models/lib/lamp10m.xml -72.24766 40.96120 10.13 270
 OBJECT_SHARED Models/lib/lamp10m.xml -72.24752 40.96127 10.16 270
 OBJECT_SHARED Models/lib/lamp10m.xml -72.24732 40.96107 10.02 270
 OBJECT_SHARED Models/lib/lamp10m.xml -72.24740 40.96118 10.09 270
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -72.24888 40.96158 10.52 30.11
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -72.24886 40.96142 10.43 302.3
+OBJECT_SHARED Models/lib/fuel-truck.xml -72.24888 40.96158 10.52 30.11
+OBJECT_SHARED Models/lib/fuel-truck.xml -72.24886 40.96142 10.43 302.3
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -72.24873 40.96142 10.38 0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -72.24871 40.96143 10.38 0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -72.24872 40.96144 10.38 0

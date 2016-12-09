@@ -7,6 +7,6 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac -23.82010 64.91257 13.36 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -23.82002 64.91253 13.33 296.575
 OBJECT_SHARED Models/lib/lamp10m.xml -23.81997 64.91246 13.33 270.764
 OBJECT_SHARED Models/lib/lamp10m.xml -23.81936 64.91275 12.75 181.507
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -23.81955 64.91224 13.11 135.369
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -23.81955 64.91224 13.11 225.369
 OBJECT_SHARED Models/lib/SmHangar.ac -23.82453 64.91045 16.69 235.193
 # END dsf2stg

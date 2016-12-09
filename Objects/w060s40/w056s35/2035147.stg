@@ -72,8 +72,8 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -55.09983 -34.86036 28.35 64
 OBJECT_SHARED Models/Aircraft/320austrian.xml -55.09955 -34.85974 28.96 197.59
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -55.09742 -34.86479 26.65 27.41
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -55.09729 -34.86443 27.05 131.35
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -55.09788 -34.86324 28.56 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -55.09811 -34.86330 28.59 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -55.09788 -34.86324 28.56 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -55.09811 -34.86330 28.59 180
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -55.09869 -34.86313 28.29 216.03
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -55.09796 -34.86291 28.94 200.56
 # END dsf2stg

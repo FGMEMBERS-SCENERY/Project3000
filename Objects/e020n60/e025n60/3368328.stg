@@ -26,7 +26,7 @@ OBJECT_SHARED Models/lib/cars6.ac 25.04502 60.24908 19.98 53.04
 OBJECT_SHARED Models/lib/canopy18x8.ac 25.04552 60.24931 20.30 103.25
 OBJECT_SHARED Models/lib/MedHangar.ac 25.04942 60.24846 21.76 236.58
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 25.04600 60.24964 19.71 323.11
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04547 60.24969 19.53 1.82001
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04547 60.24969 19.53 181.82
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 25.04501 60.24959 19.50 49.03
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 25.04447 60.24912 19.69 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 25.04450 60.24911 19.69 0
@@ -37,12 +37,12 @@ OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 25.04443 60.24913 19.68 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 25.04445 60.24911 19.68 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 25.04442 60.24910 19.68 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 25.04439 60.24911 19.68 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04468 60.24927 19.61 236.2
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04386 60.24908 19.64 324.67
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04468 60.24927 19.61 56.2
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04386 60.24908 19.64 144.67
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 25.04369 60.24918 19.58 325.46
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04373 60.24899 19.68 147.58
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04792 60.24985 20.12 145.72
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04798 60.24964 20.34 145.81
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04373 60.24899 19.68 327.58
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04792 60.24985 20.12 325.72
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.04798 60.24964 20.34 325.81
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 25.04874 60.24936 20.72 148.84
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 25.03801 60.24862 21.26 176.89
 # END dsf2stg

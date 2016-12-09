@@ -2,8 +2,8 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/shed8x10.ac -1.30159 59.87891 4.21 209.311
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -1.30154 59.87872 4.24 100.353
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -1.30168 59.87876 4.23 29.2677
+OBJECT_SHARED Models/lib/fuel-truck.xml -1.30154 59.87872 4.24 100.353
+OBJECT_SHARED Models/lib/fuel-truck.xml -1.30168 59.87876 4.23 29.2677
 OBJECT_SHARED Models/lib/office8x14.ac -1.30125 59.87882 4.21 29.172
 OBJECT_SHARED Models/lib/MedHangar.ac -1.28449 59.87838 3.96 126.28
 OBJECT_SHARED Models/lib/lamp10m.xml -1.28517 59.87831 4.13 126.068
@@ -51,7 +51,7 @@ OBJECT_SHARED Models/lib/HorizTanks2.ac -1.30168 59.87871 4.26 209.347
 OBJECT_SHARED Models/lib/HorizTanks2.ac -1.30176 59.87878 4.24 209.347
 OBJECT_SHARED Models/lib/chariot2.ac -1.28845 59.87670 3.58 148.621
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -1.29168 59.87796 4.61 86.2063
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -1.29189 59.87821 4.74 307.849
+OBJECT_SHARED Models/lib/citation.ac -1.29189 59.87821 4.74 307.849
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -1.28557 59.87786 4.01 35.6465
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -1.28871 59.87689 3.75 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -1.28723 59.87734 3.92 296.565

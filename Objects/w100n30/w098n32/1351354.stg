@@ -14,8 +14,8 @@ OBJECT_SHARED Models/lib/cargo_pod_lot.ac -97.31514 32.99562 213.41 27.35
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac -97.31719 32.99570 214.38 100.63
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac -97.31687 32.99420 213.92 100.63
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -97.31388 32.98246 204.22 98.84
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -97.31496 32.98761 209.16 9.87
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -97.31490 32.98763 209.10 9.87
+OBJECT_SHARED Models/lib/fuel-truck.xml -97.31496 32.98761 209.16 9.87
+OBJECT_SHARED Models/lib/fuel-truck.xml -97.31490 32.98763 209.10 9.87
 OBJECT_SHARED Models/lib/lamp10m.xml -97.31479 32.98787 209.26 100.69
 OBJECT_SHARED Models/lib/lamp10m.xml -97.31407 32.98530 206.72 9.39002
 OBJECT_SHARED Models/lib/lamp10m.xml -97.31415 32.98572 207.12 9.39002
@@ -68,8 +68,8 @@ OBJECT_SHARED Models/lib/MedHangar.ac -97.31455 32.98738 208.71 10.6
 OBJECT_SHARED Models/lib/MedHangar.ac -97.31345 32.97973 201.77 10.6
 OBJECT_SHARED Models/lib/MedHangar.ac -97.31271 32.97680 199.42 10.6
 OBJECT_SHARED Models/lib/MedHangar.ac -97.31261 32.97636 199.18 10.6
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -97.30795 32.99449 123.86 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -97.30801 32.99477 123.96 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -97.30795 32.99449 113.86 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -97.30801 32.99477 113.96 0
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -97.31661 32.99370 213.62 279.16
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -97.31669 32.99405 213.81 279.16
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -97.31676 32.99440 213.93 279.16

@@ -2,9 +2,9 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Airport/egkk_oil.xml -71.02593 42.37641 4.02 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -71.02614 42.37691 -80.77 56.59
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -71.02614 42.37691 -90.77 56.59
 OBJECT_SHARED Models/Airport/egkk_oil.xml -71.02559 42.37619 3.87 45
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -71.02645 42.37709 -80.58 270
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -71.02645 42.37709 -90.58 270
 OBJECT_SHARED Models/Airport/egkk_oil.xml -71.02526 42.37598 3.72 0
 OBJECT_SHARED Models/Airport/egkk_oil.xml -71.02491 42.37577 3.55 0
 # END dsf2stg

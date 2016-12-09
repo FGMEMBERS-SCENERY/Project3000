@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 13.27615 -9.64587 107.69 254.05
+OBJECT_SHARED Models/Aircraft/320austrian.xml 13.27582 -9.64602 107.67 265.98
+OBJECT_SHARED Models/Aircraft/B747.xml 13.27589 -9.64645 107.42 9.99
+OBJECT_SHARED Models/Aircraft/ATR42.xml 13.27607 -9.64618 107.53 182.74
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.26254 -9.64793 109.19 90
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 13.25994 -9.64968 107.98 281.82
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 13.26019 -9.64903 108.57 5.22
+OBJECT_SHARED Models/Airport/cargoim.xml 13.26036 -9.65005 107.49 265.1
+OBJECT_SHARED Models/Airport/cargoim.xml 13.26039 -9.65017 107.37 178.05
+OBJECT_SHARED Models/Airport/cargoip.xml 13.26037 -9.65018 107.36 268.59
+OBJECT_SHARED Models/Airport/cargoip.xml 13.26037 -9.65014 107.40 187.82
+OBJECT_SHARED Models/Airport/cargoip.xml 13.26034 -9.65001 107.56 271.37
+OBJECT_SHARED Models/Airport/cargobox.xml 13.26032 -9.65000 107.57 276.01
+OBJECT_SHARED Models/Airport/cargobox.xml 13.26035 -9.65003 107.54 1.51999
+OBJECT_SHARED Models/Airport/cargobox.xml 13.26033 -9.65003 107.54 277.67
+OBJECT_SHARED Models/Airport/cargobox.xml 13.26034 -9.65006 107.50 0
+OBJECT_SHARED Models/Airport/cargobox.xml 13.26039 -9.65015 107.39 270.86
+OBJECT_SHARED Models/Airport/cargobox.xml 13.26037 -9.65019 107.35 266.08
+OBJECT_SHARED Models/Airport/cargobox.xml 13.26037 -9.65016 107.38 267.88
+OBJECT_SHARED Models/lib/office4x14.ac 13.26022 -9.65009 107.50 90.15
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.26065 -9.65092 106.57 0
+OBJECT_SHARED Models/lib/office16x4n.ac 13.26092 -9.65094 106.48 107.79
+OBJECT_SHARED Models/lib/FireStationLg.ac 13.26125 -9.65099 106.37 287.25
+OBJECT_SHARED Models/lib/SmHangar.ac 13.27291 -9.64588 110.21 107.35
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 13.25011 -9.65326 104.77 282.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.27388 -9.64594 109.54 289.86
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.25015 -9.65293 104.83 187.67
+# END dsf2stg

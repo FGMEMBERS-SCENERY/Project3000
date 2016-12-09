@@ -8,5 +8,5 @@ OBJECT_SHARED Models/lib/SmHangar.ac -73.38125 -37.77263 94.37 29.28
 OBJECT_SHARED Models/lib/office32x25.ac -73.38122 -37.77418 96.28 341
 OBJECT_SHARED Models/lib/office40x25.ac -73.37995 -37.77549 93.85 74
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.38266 -37.77493 93.84 15.64
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.38160 -37.77328 94.61 63
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.38160 -37.77328 94.61 243
 # END dsf2stg

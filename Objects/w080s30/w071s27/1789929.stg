@@ -3,7 +3,7 @@
 #
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.61163 -26.33226 24.66 270
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.60185 -26.33282 38.98 91.94
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.61452 -26.33157 22.53 251.03
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.61452 -26.33157 22.53 71.03
 OBJECT_SHARED Models/lib/cars2.ac -70.61218 -26.33268 23.72 350.45
 OBJECT_SHARED Models/lib/cars4.ac -70.61259 -26.33285 23.39 78.32
 OBJECT_SHARED Models/lib/SmHangar.ac -70.61200 -26.33271 23.84 259.75

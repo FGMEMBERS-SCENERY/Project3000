@@ -26,7 +26,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac 10.38561 43.68874 0.34 160.87
 OBJECT_SHARED Models/lib/SmHangar.ac 10.38551 43.68854 0.13 158.92
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 10.39509 43.69434 0.75 68.2
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 10.40303 43.69833 1.54 282.83
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 10.40233 43.69833 1.48 94.19
+OBJECT_SHARED Models/lib/citation.ac 10.40233 43.69833 1.48 94.19
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.40367 43.69875 1.73 32.66
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 10.39962 43.69515 0.80 262.89
 OBJECT_SHARED Models/Aircraft/320austrian.xml 10.39643 43.69469 0.81 82.1
@@ -41,8 +41,8 @@ OBJECT_SHARED Models/lib/LuggCartGroup.ac 10.40200 43.69670 1.19 73.62
 OBJECT_SHARED Models/lib/chariot1.ac 10.39688 43.69757 1.19 83.88
 OBJECT_SHARED Models/lib/chariot5.ac 10.39644 43.69474 0.81 351.33
 OBJECT_SHARED Models/lib/CargoPodPkng.ac 10.39587 43.69478 0.55 260.5
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 10.39593 43.69496 0.58 81.6
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 10.39594 43.69502 0.58 80.14
+OBJECT_SHARED Models/lib/fuel-truck.xml 10.39593 43.69496 0.58 81.6
+OBJECT_SHARED Models/lib/fuel-truck.xml 10.39594 43.69502 0.58 80.14
 OBJECT_SHARED Models/Transport/Norberttruck.xml 10.39655 43.69708 1.12 352.69
 OBJECT_SHARED Models/Airport/cargoip.xml 10.40179 43.69798 1.38 84.36
 OBJECT_SHARED Models/Airport/cargoip.xml 10.40171 43.69798 1.37 84.36

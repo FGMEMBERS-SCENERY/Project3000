@@ -2,10 +2,10 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.97114 -34.57152 339.50 2.07999
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.97080 -34.57035 339.05 286.66
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.97080 -34.57035 339.05 106.66
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.97074 -34.56987 338.59 283.43
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.97048 -34.56871 337.73 183.76
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.97058 -34.56950 338.26 281.53
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.97058 -34.56950 338.26 101.53
 OBJECT_SHARED Models/lib/cars4.ac -70.97145 -34.57133 339.08 255
 OBJECT_SHARED Models/lib/cars6.ac -70.97136 -34.57049 338.70 249
 OBJECT_SHARED Models/lib/cars2.ac -70.97114 -34.56995 338.42 290

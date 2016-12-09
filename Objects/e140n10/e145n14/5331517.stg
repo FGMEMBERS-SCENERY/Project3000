@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 145.62521 14.99455 -0.13 99.73
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 145.62521 14.99468 -0.13 90
+OBJECT_SHARED Models/lib/cars4.ac 145.62619 14.99393 -0.17 189.59
+OBJECT_SHARED Models/lib/cars10.ac 145.62650 14.99398 -0.17 190.13
+OBJECT_SHARED Models/lib/cars10.ac 145.62606 14.99408 -0.17 9.66
+OBJECT_SHARED Models/lib/FireStationLg.ac 145.62557 14.99446 -0.16 100.81
+OBJECT_SHARED Models/lib/FireStationLg.ac 145.62556 14.99451 -0.16 100.81
+OBJECT_SHARED Models/lib/lamp10m.xml 145.62736 14.99485 -0.18 -79.94
+OBJECT_SHARED Models/lib/lamp10m.xml 145.62680 14.99475 -0.18 -78.69
+OBJECT_SHARED Models/lib/lamp10m.xml 145.62638 14.99466 -0.16 -79.7
+OBJECT_SHARED Models/lib/lamp10m.xml 145.62597 14.99457 -0.16 -79.7
+OBJECT_SHARED Models/lib/SmHangar.ac 145.62527 14.99448 -0.13 280.11
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.62639 14.99494 -0.16 281
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.62639 14.99494 -0.16 101
+OBJECT_SHARED Models/lib/belt_loader.ac 145.62663 14.99476 -0.18 186.84
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 145.62642 14.99473 -0.16 6.34
+OBJECT_SHARED Models/lib/chariot1.ac 145.62691 14.99482 -0.18 10.41
+# END dsf2stg

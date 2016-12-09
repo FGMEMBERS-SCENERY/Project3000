@@ -18,8 +18,8 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 11.64800 54.08240 6.77 104.38
 OBJECT_SHARED Models/Misc/picnic_table.ac 11.64805 54.08240 6.87 103.83
 OBJECT_SHARED Models/Misc/picnic_table.ac 11.64811 54.08241 6.87 108.22
 OBJECT_SHARED Models/Misc/picnic_table.ac 11.64817 54.08242 6.97 105.78
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.64749 54.08239 6.71 190.98
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.64885 54.08251 7.59 153.44
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.64749 54.08239 6.71 10.98
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.64885 54.08251 7.59 333.44
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.64362 54.08319 7.98 111.61
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.64374 54.08299 7.89 297.15
 OBJECT_SHARED Models/lib/cars2.ac 11.64841 54.08270 7.23 199.3
@@ -82,6 +82,9 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml 11.64975 54.08279 8.64 180
 OBJECT_SHARED Models/lib/office3x10.ac 11.64757 54.08267 6.96 16.21
 OBJECT_SHARED Models/lib/office3x10.ac 11.64764 54.08268 6.96 15.85
 OBJECT_SHARED Models/lib/office3x10.ac 11.64772 54.08269 6.96 15.05
+OBJECT_SHARED Models/lib/farm19x12.ac 11.64834 54.08262 7.11 105.61
+OBJECT_SHARED Models/lib/farm19x12.ac 11.64369 54.08293 7.78 25.12
+OBJECT_SHARED Models/lib/farm19x12.ac 11.64359 54.08311 7.87 26.57
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 11.64379 54.08266 -87.34 0
 OBJECT_SHARED Models/lib/SmHangar.ac 11.64650 54.08242 6.76 92.63
 # END dsf2stg

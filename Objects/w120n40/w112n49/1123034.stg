@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -111.48912 49.48343 -0.47 205.609
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.48819 49.48296 -0.48 309.219
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.48821 49.48298 -0.48 309.219
+OBJECT_SHARED Models/Airport/cargoip.xml -111.48758 49.48345 -0.48 25.1828
+OBJECT_SHARED Models/Misc/6barrels.ac -111.48732 49.48329 -0.50 141.748
+OBJECT_SHARED Models/Misc/6barrels.ac -111.48730 49.48330 -0.50 25.1828
+OBJECT_SHARED Models/Misc/6barrels.ac -111.48728 49.48330 -0.50 295.183
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.48751 49.48327 -0.48 25.1828
+OBJECT_SHARED Models/lib/lamp10m.xml -111.48742 49.48353 -0.50 25.1828
+OBJECT_SHARED Models/lib/lamp10m.xml -111.48758 49.48348 -0.48 25.1828
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.48756 49.48344 -0.48 340.183
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.48757 49.48345 -0.48 25.1828
+OBJECT_SHARED Models/Airport/cargoip.xml -111.48759 49.48347 -0.48 295.183
+OBJECT_SHARED Models/Airport/cargobox.xml -111.48821 49.48430 -0.49 25.1828
+OBJECT_SHARED Models/Airport/cargobox.xml -111.48822 49.48432 -0.49 25.1828
+OBJECT_SHARED Models/Misc/6barrels.ac -111.48827 49.48439 -0.49 158.404
+OBJECT_SHARED Models/Misc/6barrels.ac -111.48826 49.48438 -0.49 25.1828
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.48823 49.48433 -0.49 295.183
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.48824 49.48434 -0.49 295.183
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.48825 49.48436 -0.49 295.183
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.48826 49.48437 -0.49 295.183
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.48816 49.48427 -0.49 3.98007
+OBJECT_SHARED Models/lib/fuel-truck.xml -111.48813 49.48432 -0.49 25.1828
+OBJECT_SHARED Models/lib/SmHangar.ac -111.48809 49.48310 -0.48 205.183
+OBJECT_SHARED Models/lib/SmHangar.ac -111.48795 49.48292 -0.48 205.183
+OBJECT_SHARED Models/lib/stack_of_cones.ac -111.48908 49.48344 -0.47 25.1828
+OBJECT_SHARED Models/Misc/6barrels.ac -111.48926 49.48345 -0.47 25.1828
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.48910 49.48348 -0.47 25.1828
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.48912 49.48347 -0.47 295.183
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.48913 49.48348 -0.47 295.183
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -111.48904 49.48298 -0.47 25.1828
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -111.48901 49.48299 -0.47 25.1828
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -111.48902 49.48301 -0.47 25.1828
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -111.48905 49.48300 -0.47 25.1828
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -111.48903 49.48299 -0.47 25.1828
+OBJECT_SHARED Models/lib/office3x10.ac -111.48748 49.48330 -0.50 205.183
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -111.48853 49.48347 -0.47 295.183
+# END dsf2stg

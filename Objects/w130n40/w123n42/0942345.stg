@@ -35,11 +35,11 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65517 42.18769 576.51 90
 OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65495 42.18766 576.51 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65471 42.18763 576.54 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65467 42.18783 576.53 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.65703 42.18805 572.76 38.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.65635 42.18758 574.45 40.68
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.65596 42.18741 574.51 36.03
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.65531 42.18646 575.82 217.79
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.65506 42.18621 575.47 39.27
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.65703 42.18805 572.76 218.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.65635 42.18758 574.45 220.68
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.65596 42.18741 574.51 216.03
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.65531 42.18646 575.82 37.79
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.65506 42.18621 575.47 219.27
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -122.65680 42.18830 572.55 170.27
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -122.65764 42.18881 571.21 43.07
 # END dsf2stg

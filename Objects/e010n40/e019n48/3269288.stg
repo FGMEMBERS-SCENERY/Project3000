@@ -3,17 +3,17 @@
 #
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 19.13936 48.63994 310.59 22.25
 OBJECT_SHARED Models/Aircraft/320volare.xml 19.13877 48.64080 311.13 142.89
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 19.13851 48.63806 310.12 0
+OBJECT_SHARED Models/lib/citation.ac 19.13851 48.63806 310.12 0
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 19.13818 48.64194 311.75 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 19.13812 48.64392 312.60 87.27
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.13813 48.64379 312.55 87.61
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.13813 48.64379 312.55 267.61
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 19.14074 48.63905 310.65 90
 OBJECT_SHARED Models/lib/shed8x10.ac 19.14124 48.63550 309.23 90
 OBJECT_SHARED Models/lib/cube16x10.ac 19.14059 48.64042 310.45 180
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.13918 48.64221 311.58 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.14078 48.63839 311.36 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.14108 48.63843 311.42 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 19.14031 48.64107 310.82 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 19.14031 48.64107 310.82 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.14046 48.64109 310.76 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.13955 48.64215 311.50 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.13968 48.64214 311.40 0

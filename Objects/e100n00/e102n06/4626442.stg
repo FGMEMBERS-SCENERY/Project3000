@@ -7,9 +7,9 @@ OBJECT_SHARED Models/lib/MedHangar.ac 102.29013 6.16983 9.20 170.51
 OBJECT_SHARED Models/lib/lamp10m.xml 102.29804 6.16827 6.32 270
 OBJECT_SHARED Models/lib/MedHangar.ac 102.29990 6.16800 5.71 80.16
 OBJECT_SHARED Models/lib/fboModern1.ac 102.30084 6.16770 8.23 80.01
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 102.29893 6.16786 5.49 79.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 102.29891 6.16771 5.46 81.23
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 102.29831 6.16824 6.29 169.98
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 102.29893 6.16786 5.49 259.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 102.29891 6.16771 5.46 261.23
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 102.29831 6.16824 6.29 349.98
 OBJECT_SHARED Models/lib/office3x10.ac 102.29742 6.16832 6.20 351.61
 OBJECT_SHARED Models/lib/office8x14.ac 102.29754 6.16849 6.55 349.47
 OBJECT_SHARED Models/lib/hangar81x16.ac 102.29965 6.16792 5.72 171.07
@@ -81,8 +81,8 @@ OBJECT_SHARED Models/lib/cars14.ac 102.29428 6.16906 7.95 80.44
 OBJECT_SHARED Models/lib/cars14.ac 102.29383 6.16929 8.22 80.44
 OBJECT_SHARED Models/lib/cars14.ac 102.29430 6.16921 8.10 80.44
 OBJECT_SHARED Models/lib/office32x25n.ac 102.28988 6.17047 8.85 168.28
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 102.29135 6.17002 10.50 80.84
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 102.29521 6.16943 8.27 349.7
+OBJECT_SHARED Models/lib/fuel-truck.xml 102.29135 6.17002 10.50 80.84
+OBJECT_SHARED Models/lib/fuel-truck.xml 102.29521 6.16943 8.27 349.7
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 102.29085 6.16978 8.46 349.52
 OBJECT_SHARED Models/Aircraft/737virgin.xml 102.29271 6.16960 7.06 352.27
 OBJECT_SHARED Models/lib/CargoDolly.ac 102.29316 6.16890 7.34 352.54
@@ -97,11 +97,8 @@ OBJECT_SHARED Models/Airport/cargoim.xml 102.29291 6.16877 7.42 348.47
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 102.29290 6.16901 7.28 170.7
 OBJECT_SHARED Models/lib/caisses_group.ac 102.29311 6.16896 7.30 349.26
 OBJECT_SHARED Models/lib/LuggCartGroup.ac 102.29315 6.16881 7.40 260.6
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 102.29228 6.16977 7.87 13.12
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 102.29193 6.16983 8.41 13.12
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 102.29264 6.16971 7.08 13.12
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 102.29427 6.16927 8.18 349.43
 OBJECT_SHARED Models/lib/office40x25.ac 102.29512 6.16945 8.29 259.66
 OBJECT_SHARED Models/lib/FireStationLg.ac 102.29552 6.16941 8.05 170.63
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 102.29502 6.16965 -76.41 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 102.29502 6.16965 -86.41 0
 # END dsf2stg

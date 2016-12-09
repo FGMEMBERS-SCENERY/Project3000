@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/farm19x12.ac -75.35366 45.08933 72.24 22.8505
 OBJECT_SHARED Models/lib/cars14.ac -75.35411 45.08719 73.16 295.305
 OBJECT_SHARED Models/lib/cars14.ac -75.35336 45.08769 72.82 296.672
 OBJECT_SHARED Models/lib/cars14.ac -75.35391 45.08805 72.76 27.2232

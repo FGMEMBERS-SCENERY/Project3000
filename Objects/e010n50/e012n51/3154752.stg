@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 12.22561 51.04406 207.85 212.47
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.22577 51.04390 206.41 172.01
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.22583 51.04371 206.53 275.04
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.22654 51.04369 203.91 299.05
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.22650 51.04373 203.91 319.4
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.22594 51.04290 206.23 129.67
+OBJECT_SHARED Models/lib/office3x10.ac 12.22651 51.04383 203.75 184.69
+OBJECT_SHARED Models/lib/office3x10.ac 12.22638 51.04381 203.72 5.76999
+OBJECT_SHARED Models/lib/shed8x10.ac 12.22665 51.04371 203.94 93.01
+OBJECT_SHARED Models/lib/shed8x10.ac 12.22579 51.04346 206.65 95.61
+OBJECT_SHARED Models/lib/office6x12.ac 12.22631 51.04381 203.68 185.3
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 12.22596 51.04379 204.91 5.76
+OBJECT_SHARED Models/lib/shed8x10.ac 12.23612 51.04241 200.11 182.4
+OBJECT_SHARED Models/Trees/billboard-tree.xml 12.24098 51.04243 195.19 84.64
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.24055 51.04240 195.58 251.56
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.23983 51.04238 196.36 233.13
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.23818 51.04232 197.77 310.36
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.23782 51.04230 198.16 262.57
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.23745 51.04228 198.45 212.01
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.23690 51.04226 199.03 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.23673 51.04225 199.08 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.23638 51.04225 199.52 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.23599 51.04223 200.17 258.11
+# END dsf2stg

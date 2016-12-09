@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -122.32085 45.30983 212.58 179.27
+OBJECT_SHARED Models/lib/SmHangar.ac -122.31769 45.31284 218.69 0.529999
+OBJECT_SHARED Models/lib/SmHangar.ac -122.31996 45.30549 209.20 179.7
+OBJECT_SHARED Models/lib/SmHangar.ac -122.32085 45.31041 212.40 180
+OBJECT_SHARED Models/lib/hangar81x16.ac -122.31889 45.30703 215.70 270.93
+OBJECT_SHARED Models/lib/hangar81x16.ac -122.31931 45.30702 215.70 271.03
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -122.31886 45.30574 215.62 270.14
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.31940 45.31137 212.78 131.34
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.31937 45.31143 212.78 187.72
+OBJECT_SHARED Models/lib/farm19x12.ac -122.31932 45.30408 214.24 88.2
+OBJECT_SHARED Models/lib/farm19x12.ac -122.32015 45.30394 209.93 270.65
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -122.31997 45.30392 209.93 22.38
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.32006 45.30295 211.44 89.11
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.32028 45.30848 216.22 130.67
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.31917 45.30422 214.37 86.05
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.31917 45.30416 214.37 88.09
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.31992 45.30284 210.51 181.17
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.31991 45.30560 209.77 182.05
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.32021 45.30900 216.06 268.6
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.32022 45.30895 216.09 270
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.32009 45.30980 215.27 37.3
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.32010 45.31040 214.62 359.11
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.31982 45.30569 210.34 18
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.32038 45.31053 214.49 144.16
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.32038 45.31047 214.49 358.57
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -122.31993 45.31001 215.13 358.43
+# END dsf2stg

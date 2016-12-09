@@ -3,10 +3,10 @@
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 8.52056 49.47554 94.24 177
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 8.52079 49.47617 94.71 357.44
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.51769 49.47578 94.30 267.32
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.51769 49.47578 94.30 87.32
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 8.51909 49.47537 93.96 269.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.52260 49.47585 94.95 72.95
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.52228 49.47484 94.53 345.61
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.52260 49.47585 94.95 252.95
+OBJECT_SHARED Models/lib/fuel-truck.xml 8.52228 49.47484 94.53 345.61
 OBJECT_SHARED Models/lib/20_spaces_dual.ac 8.52099 49.47690 95.25 269.27
 OBJECT_SHARED Models/lib/20_spaces_dual.ac 8.52191 49.47688 95.21 89.15
 OBJECT_SHARED Models/lib/20_spaces_dual.ac 8.52190 49.47671 95.12 89.31

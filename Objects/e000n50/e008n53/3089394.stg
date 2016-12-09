@@ -15,6 +15,7 @@ OBJECT_SHARED Models/lib/MedHangar.ac 8.64681 53.76137 21.50 282
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 8.65765 53.76439 21.65 14.71
 OBJECT_SHARED Models/lib/FireStationLg.ac 8.65959 53.76490 21.06 104.65
 OBJECT_SHARED Models/lib/FireStationLg.ac 8.65917 53.76484 21.18 104.65
+OBJECT_SHARED Models/lib/admin31x12.ac 8.65703 53.76451 21.56 284.02
 OBJECT_SHARED Models/lib/office32x25.ac 8.64470 53.76159 20.53 7.13
 OBJECT_SHARED Models/lib/lamp10m.xml 8.67432 53.76494 13.80 10.62
 OBJECT_SHARED Models/lib/lamp10m.xml 8.67290 53.76479 15.14 189.46
@@ -27,6 +28,6 @@ OBJECT_SHARED Models/lib/lamp10m.xml 8.64608 53.76151 21.16 191.31
 OBJECT_SHARED Models/Aircraft/D328_services.xml 8.64775 53.76159 21.77 104.26
 OBJECT_SHARED Models/Transport/Norberttruck.xml 8.64627 53.76152 21.24 103.78
 OBJECT_SHARED Models/Transport/Norberttruck.xml 8.67402 53.76510 13.84 270
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.67312 53.76490 14.85 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.64838 53.76191 21.85 284.32
+OBJECT_SHARED Models/lib/fuel-truck.xml 8.67312 53.76490 14.85 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 8.64838 53.76191 21.85 284.32
 # END dsf2stg

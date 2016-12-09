@@ -79,6 +79,7 @@ OBJECT_SHARED Models/lib/transformer3x3.ac -40.56704 -9.36636 383.12 77.47
 OBJECT_SHARED Models/lib/office3x10.ac -40.56892 -9.36640 383.97 189.59
 OBJECT_SHARED Models/lib/transformer3x3.ac -40.56546 -9.36633 386.37 78.89
 OBJECT_SHARED Models/lib/transformer3x3.ac -40.56544 -9.36628 386.32 81.16
+OBJECT_SHARED Models/lib/industrial15x22.ac -40.56661 -9.36660 384.55 71.67
 OBJECT_SHARED Models/lib/shed8x10.ac -40.56560 -9.36658 386.24 70.77
 OBJECT_SHARED Models/lib/MedHangar.ac -40.56655 -9.36611 384.26 249.28
 OBJECT_SHARED Models/Transport/hatchback_red.ac -40.56886 -9.36647 383.93 111.97
@@ -93,10 +94,10 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac -40.56843 -9.36633 383.75 328.93
 OBJECT_SHARED Models/Transport/hatchback_red.ac -40.56852 -9.36628 383.74 346.61
 OBJECT_SHARED Models/Transport/hatchback_red.ac -40.56857 -9.36625 383.76 14.04
 OBJECT_SHARED Models/Transport/hatchback_red.ac -40.56863 -9.36624 383.77 0.98999
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -40.56623 -9.36581 386.16 251.9
+OBJECT_SHARED Models/lib/fuel-truck.xml -40.56623 -9.36581 386.16 251.9
 OBJECT_SHARED Models/lib/HorizTanks2.ac -40.56630 -9.36590 385.69 341.26
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -40.56977 -9.36538 385.00 160.68
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -40.56977 -9.36515 385.22 101.31
+OBJECT_SHARED Models/lib/fuel-truck.xml -40.56977 -9.36538 385.00 160.68
+OBJECT_SHARED Models/lib/fuel-truck.xml -40.56977 -9.36515 385.22 101.31
 OBJECT_SHARED Models/lib/HorizTanks2.ac -40.56978 -9.36523 385.14 341.98
 OBJECT_SHARED Models/lib/container6.ac -40.56885 -9.36542 384.50 71.75
 OBJECT_SHARED Models/lib/container6.ac -40.56883 -9.36537 384.51 71.75

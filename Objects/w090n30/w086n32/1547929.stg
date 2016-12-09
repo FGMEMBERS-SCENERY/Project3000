@@ -3,5 +3,5 @@
 #
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -85.68141 32.45861 81.72 139.086
 OBJECT_SHARED Models/lib/LongRow.ac -85.68248 32.45945 80.45 231.341
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.68105 32.45844 81.81 226.809
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.68105 32.45844 81.81 316.809
 # END dsf2stg

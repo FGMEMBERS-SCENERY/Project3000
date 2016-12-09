@@ -3,10 +3,11 @@
 #
 OBJECT_SHARED Models/lib/SmHangar.ac 9.84998 48.67707 688.50 259.82
 OBJECT_SHARED Models/lib/LongRow.ac 9.84834 48.67711 690.47 169.746
+OBJECT_SHARED Models/lib/farm19x12.ac 9.84701 48.67726 691.82 350.85
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.84182 48.67779 686.90 351.57
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.85053 48.67731 684.36 102.23
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.84742 48.67738 691.21 263.38
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.84881 48.67750 689.42 6.92999
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.85053 48.67731 684.36 282.23
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.84742 48.67738 691.21 83.38
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.84881 48.67750 689.42 186.93
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.84580 48.67725 692.53 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.84939 48.67710 689.21 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.84927 48.67721 689.23 0

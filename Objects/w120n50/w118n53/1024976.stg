@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -117.75344 53.32246 -0.27 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -117.75331 53.32261 -0.27 217.39
+OBJECT_SHARED Models/lib/SmHangar.ac -117.75334 53.32252 -0.27 140.49
+OBJECT_SHARED Models/lib/cone.ac -117.75409 53.32200 -0.28 204.62
+OBJECT_SHARED Models/Misc/picnic_table.ac -117.75429 53.32157 -0.28 320.26
+OBJECT_SHARED Models/lib/cone.ac -117.75258 53.32234 -0.27 247.52
+OBJECT_SHARED Models/lib/cone.ac -117.75243 53.32244 -0.25 165.47
+OBJECT_SHARED Models/lib/cone.ac -117.75261 53.32253 -0.27 252.9
+OBJECT_SHARED Models/lib/cone.ac -117.75276 53.32243 -0.27 183.95
+OBJECT_SHARED Models/lib/cone.ac -117.75424 53.32189 -0.28 195.95
+OBJECT_SHARED Models/lib/vending-machine.ac -117.75445 53.32166 -0.28 138.01
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -117.75463 53.32156 -0.30 230.56
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -117.75465 53.32168 -0.30 230.56
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -117.75457 53.32174 -0.30 230.56
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -117.75459 53.32172 -0.30 230.56
+OBJECT_SHARED Models/lib/watertank3x1.ac -117.75359 53.32211 -0.28 50.49
+OBJECT_SHARED Models/lib/watertank3x1.ac -117.75358 53.32212 -0.28 50.49
+OBJECT_SHARED Models/lib/stack_of_cones.ac -117.75354 53.32211 -0.28 0
+OBJECT_SHARED Models/lib/lamp10m.xml -117.75445 53.32176 -0.28 -39.51
+OBJECT_SHARED Models/lib/lamp10m.xml -117.75463 53.32163 -0.30 -39.51
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -117.75441 53.32168 -0.28 320.49
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -117.75431 53.32160 -0.28 320.49
+OBJECT_SHARED Models/lib/lamp10m.xml -117.75425 53.32161 -0.28 230.49
+OBJECT_SHARED Models/lib/lamp10m.xml -117.75440 53.32151 -0.28 230.49
+OBJECT_SHARED Models/lib/office3x10.ac -117.75359 53.32216 -0.29 50.49
+OBJECT_SHARED Models/lib/chariot1.ac -117.75541 53.32186 -0.30 90
+OBJECT_SHARED Models/lib/lamp10m.xml -117.75541 53.32189 -0.30 194.8
+OBJECT_SHARED Models/lib/fuel-truck.xml -117.75530 53.32201 -0.30 50.66
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -117.75542 53.32189 -0.30 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -117.75565 53.32200 -0.32 0
+OBJECT_SHARED Models/lib/propane-tank.ac -117.75530 53.32196 -0.30 52.31
+OBJECT_SHARED Models/lib/stack_of_cones.ac -117.75539 53.32188 -0.30 270
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -117.75438 53.32162 -0.28 49.51
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -117.75524 53.32192 -0.30 89.17
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -117.75528 53.32190 -0.30 89.17
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -117.75538 53.32191 -0.30 231.12
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -117.75543 53.32189 -0.30 2.45001
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -117.75542 53.32188 -0.30 26.08
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -117.75448 53.32105 -0.27 320.84
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -117.75347 53.32203 -0.27 50.13
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -117.75439 53.32132 -0.27 139.46
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -117.75346 53.32222 -0.27 211.5
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -117.75347 53.32221 -0.27 213.69
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -117.75365 53.32225 -0.29 229.37
+# END dsf2stg

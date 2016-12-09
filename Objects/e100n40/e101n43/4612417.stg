@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/industrial13x24.ac 101.33161 43.01093 1562.27 270
 OBJECT_SHARED Models/lib/coal_pile.ac 101.33023 43.01160 1563.07 175.638
 OBJECT_SHARED Models/lib/coal_pile.ac 101.33138 43.01047 1561.39 90
 OBJECT_SHARED Models/Misc/6barrels.ac 101.33126 43.01164 1563.26 0

@@ -2,11 +2,11 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -77.30418 44.19409 96.36 107.87
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.30427 44.19429 96.75 110.01
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.30427 44.19429 96.75 290.01
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -77.30390 44.19439 96.27 110.24
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -77.30707 44.19405 97.07 103.35
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.30707 44.19405 97.07 103.35
 OBJECT_SHARED Models/lib/shed8x10.ac -77.30609 44.19364 96.50 107.53
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.30450 44.19427 97.05 16.89
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.30450 44.19427 97.05 106.89
 OBJECT_SHARED Models/lib/SmHangar.ac -77.30750 44.19378 96.18 102.86
 OBJECT_SHARED Models/lib/SmHangar.ac -77.30683 44.19412 97.21 106.07
 OBJECT_SHARED Models/lib/SmHangar.ac -77.30660 44.19417 97.38 106.62

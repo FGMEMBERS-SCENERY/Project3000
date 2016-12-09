@@ -2,9 +2,9 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.88102 50.09720 340.73 147.67
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.88202 50.09756 341.62 24.12
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.88004 50.09795 342.12 336.8
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.88030 50.09787 341.27 331.82
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.88202 50.09756 341.62 204.12
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.88004 50.09795 342.12 156.8
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.88030 50.09787 341.27 151.82
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.88053 50.09739 341.81 55.05
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.88050 50.09736 341.91 55.05
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.88047 50.09733 342.26 55.05
@@ -12,7 +12,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 9.88044 50.09730 342.36 55.05
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.88085 50.09699 341.80 150.64
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.88143 50.09718 340.03 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.88134 50.09713 339.95 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.88112 50.09720 340.41 237.68
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.88112 50.09720 340.41 327.68
 OBJECT_SHARED Models/Transport/hatchback_red.ac 9.88038 50.09769 341.53 254.8
 OBJECT_SHARED Models/Transport/hatchback_red.ac 9.87998 50.09766 342.82 81.25
 OBJECT_SHARED Models/Transport/hatchback_red.ac 9.87996 50.09762 343.15 75.64

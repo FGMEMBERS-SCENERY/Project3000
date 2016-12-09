@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -72.89016 41.26942 7.00 3.01001
+OBJECT_SHARED Models/lib/industrial13x24.ac -72.88496 41.26557 5.49 319.95
+OBJECT_SHARED Models/lib/fuel-truck.xml -72.89016 41.26942 7.00 3.01001
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -72.88402 41.26523 6.08 142.33
 OBJECT_SHARED Models/lib/MedHangar.ac -72.88337 41.26601 7.06 326.04
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.89048 41.26919 7.20 17.83
 OBJECT_SHARED Models/lib/MedHangar.ac -72.88326 41.26649 7.16 55.14
 OBJECT_SHARED Models/lib/MedHangar.ac -72.88281 41.26737 7.30 329.37
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.89167 41.26899 7.83 229.47

@@ -2,12 +2,12 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Transport/hatchback_red.ac 15.75073 -12.80081 1707.05 270
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 15.75075 -12.80079 1706.74 88.13
+OBJECT_SHARED Models/lib/fuel-truck.xml 15.75075 -12.80079 1706.74 88.13
 OBJECT_SHARED Models/lib/canopy18x10.ac 15.75073 -12.80080 1707.05 177.41
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 15.75126 -12.80144 1705.21 240.26
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 15.75311 -12.79961 1699.84 118.04
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 15.75021 -12.80225 1708.00 47.65
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 15.75033 -12.80223 1708.21 319.95
+OBJECT_SHARED Models/lib/fuel-truck.xml 15.75021 -12.80225 1708.00 47.65
+OBJECT_SHARED Models/lib/fuel-truck.xml 15.75033 -12.80223 1708.21 319.95
 OBJECT_SHARED Models/lib/HorizTanks2.ac 15.75030 -12.80220 1708.21 138.11
 OBJECT_SHARED Models/Airport/cargobox.xml 15.75074 -12.80115 1707.03 310.76
 OBJECT_SHARED Models/Airport/cargobox.xml 15.75073 -12.80114 1707.04 310.76
@@ -37,12 +37,12 @@ OBJECT_SHARED Models/Airport/cargoip.xml 15.75069 -12.80115 1707.04 216.03
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac 15.75067 -12.80122 1707.03 308.37
 OBJECT_SHARED Models/lib/container6.ac 15.75023 -12.80248 1708.15 231.25
 OBJECT_SHARED Models/lib/container6.ac 15.75018 -12.80245 1708.08 228.96
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 15.75100 -12.80324 1706.06 49.35
+OBJECT_SHARED Models/lib/citation.ac 15.75100 -12.80324 1706.06 49.35
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 15.75091 -12.80337 1706.36 49.06
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 15.75069 -12.80366 1706.95 42.46
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.75084 -12.80351 1706.66 47.36
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.75061 -12.80373 1707.25 44.57
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.75084 -12.80351 1706.66 227.36
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.75061 -12.80373 1707.25 224.57
 OBJECT_SHARED Models/Aircraft/D328_services.xml 15.75056 -12.80249 1707.29 51.46
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.75054 -12.80208 1707.61 225.12
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.75054 -12.80208 1707.61 45.1196
 OBJECT_SHARED Models/lib/LongRow.ac 15.75038 -12.80200 1707.91 48.0789
 # END dsf2stg

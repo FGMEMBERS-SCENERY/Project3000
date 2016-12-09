@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -91.48009 30.71358 9.14 143.05
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -91.48081 30.71308 9.11 264.96
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -91.48081 30.71308 9.11 84.96
 OBJECT_SHARED Models/lib/SmHangar.ac -91.48009 30.71698 10.00 179
 OBJECT_SHARED Models/lib/LongRow.ac -91.48004 30.71434 9.23 176
 OBJECT_SHARED Models/lib/LongRow.ac -91.48000 30.71476 9.26 176

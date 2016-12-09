@@ -12,9 +12,9 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18416 43.53943 31.47 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 5.18436 43.53925 31.50 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 5.18423 43.53926 31.44 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 5.18351 43.53902 31.00 270
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.17303 43.53936 27.60 181.33
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.18495 43.53917 31.70 180
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.18416 43.53901 31.25 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.17303 43.53936 27.60 1.32999
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.18495 43.53917 31.70 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.18416 43.53901 31.25 180
 OBJECT_SHARED Models/lib/SmHangar.ac 5.17247 43.53946 27.91 90.87
 OBJECT_SHARED Models/lib/SmHangar.ac 5.17272 43.53946 27.78 90.87
 OBJECT_SHARED Models/lib/SmHangar.ac 5.17293 43.53946 27.67 90.87
@@ -25,5 +25,5 @@ OBJECT_SHARED Models/lib/MedHangar.ac 5.18488 43.53920 31.67 90
 OBJECT_SHARED Models/lib/SmHangar.ac 5.18403 43.53922 31.30 90
 OBJECT_SHARED Models/lib/SmHangar.ac 5.18385 43.53922 31.23 90
 OBJECT_SHARED Models/lib/SmHangar.ac 5.18355 43.53907 31.06 90
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.18454 43.53922 31.52 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.18454 43.53922 31.52 90
 # END dsf2stg

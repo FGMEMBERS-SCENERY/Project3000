@@ -3,8 +3,8 @@
 #
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -81.55482 21.62311 4.05 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -81.55340 21.62243 4.41 180
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.55299 21.62221 4.53 242.86
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.55301 21.62229 4.50 242.86
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.55299 21.62221 4.53 242.86
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.55301 21.62229 4.50 242.86
 OBJECT_SHARED Models/lib/lamp10m.xml -81.55340 21.62254 4.38 63.31
 OBJECT_SHARED Models/lib/lamp10m.xml -81.55396 21.62286 4.18 63.31
 OBJECT_SHARED Models/lib/lamp10m.xml -81.55431 21.62303 4.12 63.31

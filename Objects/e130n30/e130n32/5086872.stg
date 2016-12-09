@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 130.15508 32.48298 -0.91 235.81
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 130.15510 32.48300 -0.91 235.9
+OBJECT_SHARED Models/Transport/hatchback_red.ac 130.15528 32.48297 -0.91 324.15
+OBJECT_SHARED Models/Transport/hatchback_red.ac 130.15569 32.48276 -0.91 325.01
+OBJECT_SHARED Models/lib/belt_loader.ac 130.15576 32.48271 -0.91 235.69
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 130.15574 32.48255 -0.91 54.85
+OBJECT_SHARED Models/lib/fuel-truck.xml 130.15581 32.48265 -0.91 144.74
+OBJECT_SHARED Models/lib/cone.ac 130.15518 32.48305 -0.91 297.98
+OBJECT_SHARED Models/lib/cone.ac 130.15516 32.48306 -0.91 27.9
+OBJECT_SHARED Models/lib/cone.ac 130.15520 32.48307 -0.91 342.9
+OBJECT_SHARED Models/lib/cone.ac 130.15518 32.48308 -0.91 14.55
+OBJECT_SHARED Models/lib/cone.ac 130.15519 32.48306 -0.91 0
+OBJECT_SHARED Models/lib/cone.ac 130.15517 32.48307 -0.91 343.3
+OBJECT_SHARED Models/lib/chariot1.ac 130.15518 32.48306 -0.91 234.97
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 130.15541 32.48287 -0.91 53.97
+OBJECT_SHARED Models/lib/container1.ac 130.15590 32.48247 -0.91 54.54
+OBJECT_SHARED Models/lib/container1.ac 130.15592 32.48250 -0.91 53.75
+OBJECT_SHARED Models/lib/container1.ac 130.15594 32.48252 -0.91 57.67
+OBJECT_SHARED Models/lib/container6.ac 130.15581 32.48254 -0.91 327.99
+OBJECT_SHARED Models/lib/container6.ac 130.15577 32.48249 -0.91 327.36
+OBJECT_SHARED Models/lib/lamp10m.xml 130.15584 32.48240 -0.91 325.35
+OBJECT_SHARED Models/lib/lamp10m.xml 130.15607 32.48252 -0.91 55.35
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 130.15574 32.48274 -0.91 10.35
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 130.15534 32.48296 -0.91 10.35
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 130.15499 32.48315 -0.91 10.35
+OBJECT_SHARED Models/lib/lamp10m.xml 130.15488 32.48337 -0.91 145.35
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 130.15558 32.48269 -0.91 235.35
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 130.15624 32.48240 -0.91 57.82
+# END dsf2stg

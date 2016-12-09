@@ -13,4 +13,9 @@ OBJECT_SHARED Models/lib/farm19x12.ac -72.02080 -41.08747 201.58 90
 OBJECT_SHARED Models/lib/farm19x12.ac -72.02055 -41.08743 204.86 90
 OBJECT_SHARED Models/lib/farm19x12.ac -72.02030 -41.08739 210.20 90
 OBJECT_SHARED Models/lib/farm19x12.ac -72.02007 -41.08737 212.60 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -72.02866 -41.09408 189.94 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -72.03045 -41.09519 190.36 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -72.02597 -41.09291 204.00 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -72.02790 -41.09196 198.13 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -72.03044 -41.09068 190.53 0
 # END dsf2stg

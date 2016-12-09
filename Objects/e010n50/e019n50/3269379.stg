@@ -19,8 +19,8 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac 19.80168 50.07233 235.50 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 19.80110 50.07285 235.13 311.82
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 19.79969 50.07234 237.01 40.6
 OBJECT_SHARED Models/Transport/Norberttruck.xml 19.80329 50.07240 234.83 283.57
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 19.80532 50.07492 231.68 338.96
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 19.80361 50.07320 233.48 100.61
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 19.80532 50.07492 231.68 68.96
+OBJECT_SHARED Models/lib/fuel-truck.xml 19.80361 50.07320 233.48 100.61
 OBJECT_SHARED Models/Transport/Norberttruck.xml 19.80334 50.07241 234.83 283.3
 OBJECT_SHARED Models/Transport/Norberttruck.xml 19.80339 50.07241 234.83 280.84
 OBJECT_SHARED Models/lib/chariot3curve.ac 19.80135 50.07304 234.65 90

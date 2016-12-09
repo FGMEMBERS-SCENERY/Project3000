@@ -36,5 +36,5 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -57.82163 -18.98238 135.9
 OBJECT_SHARED Models/lib/MedHangar.ac -57.81996 -18.97964 133.12 328.78
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -57.82116 -18.98067 133.86 61.9064
 OBJECT_SHARED Models/lib/SmHangar.ac -57.82154 -18.98192 135.91 328.454
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -57.82122 -18.98073 133.86 58.4651
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -57.82122 -18.98073 133.86 238.465
 # END dsf2stg

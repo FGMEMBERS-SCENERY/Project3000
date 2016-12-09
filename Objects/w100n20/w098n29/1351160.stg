@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -97.87375 29.88990 -0.29 270
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -97.87405 29.88991 -0.28 270
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -97.87436 29.88990 -0.26 -89.52
+OBJECT_SHARED Models/lib/transformer3x3.ac -97.86246 29.88602 -0.67 47.35
+OBJECT_SHARED Models/lib/propane-tank.ac -97.86216 29.88635 -0.68 46.3
+OBJECT_SHARED Models/lib/SmHangar.ac -97.86164 29.88657 -0.70 318.25
+OBJECT_SHARED Models/lib/LongRow.ac -97.86194 29.88668 -0.69 48.05
+OBJECT_SHARED Models/lib/MedHangar.ac -97.86127 29.88700 -0.71 317.71
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -97.86557 29.88749 -0.59 315
+OBJECT_SHARED Models/lib/hangar81x16.ac -97.86897 29.89007 -0.48 270
+OBJECT_SHARED Models/lib/hangar81x16.ac -97.86975 29.89005 -0.46 270
+OBJECT_SHARED Models/lib/hangar81x16.ac -97.86939 29.89006 -0.47 270
+OBJECT_SHARED Models/lib/hangar81x16.ac -97.87013 29.89004 -0.44 270
+OBJECT_SHARED Models/lib/hangar81x16.ac -97.87045 29.89004 -0.43 270
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -97.86564 29.88898 -0.60 270
+OBJECT_SHARED Models/Misc/6barrels.ac -97.86307 29.88653 -0.66 0
+OBJECT_SHARED Models/Misc/6barrels.ac -97.86245 29.88600 -0.68 0
+OBJECT_SHARED Models/Misc/6barrels.ac -97.86248 29.88601 -0.67 0
+# END dsf2stg

@@ -35,6 +35,6 @@ OBJECT_SHARED Models/lib/LongRow.ac -73.88881 41.62666 43.49 39.32
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -73.87778 41.62856 47.50 39.4
 OBJECT_SHARED Models/Aircraft/ATR42.xml -73.87783 41.62888 47.46 -47.42
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.88668 41.62804 44.73 39.72
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.88668 41.62852 44.08 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.88715 41.62821 44.23 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.88668 41.62852 44.08 270
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.88715 41.62821 44.23 180
 # END dsf2stg

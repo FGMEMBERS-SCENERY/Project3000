@@ -2,14 +2,14 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/cars7.ac 8.53418 54.68314 4.68 82.41
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53297 54.68349 4.46 259.76
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53429 54.68375 6.56 82.18
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53413 54.68324 3.55 82.18
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53350 54.68357 3.05 82.18
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53389 54.68363 3.00 82.18
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53392 54.68373 6.65 82.18
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53396 54.68386 6.71 82.18
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53355 54.68380 6.78 82.18
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53297 54.68349 4.46 79.76
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53429 54.68375 6.56 262.18
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53413 54.68324 3.55 262.18
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53350 54.68357 3.05 262.18
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53389 54.68363 3.00 262.18
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53392 54.68373 6.65 262.18
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53396 54.68386 6.71 262.18
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.53355 54.68380 6.78 262.18
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52503 54.68758 8.68 270
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52480 54.68743 9.60 291.8
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52443 54.68727 10.29 303.69
@@ -51,6 +51,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 8.53311 54.68326 6.12 79.29
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.53319 54.68325 5.82 82.67
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.53321 54.68321 6.59 351.63
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.53320 54.68316 6.63 350.07
+OBJECT_SHARED Models/lib/admin31x12.ac 8.53291 54.68320 5.86 82.88
 OBJECT_SHARED Models/lib/SmHangar.ac 8.53176 54.68337 5.12 261.96
 OBJECT_SHARED Models/lib/SmHangar.ac 8.53126 54.68342 6.75 261.41
 OBJECT_SHARED Models/lib/SmHangar.ac 8.53109 54.68343 6.95 261.41

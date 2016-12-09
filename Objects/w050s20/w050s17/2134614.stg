@@ -6,8 +6,8 @@ OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -49.21999 -16.63583 740.43 0
 OBJECT_SHARED Models/Aircraft/D328_services.xml -49.22046 -16.63562 740.09 239.34
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -49.22271 -16.63434 742.54 289.13
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -49.21742 -16.63763 742.10 327.58
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -49.22121 -16.63537 740.30 60.26
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -49.22475 -16.63391 747.41 149.64
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -49.22121 -16.63537 740.30 240.26
+OBJECT_SHARED Models/lib/fuel-truck.xml -49.22475 -16.63391 747.41 149.64
 OBJECT_SHARED Models/lib/deciduous-tree.xml -49.22984 -16.63022 749.32 324.78
 OBJECT_SHARED Models/lib/deciduous-tree.xml -49.22986 -16.63025 749.35 265.76
 OBJECT_SHARED Models/lib/deciduous-tree.xml -49.22988 -16.63027 749.55 0
@@ -80,9 +80,9 @@ OBJECT_SHARED Models/lib/chariot3curve.ac -49.22631 -16.63175 748.64 299.84
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -49.22614 -16.63194 748.25 0
 OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -49.22567 -16.63247 747.95 284.15
 OBJECT_SHARED Models/lib/container6.ac -49.22571 -16.63251 747.95 14.93
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -49.22453 -16.63403 746.60 149.64
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -49.22467 -16.63396 747.31 149.64
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -49.22472 -16.63393 747.41 149.64
+OBJECT_SHARED Models/lib/fuel-truck.xml -49.22453 -16.63403 746.60 149.64
+OBJECT_SHARED Models/lib/fuel-truck.xml -49.22467 -16.63396 747.31 149.64
+OBJECT_SHARED Models/lib/fuel-truck.xml -49.22472 -16.63393 747.41 149.64
 OBJECT_SHARED Models/Transport/hatchback_green.ac -49.22708 -16.63172 750.57 286.18
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -49.22699 -16.63157 750.16 237.75
 OBJECT_SHARED Models/lib/chariot1.ac -49.22669 -16.63159 749.25 90

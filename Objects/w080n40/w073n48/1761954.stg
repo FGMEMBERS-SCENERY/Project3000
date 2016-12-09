@@ -3,9 +3,9 @@
 #
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -72.26763 48.52451 173.05 0
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -72.26751 48.52442 172.94 75.7627
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.26662 48.52401 173.71 125.363
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.26662 48.52401 173.71 305.363
 OBJECT_SHARED Models/lib/stack_of_cones.ac -72.26691 48.52382 172.29 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.26695 48.52379 172.06 217.75
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.26695 48.52379 172.06 307.75
 OBJECT_SHARED Models/lib/hangar81x16.ac -72.26901 48.52562 173.51 308.86
 OBJECT_SHARED Models/lib/container6.ac -72.26786 48.52451 172.33 37.97
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26659 48.52475 176.47 0

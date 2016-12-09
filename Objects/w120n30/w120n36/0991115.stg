@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -119.04801 36.16018 130.03 180
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -119.04801 36.16018 130.03 270
 OBJECT_SHARED Models/lib/shed8x10.ac -119.04858 36.16100 129.68 0
 OBJECT_SHARED Models/lib/shed8x10.ac -119.04875 36.16100 129.68 0
 OBJECT_SHARED Models/lib/cone.ac -119.04735 36.16021 129.91 105.95
@@ -9,7 +9,7 @@ OBJECT_SHARED Models/lib/cone.ac -119.04734 36.16021 129.91 177.95
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.04674 36.16024 129.91 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -119.04661 36.16024 129.91 359.87
 OBJECT_SHARED Models/lib/SmHangar.ac -119.04727 36.16022 129.91 270
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -119.04672 36.16071 129.94 90
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -119.04672 36.16071 129.94 270
 OBJECT_SHARED Models/lib/lamp10m.xml -119.05125 36.16484 129.00 116.56
 OBJECT_SHARED Models/lib/lamp10m.xml -119.05139 36.16505 129.02 -60.2
 OBJECT_SHARED Models/lib/lamp10m.xml -119.04799 36.16089 129.69 90

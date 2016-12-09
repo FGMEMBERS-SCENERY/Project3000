@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -117.64191 35.59117 747.89 0.25
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -117.64191 35.59117 747.89 90.25
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -117.63690 35.59165 657.73 0
 OBJECT_SHARED Models/lib/office3x10.ac -117.64550 35.59096 743.61 91.05
 OBJECT_SHARED Models/lib/office3x10.ac -117.64207 35.59141 747.39 90.83
@@ -62,7 +62,7 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac -117.64421 35.59067 746.75 94.51
 OBJECT_SHARED Models/Transport/hatchback_red.ac -117.64443 35.59108 746.04 169.7
 OBJECT_SHARED Models/Transport/hatchback_red.ac -117.64537 35.59122 744.56 213.49
 OBJECT_SHARED Models/Transport/hatchback_red.ac -117.64539 35.59121 744.56 208.61
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -117.63609 35.59265 750.89 270
+OBJECT_SHARED Models/lib/fuel-truck.xml -117.63609 35.59265 750.89 270
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -117.64179 35.59116 747.89 179.85
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -117.64179 35.59111 748.14 180
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -117.62831 35.59427 757.09 0

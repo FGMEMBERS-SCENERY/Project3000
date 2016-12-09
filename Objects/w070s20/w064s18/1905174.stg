@@ -8,7 +8,7 @@ OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -63.13778 -17.65103 381.16 190.5
 OBJECT_SHARED Models/Aircraft/B747.xml -63.14175 -17.64518 381.51 309.21
 OBJECT_SHARED Models/Aircraft/320austrian.xml -63.13853 -17.64878 379.84 291.33
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -63.14255 -17.64007 377.38 286.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -63.14494 -17.64076 380.25 283.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -63.14494 -17.64076 380.25 103.5
 OBJECT_SHARED Models/lib/FireStationLg.ac -63.14085 -17.64682 380.16 34.61
 OBJECT_SHARED Models/lib/office65x50.ac -63.13658 -17.65515 383.40 308.92
 OBJECT_SHARED Models/lib/office112x50.ac -63.13761 -17.65332 381.91 307.09
@@ -33,14 +33,10 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -63.13845 -17.64655 378.09 128.66
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -63.13822 -17.64686 378.10 127.12
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -63.13801 -17.64716 378.13 128.99
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -63.13778 -17.64754 378.24 129.04
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -63.14054 -17.64711 380.03 155.5
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -63.14023 -17.64754 380.04 154.37
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -63.13992 -17.64795 380.04 153.8
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -63.13963 -17.64835 380.05 156.05
-#OBJECT_SHARED Models/lib/jetway_e8m.ac -63.13998 -17.64798 380.18 32.05
-#OBJECT_SHARED Models/lib/jetway_e8m.ac -63.13968 -17.64838 380.19 35.12
-#OBJECT_SHARED Models/lib/jetway_e8m.ac -63.14028 -17.64757 380.18 34.14
-#OBJECT_SHARED Models/lib/jetway_e8m.ac -63.14059 -17.64714 380.11 33.84
+OBJECT_SHARED Models/lib/jetway_e8m.ac -63.13998 -17.64798 380.18 32.05
+OBJECT_SHARED Models/lib/jetway_e8m.ac -63.13968 -17.64838 380.19 35.12
+OBJECT_SHARED Models/lib/jetway_e8m.ac -63.14028 -17.64757 380.18 34.14
+OBJECT_SHARED Models/lib/jetway_e8m.ac -63.14059 -17.64714 380.11 33.84
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -63.13999 -17.64799 380.18 35.07
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -63.14029 -17.64758 380.18 35.74
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -63.14061 -17.64715 380.17 32.54

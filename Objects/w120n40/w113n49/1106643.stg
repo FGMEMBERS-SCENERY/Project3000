@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.18480 49.29133 -0.27 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -112.18480 49.29178 -0.27 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -112.18479 49.29177 -0.27 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -112.18477 49.29177 -0.27 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -112.18477 49.29178 -0.27 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -112.18478 49.29178 -0.27 187.16
+OBJECT_SHARED Models/lib/cone.ac -112.18489 49.29217 -0.28 258.69
+OBJECT_SHARED Models/lib/cone.ac -112.18490 49.29217 -0.28 117.408
+OBJECT_SHARED Models/Misc/6barrels.ac -112.18492 49.29217 -0.28 22.8446
+OBJECT_SHARED Models/Transport/hatchback_red.ac -112.18487 49.29195 -0.27 331.175
+OBJECT_SHARED Models/Transport/hatchback_red.ac -112.18491 49.29195 -0.27 328.465
+OBJECT_SHARED Models/Misc/picnic_table.ac -112.18479 49.29196 -0.28 7.67892
+OBJECT_SHARED Models/lib/lamp10m.xml -112.18478 49.29199 -0.28 276.316
+OBJECT_SHARED Models/lib/cone.ac -112.18441 49.29166 -0.30 138.24
+OBJECT_SHARED Models/lib/cone.ac -112.18442 49.29168 -0.30 173.019
+OBJECT_SHARED Models/lib/stack_of_cones.ac -112.18477 49.29200 -0.28 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.18442 49.29167 -0.30 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -112.18445 49.29167 -0.30 286.18
+OBJECT_SHARED Models/lib/watertank3x1.ac -112.18444 49.29166 -0.30 286.18
+OBJECT_SHARED Models/Transport/hatchback_red.ac -112.18444 49.29159 -0.30 84.9153
+OBJECT_SHARED Models/Transport/hatchback_red.ac -112.18442 49.29123 -0.29 43.8065
+OBJECT_SHARED Models/lib/SmHangar.ac -112.18439 49.29151 -0.29 180
+OBJECT_SHARED Models/lib/shed8x10.ac -112.18485 49.29203 -0.28 97.1566
+# END dsf2stg

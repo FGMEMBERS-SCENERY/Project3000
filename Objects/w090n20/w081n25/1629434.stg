@@ -58,8 +58,8 @@ OBJECT_SHARED Models/lib/LgMaint.ac -80.26712 25.91049 0.92 227.34
 OBJECT_SHARED Models/lib/MedHangar.ac -80.26926 25.91006 0.95 315.47
 OBJECT_SHARED Models/lib/MedHangar.ac -80.26867 25.91019 0.94 226.75
 OBJECT_SHARED Models/lib/MedHangar.ac -80.27178 25.90889 1.01 146.86
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -80.27111 25.90934 0.99 90
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -80.27111 25.90946 0.98 90
+OBJECT_SHARED Models/lib/fuel-truck.xml -80.27111 25.90934 0.99 90
+OBJECT_SHARED Models/lib/fuel-truck.xml -80.27111 25.90946 0.98 90
 OBJECT_SHARED Models/lib/office32x25.ac -80.27113 25.90977 0.97 0
 OBJECT_SHARED Models/lib/MedHangar.ac -80.26862 25.90673 1.15 0
 OBJECT_SHARED Models/lib/MedHangar.ac -80.26861 25.90730 1.11 0

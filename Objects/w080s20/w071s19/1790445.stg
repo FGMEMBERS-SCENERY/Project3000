@@ -20,8 +20,6 @@ OBJECT_SHARED Models/lib/lamp10m.xml -70.33528 -18.34700 58.45 -19.18
 OBJECT_SHARED Models/lib/lamp10m.xml -70.33515 -18.34664 58.84 -19.18
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -70.33589 -18.34917 57.28 160.82
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -70.33605 -18.34961 57.72 160.82
-#OBJECT_SHARED Models/lib/jetway_e12m.ac -70.33617 -18.34957 57.46 340.82
-#OBJECT_SHARED Models/lib/jetway_e12m.ac -70.33602 -18.34913 57.09 340.82
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -70.33617 -18.34957 57.46 237.491
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -70.33602 -18.34913 57.09 221.458
+OBJECT_SHARED Models/lib/jetway_e12m.ac -70.33617 -18.34957 57.46 340.82
+OBJECT_SHARED Models/lib/jetway_e12m.ac -70.33602 -18.34913 57.09 340.82
 # END dsf2stg

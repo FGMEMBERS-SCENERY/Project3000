@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -113.25106 49.16216 -0.17 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -113.25105 49.16216 -0.17 0
+OBJECT_SHARED Models/lib/lamp10m.xml -113.25100 49.16232 -0.17 207.1
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -113.25106 49.16218 -0.17 116.28
+OBJECT_SHARED Models/Transport/hatchback_red.ac -113.25059 49.16247 -0.18 6.10001
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -113.25102 49.16230 -0.17 26.53
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -113.25106 49.16241 -0.17 26.53
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -113.25104 49.16242 -0.17 26.53
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -113.25105 49.16244 -0.17 26.53
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -113.25107 49.16243 -0.17 26.53
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -113.25105 49.16243 -0.17 26.53
+OBJECT_SHARED Models/lib/cone.ac -113.25051 49.16247 -0.18 190.59
+OBJECT_SHARED Models/lib/cone.ac -113.25052 49.16246 -0.18 189.01
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -113.25039 49.16242 -0.15 42.92
+OBJECT_SHARED Models/lib/watertank3x1.ac -113.25102 49.16229 -0.17 26.53
+OBJECT_SHARED Models/lib/watertank3x1.ac -113.25104 49.16228 -0.17 26.53
+OBJECT_SHARED Models/lib/stack_of_cones.ac -113.25099 49.16233 -0.17 26.53
+OBJECT_SHARED Models/lib/SmHangar.ac -113.25023 49.16255 -0.15 116.53
+OBJECT_SHARED Models/lib/SmHangar.ac -113.25046 49.16248 -0.15 116.53
+OBJECT_SHARED Models/lib/SmHangar.ac -113.25069 49.16240 -0.17 116.53
+OBJECT_SHARED Models/lib/NoParkStripes.xml -113.25074 49.16199 -0.17 26.53
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -113.25081 49.16196 -0.17 206.53
+# END dsf2stg

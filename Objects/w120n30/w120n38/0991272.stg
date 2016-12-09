@@ -5,5 +5,5 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac -119.76802 38.73109 1786.38 267.
 OBJECT_SHARED Models/Transport/hatchback_red.ac -119.76706 38.74175 1772.76 282.2
 OBJECT_SHARED Models/lib/office16x4n.ac -119.76790 38.72911 1783.84 2.12
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -119.76808 38.73083 1786.16 268.69
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -119.76808 38.73096 1786.31 268.86
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -119.76808 38.73096 1786.31 88.86
 # END dsf2stg

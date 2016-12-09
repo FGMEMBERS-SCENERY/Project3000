@@ -6,7 +6,7 @@ OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -65.10776 -26.83692 449.70 196.6
 OBJECT_SHARED Models/Aircraft/D328_services.xml -65.10666 -26.83424 451.66 239.83
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -65.10717 -26.83280 452.49 208.4
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -65.10581 -26.82988 454.49 156.53
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -65.10646 -26.83039 454.10 199.98
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -65.10646 -26.83039 454.10 19.98
 OBJECT_SHARED Models/lib/fboModern1.ac -65.11177 -26.82754 457.06 148.06
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -65.10794 -26.83634 450.10 257.27
 OBJECT_SHARED Models/lib/FireStationLg.ac -65.10771 -26.83217 452.81 78.08
@@ -39,12 +39,11 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.10726 -26.83563 450.65 260.58
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.10722 -26.83545 450.80 260.41
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.10716 -26.83527 450.87 259.81
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.10694 -26.83504 451.10 252.54
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -65.10710 -26.83510 451.01 99.8
-#OBJECT_SHARED Models/lib/jetway_e14m.ac -65.10722 -26.83501 451.07 318.29
+OBJECT_SHARED Models/lib/jetway_e14m.ac -65.10722 -26.83501 451.07 318.29
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -65.10723 -26.83501 451.07 347.12
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -65.10746 -26.83054 453.94 195.97
+OBJECT_SHARED Models/lib/fuel-truck.xml -65.10746 -26.83054 453.94 195.97
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -65.10774 -26.83071 453.78 259.23
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -65.10800 -26.83051 453.87 312.74
+OBJECT_SHARED Models/lib/fuel-truck.xml -65.10800 -26.83051 453.87 312.74
 OBJECT_SHARED Models/lib/HorizTanks2.ac -65.10788 -26.83082 453.69 168.57
 OBJECT_SHARED Models/lib/HorizTanks2.ac -65.10783 -26.83059 453.83 168.5
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -65.10785 -26.83071 453.75 -10.82

@@ -13,10 +13,10 @@ OBJECT_SHARED Models/Airport/cargobox.xml -9.12994 38.76588 101.02 10.1246
 OBJECT_SHARED Models/Airport/cargobox.xml -9.12997 38.76588 100.99 10.1246
 OBJECT_SHARED Models/lib/chariot5.ac -9.12971 38.76616 99.39 279.652
 OBJECT_SHARED Models/lib/LuggCartGroup.ac -9.13015 38.76593 100.60 279.913
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -9.13544 38.76532 106.33 277.289
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -9.13524 38.76741 100.64 191.143
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -9.13166 38.77266 98.58 95.1023
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -9.13331 38.77933 100.92 13.4951
+OBJECT_SHARED Models/lib/fuel-truck.xml -9.13544 38.76532 106.33 277.289
+OBJECT_SHARED Models/lib/fuel-truck.xml -9.13524 38.76741 100.64 191.143
+OBJECT_SHARED Models/lib/fuel-truck.xml -9.13166 38.77266 98.58 95.1023
+OBJECT_SHARED Models/lib/fuel-truck.xml -9.13331 38.77933 100.92 13.4951
 OBJECT_SHARED Models/lib/LuggCartGroup.ac -9.13577 38.76728 100.86 12.59
 OBJECT_SHARED Models/lib/LuggCartGroup.ac -9.13227 38.77649 99.25 181.92
 OBJECT_SHARED Models/lib/LuggCartGroup.ac -9.13278 38.77956 100.42 104.27
@@ -195,19 +195,4 @@ OBJECT_SHARED Models/lib/RampParking.xml -9.13115 38.77672 98.31 351.99
 OBJECT_SHARED Models/lib/RampParking.xml -9.13004 38.76775 98.84 102.95
 OBJECT_SHARED Models/lib/RampParking.xml -9.12972 38.76651 99.28 100.05
 OBJECT_SHARED Models/lib/RampParking.xml -9.12993 38.76724 99.01 97.82
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13031 38.76916 98.78 304.79
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13044 38.76961 98.44 305.02
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13056 38.77004 98.36 303.95
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13067 38.77051 98.35 304.8
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13092 38.77138 98.28 303.99
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13102 38.77181 98.29 304.08
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13114 38.77229 98.34 304.4
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13126 38.77277 98.41 303.89
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13140 38.77319 98.40 303.99
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13110 38.77395 98.19 304.32
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13116 38.77452 98.23 304.82
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13132 38.77511 98.36 303.8
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13147 38.77573 98.50 304.88
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13170 38.77632 98.74 304.37
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -9.13174 38.77669 98.82 261.43
 # END dsf2stg

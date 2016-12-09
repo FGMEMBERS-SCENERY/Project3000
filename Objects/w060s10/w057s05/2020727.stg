@@ -3,8 +3,8 @@
 #
 OBJECT_SHARED Models/lib/HorizTanks2.ac -56.00602 -4.24497 29.85 51.98
 OBJECT_SHARED Models/lib/HorizTanks2.ac -56.00608 -4.24492 29.82 51.98
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -56.00592 -4.24497 29.91 321.4
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -56.00615 -4.24489 29.83 324.16
+OBJECT_SHARED Models/lib/fuel-truck.xml -56.00592 -4.24497 29.91 321.4
+OBJECT_SHARED Models/lib/fuel-truck.xml -56.00615 -4.24489 29.83 324.16
 OBJECT_SHARED Models/lib/SmHangar.ac -56.00612 -4.24513 29.73 53.4
 OBJECT_SHARED Models/lib/chariot2.ac -56.00662 -4.24665 28.85 236.89
 OBJECT_SHARED Models/lib/chariot1.ac -56.00635 -4.24628 29.16 54.04
@@ -104,6 +104,7 @@ OBJECT_SHARED Models/lib/4space_wStop.ac -56.00680 -4.24565 29.14 140.89
 OBJECT_SHARED Models/lib/4space_wStop.ac -56.00668 -4.24583 29.13 323
 OBJECT_SHARED Models/lib/4space_wStop.ac -56.00681 -4.24600 29.00 323
 OBJECT_SHARED Models/lib/4space_wStop.ac -56.00675 -4.24592 29.09 323
+OBJECT_SHARED Models/lib/admin31x12.ac -56.00668 -4.24595 29.08 322.77
 OBJECT_SHARED Models/lib/SmHangar.ac -56.00549 -4.24410 30.48 141.52
 OBJECT_SHARED Models/lib/SmHangar.ac -56.00408 -4.24253 31.07 143.44
 OBJECT_SHARED Models/lib/SmHangar.ac -56.00367 -4.24196 31.23 132.59

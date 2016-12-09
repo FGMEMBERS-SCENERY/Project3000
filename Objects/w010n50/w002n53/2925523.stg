@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -1.19448 53.31626 70.37 86.34
+OBJECT_SHARED Models/lib/lamp10m.xml -1.19339 53.31729 68.34 64.89
+OBJECT_SHARED Models/lib/lamp10m.xml -1.19382 53.31696 69.06 213.43
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -1.19446 53.31616 70.41 66.91
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.19394 53.31720 69.12 248.08
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.19390 53.31719 69.06 247.99
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.19396 53.31713 69.20 332.49
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -1.19332 53.31727 68.25 153.61
+OBJECT_SHARED Models/lib/cars2.ac -1.19376 53.31701 68.98 66.44
+OBJECT_SHARED Models/lib/cars4.ac -1.19332 53.31719 68.27 243.68
+OBJECT_SHARED Models/lib/cars4.ac -1.19345 53.31703 68.53 243.87
+OBJECT_SHARED Models/lib/cars6.ac -1.19364 53.31715 68.75 65.43
+OBJECT_SHARED Models/lib/shed8x10.ac -1.19726 53.31516 75.77 81.44
+OBJECT_SHARED Models/lib/transformer3x3.ac -1.19405 53.31707 69.32 335.13
+OBJECT_SHARED Models/lib/office3x10.ac -1.19305 53.31755 67.83 343.94
+OBJECT_SHARED Models/lib/shed8x10.ac -1.19299 53.31918 69.92 102.11
+OBJECT_SHARED Models/lib/shed8x10.ac -1.19335 53.31921 70.39 12.4
+OBJECT_SHARED Models/lib/shed8x10.ac -1.19396 53.31925 68.89 12.4
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -1.19399 53.31899 68.89 9.24
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -1.19366 53.31903 69.03 9.24
+OBJECT_SHARED Models/lib/industrial13x24.ac -1.19473 53.31888 69.06 203.44
+# END dsf2stg

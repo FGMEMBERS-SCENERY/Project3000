@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac -156.67528 20.96242 -0.35 153.07
+OBJECT_SHARED Models/lib/cube16x10.ac -156.67512 20.96249 -0.35 332.35
+OBJECT_SHARED Models/lib/NoParkStripes.xml -156.67566 20.96209 -0.35 151.31
+OBJECT_SHARED Models/lib/NoParkStripes.xml -156.67554 20.96231 -0.35 151.31
+OBJECT_SHARED Models/lib/4space_wStop.ac -156.67587 20.96188 -0.35 333.36
+OBJECT_SHARED Models/lib/4space_wStop.ac -156.67595 20.96210 -0.35 152.19
+OBJECT_SHARED Models/lib/4space_wStop.ac -156.67564 20.96264 -0.34 152.19
+OBJECT_SHARED Models/lib/cars2.ac -156.67593 20.96214 -0.35 63.07
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -156.67562 20.96175 -0.36 152.24
+OBJECT_SHARED Models/lib/chariot1.ac -156.67564 20.96172 -0.36 330.52
+OBJECT_SHARED Models/lib/chariot1.ac -156.67557 20.96175 -0.36 90
+OBJECT_SHARED Models/lib/belt_loader.ac -156.67481 20.96287 -0.34 90
+OBJECT_SHARED Models/lib/stack_of_cones.ac -156.67537 20.96191 -0.36 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -156.67524 20.96213 -0.36 0
+OBJECT_SHARED Models/lib/6space_wStop.ac -156.67602 20.96198 -0.35 151.39
+OBJECT_SHARED Models/lib/6space_wStop.ac -156.67586 20.96225 -0.35 151.39
+OBJECT_SHARED Models/lib/cars10.ac -156.67581 20.96234 -0.35 62.39
+OBJECT_SHARED Models/lib/cars10.ac -156.67545 20.96263 -0.35 242.26
+# END dsf2stg

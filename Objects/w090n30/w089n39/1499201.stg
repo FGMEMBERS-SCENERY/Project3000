@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -88.53535 39.07495 -0.79 358.41
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.53647 39.07494 -0.78 180
+OBJECT_SHARED Models/lib/industrial15x22.ac -88.53508 39.07550 -0.79 88
+OBJECT_SHARED Models/lib/SmHangar.ac -88.53599 39.07542 -0.79 88
+OBJECT_SHARED Models/lib/MedHangar.ac -88.53563 39.07539 -0.79 88
+OBJECT_SHARED Models/lib/LongRow.ac -88.53807 39.07542 -0.77 358
+# END dsf2stg

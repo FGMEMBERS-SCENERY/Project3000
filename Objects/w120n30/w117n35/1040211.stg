@@ -6,9 +6,9 @@ OBJECT_SHARED Models/Transport/hatchback_black.ac -116.07989 35.28601 281.03 22.
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.08010 35.28660 281.16 11.31
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.07994 35.28620 281.07 22.25
 OBJECT_SHARED Models/Transport/hatchback_green.ac -116.07978 35.28647 281.14 16.5
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.08125 35.28739 280.49 106.21
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.08125 35.28739 280.49 286.21
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.08107 35.28761 280.53 17.4
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.08115 35.28806 280.64 14.62
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.08115 35.28806 280.64 104.62
 OBJECT_SHARED Models/Misc/picnic_table.ac -116.08079 35.28718 280.44 19.65
 OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08155 35.28804 280.27 0
 OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08107 35.28770 281.05 0

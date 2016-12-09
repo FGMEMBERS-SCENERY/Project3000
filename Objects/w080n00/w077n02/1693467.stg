@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -76.60917 2.45280 -0.47 -71.9137
+OBJECT_SHARED Models/lib/lamp10m.xml -76.60949 2.45268 -0.47 -69.6117
+OBJECT_SHARED Models/lib/lamp10m.xml -76.60985 2.45256 -0.47 -68.1986
+OBJECT_SHARED Models/lib/lamp10m.xml -76.61018 2.45245 -0.47 -70.4527
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.61025 2.45265 -0.47 21.3093
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.60993 2.45275 -0.47 20.7907
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.60957 2.45287 -0.47 18.8811
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.60924 2.45298 -0.47 18.9927
+# END dsf2stg

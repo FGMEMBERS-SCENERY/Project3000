@@ -6,6 +6,7 @@ OBJECT_SHARED Models/lib/cargobox2x3m.ac -44.87395 -20.17314 786.16 66.96
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -44.87400 -20.17305 786.16 300.3
 OBJECT_SHARED Models/Airport/cargoip.xml -44.87397 -20.17310 786.16 27.2
 OBJECT_SHARED Models/Airport/cargobox.xml -44.87396 -20.17312 786.16 29.25
+OBJECT_SHARED Models/lib/admin31x12.ac -44.87313 -20.17292 785.47 31.33
 OBJECT_SHARED Models/lib/SmHangar.ac -44.87392 -20.17298 785.55 121.64
 OBJECT_SHARED Models/lib/MedHangar.ac -44.87356 -20.17279 784.40 121.73
 OBJECT_SHARED Models/lib/fboModern1.ac -44.87379 -20.17344 788.37 211.27
@@ -29,12 +30,14 @@ OBJECT_SHARED Models/Misc/FlagpoleFG.xml -44.87330 -20.17278 784.63 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -44.87324 -20.17285 785.39 0
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -44.87032 -20.17947 790.90 -57.75
 OBJECT_SHARED Models/Misc/6barrels.ac -44.87061 -20.17944 791.92 303.57
+OBJECT_SHARED Models/lib/industrial15x22.ac -44.87209 -20.17443 785.95 122.49
 OBJECT_SHARED Models/lib/stack_of_cones.ac -44.87209 -20.17457 786.67 68.32
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -44.87209 -20.17456 786.67 124.29
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -44.87221 -20.17437 786.67 132.51
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -44.87250 -20.17421 788.12 31.39
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -44.87194 -20.17474 785.59 123.12
 OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -44.87202 -20.17451 785.59 212.02
+OBJECT_SHARED Models/lib/industrial13x24.ac -44.87413 -20.17309 786.08 120.76
 OBJECT_SHARED Models/lib/lamp10m.xml -44.87188 -20.17492 786.31 -6.70999
 OBJECT_SHARED Models/lib/lamp10m.xml -44.87212 -20.17458 786.67 31.58
 OBJECT_SHARED Models/lib/lamp10m.xml -44.87246 -20.17434 788.48 34.13

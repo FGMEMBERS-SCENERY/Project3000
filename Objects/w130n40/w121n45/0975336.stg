@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/coal_pile.ac -120.98503 45.71790 -0.36 261.25
+OBJECT_SHARED Models/Misc/6barrels.ac -120.98500 45.71792 -0.36 293.79
+OBJECT_SHARED Models/Misc/6barrels.ac -120.98498 45.71792 -0.36 113.81
+OBJECT_SHARED Models/Misc/6barrels.ac -120.98501 45.71793 -0.36 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -120.98492 45.71795 -0.36 179.48
+OBJECT_SHARED Models/lib/industrial13x24.ac -120.98481 45.71796 -0.36 270.23
+OBJECT_SHARED Models/lib/SmHangar.ac -120.98523 45.71797 -0.36 268.5
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -120.98512 45.71794 -0.36 269.27
+OBJECT_SHARED Models/lib/propane-tank.ac -120.98464 45.71785 -0.36 272.34
+# END dsf2stg

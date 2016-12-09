@@ -12,7 +12,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.86441 50.28724 577.23 
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.86452 50.28733 577.16 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.86467 50.28733 576.98 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.86492 50.28688 577.04 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 11.86650 50.28790 574.82 273.202
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 11.86650 50.28790 574.82 3.20207
 OBJECT_SHARED Models/lib/HorizTanks2.ac 11.86459 50.28773 576.77 272.173
 OBJECT_SHARED Models/lib/vending-machine.ac 11.86478 50.28690 577.11 272.82
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml 11.86482 50.28669 577.14 0
@@ -119,8 +119,8 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.86312 50.28627 571.98 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.86632 50.28739 575.39 90.507
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 11.86602 50.28697 575.98 92.0038
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.86633 50.28723 575.55 92.6754
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.86630 50.28807 574.73 182.704
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 11.86676 50.28746 574.92 272.425
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.86630 50.28807 574.73 2.70403
+OBJECT_SHARED Models/lib/fuel-truck.xml 11.86676 50.28746 574.92 272.425
 OBJECT_SHARED Models/lib/cone.ac 11.86631 50.28804 574.88 0
 OBJECT_SHARED Models/lib/cone.ac 11.86629 50.28739 575.39 0
 OBJECT_SHARED Models/lib/cone.ac 11.86630 50.28723 575.55 0

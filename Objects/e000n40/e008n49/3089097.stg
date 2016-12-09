@@ -2,9 +2,9 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/SmHangar.ac 8.39988 49.14336 98.30 347.47
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.39996 49.14404 98.83 89.36
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.39878 49.14277 99.95 2.42001
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.39895 49.14289 100.12 294.1
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.39996 49.14404 98.83 269.36
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.39878 49.14277 99.95 182.42
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.39895 49.14289 100.12 24.1
 OBJECT_SHARED Models/lib/stack_of_cones.ac 8.39939 49.14319 98.94 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.39961 49.14340 98.55 347.91
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.39957 49.14339 98.59 349.09

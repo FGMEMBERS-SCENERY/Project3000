@@ -68,8 +68,10 @@ OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 72.41465 -7.30980 -91.
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 72.38330 -7.29180 -87.64 0
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 72.38340 -7.29169 -87.59 0
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 72.39011 -7.29756 -89.48 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 72.40529 -7.30250 -78.02 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 72.40559 -7.30215 -79.28 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 72.40529 -7.30250 -88.02 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 72.40559 -7.30215 -89.28 0
+OBJECT_SHARED Models/lib/industrial13x24.ac 72.41442 -7.30968 3.15 147.8
+OBJECT_SHARED Models/lib/industrial13x24.ac 72.40310 -7.30466 2.44 135
 OBJECT_SHARED Models/lib/lamp10m.xml 72.40026 -7.30190 1.33 59.36
 OBJECT_SHARED Models/lib/lamp10m.xml 72.39956 -7.30151 3.20 57.77
 OBJECT_SHARED Models/lib/lamp10m.xml 72.39884 -7.30059 7.76 60.01

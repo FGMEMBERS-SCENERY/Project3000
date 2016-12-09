@@ -1,21 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 11.85174 45.40025 12.33 286.89
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 11.85261 45.39803 9.29 82.66
+OBJECT_SHARED Models/lib/fuel-truck.xml 11.85174 45.40025 12.33 286.89
+OBJECT_SHARED Models/lib/fuel-truck.xml 11.85261 45.39803 9.29 82.66
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 11.85265 45.39788 9.33 171.81
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.85272 45.40065 13.32 183.65
 OBJECT_SHARED Models/lib/cars10.ac 11.84917 45.39978 11.17 48.23
 OBJECT_SHARED Models/lib/cars4.ac 11.85185 45.40056 13.26 280.56
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 11.85251 45.40050 13.56 271.27
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 11.85244 45.40050 13.76 270.59
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.84395 45.39458 11.58 227.34
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.84395 45.39458 11.58 47.34
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.84382 45.39446 11.65 294.38
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.84556 45.39621 11.25 229.09
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 11.84566 45.39629 11.15 229.94
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.84582 45.39643 11.00 227.29
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.84936 45.39936 10.07 19.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.85097 45.39985 10.99 350.68
+OBJECT_SHARED Models/lib/citation.ac 11.84566 45.39629 11.15 229.94
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.84582 45.39643 11.00 47.29
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.84936 45.39936 10.07 199.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.85097 45.39985 10.99 170.68
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.85074 45.39983 10.66 354.49
 OBJECT_SHARED Models/lib/lamp10m.xml 11.85102 45.40015 11.49 109.98
 OBJECT_SHARED Models/lib/lamp10m.xml 11.85189 45.40032 12.63 51.46
@@ -23,6 +23,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml 11.84978 45.39989 10.88 129.21
 OBJECT_SHARED Models/lib/lamp10m.xml 11.85059 45.40006 11.12 106.83
 OBJECT_SHARED Models/lib/lamp10m.xml 11.84938 45.39958 10.28 135.94
 OBJECT_SHARED Models/lib/office32x25n.ac 11.85116 45.40050 12.78 288.15
+OBJECT_SHARED Models/lib/admin31x12.ac 11.84947 45.39975 10.41 317.49
 OBJECT_SHARED Models/lib/FireStationLg.ac 11.85085 45.40011 11.39 286.93
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 11.85023 45.40003 10.75 15.55
 OBJECT_SHARED Models/lib/SmHangar.ac 11.84850 45.39946 10.69 107.03

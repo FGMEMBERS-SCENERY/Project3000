@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 0.65269 41.55004 208.85 171.957
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.65254 41.55012 208.78 160.585
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.65254 41.55012 208.78 340.585
 OBJECT_SHARED Models/lib/shed8x10.ac 0.65478 41.55098 207.72 168.573
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 0.65247 41.55224 200.99 359.215
 OBJECT_SHARED Models/Misc/6barrels.ac 0.65225 41.55162 202.53 0
@@ -16,7 +16,7 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.65127 41.54981 208.59 121.522
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.65131 41.54988 208.50 335.273
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.65117 41.54984 208.55 109.926
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.65120 41.54991 208.47 31.2181
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.65230 41.55160 202.62 4.50446
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.65230 41.55160 202.62 94.5045
 OBJECT_SHARED Models/lib/office6x12.ac 0.65208 41.55000 208.71 247.854
 OBJECT_SHARED Models/lib/SmHangar.ac 0.65213 41.55018 208.62 158.85
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 0.65203 41.54970 208.84 67.4633

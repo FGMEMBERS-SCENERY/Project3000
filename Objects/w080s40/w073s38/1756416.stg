@@ -3,5 +3,5 @@
 #
 OBJECT_SHARED Models/lib/cars14.ac -72.92514 -37.97873 86.49 88
 OBJECT_SHARED Models/lib/cars14.ac -72.93543 -37.97848 85.49 88
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.92590 -37.97881 85.65 40
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.92590 -37.97881 85.65 220
 # END dsf2stg

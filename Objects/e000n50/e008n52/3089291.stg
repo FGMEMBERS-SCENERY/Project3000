@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.85935 52.22020 44.73 301.86
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.85949 52.22007 44.80 301.86
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86069 52.22045 44.79 117
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.85935 52.22020 44.73 121.86
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.85949 52.22007 44.80 121.86
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86069 52.22045 44.79 297
 OBJECT_SHARED Models/lib/cars6.ac 8.86293 52.22512 43.65 215.87
 OBJECT_SHARED Models/lib/cars6.ac 8.86118 52.22418 43.02 117.35
 OBJECT_SHARED Models/lib/cars6.ac 8.86383 52.22194 43.68 33.52
@@ -18,12 +18,12 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac 8.86460 52.22220 43.56 168.69
 OBJECT_SHARED Models/lib/stack_of_cones.ac 8.86584 52.22229 43.46 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 8.86601 52.22258 43.28 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 8.86665 52.22246 42.89 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86700 52.22262 42.94 32.2
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86700 52.22262 42.94 212.2
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 8.86614 52.22240 43.27 83.66
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 8.86189 52.22367 42.88 298.89
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86180 52.22377 42.88 304.05
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86216 52.22426 43.02 211.5
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86241 52.22435 42.97 209.05
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86180 52.22377 42.88 124.05
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86216 52.22426 43.02 31.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.86241 52.22435 42.97 29.05
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.85338 52.22115 45.70 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.85306 52.22102 45.72 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.85379 52.22131 45.56 0
@@ -93,7 +93,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml 8.85924 52.21991 44.84 300.17
 OBJECT_SHARED Models/lib/MedHangar.ac 8.86100 52.22042 44.71 301.33
 OBJECT_SHARED Models/lib/MedHangar.ac 8.86046 52.22024 44.98 301.88
 OBJECT_SHARED Models/lib/MedHangar.ac 8.85990 52.22006 44.90 301.88
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.86460 52.22227 43.53 125.35
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.86460 52.22227 43.53 215.35
 OBJECT_SHARED Models/lib/office32x25n.ac 8.86402 52.22177 43.79 300.8
 OBJECT_SHARED Models/lib/SmHangar.ac 8.86626 52.22238 43.16 30.43
 OBJECT_SHARED Models/lib/SmHangar.ac 8.86609 52.22256 43.30 31.18

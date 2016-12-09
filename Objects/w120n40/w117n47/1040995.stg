@@ -41,7 +41,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac -116.18922 47.54793 675.49 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -116.18918 47.54790 675.49 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -116.18913 47.54809 675.53 90.01
 OBJECT_SHARED Models/lib/shed8x10.ac -116.19037 47.54829 674.58 90
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.18864 47.54802 675.51 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.18864 47.54802 675.51 90
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -116.18924 47.54787 675.49 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -116.19806 47.54665 671.64 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -116.19988 47.54670 670.62 90

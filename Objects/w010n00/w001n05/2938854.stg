@@ -1,0 +1,55 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/320volare.xml -0.17051 5.60598 64.56 54.5
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -0.16852 5.60880 70.08 249.02
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -0.17132 5.60154 57.16 339.01
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -0.17156 5.60160 56.83 338.88
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -0.17177 5.60169 58.43 338.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.17194 5.60174 61.86 157.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.17206 5.60179 62.87 157.22
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -0.17165 5.60099 62.01 66.69
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -0.17224 5.60120 61.56 156.7
+OBJECT_SHARED Models/Aircraft/D328_services.xml -0.17265 5.60044 61.78 247.28
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -0.17291 5.59972 61.46 156.8
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -0.17221 5.60026 61.71 157.54
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -0.17237 5.59948 61.34 157.27
+OBJECT_SHARED Models/lib/office32x25n.ac -0.17160 5.60578 67.47 158.15
+OBJECT_SHARED Models/lib/fboModern1.ac -0.16537 5.60298 62.37 337.35
+OBJECT_SHARED Models/lib/fboModern1.ac -0.16523 5.60332 60.82 337.39
+OBJECT_SHARED Models/lib/LgMaint.ac -0.16366 5.60458 56.16 67.57
+OBJECT_SHARED Models/lib/MedHangar.ac -0.16250 5.60065 60.62 296.69
+OBJECT_SHARED Models/lib/MedHangar.ac -0.16323 5.60031 57.37 296.57
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -0.17182 5.60578 66.37 67.16
+OBJECT_SHARED Models/lib/lamp10m.xml -0.17082 5.60812 69.70 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.17108 5.60727 70.50 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.17142 5.60641 68.90 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.17030 5.60547 64.39 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.16966 5.60709 71.19 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.17052 5.60741 70.50 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.17114 5.60578 65.02 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -0.17125 5.60683 70.43 0
+OBJECT_SHARED Models/lib/chariot3.ac -0.17027 5.60744 70.64 155.43
+OBJECT_SHARED Models/lib/chariot3.ac -0.17066 5.60549 64.24 155.43
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -0.16957 5.60709 71.28 90
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -0.17023 5.60543 64.40 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -0.16975 5.60709 71.10 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -0.17039 5.60547 64.35 0
+OBJECT_SHARED Models/Airport/cargoim.xml -0.16996 5.60720 70.89 0
+OBJECT_SHARED Models/Airport/cargoim.xml -0.17048 5.60556 64.37 0
+OBJECT_SHARED Models/lib/loader.ac -0.17006 5.60732 70.88 81.36
+OBJECT_SHARED Models/lib/loader.ac -0.17067 5.60558 64.29 270
+OBJECT_SHARED Models/lib/belt_loader.ac -0.17020 5.60723 70.87 270
+OBJECT_SHARED Models/lib/belt_loader.ac -0.17082 5.60569 64.28 270
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.17032 5.60783 70.28 236.68
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.16984 5.60763 70.77 236.68
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.16933 5.60743 69.41 236.68
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.16944 5.60650 65.29 309.34
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.17001 5.60678 71.75 57.44
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.17052 5.60701 70.84 57.44
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.17113 5.60630 68.90 234
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.17063 5.60607 64.52 234
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.16980 5.60540 64.57 336.23
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.17026 5.60509 64.17 102.38
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -0.17100 5.60542 64.08 102.38
+# END dsf2stg

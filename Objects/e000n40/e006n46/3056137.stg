@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.26542 46.19536 480.69 115.89
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.26542 46.19536 480.69 205.89
 OBJECT_SHARED Models/lib/HorizTanks2.ac 6.26609 46.19535 481.79 118.15
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 6.26421 46.19603 478.28 27.9
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.26413 46.19590 478.21 299.79
@@ -24,6 +24,6 @@ OBJECT_SHARED Models/lib/LongRow.ac 6.26859 46.19416 486.23 152.59
 OBJECT_SHARED Models/lib/farm19x12.ac 6.26421 46.19608 478.22 26.5
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.26626 46.19486 482.27 117.6
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.26463 46.19576 479.13 208.6
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.26503 46.19592 479.73 209.71
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.26537 46.19630 480.09 170.1
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.26503 46.19592 479.73 29.71
+OBJECT_SHARED Models/lib/citation.ac 6.26537 46.19630 480.09 170.1
 # END dsf2stg

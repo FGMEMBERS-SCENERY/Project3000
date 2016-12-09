@@ -7,7 +7,7 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57901 41.16931 34.02 5.2399
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57946 41.16938 34.05 187.43
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57954 41.16927 34.18 9.35001
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57914 41.16930 34.05 186.71
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -71.58044 41.16922 34.55 184.64
+OBJECT_SHARED Models/lib/fuel-truck.xml -71.58044 41.16922 34.55 184.64
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57899 41.16943 33.87 187.27
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57931 41.16928 34.12 7.72
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57892 41.16943 33.84 196.17
@@ -31,6 +31,6 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac -71.58074 41.16932 34.48
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -71.57962 41.16922 34.34 0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -71.57965 41.16922 34.38 0
 OBJECT_SHARED Models/lib/MedHangar.ac -71.58012 41.16916 34.49 96.04
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.58071 41.16905 34.73 95.68
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.58071 41.16905 34.73 185.68
 OBJECT_SHARED Models/lib/SmHangar.ac -71.58074 41.16920 34.60 185.71
 # END dsf2stg

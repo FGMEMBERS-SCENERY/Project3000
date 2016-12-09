@@ -3,9 +3,9 @@
 #
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -64.30202 -27.75683 200.52 140.83
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -64.30087 -27.76073 201.32 337.25
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -64.30009 -27.76030 201.29 151.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -64.30009 -27.76030 201.29 331.19
 OBJECT_SHARED Models/Aircraft/B1900_services.xml -64.29962 -27.76053 201.07 129.8
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -64.30094 -27.76140 201.60 0
+OBJECT_SHARED Models/lib/citation.ac -64.30094 -27.76140 201.60 0
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -64.30223 -27.75610 200.21 175.53
 OBJECT_SHARED Models/Aircraft/D328_services.xml -64.29907 -27.75973 201.49 213.69
 OBJECT_SHARED Models/Aircraft/320austrian.xml -64.30159 -27.75720 200.01 130.38

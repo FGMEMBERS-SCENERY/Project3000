@@ -1,0 +1,51 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -1.24644 60.18859 18.55 166.21
+OBJECT_SHARED Models/lib/office3x10.ac -1.24649 60.18890 18.49 76.93
+OBJECT_SHARED Models/lib/office6x12.ac -1.24645 60.18898 18.45 76.37
+OBJECT_SHARED Models/lib/office3x10.ac -1.24636 60.18913 18.40 76.07
+OBJECT_SHARED Models/lib/shed8x10.ac -1.24644 60.18844 18.60 257.13
+OBJECT_SHARED Models/lib/shed8x10.ac -1.24628 60.18876 18.43 76.71
+OBJECT_SHARED Models/lib/shed8x10.ac -1.24718 60.18886 18.74 77.77
+OBJECT_SHARED Models/lib/shed8x10.ac -1.24741 60.18855 18.87 65.92
+OBJECT_SHARED Models/lib/lamp10m.xml -1.24791 60.18917 18.39 100.8
+OBJECT_SHARED Models/lib/lamp10m.xml -1.24754 60.18854 18.81 -89.41
+OBJECT_SHARED Models/lib/lamp10m.xml -1.24686 60.18884 18.66 18.29
+OBJECT_SHARED Models/lib/lamp10m.xml -1.24587 60.18861 18.32 24.11
+OBJECT_SHARED Models/lib/lamp10m.xml -1.24629 60.18869 18.46 118.09
+OBJECT_SHARED Models/lib/lamp10m.xml -1.24608 60.18817 18.51 -84.24
+OBJECT_SHARED Models/lib/lamp10m.xml -1.24655 60.18823 18.70 214.7
+OBJECT_SHARED Models/lib/lamp10m.xml -1.24638 60.18887 18.45 214.3
+OBJECT_SHARED Models/lib/lamp10m.xml -1.24635 60.18917 18.37 197.23
+OBJECT_SHARED Models/lib/propane-tank.ac -1.24660 60.18910 18.49 166.37
+OBJECT_SHARED Models/Airport/cargoim.xml -1.24710 60.18882 18.74 164.59
+OBJECT_SHARED Models/Airport/cargoim.xml -1.24693 60.18880 18.69 164.64
+OBJECT_SHARED Models/Airport/cargoim.xml -1.24691 60.18885 18.68 177.95
+OBJECT_SHARED Models/lib/container6.ac -1.24755 60.18859 18.95 223.26
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -1.24671 60.18881 18.60 348.62
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -1.24677 60.18882 18.62 345.53
+OBJECT_SHARED Models/lib/container6.ac -1.24765 60.18863 18.97 232.22
+OBJECT_SHARED Models/lib/container6.ac -1.24775 60.18868 18.97 223.56
+OBJECT_SHARED Models/lib/container6.ac -1.24784 60.18873 19.00 229.67
+OBJECT_SHARED Models/lib/container6.ac -1.24795 60.18878 19.00 232.52
+OBJECT_SHARED Models/lib/container6.ac -1.24804 60.18882 19.02 227.2
+OBJECT_SHARED Models/lib/container6.ac -1.24813 60.18887 18.84 225.6
+OBJECT_SHARED Models/lib/container6.ac -1.24821 60.18891 18.81 223.81
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -1.24682 60.18855 18.72 166.45
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -1.24687 60.18860 18.71 166.37
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -1.24711 60.18863 18.81 161.77
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -1.24684 60.18864 18.70 166.71
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -1.24708 60.18867 18.77 165.62
+OBJECT_SHARED Models/lib/stack_of_cones.ac -1.24674 60.18902 18.57 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -1.24638 60.18918 18.38 164.4
+OBJECT_SHARED Models/lib/cars6.ac -1.24713 60.18838 18.87 315.3
+OBJECT_SHARED Models/lib/cars4.ac -1.24625 60.18869 18.44 345.61
+OBJECT_SHARED Models/lib/cars4.ac -1.24642 60.18852 18.57 74.89
+OBJECT_SHARED Models/lib/cars4.ac -1.24653 60.18823 18.70 77.65
+OBJECT_SHARED Models/lib/cars4.ac -1.24599 60.18832 18.44 256
+OBJECT_SHARED Models/lib/cars10.ac -1.24585 60.18859 18.31 256.03
+OBJECT_SHARED Models/lib/NoParkStripes.xml -1.24634 60.18835 18.56 166.8
+OBJECT_SHARED Models/lib/NoParkStripes.xml -1.24627 60.18923 18.34 75.6
+OBJECT_SHARED Models/lib/NoParkStripes.xml -1.24622 60.18932 18.30 75.6
+# END dsf2stg

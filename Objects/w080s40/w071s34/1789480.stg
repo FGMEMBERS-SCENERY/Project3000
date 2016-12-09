@@ -2,12 +2,12 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/cars14.ac -70.85205 -33.33673 481.81 15.29
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.85230 -33.33453 482.66 217.18
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.85230 -33.33453 482.66 37.18
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.84974 -33.33993 480.44 63.75
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.85128 -33.33851 481.07 279.85
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.85076 -33.33886 480.88 227.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.85113 -33.33599 481.99 17.57
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.85120 -33.33580 482.07 93.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.85076 -33.33886 480.88 47.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.85113 -33.33599 481.99 197.57
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.85120 -33.33580 482.07 273.24
 OBJECT_SHARED Models/lib/SmHangar.ac -70.85076 -33.33903 480.84 210.53
 OBJECT_SHARED Models/lib/SmHangar.ac -70.85105 -33.33870 480.97 191.94
 OBJECT_SHARED Models/lib/SmHangar.ac -70.85134 -33.33830 481.14 284.89

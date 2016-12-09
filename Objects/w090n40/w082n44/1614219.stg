@@ -23,7 +23,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.06030 44.16249 286.12
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -81.06039 44.16161 283.76 0
 OBJECT_SHARED Models/lib/SmHangar.ac -81.06084 44.16109 282.99 268.55
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.06088 44.16244 286.49 180
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.06005 44.16113 281.91 88.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.06138 44.16272 286.25 267.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.06005 44.16113 281.91 268.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.06138 44.16272 286.25 87.71
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.06044 44.16203 284.88 146.31
 # END dsf2stg

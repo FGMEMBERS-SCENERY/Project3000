@@ -17,7 +17,7 @@ OBJECT_SHARED Models/Airport/cargoim.xml 5.77573 50.92229 109.45 359.95
 OBJECT_SHARED Models/Airport/cargoim.xml 5.77570 50.92229 109.41 359.95
 OBJECT_SHARED Models/lib/belt_loader.ac 5.77706 50.92206 110.31 56.2
 OBJECT_SHARED Models/lib/belt_loader.ac 5.77523 50.92080 111.28 236.31
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 5.77677 50.92199 110.41 28.39
+OBJECT_SHARED Models/lib/fuel-truck.xml 5.77677 50.92199 110.41 28.39
 OBJECT_SHARED Models/Transport/Norberttruck.xml 5.77691 50.92186 110.47 275.53
 OBJECT_SHARED Models/Transport/Norberttruck.xml 5.77524 50.92090 111.23 43.64
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 5.77533 50.92209 109.44 339.71
@@ -50,9 +50,9 @@ OBJECT_SHARED Models/lib/chariot3curve.ac 5.77714 50.92208 110.30 131.36
 OBJECT_SHARED Models/lib/chariot3curve.ac 5.77029 50.91575 117.84 90
 OBJECT_SHARED Models/lib/chariot1.ac 5.77029 50.91567 118.03 60.71
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 5.76884 50.91493 113.48 151.07
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 5.76811 50.91419 113.52 25.71
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 5.76556 50.91175 115.04 11.87
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 5.76895 50.91495 112.48 56.31
+OBJECT_SHARED Models/lib/fuel-truck.xml 5.76811 50.91419 113.52 25.71
+OBJECT_SHARED Models/lib/fuel-truck.xml 5.76556 50.91175 115.04 11.87
+OBJECT_SHARED Models/lib/fuel-truck.xml 5.76895 50.91495 112.48 56.31
 OBJECT_SHARED Models/Transport/Norberttruck.xml 5.76802 50.91402 112.50 326
 OBJECT_SHARED Models/Transport/Norberttruck.xml 5.76887 50.91484 112.27 326.31
 OBJECT_SHARED Models/Transport/Norberttruck.xml 5.76804 50.91406 113.23 326.31
@@ -128,7 +128,7 @@ OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 5.78129 50.91914 111.02 99.9
 OBJECT_SHARED Models/Aircraft/B747.xml 5.77643 50.92236 110.14 136.66
 OBJECT_SHARED Models/Aircraft/D328_services.xml 5.76558 50.91206 114.36 240.46
 OBJECT_SHARED Models/Aircraft/D328_services.xml 5.76587 50.91199 115.18 238.74
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.78171 50.91999 110.53 330.64
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.78171 50.91999 110.53 150.64
 OBJECT_SHARED Models/lib/lamp10m.xml 5.77060 50.91595 118.24 56.36
 OBJECT_SHARED Models/lib/lamp10m.xml 5.76994 50.91566 114.82 56.36
 OBJECT_SHARED Models/lib/lamp10m.xml 5.77734 50.92222 110.19 59.05
@@ -664,9 +664,10 @@ OBJECT_SHARED Models/lib/20_spaces_dual.ac 5.77335 50.91865 115.24 146
 OBJECT_SHARED Models/lib/fboModern1.ac 5.76520 50.91131 114.60 150.29
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 5.76938 50.91572 115.50 326.35
 OBJECT_SHARED Models/lib/HorizTanks2.ac 5.76568 50.91181 115.21 148.24
+OBJECT_SHARED Models/lib/admin31x12.ac 5.77057 50.91648 116.54 146.04
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 5.77943 50.91735 111.52 89.3563
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 5.77920 50.91709 111.53 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.78152 50.91931 110.91 81.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.78152 50.91931 110.91 261.25
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 5.76606 50.91182 115.23 150.64
 OBJECT_SHARED Models/Aircraft/737virgin.xml 5.76661 50.91251 111.34 127.52
 # END dsf2stg

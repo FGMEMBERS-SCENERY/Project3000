@@ -2,8 +2,8 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -95.60321 46.61055 418.05 137.353
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.60393 46.61163 418.41 137.78
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.60275 46.61044 418.01 317.863
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.60393 46.61163 418.41 317.78
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.60275 46.61044 418.01 137.863
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60265 46.61134 418.44 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60333 46.61175 418.53 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60315 46.61164 418.51 0
@@ -14,9 +14,10 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60183 46.61079 418.31
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.60170 46.61071 418.26 0
 OBJECT_SHARED Models/lib/LongRow.ac -95.60317 46.61141 418.41 139.55
 OBJECT_SHARED Models/lib/LongRow.ac -95.60350 46.61113 418.24 139.55
+OBJECT_SHARED Models/lib/2vending-machines.ac -95.60267 46.61071 418.16 137.49
 OBJECT_SHARED Models/lib/lamp10m.xml -95.60234 46.61086 418.30 -39.81
 OBJECT_SHARED Models/lib/lamp10m.xml -95.60260 46.61064 418.12 -44.08
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.60240 46.61053 418.11 319.76
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.60240 46.61053 418.11 49.76
 OBJECT_SHARED Models/lib/stack_of_cones.ac -95.60248 46.61057 418.14 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -95.60260 46.61076 418.21 315
 OBJECT_SHARED Models/Misc/picnic_table.ac -95.60271 46.61082 418.20 0

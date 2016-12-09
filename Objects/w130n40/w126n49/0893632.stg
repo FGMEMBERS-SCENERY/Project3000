@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -125.76764 49.07867 -0.57 150
+OBJECT_SHARED Models/lib/cars10.ac -125.76716 49.07867 -0.56 183.37
+OBJECT_SHARED Models/lib/cars10.ac -125.76768 49.07888 -0.57 3
+OBJECT_SHARED Models/lib/cars10.ac -125.76685 49.07903 -0.56 271.18
+OBJECT_SHARED Models/lib/SmHangar.ac -125.76926 49.07904 -0.58 55.43
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -125.76869 49.07872 -0.58 327.66
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.77562 49.06709 -0.51 270
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.77073 49.06619 -0.46 180
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.77396 49.06509 -0.46 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.76692 49.06677 -0.43 270
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.77158 49.06835 -0.51 0
+# END dsf2stg

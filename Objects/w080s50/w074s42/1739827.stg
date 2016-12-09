@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06488 -41.12759 143.40 252.41
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06367 -41.12963 144.32 106.56
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06361 -41.12905 144.41 148.39
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06497 -41.12883 143.40 214.51
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06507 -41.13003 143.42 305.54
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06488 -41.12759 143.40 72.41
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06367 -41.12963 144.32 286.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06361 -41.12905 144.41 328.39
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06497 -41.12883 143.40 34.51
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.06507 -41.13003 143.42 125.54
 OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06564 -41.12906 142.97 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06568 -41.12912 142.98 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -73.06560 -41.12916 143.03 0

@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.35935 -35.77179 32.22 158.44
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.36287 -35.76782 39.20 185.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.35935 -35.77179 32.22 338.44
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 174.36287 -35.76782 39.20 5.91
 OBJECT_SHARED Models/lib/cube16x10.ac 174.36581 -35.76723 38.06 277.62
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 174.36537 -35.76736 38.68 7.79999
 OBJECT_SHARED Models/lib/SmHangar.ac 174.36620 -35.76715 37.92 8.1
@@ -26,7 +26,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml 174.36499 -35.76733 38.54 277.22
 OBJECT_SHARED Models/lib/lamp10m.xml 174.36523 -35.76744 38.68 56.31
 OBJECT_SHARED Models/lib/lamp10m.xml 174.36466 -35.76749 38.80 97.53
 OBJECT_SHARED Models/lib/lamp10m.xml 174.36406 -35.76756 39.05 117.08
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 174.36512 -35.76742 38.68 277.24
+OBJECT_SHARED Models/lib/fuel-truck.xml 174.36512 -35.76742 38.68 277.24
 OBJECT_SHARED Models/lib/cars4.ac 174.36460 -35.76730 38.54 187.57
 OBJECT_SHARED Models/lib/cars4.ac 174.36425 -35.76742 38.79 187.43
 OBJECT_SHARED Models/lib/cars6.ac 174.36447 -35.76732 38.66 187.97

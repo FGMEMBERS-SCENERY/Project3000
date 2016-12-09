@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac -166.85477 53.96778 23.98 112.8
+OBJECT_SHARED Models/lib/cone.ac -166.86115 53.97636 -0.00 348.69
+OBJECT_SHARED Models/lib/cone.ac -166.86078 53.97646 -0.00 0
+OBJECT_SHARED Models/lib/cone.ac -166.85386 53.96778 15.38 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -166.85472 53.96768 23.88 0
+OBJECT_SHARED Models/lib/cone.ac -166.85423 53.96768 15.28 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -166.85502 53.96762 23.78 26.69
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -166.85482 53.96761 23.78 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -166.85484 53.96764 23.78 0
+OBJECT_SHARED Models/Misc/6barrels.ac -166.85462 53.96771 23.88 204.26
+OBJECT_SHARED Models/Misc/6barrels.ac -166.85459 53.96771 23.88 217.69
+OBJECT_SHARED Models/Misc/6barrels.ac -166.85460 53.96772 23.88 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -166.85503 53.96775 23.98 319.02
+# END dsf2stg

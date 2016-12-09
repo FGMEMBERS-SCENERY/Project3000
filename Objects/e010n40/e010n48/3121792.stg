@@ -36,9 +36,9 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 10.10309 48.00861 578.10 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.10345 48.00890 577.99 342.47
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.10352 48.00889 577.99 0
 OBJECT_SHARED Models/lib/office16x4n.ac 10.10274 48.00856 578.02 256.69
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.10256 48.00909 577.85 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.10330 48.00903 577.94 7.59
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.10516 48.00919 577.41 12.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.10256 48.00909 577.85 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.10330 48.00903 577.94 187.59
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.10516 48.00919 577.41 192.3
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.10306 48.00906 577.86 355.03
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 10.10393 48.00875 578.04 21.37
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 10.10386 48.00875 578.04 16.7
@@ -127,5 +127,6 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 10.10434 48.00847 578.16 333.43
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.10444 48.00848 578.16 19.44
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.10331 48.00887 577.98 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.10313 48.00886 577.96 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.10402 48.00892 577.99 266.4
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.10402 48.00892 577.99 356.4
+OBJECT_SHARED Models/lib/farm19x12.ac 10.10364 48.00816 578.31 176.2
 # END dsf2stg

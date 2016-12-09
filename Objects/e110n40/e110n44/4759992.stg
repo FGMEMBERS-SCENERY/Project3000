@@ -1,9 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 110.17618 44.97944 913.63 126.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 110.17618 44.97944 913.63 216.01
 OBJECT_SHARED Models/lib/container6.ac 110.17540 44.98028 912.97 36.12
 OBJECT_SHARED Models/Transport/hatchback_black.ac 110.17499 44.98067 912.89 36.05
 OBJECT_SHARED Models/Transport/hatchback_red.ac 110.17528 44.97943 913.15 0
+OBJECT_SHARED Models/lib/admin31x12.ac 110.17510 44.97941 913.15 37
 OBJECT_SHARED Models/lib/2vending-machines.ac 110.17509 44.97951 913.13 37.78
 # END dsf2stg

@@ -33,17 +33,18 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.35339 44.09592 79.32 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.35349 44.09593 78.01 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.35369 44.09597 76.02 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.35369 44.09604 76.02 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.35352 44.09376 77.50 316.25
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.35222 44.09801 77.68 179.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.35352 44.09376 77.50 136.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.35222 44.09801 77.68 359.35
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 15.35297 44.09745 77.66 5.48001
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.35260 44.09772 76.75 21.8
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 15.35260 44.09772 76.75 201.8
 OBJECT_SHARED Models/lib/lamp10m.xml 15.35317 44.09393 77.61 0
 OBJECT_SHARED Models/lib/lamp10m.xml 15.35367 44.09613 76.01 0
 OBJECT_SHARED Models/lib/lamp10m.xml 15.35368 44.09696 75.88 0
 OBJECT_SHARED Models/lib/lamp10m.xml 15.35361 44.09740 75.84 0
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 15.35352 44.09612 77.84 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 15.35223 44.09475 79.40 90
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 15.35188 44.09473 78.95 270
+OBJECT_SHARED Models/lib/fuel-truck.xml 15.35223 44.09475 79.40 90
+OBJECT_SHARED Models/lib/fuel-truck.xml 15.35188 44.09473 78.95 270
+OBJECT_SHARED Models/lib/admin31x12.ac 15.34978 44.10058 76.25 90
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 15.35035 44.10115 75.45 271.12
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 15.35027 44.10091 75.75 272.73
 OBJECT_SHARED Models/lib/chariot1.ac 15.35396 44.09711 75.87 304.29
@@ -81,6 +82,6 @@ OBJECT_SHARED Models/lib/belt_loader.ac 15.35371 44.09508 79.38 1.10001
 OBJECT_SHARED Models/lib/belt_loader.ac 15.35369 44.09501 79.43 180
 OBJECT_SHARED Models/lib/belt_loader.ac 15.35370 44.09497 79.43 180
 OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 15.35195 44.09452 78.99 181.12
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 15.35338 44.09389 77.52 316.55
+OBJECT_SHARED Models/lib/citation.ac 15.35338 44.09389 77.52 316.55
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 15.34346 44.10681 74.05 311.99
 # END dsf2stg

@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -66.80148 44.71375 74.44 236.42
+OBJECT_SHARED Models/lib/watertank3x1.ac -66.80149 44.71374 74.44 235.86
+OBJECT_SHARED Models/lib/cone.ac -66.80130 44.71257 73.98 187.59
+OBJECT_SHARED Models/lib/cone.ac -66.80122 44.71260 73.87 285.95
+OBJECT_SHARED Models/lib/cone.ac -66.80131 44.71250 73.96 192.09
+OBJECT_SHARED Models/lib/cone.ac -66.80216 44.71290 75.03 278.75
+OBJECT_SHARED Models/lib/cone.ac -66.80217 44.71290 75.03 196.7
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.80204 44.71311 74.85 218.16
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.80188 44.71321 74.77 201.37
+OBJECT_SHARED Models/Misc/picnic_table.ac -66.80193 44.71317 74.77 324.16
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -66.80191 44.71322 74.77 212.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.80126 44.71255 73.98 233.19
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -66.80213 44.71282 74.90 250.56
+OBJECT_SHARED Models/Misc/6barrels.ac -66.80182 44.71245 74.49 118.89
+OBJECT_SHARED Models/Misc/6barrels.ac -66.80181 44.71244 74.49 20.56
+OBJECT_SHARED Models/Misc/6barrels.ac -66.80231 44.71279 75.12 332.99
+OBJECT_SHARED Models/Misc/6barrels.ac -66.80232 44.71280 75.12 168.42
+OBJECT_SHARED Models/Transport/hatchback_red.ac -66.80228 44.71305 75.18 248.85
+OBJECT_SHARED Models/Transport/hatchback_red.ac -66.80223 44.71307 75.07 250.29
+OBJECT_SHARED Models/Transport/hatchback_red.ac -66.80188 44.71329 74.79 234.36
+OBJECT_SHARED Models/Transport/hatchback_red.ac -66.80191 44.71327 74.79 233.62
+OBJECT_SHARED Models/lib/shed8x10.ac -66.80155 44.71370 74.44 54.11
+OBJECT_SHARED Models/lib/SmHangar.ac -66.80191 44.71251 74.62 230.81
+OBJECT_SHARED Models/lib/SmHangar.ac -66.80202 44.71313 74.85 141.05
+OBJECT_SHARED Models/lib/SmHangar.ac -66.80221 44.71286 75.03 141.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -66.80218 44.71265 74.97 237.26
+OBJECT_SHARED Models/Trees/billboard-tree.xml -66.80210 44.71260 74.86 250.71
+OBJECT_SHARED Models/Trees/billboard-tree.xml -66.80217 44.71243 74.92 240.07
+OBJECT_SHARED Models/Trees/billboard-tree.xml -66.80117 44.71348 74.07 237.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml -66.80160 44.71354 74.50 223.36
+OBJECT_SHARED Models/Trees/billboard-tree.xml -66.80169 44.71351 74.61 237.72
+OBJECT_SHARED Models/Trees/billboard-tree.xml -66.80234 44.71332 75.22 247.93
+OBJECT_SHARED Models/Trees/billboard-tree.xml -66.80239 44.71326 75.33 241.11
+OBJECT_SHARED Models/Trees/billboard-tree.xml -66.80246 44.71321 75.42 225
+OBJECT_SHARED Models/Transport/hatchback_red.ac -66.80193 44.71324 74.77 231
+OBJECT_SHARED Models/Transport/hatchback_red.ac -66.80204 44.71325 74.88 141.16
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -66.80210 44.71330 75.01 321.02
+# END dsf2stg

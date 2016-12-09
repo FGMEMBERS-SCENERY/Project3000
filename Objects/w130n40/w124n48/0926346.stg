@@ -5,7 +5,7 @@ OBJECT_SHARED Models/lib/cars4.ac -123.41042 48.14056 0.72 26.89
 OBJECT_SHARED Models/lib/office40x25.ac -123.41313 48.14063 0.55 266.51
 OBJECT_SHARED Models/lib/office32x25.ac -123.41438 48.14053 0.48 259.56
 OBJECT_SHARED Models/lib/office32x25.ac -123.41224 48.14046 0.60 178.21
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -123.41984 48.14087 -84.71 180
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -123.41984 48.14087 -94.71 180
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -123.41053 48.13974 -94.53 0
 OBJECT_SHARED Models/lib/SmHangar.ac -123.40961 48.14030 0.65 64.69
 OBJECT_SHARED Models/lib/SmHangar.ac -123.40980 48.13998 0.58 244.81

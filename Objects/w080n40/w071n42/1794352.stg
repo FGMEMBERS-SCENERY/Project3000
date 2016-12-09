@@ -8,7 +8,7 @@ OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -70.83479 42.79561 1.00 186.
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.84201 42.79564 2.08 341.83
 OBJECT_SHARED Models/lib/cone.ac -70.84623 42.79799 3.06 0
 OBJECT_SHARED Models/lib/cone.ac -70.84643 42.79783 3.12 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.84232 42.79571 2.24 340.65
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.84232 42.79571 2.24 160.65
 OBJECT_SHARED Models/lib/lamp10m.xml -70.84162 42.79584 2.17 12.05
 OBJECT_SHARED Models/lib/cone.ac -70.84624 42.79798 3.06 0
 OBJECT_SHARED Models/lib/cone.ac -70.84642 42.79784 3.12 0

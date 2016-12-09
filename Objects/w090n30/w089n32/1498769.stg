@@ -83,11 +83,11 @@ OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -88.74565 32.35014 -3.
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -88.74042 32.34362 -3.27 0
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -88.74043 32.34393 -3.21 0
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -88.74574 32.34978 -3.43 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -88.74530 32.34954 6.70 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -88.74562 32.34953 6.55 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -88.74543 32.34979 6.71 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -88.74284 32.34403 6.64 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -88.74452 32.34385 5.83 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -88.74530 32.34954 -3.30 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -88.74562 32.34953 -3.45 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -88.74543 32.34979 -3.29 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -88.74284 32.34403 -3.36 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -88.74452 32.34385 -4.17 0
 OBJECT_SHARED Models/lib/HorizTanks2.ac -88.74192 32.33782 90.20 64
 OBJECT_SHARED Models/lib/HorizTanks2.ac -88.74201 32.33786 90.22 64
 OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.74085 32.33899 90.77 0
@@ -148,6 +148,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac -88.74292 32.33632 89.43 243.27
 OBJECT_SHARED Models/lib/SmHangar.ac -88.74327 32.33635 89.34 243.27
 OBJECT_SHARED Models/lib/LgMaint.ac -88.74513 32.33314 87.76 237.77
 OBJECT_SHARED Models/lib/MedHangar.ac -88.74783 32.33310 87.13 36.21
+OBJECT_SHARED Models/lib/admin31x12.ac -88.74177 32.33818 90.38 153.96
 OBJECT_SHARED Models/lib/office16x4n.ac -88.74145 32.33848 90.54 330.85
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -88.74184 32.33875 90.57 331.02
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -88.74365 32.33610 89.20 243.91
@@ -164,11 +165,11 @@ OBJECT_SHARED Models/Aircraft/D328_services.xml -88.74213 32.33692 89.82 329.88
 OBJECT_SHARED Models/Aircraft/D328_services.xml -88.74217 32.33747 90.02 61.94
 OBJECT_SHARED Models/Aircraft/737virgin.xml -88.74506 32.33285 87.69 327.17
 OBJECT_SHARED Models/Aircraft/737virgin.xml -88.74510 32.33320 87.80 327.17
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.74744 32.33240 87.00 220.46
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.74361 32.33736 89.70 243.95
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.74153 32.33897 90.73 331.2
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.74103 32.33981 90.99 131.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.74744 32.33240 87.00 40.46
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.74361 32.33736 89.70 63.95
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.74153 32.33897 90.73 151.2
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.74103 32.33981 90.99 311.19
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -88.74379 32.33578 89.04 60.65
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -88.74510 32.33495 88.38 237.71
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -88.74199 32.33865 90.50 153.43
+OBJECT_SHARED Models/lib/citation.ac -88.74510 32.33495 88.38 237.71
+OBJECT_SHARED Models/lib/citation.ac -88.74199 32.33865 90.50 153.43
 # END dsf2stg

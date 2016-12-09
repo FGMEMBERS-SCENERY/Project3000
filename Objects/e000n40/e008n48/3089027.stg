@@ -11,7 +11,7 @@ OBJECT_SHARED Models/lib/farm19x12.ac 8.75629 48.10582 968.40 301.18
 OBJECT_SHARED Models/lib/farm19x12.ac 8.75452 48.10538 962.41 0
 OBJECT_SHARED Models/lib/LongRow.ac 8.75648 48.10717 965.71 297.76
 OBJECT_SHARED Models/lib/SmHangar.ac 8.75632 48.10734 964.36 179.64
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.75717 48.10379 965.38 333.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.75717 48.10379 965.38 153.71
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.75459 48.10532 962.49 186.09
 OBJECT_SHARED Models/lib/propane-tank.ac 8.75437 48.10531 959.76 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.75466 48.10541 964.15 0
@@ -37,7 +37,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 8.75468 48.10640 964.08 350.54
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.75459 48.10535 962.49 184.84
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.75458 48.10538 963.15 180
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.75458 48.10541 963.15 180
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.75596 48.10540 969.25 0.420013
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.75596 48.10540 969.25 90.42
 OBJECT_SHARED Models/Transport/hatchback_red.ac 8.75591 48.10466 970.16 197.28
 OBJECT_SHARED Models/Transport/hatchback_red.ac 8.75668 48.10395 967.44 305.71
 OBJECT_SHARED Models/Transport/hatchback_red.ac 8.75674 48.10392 967.52 307.41

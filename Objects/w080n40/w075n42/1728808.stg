@@ -196,6 +196,7 @@ OBJECT_SHARED Models/Misc/6barrels.ac -74.89354 42.62620 381.93 0
 OBJECT_SHARED Models/Misc/6barrels.ac -74.89333 42.62623 379.22 0
 OBJECT_SHARED Models/Misc/6barrels.ac -74.89332 42.62619 379.22 0
 OBJECT_SHARED Models/Misc/6barrels.ac -74.89331 42.62616 379.22 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -74.89344 42.62629 381.27 276.32
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -74.89337 42.62594 378.28 87.99
 OBJECT_SHARED Models/lib/office6x12.ac -74.89348 42.62720 387.88 168.93
 OBJECT_SHARED Models/lib/coal_pile.ac -74.89320 42.62751 383.10 261.63
@@ -270,6 +271,6 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac -74.89159 42.62837 374.35 261.1
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -74.89179 42.62928 375.61 349.11
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -74.89139 42.63095 378.05 170.27
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -74.89128 42.63003 375.94 257.9
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -74.89103 42.62930 374.55 260.17
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -74.89142 42.62788 373.07 75.38
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -74.89103 42.62930 374.55 80.17
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -74.89142 42.62788 373.07 255.38
 # END dsf2stg

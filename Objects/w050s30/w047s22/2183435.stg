@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -46.56493 -21.83897 1256.29 110
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.56351 -21.83858 1256.85 285
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.56351 -21.83858 1256.85 105
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -46.56361 -21.83863 1256.81 205
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -46.56349 -21.83885 1256.84 10
 OBJECT_SHARED Models/lib/office3x10.ac -46.56528 -21.83708 1256.02 30
@@ -218,8 +218,8 @@ OBJECT_SHARED Models/lib/vending-machine.ac -46.56294 -21.83824 1257.10 16
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -46.56284 -21.83830 1257.13 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -46.56304 -21.83835 1257.05 0
 OBJECT_SHARED Models/lib/shed10x50.ac -46.56277 -21.83784 1257.15 335
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.56335 -21.83882 1256.92 15
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -46.56606 -21.83908 1255.83 22
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.56335 -21.83882 1256.92 195
+OBJECT_SHARED Models/lib/citation.ac -46.56606 -21.83908 1255.83 22
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -46.57221 -21.84162 1256.14 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -46.57226 -21.84169 1256.27 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -46.57215 -21.84176 1256.51 0
@@ -294,7 +294,7 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml -46.56818 -21.83902 1255.03 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -46.56815 -21.83893 1255.07 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -46.56809 -21.83888 1255.07 180
 OBJECT_SHARED Models/lib/transformer3x3.ac -46.56278 -21.83834 1257.13 300
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.56362 -21.83889 1256.80 15
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.56362 -21.83889 1256.80 195
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -46.56323 -21.83878 1256.95 10
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -46.56585 -21.83908 1255.94 22
 OBJECT_SHARED Models/lib/farm19x12.ac -46.56456 -21.83866 1256.42 220
@@ -335,4 +335,5 @@ OBJECT_SHARED Models/Airport/FGRefuel02.xml -46.56281 -21.83882 1257.11 194
 OBJECT_SHARED Models/lib/SmHangar.ac -46.56379 -21.83849 1256.74 106
 OBJECT_SHARED Models/lib/SmHangar.ac -46.56355 -21.83843 1256.86 106
 OBJECT_SHARED Models/lib/MedHangar.ac -46.56329 -21.83837 1256.93 106
+OBJECT_SHARED Models/lib/admin31x12.ac -46.56543 -21.83797 1256.14 39
 # END dsf2stg

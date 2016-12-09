@@ -26,6 +26,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82959 -24.07026 13.75 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82973 -24.07021 13.70 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -46.82956 -24.07014 13.53 0
 OBJECT_SHARED Models/lib/shed8x10.ac -46.82943 -24.06967 13.28 110
+OBJECT_SHARED Models/lib/industrial13x24.ac -46.82995 -24.06969 13.57 280
 OBJECT_SHARED Models/lib/SmHangar.ac -46.82933 -24.06985 13.24 288
 OBJECT_SHARED Models/lib/farm19x12.ac -46.83016 -24.07000 14.06 100
 OBJECT_SHARED Models/lib/watertank3x1.ac -46.82949 -24.06970 13.34 20

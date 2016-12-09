@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/HorizTanks2.ac -47.34322 -15.55174 950.09 151.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -47.34462 -15.55171 950.74 218.29
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -47.34462 -15.55171 950.74 38.29
 OBJECT_SHARED Models/lib/lamp10m.xml -47.34534 -15.55206 951.83 123.98
 OBJECT_SHARED Models/lib/lamp10m.xml -47.34510 -15.55187 951.36 130.16
 OBJECT_SHARED Models/lib/lamp10m.xml -47.34459 -15.55147 950.36 134.19

@@ -3,8 +3,8 @@
 #
 OBJECT_SHARED Models/lib/SmHangar.ac 9.07011 48.25134 890.07 146.93
 OBJECT_SHARED Models/lib/SmHangar.ac 9.07019 48.25142 892.11 146.93
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.06815 48.25188 887.93 147.33
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.06793 48.25197 888.20 143
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.06815 48.25188 887.93 327.33
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.06793 48.25197 888.20 323
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 9.06825 48.25215 888.32 236.82
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 9.06840 48.25209 888.08 59.2
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.06881 48.25218 889.17 236.49
@@ -26,8 +26,8 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 9.06847 48.25218 888.19 237.38
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.06843 48.25220 888.21 237.38
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.06839 48.25221 888.24 237.38
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.06835 48.25223 888.26 237.38
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.06882 48.25194 887.54 146.31
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.06885 48.25197 888.08 147.74
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.06882 48.25194 887.54 236.31
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.06885 48.25197 888.08 237.74
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.06878 48.25192 887.57 0
 OBJECT_SHARED Models/lib/cone.ac 9.06965 48.25133 888.20 0
 OBJECT_SHARED Models/lib/cone.ac 9.06968 48.25133 888.28 0

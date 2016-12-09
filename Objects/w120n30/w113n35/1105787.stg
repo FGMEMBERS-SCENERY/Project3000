@@ -61,8 +61,9 @@ OBJECT_SHARED Models/lib/lamp10m.xml -112.13507 35.96068 2018.12 -38.64
 OBJECT_SHARED Models/lib/lamp10m.xml -112.13481 35.96092 2017.96 -38.98
 OBJECT_SHARED Models/lib/lamp10m.xml -112.13446 35.96123 2018.33 -44.99
 OBJECT_SHARED Models/lib/lamp10m.xml -112.13426 35.96148 2017.99 137.74
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -112.13306 35.96010 2020.45 231.92
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -112.13294 35.96264 2017.82 267.63
+OBJECT_SHARED Models/lib/fuel-truck.xml -112.13306 35.96010 2020.45 231.92
+OBJECT_SHARED Models/lib/fuel-truck.xml -112.13294 35.96264 2017.82 267.63
+OBJECT_SHARED Models/lib/admin31x12.ac -112.13290 35.96370 2016.73 316.31
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.14727 35.94908 2008.88 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.14713 35.94916 2008.92 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.14654 35.94900 2008.83 0
@@ -89,10 +90,10 @@ OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -112.13567 35.96020 2018.09 
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -112.13591 35.95997 2018.21 0
 OBJECT_SHARED Models/Aircraft/B1900_services.xml -112.13665 35.95938 2018.24 228.89
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -112.13701 35.95917 2018.30 138.37
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -112.13560 35.96061 2017.88 138.48
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -112.13549 35.96052 2018.34 138.59
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -112.13560 35.96061 2017.88 318.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -112.13549 35.96052 2018.34 318.59
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -112.13574 35.96025 2018.04 140.67
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -112.13541 35.96115 2017.74 137.45
+OBJECT_SHARED Models/lib/citation.ac -112.13541 35.96115 2017.74 137.45
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -112.13504 35.96153 2017.53 138.57
 OBJECT_SHARED Models/Trees/billboard-tree.xml -112.13658 35.95749 2019.34 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -112.13723 35.95724 2019.54 0
@@ -159,7 +160,7 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml -112.13513 35.96017 2018.67 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml -112.13515 35.96023 2018.67 0
 OBJECT_SHARED Models/lib/SmHangar.ac -112.13512 35.96045 2018.34 317.9
 OBJECT_SHARED Models/Transport/hatchback_red.ac -112.13553 35.95932 2018.80 230.11
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -112.12699 35.96604 1945.64 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -112.12699 35.96604 1935.64 0
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -112.12701 35.96568 1941.06 0
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -112.13420 35.95590 1933.02 0
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -112.13393 35.95616 1932.87 0

@@ -18,7 +18,7 @@ OBJECT_SHARED Models/lib/deciduous-tree.xml -45.91833 -22.28823 889.62 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml -45.91834 -22.28708 888.13 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml -45.91843 -22.28629 887.18 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -45.92031 -22.28847 892.40 95
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -45.92063 -22.28925 891.63 1
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -45.92063 -22.28925 891.63 181
 OBJECT_SHARED Models/Transport/hatchback_red.ac -45.92088 -22.28868 890.58 116
 OBJECT_SHARED Models/Transport/hatchback_red.ac -45.92087 -22.28871 890.58 116
 OBJECT_SHARED Models/Transport/hatchback_red.ac -45.92073 -22.28865 891.62 296
@@ -48,14 +48,14 @@ OBJECT_SHARED Models/lib/deciduous-tree.xml -45.91797 -22.29043 891.45 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml -45.91798 -22.29032 891.35 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml -45.91801 -22.29001 891.06 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -45.91804 -22.28983 890.86 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -45.92050 -22.28924 892.51 2
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -45.92050 -22.28924 892.51 182
 OBJECT_SHARED Models/Transport/hatchback_red.ac -45.92087 -22.28877 890.56 116
 OBJECT_SHARED Models/Transport/hatchback_red.ac -45.92073 -22.28872 891.62 296
 OBJECT_SHARED Models/Transport/hatchback_red.ac -45.92072 -22.28881 892.08 296
 OBJECT_SHARED Models/lib/lamp10m.xml -45.92071 -22.28856 891.17 180
 OBJECT_SHARED Models/lib/lamp10m.xml -45.92069 -22.28875 891.62 180
 OBJECT_SHARED Models/lib/lamp10m.xml -45.92076 -22.28899 890.85 270
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -45.92069 -22.28941 890.75 92
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -45.92069 -22.28941 890.75 182
 OBJECT_SHARED Models/lib/transformer3x3.ac -45.92053 -22.28813 890.05 90
 OBJECT_SHARED Models/lib/SmHangar.ac -45.92072 -22.28921 891.14 184
 OBJECT_SHARED Models/lib/transformer3x3.ac -45.92060 -22.28950 891.24 183

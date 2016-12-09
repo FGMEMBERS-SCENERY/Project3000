@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.99149 44.06440 461.25 50.1942
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.99082 44.06347 459.85 321.47
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.99149 44.06440 461.25 140.194
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.99082 44.06347 459.85 141.47
 OBJECT_SHARED Models/lib/SmHangar.ac 5.99532 44.06130 449.20 267.337
 OBJECT_SHARED Models/lib/SmHangar.ac 5.99525 44.06209 451.07 357.436
 OBJECT_SHARED Models/lib/SmHangar.ac 5.99524 44.06193 450.95 357.732

@@ -10,13 +10,13 @@ OBJECT_SHARED Models/lib/SmHangar.ac 12.03600 48.51346 400.99 113.46
 OBJECT_SHARED Models/lib/SmHangar.ac 12.03577 48.51340 400.98 113.46
 OBJECT_SHARED Models/lib/SmHangar.ac 12.03660 48.51366 401.08 114.35
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 12.03797 48.51395 401.43 24.18
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.04165 48.51160 401.55 67.28
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.04165 48.51160 401.55 247.28
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.03750 48.51380 401.58 115.75
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 12.03331 48.51345 399.76 150
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.03361 48.51330 399.87 147.93
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.03455 48.51312 400.27 295.32
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.03703 48.51337 401.09 19.68
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.03785 48.51360 401.05 19.44
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.03361 48.51330 399.87 327.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.03455 48.51312 400.27 115.32
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.03703 48.51337 401.09 199.68
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.03785 48.51360 401.05 199.44
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.03973 48.51130 402.30 294.38
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.04143 48.51161 401.50 16.16
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 12.04064 48.51164 401.18 16.36
@@ -29,7 +29,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.03962 48.51159 401.15 
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.03836 48.51403 401.33 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.03776 48.51418 401.57 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.03395 48.51299 400.00 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.03440 48.51287 400.18 113.76
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.03440 48.51287 400.18 203.76
 OBJECT_SHARED Models/lib/cone.ac 12.03330 48.51344 399.74 0
 OBJECT_SHARED Models/lib/cone.ac 12.03357 48.51327 399.87 0
 OBJECT_SHARED Models/lib/cone.ac 12.03783 48.51363 401.02 0

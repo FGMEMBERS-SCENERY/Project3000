@@ -14,7 +14,7 @@ OBJECT_SHARED Models/Airport/cargoip.xml -76.14209 51.68765 256.82 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.13961 51.68851 256.21 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.13961 51.68847 256.21 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.14119 51.68802 256.56 63.43
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -76.13974 51.68806 257.48 218.03
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.13974 51.68806 257.48 218.03
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac -76.13901 51.68809 258.06 171.12
 OBJECT_SHARED Models/Airport/cargobox.xml -76.13944 51.68899 254.70 0
 OBJECT_SHARED Models/lib/container6.ac -76.13963 51.68896 254.53 0

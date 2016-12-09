@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.85926 49.02117 249.00 224.03
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.85926 49.02117 249.00 44.03
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 5.86261 49.02282 242.82 222.66
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.86546 49.02408 243.10 41.05
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 5.87841 49.02125 257.82 73.61
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.86546 49.02408 243.10 221.05
+OBJECT_SHARED Models/lib/citation.ac 5.87841 49.02125 257.82 73.61
 OBJECT_SHARED Models/lib/FireStationLg.ac 5.87981 49.02222 263.10 130.44
 OBJECT_SHARED Models/lib/HorizTanks2.ac 5.87761 49.02161 257.34 175.82
 OBJECT_SHARED Models/lib/office40x25.ac 5.87906 49.02092 258.05 129.24
@@ -16,5 +16,5 @@ OBJECT_SHARED Models/lib/fboModern1.ac 5.86542 49.02429 242.79 130.6
 OBJECT_SHARED Models/lib/fboModern1.ac 5.86315 49.02302 242.82 130.6
 OBJECT_SHARED Models/lib/LgMaint.ac 5.87798 49.02045 257.28 309.8
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 5.87962 49.02168 263.74 40.53
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.85712 49.02009 241.23 39.11
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.85712 49.02009 241.23 129.11
 # END dsf2stg

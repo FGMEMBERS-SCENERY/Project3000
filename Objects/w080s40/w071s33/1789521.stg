@@ -2,8 +2,8 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/cars7.ac -70.70537 -32.74864 666.17 111.96
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.70498 -32.74866 666.36 335.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.70596 -32.74728 666.41 244.44
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.70498 -32.74866 666.36 155.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.70596 -32.74728 666.41 64.44
 OBJECT_SHARED Models/lib/SmHangar.ac -70.70529 -32.74846 666.25 10.81
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.70598 -32.74781 667.79 87.74
 OBJECT_SHARED Models/Trees/billboard-tree.xml -70.70630 -32.74888 665.62 0

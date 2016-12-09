@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -2.21412 49.70868 81.23 197.94
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -2.21255 49.70862 82.34 45.58
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -2.21310 49.70851 82.22 24.83
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.21339 49.70848 82.06 108.78
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.21306 49.70820 82.67 170.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.21331 49.70824 82.57 170.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.21347 49.70827 82.38 170.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.21369 49.70876 81.30 201.8
+OBJECT_SHARED Models/lib/lamp10m.xml -2.21417 49.70922 80.06 -17.08
+OBJECT_SHARED Models/lib/lamp10m.xml -2.21459 49.70897 80.31 134.53
+OBJECT_SHARED Models/lib/lamp10m.xml -2.21515 49.70869 80.64 227.95
+OBJECT_SHARED Models/lib/cars4.ac -2.21504 49.70898 80.05 13.83
+OBJECT_SHARED Models/lib/cars4.ac -2.21439 49.70889 80.66 198.9
+OBJECT_SHARED Models/lib/cars4.ac -2.21454 49.70886 80.57 198.9
+OBJECT_SHARED Models/lib/cars4.ac -2.21489 49.70883 80.57 199.75
+OBJECT_SHARED Models/lib/cars6.ac -2.21526 49.70967 78.20 281.99
+OBJECT_SHARED Models/lib/coal_pile.ac -2.21995 49.70522 81.36 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.22009 49.70524 81.27 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.22013 49.70527 81.28 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.22024 49.70529 81.22 90
+OBJECT_SHARED Models/Misc/6barrels.ac -2.22026 49.70527 81.20 0
+OBJECT_SHARED Models/lib/coal_pile.ac -2.21529 49.70808 81.72 119.344
+OBJECT_SHARED Models/Misc/6barrels.ac -2.21515 49.70812 81.80 0
+OBJECT_SHARED Models/lib/propane-tank.ac -2.21520 49.70811 81.77 30.62
+OBJECT_SHARED Models/lib/fuel-truck.xml -2.21412 49.70890 80.82 17.88
+OBJECT_SHARED Models/lib/lamp10m.xml -2.21431 49.70881 80.93 126.02
+OBJECT_SHARED Models/lib/lamp10m.xml -2.21369 49.70896 80.83 72.5
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -2.21418 49.70886 80.79 0
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -2.21422 49.70886 80.76 0
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -2.21426 49.70885 80.96 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -2.21430 49.70884 80.94 287.35
+OBJECT_SHARED Models/lib/cars10.ac -2.21520 49.70949 78.73 282.19
+OBJECT_SHARED Models/lib/cars10.ac -2.21511 49.70922 79.52 282.19
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -2.21490 49.70860 81.00 285.95
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -2.21408 49.70901 80.61 199.12
+OBJECT_SHARED Models/lib/chariot2.ac -2.21486 49.70858 81.03 104.66
+OBJECT_SHARED Models/lib/belt_loader.ac -2.21489 49.70853 81.22 244.92
+OBJECT_SHARED Models/lib/office6x12.ac -2.21471 49.70896 80.24 287.9
+OBJECT_SHARED Models/lib/office3x10.ac -2.21468 49.70901 80.26 287.88
+OBJECT_SHARED Models/lib/office3x10.ac -2.21418 49.70938 79.55 15.64
+OBJECT_SHARED Models/lib/office3x10.ac -2.21424 49.70937 79.51 15.64
+# END dsf2stg

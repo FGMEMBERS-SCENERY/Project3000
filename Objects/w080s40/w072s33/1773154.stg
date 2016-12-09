@@ -38,9 +38,9 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -71.25718 -32.44991 73.70 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -71.25824 -32.45002 76.98 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -71.25860 -32.45012 76.49 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -71.25880 -32.45001 74.70 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.26332 -32.44904 76.98 262.75
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.26332 -32.44904 76.98 82.75
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.25901 -32.44930 70.25 102.27
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.25794 -32.44912 76.23 94.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.25794 -32.44912 76.23 274.24
 OBJECT_SHARED Models/lib/SmHangar.ac -71.25763 -32.44966 75.69 1.88
 OBJECT_SHARED Models/lib/SmHangar.ac -71.25805 -32.44994 76.55 275.68
 OBJECT_SHARED Models/lib/SmHangar.ac -71.25844 -32.44997 77.32 274.41

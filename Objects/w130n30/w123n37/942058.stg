@@ -33,9 +33,9 @@ OBJECT_SHARED Models/lib/RampParkingStripe.ac -122.38090 37.62792 3.03 242.93
 OBJECT_SHARED Models/lib/RampParkingStripe.ac -122.38136 37.62722 3.31 242.87
 OBJECT_SHARED Models/lib/RampParkingStripe.ac -122.38178 37.62648 3.77 206.56
 OBJECT_SHARED Models/Aircraft/B747.xml -122.37900 37.62724 2.97 150.59
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.37767 37.62856 2.31 323.88
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.37774 37.62858 2.31 326.11
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.37875 37.62762 2.81 92.45
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.37767 37.62856 2.31 323.88
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.37774 37.62858 2.31 326.11
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.37875 37.62762 2.81 92.45
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -122.37830 37.62825 2.41 331.26
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -122.37911 37.62706 3.00 147.47
 OBJECT_SHARED Models/Aircraft/B747.xml -122.37935 37.62666 3.16 152.83
@@ -108,8 +108,8 @@ OBJECT_SHARED Models/Transport/Norberttruck.xml -122.38787 37.63836 -0.01 30.55
 OBJECT_SHARED Models/Transport/Norberttruck.xml -122.38788 37.63839 -0.01 30.55
 OBJECT_SHARED Models/Transport/Norberttruck.xml -122.38812 37.63872 -0.01 30.55
 OBJECT_SHARED Models/Transport/Norberttruck.xml -122.38819 37.63881 -0.01 30.55
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.38929 37.63878 -0.00 127.67
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.38885 37.63810 -0.00 330.88
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.38929 37.63878 -0.00 127.67
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.38885 37.63810 -0.00 330.88
 OBJECT_SHARED Models/lib/container6.ac -122.38980 37.63873 0.62 15.86
 OBJECT_SHARED Models/lib/container6.ac -122.38958 37.63872 0.62 15.86
 OBJECT_SHARED Models/lib/container6.ac -122.38966 37.63870 0.62 15.86
@@ -138,7 +138,7 @@ OBJECT_SHARED Models/lib/belt_loader.ac -122.38925 37.63824 -0.00 32.05
 OBJECT_SHARED Models/lib/belt_loader.ac -122.38920 37.63818 -0.00 28.9
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -122.38928 37.63835 -0.00 0
 OBJECT_SHARED Models/lib/loader.ac -122.38936 37.63796 -0.00 -57.26
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.38840 37.63748 -0.00 301.41
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.38840 37.63748 -0.00 301.41
 OBJECT_SHARED Models/lib/CargoPalettePkng.ac -122.38799 37.63689 -0.00 24.59
 OBJECT_SHARED Models/lib/chariot4.ac -122.38714 37.63592 -0.00 211.15
 OBJECT_SHARED Models/lib/CargoDolly.ac -122.38729 37.63593 -0.00 93.58
@@ -266,8 +266,8 @@ OBJECT_SHARED Models/lib/cargobox2x3m.ac -122.38406 37.62845 1.58 0
 OBJECT_SHARED Models/lib/chariot1.ac -122.38403 37.62839 1.62 130.24
 OBJECT_SHARED Models/lib/NoParkStripes.ac -122.38416 37.62837 1.62 111.25
 OBJECT_SHARED Models/lib/NoParkStripes.ac -122.38426 37.62834 1.79 111.25
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.38419 37.62832 1.79 19.03
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.38429 37.62829 1.79 21.41
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.38419 37.62832 1.79 19.03
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.38429 37.62829 1.79 21.41
 OBJECT_SHARED Models/Transport/hatchback_red.ac -122.38463 37.62803 3.11 27.9
 OBJECT_SHARED Models/lib/chariot1.ac -122.38475 37.62798 3.11 295.06
 OBJECT_SHARED Models/lib/chariot1.ac -122.38472 37.62799 3.11 296.56

@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 29.32130 40.91199 77.58 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 29.32136 40.91175 78.52 333.44
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 29.32133 40.91150 78.83 299.75
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 29.32136 40.91110 79.99 180.003
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 29.32285 40.91138 80.97 198.433
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 29.32284 40.91154 80.67 180.003
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 29.32281 40.91175 80.08 206.563
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 29.32135 40.91127 79.26 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 29.32130 40.91199 77.58 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 29.32136 40.91175 78.52 333.44
+OBJECT_SHARED Models/lib/fuel-truck.xml 29.32133 40.91150 78.83 299.75
+OBJECT_SHARED Models/lib/fuel-truck.xml 29.32136 40.91110 79.99 180.003
+OBJECT_SHARED Models/lib/fuel-truck.xml 29.32285 40.91138 80.97 198.433
+OBJECT_SHARED Models/lib/fuel-truck.xml 29.32284 40.91154 80.67 180.003
+OBJECT_SHARED Models/lib/fuel-truck.xml 29.32281 40.91175 80.08 206.563
+OBJECT_SHARED Models/lib/fuel-truck.xml 29.32135 40.91127 79.26 0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 29.31390 40.90600 91.56 0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 29.31362 40.90590 90.85 0
 OBJECT_SHARED Models/lib/lamp10m.xml 29.31309 40.90573 89.99 -21.0048
@@ -30,14 +30,14 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml 29.31373 40.90563 90.56 210.001
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 29.31351 40.90514 92.48 210.001
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 29.31363 40.90548 90.59 210.001
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 29.31559 40.90634 97.48 210.001
-#OBJECT_SHARED Models/lib/jetway_e8m.ac 29.31336 40.90555 90.26 8.60105
-#OBJECT_SHARED Models/lib/jetway_e14m.ac 29.31517 40.90610 95.57 276.985
-#OBJECT_SHARED Models/lib/jetway_e14m.ac 29.31425 40.90577 91.97 295.711
-#OBJECT_SHARED Models/lib/jetway_e14m.ac 29.31606 40.90643 99.47 305.072
-#OBJECT_SHARED Models/lib/jetway_e12m.ac 29.31326 40.90540 91.23 292.465
-#OBJECT_SHARED Models/lib/jetway_e10m.ac 29.31435 40.90592 92.32 23.6526
-#OBJECT_SHARED Models/lib/jetway_e10m.ac 29.31527 40.90626 96.44 16.3905
-#OBJECT_SHARED Models/lib/jetway_e16m.ac 29.31616 40.90659 100.34 15.984
+OBJECT_SHARED Models/lib/jetway_e8m.ac 29.31336 40.90555 90.26 8.60105
+OBJECT_SHARED Models/lib/jetway_e14m.ac 29.31517 40.90610 95.57 276.985
+OBJECT_SHARED Models/lib/jetway_e14m.ac 29.31425 40.90577 91.97 295.711
+OBJECT_SHARED Models/lib/jetway_e14m.ac 29.31606 40.90643 99.47 305.072
+OBJECT_SHARED Models/lib/jetway_e12m.ac 29.31326 40.90540 91.23 292.465
+OBJECT_SHARED Models/lib/jetway_e10m.ac 29.31435 40.90592 92.32 23.6526
+OBJECT_SHARED Models/lib/jetway_e10m.ac 29.31527 40.90626 96.44 16.3905
+OBJECT_SHARED Models/lib/jetway_e16m.ac 29.31616 40.90659 100.34 15.984
 OBJECT_SHARED Models/lib/office112x50.ac 29.30605 40.90128 99.79 117.203
 OBJECT_SHARED Models/lib/office112x50.ac 29.30717 40.90233 99.52 208.561
 OBJECT_SHARED Models/lib/FireStationLg.ac 29.30238 40.89963 96.26 298.024
@@ -49,11 +49,8 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 29.31417 40.90675 93.96 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 29.31436 40.90676 94.65 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 29.31434 40.90661 93.78 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 29.31416 40.90655 93.44 0
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 29.30175 40.89885 100.36 206.596
+OBJECT_SHARED Models/lib/citation.ac 29.30175 40.89885 100.36 206.596
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 29.30138 40.89874 100.16 209.033
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 29.31519 40.90596 95.31 9.40123
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 29.31434 40.90563 91.66 9.40123
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 29.31332 40.90529 91.69 18.2838
 OBJECT_SHARED Models/Aircraft/320volare.xml 29.31845 40.90517 97.71 209.054
 OBJECT_SHARED Models/Aircraft/320austrian.xml 29.31910 40.90768 86.60 27.6574
 OBJECT_SHARED Models/Aircraft/B747.xml 29.31808 40.90485 93.85 342.648
@@ -62,11 +59,7 @@ OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 29.32226 40.90867 81.32 29.7471
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 29.32279 40.90875 80.42 32.0067
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 29.32190 40.90839 84.80 -55.6172
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 29.32039 40.90570 95.24 212.969
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 29.31447 40.90596 92.90 64.07
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 29.31539 40.90628 96.79 55.605
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 29.31346 40.90557 90.20 80.6651
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 29.30738 40.90318 98.14 26.9718
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 29.31616 40.90632 99.55 58.5219
 OBJECT_SHARED Models/lib/office32x25.ac 29.30523 40.90178 96.08 207.632
 OBJECT_SHARED Models/lib/office40x25.ac 29.30512 40.90211 95.71 118.461
 OBJECT_SHARED Models/lib/office32x25n.ac 29.30575 40.90220 97.62 28.7942

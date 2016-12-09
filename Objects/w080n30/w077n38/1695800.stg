@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.92453 38.98316 13.43 130.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.92552 38.98134 13.90 64.57
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.92374 38.98069 12.90 312.16
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -76.92597 38.98187 14.09 163.06
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.92453 38.98316 13.43 310.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.92552 38.98134 13.90 244.57
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.92374 38.98069 12.90 132.16
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.92597 38.98187 14.09 163.06
 OBJECT_SHARED Models/lib/propane-tank.ac -76.92633 38.98211 14.04 86.48
 OBJECT_SHARED Models/lib/propane-tank.ac -76.92638 38.98212 14.13 86.48
 OBJECT_SHARED Models/lib/propane-tank.ac -76.92635 38.98212 14.13 86.48
@@ -19,6 +19,6 @@ OBJECT_SHARED Models/lib/cars2.ac -76.92325 38.98004 12.63 313.87
 OBJECT_SHARED Models/lib/6space_wStop.ac -76.92347 38.98001 12.72 133.72
 OBJECT_SHARED Models/lib/6space_wStop.ac -76.92335 38.97983 12.62 71.73
 OBJECT_SHARED Models/lib/6space_wStop.ac -76.92314 38.97994 12.54 42.62
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -76.92313 38.98013 12.56 41.5
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.92277 38.97976 12.42 132.87
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.92313 38.98013 12.56 41.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.92277 38.97976 12.42 222.87
 # END dsf2stg

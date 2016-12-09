@@ -62,8 +62,8 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.21910 53.96895 38.71 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 10.21865 53.96880 39.12 0
 OBJECT_SHARED Models/lib/cars4.ac 10.22168 53.96745 38.86 224.37
 OBJECT_SHARED Models/lib/SmHangar.ac 10.22163 53.96726 39.18 223.67
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.21973 53.96870 38.61 307.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.22300 53.96720 37.68 47.72
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.21973 53.96870 38.61 127.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.22300 53.96720 37.68 227.72
 OBJECT_SHARED Models/lib/MedHangar.ac 10.22252 53.96715 39.18 225.88
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 10.21930 53.96896 38.72 222.54
 # END dsf2stg

@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 12.78176 49.27084 419.29 125.58
+OBJECT_SHARED Models/lib/SmHangar.ac 12.78168 49.27108 419.04 305.5
+OBJECT_SHARED Models/lib/SmHangar.ac 12.78155 49.27103 418.81 305.5
+OBJECT_SHARED Models/lib/shed8x10.ac 12.78167 49.27124 419.04 35.18
+OBJECT_SHARED Models/lib/industrial13x24.ac 12.77667 49.26894 409.32 40
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 12.77619 49.26953 407.40 226.29
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.78202 49.27076 420.74 126.65
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.78177 49.27094 419.28 29.41
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.78180 49.27095 419.28 34.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml 12.78222 49.27074 422.22 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.78147 49.27130 418.58 210.96
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.78152 49.27135 418.57 321.1
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.78154 49.27127 418.58 142.32
+OBJECT_SHARED Models/Trees/billboard-tree.xml 12.78146 49.27121 418.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.78160 49.27131 418.81 0
+# END dsf2stg

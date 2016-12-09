@@ -3,7 +3,7 @@
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -48.92660 -16.35981 1111.24 129.19
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -48.92681 -16.35998 1112.46 308
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -48.92503 -16.35951 1111.04 32.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -48.92503 -16.35951 1111.04 212.91
 OBJECT_SHARED Models/lib/lamp10m.xml -48.92646 -16.35980 1111.29 -67.62
 OBJECT_SHARED Models/lib/lamp10m.xml -48.93002 -16.36146 1113.60 35.36
 OBJECT_SHARED Models/lib/lamp10m.xml -48.92977 -16.36129 1113.82 35.36
@@ -28,8 +28,8 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -48.92709 -16.36038 1114.93 
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -48.92679 -16.36017 1113.76 268
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -48.92648 -16.35995 1112.59 267.88
 OBJECT_SHARED Models/lib/HorizTanks2.ac -48.92550 -16.35863 1106.33 279.28
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -48.92519 -16.35873 1106.99 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -48.92528 -16.35867 1106.89 181.91
+OBJECT_SHARED Models/lib/fuel-truck.xml -48.92519 -16.35873 1106.99 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -48.92528 -16.35867 1106.89 181.91
 OBJECT_SHARED Models/lib/cone.ac -48.92496 -16.35953 1111.04 0
 OBJECT_SHARED Models/lib/cone.ac -48.92496 -16.35953 1111.04 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -48.92640 -16.35975 1111.33 217.61

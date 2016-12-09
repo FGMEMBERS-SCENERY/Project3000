@@ -4,7 +4,7 @@
 OBJECT_SHARED Models/Misc/picnic_table.ac -116.87924 36.46379 -66.43 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -116.87875 36.46385 -66.50 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -116.88015 36.46411 -67.20 198.43
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.87997 36.46420 -67.26 199.83
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.87997 36.46420 -67.26 19.83
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -116.87958 36.46434 -67.33 0
 OBJECT_SHARED Models/lib/cone.ac -116.87934 36.46281 -65.84 0
 OBJECT_SHARED Models/lib/cone.ac -116.87946 36.46277 -65.84 0
@@ -19,9 +19,9 @@ OBJECT_SHARED Models/lib/cone.ac -116.88021 36.46411 -67.20 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -116.87958 36.46432 -67.33 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -116.87957 36.46433 -67.33 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -116.87959 36.46433 -67.33 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.87961 36.46426 -67.33 17.35
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.87940 36.46279 -65.84 20.46
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.87953 36.46275 -66.21 17.82
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.87961 36.46426 -67.33 107.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.87940 36.46279 -65.84 200.46
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.87953 36.46275 -66.21 197.82
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -116.87927 36.46320 -66.06 19.09
 OBJECT_SHARED Models/lib/SmHangar.ac -116.87936 36.46384 -66.43 17.88
 OBJECT_SHARED Models/lib/stack_of_cones.ac -116.87969 36.46430 -67.33 0

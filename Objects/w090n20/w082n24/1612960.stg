@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.75333 24.55401 0.97 90
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.75336 24.55409 0.95 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.75333 24.55401 0.97 90
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.75336 24.55409 0.95 0
 OBJECT_SHARED Models/lib/lamp10m.xml -81.75333 24.55398 0.97 270
 OBJECT_SHARED Models/lib/lamp10m.xml -81.75388 24.55400 0.98 270
 OBJECT_SHARED Models/lib/lamp10m.xml -81.75447 24.55401 0.98 270
@@ -12,9 +12,9 @@ OBJECT_SHARED Models/lib/lamp10m.xml -81.75621 24.55399 0.96 270
 OBJECT_SHARED Models/lib/office40x25.ac -81.75245 24.55331 0.67 202.05
 OBJECT_SHARED Models/lib/office65x50.ac -81.75491 24.55311 1.05 90.75
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.75659 24.55418 0.93 175.6
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.75709 24.55427 0.90 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.75706 24.55431 0.90 267.46
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.75635 24.55426 0.91 180.14
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -81.75709 24.55427 0.90 180
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.75706 24.55431 0.90 267.46
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.75635 24.55426 0.91 180.14
 OBJECT_SHARED Models/lib/caisses_group.ac -81.75591 24.55403 0.97 180.79
 OBJECT_SHARED Models/lib/cars4.ac -81.75677 24.55367 0.99 1.5
 OBJECT_SHARED Models/lib/cars6.ac -81.75702 24.55364 0.98 181.15

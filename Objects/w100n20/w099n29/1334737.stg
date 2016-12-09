@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml -98.56560 29.36964 -0.27 0
+OBJECT_SHARED Models/Transport/Norberttruck.xml -98.56542 29.36966 -0.26 270
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -98.57176 29.37353 -0.41 286.06
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -98.56528 29.37179 -0.21 243.54
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -98.56861 29.37207 -0.33 238.69
+OBJECT_SHARED Models/lib/LgMaint.ac -98.56473 29.37065 -0.21 317.94
+OBJECT_SHARED Models/lib/LgMaint.ac -98.56394 29.37140 -0.16 317.94
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -98.56590 29.36957 -0.28 0
+OBJECT_SHARED Models/Airport/cargobox.xml -98.56465 29.37225 -0.18 0
+OBJECT_SHARED Models/Airport/cargobox.xml -98.56473 29.37225 -0.18 0
+OBJECT_SHARED Models/Airport/cargobox.xml -98.56937 29.37204 -0.36 0
+OBJECT_SHARED Models/Airport/cargobox.xml -98.56928 29.37201 -0.36 0
+OBJECT_SHARED Models/Airport/cargobox.xml -98.56932 29.37207 -0.36 0
+OBJECT_SHARED Models/Airport/cargobox.xml -98.56937 29.37214 -0.36 0
+OBJECT_SHARED Models/lib/RampParking.xml -98.56746 29.36974 -0.34 265.23
+OBJECT_SHARED Models/lib/RampParking.xml -98.56758 29.36913 -0.36 265.23
+OBJECT_SHARED Models/lib/RampParking.xml -98.56756 29.36854 -0.37 217.33
+OBJECT_SHARED Models/lib/RampParking.xml -98.56974 29.37036 -0.41 106.51
+OBJECT_SHARED Models/lib/RampParking.xml -98.56974 29.36888 -0.44 106.51
+OBJECT_SHARED Models/lib/RampParking.xml -98.56954 29.36826 -0.45 174.3
+OBJECT_SHARED Models/lib/RampParking.xml -98.56756 29.37138 -0.31 223.44
+OBJECT_SHARED Models/lib/RampParking.xml -98.56815 29.37087 -0.35 223.44
+OBJECT_SHARED Models/lib/RampParking.xml -98.57016 29.37139 -0.41 106.17
+OBJECT_SHARED Models/lib/RampParking.xml -98.57038 29.37213 -0.40 106.17
+OBJECT_SHARED Models/lib/RampParking.xml -98.57118 29.37426 -0.37 106.17
+OBJECT_SHARED Models/lib/RampGroup.xml -98.57073 29.37302 -0.39 108.26
+# END dsf2stg

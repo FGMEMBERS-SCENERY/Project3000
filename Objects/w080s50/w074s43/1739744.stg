@@ -9,7 +9,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac -73.77255 -42.48787 34.03 18.63
 OBJECT_SHARED Models/lib/SmHangar.ac -73.77270 -42.48814 33.53 288.81
 OBJECT_SHARED Models/lib/SmHangar.ac -73.77287 -42.48846 35.41 17.71
 OBJECT_SHARED Models/lib/SmHangar.ac -73.77348 -42.48707 37.75 17.68
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.77246 -42.48768 34.52 74.98
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.77017 -42.49507 26.13 45.59
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.77523 -42.48572 39.08 218.66
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.77246 -42.48768 34.52 254.98
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.77017 -42.49507 26.13 225.59
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.77523 -42.48572 39.08 38.66
 # END dsf2stg

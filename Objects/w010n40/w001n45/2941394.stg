@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -0.45658 45.27556 44.31 297.546
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.45679 45.27581 44.41 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.45674 45.27587 44.14 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -0.45693 45.27578 44.47 27.3774
+OBJECT_SHARED Models/Transport/hatchback_red.ac -0.45688 45.27579 44.46 27.3774
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -0.45673 45.27624 43.62 208.034
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.45640 45.27604 43.24 26.2664
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.45609 45.27579 42.98 206.411
+OBJECT_SHARED Models/lib/SmHangar.ac -0.45678 45.27621 43.69 206.565
+OBJECT_SHARED Models/lib/SmHangar.ac -0.45599 45.27516 43.80 206.598
+OBJECT_SHARED Models/lib/SmHangar.ac -0.45608 45.27530 43.78 205.731
+OBJECT_SHARED Models/lib/SmHangar.ac -0.45666 45.27604 43.80 206.566
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -0.45656 45.27588 43.75 206.879
+# END dsf2stg

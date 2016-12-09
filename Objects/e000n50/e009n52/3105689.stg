@@ -16,8 +16,8 @@ OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 9.42353 52.46120 50
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 9.42654 52.46113 53.51 0
 OBJECT_SHARED Models/lib/CargoPalettePkng.ac 9.43001 52.46122 52.22 90
 OBJECT_SHARED Models/lib/CargoPalettePkng.ac 9.43600 52.46097 49.11 90
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.43101 52.46040 52.94 280.54
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.43077 52.46050 52.93 8.88
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.43101 52.46040 52.94 280.54
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.43077 52.46050 52.93 8.88
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.43006 52.46139 51.82 270
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.43645 52.46112 48.97 185.29
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.43646 52.46105 49.04 185.29
@@ -51,6 +51,7 @@ OBJECT_SHARED Models/lib/cube16x10.ac 9.41278 52.46101 51.58 88.79
 OBJECT_SHARED Models/lib/fboModern1.ac 9.41155 52.46119 51.03 89.37
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.42891 52.46198 51.78 188.25
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 9.43087 52.46054 52.86 188.92
+OBJECT_SHARED Models/lib/admin31x12.ac 9.42621 52.46144 52.90 174.4
 OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml 9.42601 52.46249 52.80 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.41296 52.46149 51.68 90
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 9.41267 52.46161 51.86 358.15

@@ -11,9 +11,9 @@ OBJECT_SHARED Models/lib/lamp10m.xml -78.44975 38.13944 186.68 -20.85
 OBJECT_SHARED Models/lib/lamp10m.xml -78.44985 38.13922 186.78 -20.85
 OBJECT_SHARED Models/lib/lamp10m.xml -78.44985 38.13904 186.69 -20.85
 OBJECT_SHARED Models/Aircraft/ATR42.xml -78.44988 38.14004 187.13 113.69
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -78.45000 38.13995 187.22 285.95
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -78.45040 38.13845 186.84 285.95
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -78.45031 38.13859 186.87 158.48
+OBJECT_SHARED Models/lib/fuel-truck.xml -78.45000 38.13995 187.22 285.95
+OBJECT_SHARED Models/lib/fuel-truck.xml -78.45040 38.13845 186.84 285.95
+OBJECT_SHARED Models/lib/fuel-truck.xml -78.45031 38.13859 186.87 158.48
 OBJECT_SHARED Models/lib/chariot4.ac -78.44982 38.13944 186.77 76.76
 OBJECT_SHARED Models/lib/chariot3curve.ac -78.44950 38.14007 186.80 90
 OBJECT_SHARED Models/lib/belt_loader.ac -78.44990 38.13908 186.74 -18.97
@@ -25,8 +25,7 @@ OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.44943 38.14014 
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.44987 38.13990 187.09 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.44965 38.13964 186.77 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.44990 38.13922 186.78 340.35
-#OBJECT_SHARED Models/lib/jetway_e16m.ac -78.44978 38.13916 186.68 181.12
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -78.44998 38.13916 186.88 269.8
+OBJECT_SHARED Models/lib/jetway_e16m.ac -78.44978 38.13916 186.68 181.12
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.44981 38.14036 187.19 337.33
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.44972 38.14025 187.02 294.34
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.44978 38.13986 187.00 24.28
@@ -34,9 +33,9 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.44994 38.13957 186.96 24.28
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.45009 38.13928 187.01 24.28
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.45010 38.13908 186.92 100.16
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.45062 38.13842 187.01 23.63
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.45138 38.13700 186.65 109.87
+OBJECT_SHARED Models/lib/citation.ac -78.45138 38.13700 186.65 109.87
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.45124 38.13721 186.58 66.7
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.45061 38.13738 186.11 66.97
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.45061 38.13738 186.11 246.97
 OBJECT_SHARED Models/lib/MedHangar.ac -78.44793 38.14233 184.45 67.74
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -78.44956 38.13871 185.11 67.11
 OBJECT_SHARED Models/lib/MedHangar.ac -78.45144 38.13591 185.72 337.99
@@ -47,6 +46,6 @@ OBJECT_SHARED Models/lib/SmHangar.ac -78.45349 38.13187 180.22 68.96
 OBJECT_SHARED Models/lib/SmHangar.ac -78.45324 38.13180 178.90 68.96
 OBJECT_SHARED Models/lib/LongRow.ac -78.45315 38.13134 180.27 158.13
 OBJECT_SHARED Models/lib/LongRow.ac -78.45331 38.13100 181.85 158.13
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.45262 38.13452 185.94 247.47
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.45423 38.13055 181.46 336.45
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.45262 38.13452 185.94 67.47
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.45423 38.13055 181.46 156.45
 # END dsf2stg

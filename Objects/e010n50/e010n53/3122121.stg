@@ -2,6 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/office40x25.ac 10.45840 53.24661 45.50 172.82
+OBJECT_SHARED Models/lib/admin31x12.ac 10.45626 53.24715 46.91 83.75
 OBJECT_SHARED Models/lib/MedHangar.ac 10.45721 53.24687 46.88 351.96
 OBJECT_SHARED Models/lib/MedHangar.ac 10.45730 53.24723 46.92 351.96
 OBJECT_SHARED Models/lib/LongRow.ac 10.45547 53.24673 47.07 170.62
@@ -59,9 +60,10 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.45645 53.24723 46.92 0
 OBJECT_SHARED Models/lib/cars4.ac 10.45685 53.24694 47.02 262.26
 OBJECT_SHARED Models/lib/cars6.ac 10.45601 53.24683 47.05 82.88
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.45463 53.24698 46.90 351.87
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.45587 53.24726 46.87 351.67
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.45766 53.24744 46.85 171.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.45587 53.24726 46.87 171.67
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.45766 53.24744 46.85 261.5
 OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45539 53.24688 46.99 0
+OBJECT_SHARED Models/lib/propane-tank.ac 10.45555 53.24685 47.00 349.51
 OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45788 53.24743 46.85 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.45645 53.24729 46.88 180
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.45632 53.24724 46.91 0

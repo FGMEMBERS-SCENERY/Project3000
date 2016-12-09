@@ -12,7 +12,7 @@ OBJECT_SHARED Models/lib/FireStationLg.ac 14.60804 36.99897 220.76 309.871
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 14.60842 36.99933 221.05 219.32
 OBJECT_SHARED Models/lib/loader.ac 14.60525 36.99642 217.46 270
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 14.60533 36.99649 217.55 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 14.60466 36.99576 216.44 309.64
+OBJECT_SHARED Models/lib/fuel-truck.xml 14.60466 36.99576 216.44 309.64
 OBJECT_SHARED Models/lib/chariot2.ac 14.60679 36.99785 219.59 341.06
 OBJECT_SHARED Models/lib/chariot1.ac 14.60841 36.99899 220.80 128.66
 OBJECT_SHARED Models/lib/chariot5.ac 14.60589 36.99713 218.56 40.6

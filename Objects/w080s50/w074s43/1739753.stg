@@ -1,19 +1,27 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars14.ac -73.72273 -42.34849 166.47 84
-OBJECT_SHARED Models/lib/cars14.ac -73.72276 -42.34874 166.44 84
-OBJECT_SHARED Models/lib/cars14.ac -73.72281 -42.34907 166.58 84
-OBJECT_SHARED Models/lib/cars14.ac -73.72284 -42.34938 166.61 84
-OBJECT_SHARED Models/lib/cars14.ac -73.72287 -42.34969 166.59 84
-OBJECT_SHARED Models/lib/cars14.ac -73.72293 -42.35007 166.63 84
-OBJECT_SHARED Models/lib/office32x25n.ac -73.72267 -42.34812 166.36 85
-OBJECT_SHARED Models/lib/cube16x10.ac -73.72180 -42.34801 166.88 356.01
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.72158 -42.34708 166.73 86
-OBJECT_SHARED Models/lib/SmHangar.ac -73.72204 -42.34692 166.41 87
-OBJECT_SHARED Models/lib/SmHangar.ac -73.72164 -42.34758 166.90 176
-OBJECT_SHARED Models/lib/SmHangar.ac -73.72148 -42.34598 166.35 176
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.72091 -42.34705 167.16 325
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.72094 -42.34750 167.30 291.32
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -73.72142 -42.34980 167.49 202.93
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.72157 -42.34895 -0.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.72137 -42.34823 -0.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.72144 -42.34885 -0.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.72149 -42.34813 -0.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.72187 -42.34843 -0.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.72189 -42.34868 -0.64 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.72188 -42.34855 -0.64 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.72186 -42.34834 -0.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.72189 -42.34879 -0.64 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.72186 -42.34824 -0.63 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.72147 -42.34650 -0.59 265.91
+OBJECT_SHARED Models/lib/cube16x10.ac -73.72108 -42.34671 -0.60 355.34
+OBJECT_SHARED Models/lib/transformer3x3.ac -73.72259 -42.34877 -0.64 354.38
+OBJECT_SHARED Models/lib/schranke.ac -73.72257 -42.34875 -0.64 264.77
+OBJECT_SHARED Models/lib/schranke.ac -73.72210 -42.34878 -0.64 264.47
+OBJECT_SHARED Models/lib/shed8x10.ac -73.72174 -42.34618 -0.58 355.54
+OBJECT_SHARED Models/lib/transformer3x3.ac -73.72209 -42.34758 -0.61 356.26
+OBJECT_SHARED Models/lib/propane-tank.ac -73.72232 -42.34748 -0.61 85.34
+OBJECT_SHARED Models/lib/shed8x10.ac -73.72233 -42.34764 -0.61 86.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.72120 -42.34886 -0.65 280.34
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.72120 -42.34883 -0.65 341
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.72114 -42.34832 -0.63 280.34
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -73.72114 -42.34829 -0.63 341
 # END dsf2stg

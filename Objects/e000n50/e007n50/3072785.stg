@@ -3,9 +3,9 @@
 #
 OBJECT_SHARED Models/Transport/hatchback_red.ac 7.30390 50.36079 173.90 303.02
 OBJECT_SHARED Models/Transport/hatchback_red.ac 7.30396 50.36076 173.91 307.78
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.30342 50.36123 174.46 304.8
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.30435 50.36102 174.21 37.06
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.30422 50.36091 174.06 40.17
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.30342 50.36123 174.46 124.8
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.30435 50.36102 174.21 217.06
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.30422 50.36091 174.06 220.17
 OBJECT_SHARED Models/lib/propane-tank.ac 7.30315 50.36100 174.09 129.21
 OBJECT_SHARED Models/lib/watertank3x1.ac 7.30317 50.36103 174.09 36.75
 OBJECT_SHARED Models/lib/stack_of_cones.ac 7.30398 50.36080 173.91 0

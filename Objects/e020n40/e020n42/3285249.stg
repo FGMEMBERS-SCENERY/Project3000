@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 20.41736 42.03600 346.35 345.9
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 20.41736 42.03600 346.35 75.9
 OBJECT_SHARED Models/Airport/helipad40m.ac 20.41674 42.03517 346.24 346.69
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 20.41754 42.03529 345.13 42.55
 OBJECT_SHARED Models/lib/chariot1.ac 20.41750 42.03577 345.86 355.07

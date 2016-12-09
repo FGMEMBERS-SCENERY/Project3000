@@ -2,15 +2,15 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.45015 38.39619 45.69 133.51
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.45173 38.39708 45.77 135.62
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.45118 38.39672 43.75 307.13
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.45076 38.39634 42.58 315.99
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.45100 38.39642 42.46 117.65
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.45173 38.39708 45.77 315.62
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.45118 38.39672 43.75 127.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.45076 38.39634 42.58 135.99
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.45100 38.39642 42.46 297.65
 OBJECT_SHARED Models/lib/LongRow.ac -77.45251 38.39842 55.69 41.11
 OBJECT_SHARED Models/lib/LongRow.ac -77.45283 38.39870 54.29 41.11
 OBJECT_SHARED Models/lib/LongRow.ac -77.45314 38.39898 54.06 41.11
 OBJECT_SHARED Models/lib/LongRow.ac -77.45376 38.39954 52.12 41.11
 OBJECT_SHARED Models/lib/fboModern1.ac -77.44777 38.39472 48.27 131.41
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -77.44891 38.39633 57.44 225
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -77.44907 38.39622 58.16 230.04
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.44891 38.39633 57.44 225
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.44907 38.39622 58.16 230.04
 # END dsf2stg

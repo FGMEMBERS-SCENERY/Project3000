@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -176.47310 -43.81611 10.84 18.32
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -176.47310 -43.81611 10.84 198.32
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -176.47415 -43.81593 12.07 18.64
 OBJECT_SHARED Models/lib/SmHangar.ac -176.47409 -43.81611 12.03 288.64
 OBJECT_SHARED Models/lib/SmHangar.ac -176.47421 -43.81571 12.15 198.43
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -176.47439 -43.81555 12.28 108.44
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -176.47432 -43.81561 12.21 108.89
+OBJECT_SHARED Models/lib/fuel-truck.xml -176.47439 -43.81555 12.28 108.44
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -176.47432 -43.81561 12.21 198.89
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -176.47387 -43.81639 12.09 17.35
 OBJECT_SHARED Models/lib/cars14.ac -176.47342 -43.81631 10.76 288.96
 OBJECT_SHARED Models/lib/cars7.ac -176.47338 -43.81609 10.84 108.18

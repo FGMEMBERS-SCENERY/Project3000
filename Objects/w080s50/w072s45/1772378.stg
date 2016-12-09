@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.31990 -44.50296 745.64 322.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.31990 -44.50296 745.64 142.19
 OBJECT_SHARED Models/Trees/billboard-tree.xml -71.32054 -44.50265 746.79 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -71.32027 -44.50173 748.34 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31428 -44.50121 745.30 0

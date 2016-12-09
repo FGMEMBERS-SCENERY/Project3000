@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/cube16x10.ac -23.54297 65.64541 6.68 252.75
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -23.54364 65.64489 7.02 334.63
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -23.54364 65.64489 7.02 154.63
 OBJECT_SHARED Models/Airport/cargoip.xml -23.54284 65.64535 6.41 0
 OBJECT_SHARED Models/Airport/cargoip.xml -23.54296 65.64538 6.68 324.16
 OBJECT_SHARED Models/Airport/cargobox.xml -23.54294 65.64534 6.53 0
@@ -10,5 +10,5 @@ OBJECT_SHARED Models/Airport/cargobox.xml -23.54290 65.64534 6.53 0
 OBJECT_SHARED Models/Airport/cargobox.xml -23.54290 65.64535 6.56 0
 OBJECT_SHARED Models/lib/cars7.ac -23.54253 65.64562 6.13 26.07
 OBJECT_SHARED Models/lib/SmHangar.ac -23.54352 65.64544 7.26 157.67
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -23.54379 65.64465 7.09 152.29
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -23.54379 65.64465 7.09 242.29
 # END dsf2stg

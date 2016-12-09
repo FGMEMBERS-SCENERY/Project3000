@@ -1,8 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.82470 22.62477 -0.91 117.85
-OBJECT_SHARED Models/lib/office112x50.ac 113.80483 22.62406 -0.35 116.56
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.82467 22.62477 -0.91 117.85
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.81643 22.62075 0.00 294.84
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.81605 22.62139 0.00 297.55
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.81571 22.62198 -0.00 295.68
@@ -13,8 +12,9 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.81809 22.61762 -0.00 298.01
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.81774 22.61826 -0.00 298.44
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.81742 22.61885 -0.00 298.44
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.81705 22.61952 -0.00 296.57
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 113.80692 22.62159 -85.23 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 113.80675 22.62191 -85.23 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 113.80661 22.62220 -85.22 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 113.80645 22.62247 -85.26 0
+OBJECT_SHARED Models/lib/office112x50.ac 113.80483 22.62406 -0.35 116.56
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 113.80702 22.62163 -95.23 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 113.80688 22.62194 -95.23 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 113.80671 22.62224 -95.22 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 113.80655 22.62251 -95.22 0
 # END dsf2stg

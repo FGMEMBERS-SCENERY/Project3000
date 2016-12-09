@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.16966 -17.42348 2560.49 276.71
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.16982 -17.42334 2560.70 276.34
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.16990 -17.42317 2560.78 270
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.16966 -17.42348 2560.49 96.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.16982 -17.42334 2560.70 96.34
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.16990 -17.42317 2560.78 90
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -66.16986 -17.42255 2562.41 235.49
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -66.16970 -17.42249 2562.65 229.09
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -66.16812 -17.42622 2559.25 42.58
@@ -68,10 +68,8 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -66.18002 -17.41407 2566.94 138.9
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -66.17927 -17.41467 2570.51 137.45
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -66.17903 -17.41491 2570.15 135.28
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -66.17841 -17.41542 2569.33 137.52
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -66.17953 -17.41424 2569.88 344.5
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -66.17874 -17.41488 2570.00 344.86
-#OBJECT_SHARED Models/lib/jetway_e14m.ac -66.17864 -17.41479 2570.05 223.67
-#OBJECT_SHARED Models/lib/jetway_e14m.ac -66.17943 -17.41415 2569.46 223.08
+OBJECT_SHARED Models/lib/jetway_e14m.ac -66.17864 -17.41479 2570.05 223.67
+OBJECT_SHARED Models/lib/jetway_e14m.ac -66.17943 -17.41415 2569.46 223.08
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -66.17862 -17.41478 2570.05 231.2
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -66.17941 -17.41413 2569.46 228.62
 # END dsf2stg

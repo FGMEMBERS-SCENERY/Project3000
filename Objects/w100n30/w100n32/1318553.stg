@@ -1,0 +1,54 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -99.67836 32.41207 -0.48 180
+OBJECT_SHARED Models/lib/lamp10m.xml -99.67835 32.41257 -0.49 180
+OBJECT_SHARED Models/lib/lamp10m.xml -99.67850 32.41433 -0.51 180
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68155 32.41358 -0.40 0
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68156 32.41443 -0.41 0
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68187 32.41500 -0.41 0
+OBJECT_SHARED Models/lib/lamp10m.xml -99.69082 32.42504 -0.36 140.66
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68830 32.42562 -0.26 89.5
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68771 32.42562 -0.23 89.5
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68733 32.42654 -0.23 180
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68737 32.42716 -0.21 197.59
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68763 32.42766 -0.21 211.78
+OBJECT_SHARED Models/lib/fboModern1.ac -99.67823 32.41239 -0.49 180
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -99.68814 32.42726 -0.23 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -99.69097 32.42515 -95.37 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -99.67866 32.41284 -0.48 180
+OBJECT_SHARED Models/lib/HorizTanks2.ac -99.67866 32.41293 -0.48 180
+OBJECT_SHARED Models/lib/HorizTanks2.ac -99.69080 32.42498 -0.36 140
+OBJECT_SHARED Models/lib/HorizTanks2.ac -99.69075 32.42504 -0.36 140
+OBJECT_SHARED Models/lib/MedHangar.ac -99.67849 32.41406 -0.51 180
+OBJECT_SHARED Models/lib/MedHangar.ac -99.67848 32.41441 -0.52 180
+OBJECT_SHARED Models/lib/office112x50.ac -99.67939 32.41492 -0.49 90
+OBJECT_SHARED Models/lib/MedHangar.ac -99.69043 32.42525 -0.34 50.52
+OBJECT_SHARED Models/lib/LgMaint.ac -99.67796 32.41342 -0.52 180
+OBJECT_SHARED Models/lib/LongRow.ac -99.69123 32.42499 -0.38 134.79
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -99.68747 32.42620 -0.22 61.82
+OBJECT_SHARED Models/lib/MedHangar.ac -99.68735 32.42716 -0.22 198.44
+OBJECT_SHARED Models/lib/MedHangar.ac -99.68730 32.42654 -0.23 180
+OBJECT_SHARED Models/lib/MedHangar.ac -99.68761 32.42768 -0.21 212.18
+OBJECT_SHARED Models/lib/MedHangar.ac -99.68881 32.42890 -0.24 270
+OBJECT_SHARED Models/lib/office32x25.ac -99.68859 32.42535 -0.27 128.5
+OBJECT_SHARED Models/lib/lamp10m.xml -99.67979 32.41125 -0.42 90
+OBJECT_SHARED Models/lib/lamp10m.xml -99.67987 32.41185 -0.43 180
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68032 32.41185 -0.41 0
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68025 32.41119 -0.41 90
+OBJECT_SHARED Models/lib/MedHangar.ac -99.68231 32.41773 -0.42 0
+OBJECT_SHARED Models/lib/LgMaint.ac -99.68155 32.41399 -0.41 0
+OBJECT_SHARED Models/lib/RampGroup.xml -99.67992 32.41125 -0.42 180
+OBJECT_SHARED Models/lib/RampGroup.xml -99.68038 32.41125 -0.40 180
+OBJECT_SHARED Models/lib/MedHangar.ac -99.68175 32.42020 -0.46 0
+OBJECT_SHARED Models/lib/MedHangar.ac -99.68190 32.41473 -0.41 0
+OBJECT_SHARED Models/lib/MedHangar.ac -99.68191 32.41526 -0.41 0
+OBJECT_SHARED Models/lib/LongRow.ac -99.68198 32.41668 -0.43 0
+OBJECT_SHARED Models/lib/LongRow.ac -99.68201 32.41569 -0.42 90
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -99.67794 32.41113 -0.48 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -99.68946 32.42491 -0.31 0
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68790 32.42833 -0.21 107.82
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68845 32.42817 -0.24 107.82
+OBJECT_SHARED Models/lib/lamp10m.xml -99.68881 32.42888 -0.24 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -99.68009 32.41204 -0.42 0
+# END dsf2stg

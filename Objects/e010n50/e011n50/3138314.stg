@@ -4,7 +4,7 @@
 OBJECT_SHARED Models/Misc/6barrels.ac 11.73412 50.22557 577.16 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.73513 50.22555 575.63 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 11.73563 50.22561 575.89 211.22
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.73418 50.22552 576.37 348.85
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.73418 50.22552 576.37 168.85
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.72790 50.22614 576.04 304.16
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.72758 50.22615 576.19 282.75
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.72738 50.22619 575.58 298.61
@@ -38,7 +38,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 11.73505 50.22550 575.09 16.98
 OBJECT_SHARED Models/Misc/picnic_table.ac 11.73508 50.22551 575.13 16.98
 OBJECT_SHARED Models/Misc/picnic_table.ac 11.73512 50.22551 575.13 12.93
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.72772 50.22752 577.11 187.43
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.73469 50.22540 574.94 157.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.73469 50.22540 574.94 337.13
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.72800 50.22612 575.82 235.46
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.72772 50.22614 576.49 100.7
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.72746 50.22617 575.88 227.33

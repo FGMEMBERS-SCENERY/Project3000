@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office40x25.ac -79.86401 9.36055 18.73 89.03
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -79.86422 9.36358 12.95 358.86
+OBJECT_SHARED Models/lib/lamp10m.xml -79.86454 9.36459 15.53 -2.26001
+OBJECT_SHARED Models/lib/lamp10m.xml -79.86451 9.36500 16.84 -1.64002
+OBJECT_SHARED Models/lib/lamp10m.xml -79.86450 9.36541 18.15 -2.04999
+OBJECT_SHARED Models/lib/lamp10m.xml -79.86447 9.36582 19.46 -2.20001
+OBJECT_SHARED Models/lib/lamp10m.xml -79.86471 9.36069 12.38 -1.09
+OBJECT_SHARED Models/lib/lamp10m.xml -79.86472 9.36027 14.06 -2.29001
+OBJECT_SHARED Models/lib/lamp10m.xml -79.86473 9.35987 15.66 -1.51999
+OBJECT_SHARED Models/Misc/6barrels.ac -79.86439 9.36594 19.89 0
+OBJECT_SHARED Models/Misc/6barrels.ac -79.86447 9.36417 14.19 0
+OBJECT_SHARED Models/Misc/6barrels.ac -79.86444 9.35817 24.94 0
+OBJECT_SHARED Models/Misc/6barrels.ac -79.86444 9.35823 24.70 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -79.86442 9.36556 18.67 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -79.86444 9.36491 16.60 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.86446 9.36537 18.02 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.86446 9.36581 19.43 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.86451 9.36505 17.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.86449 9.36457 15.47 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -79.86454 9.36058 14.48 247.62
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.86432 9.36079 15.29 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.86432 9.36083 15.13 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.86457 9.36000 15.97 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.86462 9.36037 14.49 0
+OBJECT_SHARED Models/lib/chariot2.ac -79.86496 9.36072 9.78 0
+OBJECT_SHARED Models/lib/chariot3curve.ac -79.86460 9.35989 16.41 221.48
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -79.86457 9.36027 14.89 0
+OBJECT_SHARED Models/lib/loader.ac -79.86459 9.35967 17.29 270
+OBJECT_SHARED Models/lib/belt_loader.ac -79.86461 9.36048 14.05 270
+OBJECT_SHARED Models/lib/belt_loader.ac -79.86462 9.36008 15.65 270
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.86442 9.36044 15.86 0
+OBJECT_SHARED Models/lib/cars7.ac -79.86362 9.36018 23.52 268.65
+OBJECT_SHARED Models/lib/cars7.ac -79.86362 9.35994 24.47 268.68
+OBJECT_SHARED Models/lib/cars7.ac -79.86363 9.35971 25.39 269.27
+OBJECT_SHARED Models/lib/cars7.ac -79.86364 9.35940 26.64 268.75
+OBJECT_SHARED Models/lib/cars7.ac -79.86365 9.35940 25.81 89.12
+OBJECT_SHARED Models/lib/cars7.ac -79.86365 9.35971 25.39 90
+OBJECT_SHARED Models/lib/cars7.ac -79.86364 9.35994 24.47 90
+OBJECT_SHARED Models/lib/cars7.ac -79.86364 9.36018 23.52 88.69
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.86436 9.35812 25.14 87.95
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.86455 9.36439 14.89 88.91
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.86450 9.36572 19.14 87.68
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.86452 9.36521 17.51 88.63
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.86453 9.36480 16.20 88.65
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.86475 9.36008 13.99 88.37
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.86474 9.36049 13.18 88.82
+# END dsf2stg

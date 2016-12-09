@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 19.59067 41.90445 4.62 294.654
+OBJECT_SHARED Models/lib/citation.ac 19.59067 41.90445 4.62 294.654
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 19.60358 41.88424 3.55 294.415
 OBJECT_SHARED Models/lib/SmHangar.ac 19.60267 41.88577 3.49 203.277
 OBJECT_SHARED Models/lib/SmHangar.ac 19.59140 41.90325 4.63 201.689

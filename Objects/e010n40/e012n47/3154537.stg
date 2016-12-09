@@ -2,6 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/schranke.ac 12.43598 47.72799 561.01 40
+OBJECT_SHARED Models/lib/admin31x12.ac 12.43683 47.73017 558.24 122
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.44010 47.73157 556.85 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.44039 47.73153 556.34 0
 OBJECT_SHARED Models/lib/cars6.ac 12.44086 47.73190 556.20 215
@@ -38,8 +39,8 @@ OBJECT_SHARED Models/lib/SmHangar.ac 12.43841 47.73064 557.54 120
 OBJECT_SHARED Models/Transport/hatchback_red.ac 12.43690 47.72867 560.04 120
 OBJECT_SHARED Models/lib/SmHangar.ac 12.44157 47.73237 555.41 127
 OBJECT_SHARED Models/lib/SmHangar.ac 12.43634 47.72991 558.51 122
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.43769 47.73030 557.98 210
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.43742 47.73020 558.13 210
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.43769 47.73030 557.98 30
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.43742 47.73020 558.13 30
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.43639 47.72811 561.01 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.43632 47.72807 560.98 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.43637 47.72809 561.01 0

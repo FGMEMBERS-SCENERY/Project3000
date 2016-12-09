@@ -50,6 +50,6 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.94196 45.54046 60.38
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.94165 45.54073 60.48 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.94121 45.54051 59.94 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -122.94665 45.53388 60.83 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.94843 45.53379 61.07 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.94826 45.53375 61.07 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.94843 45.53379 61.07 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.94826 45.53375 61.07 0
 # END dsf2stg

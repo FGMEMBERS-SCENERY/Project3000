@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.02464 53.33486 4.55 71.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.02483 53.33516 4.21 71.56
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.02489 53.33530 4.27 69.95
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.02464 53.33486 4.55 251.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.02483 53.33516 4.21 251.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.02489 53.33530 4.27 249.95
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.02236 53.33517 5.35 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.02306 53.33553 5.50 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.02285 53.33546 5.77 0
@@ -15,7 +15,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac 9.02560 53.33541 4.24 66.35
 OBJECT_SHARED Models/lib/SmHangar.ac 9.02544 53.33545 4.24 66.35
 OBJECT_SHARED Models/lib/SmHangar.ac 9.02529 53.33549 4.34 66.35
 OBJECT_SHARED Models/lib/SmHangar.ac 9.02513 53.33553 4.37 66.35
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.02327 53.33540 5.03 43.6
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.02327 53.33540 5.03 133.6
 OBJECT_SHARED Models/lib/SmHangar.ac 9.02290 53.33527 5.13 136.08
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 9.02281 53.33514 4.62 222.71
 OBJECT_SHARED Models/lib/propane-tank.ac 9.02294 53.33541 5.41 318.09

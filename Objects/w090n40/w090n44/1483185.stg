@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -89.65758 44.78517 384.84 20.22
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -89.65718 44.78527 384.62 15.75
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -89.65726 44.78525 384.54 15.38
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -89.65768 44.78516 384.93 17.76
+OBJECT_SHARED Models/lib/fuel-truck.xml -89.65758 44.78517 384.84 20.22
+OBJECT_SHARED Models/lib/fuel-truck.xml -89.65718 44.78527 384.62 15.75
+OBJECT_SHARED Models/lib/fuel-truck.xml -89.65726 44.78525 384.54 15.38
+OBJECT_SHARED Models/lib/fuel-truck.xml -89.65768 44.78516 384.93 17.76
 OBJECT_SHARED Models/lib/cars6.ac -89.67089 44.78426 390.33 179.5
 OBJECT_SHARED Models/lib/cars6.ac -89.67048 44.78426 390.24 180
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -89.65664 44.78495 383.93 24.44
+OBJECT_SHARED Models/lib/fuel-truck.xml -89.65664 44.78495 383.93 24.44
 OBJECT_SHARED Models/lib/lamp10m.xml -89.67263 44.78401 389.85 270
 OBJECT_SHARED Models/lib/lamp10m.xml -89.65767 44.78495 384.38 0
 OBJECT_SHARED Models/lib/lamp10m.xml -89.65691 44.78507 384.19 0
@@ -24,18 +24,18 @@ OBJECT_SHARED Models/lib/lamp10m.xml -89.65753 44.78530 384.88 107.02
 OBJECT_SHARED Models/lib/lamp10m.xml -89.66693 44.78405 388.27 0
 OBJECT_SHARED Models/lib/lamp10m.xml -89.66802 44.78406 388.74 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.66505 44.78407 387.38 270
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.65994 44.78478 385.65 180.6
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.66057 44.78477 386.09 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.65994 44.78478 385.65 0.600006
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.66057 44.78477 386.09 0
 OBJECT_SHARED Models/Aircraft/B1900_services.xml -89.66694 44.78387 387.99 229.86
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.66663 44.78384 387.71 141.3
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -89.66725 44.78390 388.12 146.98
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -89.67023 44.78386 389.23 142.84
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -89.67084 44.78382 389.27 146.69
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.66596 44.78386 387.56 137.32
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.66492 44.78421 387.48 180.68
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.66492 44.78421 387.48 0.679993
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -89.67293 44.78382 389.71 90
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -89.67219 44.78384 389.60 147.61
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -89.67183 44.78380 389.52 146.64
+OBJECT_SHARED Models/lib/citation.ac -89.67219 44.78384 389.60 147.61
+OBJECT_SHARED Models/lib/citation.ac -89.67183 44.78380 389.52 146.64
 OBJECT_SHARED Models/Aircraft/D328_services.xml -89.66865 44.78383 388.59 180
 OBJECT_SHARED Models/Aircraft/D328_services.xml -89.66808 44.78383 388.36 180.58
 OBJECT_SHARED Models/lib/LongRow.ac -89.67000 44.78459 391.49 90

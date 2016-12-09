@@ -3,8 +3,8 @@
 #
 OBJECT_SHARED Models/Transport/hatchback_green.ac 31.13904 65.21047 119.05 9.14151
 OBJECT_SHARED Models/lib/shed8x10.ac 31.14048 65.21076 118.31 53.2468
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 31.13639 65.20943 119.03 295.56
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 31.13635 65.20947 119.12 283.473
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 31.13635 65.20951 119.19 286.225
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 31.13635 65.20955 119.27 289.581
+OBJECT_SHARED Models/lib/fuel-truck.xml 31.13639 65.20943 119.03 295.56
+OBJECT_SHARED Models/lib/fuel-truck.xml 31.13635 65.20947 119.12 283.473
+OBJECT_SHARED Models/lib/fuel-truck.xml 31.13635 65.20951 119.19 286.225
+OBJECT_SHARED Models/lib/fuel-truck.xml 31.13635 65.20955 119.27 289.581
 # END dsf2stg

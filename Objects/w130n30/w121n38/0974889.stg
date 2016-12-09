@@ -11,7 +11,7 @@ OBJECT_SHARED Models/Airport/cargoip.xml -120.74862 38.72741 784.80 225
 OBJECT_SHARED Models/Airport/cargoip.xml -120.74864 38.72740 784.80 310.6
 OBJECT_SHARED Models/Airport/cargoip.xml -120.74866 38.72741 784.80 42.93
 OBJECT_SHARED Models/Airport/cargoim.xml -120.74863 38.72742 784.80 316.97
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -120.74903 38.72738 784.80 199.03
+OBJECT_SHARED Models/lib/fuel-truck.xml -120.74903 38.72738 784.80 199.03
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac -120.74878 38.72751 785.70 129.44
 OBJECT_SHARED Models/lib/container6.ac -120.74858 38.72735 784.80 23.74
 OBJECT_SHARED Models/Transport/hatchback_red.ac -120.74893 38.72768 787.50 90.74

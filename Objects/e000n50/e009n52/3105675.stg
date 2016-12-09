@@ -4,10 +4,10 @@
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.95069 52.17749 87.62 177.51
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.94764 52.17760 87.63 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.94860 52.17761 87.46 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.94979 52.17702 88.00 296.57
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.94994 52.17824 87.06 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.94503 52.17792 87.58 181.12
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.94468 52.17793 87.53 178.81
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.94979 52.17702 88.00 116.57
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.94994 52.17824 87.06 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.94503 52.17792 87.58 1.12
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.94468 52.17793 87.53 358.81
 OBJECT_SHARED Models/Airport/cargoim.xml 9.94436 52.17796 87.40 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 9.94945 52.17627 88.92 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 9.94799 52.17758 87.49 270
@@ -15,7 +15,7 @@ OBJECT_SHARED Models/lib/container6.ac 9.94389 52.17760 87.69 198.43
 OBJECT_SHARED Models/lib/container6.ac 9.94466 52.17765 87.71 0
 OBJECT_SHARED Models/lib/container6.ac 9.95154 52.17737 87.86 0
 OBJECT_SHARED Models/lib/container6.ac 9.94996 52.17623 89.15 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.95023 52.17610 89.32 266.05
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.95023 52.17610 89.32 266.05
 OBJECT_SHARED Models/lib/cars14.ac 9.95182 52.17646 88.77 359.4
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.95164 52.17620 89.22 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.95214 52.17635 88.94 0
@@ -36,8 +36,8 @@ OBJECT_SHARED Models/lib/cone.ac 9.94858 52.17764 87.46 0
 OBJECT_SHARED Models/lib/cone.ac 9.94765 52.17762 87.63 0
 OBJECT_SHARED Models/lib/cone.ac 9.94503 52.17788 87.58 0
 OBJECT_SHARED Models/lib/cone.ac 9.94468 52.17789 87.53 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.94929 52.17858 86.87 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 9.95362 52.17919 1.96 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.94929 52.17858 86.87 90
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 9.95362 52.17919 -8.04 0
 OBJECT_SHARED Models/lib/SmHangar.ac 9.95284 52.17978 86.71 0
 OBJECT_SHARED Models/lib/MedHangar.ac 9.95307 52.17932 86.87 88.41
 OBJECT_SHARED Models/lib/hangar81x16.ac 9.95402 52.17871 87.45 178.9
@@ -53,7 +53,7 @@ OBJECT_SHARED Models/lib/office32x25.ac 9.94007 52.17768 86.98 90
 OBJECT_SHARED Models/lib/SmHangar.ac 9.94174 52.17822 86.88 270
 OBJECT_SHARED Models/lib/MedHangar.ac 9.94264 52.17843 86.84 269.16
 OBJECT_SHARED Models/lib/MedHangar.ac 9.94101 52.17813 86.85 269.16
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.94939 52.17858 86.87 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.94939 52.17858 86.87 90
 OBJECT_SHARED Models/lib/lamp10m.xml 9.94374 52.17868 86.75 55.31
 OBJECT_SHARED Models/lib/lamp10m.xml 9.94374 52.17806 87.22 88.7
 OBJECT_SHARED Models/lib/lamp10m.xml 9.94031 52.17786 86.88 135.85

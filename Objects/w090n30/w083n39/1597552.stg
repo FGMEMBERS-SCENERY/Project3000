@@ -4,17 +4,15 @@
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -82.92644 39.82159 224.05 -44.99
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -82.92520 39.82253 224.18 -44.99
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -82.92459 39.82300 224.25 -44.99
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -82.93925 39.81919 223.61 114.103
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -82.93925 39.81919 223.61 294.103
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -82.94012 39.81815 223.49 304.381
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -82.94030 39.81823 223.51 319.764
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -82.94044 39.81836 223.52 318.123
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -82.94030 39.81823 223.51 139.764
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -82.94044 39.81836 223.52 138.123
 OBJECT_SHARED Models/Aircraft/ATR42.xml -82.93709 39.81710 223.36 223.984
 OBJECT_SHARED Models/lib/office32x25n.ac -82.95631 39.80386 219.81 135
 OBJECT_SHARED Models/lib/office40x25.ac -82.95571 39.80455 220.28 226.3
 OBJECT_SHARED Models/lib/MedHangar.ac -82.95547 39.80310 219.85 132
 OBJECT_SHARED Models/lib/HorizTanks2.ac -82.92900 39.82336 224.17 316.55
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -82.93620 39.81693 223.32 336.1
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -82.93655 39.81720 223.40 337.95
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -82.93254 39.81679 223.40 223.13
 OBJECT_SHARED Models/lib/MedHangar.ac -82.91423 39.83027 223.96 112
 OBJECT_SHARED Models/lib/MedHangar.ac -82.91472 39.83012 224.24 112
@@ -52,8 +50,8 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -82.93629 39.81658 223.31 150.76
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -82.93675 39.81681 223.28 147.94
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -82.93661 39.81696 223.36 134.74
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -82.93625 39.81672 223.31 134.19
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -82.94712 39.80967 223.28 319.03
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -82.94685 39.80938 223.19 42.67
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -82.94703 39.80963 223.24 136.55
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -82.94698 39.80961 223.24 133.15
+OBJECT_SHARED Models/lib/fuel-truck.xml -82.94712 39.80967 223.28 319.03
+OBJECT_SHARED Models/lib/fuel-truck.xml -82.94685 39.80938 223.19 42.67
+OBJECT_SHARED Models/lib/fuel-truck.xml -82.94703 39.80963 223.24 136.55
+OBJECT_SHARED Models/lib/fuel-truck.xml -82.94698 39.80961 223.24 133.15
 # END dsf2stg

@@ -498,8 +498,8 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -83.05262 29.13160 0.29 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -83.05269 29.13153 0.28 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -83.05280 29.13151 0.30 0
 OBJECT_SHARED Models/lib/farm19x12.ac -83.04956 29.13359 0.22 310.2
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.05232 29.13235 0.40 40.55
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.05243 29.13227 0.41 41.3946
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.05232 29.13235 0.40 220.55
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.05243 29.13227 0.41 221.395
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -83.04877 29.13597 0.61 223.28
 OBJECT_SHARED Models/lib/SmHangar.ac -83.05193 29.13206 0.28 311.56
 OBJECT_SHARED Models/lib/SmHangar.ac -83.05207 29.13195 0.27 311.56
@@ -528,6 +528,9 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac -83.04902 29.13441 0.30 37.13
 OBJECT_SHARED Models/Transport/hatchback_red.ac -83.04887 29.13456 0.32 45
 OBJECT_SHARED Models/lib/cars4.ac -83.05266 29.13169 0.33 204.49
 OBJECT_SHARED Models/lib/cars4.ac -83.05204 29.13198 0.28 222.23
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -83.04616 29.13389 -0.01 308.97
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -83.05608 29.13186 -0.01 356.76
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -83.05564 29.13224 -0.01 350.47
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -83.05311 29.13330 0.76 317.73
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -83.05116 29.13528 0.86 222.47
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -83.04995 29.13605 0.80 219.89

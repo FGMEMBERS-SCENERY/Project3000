@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/6space_wStop.ac -98.67072 35.54454 490.46 179.07
+OBJECT_SHARED Models/lib/cars4.ac -98.67043 35.54453 490.23 270
+OBJECT_SHARED Models/lib/6space_wStop.ac -98.67073 35.54431 490.46 179.19
+OBJECT_SHARED Models/lib/cars2.ac -98.67073 35.54441 490.46 90
+OBJECT_SHARED Models/lib/2space_wStop.ac -98.67073 35.54441 490.46 179.55
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -98.67005 35.54410 490.00 180.73
+OBJECT_SHARED Models/lib/LongRow.ac -98.67143 35.54580 491.00 90
+OBJECT_SHARED Models/lib/LongRow.ac -98.67097 35.54581 490.69 90
+OBJECT_SHARED Models/lib/office65x50.ac -98.67025 35.54485 490.15 0
+OBJECT_SHARED Models/lib/MedHangar.ac -98.67162 35.54696 490.78 90.24
+OBJECT_SHARED Models/lib/MedHangar.ac -98.67072 35.54696 490.46 90
+OBJECT_SHARED Models/lib/SmHangar.ac -98.66979 35.54693 489.76 89.81
+# END dsf2stg

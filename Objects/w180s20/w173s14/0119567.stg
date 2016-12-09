@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -172.00715 -13.83207 -0.38 90
+OBJECT_SHARED Models/lib/FireStationLg.ac -172.00715 -13.83201 -0.38 90
+OBJECT_SHARED Models/lib/SmHangar.ac -172.01226 -13.83201 -0.43 178.56
+OBJECT_SHARED Models/lib/MedHangar.ac -172.01239 -13.83154 -0.44 358.62
+# END dsf2stg

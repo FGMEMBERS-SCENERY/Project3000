@@ -49,7 +49,7 @@ OBJECT_SHARED Models/lib/cone.ac 13.03127 43.82776 7.61 0
 OBJECT_SHARED Models/lib/MedHangar.ac 13.02549 43.82124 3.92 312
 OBJECT_SHARED Models/lib/MedHangar.ac 13.02587 43.82149 4.63 312
 OBJECT_SHARED Models/lib/MedHangar.ac 13.02629 43.82176 5.36 312
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.02508 43.82155 5.59 43.51
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.02508 43.82155 5.59 133.51
 OBJECT_SHARED Models/lib/MedHangar.ac 13.02158 43.82809 12.80 101.31
 OBJECT_SHARED Models/lib/lamp10m.xml 13.02390 43.82023 3.00 200.01
 OBJECT_SHARED Models/lib/lamp10m.xml 13.02349 43.82014 3.36 200.01
@@ -82,5 +82,5 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.02509 43.82085 3.20 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.02452 43.82044 1.95 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 13.02416 43.82038 2.85 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.02619 43.82191 5.78 133.37
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.02487 43.82147 5.40 222.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.02487 43.82147 5.40 42.48
 # END dsf2stg

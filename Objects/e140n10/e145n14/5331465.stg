@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac 145.24318 14.17186 -0.39 87.66
+OBJECT_SHARED Models/lib/FireStationLg.ac 145.24318 14.17191 -0.39 87.66
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 145.24458 14.17192 -0.35 354.56
+OBJECT_SHARED Models/lib/chariot3curve.ac 145.24369 14.17200 -0.37 225
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 145.24386 14.17198 -0.37 356.82
+OBJECT_SHARED Models/lib/lamp10m.xml 145.24298 14.17194 -0.39 180.77
+OBJECT_SHARED Models/lib/lamp10m.xml 145.24672 14.17181 -0.31 266.01
+OBJECT_SHARED Models/lib/lamp10m.xml 145.24599 14.17184 -0.34 270
+OBJECT_SHARED Models/lib/lamp10m.xml 145.24524 14.17186 -0.35 270
+OBJECT_SHARED Models/lib/lamp10m.xml 145.24469 14.17180 -0.36 264.61
+OBJECT_SHARED Models/lib/lamp10m.xml 145.24432 14.17186 -0.37 268.88
+OBJECT_SHARED Models/lib/lamp10m.xml 145.24375 14.17189 -0.37 266.63
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.24391 14.17260 -0.37 337.09
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.24669 14.17210 -0.31 321.78
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.24673 14.17242 -0.31 321.78
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.24614 14.17243 -0.33 321.78
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.24618 14.17198 -0.34 321.78
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.24392 14.17212 -0.37 345.28
+# END dsf2stg

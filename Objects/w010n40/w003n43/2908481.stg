@@ -116,5 +116,5 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac -2.68317 43.07830 590.59 226.24
 OBJECT_SHARED Models/Transport/hatchback_red.ac -2.68327 43.07825 590.23 184.65
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -2.68340 43.07826 589.67 179.33
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -2.68351 43.07825 589.06 209.38
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.68286 43.07424 586.14 102.85
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -2.68286 43.07424 586.14 282.85
 # END dsf2stg

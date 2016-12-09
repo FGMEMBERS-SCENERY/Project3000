@@ -26,8 +26,8 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 9.60756 52.76183 22.83 22.07
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.60750 52.76182 22.82 22.07
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.60760 52.76230 22.95 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.60854 52.76190 23.01 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.60755 52.76168 22.81 200.73
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.60840 52.76183 22.91 200.73
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.60755 52.76168 22.81 20.73
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.60840 52.76183 22.91 20.73
 OBJECT_SHARED Models/lib/cars4.ac 9.60712 52.76192 22.75 282.39
 OBJECT_SHARED Models/lib/cars4.ac 9.60690 52.76177 22.68 105.52
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.60819 52.76355 23.26 12.38
@@ -35,8 +35,9 @@ OBJECT_SHARED Models/Transport/Norberttruck.xml 9.61131 52.76366 23.44 238.47
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 9.61106 52.76347 23.47 282.87
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 9.61084 52.76342 23.49 282.8
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 9.61065 52.76338 23.52 284.04
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.60922 52.76195 23.01 281.62
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.60922 52.76195 23.01 11.62
 OBJECT_SHARED Models/lib/SmHangar.ac 9.60876 52.76193 23.04 105.42
+OBJECT_SHARED Models/lib/admin31x12.ac 9.60747 52.76198 22.85 19.41
 OBJECT_SHARED Models/lib/SmHangar.ac 9.60774 52.76233 22.98 110.9
 OBJECT_SHARED Models/lib/LongRow.ac 9.60832 52.76194 22.97 111.71
 OBJECT_SHARED Models/lib/SmHangar.ac 9.60761 52.76224 22.93 199.86

@@ -13,7 +13,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 11.16101 49.64123 528.89 17.04
 OBJECT_SHARED Models/Misc/picnic_table.ac 11.16099 49.64126 529.13 18.2
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 11.16106 49.64121 528.90 198.13
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.16106 49.64138 529.38 18.34
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.15974 49.64139 524.17 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.15974 49.64139 524.17 180
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.15631 49.64194 531.08 116.08
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.15652 49.64204 530.69 32.54
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.15675 49.64177 528.33 210.95
@@ -104,7 +104,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml 11.16100 49.64128 529.13 0
 OBJECT_SHARED Models/lib/shed10x50.ac 11.16135 49.64132 529.16 18.5
 OBJECT_SHARED Models/lib/MedHangar.ac 11.15899 49.64134 523.13 267.8
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 11.16064 49.64128 526.43 179.4
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 11.16013 49.64128 523.76 179.82
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 11.16013 49.64128 523.76 269.82
 OBJECT_SHARED Models/lib/deciduous-tree.xml 11.15789 49.64126 523.21 271.94
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.15750 49.64124 522.46 132.14
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 11.15835 49.64122 522.53 150.5

@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.05268 50.66952 457.86 173.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.05113 50.66872 457.94 339.17
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.05268 50.66952 457.86 353.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.05113 50.66872 457.94 159.17
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.05322 50.66913 458.80 186.53
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.05281 50.66948 457.91 327.03
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.05283 50.66953 457.91 183.23
@@ -53,7 +53,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 11.05154 50.67210 452.78 14.93
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.05141 50.67212 452.73 156.04
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.05299 50.66962 457.84 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.05295 50.66926 458.36 357.4
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.05431 50.66950 458.65 318.27
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.05431 50.66950 458.65 138.27
 OBJECT_SHARED Models/lib/deciduous-tree.xml 11.05585 50.66990 458.62 312.75
 OBJECT_SHARED Models/lib/deciduous-tree.xml 11.05581 50.66968 458.80 270
 OBJECT_SHARED Models/lib/deciduous-tree.xml 11.05583 50.66975 458.88 169.56

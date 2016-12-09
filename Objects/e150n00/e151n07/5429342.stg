@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 151.84198 7.45754 -0.27 45.3897
+OBJECT_SHARED Models/lib/shed8x10.ac 151.84326 7.45794 -0.24 119.917
+OBJECT_SHARED Models/lib/shed8x10.ac 151.84310 7.46048 -0.20 45.7803
+OBJECT_SHARED Models/lib/shed10x50.ac 151.84168 7.45671 -0.27 226.736
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 151.84257 7.45977 -0.21 75.1751
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 151.84138 7.45781 -0.29 227.02
+OBJECT_SHARED Models/Airport/cargoip.xml 151.84178 7.45771 -0.27 79.0277
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 151.84138 7.45785 -0.29 338.638
+OBJECT_SHARED Models/lib/belt_loader.ac 151.84046 7.45784 -0.31 223.348
+OBJECT_SHARED Models/lib/container1.ac 151.84091 7.45736 -0.29 114.963
+OBJECT_SHARED Models/lib/cone.ac 151.84044 7.45783 -0.31 118.496
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 151.84282 7.45898 -0.22 46.6482
+OBJECT_SHARED Models/lib/lamp10m.xml 151.84196 7.45832 -0.26 90
+OBJECT_SHARED Models/lib/lamp10m.xml 151.84148 7.45783 -0.29 45.3063
+OBJECT_SHARED Models/lib/lamp10m.xml 151.84090 7.45729 -0.29 357.808
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 151.84027 7.45586 -0.33 139.078
+# END dsf2stg

@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -6.87909 56.49877 9.68 306.87
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -6.87909 56.49877 9.68 126.87
 OBJECT_SHARED Models/lib/watertank3x1.ac -6.87981 56.49904 10.03 9.70999
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -6.87958 56.49921 9.95 189.66
 OBJECT_SHARED Models/lib/propane-tank.ac -6.87841 56.49844 9.32 95.29
@@ -20,7 +20,7 @@ OBJECT_SHARED Models/lib/transformer3x3.ac -6.87926 56.49866 9.74 11.46
 OBJECT_SHARED Models/lib/schranke.ac -6.87924 56.49864 9.70 191.31
 OBJECT_SHARED Models/lib/office3x10.ac -6.87958 56.49886 9.91 9.45999
 OBJECT_SHARED Models/lib/shed8x10.ac -6.87954 56.49877 9.88 192.2
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -6.87969 56.49897 9.98 190.59
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -6.87969 56.49897 9.98 280.59
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -6.87848 56.49900 9.46 102.36
 OBJECT_SHARED Models/lib/schranke.ac -6.87998 56.49907 10.12 12.53
 # END dsf2stg

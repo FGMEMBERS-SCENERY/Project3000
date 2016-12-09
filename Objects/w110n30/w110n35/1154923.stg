@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -109.05843 35.66004 2054.62 55.19
+OBJECT_SHARED Models/lib/HorizTanks2.ac -109.05894 35.65981 2054.51 326.49
+OBJECT_SHARED Models/lib/fuel-truck.xml -109.05874 35.65975 2054.56 150.7
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05853 35.65951 2054.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05752 35.65964 2054.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05831 35.65973 2054.78 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05814 35.66001 2054.62 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05807 35.66000 2054.62 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05794 35.65956 2054.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05792 35.65968 2054.78 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05799 35.65977 2054.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05808 35.65981 2054.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05816 35.65985 2054.68 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05823 35.65988 2054.68 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05836 35.66019 2054.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05838 35.66028 2054.47 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.05843 35.66031 2054.47 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.05876 35.66024 2053.74 1.79001
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.05870 35.66029 2053.52 97.08
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.05854 35.66013 2053.95 327.39
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.05780 35.65990 2054.68 97.79
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.05776 35.65987 2054.68 99.99
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.05766 35.65982 2054.73 151.95
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.05754 35.65969 2054.78 153.79
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.05731 35.65967 2054.99 176.68
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.05692 35.66053 2054.58 200.64
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.05826 35.65994 2054.68 236.42
+# END dsf2stg

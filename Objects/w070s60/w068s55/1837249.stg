@@ -3,7 +3,7 @@
 #
 OBJECT_SHARED Models/lib/cars7.ac -67.61696 -54.93247 11.30 102.27
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -67.63746 -54.93123 16.82 287.79
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -67.61783 -54.93162 14.82 230.08
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -67.61783 -54.93162 14.82 50.08
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -67.62867 -54.93062 13.52 9.66
 OBJECT_SHARED Models/lib/MedHangar.ac -67.63163 -54.93203 19.26 269.03
 OBJECT_SHARED Models/lib/SmHangar.ac -67.61781 -54.93243 12.27 255.28

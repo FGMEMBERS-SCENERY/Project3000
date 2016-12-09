@@ -1,7 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/admin31x12.ac 9.67973 39.92113 4.72 358.32
 OBJECT_SHARED Models/lib/MedHangar.ac 9.67938 39.92125 5.24 94.11
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.67887 39.92131 5.43 359.98
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.67894 39.92130 5.28 1.25
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.67887 39.92131 5.43 359.98
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.67894 39.92130 5.28 1.25
 # END dsf2stg

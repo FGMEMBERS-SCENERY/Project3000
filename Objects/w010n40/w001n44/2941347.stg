@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -0.05381 44.56634 11.90 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -0.05254 44.56587 13.35 52.5237
+OBJECT_SHARED Models/Transport/hatchback_red.ac -0.05250 44.56592 13.38 53.5306
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.05303 44.56669 11.95 4.67738
+OBJECT_SHARED Models/Transport/hatchback_red.ac -0.05269 44.56593 13.24 54.1622
+OBJECT_SHARED Models/Transport/hatchback_red.ac -0.05263 44.56598 13.17 223.727
+OBJECT_SHARED Models/Transport/hatchback_red.ac -0.05258 44.56601 13.21 230.194
+OBJECT_SHARED Models/lib/farm19x12.ac -0.05273 44.56651 12.55 12.2954
+OBJECT_SHARED Models/lib/SmHangar.ac -0.05236 44.56661 12.95 343.757
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05296 44.56588 13.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05270 44.56608 13.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05291 44.56592 13.09 116.565
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05283 44.56597 13.03 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05281 44.56599 13.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05296 44.56604 12.94 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05291 44.56608 12.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05282 44.56611 12.92 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05264 44.56617 12.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05270 44.56623 12.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05273 44.56630 12.76 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05259 44.56639 12.74 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05280 44.56641 12.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05288 44.56636 12.51 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.05297 44.56639 12.41 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.05346 44.56606 12.35 10.1247
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.05349 44.56633 12.09 11.4587
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.05232 44.56616 13.17 159.382
+# END dsf2stg

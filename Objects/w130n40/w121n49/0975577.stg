@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -120.51493 49.46794 700.42 124.677
+OBJECT_SHARED Models/lib/citation.ac -120.51493 49.46794 700.42 124.677
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -120.51546 49.46796 700.47 221.538
 OBJECT_SHARED Models/lib/hangar81x16.ac -120.51585 49.46739 701.67 204.797
 # END dsf2stg

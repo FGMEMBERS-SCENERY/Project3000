@@ -31,8 +31,8 @@ OBJECT_SHARED Models/lib/lamp10m.xml 20.88835 37.75183 2.30 -77.2
 OBJECT_SHARED Models/lib/HorizTanks2.ac 20.88782 37.75103 1.33 106.26
 OBJECT_SHARED Models/lib/caisses_group.ac 20.88671 37.75089 -0.31 284.04
 OBJECT_SHARED Models/lib/container6.ac 20.88674 37.75075 -0.32 102.99
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 20.88789 37.75116 1.60 13.39
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 20.88764 37.75113 1.32 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 20.88789 37.75116 1.60 13.39
+OBJECT_SHARED Models/lib/fuel-truck.xml 20.88764 37.75113 1.32 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 20.88644 37.75071 -0.39 0
 OBJECT_SHARED Models/lib/cone.ac 20.88578 37.75064 -0.51 0
 OBJECT_SHARED Models/lib/cone.ac 20.88570 37.75057 -0.53 0

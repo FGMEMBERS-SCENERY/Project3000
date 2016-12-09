@@ -3,13 +3,13 @@
 #
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -66.79529 -29.38390 439.02 87.27
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -66.79608 -29.38693 440.38 84.29
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.79285 -29.38188 436.78 94.4
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -66.79285 -29.38188 436.78 274.4
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -66.79221 -29.38166 437.38 94.76
 OBJECT_SHARED Models/Aircraft/B1900_services.xml -66.79575 -29.38836 439.03 113.57
 OBJECT_SHARED Models/Aircraft/D328_services.xml -66.79654 -29.38837 439.07 87.61
 OBJECT_SHARED Models/Aircraft/320volare.xml -66.79432 -29.38685 440.63 96.85
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -66.80273 -29.38848 443.83 218.93
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -66.80398 -29.39082 445.51 276.91
+OBJECT_SHARED Models/lib/citation.ac -66.80398 -29.39082 445.51 276.91
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -66.79164 -29.38476 437.21 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -66.79212 -29.38433 436.91 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -66.79174 -29.38433 437.25 0

@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Transport/hatchback_red.ac -91.45825 46.57712 345.82 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -91.45902 46.57702 345.70 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -91.45902 46.57702 345.70 180
 OBJECT_SHARED Models/lib/shed8x10.ac -91.45785 46.57723 345.91 1.18
 OBJECT_SHARED Models/lib/shed8x10.ac -91.45632 46.57565 346.18 9.46
 OBJECT_SHARED Models/lib/shed8x10.ac -91.46056 46.57799 346.12 273.01

@@ -6,9 +6,9 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.67828 51.03449 346.25 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.67796 51.03456 346.45 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.67856 51.03451 346.22 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.67853 51.03439 346.06 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.68132 51.03402 344.48 358.6
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.67676 51.03527 347.48 332.15
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.67711 51.03517 347.34 336.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.68132 51.03402 344.48 178.6
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.67676 51.03527 347.48 152.15
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.67711 51.03517 347.34 156.19
 OBJECT_SHARED Models/lib/cars4.ac 8.67902 51.03416 345.62 248.51
 OBJECT_SHARED Models/lib/cars4.ac 8.67874 51.03420 345.74 90
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.67545 51.03933 352.19 0
@@ -111,7 +111,7 @@ OBJECT_SHARED Models/lib/MedHangar.ac 8.67645 51.03546 347.70 250
 OBJECT_SHARED Models/lib/LongRow.ac 8.68033 51.03406 345.06 159.74
 OBJECT_SHARED Models/lib/MedHangar.ac 8.68212 51.03355 343.14 271.05
 OBJECT_SHARED Models/lib/MedHangar.ac 8.68129 51.03387 344.32 265.75
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.67978 51.03452 345.88 155.57
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.67978 51.03452 345.88 245.57
 OBJECT_SHARED Models/lib/office32x25n.ac 8.67894 51.03436 345.98 69.7
 OBJECT_SHARED Models/lib/chariot1.ac 8.67705 51.03504 347.08 90
 # END dsf2stg

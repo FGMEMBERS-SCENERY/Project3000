@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -139.12887 64.04136 -0.30 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -139.12870 64.04132 -0.30 0
+OBJECT_SHARED Models/lib/cube16x10.ac -139.12530 64.04477 -0.23 311.85
+OBJECT_SHARED Models/Transport/Norberttruck.xml -139.11668 64.04549 -0.41 41
+OBJECT_SHARED Models/lib/SmHangar.ac -139.12052 64.04702 -0.33 127
+OBJECT_SHARED Models/lib/SmHangar.ac -139.11821 64.04734 -0.39 306
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -139.11834 64.04764 -0.39 215
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -139.12146 64.04677 -0.33 35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -139.12320 64.04606 -0.28 218
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -139.12417 64.04578 -0.26 242.51
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -139.11779 64.04572 -0.39 40
+OBJECT_SHARED Models/lib/HorizTanks2.ac -139.12512 64.04534 -0.23 227
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -139.12570 64.04524 -0.26 83
+OBJECT_SHARED Models/lib/stack_of_cones.ac -139.12195 64.04672 -0.30 55
+OBJECT_SHARED Models/lib/hangar81x16.ac -139.12337 64.04611 -0.28 37
+OBJECT_SHARED Models/lib/admin31x12.ac -139.11911 64.04753 -0.37 126
+OBJECT_SHARED Models/lib/SmHangar.ac -139.11793 64.04530 -0.39 310
+OBJECT_SHARED Models/Airport/cargoip.xml -139.11754 64.04548 -0.39 39
+OBJECT_SHARED Models/Airport/cargoip.xml -139.11749 64.04549 -0.41 39
+OBJECT_SHARED Models/Airport/cargobox.xml -139.11744 64.04551 -0.41 39
+OBJECT_SHARED Models/lib/chariot3curve.ac -139.11759 64.04566 -0.39 81
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -139.11713 64.04562 -0.41 309
+OBJECT_SHARED Models/lib/chariot1.ac -139.11776 64.04546 -0.39 129
+OBJECT_SHARED Models/lib/RampGroup.xml -139.12006 64.04729 -0.35 217.01
+# END dsf2stg

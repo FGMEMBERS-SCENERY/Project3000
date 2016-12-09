@@ -12,9 +12,9 @@ OBJECT_SHARED Models/lib/lamp10m.xml 100.38537 5.46084 5.87 0
 OBJECT_SHARED Models/lib/lamp10m.xml 100.38616 5.46079 5.45 90
 OBJECT_SHARED Models/lib/lamp10m.xml 100.38679 5.46071 4.56 0
 OBJECT_SHARED Models/lib/lamp10m.xml 100.38734 5.46068 4.52 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 100.39276 5.46238 4.77 268.531
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 100.38892 5.46795 6.22 87.5805
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 100.38667 5.46077 4.63 214.261
+OBJECT_SHARED Models/lib/fuel-truck.xml 100.39276 5.46238 4.77 268.531
+OBJECT_SHARED Models/lib/fuel-truck.xml 100.38892 5.46795 6.22 87.5805
+OBJECT_SHARED Models/lib/fuel-truck.xml 100.38667 5.46077 4.63 214.261
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 100.39264 5.46073 5.01 180
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 100.39263 5.46092 4.99 225
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 100.39335 5.46060 5.04 180
@@ -95,8 +95,8 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 100.38697 5.46106 4.99 0
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 100.38659 5.46090 4.79 266.127
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 100.38664 5.46096 4.86 225
 OBJECT_SHARED Models/lib/chariot3curve.ac 100.38649 5.46098 5.74 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.38944 5.46943 5.58 308.234
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.38945 5.46972 6.53 304.592
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.38944 5.46943 5.58 128.234
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 100.38945 5.46972 6.53 124.592
 OBJECT_SHARED Models/Aircraft/D328_services.xml 100.38667 5.45985 6.41 85.1355
 OBJECT_SHARED Models/Aircraft/D328_services.xml 100.38691 5.45983 6.76 86.7108
 OBJECT_SHARED Models/lib/cars7.ac 100.38743 5.46194 6.08 335.635

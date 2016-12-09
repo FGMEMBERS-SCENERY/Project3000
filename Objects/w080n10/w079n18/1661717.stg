@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.33637 18.34014 7.70 40.57
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.33650 18.33996 7.79 266.99
+OBJECT_SHARED Models/Transport/hatchback_red.ac -78.33672 18.34021 7.54 295.15
+OBJECT_SHARED Models/Transport/hatchback_red.ac -78.33670 18.34018 7.54 289.13
+OBJECT_SHARED Models/Transport/hatchback_red.ac -78.33661 18.34032 7.53 114.08
+OBJECT_SHARED Models/Transport/hatchback_red.ac -78.33662 18.34035 7.53 291.97
+OBJECT_SHARED Models/Transport/hatchback_red.ac -78.33679 18.34039 7.34 296.06
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -78.33695 18.34030 7.34 228.52
+OBJECT_SHARED Models/Transport/hatchback_red.ac -78.33632 18.34025 7.44 208.47
+OBJECT_SHARED Models/Transport/hatchback_red.ac -78.33635 18.34031 7.42 15.33
+OBJECT_SHARED Models/lib/chariot1.ac -78.33649 18.34000 7.79 110.77
+OBJECT_SHARED Models/lib/lamp10m.xml -78.33651 18.34022 7.66 24
+OBJECT_SHARED Models/lib/lamp10m.xml -78.33655 18.34007 7.73 225
+OBJECT_SHARED Models/lib/lamp10m.xml -78.33633 18.34023 7.44 90
+OBJECT_SHARED Models/lib/lamp10m.xml -78.33683 18.34042 7.34 19
+OBJECT_SHARED Models/lib/lamp10m.xml -78.33683 18.34042 7.34 199
+OBJECT_SHARED Models/lib/canopy18x8.ac -78.33671 18.34020 7.54 24
+OBJECT_SHARED Models/lib/shed8x10.ac -78.33654 18.34035 7.53 294
+OBJECT_SHARED Models/lib/transformer3x3.ac -78.33651 18.34024 7.66 114
+OBJECT_SHARED Models/lib/transformer3x3.ac -78.33653 18.34023 7.66 294
+OBJECT_SHARED Models/lib/office6x12.ac -78.33625 18.34032 7.19 198.75
+OBJECT_SHARED Models/lib/office3x10.ac -78.33609 18.34049 6.80 201.37
+OBJECT_SHARED Models/lib/transformer3x3.ac -78.33689 18.34014 7.47 140.22
+# END dsf2stg

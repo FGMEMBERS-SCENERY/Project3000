@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.34783 52.58210 35.84 273.27
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.34783 52.58210 35.84 93.27
 OBJECT_SHARED Models/lib/container6.ac 8.33914 52.58990 36.42 0
 OBJECT_SHARED Models/lib/container6.ac 8.33096 52.58856 36.86 0
 OBJECT_SHARED Models/lib/container6.ac 8.33321 52.58761 36.53 337.62
@@ -18,9 +18,9 @@ OBJECT_SHARED Models/lib/cars7.ac 8.33975 52.58865 36.50 262.53
 OBJECT_SHARED Models/lib/cars10.ac 8.34051 52.58943 36.43 353.81
 OBJECT_SHARED Models/lib/cars7.ac 8.34091 52.58919 36.43 260.05
 OBJECT_SHARED Models/Transport/Norberttruck.xml 8.33518 52.58757 36.55 254.58
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.33688 52.58785 36.56 108.43
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.34155 52.58819 36.34 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 8.34837 52.58817 36.06 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 8.33688 52.58785 36.56 108.43
+OBJECT_SHARED Models/lib/fuel-truck.xml 8.34155 52.58819 36.34 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 8.34837 52.58817 36.06 0
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 8.33713 52.57973 36.05 270
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 8.33705 52.57978 35.99 270
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 8.33695 52.57982 35.99 270
@@ -35,7 +35,7 @@ OBJECT_SHARED Models/Transport/Norberttruck.xml 8.33302 52.58828 36.62 270
 OBJECT_SHARED Models/Transport/Norberttruck.xml 8.33315 52.58021 35.85 270
 OBJECT_SHARED Models/Transport/Norberttruck.xml 8.33478 52.57973 36.21 270
 OBJECT_SHARED Models/Transport/Norberttruck.xml 8.33925 52.58131 35.50 270
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 8.33654 52.57937 -48.73 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 8.33654 52.57937 -58.73 0
 OBJECT_SHARED Models/lib/watertank3x1.ac 8.33465 52.58080 35.59 32
 OBJECT_SHARED Models/lib/office16x4n.ac 8.33609 52.58175 35.46 90
 OBJECT_SHARED Models/lib/cone.ac 8.33791 52.58835 36.58 0
@@ -62,6 +62,7 @@ OBJECT_SHARED Models/lib/LongRow.ac 8.33523 52.57956 36.25 88.12
 OBJECT_SHARED Models/lib/LongRow.ac 8.33442 52.57959 36.28 88.12
 OBJECT_SHARED Models/lib/LongRow.ac 8.33344 52.57960 36.22 89.96
 OBJECT_SHARED Models/lib/LongRow.ac 8.33255 52.58135 35.53 113.32
+OBJECT_SHARED Models/lib/admin31x12.ac 8.34143 52.58878 36.43 172.02
 OBJECT_SHARED Models/lib/SmHangar.ac 8.33976 52.58937 36.46 81.16
 OBJECT_SHARED Models/lib/cube16x10.ac 8.34502 52.58876 36.26 351.14
 OBJECT_SHARED Models/lib/office32x25n.ac 8.34746 52.58924 36.21 262.88

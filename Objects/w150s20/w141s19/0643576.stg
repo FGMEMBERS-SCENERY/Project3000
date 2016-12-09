@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -140.96525 -18.06322 5.18 172.49
+OBJECT_SHARED Models/lib/admin31x12.ac -140.96114 -18.06420 2.44 136.96
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -140.96268 -18.06241 3.34 172.22
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -140.96937 -18.06344 -91.55 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -140.96960 -18.06363 -94.17 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -140.97007 -18.06356 -94.17 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -140.96908 -18.06323 3.92 263.72
+OBJECT_SHARED Models/lib/MedHangar.ac -140.96584 -18.06238 6.14 82.7
+OBJECT_SHARED Models/lib/fboModern1.ac -140.96697 -18.06226 6.37 81.7
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -140.96699 -18.06241 6.52 171.64
+# END dsf2stg

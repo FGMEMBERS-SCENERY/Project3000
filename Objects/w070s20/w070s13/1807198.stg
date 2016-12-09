@@ -5,7 +5,7 @@ OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -69.22621 -12.60195 213.66 129.09
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -69.22181 -12.60209 216.13 26.13
 OBJECT_SHARED Models/Aircraft/D328_services.xml -69.22094 -12.60212 216.57 198.97
 OBJECT_SHARED Models/lib/HorizTanks2.ac -69.22023 -12.60428 216.84 359.47
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -69.21999 -12.60422 216.41 44.17
+OBJECT_SHARED Models/lib/fuel-truck.xml -69.21999 -12.60422 216.41 44.17
 OBJECT_SHARED Models/lib/HorizTanks2.ac -69.22023 -12.60402 217.86 0
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -69.22023 -12.60415 217.52 179.94
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -69.21997 -12.60408 121.75 180

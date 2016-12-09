@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -96.19194 42.77698 361.96 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -96.19253 42.77718 360.74 226.64
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -96.19193 42.77715 361.80 80.54
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -96.19192 42.77725 361.80 260.54
+OBJECT_SHARED Models/lib/citation.ac -96.19198 42.77755 361.48 136.98
+OBJECT_SHARED Models/lib/SmHangar.ac -96.19232 42.77680 361.65 350
+OBJECT_SHARED Models/lib/LongRow.ac -96.19232 42.77788 360.56 260
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -96.19277 42.77762 359.56 260
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -96.19292 42.77722 359.70 80
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -96.19286 42.77744 359.50 80
+OBJECT_SHARED Models/lib/lamp10m.xml -96.19311 42.77674 359.68 345.38
+OBJECT_SHARED Models/lib/lamp10m.xml -96.19278 42.77669 360.46 350.22
+OBJECT_SHARED Models/lib/lamp10m.xml -96.19199 42.77682 362.13 74.05
+OBJECT_SHARED Models/lib/lamp10m.xml -96.19187 42.77743 361.63 78.41
+OBJECT_SHARED Models/lib/lamp10m.xml -96.19172 42.77814 360.99 81.87
+OBJECT_SHARED Models/lib/lamp10m.xml -96.19217 42.77819 360.52 260.13
+OBJECT_SHARED Models/lib/lamp10m.xml -96.19257 42.77793 359.78 257.2
+OBJECT_SHARED Models/lib/lamp10m.xml -96.19296 42.77760 358.73 258.11
+OBJECT_SHARED Models/lib/lamp10m.xml -96.19306 42.77712 358.90 261.47
+# END dsf2stg

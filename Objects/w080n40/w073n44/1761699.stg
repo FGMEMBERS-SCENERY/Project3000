@@ -1,9 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/industrial13x24.ac -72.01598 44.57318 357.70 259.36
 OBJECT_SHARED Models/lib/lamp10m.xml -72.01633 44.57165 356.38 82.07
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.01642 44.57166 356.24 263.13
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.01657 44.57134 355.89 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.01642 44.57166 356.24 353.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.01657 44.57134 355.89 270
 OBJECT_SHARED Models/lib/lamp10m.xml -72.01652 44.57079 355.89 80.68
 OBJECT_SHARED Models/lib/lamp10m.xml -72.01640 44.57140 356.16 81
 OBJECT_SHARED Models/lib/SmHangar.ac -72.01621 44.57350 357.66 82.22

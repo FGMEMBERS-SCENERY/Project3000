@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -65.75501 -28.59525 467.38 285.8
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -65.75544 -28.59542 467.20 300.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -65.75544 -28.59542 467.20 120.3
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -65.75472 -28.59319 468.22 209.62
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -65.75362 -28.59366 468.34 1.46
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -65.75447 -28.59056 469.25 79

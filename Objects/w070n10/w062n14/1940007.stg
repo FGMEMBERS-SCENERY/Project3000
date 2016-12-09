@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -61.00297 14.59720 8.12 295.238
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01468 14.59061 6.53 104.037
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01433 14.59049 6.54 116.566
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01405 14.59081 6.41 209.744
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01439 14.59081 6.46 208.609
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01439 14.59127 6.31 189.462
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01409 14.59118 6.32 315.001
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01462 14.59090 6.44 294.776
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.00057 14.59042 5.49 275.711
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.00009 14.59047 5.50 275.194
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.00027 14.59045 5.49 284.932
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -61.00467 14.59702 7.87 254.054
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -61.00438 14.59732 8.10 292.381
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -61.00467 14.59726 8.08 289.291
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01603 14.59024 6.78 104.04
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01568 14.59013 6.80 116.57
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01405 14.59081 6.41 209.74
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01574 14.59045 6.69 208.61
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01574 14.59091 6.49 189.46
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01543 14.59082 6.50 315
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.01597 14.59054 6.65 294.78
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.00057 14.59042 5.49 275.71
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.00009 14.59047 5.50 275.19
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.00027 14.59045 5.49 284.93
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -61.00607 14.59692 5.57 254.05
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -61.00579 14.59722 5.20 292.38
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -61.00607 14.59716 4.77 289.29
+OBJECT_SHARED Models/lib/SmHangar.ac -61.00427 14.59701 7.91 114.153
 # END dsf2stg

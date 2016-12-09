@@ -14,8 +14,9 @@ OBJECT_SHARED Models/lib/MedHangar.ac 14.91068 37.40808 26.81 81.5
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 14.92333 37.40564 24.52 261.79
 OBJECT_SHARED Models/lib/HorizTanks2.ac 14.90965 37.39607 24.94 80
 OBJECT_SHARED Models/lib/HorizTanks2.ac 14.90969 37.39625 24.88 80
+OBJECT_SHARED Models/lib/industrial15x22.ac 14.91015 37.39676 24.39 351
 OBJECT_SHARED Models/lib/HorizTanks2.ac 14.90972 37.39644 24.61 80
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 14.91075 37.39620 -60.78 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 14.91006 37.39628 -60.20 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 14.91075 37.39620 -70.78 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 14.91006 37.39628 -70.20 0
 OBJECT_SHARED Models/lib/FireStationLg.ac 14.91922 37.40658 25.83 195
 # END dsf2stg

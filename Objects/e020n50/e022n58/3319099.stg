@@ -5,11 +5,12 @@ OBJECT_SHARED Models/lib/chariot1.ac 22.82440 58.99295 4.73 343.92
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 22.82413 58.99300 4.92 349.51
 OBJECT_SHARED Models/lib/container6.ac 22.82469 58.99307 4.59 349.64
 OBJECT_SHARED Models/lib/cars4.ac 22.82241 58.99404 5.59 301.17
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 22.82302 58.99474 4.37 32.59
+OBJECT_SHARED Models/lib/fuel-truck.xml 22.82302 58.99474 4.37 32.59
 OBJECT_SHARED Models/lib/MedHangar.ac 22.82426 58.99279 4.92 211.33
 OBJECT_SHARED Models/lib/SmHangar.ac 22.82377 58.99317 5.01 212.08
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 22.82293 58.99466 4.43 121.84
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 22.82293 58.99466 4.43 211.84
+OBJECT_SHARED Models/lib/admin31x12.ac 22.82269 58.99424 5.21 31.56
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 22.82250 58.99393 5.57 300.68
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 22.82388 58.99404 4.54 32.65
+OBJECT_SHARED Models/lib/citation.ac 22.82388 58.99404 4.54 32.65
 OBJECT_SHARED Models/lib/lamp10m.xml 22.82332 58.99415 4.91 0
 # END dsf2stg

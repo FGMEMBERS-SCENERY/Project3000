@@ -4,8 +4,8 @@
 OBJECT_SHARED Models/lib/SmHangar.ac -69.62909 -20.42410 990.56 98.36
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -69.62931 -20.42433 990.81 97.55
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -69.63321 -20.42859 990.51 346.43
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.63247 -20.42383 990.74 173.54
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.65913 -20.42930 994.32 262.41
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.63247 -20.42383 990.74 353.54
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.65913 -20.42930 994.32 82.41
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -69.62980 -20.42496 991.00 147.17
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -69.62886 -20.42392 990.66 175.76
 OBJECT_SHARED Models/lib/cars7.ac -69.62847 -20.42439 990.84 187.46

@@ -10,8 +10,9 @@ OBJECT_SHARED Models/lib/lamp10m.xml 9.50188 53.55960 18.71 70.5
 OBJECT_SHARED Models/lib/cars4.ac 9.50211 53.55943 19.38 74.05
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.50216 53.55911 19.45 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.50294 53.55941 19.62 0
+OBJECT_SHARED Models/lib/propane-tank.ac 9.50195 53.55939 19.31 343.74
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.50230 53.55964 18.87 339.44
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.50059 53.55989 18.74 67.93
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.50036 53.56007 18.96 338.46
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.50009 53.56014 19.12 337.48
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.50059 53.55989 18.74 157.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.50036 53.56007 18.96 158.46
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.50009 53.56014 19.12 157.48
 # END dsf2stg

@@ -2,13 +2,14 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/cars4.ac 7.37800 51.12361 267.09 155.42
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.37783 51.12360 266.88 63.68
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.37783 51.12360 266.88 153.68
 OBJECT_SHARED Models/lib/hangar81x16.ac 7.37944 51.12316 268.12 151.92
 OBJECT_SHARED Models/lib/hangar81x16.ac 7.37869 51.12341 267.36 328.54
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.37803 51.12262 263.53 47.12
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.37841 51.12276 264.31 47.39
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.37823 51.12335 266.08 150.26
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.37803 51.12262 263.53 227.12
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.37841 51.12276 264.31 227.39
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.37823 51.12335 266.08 330.26
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.37814 51.12357 267.33 327.53
+OBJECT_SHARED Models/lib/propane-tank.ac 7.37950 51.12294 266.24 177.8
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.37825 51.12345 266.97 148.39
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.37834 51.12342 266.65 151.7
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.37843 51.12339 266.76 155.56

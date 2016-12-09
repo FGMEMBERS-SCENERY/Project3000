@@ -3,8 +3,8 @@
 #
 OBJECT_SHARED Models/lib/stack_of_cones.ac -122.89840 46.11976 3.85 286.22
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -122.89838 46.11977 3.85 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.89833 46.11983 3.85 40.732
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -122.89843 46.11973 3.83 40.2363
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.89833 46.11983 3.85 40.732
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -122.89843 46.11973 3.83 130.236
 OBJECT_SHARED Models/lib/hangar81x16.ac -122.89646 46.11761 3.83 41.2046
 OBJECT_SHARED Models/lib/hangar81x16.ac -122.89759 46.11857 3.65 41.2046
 OBJECT_SHARED Models/lib/SmHangar.ac -122.89436 46.11679 4.12 129.81

@@ -5,13 +5,15 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 10.54095 51.21313 241.36 344.1
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.54086 51.21315 240.88 165.51
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.54082 51.21316 240.16 165.09
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.54101 51.21313 241.36 346.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.54349 51.21283 241.79 153.44
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.54211 51.21295 241.30 77.03
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.54349 51.21283 241.79 333.44
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.54211 51.21295 241.30 257.03
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.54179 51.21317 243.17 158.46
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.54117 51.21320 242.08 344.5
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.54113 51.21321 241.60 166.28
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.54109 51.21321 241.60 345.23
 OBJECT_SHARED Models/Transport/hatchback_red.ac 10.54101 51.21323 241.12 344.18
+OBJECT_SHARED Models/lib/propane-tank.ac 10.54136 51.21317 243.04 74.89
+OBJECT_SHARED Models/lib/propane-tank.ac 10.54137 51.21320 243.04 74.89
 OBJECT_SHARED Models/lib/deciduous-tree.xml 10.54351 51.21300 243.21 227.9
 OBJECT_SHARED Models/lib/deciduous-tree.xml 10.54340 51.21300 243.13 359.1
 OBJECT_SHARED Models/lib/deciduous-tree.xml 10.54297 51.21307 243.49 180

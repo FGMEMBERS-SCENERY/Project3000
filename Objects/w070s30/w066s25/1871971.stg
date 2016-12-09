@@ -3,7 +3,7 @@
 #
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -65.09327 -24.38650 906.76 20.4
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -65.09433 -24.38556 908.87 116.94
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -65.09494 -24.38498 909.96 172.69
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -65.09494 -24.38498 909.96 352.69
 OBJECT_SHARED Models/Trees/billboard-tree.xml -65.09234 -24.38749 903.91 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -65.09228 -24.38756 903.85 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -65.09225 -24.38766 903.79 0
@@ -95,9 +95,8 @@ OBJECT_SHARED Models/lib/cars14.ac -65.09305 -24.38577 906.50 214.62
 OBJECT_SHARED Models/lib/cars14.ac -65.09303 -24.38579 906.50 34.14
 OBJECT_SHARED Models/lib/cars14.ac -65.09326 -24.38593 907.12 33.3
 OBJECT_SHARED Models/lib/cars14.ac -65.09328 -24.38591 907.12 213.34
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -65.09412 -24.38615 908.22 346.53
-#OBJECT_SHARED Models/lib/jetway_e14m.ac -65.09400 -24.38607 908.13 216.11
-#OBJECT_SHARED Models/lib/jetway_e16m.ac -65.09387 -24.38598 908.14 216.13
+OBJECT_SHARED Models/lib/jetway_e14m.ac -65.09400 -24.38607 908.13 216.11
+OBJECT_SHARED Models/lib/jetway_e16m.ac -65.09387 -24.38598 908.14 216.13
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -65.09386 -24.38597 908.14 212.99
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -65.09370 -24.38561 908.20 122.46
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -65.09370 -24.38698 907.03 125.22

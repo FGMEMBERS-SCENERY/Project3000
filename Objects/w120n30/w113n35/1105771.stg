@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -112.14185 35.65077 1826.40 176.47
+OBJECT_SHARED Models/lib/MedHangar.ac -112.14250 35.65080 1826.40 175.62
+OBJECT_SHARED Models/lib/MedHangar.ac -112.14133 35.64932 1827.09 359.56
+OBJECT_SHARED Models/lib/fboModern1.ac -112.14140 35.64858 1827.19 265.02
+OBJECT_SHARED Models/lib/hangar81x16.ac -112.14260 35.65058 1826.26 291.97
+OBJECT_SHARED Models/lib/HorizTanks2.ac -112.14138 35.64961 1826.98 14.48
+OBJECT_SHARED Models/lib/HorizTanks2.ac -112.14142 35.64970 1826.94 14.59
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -112.14144 35.64980 1826.89 14.18
+OBJECT_SHARED Models/lib/4space_wStop.ac -112.14100 35.64805 1827.23 266
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -112.14078 35.64843 1827.21 357.51
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -112.14085 35.64844 1827.21 354.47
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -112.14091 35.64844 1827.21 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -112.14092 35.64824 1827.23 263.66
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -112.14092 35.64829 1827.22 265.4
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -112.14105 35.64808 1827.23 174.29
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -112.14118 35.64890 1827.15 319.85
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -112.14143 35.64994 1826.85 104.33
+OBJECT_SHARED Models/lib/lamp10m.xml -112.14161 35.64851 1826.85 264.68
+OBJECT_SHARED Models/lib/lamp10m.xml -112.14104 35.64848 1827.20 265.3
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -112.14080 35.64761 1827.02 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -112.14131 35.64794 1827.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -112.14084 35.64796 1827.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -112.14083 35.64803 1827.23 0
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -112.14541 35.64459 1826.31 0
+# END dsf2stg

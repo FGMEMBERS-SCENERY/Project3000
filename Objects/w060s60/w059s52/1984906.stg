@@ -1,6 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/industrial15x22.ac -58.46688 -51.82417 71.51 164.69
+OBJECT_SHARED Models/lib/industrial15x22.ac -58.46577 -51.82445 71.03 151.08
+OBJECT_SHARED Models/lib/industrial15x22.ac -58.46469 -51.82328 72.15 72.76
+OBJECT_SHARED Models/lib/industrial15x22.ac -58.44939 -51.81946 68.70 73.14
 OBJECT_SHARED Models/lib/office32x25n.ac -58.44885 -51.81951 68.47 75.3
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -58.44773 -51.81988 68.19 74.43
 OBJECT_SHARED Models/lib/MedHangar.ac -58.46550 -51.82365 71.94 343.23

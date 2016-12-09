@@ -18,7 +18,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac -119.34937 35.61751 96.01 359.11
 OBJECT_SHARED Models/lib/SmHangar.ac -119.34937 35.61772 96.01 359.11
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -119.34949 35.61725 96.01 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -119.34949 35.61709 96.00 182.2
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -119.34952 35.62038 95.69 91.19
+OBJECT_SHARED Models/lib/fuel-truck.xml -119.34952 35.62038 95.69 91.19
 OBJECT_SHARED Models/Transport/hatchback_red.ac -119.34951 35.61982 95.70 270
 OBJECT_SHARED Models/Transport/hatchback_red.ac -119.34951 35.62010 95.68 270.9
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -119.34952 35.61999 95.69 88.95

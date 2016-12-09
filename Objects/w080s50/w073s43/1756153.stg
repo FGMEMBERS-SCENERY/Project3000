@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/cars7.ac -72.69176 -42.02518 4.29 211.65
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.69020 -42.02645 1.01 153.03
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.69020 -42.02645 1.01 333.03
 OBJECT_SHARED Models/lib/SmHangar.ac -72.68851 -42.02901 0.00 32.74
 OBJECT_SHARED Models/lib/SmHangar.ac -72.68887 -42.02958 0.00 211.37
 OBJECT_SHARED Models/lib/SmHangar.ac -72.68940 -42.02893 0.00 211.24

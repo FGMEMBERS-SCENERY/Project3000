@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -58.48334 -3.12288 30.86 138.366
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.48270 -3.12368 32.77 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.48315 -3.12302 30.46 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.48293 -3.12384 32.69 0
+OBJECT_SHARED Models/lib/hangar81x16.ac -58.48326 -3.12300 30.62 320.51
+OBJECT_SHARED Models/lib/lamp10m.xml -58.48317 -3.12301 30.48 50.53
+OBJECT_SHARED Models/lib/lamp10m.xml -58.48268 -3.12364 32.62 -39.71
+OBJECT_SHARED Models/lib/propane-tank.ac -58.48265 -3.12361 32.51 320.401
+OBJECT_SHARED Models/lib/cone.ac -58.48310 -3.12323 30.28 0
+OBJECT_SHARED Models/lib/cone.ac -58.48311 -3.12324 30.31 0
+OBJECT_SHARED Models/lib/cone.ac -58.48311 -3.12324 30.31 0
+OBJECT_SHARED Models/lib/cone.ac -58.48311 -3.12323 30.28 0
+OBJECT_SHARED Models/lib/cone.ac -58.48311 -3.12323 30.28 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -58.48320 -3.12313 30.25 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -58.48291 -3.12379 32.55 320.2
+# END dsf2stg

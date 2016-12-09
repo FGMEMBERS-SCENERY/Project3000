@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/MedHangar.ac 80.58323 28.75305 187.93 270.16
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 80.58287 28.75413 188.11 90.1348
+OBJECT_SHARED Models/lib/citation.ac 80.58287 28.75413 188.11 90.1348
 OBJECT_SHARED Models/lib/lamp10m.xml 80.58296 28.75377 188.14 270
 OBJECT_SHARED Models/lib/lamp10m.xml 80.58215 28.75376 188.07 230.548
 # END dsf2stg

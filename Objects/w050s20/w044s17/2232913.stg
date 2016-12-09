@@ -48,7 +48,7 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac -43.82028 -16.70467 666.08 20.44
 OBJECT_SHARED Models/Transport/hatchback_red.ac -43.82031 -16.70480 665.54 326.54
 OBJECT_SHARED Models/Transport/hatchback_red.ac -43.82035 -16.70480 665.54 144.83
 OBJECT_SHARED Models/Transport/hatchback_red.ac -43.82022 -16.70479 665.71 144.83
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -43.81876 -16.70521 665.98 302.64
+OBJECT_SHARED Models/lib/fuel-truck.xml -43.81876 -16.70521 665.98 302.64
 OBJECT_SHARED Models/lib/office3x10.ac -43.81998 -16.70437 667.96 217.47
 OBJECT_SHARED Models/lib/office3x10.ac -43.82049 -16.70485 664.67 354.28
 OBJECT_SHARED Models/lib/shed8x10.ac -43.81910 -16.70450 666.70 83.95
@@ -86,7 +86,7 @@ OBJECT_SHARED Models/lib/1space_dual.ac -43.81965 -16.70468 667.10 336
 OBJECT_SHARED Models/lib/1space_dual.ac -43.81969 -16.70467 667.10 336
 OBJECT_SHARED Models/lib/1space_dual.ac -43.81973 -16.70467 667.10 336
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.81919 -16.70581 662.11 83.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -43.81912 -16.70555 663.35 84.04
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -43.81912 -16.70555 663.35 264.04
 OBJECT_SHARED Models/Airport/cargoip.xml -43.82086 -16.70483 664.52 172.73
 OBJECT_SHARED Models/lib/cargobox2x3m.ac -43.82077 -16.70489 664.16 264.86
 OBJECT_SHARED Models/lib/cargobox2x3m.ac -43.82090 -16.70492 663.99 48.6

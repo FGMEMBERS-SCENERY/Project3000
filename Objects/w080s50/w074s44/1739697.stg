@@ -2,10 +2,10 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/cars7.ac -73.63409 -43.13337 2.33 309.1
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -73.63328 -43.13294 0.00 342.26
+OBJECT_SHARED Models/lib/fuel-truck.xml -73.63328 -43.13294 0.00 342.26
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -73.63387 -43.13326 1.45 178.41
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.63400 -43.13408 4.94 347.15
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.63460 -43.13371 4.76 302.47
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.63460 -43.13371 4.76 122.47
 OBJECT_SHARED Models/lib/SmHangar.ac -73.63435 -43.13418 6.07 307.84
 OBJECT_SHARED Models/lib/SmHangar.ac -73.63444 -43.13357 3.87 129.14
 OBJECT_SHARED Models/lib/SmHangar.ac -73.63442 -43.13381 4.68 218.68

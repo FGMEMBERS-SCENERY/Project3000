@@ -61,10 +61,11 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac 12.72899 48.39474 406.53 98.28
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 12.72893 48.39471 406.63 97.7
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 12.72880 48.39461 407.20 96.07
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 12.72879 48.39469 406.74 97.35
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.72541 48.39465 405.18 179.66
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.72541 48.39465 405.18 359.66
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.72864 48.39508 405.34 181.79
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.72771 48.39533 404.68 181.68
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.72832 48.39499 405.91 181.36
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.72771 48.39533 404.68 1.67999
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.72832 48.39499 405.91 1.36
+OBJECT_SHARED Models/lib/admin31x12.ac 12.72858 48.39463 407.41 6.01
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 12.72811 48.39472 406.88 185.87
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.72574 48.39428 406.38 257.47
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.72585 48.39431 406.56 272.6
@@ -78,7 +79,7 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.72989 48.39481 405.19 29.74
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.72960 48.39469 405.92 29.74
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.72953 48.39463 406.48 134.46
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.72900 48.39455 406.99 303.04
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.72723 48.39522 405.25 139.69
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.72723 48.39522 405.25 229.69
 OBJECT_SHARED Models/lib/1space_dual.ac 12.72899 48.39459 406.99 275.82
 OBJECT_SHARED Models/lib/6space_wStop.ac 12.72876 48.39462 407.20 185.12
 OBJECT_SHARED Models/lib/4_spaces_dual.ac 12.72896 48.39473 406.53 96.74

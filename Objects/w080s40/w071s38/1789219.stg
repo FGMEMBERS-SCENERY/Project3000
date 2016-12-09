@@ -4,5 +4,5 @@
 OBJECT_SHARED Models/lib/cars7.ac -70.22550 -37.44091 842.24 240.25
 OBJECT_SHARED Models/lib/SmHangar.ac -70.22537 -37.44127 841.29 55
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.22600 -37.44116 841.96 52.41
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.22636 -37.44147 841.61 57
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.22636 -37.44147 841.61 237
 # END dsf2stg

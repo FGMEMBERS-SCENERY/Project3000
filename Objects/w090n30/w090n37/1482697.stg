@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/jetway_e16m.ac -89.56366 37.22653 -0.22 90
+OBJECT_SHARED Models/lib/jetway_e10m.ac -89.56366 37.22668 -0.23 90
+OBJECT_SHARED Models/lib/jetway_e16m.ac -89.56365 37.22692 -0.23 270
+OBJECT_SHARED Models/lib/lamp10m.xml -89.56511 37.23055 -0.32 67.36
+OBJECT_SHARED Models/lib/lamp10m.xml -89.56467 37.23040 -0.30 67.36
+OBJECT_SHARED Models/lib/lamp10m.xml -89.56162 37.22625 -0.21 90
+OBJECT_SHARED Models/lib/lamp10m.xml -89.55917 37.22611 -0.29 90
+OBJECT_SHARED Models/lib/lamp10m.xml -89.55965 37.22611 -0.28 90
+OBJECT_SHARED Models/lib/lamp10m.xml -89.55995 37.22622 -0.27 90
+OBJECT_SHARED Models/lib/lamp10m.xml -89.56053 37.22623 -0.25 90
+OBJECT_SHARED Models/lib/lamp10m.xml -89.55905 37.22553 -0.29 0
+OBJECT_SHARED Models/lib/lamp10m.xml -89.55905 37.22599 -0.29 0
+OBJECT_SHARED Models/lib/lamp10m.xml -89.56398 37.22635 -0.23 0
+OBJECT_SHARED Models/lib/lamp10m.xml -89.56464 37.22903 -0.29 180
+OBJECT_SHARED Models/lib/lamp10m.xml -89.56468 37.22863 -0.28 180
+OBJECT_SHARED Models/lib/lamp10m.xml -89.56418 37.22666 -0.24 0
+OBJECT_SHARED Models/lib/lamp10m.xml -89.56418 37.22686 -0.25 0
+OBJECT_SHARED Models/lib/lamp10m.xml -89.56398 37.22659 -0.23 0
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -89.55875 37.22613 -0.31 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -89.56161 37.22624 -0.21 90
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -89.56166 37.22645 -0.21 0
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -89.56186 37.22645 -0.20 0
+OBJECT_SHARED Models/lib/fboModern1.ac -89.55916 37.22568 -0.28 0
+OBJECT_SHARED Models/lib/MedHangar.ac -89.56491 37.23047 -0.31 67.36
+OBJECT_SHARED Models/lib/LongRow.ac -89.56411 37.22893 -0.27 90
+OBJECT_SHARED Models/lib/LongRow.ac -89.56411 37.22968 -0.28 90
+OBJECT_SHARED Models/lib/LongRow.ac -89.56411 37.22818 -0.26 90
+OBJECT_SHARED Models/lib/LongRow.ac -89.56552 37.22903 -0.32 0
+OBJECT_SHARED Models/lib/LongRow.ac -89.56556 37.22863 -0.32 0
+OBJECT_SHARED Models/lib/LongRow.ac -89.56333 37.22599 -0.20 90
+OBJECT_SHARED Models/lib/SmHangar.ac -89.56228 37.22634 -0.18 90
+OBJECT_SHARED Models/lib/SmHangar.ac -89.56278 37.22642 -0.19 90
+OBJECT_SHARED Models/lib/MedHangar.ac -89.55943 37.22610 -0.28 90
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -89.56418 37.22685 -0.25 270
+OBJECT_SHARED Models/lib/admin31x12.ac -89.56392 37.22647 -0.23 0
+OBJECT_SHARED Models/lib/jetway_e10m.ac -89.56389 37.22692 -0.24 0
+OBJECT_SHARED Models/lib/jetway_e16m.ac -89.56409 37.22692 -0.24 0
+OBJECT_SHARED Models/lib/jetway_e16m.ac -89.56365 37.22692 -0.23 180
+# END dsf2stg

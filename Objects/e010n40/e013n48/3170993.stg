@@ -1,10 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/farm19x12.ac 13.36716 48.82461 446.52 117.35
 OBJECT_SHARED Models/lib/SmHangar.ac 13.36718 48.82465 446.52 27.85
 OBJECT_SHARED Models/lib/SmHangar.ac 13.36711 48.82472 446.69 27.85
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.36690 48.82473 445.30 145.39
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.36684 48.82481 445.48 143.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.36684 48.82481 445.48 323.13
 OBJECT_SHARED Models/Misc/picnic_table.ac 13.36712 48.82450 444.96 298.91
 OBJECT_SHARED Models/Misc/picnic_table.ac 13.36710 48.82453 444.96 295.5
 OBJECT_SHARED Models/Misc/picnic_table.ac 13.36708 48.82456 445.82 295.28

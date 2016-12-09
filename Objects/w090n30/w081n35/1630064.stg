@@ -13,7 +13,7 @@ OBJECT_SHARED Models/lib/MedHangar.ac -80.95276 35.76157 285.62 344.4
 OBJECT_SHARED Models/lib/MedHangar.ac -80.95245 35.76239 287.13 342.79
 OBJECT_SHARED Models/lib/MedHangar.ac -80.95391 35.76053 283.04 163.65
 OBJECT_SHARED Models/lib/LgMaint.ac -80.95391 35.76246 287.02 162.63
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -80.94754 35.76627 287.27 271.24
+OBJECT_SHARED Models/lib/fuel-truck.xml -80.94754 35.76627 287.27 271.24
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -80.94776 35.76633 287.47 265.43
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -80.95420 35.76195 285.85 74.16
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -80.95476 35.76197 190.87 0

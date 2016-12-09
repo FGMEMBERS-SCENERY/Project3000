@@ -2,10 +2,10 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.12198 49.40002 332.75 209.17
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.12265 49.39913 331.75 210.02
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.12359 49.39831 331.40 124.93
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.12409 49.39786 330.93 122.95
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.12462 49.39617 328.79 302.78
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.12265 49.39913 331.75 30.02
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.12359 49.39831 331.40 304.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.12409 49.39786 330.93 302.95
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.12462 49.39617 328.79 122.78
 OBJECT_SHARED Models/lib/MedHangar.ac 9.12502 49.39626 329.39 300.35
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.12383 49.39761 330.28 120.65
 OBJECT_SHARED Models/lib/SmHangar.ac 9.12295 49.39865 331.09 209.62
@@ -13,7 +13,7 @@ OBJECT_SHARED Models/lib/LongRow.ac 9.12301 49.39832 330.51 299.76
 OBJECT_SHARED Models/lib/LongRow.ac 9.12245 49.39896 331.23 299.76
 OBJECT_SHARED Models/lib/SmHangar.ac 9.12243 49.39909 331.42 209.6
 OBJECT_SHARED Models/lib/LongRow.ac 9.12186 49.39973 331.89 300.07
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.12303 49.39868 331.44 120.09
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.12303 49.39868 331.44 210.09
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.12396 49.39767 330.62 31.61
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.12394 49.39770 330.59 31.86
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.12391 49.39773 330.54 33.69

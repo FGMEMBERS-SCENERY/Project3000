@@ -8,8 +8,8 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.64179 39.01335 137.14
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.63989 39.01349 136.98 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.63987 39.01358 136.98 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.64024 39.01369 136.99 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.64235 39.01246 137.23 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.64137 39.01266 137.07 90.6511
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.64235 39.01246 137.23 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -87.64137 39.01266 137.07 270.651
 OBJECT_SHARED Models/lib/stack_of_cones.ac -87.64148 39.01070 137.10 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -87.64216 39.01290 137.21 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -87.64160 39.01273 137.11 0

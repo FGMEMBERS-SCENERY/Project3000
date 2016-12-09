@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/admin31x12.ac 13.78166 54.15674 0.55 41.6
 OBJECT_SHARED Models/lib/MedHangar.ac 13.78606 54.15488 1.01 327.4
 OBJECT_SHARED Models/lib/office32x25.ac 13.77695 54.15222 -0.46 353.82
 OBJECT_SHARED Models/lib/SmHangar.ac 13.77749 54.15254 -1.38 186.13
@@ -11,8 +12,8 @@ OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 13.77617 54.15192 0.19 315
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.77626 54.15249 0.00 260.69
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.77751 54.15235 -1.38 326.98
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.77907 54.15281 -1.39 12.53
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.77959 54.15325 -1.35 166.37
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.77937 54.15323 -1.37 170.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.77959 54.15325 -1.35 346.37
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.77937 54.15323 -1.37 350.25
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 13.77778 54.15236 -1.39 269.03
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 13.77695 54.15242 -0.94 353.5
 OBJECT_SHARED Models/lib/cone.ac 13.77629 54.15248 0.00 0
@@ -28,7 +29,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.77504 54.15279 -0.46 0
 OBJECT_SHARED Models/lib/office16x4n.ac 13.77806 54.15254 -1.40 5.42
 OBJECT_SHARED Models/Misc/picnic_table.ac 13.77596 54.15178 0.24 175.16
 OBJECT_SHARED Models/Misc/picnic_table.ac 13.77590 54.15178 0.25 171.25
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.77844 54.15300 -1.41 6.51999
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.77844 54.15300 -1.41 96.52
 OBJECT_SHARED Models/Transport/hatchback_red.ac 13.77541 54.15297 -0.46 268.49
 OBJECT_SHARED Models/Transport/hatchback_red.ac 13.77532 54.15299 -0.49 268.85
 OBJECT_SHARED Models/Transport/hatchback_red.ac 13.77676 54.15184 0.43 90.54

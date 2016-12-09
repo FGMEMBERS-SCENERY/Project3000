@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/propane-tank.ac 10.14570 54.38335 26.38 90
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.14354 54.38334 27.21 266.99
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.14364 54.38298 27.32 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.14380 54.38297 27.26 0
@@ -30,12 +31,12 @@ OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.14286 54.38225 27.57 12.8
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.14251 54.38223 27.60 9.73001
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 10.14345 54.38243 27.45 279.74
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.14506 54.38237 26.93 11.23
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14180 54.38346 27.58 269.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14267 54.38389 27.09 91.68
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14455 54.38222 27.13 7.54001
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14483 54.38327 26.73 268.94
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14486 54.38310 26.84 268.94
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14550 54.38313 26.61 92.96
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14180 54.38346 27.58 89.24
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14267 54.38389 27.09 271.68
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14455 54.38222 27.13 187.54
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14483 54.38327 26.73 88.94
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14486 54.38310 26.84 88.94
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.14550 54.38313 26.61 272.96
 OBJECT_SHARED Models/lib/lamp10m.xml 10.14704 54.37573 22.73 -10.14
 OBJECT_SHARED Models/lib/lamp10m.xml 10.14592 54.37548 22.85 258.17
 OBJECT_SHARED Models/lib/lamp10m.xml 10.14420 54.37564 23.07 258.17
@@ -73,6 +74,7 @@ OBJECT_SHARED Models/lib/hangarUL10x30.ac 10.14120 54.38409 27.28 90
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 10.13500 54.37970 26.01 90
 OBJECT_SHARED Models/lib/SmHangar.ac 10.14563 54.38321 26.53 1.85
 OBJECT_SHARED Models/lib/MedHangar.ac 10.14518 54.38338 26.58 90.98
+OBJECT_SHARED Models/lib/admin31x12.ac 10.14303 54.38297 27.49 99.04
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.14918 54.37565 22.27 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.15019 54.37530 21.84 270
 OBJECT_SHARED Models/Trees/billboard-tree.xml 10.15103 54.37554 21.59 0

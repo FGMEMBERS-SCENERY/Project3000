@@ -226,9 +226,9 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.95302 49.38954 461.86 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.96326 49.38928 463.12 79.22
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.96816 49.39453 463.66 37.97
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.96720 49.39486 463.33 108.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.96791 49.39520 461.71 179.41
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.96769 49.39515 462.07 181.49
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.96659 49.39468 464.50 284.74
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.96791 49.39520 461.71 359.41
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.96769 49.39515 462.07 1.49
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.96659 49.39468 464.50 104.74
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.96666 49.39487 463.67 287.53
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.96665 49.39490 463.68 287.53
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.96660 49.39489 463.71 287.53
@@ -237,9 +237,9 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 9.96655 49.39484 464.13 287.53
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.96661 49.39485 463.70 287.53
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 9.95878 49.38955 458.46 80.03
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 9.95914 49.38950 459.13 80.03
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.96889 49.39517 461.39 197.73
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.96889 49.39517 461.39 287.73
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.95348 49.38986 462.63 259.78
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.96193 49.39131 463.21 65.14
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.96193 49.39131 463.21 65.14
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.95337 49.38943 461.23 258.96
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 9.95503 49.38967 462.93 354.88
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 9.95506 49.38971 462.92 350.68
@@ -248,8 +248,8 @@ OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 9.95870 49.38892 457.63 52.4
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.95878 49.38891 457.85 50.49
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.95888 49.38889 458.12 52.5
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.96155 49.38895 462.68 80.64
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.96189 49.39126 463.26 64.41
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.95918 49.38955 459.19 79.79
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.96189 49.39126 463.26 64.41
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.95918 49.38955 459.19 79.79
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 9.95466 49.38984 463.19 262.53
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 9.95544 49.38983 462.96 84.99
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 9.95784 49.38962 459.83 264.07

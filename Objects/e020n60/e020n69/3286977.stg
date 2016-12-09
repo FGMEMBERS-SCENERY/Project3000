@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 20.89710 69.00106 478.60 297.675
 OBJECT_SHARED Models/Effects/GreenLight6000.xml 20.89708 69.00229 488.05 0
 OBJECT_SHARED Models/Effects/GreenLight6000.xml 20.89655 69.00222 483.88 0
 OBJECT_SHARED Models/Effects/GreenLight6000.xml 20.89738 69.00202 488.47 0
@@ -8,7 +9,7 @@ OBJECT_SHARED Models/Effects/GreenLight6000.xml 20.89683 69.00194 481.70 0
 OBJECT_SHARED Models/Effects/GreenLight6000.xml 20.89707 69.00202 485.24 0
 OBJECT_SHARED Models/Effects/GreenLight6000.xml 20.89724 69.00216 488.16 0
 OBJECT_SHARED Models/Effects/GreenLight6000.xml 20.89668 69.00208 483.42 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 20.89743 69.00196 487.97 200.254
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 20.89743 69.00196 487.97 290.254
 OBJECT_SHARED Models/lib/cars2.ac 20.89819 69.00142 500.77 316.242
 OBJECT_SHARED Models/lib/cars2.ac 20.89785 69.00156 493.96 315.741
 OBJECT_SHARED Models/lib/lamp10m.xml 20.89824 69.00140 500.77 46.3402

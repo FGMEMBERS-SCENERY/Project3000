@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.94712 42.45750 293.97 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.94715 42.45870 293.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.94711 42.45632 294.19 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.94705 42.45401 294.91 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.94709 42.45536 294.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.94708 42.45285 295.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.94704 42.45222 295.63 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.94704 42.45027 296.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.94698 42.44847 296.52 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -91.94554 42.45244 294.39 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -91.94553 42.45240 294.39 179.79
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -91.94570 42.45235 294.68 34.82
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -91.94555 42.45252 294.47 180.71
+OBJECT_SHARED Models/lib/MedHangar.ac -91.94602 42.45261 294.93 90
+OBJECT_SHARED Models/lib/LongRow.ac -91.94567 42.45216 294.72 270
+OBJECT_SHARED Models/lib/LongRow.ac -91.94613 42.45216 295.22 270
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94642 42.45237 295.42 352.88
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94632 42.45220 295.42 273.37
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94633 42.45157 295.64 275.71
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94612 42.45145 295.51 2.85998
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94568 42.45145 295.01 0
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94552 42.45152 294.76 84.56
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94553 42.45219 294.47 90
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94554 42.45283 294.27 95.19
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94575 42.45294 294.56 186.01
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94605 42.45293 294.93 176.42
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94632 42.45289 295.17 270
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94631 42.45257 295.27 272.6
+OBJECT_SHARED Models/lib/lamp10m.xml -91.94641 42.45248 295.39 180
+# END dsf2stg

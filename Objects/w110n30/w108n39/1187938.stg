@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -107.31091 39.50706 1806.26 296
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -107.31106 39.50730 1806.16 296
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -107.31095 39.50720 1806.22 116
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -107.31079 39.50697 1806.30 296
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -107.31112 39.50748 1806.06 296
+OBJECT_SHARED Models/lib/vending-machine.ac -107.31071 39.50761 1806.01 209.5
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -107.31070 39.50751 1806.06 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -107.31077 39.50761 1806.01 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -107.31072 39.50754 1806.06 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -107.31075 39.50759 1806.01 0
+OBJECT_SHARED Models/lib/6space_wStop.ac -107.31068 39.50767 1805.94 295.56
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -107.31059 39.50720 1806.22 296.57
+OBJECT_SHARED Models/lib/SmHangar.ac -107.31261 39.51068 1801.77 27.54
+OBJECT_SHARED Models/lib/SmHangar.ac -107.31289 39.51111 1801.03 27.54
+OBJECT_SHARED Models/lib/LongRow.ac -107.31135 39.50898 1804.13 297.19
+OBJECT_SHARED Models/lib/LongRow.ac -107.31185 39.50975 1801.54 297.19
+OBJECT_SHARED Models/lib/LongRow.ac -107.31236 39.51051 1802.20 297.19
+OBJECT_SHARED Models/lib/LongRow.ac -107.31333 39.51195 1793.81 297.19
+OBJECT_SHARED Models/lib/LongRow.ac -107.31388 39.51277 1797.25 297.19
+# END dsf2stg

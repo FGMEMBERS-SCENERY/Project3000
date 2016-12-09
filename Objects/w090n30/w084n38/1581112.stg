@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -83.88336 38.87960 289.31 189.12
+OBJECT_SHARED Models/lib/watertank3x1.ac -83.88515 38.88264 290.83 190
+OBJECT_SHARED Models/lib/propane-tank.ac -83.88515 38.88260 290.82 280
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -83.88506 38.88266 290.87 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -83.88506 38.88267 290.87 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -83.88504 38.88267 290.87 190
+OBJECT_SHARED Models/lib/SmHangar.ac -83.88457 38.88268 290.86 280
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -83.88498 38.88268 290.87 280
+OBJECT_SHARED Models/lib/SmHangar.ac -83.88531 38.88259 290.83 280
+OBJECT_SHARED Models/lib/LongRow.ac -83.88469 38.88313 291.04 189.7
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.88385 38.88310 290.99 10.58
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.88367 38.88313 290.98 11.1
+# END dsf2stg

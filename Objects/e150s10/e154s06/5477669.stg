@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/chariot1.ac 154.67622 -5.42085 -0.45 45.8016
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 154.67581 -5.42069 -0.45 47.349
+OBJECT_SHARED Models/lib/container1.ac 154.67635 -5.42111 -0.45 39.8055
+OBJECT_SHARED Models/Aircraft/D328_services.xml 154.67604 -5.42091 -0.45 132.521
+OBJECT_SHARED Models/lib/shed8x10.ac 154.67620 -5.42403 -0.45 166.019
+OBJECT_SHARED Models/lib/shed10x50.ac 154.67771 -5.42216 -0.43 245.472
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 154.67003 -5.42655 -0.45 219.428
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 154.67377 -5.41984 -0.46 65.3442
+OBJECT_SHARED Models/lib/transformer3x3.ac 154.67798 -5.41965 -0.43 128.106
+OBJECT_SHARED Models/lib/office3x10.ac 154.67653 -5.42123 -0.45 138.827
+OBJECT_SHARED Models/lib/industrial13x24.ac 154.67550 -5.42161 -0.45 129.664
+OBJECT_SHARED Models/Misc/6barrels.ac 154.67568 -5.42045 -0.45 100.008
+OBJECT_SHARED Models/lib/transformer3x3.ac 154.67625 -5.42097 -0.45 316.292
+# END dsf2stg

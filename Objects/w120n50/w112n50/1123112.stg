@@ -16,9 +16,9 @@ OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.92115 50.63429 759.08 0
 OBJECT_SHARED Models/lib/cone.ac -111.92183 50.63323 758.97 132.58
 OBJECT_SHARED Models/lib/cone.ac -111.92258 50.63200 758.79 190.62
 OBJECT_SHARED Models/lib/cone.ac -111.92270 50.63208 758.84 148.5
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -111.92264 50.63204 758.79 310.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -111.92264 50.63204 758.79 130.77
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -111.92111 50.63392 759.04 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -111.92136 50.63439 759.09 99.92
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -111.92136 50.63439 759.09 279.92
 OBJECT_SHARED Models/lib/cone.ac -111.92235 50.63185 758.88 158.7
 OBJECT_SHARED Models/lib/cone.ac -111.92250 50.63196 758.79 38.93
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -111.92238 50.63193 758.88 311.71
@@ -34,6 +34,8 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac -111.92121 50.63379 759.03 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -111.92136 50.63315 759.03 37.57
 OBJECT_SHARED Models/lib/stack_of_cones.ac -111.92215 50.63272 758.93 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.92196 50.63236 758.91 310.9
+OBJECT_SHARED Models/lib/propane-tank.ac -111.92239 50.63364 758.99 90
+OBJECT_SHARED Models/lib/propane-tank.ac -111.92201 50.63262 758.92 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -111.92146 50.63225 758.98 310.9
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -111.92126 50.63411 759.06 0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -111.92210 50.63411 758.99 0
@@ -43,8 +45,8 @@ OBJECT_SHARED Models/lib/cone.ac -111.92124 50.63409 759.06 180
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -111.92095 50.63412 759.06 180
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.92124 50.63410 759.06 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.92124 50.63410 759.06 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -111.92063 50.63448 759.10 270
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -111.92067 50.63464 759.11 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -111.92063 50.63448 759.10 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -111.92067 50.63464 759.11 270
 OBJECT_SHARED Models/lib/MedHangar.ac -111.92137 50.63300 759.02 0
 OBJECT_SHARED Models/lib/SmHangar.ac -111.92105 50.63371 759.03 270
 OBJECT_SHARED Models/lib/LongRow.ac -111.92227 50.63370 758.99 0

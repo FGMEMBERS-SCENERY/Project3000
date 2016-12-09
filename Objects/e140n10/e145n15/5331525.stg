@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 145.72675 15.12340 -0.22 243.43
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 145.72675 15.12364 -0.21 272.6
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 145.72551 15.12282 -0.22 261.87
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 145.72561 15.12252 -0.23 341.57
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 145.72539 15.12263 -0.21 158.63
+OBJECT_SHARED Models/lib/MedHangar.ac 145.72554 15.12473 -0.17 177.15
+OBJECT_SHARED Models/lib/FireStationLg.ac 145.73056 15.12415 -0.23 293
+OBJECT_SHARED Models/lib/FireStationLg.ac 145.73059 15.12409 -0.24 293
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 145.72872 15.12373 -0.23 203
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.72573 15.12216 -0.23 153.97
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.72552 15.12225 -0.23 153.97
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 145.72533 15.12235 -0.22 153.97
+OBJECT_SHARED Models/lib/cars7.ac 145.72521 15.12294 -0.20 157.28
+OBJECT_SHARED Models/lib/cars14.ac 145.72535 15.12280 -0.20 336.59
+OBJECT_SHARED Models/lib/FireStationLg.ac 145.72516 15.12348 -0.18 62.24
+# END dsf2stg

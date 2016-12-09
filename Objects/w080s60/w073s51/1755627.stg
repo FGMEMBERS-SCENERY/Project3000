@@ -1,23 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.04936 -50.28431 198.16 273.78
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.04938 -50.28408 198.92 274.11
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.04936 -50.28431 198.16 3.78
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.04938 -50.28408 198.92 4.11
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -72.04938 -50.28420 198.54 183.53
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -72.04895 -50.28423 103.59 0
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -72.04896 -50.28411 103.84 0
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -72.05382 -50.28406 199.87 197.18
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -72.05623 -50.28410 201.35 57.17
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.04925 -50.28398 198.86 63.82
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.04925 -50.28398 198.86 243.82
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.05164 -50.28415 199.27 21.68
 OBJECT_SHARED Models/lib/cars14.ac -72.05355 -50.28503 198.72 271.97
 OBJECT_SHARED Models/lib/cars14.ac -72.05351 -50.28502 198.72 91.96
 OBJECT_SHARED Models/lib/cars7.ac -72.05310 -50.28492 198.78 183.96
 OBJECT_SHARED Models/lib/cars14.ac -72.05559 -50.28436 200.22 96.06
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.05418 -50.28416 199.98 192.53
-#OBJECT_SHARED Models/lib/jetway_e10m.ac -72.05417 -50.28424 199.98 95.73
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.05317 -50.28412 199.48 214.54
-#OBJECT_SHARED Models/lib/jetway_e8m.ac -72.05316 -50.28418 199.45 93.44
+OBJECT_SHARED Models/lib/jetway_e10m.ac -72.05417 -50.28424 199.98 95.73
+OBJECT_SHARED Models/lib/jetway_e8m.ac -72.05316 -50.28418 199.45 93.44
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -72.05316 -50.28420 199.45 94.46
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -72.05416 -50.28426 199.87 95.33
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.05203 -50.28447 198.78 6.20999
@@ -31,5 +29,5 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -72.05507 -50.28409 200.57 3.16
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -72.05249 -50.28401 199.33 4.54999
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -72.05336 -50.28402 199.67 6.28
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -72.05431 -50.28402 200.28 352.89
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.04728 -50.28363 197.81 280.92
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.04728 -50.28363 197.81 100.92
 # END dsf2stg

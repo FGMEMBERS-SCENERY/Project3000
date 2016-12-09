@@ -86,10 +86,10 @@ OBJECT_SHARED Models/lib/lamp10m.xml 6.84789 51.99604 48.34 74.29
 OBJECT_SHARED Models/lib/lamp10m.xml 6.84901 51.99542 47.88 -48.47
 OBJECT_SHARED Models/lib/lamp10m.xml 6.84917 51.99577 48.12 43.6
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.84793 51.99590 48.32 112.44
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.84323 51.99670 46.27 255.96
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.84902 51.99569 48.12 74.36
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.84706 51.99579 48.15 162.12
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.84739 51.99571 48.19 162
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.84323 51.99670 46.27 75.96
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.84902 51.99569 48.12 254.36
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.84706 51.99579 48.15 342.12
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.84739 51.99571 48.19 342
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.84596 51.99602 47.75 108.06
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.84590 51.99600 47.68 108.06
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.84599 51.99598 47.79 108.06
@@ -101,9 +101,9 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac 6.84592 51.99582 47.52 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 6.84816 51.99567 48.23 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 6.84718 51.99612 48.24 270
 OBJECT_SHARED Models/lib/stack_of_cones.ac 6.84673 51.99614 48.16 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 6.84495 51.99614 -38.39 62.18
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 6.84487 51.99591 -38.24 44.17
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.84531 51.99568 47.04 254.22
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 6.84495 51.99614 -48.39 62.18
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 6.84487 51.99591 -48.24 44.17
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.84531 51.99568 47.04 344.22
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 6.84626 51.99603 48.10 20.71
 OBJECT_SHARED Models/lib/MedHangar.ac 6.84753 51.99605 48.30 74.34
 # END dsf2stg

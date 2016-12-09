@@ -2,9 +2,9 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -97.16283 39.38168 367.00 182.96
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -97.16251 39.38094 367.00 182.86
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.16265 39.38059 367.00 58.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.16308 39.38048 367.00 1.92999
+OBJECT_SHARED Models/lib/fuel-truck.xml -97.16251 39.38094 367.00 182.86
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.16265 39.38059 367.00 238.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.16308 39.38048 367.00 181.93
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -97.16330 39.38076 367.13 269.39
 OBJECT_SHARED Models/lib/SmHangar.ac -97.16307 39.38169 367.12 89.23
 OBJECT_SHARED Models/lib/MedHangar.ac -97.16259 39.38061 367.00 359.17

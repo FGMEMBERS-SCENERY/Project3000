@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -85.92513 37.68945 232.20 90.41
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -85.92484 37.68965 232.20 43.48
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -85.91438 37.69375 223.58 313.48
+OBJECT_SHARED Models/lib/propane-tank.ac -85.92531 37.68935 232.28 43.48
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.92551 37.68884 231.49 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -85.92507 37.68952 232.42 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -85.92526 37.68903 231.62 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -85.92488 37.68966 232.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -85.92561 37.68876 231.63 0
+OBJECT_SHARED Models/lib/MedHangar.ac -85.92434 37.68960 231.46 133.48
+OBJECT_SHARED Models/lib/MedHangar.ac -85.92499 37.68910 231.40 134.3
+OBJECT_SHARED Models/lib/MedHangar.ac -85.92698 37.68922 234.57 43.47
+OBJECT_SHARED Models/lib/LongRow.ac -85.92595 37.68855 231.64 133.47
+OBJECT_SHARED Models/lib/LongRow.ac -85.92627 37.68830 231.57 133.57
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -85.92535 37.68836 230.46 43.48
+OBJECT_SHARED Models/lib/lamp10m.xml -85.92548 37.68888 231.70 270
+OBJECT_SHARED Models/lib/lamp10m.xml -85.92589 37.68894 232.29 270
+OBJECT_SHARED Models/lib/lamp10m.xml -85.92610 37.68912 233.02 270
+OBJECT_SHARED Models/lib/lamp10m.xml -85.92634 37.68931 233.75 270
+OBJECT_SHARED Models/lib/lamp10m.xml -85.92614 37.68948 233.90 270
+OBJECT_SHARED Models/lib/lamp10m.xml -85.92594 37.68962 233.82 270
+OBJECT_SHARED Models/lib/lamp10m.xml -85.92563 37.68935 232.94 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.92527 37.68877 231.19 133.47
+OBJECT_SHARED Models/lib/watertank3x1.ac -85.92536 37.68882 231.34 43.48
+OBJECT_SHARED Models/lib/cars2.ac -85.92555 37.68898 232.07 133.48
+OBJECT_SHARED Models/lib/cars4.ac -85.92614 37.68946 233.90 43.48
+OBJECT_SHARED Models/lib/cars4.ac -85.92539 37.68915 232.21 313.48
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -85.92386 37.68944 230.44 223.48
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -85.92378 37.68954 230.50 223.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.92498 37.68861 230.31 133.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.92391 37.68901 229.56 43.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.92346 37.68935 229.84 43.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.92401 37.68937 230.58 43.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.92357 37.68927 229.77 43.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.92435 37.68911 230.37 43.48
+# END dsf2stg

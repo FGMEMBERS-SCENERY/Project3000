@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 23.68390 46.78169 311.44 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 23.68390 46.78169 311.44 0
 OBJECT_SHARED Models/lib/chariot1.ac 23.68536 46.78226 311.12 160.19
 OBJECT_SHARED Models/lib/chariot1.ac 23.68538 46.78227 311.12 159.44
 OBJECT_SHARED Models/lib/chariot1.ac 23.68539 46.78229 311.12 156.57
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 23.68542 46.78235 311.12 348.69
 OBJECT_SHARED Models/Transport/Norberttruck.xml 23.68406 46.78166 311.55 270.36
 OBJECT_SHARED Models/Transport/Norberttruck.xml 23.68379 46.78167 311.39 270
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 23.68375 46.78185 311.38 90
+OBJECT_SHARED Models/lib/fuel-truck.xml 23.68375 46.78185 311.38 90
 OBJECT_SHARED Models/lib/belt_loader.ac 23.68487 46.78229 311.00 263.59
 OBJECT_SHARED Models/lib/belt_loader.ac 23.68482 46.78229 311.03 270
 OBJECT_SHARED Models/lib/belt_loader.ac 23.68477 46.78229 311.03 270
@@ -26,6 +26,7 @@ OBJECT_SHARED Models/lib/FireStationLg.ac 23.68274 46.78232 310.95 4
 OBJECT_SHARED Models/lib/FireStationLg.ac 23.68279 46.78199 311.07 4
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 23.68379 46.78257 216.83 0
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 23.68379 46.78245 216.73 0
+OBJECT_SHARED Models/lib/industrial13x24.ac 23.68409 46.78189 311.65 0.889999
 OBJECT_SHARED Models/lib/HorizTanks2.ac 23.68379 46.78202 311.53 90
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 23.68404 46.78240 311.76 180
 OBJECT_SHARED Models/lib/lamp10m.xml 23.68421 46.78225 311.63 343.74

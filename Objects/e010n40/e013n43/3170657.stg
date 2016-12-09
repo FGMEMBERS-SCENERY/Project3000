@@ -21,9 +21,9 @@ OBJECT_SHARED Models/lib/belt_loader.ac 13.35728 43.60864 12.83 270
 OBJECT_SHARED Models/lib/loader.ac 13.35696 43.60852 12.88 228.01
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac 13.35642 43.60817 13.04 226.31
 OBJECT_SHARED Models/Aircraft/D328_services.xml 13.35993 43.61161 11.06 315.22
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 13.36096 43.61136 11.37 224.31
+OBJECT_SHARED Models/lib/fuel-truck.xml 13.36096 43.61136 11.37 224.31
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 13.36285 43.61369 10.38 132.79
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.36173 43.61211 11.15 137.17
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.36173 43.61211 11.15 317.17
 OBJECT_SHARED Models/lib/deciduous-tree.xml 13.36008 43.61010 12.11 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml 13.36004 43.61014 12.09 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml 13.36001 43.61017 12.01 0

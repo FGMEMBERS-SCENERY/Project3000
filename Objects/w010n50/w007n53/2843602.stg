@@ -3,12 +3,12 @@
 #
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -6.48807 53.35634 47.40 297.32
 OBJECT_SHARED Models/lib/stack_of_cones.ac -6.48803 53.35633 47.39 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -6.48794 53.35626 47.37 29.93
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -6.48639 53.35578 47.08 166.93
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -6.48598 53.35599 47.04 164.69
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -6.48831 53.35709 47.63 160.7
+OBJECT_SHARED Models/lib/fuel-truck.xml -6.48794 53.35626 47.37 29.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -6.48639 53.35578 47.08 346.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -6.48598 53.35599 47.04 344.69
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -6.48831 53.35709 47.63 340.7
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -6.48880 53.35587 47.44 208.07
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -6.49027 53.35510 47.41 209.17
+OBJECT_SHARED Models/lib/citation.ac -6.49027 53.35510 47.41 209.17
 OBJECT_SHARED Models/lib/lamp10m.xml -6.48772 53.35740 47.56 207.17
 OBJECT_SHARED Models/lib/lamp10m.xml -6.48815 53.35727 47.65 207.17
 OBJECT_SHARED Models/lib/lamp10m.xml -6.48870 53.35710 47.73 207.17
@@ -43,7 +43,7 @@ OBJECT_SHARED Models/lib/HorizTanks2.ac -6.48771 53.35710 47.49 28
 OBJECT_SHARED Models/lib/office16x4n.ac -6.49526 53.34879 46.18 321.78
 OBJECT_SHARED Models/lib/chariot1.ac -6.48830 53.35614 47.40 29.05
 OBJECT_SHARED Models/lib/lamp10m.xml -6.48747 53.35650 47.33 115.28
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -6.48733 53.35634 47.27 296.78
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -6.48759 53.35664 47.36 297.94
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -6.48733 53.35634 47.27 26.78
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -6.48759 53.35664 47.36 27.94
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -6.48969 53.35582 47.55 208.6
 # END dsf2stg

@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.95273 47.50885 540.20 286.7
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.95273 47.50885 540.20 16.7
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.95289 47.50872 540.09 16.19
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.95327 47.50881 539.87 16.19
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.95321 47.50880 539.91 16.19
@@ -74,8 +74,8 @@ OBJECT_SHARED Models/lib/cars6.ac 7.95294 47.50859 540.03 16.87
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 7.95323 47.50884 539.89 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 7.95287 47.50873 540.10 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 7.95304 47.50883 540.02 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.95291 47.50895 540.01 309.13
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.95200 47.50867 540.48 285.61
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.95291 47.50895 540.01 129.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.95200 47.50867 540.48 105.61
 OBJECT_SHARED Models/Transport/hatchback_red.ac 7.95268 47.50857 540.16 75.79
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.95268 47.50860 540.16 76.78
 # END dsf2stg

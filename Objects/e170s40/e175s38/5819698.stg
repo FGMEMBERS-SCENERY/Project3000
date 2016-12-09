@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55102 -37.15674 5.18 105.26
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55132 -37.15807 4.62 110
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55125 -37.15796 4.65 120.96
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55146 -37.15742 4.92 111.8
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55163 -37.15792 6.02 107.1
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55168 -37.15765 6.10 23.96
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55171 -37.15805 5.99 109.65
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55102 -37.15674 5.18 285.26
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55132 -37.15807 4.62 290
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55125 -37.15796 4.65 300.96
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55146 -37.15742 4.92 291.8
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55163 -37.15792 6.02 287.1
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55168 -37.15765 6.10 203.96
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55171 -37.15805 5.99 289.65
 OBJECT_SHARED Models/lib/cars2.ac 175.55190 -37.15706 6.24 295.26
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.55152 -37.15695 6.30 224.57
 OBJECT_SHARED Models/lib/cars4.ac 175.55171 -37.15719 6.21 111.04
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55224 -37.15846 5.90 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 175.55224 -37.15846 5.90 180
 OBJECT_SHARED Models/Transport/Norberttruck.xml 175.55145 -37.15667 5.18 20.38
 OBJECT_SHARED Models/Transport/Norberttruck.xml 175.55140 -37.15665 5.22 19.98
 # END dsf2stg

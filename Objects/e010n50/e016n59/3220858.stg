@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 16.63057 59.89424 52.26 115.16
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 16.62975 59.89541 51.88 104.62
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 16.63027 59.89459 52.13 297.07
+OBJECT_SHARED Models/lib/office8x14.ac 16.62993 59.89498 52.01 20.38
+OBJECT_SHARED Models/lib/SmHangar.ac 16.63081 59.89408 52.10 205.26
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 16.63010 59.89476 52.07 113.68
+OBJECT_SHARED Models/lib/office8x14.ac 16.63043 59.89443 52.20 23.05
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.62990 59.89507 51.97 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 16.62962 59.89515 51.94 0
+OBJECT_SHARED Models/lib/farm19x12.ac 16.64944 59.89859 56.43 29.45
+# END dsf2stg

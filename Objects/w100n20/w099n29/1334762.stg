@@ -5,9 +5,9 @@ OBJECT_SHARED Models/Misc/picnic_table.ac -98.45209 29.73774 326.79 347.01
 OBJECT_SHARED Models/lib/SmHangar.ac -98.45281 29.73696 326.69 170.54
 OBJECT_SHARED Models/lib/SmHangar.ac -98.45292 29.73645 326.35 170.54
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.45221 29.73796 326.91 79.99
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.45213 29.73782 326.83 348.64
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.45213 29.73782 326.83 78.64
 OBJECT_SHARED Models/lib/4space_wStop.ac -98.45218 29.73796 326.91 350
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.45190 29.73765 326.76 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.45190 29.73765 326.76 90
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.45235 29.73903 327.33 0
 OBJECT_SHARED Models/lib/4space_wStop.ac -98.45221 29.73785 326.87 350
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.45163 29.73892 326.92 0

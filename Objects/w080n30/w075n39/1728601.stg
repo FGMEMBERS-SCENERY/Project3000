@@ -27,18 +27,13 @@ OBJECT_SHARED Models/lib/MedHangar.ac -74.57330 39.44770 16.70 17.26
 OBJECT_SHARED Models/lib/MedHangar.ac -74.57350 39.44824 16.96 17.26
 OBJECT_SHARED Models/lib/office40x25.ac -74.56465 39.44870 16.60 63.89
 OBJECT_SHARED Models/lib/office32x25.ac -74.56503 39.44879 16.68 151.76
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -74.56480 39.44696 -69.22 0
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -74.56467 39.44716 -69.10 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -74.56480 39.44696 -79.22 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -74.56467 39.44716 -79.10 0
 OBJECT_SHARED Models/lib/FireStationLg.ac -74.56978 39.44966 17.40 62.56
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.57239 39.45178 17.96 229.65
-#OBJECT_SHARED Models/lib/jetway_e16m.ac -74.57346 39.45092 17.88 143.65
-#OBJECT_SHARED Models/lib/jetway_e10m.ac -74.57350 39.45084 17.86 214.8
-#OBJECT_SHARED Models/lib/jetway_e16m.ac -74.57360 39.45079 17.86 157.12
-#OBJECT_SHARED Models/lib/jetway_e10m.ac -74.57333 39.45102 17.89 90
-#OBJECT_SHARED Models/lib/jetway_e16m.ac -74.57299 39.45120 17.91 90
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.57378 39.45084 17.87 267.7
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.57361 39.45101 17.90 256.93
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.57333 39.45110 17.91 202
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.57299 39.45135 17.95 202
-#OBJECT_SHARED Models/lib/jetway_e14m.ac -74.57231 39.45167 17.95 120.03
+OBJECT_SHARED Models/lib/jetway_e16m.ac -74.57346 39.45092 17.88 143.65
+OBJECT_SHARED Models/lib/jetway_e10m.ac -74.57350 39.45084 17.86 214.8
+OBJECT_SHARED Models/lib/jetway_e16m.ac -74.57360 39.45079 17.86 157.12
+OBJECT_SHARED Models/lib/jetway_e10m.ac -74.57333 39.45102 17.89 90
+OBJECT_SHARED Models/lib/jetway_e16m.ac -74.57299 39.45120 17.91 90
+OBJECT_SHARED Models/lib/jetway_e14m.ac -74.57231 39.45167 17.95 120.03
 # END dsf2stg

@@ -2,6 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 143.65700 -6.14269 1737.39 39.81
+OBJECT_SHARED Models/lib/admin31x12.ac 143.65761 -6.14319 1737.82 185.97
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 143.65720 -6.14283 1737.08 4.82001
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 143.65740 -6.14339 1735.79 274.75
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 143.65740 -6.14339 1735.79 94.75
 # END dsf2stg

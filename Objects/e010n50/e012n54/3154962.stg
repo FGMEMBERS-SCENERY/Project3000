@@ -134,9 +134,9 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.71572 54.33530 5.42 282.99
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.71554 54.33533 5.24 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.71507 54.33575 4.49 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.71517 54.33578 4.54 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.71653 54.33618 4.77 0.480011
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.71653 54.33618 4.77 180.48
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.71346 54.33651 2.19 268.28
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.71340 54.33667 1.92 267.61
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.71340 54.33667 1.92 87.61
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 12.71433 54.33627 3.13 230.29
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml 12.71568 54.33579 5.07 0
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml 12.71571 54.33578 5.07 0
@@ -154,9 +154,10 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac 12.71676 54.33587 5.00 9
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 12.71604 54.33576 5.13 91.41
 OBJECT_SHARED Models/lib/stack_of_cones.ac 12.71464 54.33617 3.55 90
 OBJECT_SHARED Models/lib/stack_of_cones.ac 12.71332 54.33620 2.32 249.15
+OBJECT_SHARED Models/lib/propane-tank.ac 12.71740 54.33578 5.62 92.95
 OBJECT_SHARED Models/lib/watertank3x1.ac 12.71700 54.33587 5.10 0.519989
 OBJECT_SHARED Models/lib/watertank3x1.ac 12.71681 54.33626 4.63 270
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.71674 54.33635 4.55 269.51
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.71674 54.33635 4.55 359.51
 OBJECT_SHARED Models/lib/SmHangar.ac 12.71317 54.33608 2.33 269.29
 OBJECT_SHARED Models/lib/SmHangar.ac 12.71616 54.33579 5.16 271.03
 OBJECT_SHARED Models/lib/SmHangar.ac 12.71633 54.33579 5.16 271.03

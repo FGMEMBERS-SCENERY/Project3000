@@ -337,7 +337,11 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac -46.30500 -23.93194 0.00 140
 OBJECT_SHARED Models/Transport/hatchback_red.ac -46.30522 -23.93203 -0.00 225
 OBJECT_SHARED Models/Transport/hatchback_black.ac -46.30506 -23.93211 0.00 135
 OBJECT_SHARED Models/lib/cars10.ac -46.30424 -23.93347 -0.00 160
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -46.30493 -23.92300 -0.01 30
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -46.30667 -23.92364 -0.00 350
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -46.30861 -23.92258 -0.00 220
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -46.30881 -23.92337 -0.00 140
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -46.30686 -23.92250 -0.01 60
+OBJECT_SHARED Models/lib/fuel-truck.xml -46.30493 -23.92300 -0.01 30
 OBJECT_SHARED Models/lib/office6x12.ac -46.30552 -23.93110 -0.00 189.29
 OBJECT_SHARED Models/lib/lamp10m.xml -46.30451 -23.93330 -0.00 160
 OBJECT_SHARED Models/lib/watertank3x1.ac -46.30378 -23.93031 4.72 25
@@ -345,6 +349,8 @@ OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -46.30530 -23.92977 -
 OBJECT_SHARED Models/lib/transformer3x3.ac -46.30398 -23.93024 5.18 120
 OBJECT_SHARED Models/lib/office32x25.ac -46.30564 -23.93052 -0.00 32.01
 OBJECT_SHARED Models/lib/transformer3x3.ac -46.30413 -23.93350 3.50 337
+OBJECT_SHARED Models/lib/industrial13x24.ac -46.30453 -23.93319 -0.00 60
+OBJECT_SHARED Models/lib/admin31x12.ac -46.30422 -23.93329 0.00 69
 OBJECT_SHARED Models/lib/shed8x10.ac -46.30433 -23.93267 -0.00 29.36
 OBJECT_SHARED Models/Trees/billboard-tree.xml -46.30273 -23.92911 1.74 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -46.30415 -23.92836 -0.00 0
@@ -382,7 +388,7 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml -46.30377 -23.92955 4.86 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -46.30381 -23.92949 4.83 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -46.30371 -23.92962 4.81 0
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -46.30551 -23.92347 -0.01 210
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.30605 -23.92369 -0.01 210
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -46.30605 -23.92369 -0.01 30
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -46.30616 -23.92380 -0.01 210
 OBJECT_SHARED Models/lib/canopy18x8.ac -46.30499 -23.92296 -0.01 300
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -46.30566 -23.92395 -0.01 120
@@ -392,9 +398,9 @@ OBJECT_SHARED Models/Airport/tower_small_airfield.xml -46.30556 -23.92409 -0.01 
 OBJECT_SHARED Models/lib/office3x10.ac -46.30481 -23.92299 -0.01 212
 OBJECT_SHARED Models/lib/office32x25n.ac -46.30638 -23.92488 -0.01 120
 OBJECT_SHARED Models/lib/office6x12.ac -46.30634 -23.92497 -0.01 120
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -46.30583 -23.92350 -0.01 28
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -46.30583 -23.92350 -0.01 118
 OBJECT_SHARED Models/lib/HorizTanks2.ac -46.30502 -23.92311 -0.01 120
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -46.30536 -23.92421 -0.01 120
+OBJECT_SHARED Models/lib/fuel-truck.xml -46.30536 -23.92421 -0.01 120
 OBJECT_SHARED Models/lib/NoParkStripes.xml -46.30627 -23.92388 -0.01 30
 OBJECT_SHARED Models/lib/lamp10m.xml -46.30480 -23.92384 -0.01 30
 OBJECT_SHARED Models/lib/lamp10m.xml -46.30547 -23.92330 -0.01 210
@@ -412,5 +418,5 @@ OBJECT_SHARED Models/lib/lamp10m.xml -46.30710 -23.92404 -0.00 -60
 OBJECT_SHARED Models/lib/lamp10m.xml -46.30644 -23.92502 -0.00 -60
 OBJECT_SHARED Models/lib/lamp10m.xml -46.30658 -23.92448 -0.01 -60
 OBJECT_SHARED Models/lib/lamp10m.xml -46.30684 -23.92462 -0.01 -60
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -46.30547 -23.92537 -0.01 300
+OBJECT_SHARED Models/lib/citation.ac -46.30547 -23.92537 -0.01 300
 # END dsf2stg

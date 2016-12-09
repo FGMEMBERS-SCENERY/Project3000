@@ -2,10 +2,10 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -86.32634 32.53082 56.90 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.32612 32.53075 56.81 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.32612 32.53075 56.81 180
 OBJECT_SHARED Models/lib/MedHangar.ac -86.32645 32.53093 56.96 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.33244 32.53053 58.83 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.33264 32.53055 58.93 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.33244 32.53053 58.83 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.33264 32.53055 58.93 180
 OBJECT_SHARED Models/lib/fboModern1.ac -86.33314 32.53055 59.43 90
 OBJECT_SHARED Models/lib/MedHangar.ac -86.33252 32.53064 58.91 90
 OBJECT_SHARED Models/lib/fboModern1.ac -86.33167 32.53049 58.55 90

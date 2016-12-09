@@ -96,10 +96,10 @@ OBJECT_SHARED Models/lib/LongRow.ac 9.29336 51.11615 168.79 87.38
 OBJECT_SHARED Models/lib/LongRow.ac 9.29331 51.11537 168.65 87.38
 OBJECT_SHARED Models/lib/office32x25n.ac 9.28338 51.12068 172.46 67.38
 OBJECT_SHARED Models/lib/4_spaces_dual.ac 9.28497 51.12001 170.67 158.2
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.28592 51.11908 169.98 70.46
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.28931 51.11897 170.81 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.29314 51.11615 168.91 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.29366 51.11606 168.62 178.78
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.28592 51.11908 169.98 70.46
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.28931 51.11897 170.81 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.29314 51.11615 168.91 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.29366 51.11606 168.62 178.78
 OBJECT_SHARED Models/lib/container6.ac 9.29514 51.11819 168.66 296.83
 OBJECT_SHARED Models/lib/container6.ac 9.29525 51.11823 168.58 296.83
 OBJECT_SHARED Models/lib/container6.ac 9.29521 51.11808 168.53 296.83

@@ -10,7 +10,7 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 11.46266 50.13345 507.09 90
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.46224 50.13345 507.35 95.65
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.46281 50.13341 507.21 358.55
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.46281 50.13333 507.52 182.48
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.46393 50.13369 505.64 58.17
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.46393 50.13369 505.64 238.17
 OBJECT_SHARED Models/lib/coal_pile.ac 11.45941 50.13396 505.93 226.15
 OBJECT_SHARED Models/lib/coal_pile.ac 11.45952 50.13396 506.06 90
 OBJECT_SHARED Models/lib/coal_pile.ac 11.45938 50.13401 505.93 134.31
@@ -47,7 +47,7 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 11.46390 50.13340 505.78 184.32
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.46375 50.13340 505.88 184.32
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.46395 50.13341 505.78 183.68
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.46421 50.13341 505.57 3.98001
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.46267 50.13383 506.89 6.42001
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.46267 50.13383 506.89 186.42
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.46506 50.13433 504.06 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.46390 50.13385 505.55 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 11.46308 50.13381 506.46 45
@@ -76,6 +76,7 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 11.46435 50.13365 505.10 110.97
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.46448 50.13410 504.80 2.51001
 OBJECT_SHARED Models/lib/transformer3x3.ac 11.46370 50.13440 503.87 90.63
 OBJECT_SHARED Models/lib/transformer3x3.ac 11.46372 50.13433 504.62 91.31
+OBJECT_SHARED Models/lib/industrial13x24.ac 11.46259 50.13363 507.09 180
 OBJECT_SHARED Models/lib/office3x10.ac 11.46234 50.13371 507.37 270
 OBJECT_SHARED Models/lib/lamp10m.xml 11.46287 50.13337 507.01 -0.570007
 OBJECT_SHARED Models/lib/lamp10m.xml 11.46430 50.13360 505.25 90.57

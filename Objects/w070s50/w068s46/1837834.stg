@@ -34,7 +34,6 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -67.47069 -45.78930 52.97 333.44
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -67.47012 -45.78927 53.22 334.02
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -67.46872 -45.78921 53.02 328.96
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -67.46934 -45.78915 53.19 335.61
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -67.46929 -45.78930 53.34 179.13
-#OBJECT_SHARED Models/lib/jetway_e8m.ac -67.46929 -45.78936 53.42 92.37
+OBJECT_SHARED Models/lib/jetway_e8m.ac -67.46929 -45.78936 53.42 92.37
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -67.46929 -45.78938 53.42 94.51
 # END dsf2stg

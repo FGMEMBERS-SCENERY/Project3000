@@ -2,6 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/office32x25n.ac -116.41376 36.30129 622.00 285.36
+OBJECT_SHARED Models/lib/farm19x12.ac -116.41586 36.30277 623.07 12.05
 OBJECT_SHARED Models/lib/cars10.ac -116.41507 36.30084 622.30 14.77
 OBJECT_SHARED Models/Transport/hatchback_red.ac -116.41504 36.30110 622.27 107.88
 OBJECT_SHARED Models/Transport/hatchback_red.ac -116.41512 36.30135 622.25 284.2

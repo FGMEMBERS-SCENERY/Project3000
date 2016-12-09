@@ -9,12 +9,12 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 8.18307 52.48846 45.27 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.18314 52.48843 45.19 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.18314 52.48846 45.25 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 8.18455 52.48907 44.90 181.64
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18014 52.48885 45.76 255.72
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18353 52.48859 45.17 180
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18956 52.48815 43.92 92.54
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18951 52.48787 43.81 89.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.19011 52.48819 44.23 358.6
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.19037 52.48819 44.36 358.49
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18014 52.48885 45.76 75.72
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18353 52.48859 45.17 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18956 52.48815 43.92 272.54
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18951 52.48787 43.81 269.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.19011 52.48819 44.23 178.6
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.19037 52.48819 44.36 178.49
 OBJECT_SHARED Models/lib/MedHangar.ac 8.18989 52.48845 44.16 90
 OBJECT_SHARED Models/lib/MedHangar.ac 8.19030 52.48845 44.38 90
 OBJECT_SHARED Models/lib/office16x4n.ac 8.18480 52.48851 44.67 357.23
@@ -24,7 +24,7 @@ OBJECT_SHARED Models/lib/SmHangar.ac 8.18485 52.48906 44.75 0
 OBJECT_SHARED Models/lib/SmHangar.ac 8.18363 52.48930 45.32 90
 OBJECT_SHARED Models/lib/SmHangar.ac 8.18343 52.48893 45.38 0
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 8.18268 52.48873 45.51 268.39
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 8.18181 52.48984 -38.90 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 8.18181 52.48984 -48.90 0
 OBJECT_SHARED Models/lib/hangar81x16.ac 8.18195 52.48967 46.06 269.19
 OBJECT_SHARED Models/lib/hangar81x16.ac 8.18237 52.48871 45.57 90
 OBJECT_SHARED Models/lib/LongRow.ac 8.18140 52.48891 45.87 88.53
@@ -32,7 +32,7 @@ OBJECT_SHARED Models/lib/LongRow.ac 8.18140 52.48891 45.87 88.53
 OBJECT_SHARED Models/lib/LongRow.ac 8.18142 52.48914 45.96 88.53
 OBJECT_SHARED Models/lib/LongRow.ac 8.18077 52.48923 46.12 88.53
 OBJECT_SHARED Models/lib/LongRow.ac 8.18075 52.48896 46.01 88.53
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.18232 52.48859 45.53 179.6
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.18232 52.48859 45.53 269.6
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.18202 52.48996 46.04 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.18082 52.49015 46.35 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.18078 52.49004 46.38 0

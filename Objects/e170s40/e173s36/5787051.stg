@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91834 -35.26158 148.06 112.05
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91600 -35.26226 150.16 136.52
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91744 -35.26205 148.68 35.93
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91292 -35.26315 151.46 15.38
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91834 -35.26158 148.06 292.05
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91600 -35.26226 150.16 316.52
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91744 -35.26205 148.68 215.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.91292 -35.26315 151.46 195.38
 OBJECT_SHARED Models/lib/SmHangar.ac 173.91584 -35.26283 149.79 317.88
 OBJECT_SHARED Models/lib/shed8x10.ac 173.91148 -35.25947 150.45 193.85
 OBJECT_SHARED Models/lib/shed8x10.ac 173.91167 -35.25996 151.13 192.42
@@ -35,7 +35,7 @@ OBJECT_SHARED Models/lib/chariot2.ac 173.91175 -35.26290 151.20 49.88
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 173.91250 -35.26304 151.49 286.44
 OBJECT_SHARED Models/lib/stack_of_cones.ac 173.91179 -35.26301 151.19 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 173.91259 -35.26311 151.46 105.7
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 173.91254 -35.26301 151.49 196.18
+OBJECT_SHARED Models/lib/fuel-truck.xml 173.91254 -35.26301 151.49 196.18
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml 173.91183 -35.26316 151.16 0
 OBJECT_SHARED Models/lib/cars6.ac 173.91620 -35.26278 149.79 45.67
 OBJECT_SHARED Models/lib/cars14.ac 173.91215 -35.26389 150.94 231.3

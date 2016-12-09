@@ -8,11 +8,11 @@ OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -71.47816 -32.94516 131.37 -58.7
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -71.47831 -32.94550 132.17 -69.44
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -71.48222 -32.94977 136.34 358.33
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.47807 -32.95086 142.11 178.98
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.47735 -32.95150 136.59 97.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.47735 -32.95150 136.59 277.91
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.47844 -32.95207 138.41 281.59
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.48309 -32.95441 141.91 113.75
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.48324 -32.95534 142.65 15.64
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -71.48273 -32.95513 142.18 66.72
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.48324 -32.95534 142.65 195.64
+OBJECT_SHARED Models/lib/citation.ac -71.48273 -32.95513 142.18 66.72
 OBJECT_SHARED Models/lib/cars4.ac -71.47945 -32.94666 135.63 130
 OBJECT_SHARED Models/lib/cars7.ac -71.47739 -32.95048 142.09 128.2
 OBJECT_SHARED Models/Airport/egkk_oil.xml -71.49999 -32.93522 17.36 0

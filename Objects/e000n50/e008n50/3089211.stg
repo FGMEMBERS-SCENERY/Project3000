@@ -31,6 +31,7 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.81753 50.87781 245.88 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.81646 50.87743 246.33 315
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.81680 50.87755 246.48 0
 OBJECT_SHARED Models/lib/MedHangar.ac 8.81589 50.87670 246.94 144.8
+OBJECT_SHARED Models/lib/propane-tank.ac 8.81561 50.87655 246.76 144.29
 OBJECT_SHARED Models/lib/MedHangar.ac 8.81618 50.87696 246.89 144.8
 OBJECT_SHARED Models/lib/lamp10m.xml 8.81559 50.87659 246.49 152.53
 OBJECT_SHARED Models/lib/lamp10m.xml 8.81648 50.87711 247.33 63.44
@@ -39,8 +40,8 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 8.81648 50.87709 247.33 322.7
 OBJECT_SHARED Models/Transport/hatchback_red.ac 8.81542 50.87642 246.57 307.41
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.81653 50.87708 247.44 322.7
 OBJECT_SHARED Models/Misc/picnic_table.ac 8.81640 50.87711 247.16 322.7
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.81668 50.87693 248.23 55.17
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.81635 50.87656 249.06 60.8
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.81668 50.87693 248.23 145.17
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.81635 50.87656 249.06 240.8
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.81684 50.87764 246.13 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.81747 50.87768 246.12 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.81773 50.87766 245.84 0

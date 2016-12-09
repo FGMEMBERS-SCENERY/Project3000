@@ -43,9 +43,9 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.83201 49.79821 310.85 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.83187 49.79816 310.71 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.83208 49.79798 312.33 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.83210 49.79790 313.16 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.83551 49.79823 317.48 8.62
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.83551 49.79823 317.48 188.62
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.83423 49.79822 320.16 60.16
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.83319 49.79811 316.29 7.22604
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.83319 49.79811 316.29 187.226
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.83390 49.79815 319.10 97.09
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.83386 49.79815 319.03 96.48
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.83382 49.79814 318.96 98.97
@@ -56,7 +56,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.83321 49.79794 316.79 2
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.83300 49.79792 316.55 333.44
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.83352 49.79813 318.58 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.83347 49.79812 318.28 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.83297 49.79811 314.80 191.13
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.83297 49.79811 314.80 281.13
 OBJECT_SHARED Models/lib/cars4.ac 9.83279 49.79793 315.67 188.92
 OBJECT_SHARED Models/lib/cars6.ac 9.83256 49.79802 313.80 10.12
 OBJECT_SHARED Models/lib/lamp10m.xml 9.83395 49.79815 319.18 96.82

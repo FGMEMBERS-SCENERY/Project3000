@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -86.25022 34.23112 310.27 220.426
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.25002 34.23130 310.22 215.134
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.25002 34.23130 310.22 35.134
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -86.25102 34.23022 310.12 223.09
 OBJECT_SHARED Models/lib/shed8x10.ac -86.25288 34.22461 310.76 0
 OBJECT_SHARED Models/lib/shed8x10.ac -86.25301 34.22461 310.39 0
@@ -12,5 +12,5 @@ OBJECT_SHARED Models/lib/LongRow.ac -86.25050 34.22999 310.87 313.25
 OBJECT_SHARED Models/lib/LongRow.ac -86.25078 34.22979 310.67 313.25
 OBJECT_SHARED Models/lib/LongRow.ac -86.25107 34.22959 310.17 313.25
 OBJECT_SHARED Models/lib/LgMaint.ac -86.25176 34.22930 307.67 312.17
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -86.25295 34.22430 225.32 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -86.25295 34.22430 215.32 0
 # END dsf2stg

@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 136.22211 36.14042 -0.85 274.07
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 136.22211 36.14045 -0.85 274.07
+OBJECT_SHARED Models/lib/fuel-truck.xml 136.22225 36.13959 -0.85 94.07
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 136.22251 36.14080 -0.84 175.38
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 136.22267 36.13962 -0.84 3.94
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 136.22252 36.13939 -0.84 183.7
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 136.22267 36.13940 -0.84 187.8
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 136.22280 36.13940 -0.84 5.35998
+OBJECT_SHARED Models/lib/lamp10m.xml 136.22202 36.14040 -0.85 229.07
+OBJECT_SHARED Models/lib/lamp10m.xml 136.22203 36.13958 -0.85 319.07
+OBJECT_SHARED Models/lib/SmHangar.ac 136.22234 36.13940 -0.85 184.07
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 136.22226 36.13953 -0.85 274.07
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 136.22276 36.13931 -0.84 274.07
+# END dsf2stg

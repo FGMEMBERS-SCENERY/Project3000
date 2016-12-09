@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -83.63864 41.38704 204.57 344.48
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -83.63908 41.38705 204.69 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.63839 41.38720 204.53 91.3
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -83.63569 41.38659 203.15 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.63586 41.38655 203.22 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.63754 41.38580 204.09 271.32
+OBJECT_SHARED Models/lib/SmHangar.ac -83.63816 41.38819 204.49 90
+OBJECT_SHARED Models/lib/LongRow.ac -83.63896 41.38735 204.66 359.84
+OBJECT_SHARED Models/lib/LongRow.ac -83.63895 41.38766 204.65 0
+OBJECT_SHARED Models/lib/LongRow.ac -83.63896 41.38798 204.63 359.87
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -83.63590 41.38604 203.23 269.57
+OBJECT_SHARED Models/lib/lamp10m.xml -83.63607 41.38595 203.31 94.4
+OBJECT_SHARED Models/lib/lamp10m.xml -83.63618 41.38564 203.34 58.57
+OBJECT_SHARED Models/lib/lamp10m.xml -83.63589 41.38563 203.30 305.84
+OBJECT_SHARED Models/lib/lamp10m.xml -83.63603 41.38570 203.27 357.88
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -83.63561 41.38560 203.28 180
+OBJECT_SHARED Models/lib/4space_wStop.ac -83.63616 41.38588 203.34 90
+OBJECT_SHARED Models/lib/6space_wStop.ac -83.63598 41.38588 203.27 88.34
+OBJECT_SHARED Models/lib/4space_wStop.ac -83.63603 41.38573 203.27 269.23
+OBJECT_SHARED Models/lib/4space_wStop.ac -83.63568 41.38577 203.15 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -83.63653 41.38563 203.46 171.76
+OBJECT_SHARED Models/lib/cars4.ac -83.63643 41.38574 203.42 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -83.63769 41.38557 204.10 352.6
+OBJECT_SHARED Models/Transport/hatchback_red.ac -83.63781 41.38557 204.21 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -83.63785 41.38558 204.31 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -83.63795 41.38557 204.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.63693 41.38555 203.61 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.63678 41.38553 203.57 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.63610 41.38561 203.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.63599 41.38558 203.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.63620 41.38596 203.34 0
+# END dsf2stg

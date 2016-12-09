@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/chariot3curve.ac -73.80852 7.02495 122.64 46.3972
+OBJECT_SHARED Models/lib/RampParking.xml -73.80854 7.02482 122.35 238.195
+OBJECT_SHARED Models/lib/RampParking.xml -73.80834 7.02515 122.45 240.049
+OBJECT_SHARED Models/lib/lamp10m.xml -73.80838 7.02538 122.65 151.927
+OBJECT_SHARED Models/lib/lamp10m.xml -73.80852 7.02514 122.69 149.036
+OBJECT_SHARED Models/lib/lamp10m.xml -73.80862 7.02496 122.73 153.435
+OBJECT_SHARED Models/lib/lamp10m.xml -73.80874 7.02477 122.78 150.945
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -73.80825 7.02523 122.31 270
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -73.80849 7.02494 122.62 213.69
+OBJECT_SHARED Models/lib/lamp10m.xml -73.80866 7.02385 120.84 245.556
+OBJECT_SHARED Models/lib/lamp10m.xml -73.80878 7.02391 121.29 246.038
+OBJECT_SHARED Models/lib/lamp10m.xml -73.80890 7.02399 121.78 241.39
+OBJECT_SHARED Models/lib/lamp10m.xml -73.80890 7.02449 122.87 157.166
+OBJECT_SHARED Models/lib/lamp10m.xml -73.80896 7.02442 122.92 155.772
+OBJECT_SHARED Models/lib/chariot3curve.ac -73.80833 7.02525 122.58 35.1343
+# END dsf2stg

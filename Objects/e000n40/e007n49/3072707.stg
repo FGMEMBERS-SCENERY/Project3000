@@ -35,7 +35,7 @@ OBJECT_SHARED Models/lib/cone.ac 7.99081 49.03111 149.84 180
 OBJECT_SHARED Models/lib/cone.ac 7.99118 49.03089 148.95 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.99146 49.03097 148.73 101.53
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.99148 49.03090 148.80 102.68
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.99279 49.03160 148.44 285.26
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.99279 49.03160 148.44 105.26
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 7.99411 49.03148 149.19 23.03
 OBJECT_SHARED Models/lib/lamp10m.xml 7.99365 49.03138 148.87 205.64
 OBJECT_SHARED Models/lib/lamp10m.xml 7.99342 49.03133 149.07 202.87
@@ -50,8 +50,8 @@ OBJECT_SHARED Models/lib/lamp10m.xml 7.99002 49.03102 151.11 12.62
 OBJECT_SHARED Models/lib/lamp10m.xml 7.99027 49.03107 150.74 12.26
 OBJECT_SHARED Models/lib/lamp10m.xml 7.99055 49.03112 150.28 348.69
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 7.99132 49.03127 148.95 146.61
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.99060 49.03128 150.15 12.43
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.99133 49.03100 148.84 46.27
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.99060 49.03128 150.15 192.43
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.99133 49.03100 148.84 226.27
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.99504 49.03168 148.57 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.99591 49.03193 147.64 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.99626 49.03204 147.21 0

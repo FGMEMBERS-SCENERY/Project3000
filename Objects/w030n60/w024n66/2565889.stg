@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -23.14147 66.05557 5.07 205.73
+OBJECT_SHARED Models/lib/fuel-truck.xml -23.14147 66.05557 5.07 205.73
 OBJECT_SHARED Models/lib/cars4.ac -23.14347 66.05485 4.72 118.202
 OBJECT_SHARED Models/lib/cars7.ac -23.14151 66.05527 5.43 116.232
 OBJECT_SHARED Models/lib/cars7.ac -23.14228 66.05514 5.15 118.886
@@ -15,6 +15,7 @@ OBJECT_SHARED Models/Airport/cargoim.xml -23.14257 66.05544 4.66 0
 OBJECT_SHARED Models/Airport/cargobox.xml -23.14248 66.05547 4.58 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -23.14174 66.05560 4.95 0
 OBJECT_SHARED Models/lib/SmHangar.ac -23.14491 66.05441 4.02 296.16
+OBJECT_SHARED Models/lib/propane-tank.ac -23.14555 66.05458 3.41 116.38
 OBJECT_SHARED Models/lib/lamp10m.xml -23.14571 66.05463 3.34 299.56
 OBJECT_SHARED Models/lib/lamp10m.xml -23.14465 66.05449 4.10 351.54
 OBJECT_SHARED Models/lib/lamp10m.xml -23.14311 66.05529 4.46 26.57

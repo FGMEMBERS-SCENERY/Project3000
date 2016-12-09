@@ -1,7 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/industrial13x24.ac 19.73572 48.33732 211.15 48.81
 OBJECT_SHARED Models/Misc/6barrels.ac 19.73365 48.33862 210.74 0
+OBJECT_SHARED Models/lib/industrial15x22.ac 19.73441 48.33820 211.07 137.62
 OBJECT_SHARED Models/lib/MedHangar.ac 19.73345 48.33874 211.00 227.2
 OBJECT_SHARED Models/lib/office40x25.ac 19.73424 48.33771 212.26 318.48
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 19.73642 48.33743 210.07 52.65
@@ -27,9 +29,9 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.73482 48.33830 211.98 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.73480 48.33823 212.35 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.73471 48.33830 211.66 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.73465 48.33835 211.29 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.73407 48.33920 210.96 136.85
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.73407 48.33920 210.96 316.85
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 19.73504 48.33796 212.41 226.74
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 19.73436 48.33858 211.23 0
+OBJECT_SHARED Models/lib/citation.ac 19.73436 48.33858 211.23 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.73354 48.33969 212.27 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.73351 48.33961 212.14 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 19.73350 48.33953 212.01 0

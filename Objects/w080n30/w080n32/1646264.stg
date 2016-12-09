@@ -4,17 +4,18 @@
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.78105 32.89815 1.61 197.745
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.78146 32.89855 1.08 194.381
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -79.78134 32.89843 1.21 12.875
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.78120 32.89846 1.20 18.4349
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.78111 32.89838 1.36 196.074
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.78128 32.89871 1.07 14.9586
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.78120 32.89846 1.20 198.435
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.78111 32.89838 1.36 16.0735
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.78128 32.89871 1.07 194.959
+OBJECT_SHARED Models/lib/admin31x12.ac -79.78074 32.89803 1.90 16.3136
 OBJECT_SHARED Models/lib/SmHangar.ac -79.78093 32.89825 1.68 15.3988
 OBJECT_SHARED Models/lib/cars14.ac -79.78044 32.89825 1.86 105.124
 OBJECT_SHARED Models/lib/cars14.ac -79.78037 32.89798 1.87 284.97
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.78028 32.89815 1.86 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.78042 32.89811 1.87 194.184
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.78053 32.89809 1.88 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -79.78101 32.89867 1.18 274.88
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -79.78098 32.89861 1.26 285.753
+OBJECT_SHARED Models/lib/fuel-truck.xml -79.78101 32.89867 1.18 274.88
+OBJECT_SHARED Models/lib/fuel-truck.xml -79.78098 32.89861 1.26 285.753
 OBJECT_SHARED Models/lib/lamp10m.xml -79.77964 32.89650 1.84 16.0664
 OBJECT_SHARED Models/lib/lamp10m.xml -79.77973 32.89675 1.84 15.5242
 OBJECT_SHARED Models/lib/lamp10m.xml -79.77981 32.89697 1.85 14.2069
@@ -30,5 +31,6 @@ OBJECT_SHARED Models/Misc/picnic_table.ac -79.78085 32.89815 1.77 285.322
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.78069 32.89811 1.90 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.78080 32.89799 1.92 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.78082 32.89805 1.84 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.78075 32.89781 1.91 15.6978
 OBJECT_SHARED Models/Misc/picnic_table.ac -79.78084 32.89809 1.84 197.479
 # END dsf2stg

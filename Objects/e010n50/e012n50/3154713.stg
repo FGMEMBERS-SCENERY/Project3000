@@ -8,7 +8,7 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 12.37903 50.49726 569.35 114.35
 OBJECT_SHARED Models/Transport/hatchback_red.ac 12.37897 50.49728 569.35 113.09
 OBJECT_SHARED Models/Transport/hatchback_red.ac 12.37892 50.49729 569.25 123.55
 OBJECT_SHARED Models/Transport/hatchback_red.ac 12.37886 50.49731 569.25 111.46
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.37898 50.49807 568.06 235.52
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.37898 50.49807 568.06 55.52
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.37930 50.49733 570.08 149.04
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.37880 50.49663 571.07 246.75
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.37877 50.49660 571.07 238.87
@@ -25,7 +25,7 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac 12.37978 50.49544 573.69 66.27
 OBJECT_SHARED Models/Transport/hatchback_red.ac 12.37918 50.49709 570.12 62.43
 OBJECT_SHARED Models/Transport/hatchback_red.ac 12.37916 50.49707 570.12 52.07
 OBJECT_SHARED Models/Transport/hatchback_red.ac 12.37913 50.49704 570.29 58.72
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.37853 50.49673 570.48 72.76
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.37853 50.49673 570.48 252.76
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 12.37880 50.49772 568.53 25.74
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.37871 50.49673 570.69 0
 OBJECT_SHARED Models/Misc/picnic_table.ac 12.37863 50.49665 570.59 339.61
@@ -49,6 +49,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml 12.37891 50.49773 568.87 302.61
 OBJECT_SHARED Models/lib/lamp10m.xml 12.37962 50.49750 570.88 3.54999
 OBJECT_SHARED Models/lib/lamp10m.xml 12.37953 50.49738 570.82 127.66
 OBJECT_SHARED Models/lib/lamp10m.xml 12.37882 50.49762 568.49 175.97
+OBJECT_SHARED Models/lib/farm19x12.ac 12.37896 50.49694 570.46 62.83
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 12.37869 50.49708 569.59 333.11
 OBJECT_SHARED Models/lib/office3x10.ac 12.37960 50.49745 571.16 333.78
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.37878 50.49670 570.80 0

@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -82.54093 35.44250 -0.70 18.78
+OBJECT_SHARED Models/lib/fboModern1.ac -82.54241 35.44348 -0.70 110
+OBJECT_SHARED Models/lib/RampParking.xml -82.53835 35.43439 -0.68 110
+OBJECT_SHARED Models/lib/RampParking.xml -82.53874 35.43526 -0.66 110
+OBJECT_SHARED Models/lib/RampParking.xml -82.53823 35.43413 -0.69 110
+OBJECT_SHARED Models/lib/RampParking.xml -82.53863 35.43500 -0.67 110
+OBJECT_SHARED Models/lib/RampParking.xml -82.53886 35.43552 -0.65 110
+OBJECT_SHARED Models/lib/FireStationLg.ac -82.53837 35.43654 -0.63 290.21
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -82.54093 35.44325 -0.71 110.09
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -82.54112 35.44370 -0.72 -69.4
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.54110 35.44346 -0.71 20.84
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -82.54152 35.44377 -0.71 19.99
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -82.53768 35.43332 -0.71 110.17
+OBJECT_SHARED Models/lib/hangar81x16.ac -82.53933 35.44072 -0.68 110
+OBJECT_SHARED Models/lib/LongRow.ac -82.53887 35.43982 -0.66 110
+OBJECT_SHARED Models/lib/LongRow.ac -82.53987 35.44079 -0.67 110
+OBJECT_SHARED Models/lib/SmHangar.ac -82.53806 35.43763 -0.60 21.13
+OBJECT_SHARED Models/lib/SmHangar.ac -82.53817 35.43788 -0.61 21.13
+OBJECT_SHARED Models/lib/MedHangar.ac -82.53858 35.43748 -0.60 290
+OBJECT_SHARED Models/lib/MedHangar.ac -82.53900 35.43833 -0.61 110
+OBJECT_SHARED Models/lib/MedHangar.ac -82.54172 35.44206 -0.68 21.13
+OBJECT_SHARED Models/lib/MedHangar.ac -82.54195 35.44255 -0.68 21.13
+OBJECT_SHARED Models/lib/MedHangar.ac -82.53827 35.43847 -0.63 21.13
+OBJECT_SHARED Models/lib/office112x50.ac -82.53724 35.42974 -0.78 20.95
+OBJECT_SHARED Models/lib/lamp10m.xml -82.54280 35.44346 -0.69 110
+OBJECT_SHARED Models/lib/lamp10m.xml -82.54227 35.44362 -0.70 110
+OBJECT_SHARED Models/lib/lamp10m.xml -82.54108 35.44347 -0.71 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.54199 35.44270 -0.69 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.54183 35.44238 -0.68 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.54175 35.44220 -0.68 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.54160 35.44188 -0.68 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53840 35.43750 -0.60 -70
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53879 35.43739 -0.60 -70
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53917 35.43830 -0.61 110
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53877 35.43842 -0.62 110
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53831 35.43862 -0.63 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53816 35.43828 -0.62 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53713 35.42977 -0.78 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53703 35.42954 -0.79 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53693 35.42933 -0.79 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53730 35.43012 -0.78 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53795 35.43422 -0.69 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53807 35.43447 -0.68 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53841 35.43507 -0.66 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53852 35.43533 -0.66 20
+OBJECT_SHARED Models/lib/lamp10m.xml -82.53864 35.43559 -0.65 20
+# END dsf2stg

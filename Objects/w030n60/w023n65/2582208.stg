@@ -6,7 +6,7 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac -22.75562 65.05984 1.62 137.49
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -22.75560 65.05977 1.62 138.7
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -22.75498 65.06004 2.12 36.8873
 OBJECT_SHARED Models/lib/stack_of_cones.ac -22.75559 65.05998 2.00 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -22.75538 65.06063 2.10 306.44
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -22.75538 65.06063 2.10 36.44
 OBJECT_SHARED Models/lib/lamp10m.xml -22.75654 65.06012 1.66 -54.2
 OBJECT_SHARED Models/Airport/cargobox.xml -22.75584 65.05986 1.91 0
 OBJECT_SHARED Models/Airport/cargoip.xml -22.75586 65.05985 1.86 0

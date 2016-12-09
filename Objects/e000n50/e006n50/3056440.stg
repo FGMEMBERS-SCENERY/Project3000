@@ -27,6 +27,7 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 6.04440 50.95631 87.25 0
 OBJECT_SHARED Models/lib/cars6.ac 6.04421 50.95609 87.33 180.48
 OBJECT_SHARED Models/lib/cars10.ac 6.04601 50.95685 86.47 178.65
 OBJECT_SHARED Models/lib/cars4.ac 6.04780 50.95820 85.33 1.33
+OBJECT_SHARED Models/lib/admin31x12.ac 6.04746 50.95816 84.91 270.27
 OBJECT_SHARED Models/lib/office32x25.ac 6.04682 50.95718 86.43 1.36
 OBJECT_SHARED Models/lib/office65x50.ac 6.04760 50.95587 89.82 180
 OBJECT_SHARED Models/lib/FireStationLg.ac 6.03937 50.95777 83.28 89.81
@@ -99,10 +100,10 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac 6.05471 50.95741 91.20 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 6.03852 50.95758 83.17 348.69
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 6.03572 50.95802 78.66 270
 OBJECT_SHARED Models/Aircraft/B747.xml 6.03631 50.95761 79.16 0.330002
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 6.05391 50.95734 91.28 180
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 6.04600 50.95779 84.74 179.1
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 6.04311 50.95766 82.69 179.95
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 6.03975 50.95793 83.84 269.31
+OBJECT_SHARED Models/lib/fuel-truck.xml 6.05391 50.95734 91.28 180
+OBJECT_SHARED Models/lib/fuel-truck.xml 6.04600 50.95779 84.74 179.1
+OBJECT_SHARED Models/lib/fuel-truck.xml 6.04311 50.95766 82.69 179.95
+OBJECT_SHARED Models/lib/fuel-truck.xml 6.03975 50.95793 83.84 269.31
 OBJECT_SHARED Models/lib/lamp10m.xml 6.03490 50.96426 76.03 2.25
 OBJECT_SHARED Models/lib/lamp10m.xml 6.03412 50.96464 75.15 92.34
 OBJECT_SHARED Models/lib/lamp10m.xml 6.03413 50.96383 74.08 270

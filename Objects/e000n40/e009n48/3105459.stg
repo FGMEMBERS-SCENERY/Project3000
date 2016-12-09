@@ -1,22 +1,23 @@
 # dsf2stg
 # do not edit below this line
 #
+OBJECT_SHARED Models/lib/industrial15x22.ac 9.93048 48.80205 434.28 168.44
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.93122 48.80264 433.84 198.56
 OBJECT_SHARED Models/lib/LongRow.ac 9.92917 48.80253 432.64 348.5
 OBJECT_SHARED Models/lib/SmHangar.ac 9.92816 48.80239 431.50 282.97
 OBJECT_SHARED Models/lib/MedHangar.ac 9.92800 48.80230 431.34 282.6
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 9.92819 48.80186 431.82 11.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.93021 48.80283 433.16 176.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.93021 48.80283 433.16 356.19
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.92850 48.80251 431.86 259.84
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.93007 48.80260 433.30 351.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.92939 48.80287 432.36 173.96
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.92939 48.80287 432.36 353.96
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.93158 48.80305 433.33 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.93027 48.80227 433.81 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.92879 48.80229 432.40 77.99
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.92842 48.80244 431.85 79.11
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.92907 48.80254 432.55 77.86
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.93036 48.80236 433.75 104.47
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.93047 48.80282 433.39 19.44
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.93047 48.80282 433.39 109.44
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.93154 48.80301 433.44 270.97
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.93150 48.80301 433.43 272.49
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.93146 48.80301 433.43 344.96

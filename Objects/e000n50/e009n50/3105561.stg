@@ -11,6 +11,7 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac 9.43995 50.47588 477.99 191.31
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.44083 50.47578 478.39 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.44059 50.47586 478.28 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.44031 50.47609 478.17 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.44024 50.47581 478.11 191.02
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.44001 50.47566 478.01 278.88
+OBJECT_SHARED Models/lib/farm19x12.ac 9.44044 50.47608 478.24 100.97
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.44024 50.47581 478.11 11.02
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.44001 50.47566 478.01 8.88
 # END dsf2stg

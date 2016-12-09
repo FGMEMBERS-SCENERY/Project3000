@@ -2,8 +2,8 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 7.11749 49.21890 319.20 73.61
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.11030 49.21787 317.44 214.92
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.11044 49.21793 317.50 183.95
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.11030 49.21787 317.44 34.92
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.11044 49.21793 317.50 3.95
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 7.11355 49.21853 318.32 15.08
 OBJECT_SHARED Models/Aircraft/D328_services.xml 7.11240 49.21832 318.02 103.47
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.12124 49.21744 319.36 206.56
@@ -132,9 +132,9 @@ OBJECT_SHARED Models/lib/office32x25n.ac 7.11587 49.22136 319.76 14.31
 OBJECT_SHARED Models/lib/LongRow.ac 7.11695 49.21929 319.06 338.84
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.11248 49.21939 317.56 203.69
 OBJECT_SHARED Models/lib/cars10.ac 7.11075 49.21962 316.84 32.96
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 7.10792 49.21658 317.09 275.02
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 7.10806 49.21731 316.77 274.81
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 7.10920 49.21757 317.14 121.43
+OBJECT_SHARED Models/lib/fuel-truck.xml 7.10792 49.21658 317.09 275.02
+OBJECT_SHARED Models/lib/fuel-truck.xml 7.10806 49.21731 316.77 274.81
+OBJECT_SHARED Models/lib/fuel-truck.xml 7.10920 49.21757 317.14 121.43
 OBJECT_SHARED Models/Transport/Norberttruck.xml 7.10895 49.21745 317.09 33.83
 OBJECT_SHARED Models/Transport/Norberttruck.xml 7.10918 49.21850 316.58 17.34
 OBJECT_SHARED Models/Transport/Norberttruck.xml 7.10915 49.21856 316.50 17.34

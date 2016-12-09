@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 20.50477 38.11911 20.77 302.83
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 20.50484 38.11910 20.77 305.4
+OBJECT_SHARED Models/lib/fuel-truck.xml 20.50477 38.11911 20.77 302.83
+OBJECT_SHARED Models/lib/fuel-truck.xml 20.50484 38.11910 20.77 305.4
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 20.50459 38.11921 18.88 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 20.50446 38.11936 18.42 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 20.50433 38.11949 18.29 0
@@ -43,5 +43,5 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 20.50484 38.11865 20.28 165.
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 20.50434 38.11922 17.90 166.09
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 20.50296 38.11959 16.72 213.21
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 20.50275 38.11947 16.20 215.22
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 20.50531 38.11836 20.69 33.98
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 20.50531 38.11836 20.69 213.98
 # END dsf2stg

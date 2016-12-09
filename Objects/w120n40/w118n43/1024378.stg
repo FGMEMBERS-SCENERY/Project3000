@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -117.25033 43.96656 685.22 267.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -117.25033 43.96642 685.24 271.51
+OBJECT_SHARED Models/lib/SmHangar.ac -117.25051 43.96680 685.26 359.53
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25006 43.96637 685.24 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25017 43.96684 685.19 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25058 43.96739 685.19 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -117.25153 43.96703 685.30 -89.76
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -117.25097 43.96718 590.21 0
+# END dsf2stg

@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.03995 24.73010 1.11 291.48
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.03990 24.73004 1.11 291.48
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.03995 24.73010 1.11 291.48
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.03990 24.73004 1.11 291.48
 OBJECT_SHARED Models/lib/lamp10m.xml -81.04357 24.72785 0.97 -66.5
 OBJECT_SHARED Models/lib/lamp10m.xml -81.04472 24.72745 0.97 -66.5
 OBJECT_SHARED Models/lib/lamp10m.xml -81.04571 24.72698 0.99 -66.5

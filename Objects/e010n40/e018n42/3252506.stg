@@ -21,7 +21,7 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac 18.71927 42.41034 4.35 135
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 18.71899 42.41038 4.08 320.195
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 18.71725 42.41203 2.83 135.001
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 18.71730 42.41196 2.83 144.463
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 18.71914 42.41022 4.15 312.358
+OBJECT_SHARED Models/lib/fuel-truck.xml 18.71914 42.41022 4.15 312.358
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 18.71696 42.41163 2.32 178.179
 OBJECT_SHARED Models/lib/caisses_group.ac 18.71733 42.41206 2.87 41.6831
 OBJECT_SHARED Models/lib/LuggCartGroup.ac 18.71929 42.41009 4.29 40.4623

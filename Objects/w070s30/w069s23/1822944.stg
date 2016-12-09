@@ -16,16 +16,13 @@ OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -68.91147 -22.49588 2278.61 35
 OBJECT_SHARED Models/lib/FireStationLg.ac -68.90264 -22.49573 2293.92 266
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -68.90832 -22.49505 2285.81 176
 OBJECT_SHARED Models/lib/MedHangar.ac -68.91016 -22.49540 2280.23 85.76
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -68.90718 -22.49577 2286.85 355.41
-#OBJECT_SHARED Models/lib/jetway_e16m.ac -68.90718 -22.49577 2286.85 85.36
+OBJECT_SHARED Models/lib/jetway_e16m.ac -68.90718 -22.49577 2286.85 85.36
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -68.90716 -22.49562 2287.18 85.22
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -68.90716 -22.49560 2287.18 85.64
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -68.90771 -22.49573 2286.05 21.06
-#OBJECT_SHARED Models/lib/jetway_e16m.ac -68.90771 -22.49573 2286.05 85.36
+OBJECT_SHARED Models/lib/jetway_e16m.ac -68.90771 -22.49573 2286.05 85.36
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -68.90770 -22.49558 2286.21 85.22
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -68.90770 -22.49556 2286.21 85.64
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -68.90805 -22.49571 2284.84 355.41
-#OBJECT_SHARED Models/lib/jetway_e16m.ac -68.90805 -22.49571 2284.84 85.36
+OBJECT_SHARED Models/lib/jetway_e16m.ac -68.90805 -22.49571 2284.84 85.36
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -68.90803 -22.49556 2285.31 85.22
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -68.90803 -22.49554 2285.70 85.64
 # END dsf2stg

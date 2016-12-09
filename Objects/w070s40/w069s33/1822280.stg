@@ -63,6 +63,5 @@ OBJECT_SHARED Models/lib/FireStationLg.ac -68.79720 -32.83410 707.05 282.79
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -68.79805 -32.82763 705.08 269.56
 OBJECT_SHARED Models/lib/farm19x12.ac -68.79827 -32.82600 704.49 359.19
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -68.79752 -32.82683 704.79 359.17
-#OBJECT_SHARED Models/lib/jetway_e4m.ac -68.79746 -32.82683 704.79 178.73
-#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -68.79746 -32.82683 704.79 91.42
+OBJECT_SHARED Models/lib/jetway_e4m.ac -68.79746 -32.82683 704.79 178.73
 # END dsf2stg

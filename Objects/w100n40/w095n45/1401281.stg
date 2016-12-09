@@ -7,7 +7,7 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac -94.50995 45.09587 346.21 124.3
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -94.50975 45.09643 346.12 304.29
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -94.51029 45.09642 345.66 132.88
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -94.50937 45.09614 346.62 128.22
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -94.51073 45.09659 345.28 208.98
+OBJECT_SHARED Models/lib/fuel-truck.xml -94.51073 45.09659 345.28 208.98
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.51106 45.09713 344.53 286.98
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.51103 45.09727 344.53 286.98
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -94.50955 45.09629 346.36 110.58

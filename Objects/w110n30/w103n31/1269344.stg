@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -102.90727 31.58281 -0.90 143.23
+OBJECT_SHARED Models/lib/LongRow.ac -102.90724 31.58323 -0.90 143.54
+OBJECT_SHARED Models/lib/SmHangar.ac -102.90427 31.58145 -0.91 108.62
+OBJECT_SHARED Models/lib/SmHangar.ac -102.90403 31.58156 -0.91 109.52
+OBJECT_SHARED Models/lib/hangar81x16.ac -102.90327 31.58122 -0.91 16.8
+OBJECT_SHARED Models/lib/MedHangar.ac -102.90224 31.58180 -0.90 17.98
+OBJECT_SHARED Models/lib/MedHangar.ac -102.90275 31.58189 -0.90 108.16
+OBJECT_SHARED Models/lib/SmHangar.ac -102.90360 31.58168 -0.91 106.7
+OBJECT_SHARED Models/lib/SmHangar.ac -102.90312 31.58179 -0.90 110.18
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -102.90786 31.58337 -0.90 141.14
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -102.90573 31.58183 -0.91 95.71
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -102.90592 31.58219 -0.91 325.43
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -102.90661 31.58246 -0.91 232
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90625 31.58283 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90635 31.58288 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90644 31.58295 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90653 31.58300 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90665 31.58306 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90577 31.58252 -0.91 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90587 31.58238 -0.91 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90581 31.58244 -0.91 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90629 31.58270 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90625 31.58274 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -102.90621 31.58278 -0.90 0
+OBJECT_SHARED Models/lib/cars2.ac -102.90620 31.58261 -0.91 145.56
+OBJECT_SHARED Models/lib/cars4.ac -102.90586 31.58252 -0.91 143.67
+OBJECT_SHARED Models/lib/lamp10m.xml -102.90663 31.58280 -0.90 51.7506
+OBJECT_SHARED Models/lib/lamp10m.xml -102.90562 31.58176 -0.91 6.41571
+OBJECT_SHARED Models/lib/lamp10m.xml -102.90565 31.58204 -0.91 6.27328
+OBJECT_SHARED Models/lib/admin31x12.ac -102.90603 31.58254 -0.91 55.04
+# END dsf2stg

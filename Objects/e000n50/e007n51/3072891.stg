@@ -15,6 +15,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml 7.77285 51.94356 53.70 90
 OBJECT_SHARED Models/lib/lamp10m.xml 7.77252 51.94356 53.72 267.71
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.77043 51.94314 55.08 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.76992 51.94376 53.61 0
+OBJECT_SHARED Models/lib/propane-tank.ac 7.77024 51.94401 53.30 355.53
 OBJECT_SHARED Models/lib/stack_of_cones.ac 7.77235 51.94356 53.72 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 7.77192 51.94390 53.37 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 7.77081 51.94355 53.87 0
@@ -26,13 +27,14 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 7.77257 51.94354 53.87 178.81
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.77272 51.94358 53.71 183.24
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.77264 51.94358 53.71 181.17
 OBJECT_SHARED Models/Misc/picnic_table.ac 7.77257 51.94358 53.72 177.99
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.77314 51.94368 53.53 1.29999
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.77277 51.94366 53.55 357.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.77314 51.94368 53.53 181.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.77277 51.94366 53.55 177.56
 OBJECT_SHARED Models/lib/cars4.ac 7.77363 51.94383 53.42 355.84
 OBJECT_SHARED Models/lib/office40x25.ac 7.77451 51.94350 53.69 4.44
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.77200 51.94389 53.37 1.31
+OBJECT_SHARED Models/lib/farm19x12.ac 7.77482 51.94306 54.15 272.8
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.77200 51.94389 53.37 91.31
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.77183 51.94355 53.96 180.33
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 7.77020 51.94343 -30.61 163.18
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 7.77018 51.94365 -31.24 153.44
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 7.77020 51.94343 -40.61 163.18
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 7.77018 51.94365 -41.24 153.44
 OBJECT_SHARED Models/lib/hangar81x16.ac 7.77198 51.94305 55.22 180.7
 # END dsf2stg

@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -112.88663 42.92112 1363.02 7.12
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -112.88663 42.92112 1363.02 97.12
 OBJECT_SHARED Models/lib/transformer3x3.ac -112.88247 42.92149 1358.43 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -112.88209 42.92171 1359.03 6.57999
 OBJECT_SHARED Models/lib/SmHangar.ac -112.88264 42.92177 1360.52 91.44
@@ -15,5 +15,5 @@ OBJECT_SHARED Models/lib/SmHangar.ac -112.88079 42.92168 1357.86 98.64
 OBJECT_SHARED Models/lib/SmHangar.ac -112.88059 42.92170 1357.86 98.64
 OBJECT_SHARED Models/lib/SmHangar.ac -112.88038 42.92173 1356.72 98.64
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -112.88702 42.92112 1363.02 226.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -112.88234 42.92148 1358.43 279.67
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -112.88234 42.92148 1358.43 99.67
 # END dsf2stg

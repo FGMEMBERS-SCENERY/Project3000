@@ -2,6 +2,8 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -85.67984 43.12899 228.05 180
+OBJECT_SHARED Models/lib/farm19x12.ac -85.67893 43.13157 225.15 358.15
+OBJECT_SHARED Models/lib/farm19x12.ac -85.67415 43.12627 227.59 304.51
 OBJECT_SHARED Models/lib/lamp10m.xml -85.67988 43.12943 227.69 130.39
 OBJECT_SHARED Models/lib/lamp10m.xml -85.67997 43.13061 226.55 88.12
 OBJECT_SHARED Models/lib/lamp10m.xml -85.67906 43.12975 227.00 0
@@ -10,6 +12,7 @@ OBJECT_SHARED Models/lib/cars14.ac -85.67996 43.13030 226.84 359.15
 OBJECT_SHARED Models/lib/LongRow.ac -85.67914 43.13095 225.82 270
 OBJECT_SHARED Models/lib/LongRow.ac -85.67873 43.13095 225.66 270
 OBJECT_SHARED Models/lib/office32x25.ac -85.67977 43.12989 227.16 0
+OBJECT_SHARED Models/lib/admin31x12.ac -85.67966 43.12941 227.62 179.3
 OBJECT_SHARED Models/lib/MedHangar.ac -85.67954 43.13028 226.66 180
 OBJECT_SHARED Models/lib/LongRow.ac -85.67834 43.13095 225.52 270
 OBJECT_SHARED Models/lib/LongRow.ac -85.67793 43.13095 225.37 270
@@ -36,16 +39,16 @@ OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -85.67965 43.13078 226.24
 OBJECT_SHARED Models/lib/stack_of_cones.ac -85.67957 43.13067 226.30 311.63
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -85.67974 43.12956 227.42 90
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -85.67950 43.12966 227.25 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.67897 43.12949 227.26 268.64
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -85.67914 43.12973 227.10 178.84
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.67897 43.12949 227.26 358.64
+OBJECT_SHARED Models/lib/fuel-truck.xml -85.67914 43.12973 227.10 178.84
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -85.67988 43.12947 227.59 89.54
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -85.67909 43.12944 227.39 178.39
 OBJECT_SHARED Models/lib/chariot1.ac -85.67954 43.12982 227.15 94.4
 OBJECT_SHARED Models/lib/chariot1.ac -85.67820 43.13029 226.17 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -85.67974 43.12897 228.01 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -85.67981 43.12897 228.05 182.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.67892 43.12914 227.62 91.91
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.67891 43.12888 227.81 88.64
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.67892 43.12914 227.62 271.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -85.67891 43.12888 227.81 268.64
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -85.67885 43.12998 226.69 357.14
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.68040 43.12896 228.28 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.68000 43.13095 226.25 0

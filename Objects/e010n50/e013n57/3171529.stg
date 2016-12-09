@@ -2,6 +2,8 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.43972 57.16953 155.66 30.9661
+OBJECT_SHARED Models/lib/industrial13x24.ac 13.44188 57.16662 162.84 128.185
+OBJECT_SHARED Models/lib/industrial13x24.ac 13.44221 57.16695 162.76 215.571
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.44129 57.16727 160.44 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.44127 57.16734 160.44 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.44110 57.16741 159.84 0
@@ -23,7 +25,7 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.44037 57.16669 161.06 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.44024 57.16657 161.12 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.43998 57.16659 160.84 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.43984 57.16667 160.22 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.44093 57.16717 159.96 90.63
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 13.44093 57.16717 159.96 270.63
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.44057 57.16690 160.62 45.62
 OBJECT_SHARED Models/lib/SmHangar.ac 13.43569 57.16666 153.31 80.59
 OBJECT_SHARED Models/lib/MedHangar.ac 13.43544 57.16646 153.11 169.49
@@ -32,5 +34,5 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 13.43453 57.16589 152.48 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.43843 57.16582 161.60 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.43854 57.16595 161.06 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.43935 57.16592 162.41 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.44049 57.16715 159.47 47.6497
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.44049 57.16715 159.47 137.65
 # END dsf2stg

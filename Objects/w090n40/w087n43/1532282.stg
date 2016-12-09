@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.40997 43.95849 194.49 107.93
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.40997 43.95849 194.49 287.93
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -86.40960 43.95871 194.72 108.81
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -86.40952 43.95834 194.62 109.69
+OBJECT_SHARED Models/lib/citation.ac -86.40952 43.95834 194.62 109.69
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -86.41080 43.95667 194.24 90.39
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.41146 43.95824 194.06 18.84
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.40983 43.95826 194.59 111.08
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -86.41093 43.95834 194.07 21.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.41146 43.95824 194.06 198.84
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -86.40983 43.95826 194.59 291.08
+OBJECT_SHARED Models/lib/fuel-truck.xml -86.41093 43.95834 194.07 21.5
 OBJECT_SHARED Models/Airport/cargoim.xml -86.41094 43.95820 194.08 266.07
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -86.41118 43.95804 194.10 20.52
 OBJECT_SHARED Models/lib/belt_loader.ac -86.41087 43.95798 194.12 208.14

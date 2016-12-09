@@ -96,17 +96,17 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 6.04577 52.24033 4.96 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 6.04577 52.24045 4.79 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 6.04606 52.24045 4.90 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 6.04591 52.24041 4.89 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.05255 52.24147 3.76 184.47
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.05255 52.24147 3.76 274.47
 OBJECT_SHARED Models/lib/stack_of_cones.ac 6.04447 52.24065 4.38 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 6.04787 52.24126 4.18 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 6.05341 52.23254 5.46 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.05572 52.24195 3.35 275.89
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.05088 52.24152 3.87 185.44
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.04757 52.24196 3.76 165.81
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.04632 52.24194 3.78 182.29
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.04697 52.24132 4.20 227.98
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.05067 52.24108 4.18 273.01
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.04912 52.24144 4.05 182.32
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.04757 52.24196 3.76 345.81
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.04632 52.24194 3.78 2.28999
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.04697 52.24132 4.20 47.98
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.05067 52.24108 4.18 93.01
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.04912 52.24144 4.05 2.32001
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.04715 52.24148 4.03 95.01
 OBJECT_SHARED Models/lib/LgMaint.ac 6.05590 52.24142 3.48 184.43
 OBJECT_SHARED Models/lib/MedHangar.ac 6.05140 52.24112 4.10 312.06
@@ -124,5 +124,6 @@ OBJECT_SHARED Models/lib/SmHangar.ac 6.04690 52.24124 4.29 271.79
 OBJECT_SHARED Models/lib/MedHangar.ac 6.05716 52.24135 6.03 94.57
 OBJECT_SHARED Models/lib/MedHangar.ac 6.05802 52.24139 4.90 94.5
 OBJECT_SHARED Models/lib/LongRow.ac 6.04466 52.24058 4.44 273.96
+OBJECT_SHARED Models/lib/industrial15x22.ac 6.04592 52.24072 4.64 92.89
 OBJECT_SHARED Models/lib/farm19x12.ac 6.04600 52.24108 4.30 2.54
 # END dsf2stg

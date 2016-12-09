@@ -15,8 +15,8 @@ OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -77.53421 44.11153 82.03 285.33
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -77.53549 44.11088 81.91 197.53
 OBJECT_SHARED Models/Aircraft/D328_services.xml -77.54156 44.11577 84.34 191.31
 OBJECT_SHARED Models/Aircraft/D328_services.xml -77.54184 44.11677 84.67 191.31
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -77.52997 44.11287 80.85 196.58
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -77.53622 44.11066 81.92 18.39
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.52997 44.11287 80.85 196.58
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.53622 44.11066 81.92 18.39
 OBJECT_SHARED Models/lib/HorizTanks2.ac -77.53574 44.11832 84.54 59.44
 OBJECT_SHARED Models/lib/SmHangar.ac -77.54442 44.11323 83.51 282.79
 OBJECT_SHARED Models/lib/MedHangar.ac -77.54503 44.11343 83.59 192.6

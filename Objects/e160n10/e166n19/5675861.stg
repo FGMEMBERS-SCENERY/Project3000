@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 166.64788 19.27804 -0.25 347.775
+OBJECT_SHARED Models/lib/MedHangar.ac 166.64946 19.28988 -0.34 32.7354
+OBJECT_SHARED Models/lib/office40x25.ac 166.65082 19.28305 -0.17 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 166.65011 19.28978 -95.32 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 166.64983 19.29022 -95.33 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 166.64691 19.28928 -95.36 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 166.64673 19.28953 -95.36 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 166.64562 19.29289 -95.41 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 166.64575 19.29267 -95.41 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 166.64556 19.29256 -95.41 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 166.64543 19.29276 -95.42 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 166.64528 19.29297 -95.42 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 166.64547 19.29310 -95.42 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml 166.64480 19.29350 -0.42 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml 166.64501 19.29318 -0.42 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 166.65084 19.28583 -0.24 119.954
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 166.65063 19.28521 -0.22 119.954
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 166.65046 19.28463 -0.23 139.342
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 166.65047 19.28399 -0.21 139.342
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 166.65046 19.28335 -0.19 139.342
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 166.65046 19.28271 -0.18 139.342
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 166.65054 19.28208 -0.14 151.979
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 166.65075 19.28148 -0.13 158
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65115 19.28155 -0.13 0
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65106 19.28181 -0.14 0
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65093 19.28223 -0.15 -3.94519
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65088 19.28265 -0.16 0
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65088 19.28320 -0.17 0
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65089 19.28357 -0.18 0
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65092 19.28389 -0.19 1.97494
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65087 19.28429 -0.20 -1.36392
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65088 19.28467 -0.21 -24.4441
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65104 19.28514 -0.22 -19.4402
+OBJECT_SHARED Models/lib/lamp10m.xml 166.65115 19.28546 -0.23 -16.314
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 166.65068 19.28268 -0.16 267.138
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 166.65071 19.28333 -0.18 273.013
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 166.65071 19.28397 -0.20 270
+OBJECT_SHARED Models/lib/chariot3curve.ac 166.65075 19.28370 -0.19 304.216
+OBJECT_SHARED Models/lib/belt_loader.ac 166.65083 19.28356 -0.18 3.36649
+OBJECT_SHARED Models/lib/belt_loader.ac 166.65079 19.28359 -0.18 181.975
+OBJECT_SHARED Models/lib/fuel-truck.xml 166.65077 19.28486 -0.22 333.435
+OBJECT_SHARED Models/lib/fuel-truck.xml 166.65088 19.28378 -0.19 274.399
+OBJECT_SHARED Models/lib/fuel-truck.xml 166.65085 19.28368 -0.19 271.685
+# END dsf2stg

@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -97.25131 49.91342 -0.20 223.68
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -97.25052 49.91287 -0.17 228.62
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -97.25283 49.90368 -0.14 0
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -97.25279 49.90358 -0.14 0
+OBJECT_SHARED Models/Airport/cargoim.xml -97.25885 49.90402 -0.25 0
+OBJECT_SHARED Models/Airport/cargoim.xml -97.25496 49.90476 -0.16 0
+OBJECT_SHARED Models/Airport/cargoim.xml -97.25497 49.90482 -0.16 0
+OBJECT_SHARED Models/Airport/cargoim.xml -97.25498 49.90489 -0.16 0
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -97.25074 49.89556 -90.23 0
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -97.25359 49.90359 -0.16 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.25982 49.90407 -0.27 90
+OBJECT_SHARED Models/lib/watertank3x1.ac -97.25455 49.90369 -0.17 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -97.25715 49.90417 -0.21 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -97.25191 49.90420 -0.10 0
+OBJECT_SHARED Models/lib/SmHangar.ac -97.25944 49.90651 -0.21 0
+OBJECT_SHARED Models/lib/SmHangar.ac -97.26012 49.90652 -0.22 93.75
+OBJECT_SHARED Models/lib/LgMaint.ac -97.25872 49.90429 -0.24 4.39
+OBJECT_SHARED Models/lib/LgMaint.ac -97.25644 49.90422 -0.20 275.5
+OBJECT_SHARED Models/lib/LongRow.ac -97.25178 49.90426 -0.10 1.17
+OBJECT_SHARED Models/lib/office112x50.ac -97.25045 49.89958 -0.17 88.03
+# END dsf2stg

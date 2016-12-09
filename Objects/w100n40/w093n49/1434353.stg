@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac -92.73768 49.82659 -0.49 244.26
+OBJECT_SHARED Models/lib/FireStationLg.ac -92.73548 49.82610 -0.52 64.98
+OBJECT_SHARED Models/lib/office16x4n.ac -92.73836 49.82663 -0.47 328.67
+OBJECT_SHARED Models/lib/lamp10m.xml -92.73504 49.82613 -0.52 270
+OBJECT_SHARED Models/lib/lamp10m.xml -92.73775 49.82688 -0.48 270
+OBJECT_SHARED Models/lib/lamp10m.xml -92.74437 49.82890 -0.36 270
+OBJECT_SHARED Models/lib/lamp10m.xml -92.74690 49.82955 -0.31 270
+OBJECT_SHARED Models/lib/fboModern1.ac -92.74752 49.82913 -0.30 154.98
+OBJECT_SHARED Models/lib/office32x25.ac -92.74724 49.82977 -0.30 333.87
+OBJECT_SHARED Models/lib/MedHangar.ac -92.74436 49.82808 -0.37 216.03
+OBJECT_SHARED Models/lib/SmHangar.ac -92.74399 49.82867 -0.37 152.45
+OBJECT_SHARED Models/lib/MedHangar.ac -92.74384 49.82864 -0.38 334.85
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -92.74530 49.82914 -0.35 63.43
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -92.74641 49.82967 -0.32 62.74
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -92.74481 49.82972 -0.35 26.56
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -92.73692 49.83329 -0.47 270
+OBJECT_SHARED Models/lib/fuel-truck.xml -92.74638 49.82958 -0.32 120.96
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -92.73706 49.82683 -0.49 181.68
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -92.74574 49.82982 -0.34 312.88
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -92.74539 49.82982 -0.34 319.19
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -92.74445 49.82963 -0.36 16.7
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -92.74653 49.82979 -0.32 2.88
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -92.73658 49.82666 -0.50 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -92.73584 49.82645 -0.51 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -92.73621 49.82655 -0.51 0
+# END dsf2stg

@@ -11,7 +11,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml 99.73156 6.34021 6.44 0
 OBJECT_SHARED Models/lib/lamp10m.xml 99.73205 6.34097 6.70 0
 OBJECT_SHARED Models/lib/office32x25.ac 99.73338 6.34362 9.45 176.979
 OBJECT_SHARED Models/lib/office32x25.ac 99.73372 6.34397 9.25 86.6335
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 99.73376 6.34207 7.35 204.458
+OBJECT_SHARED Models/lib/fuel-truck.xml 99.73376 6.34207 7.35 204.458
 OBJECT_SHARED Models/lib/cargobox2x3m.ac 99.73386 6.34225 7.41 286.848
 OBJECT_SHARED Models/lib/cargobox2x3m.ac 99.73384 6.34223 8.07 322.815
 OBJECT_SHARED Models/lib/chariot1.ac 99.73383 6.34221 7.95 90
@@ -36,18 +36,18 @@ OBJECT_SHARED Models/Airport/tower_small_airfield.xml 99.73124 6.33989 6.31 55.6
 OBJECT_SHARED Models/Aircraft/B747.xml 99.73348 6.34236 10.19 146.734
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 99.72948 6.33533 4.99 60
 OBJECT_SHARED Models/lib/SmHangar.ac 99.72871 6.33533 4.19 235.376
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 99.72959 6.33544 4.99 60
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 99.72934 6.33505 4.94 60
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 99.72959 6.33544 4.99 240
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 99.72934 6.33505 4.94 240
 OBJECT_SHARED Models/Aircraft/ATR42.xml 99.73247 6.34072 6.75 -34.992
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 99.73169 6.33959 6.33 145.591
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 99.73314 6.34172 10.57 55.954
 OBJECT_SHARED Models/lib/office32x25.ac 99.73150 6.34089 6.56 146.31
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 99.73186 6.34097 6.66 55.435
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 99.72664 6.33609 5.82 235
+OBJECT_SHARED Models/lib/fuel-truck.xml 99.73186 6.34097 6.66 55.435
+OBJECT_SHARED Models/lib/fuel-truck.xml 99.72664 6.33609 5.82 235
 OBJECT_SHARED Models/lib/hangar81x16.ac 99.72783 6.33516 4.06 143.602
 OBJECT_SHARED Models/lib/office32x25.ac 99.72618 6.33631 6.73 144.696
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 99.72688 6.33597 5.41 235
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 99.72657 6.33599 5.59 144.946
+OBJECT_SHARED Models/lib/fuel-truck.xml 99.72688 6.33597 5.41 235
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 99.72657 6.33599 5.59 234.946
 OBJECT_SHARED Models/lib/HorizTanks2.ac 99.72667 6.33564 5.42 144.841
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 99.72629 6.33597 -84.12 0
 # END dsf2stg

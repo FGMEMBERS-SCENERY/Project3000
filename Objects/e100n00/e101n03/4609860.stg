@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 101.55596 3.12479 23.66 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 101.55604 3.12468 23.66 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 101.55612 3.12454 23.66 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 101.55596 3.12479 23.66 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 101.55604 3.12468 23.66 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 101.55612 3.12454 23.66 180
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 101.55335 3.12013 21.05 210
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 101.55304 3.11995 21.55 210
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 101.55493 3.11747 20.72 300
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 101.55527 3.11689 23.44 300
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 101.54896 3.11860 24.47 120
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 101.54740 3.11874 32.33 30
+OBJECT_SHARED Models/lib/fuel-truck.xml 101.54740 3.11874 32.33 30
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 101.54794 3.11898 34.70 210
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 101.54811 3.11567 21.62 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 101.54820 3.11574 22.11 0
@@ -120,10 +120,10 @@ OBJECT_SHARED Models/lib/lamp10m.xml 101.55797 3.12082 23.37 0
 OBJECT_SHARED Models/lib/lamp10m.xml 101.55728 3.12195 23.58 0
 OBJECT_SHARED Models/lib/lamp10m.xml 101.55765 3.12452 23.59 0
 OBJECT_SHARED Models/lib/lamp10m.xml 101.55655 3.12358 23.62 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 101.56240 3.11668 31.48 210
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 101.56222 3.11717 31.58 30
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 101.56199 3.11692 31.65 30
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 101.56239 3.11688 31.62 120
+OBJECT_SHARED Models/lib/fuel-truck.xml 101.56240 3.11668 31.48 210
+OBJECT_SHARED Models/lib/fuel-truck.xml 101.56222 3.11717 31.58 30
+OBJECT_SHARED Models/lib/fuel-truck.xml 101.56199 3.11692 31.65 30
+OBJECT_SHARED Models/lib/fuel-truck.xml 101.56239 3.11688 31.62 120
 OBJECT_SHARED Models/lib/cars14.ac 101.54844 3.11678 22.94 30.82
 OBJECT_SHARED Models/lib/cars14.ac 101.54808 3.11707 26.56 30.5
 OBJECT_SHARED Models/lib/cars14.ac 101.54822 3.11716 27.23 30.96

@@ -22,7 +22,7 @@ OBJECT_SHARED Models/lib/cars14.ac 173.28522 -35.06631 76.14 217.26
 OBJECT_SHARED Models/lib/chariot1.ac 173.28551 -35.06662 75.93 76.29
 OBJECT_SHARED Models/lib/stack_of_cones.ac 173.28546 -35.06660 76.44 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 173.28557 -35.06661 75.93 305.97
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 173.28568 -35.06674 75.73 216.28
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.28744 -35.06792 79.33 126.61
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.28537 -35.06700 76.51 126.61
+OBJECT_SHARED Models/lib/fuel-truck.xml 173.28568 -35.06674 75.73 216.28
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.28744 -35.06792 79.33 306.61
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.28537 -35.06700 76.51 306.61
 # END dsf2stg

@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.90981 53.78770 0.00 118.3
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91069 53.78643 -0.00 115.12
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91092 53.78612 -0.00 111.41
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91171 53.78570 -0.48 111.8
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91157 53.78590 -0.40 114.23
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91122 53.78640 -0.22 108.44
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91054 53.78743 0.43 117.35
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91044 53.78681 -0.00 113.5
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91034 53.78693 -0.00 112.99
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91004 53.78739 0.00 106.46
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.90995 53.78676 -0.00 108.78
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.90974 53.78707 0.00 110.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.90981 53.78770 0.00 298.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91069 53.78643 -0.00 295.12
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91092 53.78612 -0.00 291.41
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91171 53.78570 -0.48 291.8
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91157 53.78590 -0.40 294.23
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91122 53.78640 -0.22 288.44
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91054 53.78743 0.43 297.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91044 53.78681 -0.00 293.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91034 53.78693 -0.00 292.99
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91004 53.78739 0.00 286.46
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.90995 53.78676 -0.00 288.78
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.90974 53.78707 0.00 290.77
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 7.90933 53.78811 0.00 -63.8
 OBJECT_SHARED Models/lib/lamp10m.xml 7.91024 53.78835 1.35 106.14
 OBJECT_SHARED Models/lib/lamp10m.xml 7.90985 53.78834 -0.00 100.62

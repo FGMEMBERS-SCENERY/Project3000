@@ -20,10 +20,10 @@ OBJECT_SHARED Models/Transport/hatchback_black.ac 9.34936 53.13078 32.65 280.34
 OBJECT_SHARED Models/Transport/hatchback_black.ac 9.34593 53.13015 31.60 188.88
 OBJECT_SHARED Models/Transport/hatchback_black.ac 9.34402 53.12992 31.65 188.88
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.35107 53.12992 29.83 8.13
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.35005 53.12979 29.57 12.2
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.34732 53.12947 30.29 19.65
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.34659 53.12937 30.04 12.34
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.34145 53.12849 28.99 292.62
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.35005 53.12979 29.57 192.2
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.34732 53.12947 30.29 199.65
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.34659 53.12937 30.04 192.34
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.34145 53.12849 28.99 112.62
 OBJECT_SHARED Models/Transport/hatchback_red.ac 9.35269 53.13100 32.39 188.53
 OBJECT_SHARED Models/Transport/hatchback_red.ac 9.35264 53.13099 32.32 196.26
 OBJECT_SHARED Models/Transport/hatchback_red.ac 9.35259 53.13098 32.25 191.89
@@ -41,6 +41,7 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac 9.34155 53.12834 28.48 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 9.34174 53.12867 29.18 0
 OBJECT_SHARED Models/lib/HorizTanks2.ac 9.35082 53.12989 29.97 281.56
 OBJECT_SHARED Models/lib/FireStationLg.ac 9.35415 53.13146 33.71 11.65
+OBJECT_SHARED Models/lib/admin31x12.ac 9.35367 53.13125 33.47 100.22
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.35284 53.13114 32.88 11.82
 OBJECT_SHARED Models/lib/SmHangar.ac 9.35474 53.13157 33.37 101.45
 OBJECT_SHARED Models/lib/SmHangar.ac 9.35441 53.13152 33.39 102.22

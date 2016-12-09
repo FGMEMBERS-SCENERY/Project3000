@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -112.36034 33.54652 247.49 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -112.36034 33.54652 237.49 0
 OBJECT_SHARED Models/Airport/egkk_oil.xml -112.36039 33.54743 332.96 0
 OBJECT_SHARED Models/lib/office40x25.ac -112.36578 33.53986 331.21 182.69
 OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -112.36703 33.53043 328.56 198.43

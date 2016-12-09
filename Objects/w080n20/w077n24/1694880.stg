@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -76.82021 24.59345 6.48 336.56
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -76.81939 24.59518 7.41 78.81
+OBJECT_SHARED Models/lib/chariot1.ac -76.81965 24.59486 7.23 245.05
+OBJECT_SHARED Models/lib/chariot1.ac -76.81967 24.59489 7.16 248.4
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.81972 24.59488 7.16 69.25
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.81960 24.59486 7.23 156
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.81954 24.59487 7.30 154.56
+OBJECT_SHARED Models/lib/MedHangar.ac -76.82022 24.59328 6.45 335
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.81901 24.59745 5.73 155
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.81905 24.59737 5.73 155
+OBJECT_SHARED Models/lib/office4x14.ac -76.81897 24.59765 3.72 245
+OBJECT_SHARED Models/lib/office8x14.ac -76.81931 24.59474 7.31 70
+# END dsf2stg

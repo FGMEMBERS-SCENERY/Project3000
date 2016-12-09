@@ -6,7 +6,7 @@ OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -70.98335 -46.53790 428.39 267.8
 OBJECT_SHARED Models/Aircraft/D328_services.xml -70.98590 -46.53742 429.69 357.71
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.98560 -46.53711 428.76 276.95
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.98371 -46.53838 428.70 338.5
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -70.98623 -46.53773 429.66 119.09
+OBJECT_SHARED Models/lib/fuel-truck.xml -70.98623 -46.53773 429.66 119.09
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -70.98602 -46.53773 429.78 70.24
 OBJECT_SHARED Models/lib/SmHangar.ac -70.98392 -46.53817 428.69 249.59
 OBJECT_SHARED Models/lib/MedHangar.ac -70.98437 -46.53803 428.67 249.09

@@ -4,7 +4,7 @@
 OBJECT_SHARED Models/lib/vending-machine.ac -71.80196 -43.61171 250.13 94.76
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -71.80192 -43.61163 250.23 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.80253 -43.61177 250.62 326.77
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.80361 -43.61183 251.68 313.34
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.80361 -43.61183 251.68 133.34
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -71.80384 -43.61185 156.79 0
 OBJECT_SHARED Models/lib/office32x25.ac -71.80208 -43.61186 250.41 94.53
 OBJECT_SHARED Models/lib/MedHangar.ac -71.80324 -43.61184 251.29 273.85

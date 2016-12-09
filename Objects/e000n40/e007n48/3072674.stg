@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 7.62904 48.54395 149.46 5.99176
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 7.63051 48.54499 149.02 310.735
+OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 7.62793 48.54353 149.68 0
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 7.62729 48.54321 149.81 9.01443
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.62190 48.53984 150.06 313.453
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.62155 48.53966 150.06 129.94
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 7.62114 48.53943 150.03 354.562
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.62330 48.54186 150.28 220.873
+# END dsf2stg

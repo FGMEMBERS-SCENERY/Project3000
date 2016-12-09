@@ -40,7 +40,7 @@ OBJECT_SHARED Models/lib/LongRow.ac -77.83795 40.85821 355.64 127
 OBJECT_SHARED Models/lib/LongRow.ac -77.83838 40.85796 356.80 127
 OBJECT_SHARED Models/lib/LongRow.ac -77.83882 40.85771 358.06 127
 OBJECT_SHARED Models/lib/LongRow.ac -77.83926 40.85745 359.27 127
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.83975 40.85716 360.01 127
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.83975 40.85716 360.01 217
 OBJECT_SHARED Models/lib/HorizTanks2.ac -77.84509 40.85418 367.70 36
 OBJECT_SHARED Models/lib/HorizTanks2.ac -77.84499 40.85409 367.28 36
 OBJECT_SHARED Models/lib/lamp10m.xml -77.84496 40.85431 367.60 167
@@ -49,10 +49,10 @@ OBJECT_SHARED Models/lib/lamp10m.xml -77.84512 40.85424 367.70 238
 OBJECT_SHARED Models/lib/lamp10m.xml -77.84493 40.85404 366.85 10
 OBJECT_SHARED Models/lib/lamp10m.xml -77.84518 40.85394 367.34 38
 OBJECT_SHARED Models/lib/lamp10m.xml -77.84532 40.85407 367.96 221
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -77.84524 40.85410 367.73 128
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -77.84514 40.85400 367.31 127
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -77.84520 40.85401 367.54 125
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -77.84927 40.85259 372.08 36
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.84524 40.85410 367.73 128
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.84514 40.85400 367.31 127
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.84520 40.85401 367.54 125
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.84927 40.85259 372.08 36
 OBJECT_SHARED Models/lib/office16x4n.ac -77.84708 40.85429 371.86 308.01
 OBJECT_SHARED Models/lib/stack_of_cones.ac -77.85016 40.85137 369.61 35
 OBJECT_SHARED Models/lib/stack_of_cones.ac -77.85057 40.85114 368.72 35
@@ -202,6 +202,7 @@ OBJECT_SHARED Models/lib/schranke.ac -77.85056 40.85247 370.00 219
 OBJECT_SHARED Models/lib/schranke.ac -77.85056 40.85246 370.00 39
 OBJECT_SHARED Models/lib/schranke.ac -77.85030 40.85245 370.37 213
 OBJECT_SHARED Models/lib/schranke.ac -77.85030 40.85244 370.37 33
+OBJECT_SHARED Models/lib/industrial13x24.ac -77.84821 40.85262 372.16 216
 OBJECT_SHARED Models/Misc/6barrels.ac -77.84811 40.85267 372.09 36
 OBJECT_SHARED Models/Misc/6barrels.ac -77.84810 40.85266 372.09 36
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -77.84965 40.85237 371.29 36
@@ -216,7 +217,7 @@ OBJECT_SHARED Models/lib/chariot3curve.ac -77.84952 40.85141 370.61 69
 OBJECT_SHARED Models/lib/chariot3.ac -77.85009 40.85137 369.76 342
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -77.85432 40.84932 369.44 283
 OBJECT_SHARED Models/lib/office4x14.ac -77.84971 40.85221 371.10 36
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.84013 40.85763 361.07 306
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.84013 40.85763 361.07 126
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -77.85132 40.85082 367.71 307
 OBJECT_SHARED Models/Transport/hatchback_green.ac -77.85909 40.84825 356.58 155
 OBJECT_SHARED Models/Transport/hatchback_green.ac -77.85905 40.84823 356.58 152
@@ -253,12 +254,14 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac -77.84526 40.85565 362.0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -77.84522 40.85565 361.41 37.1
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -77.84518 40.85566 361.41 37.1
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -77.84528 40.85563 362.08 37.1
+OBJECT_SHARED Models/lib/industrial15x22.ac -77.85429 40.85460 350.76 136
+OBJECT_SHARED Models/lib/industrial15x22.ac -77.85482 40.85501 347.35 316
 OBJECT_SHARED Models/lib/lamp10m.xml -77.84991 40.85320 371.71 128.01
 OBJECT_SHARED Models/lib/lamp10m.xml -77.85007 40.85310 371.32 129
 OBJECT_SHARED Models/lib/lamp10m.xml -77.84949 40.85327 372.42 126
 OBJECT_SHARED Models/lib/shed10x50.ac -77.84507 40.85530 363.09 127
 OBJECT_SHARED Models/lib/shed10x50.ac -77.84534 40.85512 364.44 125.8
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.84922 40.85303 372.60 306.25
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.84922 40.85303 372.60 126.25
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -77.84965 40.85299 371.84 305.29
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.84931 40.85316 372.63 304.87
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -77.85134 40.85053 368.31 269.26

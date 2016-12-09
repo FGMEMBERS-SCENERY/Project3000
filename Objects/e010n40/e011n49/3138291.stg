@@ -2,8 +2,8 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.78313 49.86513 456.53 98.18
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.78341 49.86364 456.98 180
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.78306 49.86528 456.37 123.4
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.78341 49.86364 456.98 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.78306 49.86528 456.37 303.4
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.78298 49.86438 456.90 88.57
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.78298 49.86440 456.90 270
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.78298 49.86433 456.82 90.45
@@ -25,9 +25,9 @@ OBJECT_SHARED Models/lib/lamp10m.xml 11.78317 49.86429 456.83 90
 OBJECT_SHARED Models/lib/lamp10m.xml 11.78352 49.86419 456.95 270
 OBJECT_SHARED Models/lib/lamp10m.xml 11.78336 49.86419 456.94 270
 OBJECT_SHARED Models/lib/lamp10m.xml 11.78322 49.86419 456.92 270
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.78307 49.86365 457.02 171.47
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.78307 49.86365 457.02 351.47
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.78322 49.86387 456.92 180
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.78290 49.86530 456.60 185.37
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.78290 49.86530 456.60 5.37
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.78315 49.86464 456.74 95.02
 OBJECT_SHARED Models/lib/cars6.ac 11.78327 49.86456 456.69 270
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.78313 49.86431 456.82 271.35
@@ -81,8 +81,8 @@ OBJECT_SHARED Models/lib/hangarUL10x30.ac 11.78336 49.86534 456.11 2
 OBJECT_SHARED Models/lib/MedHangar.ac 11.78495 49.86449 456.07 0.129997
 OBJECT_SHARED Models/lib/office3x10.ac 11.78331 49.86471 456.62 270.13
 OBJECT_SHARED Models/lib/office3x10.ac 11.78304 49.86417 456.90 90
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 11.78323 49.86409 457.01 270
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 11.78308 49.86408 457.00 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 11.78323 49.86409 457.01 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 11.78308 49.86408 457.00 180
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.78319 49.86417 456.92 252.93
 OBJECT_SHARED Models/lib/deciduous-tree.xml 11.78311 49.86411 457.00 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.78354 49.86446 456.70 217.09

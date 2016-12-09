@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -75.56152 1.58961 -0.14 330.945
+OBJECT_SHARED Models/lib/cube16x10.ac -75.56128 1.58949 -0.14 246.329
+OBJECT_SHARED Models/lib/lamp10m.xml -75.56158 1.58905 -0.15 148.671
+OBJECT_SHARED Models/lib/lamp10m.xml -75.56148 1.58924 -0.15 158.199
+OBJECT_SHARED Models/lib/lamp10m.xml -75.56117 1.58930 -0.15 72.4744
+OBJECT_SHARED Models/lib/lamp10m.xml -75.56032 1.58889 -0.19 71.5651
+OBJECT_SHARED Models/lib/lamp10m.xml -75.56052 1.58900 -0.18 68.1986
+OBJECT_SHARED Models/lib/lamp10m.xml -75.56077 1.58911 -0.17 70.3462
+OBJECT_SHARED Models/lib/lamp10m.xml -75.56101 1.58922 -0.16 68.9625
+OBJECT_SHARED Models/lib/loader.ac -75.56015 1.58860 -0.20 -4.39871
+OBJECT_SHARED Models/lib/container6.ac -75.56014 1.58867 -0.20 135
+OBJECT_SHARED Models/lib/container6.ac -75.56008 1.58872 -0.19 163.811
+OBJECT_SHARED Models/lib/chariot3curve.ac -75.56051 1.58895 -0.18 153.566
+OBJECT_SHARED Models/lib/chariot3curve.ac -75.56019 1.58880 -0.19 279.689
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.56046 1.58884 -0.18 155.863
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.56069 1.58894 -0.17 156.037
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.56093 1.58906 -0.17 155.304
+# END dsf2stg

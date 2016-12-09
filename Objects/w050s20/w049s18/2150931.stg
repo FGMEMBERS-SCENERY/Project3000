@@ -3,7 +3,7 @@
 #
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -48.61380 -17.72588 707.09 -66.42
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -48.61314 -17.72575 706.22 23.96
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -48.61324 -17.72556 706.60 205.02
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -48.61324 -17.72556 706.60 25.02
 OBJECT_SHARED Models/lib/lamp10m.xml -48.61392 -17.72555 707.83 114
 OBJECT_SHARED Models/lib/lamp10m.xml -48.61428 -17.72571 707.74 114
 OBJECT_SHARED Models/lib/lamp10m.xml -48.61464 -17.72586 707.65 114
@@ -21,10 +21,10 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac -48.61437 -17.72599 707.69 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -48.61372 -17.72568 707.30 0
 OBJECT_SHARED Models/lib/belt_loader.ac -48.61373 -17.72590 706.91 18.78
 OBJECT_SHARED Models/lib/chariot1.ac -48.61524 -17.72629 707.50 90
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -48.61372 -17.72580 707.10 56.34
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -48.61628 -17.72628 707.24 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -48.61372 -17.72580 707.10 56.34
+OBJECT_SHARED Models/lib/fuel-truck.xml -48.61628 -17.72628 707.24 0
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -48.61632 -17.72641 707.24 22.5
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -48.61637 -17.72630 707.44 23.36
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -48.61637 -17.72630 707.44 113.36
 OBJECT_SHARED Models/lib/lamp10m.xml -48.61517 -17.72471 706.02 -66.8
 OBJECT_SHARED Models/lib/lamp10m.xml -48.61512 -17.72483 706.42 -66.8
 OBJECT_SHARED Models/lib/lamp10m.xml -48.61507 -17.72495 707.12 -66.8

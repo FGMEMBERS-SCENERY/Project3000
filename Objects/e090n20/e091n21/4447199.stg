@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 91.96596 21.44885 4.35 20.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 91.96596 21.44885 4.35 200.56
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 91.96568 21.44888 3.85 331.39
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 91.96623 21.45022 4.66 91.46
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 91.96578 21.45246 3.97 0
@@ -39,6 +39,7 @@ OBJECT_SHARED Models/Transport/hatchback_green.ac 91.96644 21.45071 4.99 26.57
 OBJECT_SHARED Models/Transport/hatchback_black.ac 91.96546 21.45206 3.47 196.3
 OBJECT_SHARED Models/Transport/hatchback_black.ac 91.96636 21.45091 4.98 18.43
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 91.96605 21.45101 4.49 270
+OBJECT_SHARED Models/lib/industrial13x24.ac 91.96528 21.45262 3.13 104.04
 OBJECT_SHARED Models/lib/coal_pile.ac 91.96602 21.45198 4.31 111.8
 OBJECT_SHARED Models/lib/coal_pile.ac 91.96592 21.45196 4.14 90
 OBJECT_SHARED Models/Misc/6barrels.ac 91.96590 21.45190 4.14 0
@@ -56,6 +57,7 @@ OBJECT_SHARED Models/lib/hangarUL10x30.ac 91.96603 21.45075 4.32 105.52
 OBJECT_SHARED Models/lib/LongRow.ac 91.96572 21.45174 3.81 108.44
 OBJECT_SHARED Models/lib/SmHangar.ac 91.96569 21.45154 3.81 18.43
 OBJECT_SHARED Models/lib/SmHangar.ac 91.96576 21.45135 3.98 18.7
+OBJECT_SHARED Models/lib/admin31x12.ac 91.96593 21.45106 4.15 16.5
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac 91.96518 21.45310 2.96 107.355
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 91.96514 21.45400 -87.21 0
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 91.96522 21.45369 -87.04 0

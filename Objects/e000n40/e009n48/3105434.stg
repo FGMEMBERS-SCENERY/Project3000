@@ -3,9 +3,9 @@
 #
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.63642 48.49697 749.59 18.84
 OBJECT_SHARED Models/lib/MedHangar.ac 9.63708 48.49712 746.97 107.61
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.63545 48.49658 750.60 196.5
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.63440 48.49621 752.01 202.78
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.63683 48.49680 744.60 20.31
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.63545 48.49658 750.60 16.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.63440 48.49621 752.01 22.78
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.63683 48.49680 744.60 110.31
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.63585 48.49697 753.59 196.44
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.63612 48.49680 748.93 18.31
 OBJECT_SHARED Models/Misc/picnic_table.ac 9.63607 48.49679 749.22 18.31

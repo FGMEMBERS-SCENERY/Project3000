@@ -94,7 +94,7 @@ OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.75224 52.30877 821.42 32
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.75222 52.30878 821.42 0
 OBJECT_SHARED Models/lib/watertank3x1.ac -112.75225 52.30877 821.42 270
 OBJECT_SHARED Models/lib/watertank3x1.ac -112.75225 52.30878 821.42 270
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -112.75034 52.30854 821.53 90
+OBJECT_SHARED Models/lib/fuel-truck.xml -112.75034 52.30854 821.53 90
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -112.75253 52.30833 821.68 180
 OBJECT_SHARED Models/Transport/hatchback_red.ac -112.75170 52.30866 821.54 9.46225
 OBJECT_SHARED Models/Transport/hatchback_red.ac -112.75174 52.30867 821.54 0

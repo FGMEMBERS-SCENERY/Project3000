@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/320volare.xml 61.51646 55.29861 221.77 81.96
+OBJECT_SHARED Models/Aircraft/320volare.xml 61.51181 55.29922 225.43 84
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 61.50925 55.30042 226.34 346.76
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 61.50866 55.30059 225.83 166.91
+OBJECT_SHARED Models/lib/RampGroup.xml 61.51146 55.29989 225.38 264.56
+OBJECT_SHARED Models/lib/RampGroup.xml 61.51139 55.29949 225.46 264.56
+OBJECT_SHARED Models/lib/RampGroup.xml 61.51130 55.29913 225.55 264.56
+OBJECT_SHARED Models/lib/RampGroup.xml 61.51123 55.29873 225.68 264.56
+OBJECT_SHARED Models/lib/RampGroup.xml 61.51118 55.29837 225.78 264.56
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 61.51514 55.29775 222.36 0
+# END dsf2stg

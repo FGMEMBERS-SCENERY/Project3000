@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml 15.01277 -14.72997 1282.57 178.58
+OBJECT_SHARED Models/Misc/picnic_table.ac 15.01304 -14.73003 1282.38 270
+OBJECT_SHARED Models/lib/watertank3x1.ac 15.01303 -14.73058 1280.63 358.3
+OBJECT_SHARED Models/lib/watertank3x1.ac 15.01303 -14.73065 1280.35 358.3
+OBJECT_SHARED Models/lib/watertank3x1.ac 15.01303 -14.73071 1280.35 358.3
+OBJECT_SHARED Models/lib/watertank3x1.ac 15.01301 -14.73071 1280.35 358.3
+OBJECT_SHARED Models/lib/watertank3x1.ac 15.01301 -14.73065 1280.63 358.3
+OBJECT_SHARED Models/lib/watertank3x1.ac 15.01302 -14.73058 1280.63 358.3
+OBJECT_SHARED Models/lib/watertank3x1.ac 15.01351 -14.73085 1279.29 0
+OBJECT_SHARED Models/lib/watertank3x1.ac 15.01350 -14.73085 1279.57 0
+OBJECT_SHARED Models/lib/office3x10.ac 15.01346 -14.73086 1279.29 180
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 15.01318 -14.73020 1281.61 267.04
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 15.01314 -14.73020 1281.70 264.38
+OBJECT_SHARED Models/lib/office16x4n.ac 15.01311 -14.73016 1281.70 0
+OBJECT_SHARED Models/lib/shed8x10.ac 15.01358 -14.73115 1278.61 101.42
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 15.01294 -14.73066 1280.44 88.3
+# END dsf2stg

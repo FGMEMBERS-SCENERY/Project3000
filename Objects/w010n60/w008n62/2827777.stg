@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -7.27629 62.06621 81.64 239.26
+OBJECT_SHARED Models/lib/lamp10m.xml -7.27852 62.06700 81.20 151.93
+OBJECT_SHARED Models/lib/lamp10m.xml -7.27978 62.06729 81.34 151.93
+OBJECT_SHARED Models/lib/lamp10m.xml -7.28138 62.06768 79.50 151.93
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -7.28229 62.06674 81.38 57.01
+OBJECT_SHARED Models/lib/SmHangar.ac -7.27535 62.06688 81.25 62
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -7.27887 62.06721 81.11 61.47
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -7.27915 62.06728 81.08 61.47
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -7.27966 62.06789 81.11 61.47
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -7.28011 62.06801 81.32 61.47
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -7.28038 62.06808 81.76 61.47
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -7.27942 62.06735 81.09 61.47
+OBJECT_SHARED Models/lib/office16x4n.ac -7.28429 62.06738 79.39 166.28
+OBJECT_SHARED Models/lib/FireStationLg.ac -7.28326 62.06783 77.71 331.56
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -7.28190 62.06790 77.65 -27.98
+OBJECT_SHARED Models/lib/SmHangar.ac -7.27654 62.06654 81.65 60.57
+OBJECT_SHARED Models/lib/citation.ac -7.27628 62.06577 81.51 31.76
+OBJECT_SHARED Models/Aircraft/D328_services.xml -7.28089 62.06730 81.11 16.43
+OBJECT_SHARED Models/lib/fboModern1.ac -7.27578 62.06601 80.82 62.37
+OBJECT_SHARED Models/lib/vending-machine.ac -7.28100 62.06784 81.02 62.45
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.28123 62.06776 80.14 240.71
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.28128 62.06778 79.95 239.18
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.28136 62.06779 79.65 241.39
+OBJECT_SHARED Models/Transport/hatchback_green.ac -7.28081 62.06792 81.81 237.09
+OBJECT_SHARED Models/lib/chariot1.ac -7.28060 62.06745 82.10 10.62
+OBJECT_SHARED Models/lib/cargobox2x3m.ac -7.28016 62.06735 82.00 261.87
+OBJECT_SHARED Models/lib/chariot1.ac -7.27928 62.06718 81.06 320.91
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -7.27941 62.06722 81.06 140.24
+OBJECT_SHARED Models/lib/watertank3x1.ac -7.28309 62.06775 78.03 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.27846 62.06698 81.22 201.16
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.27872 62.06704 81.13 114.91
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.27945 62.06721 81.05 202.07
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.28034 62.06740 82.01 145.31
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.28046 62.06743 81.92 123.69
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.28080 62.06750 81.59 85.6
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.28089 62.06752 81.25 191.98
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.28411 62.06722 79.35 275.91
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.28413 62.06725 79.19 159.44
+OBJECT_SHARED Models/lib/propane-tank.ac -7.28412 62.06696 79.80 347.7
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.28011 62.06770 81.61 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.28021 62.06772 81.81 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.28090 62.06789 81.47 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.27963 62.06758 81.06 268.7
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.28299 62.06766 78.02 135
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.28303 62.06769 78.03 136.3
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.28358 62.06785 76.87 106.39
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.28371 62.06787 76.73 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.28374 62.06786 76.82 0
+# END dsf2stg

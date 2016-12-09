@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac -116.63472 35.26979 714.99 249.65
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -116.63551 35.26961 622.67 0
+OBJECT_SHARED Models/lib/office32x25n.ac -116.63383 35.26865 715.69 70.02
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -116.63416 35.26955 714.99 67.67
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -116.63312 35.26942 714.98 73.1
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.63524 35.26995 714.84 163.69
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.63556 35.27005 716.14 159.86
+OBJECT_SHARED Models/lib/fuel-truck.xml -116.63429 35.26965 714.99 155.88
+# END dsf2stg

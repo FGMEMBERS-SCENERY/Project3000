@@ -15,14 +15,14 @@ OBJECT_SHARED Models/lib/SmHangar.ac -88.11597 43.94867 295.95 128.59
 OBJECT_SHARED Models/lib/SmHangar.ac -88.11618 43.94854 296.08 129.784
 OBJECT_SHARED Models/lib/SmHangar.ac -88.11641 43.94841 296.19 129.507
 OBJECT_SHARED Models/lib/SmHangar.ac -88.11664 43.94827 296.29 129.173
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.11489 43.94711 295.69 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.11489 43.94711 295.69 180
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -88.11509 43.94716 295.77 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -88.11532 43.94719 295.85 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -88.11506 43.94696 295.78 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -88.11530 43.94693 295.87 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -88.11543 43.94697 295.90 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.11544 43.94786 295.85 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -88.11520 43.94793 295.86 308.83
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -88.11544 43.94786 295.85 180
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -88.11520 43.94793 295.86 38.8299
 OBJECT_SHARED Models/lib/MedHangar.ac -88.11493 43.94748 295.67 75.6344
 OBJECT_SHARED Models/lib/cone.ac -88.11704 43.94841 296.44 0
 OBJECT_SHARED Models/lib/cone.ac -88.11707 43.94843 296.50 270
@@ -47,4 +47,5 @@ OBJECT_SHARED Models/lib/cone.ac -88.11605 43.94936 296.88 0
 OBJECT_SHARED Models/Misc/picnic_table.ac -88.11518 43.94764 295.78 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.11524 43.94760 295.78 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.11515 43.94770 295.77 0
+OBJECT_SHARED Models/lib/propane-tank.ac -88.11634 43.94867 296.08 37.5685
 # END dsf2stg

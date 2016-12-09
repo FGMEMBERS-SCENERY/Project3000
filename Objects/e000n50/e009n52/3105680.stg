@@ -20,8 +20,8 @@ OBJECT_SHARED Models/lib/container6.ac 9.07100 52.27885 65.59 0
 OBJECT_SHARED Models/lib/container6.ac 9.07355 52.28044 65.14 0
 OBJECT_SHARED Models/lib/container6.ac 9.07590 52.28161 64.73 0
 OBJECT_SHARED Models/Transport/Norberttruck.xml 9.07507 52.28190 64.30 307.4
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.07534 52.28128 64.87 39.4
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.08324 52.28331 64.70 56.98
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.07534 52.28128 64.87 39.4
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.08324 52.28331 64.70 56.98
 OBJECT_SHARED Models/lib/office32x25.ac 9.07439 52.28164 64.36 127.66
 OBJECT_SHARED Models/lib/office40x25.ac 9.07635 52.28308 63.60 309.35
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 9.08333 52.28356 64.53 -28.52

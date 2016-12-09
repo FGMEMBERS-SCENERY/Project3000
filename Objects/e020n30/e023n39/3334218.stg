@@ -5,8 +5,8 @@ OBJECT_SHARED Models/lib/lamp10m.xml 23.50117 39.17622 10.41 0
 OBJECT_SHARED Models/lib/lamp10m.xml 23.50131 39.17654 10.90 0
 OBJECT_SHARED Models/lib/lamp10m.xml 23.50152 39.17698 11.68 0
 OBJECT_SHARED Models/lib/FireStationLg.ac 23.50136 39.17736 12.63 250.77
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 23.50108 39.17738 12.98 74.51
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 23.50105 39.17722 12.54 74.67
+OBJECT_SHARED Models/lib/fuel-truck.xml 23.50108 39.17738 12.98 74.51
+OBJECT_SHARED Models/lib/fuel-truck.xml 23.50105 39.17722 12.54 74.67
 OBJECT_SHARED Models/lib/chariot4.ac 23.50108 39.17602 10.11 72.95
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 23.50113 39.17606 10.30 250.02
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 23.50118 39.17619 10.41 341.57

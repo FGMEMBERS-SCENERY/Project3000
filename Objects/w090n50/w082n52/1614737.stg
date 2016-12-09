@@ -32,7 +32,9 @@ OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66829 52.28441 0.47 130
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66826 52.28442 0.47 130
 OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -81.66872 52.28421 0.43 130
 OBJECT_SHARED Models/lib/shed8x10.ac -81.66941 52.28369 0.38 127.39
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -81.66993 52.28409 0.41 126.49
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -81.66993 52.28409 0.41 216.49
+OBJECT_SHARED Models/lib/propane-tank.ac -81.66708 52.28487 0.55 41.8
+OBJECT_SHARED Models/lib/propane-tank.ac -81.66703 52.28490 0.55 41.48
 OBJECT_SHARED Models/lib/shed8x10.ac -81.66760 52.28469 0.54 40.24
 OBJECT_SHARED Models/lib/SmHangar.ac -81.66927 52.28382 0.39 307.78
 # END dsf2stg

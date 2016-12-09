@@ -30,7 +30,7 @@ OBJECT_SHARED Models/lib/10_spaces_dual.ac 19.91501 39.60512 -0.72 192.904
 OBJECT_SHARED Models/lib/10_spaces_dual.ac 19.91495 39.60534 -0.04 193.618
 OBJECT_SHARED Models/lib/10_spaces_dual.ac 19.91485 39.60574 1.37 6.10025
 OBJECT_SHARED Models/lib/10_spaces_dual.ac 19.91507 39.60556 1.19 190.602
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 19.91373 39.60833 0.73 290.505
+OBJECT_SHARED Models/lib/fuel-truck.xml 19.91373 39.60833 0.73 290.505
 OBJECT_SHARED Models/lib/office65x50.ac 19.91518 39.61091 1.47 186.533
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 19.91446 39.60828 3.47 100.603
 OBJECT_SHARED Models/lib/lamp10m.xml 19.91584 39.59639 0.81 -30.6235
@@ -173,10 +173,10 @@ OBJECT_SHARED Models/Transport/hatchback_green.ac 19.91371 39.60852 1.65 100.603
 OBJECT_SHARED Models/Transport/Norberttruck.xml 19.91348 39.61079 0.68 286.502
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 19.91140 39.61166 1.49 101.191
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 19.91153 39.61210 1.96 101.328
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.91165 39.61184 1.72 99.2465
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.91140 39.61182 1.59 102.801
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.90807 39.61071 1.52 282.133
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.90801 39.61094 1.72 282.49
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.91165 39.61184 1.72 279.247
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.91140 39.61182 1.59 282.801
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.90807 39.61071 1.52 102.133
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 19.90801 39.61094 1.72 102.49
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 19.91231 39.61031 0.34 78.0247
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 19.91340 39.60777 -1.49 307.43
 OBJECT_SHARED Models/Airport/cargobox.xml 19.91325 39.60777 -1.48 0
@@ -214,9 +214,10 @@ OBJECT_SHARED Models/lib/cars14.ac 19.91493 39.60889 2.44 11.3312
 OBJECT_SHARED Models/lib/cars14.ac 19.91512 39.60883 2.52 11.5015
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 19.90834 39.60975 0.99 281.203
 OBJECT_SHARED Models/Aircraft/D328_services.xml 19.90849 39.60950 0.75 11.8476
+OBJECT_SHARED Models/lib/admin31x12.ac 19.91290 39.61078 1.20 10.4193
 OBJECT_SHARED Models/lib/lamp10m.xml 19.91452 39.60607 0.90 0
 OBJECT_SHARED Models/lib/lamp10m.xml 19.91381 39.60829 2.11 0
 OBJECT_SHARED Models/lib/lamp10m.xml 19.91273 39.61017 -0.21 0
 OBJECT_SHARED Models/lib/lamp10m.xml 19.91295 39.60938 -1.08 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 19.91333 39.60966 -1.13 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 19.91333 39.60966 -1.13 0
 # END dsf2stg

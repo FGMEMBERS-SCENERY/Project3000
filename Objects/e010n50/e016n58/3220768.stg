@@ -8,10 +8,10 @@ OBJECT_SHARED Models/lib/6space_wStop.ac 16.23527 58.58268 6.30 89.45
 OBJECT_SHARED Models/lib/6space_wStop.ac 16.23493 58.58268 6.73 89.45
 OBJECT_SHARED Models/lib/cars10.ac 16.23506 58.58279 6.47 90.15
 OBJECT_SHARED Models/lib/cars10.ac 16.23572 58.58274 6.03 179.42
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 16.23994 58.58438 4.67 180
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 16.23751 58.58411 5.13 265.24
+OBJECT_SHARED Models/lib/fuel-truck.xml 16.23994 58.58438 4.67 180
+OBJECT_SHARED Models/lib/fuel-truck.xml 16.23751 58.58411 5.13 265.24
 OBJECT_SHARED Models/lib/loader.ac 16.23240 58.58372 5.91 0
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 16.23758 58.58401 5.07 182.77
+OBJECT_SHARED Models/lib/fuel-truck.xml 16.23758 58.58401 5.07 182.77
 OBJECT_SHARED Models/lib/belt_loader.ac 16.23454 58.58372 5.68 270
 OBJECT_SHARED Models/lib/belt_loader.ac 16.23308 58.58379 5.79 -37.84
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 16.23294 58.58378 5.82 270
@@ -75,8 +75,8 @@ OBJECT_SHARED Models/lib/lamp10m.xml 16.23546 58.58289 5.88 91.95
 OBJECT_SHARED Models/lib/lamp10m.xml 16.23548 58.58236 6.52 88.73
 OBJECT_SHARED Models/lib/lamp10m.xml 16.23511 58.58236 6.63 86.85
 OBJECT_SHARED Models/lib/transformer3x3.ac 16.23078 58.58424 5.89 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 16.24066 58.59119 4.85 153.44
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 16.23760 58.58405 5.11 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 16.24066 58.59119 4.85 243.44
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 16.23760 58.58405 5.11 0
 OBJECT_SHARED Models/lib/HorizTanks2.ac 16.23979 58.58440 4.68 270
 OBJECT_SHARED Models/lib/cargobox2x3m.ac 16.23295 58.58362 5.88 0
 OBJECT_SHARED Models/lib/cargobox2x3m.ac 16.23292 58.58362 5.89 0
@@ -128,6 +128,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml 16.23356 58.58253 6.72 178.03
 OBJECT_SHARED Models/lib/lamp10m.xml 16.23314 58.58253 6.80 268.03
 OBJECT_SHARED Models/lib/SmHangar.ac 16.24138 58.59141 6.32 59.42
 OBJECT_SHARED Models/lib/MedHangar.ac 16.23986 58.58340 5.18 269.27
+OBJECT_SHARED Models/lib/industrial13x24.ac 16.23626 58.58324 5.68 90.88
 OBJECT_SHARED Models/lib/FireStationLg.ac 16.23676 58.58339 5.54 0
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 16.23565 58.58363 5.58 179.08
 OBJECT_SHARED Models/lib/office32x25n.ac 16.23167 58.58281 6.52 90

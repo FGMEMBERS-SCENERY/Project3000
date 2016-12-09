@@ -10,6 +10,10 @@ OBJECT_SHARED Models/lib/office65x50.ac 11.74923 48.34775 449.35 277
 OBJECT_SHARED Models/lib/office65x50.ac 11.74821 48.34767 449.39 277
 OBJECT_SHARED Models/lib/office65x50.ac 11.74572 48.34750 448.34 277.7
 OBJECT_SHARED Models/lib/office65x50.ac 11.74659 48.34758 449.48 277.7
+OBJECT_SHARED Models/lib/industrial15x22.ac 11.74347 48.34707 450.19 96.58
+OBJECT_SHARED Models/lib/industrial15x22.ac 11.74318 48.34593 448.51 96.06
+OBJECT_SHARED Models/lib/industrial15x22.ac 11.74368 48.34612 449.50 96.58
+OBJECT_SHARED Models/lib/industrial15x22.ac 11.74352 48.34680 450.46 96.58
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 11.74294 48.34669 449.51 78.64
 OBJECT_SHARED Models/lib/chariot1.ac 11.74822 48.34654 449.64 193.11
 OBJECT_SHARED Models/lib/chariot1.ac 11.74729 48.34645 449.70 2.77
@@ -242,10 +246,10 @@ OBJECT_SHARED Models/lib/cone.ac 11.74961 48.34545 449.81 0
 OBJECT_SHARED Models/lib/cone.ac 11.74972 48.34546 449.78 0
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 11.74968 48.34539 449.80 8.64002
 OBJECT_SHARED Models/Aircraft/D328_services.xml 11.74697 48.34504 450.00 95.19
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 11.74412 48.34728 364.49 334.24
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 11.74420 48.34684 365.79 338.88
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 11.74426 48.34641 366.67 343.87
-OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac 11.74432 48.34596 365.54 333.45
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 11.74412 48.34728 354.49 334.24
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 11.74420 48.34684 355.79 338.88
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 11.74426 48.34641 356.67 343.87
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 11.74432 48.34596 355.54 333.45
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 11.74343 48.34500 358.47 242.46
 OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 11.74816 48.34356 355.25 0
 OBJECT_SHARED Models/lib/lamp10m.xml 11.74654 48.34450 450.12 98.25

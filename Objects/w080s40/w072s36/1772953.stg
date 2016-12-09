@@ -2,10 +2,10 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/HorizTanks2.ac -71.70045 -35.62300 116.75 92.3
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.69980 -35.62324 116.89 112.38
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.69968 -35.62365 116.55 68.59
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.70012 -35.62295 116.85 163.61
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.69997 -35.62410 116.21 72.65
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.69980 -35.62324 116.89 292.38
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.69968 -35.62365 116.55 248.59
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.70012 -35.62295 116.85 343.61
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.69997 -35.62410 116.21 252.65
 OBJECT_SHARED Models/lib/SmHangar.ac -71.69974 -35.62344 116.77 5.71
 OBJECT_SHARED Models/lib/SmHangar.ac -71.69991 -35.62309 116.87 63.44
 OBJECT_SHARED Models/lib/SmHangar.ac -71.69984 -35.62384 116.46 334.67

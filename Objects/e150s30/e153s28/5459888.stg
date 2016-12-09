@@ -29,9 +29,9 @@ OBJECT_SHARED Models/Transport/hatchback_blue.ac 153.07412 -27.20649 2.34 10.3
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 153.07409 -27.20650 2.34 11.53
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 153.07202 -27.20674 2.25 9.92999
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 153.07206 -27.20674 2.25 12.72
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 153.07098 -27.20634 1.83 190.51
+OBJECT_SHARED Models/lib/fuel-truck.xml 153.07098 -27.20634 1.83 190.51
 OBJECT_SHARED Models/lib/HorizTanks2.ac 153.06926 -27.20767 2.19 194.64
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 153.07285 -27.20592 1.76 12.53
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 153.07285 -27.20592 1.76 102.53
 OBJECT_SHARED Models/Trees/billboard-tree.xml 153.07385 -27.20623 2.06 116.57
 OBJECT_SHARED Models/Trees/billboard-tree.xml 153.07395 -27.20629 2.15 176.19
 OBJECT_SHARED Models/Trees/billboard-tree.xml 153.07390 -27.20622 2.06 246.04

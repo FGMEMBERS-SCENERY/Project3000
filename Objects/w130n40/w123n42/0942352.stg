@@ -2,13 +2,12 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/caisses_group.ac -122.87403 42.36946 399.65 291.037
-#OBJECT_SHARED Models/lib/jetway_e8m.ac -122.87377 42.36886 399.50 199.283
+OBJECT_SHARED Models/lib/jetway_e8m.ac -122.87377 42.36886 399.50 199.283
 OBJECT_SHARED Models/lib/chariot3.ac -122.87295 42.36813 400.11 289.821
 OBJECT_SHARED Models/lib/caisses_group.ac -122.87239 42.36803 400.46 197.278
 OBJECT_SHARED Models/lib/belt_loader.ac -122.87383 42.36924 399.45 -68.1991
-#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -122.87377 42.36886 399.50 57.5651
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.87341 42.36848 400.06 15.5239
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.87421 42.36993 399.62 113.312
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.87341 42.36848 400.06 15.5239
+OBJECT_SHARED Models/lib/fuel-truck.xml -122.87421 42.36993 399.62 113.312
 OBJECT_SHARED Models/lib/chariot3curve.ac -122.87326 42.36832 400.09 315
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -122.87386 42.36916 399.45 0
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -122.86658 42.37275 399.74 357.8
@@ -31,8 +30,8 @@ OBJECT_SHARED Models/lib/office32x25.ac -122.86664 42.37329 400.29 112.71
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -122.87166 42.36684 400.65 17.526
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -122.87751 42.37177 397.94 252.645
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -122.87656 42.37196 398.39 244.728
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.87742 42.37188 398.40 248.198
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.87742 42.37213 398.38 68.7487
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.87736 42.37203 398.39 254.054
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.87726 42.37217 398.38 248.198
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.87742 42.37188 398.40 68.1978
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.87742 42.37213 398.38 248.749
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.87736 42.37203 398.39 74.054
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -122.87726 42.37217 398.38 68.1977
 # END dsf2stg

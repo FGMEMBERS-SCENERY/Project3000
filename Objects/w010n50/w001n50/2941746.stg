@@ -2,14 +2,14 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -0.29479 50.83323 0.05 110.89
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.29472 50.83312 0.07 103.84
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.28878 50.83473 -0.03 104.32
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.28919 50.83463 0.04 105.87
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.29472 50.83312 0.07 283.84
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.28878 50.83473 -0.03 284.32
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.28919 50.83463 0.04 285.87
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -0.29151 50.83475 -0.11 111.71
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -0.29094 50.83440 0.10 103.35
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -0.29113 50.83349 0.37 192.38
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -0.29150 50.83378 0.27 104.77
-OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -0.29170 50.83373 0.28 105.46
+OBJECT_SHARED Models/lib/fuel-truck.xml -0.29113 50.83349 0.37 192.38
+OBJECT_SHARED Models/lib/fuel-truck.xml -0.29150 50.83378 0.27 104.77
+OBJECT_SHARED Models/lib/fuel-truck.xml -0.29170 50.83373 0.28 105.46
 OBJECT_SHARED Models/lib/office32x25.ac -0.29381 50.83260 0.17 105.37
 OBJECT_SHARED Models/lib/office32x25.ac -0.29445 50.83249 0.12 105.23
 OBJECT_SHARED Models/lib/FireStationLg.ac -0.28651 50.83363 0.17 106.02
@@ -25,6 +25,7 @@ OBJECT_SHARED Models/Misc/FlagpoleFG.xml -0.29044 50.83320 0.45 0
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -0.29041 50.83319 0.45 0
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -0.29049 50.83320 0.44 0
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -0.29054 50.83316 0.44 0
+OBJECT_SHARED Models/lib/admin31x12.ac -0.29063 50.83352 0.40 285.88
 OBJECT_SHARED Models/lib/MedHangar.ac -0.29128 50.83327 0.40 285.98
 OBJECT_SHARED Models/lib/MedHangar.ac -0.29180 50.83318 0.36 285.99
 OBJECT_SHARED Models/lib/SmHangar.ac -0.29590 50.83270 0.04 286.35

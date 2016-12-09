@@ -2,13 +2,13 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/SmHangar.ac 8.18609 48.79525 120.51 144.84
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18640 48.79497 119.86 236.31
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18514 48.79364 122.33 315.56
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18536 48.79507 121.26 143.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18640 48.79497 119.86 56.31
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18514 48.79364 122.33 135.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.18536 48.79507 121.26 323.13
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.18462 48.79381 122.15 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.18483 48.79489 121.75 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.18538 48.79442 120.61 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.18589 48.79481 120.32 54.58
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.18589 48.79481 120.32 144.58
 OBJECT_SHARED Models/Transport/hatchback_red.ac 8.18489 48.79478 121.59 238.24
 OBJECT_SHARED Models/Transport/hatchback_red.ac 8.18476 48.79450 121.49 235.44
 OBJECT_SHARED Models/Transport/hatchback_red.ac 8.18497 48.79379 122.27 235.36

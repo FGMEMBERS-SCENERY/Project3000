@@ -1,0 +1,54 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -95.39952 32.35949 -0.88 315
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -95.40888 32.35073 -0.84 18.18
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -95.40836 32.35121 -0.85 159.83
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -95.40857 32.35055 -0.83 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -95.40406 32.36205 -0.90 135
+OBJECT_SHARED Models/lib/HorizTanks2.ac -95.40398 32.36212 -0.90 135
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -95.40414 32.36219 -0.90 45
+OBJECT_SHARED Models/lib/SmHangar.ac -95.40204 32.36077 -0.90 225
+OBJECT_SHARED Models/lib/SmHangar.ac -95.40148 32.36131 -0.89 45
+OBJECT_SHARED Models/lib/SmHangar.ac -95.40221 32.36092 -0.90 225
+OBJECT_SHARED Models/lib/SmHangar.ac -95.40166 32.36145 -0.90 45
+OBJECT_SHARED Models/lib/SmHangar.ac -95.40238 32.36106 -0.90 225
+OBJECT_SHARED Models/lib/SmHangar.ac -95.40182 32.36160 -0.90 45
+OBJECT_SHARED Models/lib/SmHangar.ac -95.40256 32.36121 -0.90 225
+OBJECT_SHARED Models/lib/SmHangar.ac -95.40200 32.36175 -0.90 45
+OBJECT_SHARED Models/lib/fboModern1.ac -95.39779 32.35936 -0.86 135
+OBJECT_SHARED Models/lib/LongRow.ac -95.40165 32.36115 -0.90 135
+OBJECT_SHARED Models/lib/LongRow.ac -95.40190 32.36095 -0.90 135
+OBJECT_SHARED Models/lib/MedHangar.ac -95.40285 32.36204 -0.90 45
+OBJECT_SHARED Models/lib/fboModern1.ac -95.40361 32.36232 -0.90 135
+OBJECT_SHARED Models/lib/RampGroup.xml -95.40839 32.35109 -0.84 225
+OBJECT_SHARED Models/lib/lamp10m.xml -95.40873 32.35080 -0.84 90
+OBJECT_SHARED Models/lib/lamp10m.xml -95.40854 32.35096 -0.84 135
+OBJECT_SHARED Models/lib/lamp10m.xml -95.39601 32.36100 -0.84 135
+OBJECT_SHARED Models/lib/lamp10m.xml -95.39773 32.35955 -0.86 135
+OBJECT_SHARED Models/lib/lamp10m.xml -95.39813 32.35920 -0.87 135
+OBJECT_SHARED Models/lib/lamp10m.xml -95.39962 32.35956 -0.88 45
+OBJECT_SHARED Models/lib/lamp10m.xml -95.39932 32.35932 -0.88 45
+OBJECT_SHARED Models/lib/lamp10m.xml -95.40007 32.35925 -0.89 45
+OBJECT_SHARED Models/lib/lamp10m.xml -95.40027 32.35941 -0.89 45
+OBJECT_SHARED Models/lib/lamp10m.xml -95.40064 32.35971 -0.89 45
+OBJECT_SHARED Models/lib/lamp10m.xml -95.40299 32.36219 -0.90 45
+OBJECT_SHARED Models/lib/lamp10m.xml -95.40266 32.36190 -0.90 45
+OBJECT_SHARED Models/lib/lamp10m.xml -95.40396 32.36216 -0.90 135
+OBJECT_SHARED Models/lib/lamp10m.xml -95.40356 32.36249 -0.90 135
+OBJECT_SHARED Models/lib/lamp10m.xml -95.40838 32.35110 -0.84 180
+OBJECT_SHARED Models/lib/RampGroup.xml -95.40872 32.35081 -0.84 225
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40913 32.35086 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40830 32.35157 -0.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40310 32.36271 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40924 32.35097 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40841 32.35168 -0.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40321 32.36282 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40935 32.35107 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40853 32.35177 -0.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40333 32.36291 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40902 32.35078 -0.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40819 32.35149 -0.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40299 32.36263 -0.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.40355 32.36290 -0.90 0
+# END dsf2stg

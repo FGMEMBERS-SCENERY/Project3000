@@ -11,6 +11,7 @@ OBJECT_SHARED Models/Misc/picnic_table.ac 6.53732 50.40783 578.02 315
 OBJECT_SHARED Models/Misc/picnic_table.ac 6.53728 50.40781 578.00 310.6
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 6.53435 50.40652 579.78 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 6.53476 50.40646 578.82 0
+OBJECT_SHARED Models/lib/propane-tank.ac 6.53637 50.40663 574.59 128.16
 OBJECT_SHARED Models/lib/stack_of_cones.ac 6.53698 50.40762 577.44 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 6.53800 50.40855 581.83 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 6.53765 50.40814 579.66 0
@@ -30,11 +31,11 @@ OBJECT_SHARED Models/lib/cars6.ac 6.53719 50.40706 575.77 40.03
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.52822 50.40415 580.20 298.81
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.52962 50.40465 577.78 35.54
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.52918 50.40485 577.89 204.23
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.52976 50.40503 577.25 29.05
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.52997 50.40512 577.41 26.56
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.53585 50.40684 577.34 122.28
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.53396 50.40661 581.04 33.5
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.53485 50.40707 580.40 34.29
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.52976 50.40503 577.25 209.05
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.52997 50.40512 577.41 206.56
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.53585 50.40684 577.34 302.28
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.53396 50.40661 581.04 213.5
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.53485 50.40707 580.40 214.29
 OBJECT_SHARED Models/lib/office16x4n.ac 6.53820 50.40752 577.56 123.69
 OBJECT_SHARED Models/lib/office16x4n.ac 6.53830 50.40794 579.57 123.69
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 6.53658 50.40717 576.18 215.22
@@ -210,7 +211,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 6.53458 50.40503 572.12 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 6.53473 50.40519 572.62 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 6.53492 50.40545 573.72 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 6.53492 50.40545 573.72 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.52887 50.40464 578.56 32.42
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.52887 50.40464 578.56 122.42
 OBJECT_SHARED Models/lib/MedHangar.ac 6.52632 50.40319 580.62 300.71
 OBJECT_SHARED Models/lib/MedHangar.ac 6.52703 50.40348 580.37 301.11
 OBJECT_SHARED Models/lib/MedHangar.ac 6.52773 50.40376 580.15 301.99

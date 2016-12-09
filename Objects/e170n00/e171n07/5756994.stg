@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 171.28042 7.06815 -0.17 236.02
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 171.28117 7.06828 -0.15 148.95
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 171.28216 7.06833 -0.17 58.48
+OBJECT_SHARED Models/lib/fuel-truck.xml 171.27986 7.06817 -0.18 30.41
+OBJECT_SHARED Models/lib/HorizTanks2.ac 171.27958 7.06816 -0.18 283.73
+OBJECT_SHARED Models/lib/HorizTanks2.ac 171.27967 7.06818 -0.18 283.73
+OBJECT_SHARED Models/lib/FireStationLg.ac 171.27002 7.06571 -0.30 283.74
+OBJECT_SHARED Models/lib/FireStationLg.ac 171.27003 7.06566 -0.30 283.74
+OBJECT_SHARED Models/lib/farm19x12.ac 171.27012 7.06575 -0.30 194.26
+OBJECT_SHARED Models/lib/cars6.ac 171.26969 7.06582 -0.30 283.24
+OBJECT_SHARED Models/lib/SmHangar.ac 171.28229 7.06873 -0.17 13.06
+OBJECT_SHARED Models/lib/belt_loader.ac 171.28121 7.06867 -0.16 104.47
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 171.28075 7.06850 -0.15 193.25
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 171.28230 7.06836 -0.17 278.97
+OBJECT_SHARED Models/lib/chariot3.ac 171.28248 7.06856 -0.17 14.67
+OBJECT_SHARED Models/lib/chariot4.ac 171.28137 7.06871 -0.16 14.81
+OBJECT_SHARED Models/lib/loader.ac 171.28127 7.06869 -0.16 110.56
+OBJECT_SHARED Models/lib/loader.ac 171.28205 7.06888 -0.18 93.95
+OBJECT_SHARED Models/lib/belt_loader.ac 171.28194 7.06884 -0.18 107.35
+OBJECT_SHARED Models/lib/lamp10m.xml 171.28269 7.06879 -0.20 97.59
+OBJECT_SHARED Models/lib/lamp10m.xml 171.28050 7.06850 -0.15 153.43
+OBJECT_SHARED Models/lib/lamp10m.xml 171.28106 7.06866 -0.16 104.04
+OBJECT_SHARED Models/lib/lamp10m.xml 171.28152 7.06878 -0.17 104.32
+OBJECT_SHARED Models/lib/lamp10m.xml 171.28208 7.06892 -0.18 103.35
+OBJECT_SHARED Models/lib/lamp10m.xml 171.28228 7.06881 -0.17 12.53
+# END dsf2stg

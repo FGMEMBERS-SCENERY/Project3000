@@ -5,6 +5,6 @@ OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.21799 42.07535 1.64 211.3
 OBJECT_SHARED Models/lib/SmHangar.ac -70.21717 42.07581 1.90 119.57
 OBJECT_SHARED Models/lib/lamp10m.xml -70.21629 42.07615 2.24 60.89
 OBJECT_SHARED Models/lib/lamp10m.xml -70.21703 42.07590 1.98 121.4
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.21997 42.07457 1.50 29.92
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.21997 42.07457 1.50 209.92
 OBJECT_SHARED Models/lib/MedHangar.ac -70.21670 42.07596 2.09 119.45
 # END dsf2stg

@@ -16,11 +16,11 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml -71.14366 -40.08119 788.10 270
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -71.14277 -40.08154 788.23 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -71.14357 -40.08159 788.01 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.14139 -40.08135 787.08 33.41
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.14350 -40.08070 788.03 287.55
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.14350 -40.08070 788.03 107.55
 OBJECT_SHARED Models/Aircraft/D328_services.xml -71.14416 -40.08182 787.82 117.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.14612 -40.08199 789.51 346
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.14612 -40.08199 789.51 166
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.14134 -40.08165 787.32 37
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -71.14101 -40.08113 786.55 75
+OBJECT_SHARED Models/lib/citation.ac -71.14101 -40.08113 786.55 75
 OBJECT_SHARED Models/lib/cars14.ac -71.14336 -40.08148 788.20 214.75
 OBJECT_SHARED Models/lib/cars14.ac -71.14333 -40.08150 788.27 34.93
 OBJECT_SHARED Models/lib/office32x25.ac -71.14210 -40.08249 788.52 213
