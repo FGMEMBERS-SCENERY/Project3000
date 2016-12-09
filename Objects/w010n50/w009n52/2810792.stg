@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92485 52.69357 3.00 197.57
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92373 52.69356 2.72 197.5
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92251 52.69350 2.44 197.44
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92139 52.69344 2.19 197.41
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92031 52.69339 1.96 197.1
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.91921 52.69328 1.75 197.62
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92485 52.69357 3.00 197.57
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92373 52.69356 2.72 197.5
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92251 52.69350 2.44 197.44
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92139 52.69344 2.19 197.41
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.92031 52.69339 1.96 197.1
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.91921 52.69328 1.75 197.62
 OBJECT_SHARED Models/lib/LgMaint.ac -8.90507 52.70694 2.02 324.97
 OBJECT_SHARED Models/lib/MedHangar.ac -8.90767 52.70391 0.62 343.35
 OBJECT_SHARED Models/lib/LgMaint.ac -8.90898 52.70013 -0.04 11.07

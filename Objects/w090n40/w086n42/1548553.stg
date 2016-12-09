@@ -4,14 +4,14 @@
 OBJECT_SHARED Models/lib/MedHangar.ac -85.54925 42.24404 257.77 90
 OBJECT_SHARED Models/lib/cube16x10.ac -85.55460 42.24113 262.32 60.56
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -85.54731 42.23805 258.91 90.62
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55630 42.23897 263.70 71.76
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55485 42.24036 262.73 99.02
-OBJECT_SHARED Models/lib/jetway_e14m.ac -85.55491 42.24002 262.83 324.97
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55476 42.23994 262.81 74.57
-OBJECT_SHARED Models/lib/jetway_e12m.ac -85.55508 42.23986 262.95 304.4
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55499 42.23977 262.94 57
-OBJECT_SHARED Models/lib/jetway_e12m.ac -85.55553 42.23961 263.22 249.26
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55558 42.23951 263.29 0.199997
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55630 42.23897 263.70 71.76
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55485 42.24036 262.73 99.02
+#OBJECT_SHARED Models/lib/jetway_e14m.ac -85.55491 42.24002 262.83 324.97
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55476 42.23994 262.81 74.57
+#OBJECT_SHARED Models/lib/jetway_e12m.ac -85.55508 42.23986 262.95 304.4
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55499 42.23977 262.94 57
+#OBJECT_SHARED Models/lib/jetway_e12m.ac -85.55553 42.23961 263.22 249.26
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55558 42.23951 263.29 0.199997
 OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -85.55480 42.23038 264.04 180.33
 OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -85.55503 42.23017 264.34 0
 OBJECT_SHARED Models/lib/MedHangar.ac -85.55556 42.23052 264.69 270
@@ -33,6 +33,6 @@ OBJECT_SHARED Models/lib/LongRow.ac -85.55586 42.23163 264.56 90
 OBJECT_SHARED Models/lib/LongRow.ac -85.55587 42.23072 264.83 90
 OBJECT_SHARED Models/lib/LongRow.ac -85.55439 42.23064 263.61 90
 OBJECT_SHARED Models/lib/MedHangar.ac -85.55218 42.22982 263.26 180.47
-OBJECT_SHARED Models/lib/jetway_e16m.ac -85.55526 42.23977 263.08 268.19
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55526 42.23962 263.13 20.46
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -85.55526 42.23977 263.08 268.19
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -85.55526 42.23962 263.13 20.46
 # END dsf2stg

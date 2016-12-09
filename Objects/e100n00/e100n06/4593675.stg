@@ -115,7 +115,7 @@ OBJECT_SHARED Models/Airport/tower_small_airfield.xml 100.39704 6.19304 3.62 318
 OBJECT_SHARED Models/Transport/Norberttruck.xml 100.40027 6.19541 6.91 296.05
 OBJECT_SHARED Models/lib/container6.ac 100.40044 6.19550 6.93 27.41
 OBJECT_SHARED Models/lib/container6.ac 100.40048 6.19542 6.92 27.41
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 100.39613 6.19145 5.03 72
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 100.39577 6.19107 4.93 70.12
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 100.39613 6.19145 5.03 72
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 100.39577 6.19107 4.93 70.12
 OBJECT_SHARED Models/lib/FireStationLg.ac 100.39746 6.19399 3.78 226.75
 # END dsf2stg

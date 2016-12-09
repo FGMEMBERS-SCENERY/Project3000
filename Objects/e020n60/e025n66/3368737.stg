@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 25.82757 66.55845 193.34 208.03
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 25.82674 66.55815 193.06 233.46
-OBJECT_SHARED Models/lib/jetway_e10m.ac 25.82773 66.55838 193.28 132.61
-OBJECT_SHARED Models/lib/jetway_e10m.ac 25.82689 66.55808 193.08 132.61
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 25.82757 66.55845 193.34 208.03
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 25.82674 66.55815 193.06 233.46
+#OBJECT_SHARED Models/lib/jetway_e10m.ac 25.82773 66.55838 193.28 132.61
+#OBJECT_SHARED Models/lib/jetway_e10m.ac 25.82689 66.55808 193.08 132.61
 OBJECT_SHARED Models/lib/JetWayWallBase.ac 25.82777 66.55837 193.28 133.55
 OBJECT_SHARED Models/lib/JetWayWallBase.ac 25.82694 66.55806 193.08 133.55
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 25.82750 66.55826 193.22 244.91
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 25.82750 66.55826 193.22 244.91
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 25.83679 66.56266 189.82 0
 OBJECT_SHARED Models/lib/LongRow.ac 25.83188 66.55893 193.28 11.41
 OBJECT_SHARED Models/lib/LongRow.ac 25.82964 66.55875 193.41 11.41

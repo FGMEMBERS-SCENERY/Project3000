@@ -40,9 +40,9 @@ OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -89.67209 39.84409 179.09 54
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -89.67303 39.84505 179.37 117.41
 OBJECT_SHARED Models/lib/chariot1.ac -89.67300 39.84461 179.30 90
 OBJECT_SHARED Models/lib/RampParking.xml -89.67315 39.84450 179.31 103.19
-OBJECT_SHARED Models/lib/jetway_e4m.ac -89.67304 39.84465 179.32 56.64
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -89.67304 39.84465 179.32 295.88
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -89.67272 39.84453 179.25 351.47
+#OBJECT_SHARED Models/lib/jetway_e4m.ac -89.67304 39.84465 179.32 56.64
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -89.67304 39.84465 179.32 295.88
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -89.67272 39.84453 179.25 351.47
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.67691 39.83794 177.62 0
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -89.67709 39.83801 177.67 0
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -89.67274 39.84427 179.21 330

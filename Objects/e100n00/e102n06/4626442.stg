@@ -97,9 +97,9 @@ OBJECT_SHARED Models/Airport/cargoim.xml 102.29291 6.16877 7.42 348.47
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 102.29290 6.16901 7.28 170.7
 OBJECT_SHARED Models/lib/caisses_group.ac 102.29311 6.16896 7.30 349.26
 OBJECT_SHARED Models/lib/LuggCartGroup.ac 102.29315 6.16881 7.40 260.6
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 102.29228 6.16977 7.87 13.12
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 102.29193 6.16983 8.41 13.12
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 102.29264 6.16971 7.08 13.12
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 102.29228 6.16977 7.87 13.12
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 102.29193 6.16983 8.41 13.12
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 102.29264 6.16971 7.08 13.12
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 102.29427 6.16927 8.18 349.43
 OBJECT_SHARED Models/lib/office40x25.ac 102.29512 6.16945 8.29 259.66
 OBJECT_SHARED Models/lib/FireStationLg.ac 102.29552 6.16941 8.05 170.63

@@ -81,10 +81,10 @@ OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -63.11612 18.04240 5.91 90
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -63.11627 18.04219 5.83 90
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -63.11747 18.04151 5.72 15.95
 OBJECT_SHARED Models/lib/office40x25.ac -63.11575 18.04310 5.67 141.76
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -63.11262 18.04378 4.51 30.13
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -63.11317 18.04371 4.96 30.13
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -63.11383 18.04362 5.32 30.13
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -63.11454 18.04353 5.75 30.13
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -63.11262 18.04378 4.51 30.13
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -63.11317 18.04371 4.96 30.13
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -63.11383 18.04362 5.32 30.13
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -63.11454 18.04353 5.75 30.13
 OBJECT_SHARED Models/lib/fboModern1.ac -63.11716 18.04203 6.20 320.02
 OBJECT_SHARED Models/lib/chariot3curve.ac -63.11467 18.04328 5.75 90
 OBJECT_SHARED Models/lib/chariot3curve.ac -63.11351 18.04350 5.10 90

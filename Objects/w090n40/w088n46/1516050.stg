@@ -8,8 +8,8 @@ OBJECT_SHARED Models/lib/loader.ac -87.38819 46.34946 363.66 181.4
 OBJECT_SHARED Models/lib/CargoDolly.ac -87.38791 46.34957 363.78 45
 OBJECT_SHARED Models/lib/chariot5.ac -87.38787 46.34944 363.72 80.31
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -87.38828 46.34940 363.60 173.26
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -87.38797 46.34962 363.75 282.03
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -87.38795 46.34975 363.81 193.74
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -87.38797 46.34962 363.75 282.03
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -87.38795 46.34975 363.81 193.74
 OBJECT_SHARED Models/lib/CargoPodPkng.ac -87.39262 46.33105 355.07 265.51
 OBJECT_SHARED Models/lib/CargoPodPkng.ac -87.39309 46.33109 355.12 266.57
 OBJECT_SHARED Models/lib/CargoPalettePkng.ac -87.39262 46.33105 355.07 265.88

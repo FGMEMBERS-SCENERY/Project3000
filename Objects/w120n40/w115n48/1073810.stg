@@ -38,9 +38,9 @@ OBJECT_SHARED Models/lib/HorizTanks2.ac -114.25422 48.30688 902.86 324.51
 OBJECT_SHARED Models/lib/lamp10m.xml -114.25251 48.30868 903.32 51.97
 OBJECT_SHARED Models/lib/chariot1.ac -114.25343 48.30734 902.96 176.91
 OBJECT_SHARED Models/lib/belt_loader.ac -114.25381 48.30732 902.96 47.35
-OBJECT_SHARED Models/lib/jetway_e4m.ac -114.25358 48.30720 902.93 324.22
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -114.25324 48.30746 903.01 249.52
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -114.25358 48.30720 902.93 266.81
+#OBJECT_SHARED Models/lib/jetway_e4m.ac -114.25358 48.30720 902.93 324.22
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -114.25324 48.30746 903.01 249.52
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -114.25358 48.30720 902.93 266.81
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -114.25387 48.30714 902.91 54.68
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -114.25354 48.30746 903.00 56.77
 OBJECT_SHARED Models/lib/MedHangar.ac -114.25025 48.30914 903.50 313.16

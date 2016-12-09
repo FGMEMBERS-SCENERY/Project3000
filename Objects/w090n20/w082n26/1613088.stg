@@ -5,7 +5,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml -81.86017 26.59194 3.99 131.06
 OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -81.85672 26.58126 3.92 90
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.86040 26.59140 3.99 185.94
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -81.86158 26.59050 4.00 86.71
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -81.86163 26.59073 4.00 62.44
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -81.86163 26.59073 4.00 62.44
 OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -81.86658 26.58100 3.99 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -81.86196 26.58244 4.00 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.86809 26.58057 3.98 220.78

@@ -2,17 +2,17 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -80.18204 42.08315 222.87 219.4
-OBJECT_SHARED Models/lib/jetway_e16m.ac -80.18111 42.08314 222.97 48
-OBJECT_SHARED Models/lib/jetway_e16m.ac -80.18190 42.08263 222.88 249
-OBJECT_SHARED Models/lib/jetway_e16m.ac -80.18097 42.08326 222.98 347
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -80.18111 42.08314 222.97 48
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -80.18190 42.08263 222.88 249
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -80.18097 42.08326 222.98 347
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -80.18111 42.08313 222.97 226
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -80.18164 42.08270 222.92 127
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -80.18190 42.08263 222.88 45
-OBJECT_SHARED Models/lib/jetway_e10m.ac -80.18164 42.08270 222.92 307.01
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -80.18156 42.08263 222.92 56
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -80.18201 42.08242 222.87 328
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -80.18076 42.08322 223.00 9
-OBJECT_SHARED Models/lib/jetway_e8m.ac -80.18198 42.08248 222.87 247
+#OBJECT_SHARED Models/lib/jetway_e10m.ac -80.18164 42.08270 222.92 307.01
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -80.18156 42.08263 222.92 56
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -80.18201 42.08242 222.87 328
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -80.18076 42.08322 223.00 9
+#OBJECT_SHARED Models/lib/jetway_e8m.ac -80.18198 42.08248 222.87 247
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -80.18202 42.08222 222.87 160
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -80.18123 42.08248 222.98 153
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -80.18057 42.08312 223.03 153

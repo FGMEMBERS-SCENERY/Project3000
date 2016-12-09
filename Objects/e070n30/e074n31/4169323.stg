@@ -104,13 +104,13 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 74.80676 31.70393 227.89 84
 OBJECT_SHARED Models/Transport/hatchback_red.ac 74.80676 31.70396 228.20 84
 OBJECT_SHARED Models/Transport/hatchback_red.ac 74.80676 31.70398 228.20 84
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 74.80562 31.70331 227.97 83
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 74.80527 31.70461 232.27 286
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 74.80536 31.70524 230.24 286
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 74.80545 31.70589 226.04 286
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 74.80527 31.70461 232.27 286
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 74.80536 31.70524 230.24 286
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 74.80545 31.70589 226.04 286
 OBJECT_SHARED Models/lib/RampGroup.xml 74.80319 31.70541 228.08 260
 OBJECT_SHARED Models/lib/RampGroup.xml 74.80327 31.70589 227.48 260
 OBJECT_SHARED Models/lib/RampGroup.xml 74.80335 31.70631 227.12 260
 OBJECT_SHARED Models/lib/RampGroup.xml 74.80341 31.70670 226.61 260
 OBJECT_SHARED Models/lib/RampGroup.xml 74.80348 31.70710 226.13 260
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 74.80554 31.70654 223.65 286
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 74.80554 31.70654 223.65 286
 # END dsf2stg

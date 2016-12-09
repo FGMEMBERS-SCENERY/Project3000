@@ -20,8 +20,8 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -58.75812 -27.44715 61.47 35
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -58.75766 -27.44712 61.60 35
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -58.75770 -27.44629 61.75 135
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -58.75869 -27.44715 61.27 35
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -58.75852 -27.44720 61.38 239.43
-OBJECT_SHARED Models/lib/jetway_e8m.ac -58.75852 -27.44726 61.34 90.46
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -58.75852 -27.44720 61.38 239.43
+#OBJECT_SHARED Models/lib/jetway_e8m.ac -58.75852 -27.44726 61.34 90.46
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -58.75852 -27.44728 61.34 89.15
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -58.75932 -27.44730 60.88 179.96
 OBJECT_SHARED Models/lib/cars7.ac -58.75736 -27.44778 61.73 181

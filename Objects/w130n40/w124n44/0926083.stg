@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -123.21388 44.11998 111.00 181.03
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -123.21418 44.11990 111.03 280.34
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -123.21408 44.11972 111.06 324.09
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -123.21376 44.11993 111.03 113.8
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -123.21413 44.11995 111.00 204.77
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -123.21388 44.11998 111.00 181.03
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -123.21418 44.11990 111.03 280.34
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -123.21408 44.11972 111.06 324.09
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -123.21376 44.11993 111.03 113.8
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -123.21413 44.11995 111.00 204.77
 OBJECT_SHARED Models/lib/LuggCartGroup.ac -123.21318 44.11976 111.13 148.73
 OBJECT_SHARED Models/lib/belt_loader.ac -123.21451 44.11081 111.61 90
 OBJECT_SHARED Models/lib/belt_loader.ac -123.21453 44.11130 111.64 0

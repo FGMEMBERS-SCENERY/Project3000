@@ -13,7 +13,7 @@ OBJECT_SHARED Models/lib/cargobox2x3m.ac -119.83683 34.42489 3.53 93.3687
 OBJECT_SHARED Models/lib/cargobox2x3m.ac -119.83684 34.42490 3.53 98.7466
 OBJECT_SHARED Models/lib/cargobox2x3m.ac -119.83689 34.42492 3.53 99.4662
 OBJECT_SHARED Models/lib/cargobox2x3m.ac -119.83690 34.42495 3.52 97.7798
-OBJECT_SHARED Models/lib/jetway_e12m.ac -119.83665 34.42407 3.67 358.219
+#OBJECT_SHARED Models/lib/jetway_e12m.ac -119.83665 34.42407 3.67 358.219
 OBJECT_SHARED Models/lib/MedHangar.ac -119.84564 34.42906 2.76 115.835
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -119.83630 34.42019 3.70 305.661
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -119.83663 34.42124 4.03 283.38
@@ -64,7 +64,7 @@ OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -119.83578 34.43225 3.12 289.703
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -119.83583 34.43234 3.14 287.725
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -119.83587 34.43246 3.18 286.863
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -119.83591 34.43257 3.20 287.742
-OBJECT_SHARED Models/lib/jetway_e16m.ac -119.83690 34.42486 3.53 356.423
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -119.83690 34.42486 3.53 356.423
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83720 34.42485 3.53 66.7375
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83682 34.42380 3.72 103.487
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83693 34.42401 3.69 74.4774
@@ -74,10 +74,10 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83674 34.42555 3.43 350.31
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83714 34.42547 3.43 83.2612
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83716 34.42502 3.52 33.6407
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83741 34.42576 3.37 88.6995
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -119.83690 34.42486 3.53 246.55
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -119.83665 34.42407 3.67 320.083
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -119.83667 34.42421 3.65 303.021
-OBJECT_SHARED Models/lib/jetway_e12m.ac -119.83667 34.42421 3.65 358.219
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -119.83690 34.42486 3.53 246.55
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -119.83665 34.42407 3.67 320.083
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -119.83667 34.42421 3.65 303.021
+#OBJECT_SHARED Models/lib/jetway_e12m.ac -119.83667 34.42421 3.65 358.219
 OBJECT_SHARED Models/lib/MedHangar.ac -119.83592 34.42313 3.64 105.134
 OBJECT_SHARED Models/lib/FireStationLg.ac -119.84345 34.43010 2.94 23.8119
 OBJECT_SHARED Models/lib/office32x25.ac -119.84539 34.43076 3.21 204.194

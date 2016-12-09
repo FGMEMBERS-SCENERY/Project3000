@@ -33,11 +33,11 @@ OBJECT_SHARED Models/lib/farm19x12.ac -71.56861 -16.35103 2513.54 88.49
 OBJECT_SHARED Models/lib/farm19x12.ac -71.56852 -16.35143 2512.37 308.25
 OBJECT_SHARED Models/lib/farm19x12.ac -71.56917 -16.35162 2510.99 41.86
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -71.56812 -16.34437 2541.95 179.56
-OBJECT_SHARED Models/lib/jetway_e14m.ac -71.56802 -16.34419 2542.96 90.46
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.56872 -16.34404 2542.73 162.56
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.56802 -16.34406 2543.38 162.59
+#OBJECT_SHARED Models/lib/jetway_e14m.ac -71.56802 -16.34419 2542.96 90.46
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.56872 -16.34404 2542.73 162.56
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.56802 -16.34406 2543.38 162.59
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -71.56802 -16.34421 2542.96 90
-OBJECT_SHARED Models/lib/jetway_e12m.ac -71.56872 -16.34415 2541.88 90.21
+#OBJECT_SHARED Models/lib/jetway_e12m.ac -71.56872 -16.34415 2541.88 90.21
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -71.56872 -16.34417 2541.88 88.79
 OBJECT_SHARED Models/lib/RampParking.xml -71.56740 -16.34393 2544.89 315
 OBJECT_SHARED Models/lib/RampParking.xml -71.56806 -16.34391 2544.08 315

@@ -2,18 +2,18 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.76331 40.19643 93.00 180
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75468 40.19644 94.92 102
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75474 40.19618 94.79 102
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75480 40.19593 94.56 102
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75433 40.19504 93.97 147.24
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75452 40.19525 94.08 147.24
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75472 40.19546 94.27 147.24
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75464 40.19489 93.83 327.24
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75484 40.19511 93.94 327.24
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75503 40.19532 94.07 327.24
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75558 40.19554 94.11 12
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75592 40.19558 94.13 12
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75626 40.19563 94.06 12
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75468 40.19644 94.92 102
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75474 40.19618 94.79 102
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75480 40.19593 94.56 102
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75433 40.19504 93.97 147.24
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75452 40.19525 94.08 147.24
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75472 40.19546 94.27 147.24
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75464 40.19489 93.83 327.24
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75484 40.19511 93.94 327.24
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75503 40.19532 94.07 327.24
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75558 40.19554 94.11 12
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75592 40.19558 94.13 12
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -76.75626 40.19563 94.06 12
 OBJECT_SHARED Models/lib/lamp10m.xml -76.77057 40.19911 95.45 63.21
 OBJECT_SHARED Models/lib/lamp10m.xml -76.77004 40.19891 95.11 64.45
 OBJECT_SHARED Models/lib/lamp10m.xml -76.76737 40.19787 94.61 62.93

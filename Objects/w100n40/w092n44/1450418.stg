@@ -29,10 +29,10 @@ OBJECT_SHARED Models/lib/cargobox2x3m.ac -91.48316 44.86247 268.87 205.92
 OBJECT_SHARED Models/lib/belt_loader.ac -91.48329 44.86200 268.87 118.07
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -91.48282 44.86205 269.00 231.53
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -91.48285 44.86216 269.00 219.66
-OBJECT_SHARED Models/lib/jetway_e4m.ac -91.48288 44.86215 269.00 214.64
+#OBJECT_SHARED Models/lib/jetway_e4m.ac -91.48288 44.86215 269.00 214.64
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -91.48314 44.86207 268.92 34.75
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -91.48296 44.86195 268.97 126.72
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -91.48292 44.86213 269.00 327.46
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -91.48292 44.86213 269.00 327.46
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -91.48263 44.86184 269.00 320.41
 OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -91.47709 44.86692 269.86 135.37
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -91.47807 44.86582 269.36 59.36

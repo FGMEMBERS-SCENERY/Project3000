@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/jetway_e14m.ac -83.00361 42.40874 188.53 254.501
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -83.00366 42.40861 188.53 6.67859
+#OBJECT_SHARED Models/lib/jetway_e14m.ac -83.00361 42.40874 188.53 254.501
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -83.00366 42.40861 188.53 6.67859
 OBJECT_SHARED Models/lib/hangar81x16.ac -83.01219 42.41761 188.40 128.711
 OBJECT_SHARED Models/lib/hangar81x16.ac -83.01158 42.41705 188.60 128.711
 OBJECT_SHARED Models/lib/hangar81x16.ac -83.01084 42.41618 188.86 122.059

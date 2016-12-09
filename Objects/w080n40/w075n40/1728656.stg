@@ -35,8 +35,8 @@ OBJECT_SHARED Models/lib/SmHangar.ac -74.81728 40.27875 59.47 351.82
 OBJECT_SHARED Models/lib/SmHangar.ac -74.81732 40.27855 59.23 351.82
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -74.81592 40.27766 58.12 317.31
 OBJECT_SHARED Models/lib/FireStationLg.ac -74.81777 40.27546 55.66 349.29
-OBJECT_SHARED Models/lib/jetway_e8m.ac -74.81789 40.27683 57.53 343.81
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.81782 40.27682 57.50 18.37
+#OBJECT_SHARED Models/lib/jetway_e8m.ac -74.81789 40.27683 57.53 343.81
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -74.81782 40.27682 57.50 18.37
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.81801 40.27623 56.74 303.52
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.81797 40.27643 57.01 303.52
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -74.81793 40.27662 57.26 303.52

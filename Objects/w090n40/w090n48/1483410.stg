@@ -80,10 +80,10 @@ OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.31737 48.36899 194.06 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -89.31162 48.37271 191.00 143
 OBJECT_SHARED Models/lib/office4x14.ac -89.31879 48.36952 194.09 67
 OBJECT_SHARED Models/lib/office4x14.ac -89.31877 48.36959 194.05 66
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -89.31244 48.37241 191.29 240
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -89.31213 48.37266 191.09 231.8
-OBJECT_SHARED Models/lib/jetway_e8m.ac -89.31197 48.37277 191.02 62.72
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -89.31193 48.37282 191.00 166.31
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -89.31244 48.37241 191.29 240
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -89.31213 48.37266 191.09 231.8
+#OBJECT_SHARED Models/lib/jetway_e8m.ac -89.31197 48.37277 191.02 62.72
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -89.31193 48.37282 191.00 166.31
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -89.31549 48.36879 193.84 81
 OBJECT_SHARED Models/lib/office3x10.ac -89.31536 48.36943 193.48 69
 OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.31443 48.36993 193.02 0

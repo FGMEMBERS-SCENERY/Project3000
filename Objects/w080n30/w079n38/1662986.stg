@@ -25,8 +25,8 @@ OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.44943 38.14014 
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.44987 38.13990 187.09 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.44965 38.13964 186.77 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.44990 38.13922 186.78 340.35
-OBJECT_SHARED Models/lib/jetway_e16m.ac -78.44978 38.13916 186.68 181.12
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -78.44998 38.13916 186.88 269.8
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -78.44978 38.13916 186.68 181.12
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -78.44998 38.13916 186.88 269.8
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.44981 38.14036 187.19 337.33
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.44972 38.14025 187.02 294.34
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.44978 38.13986 187.00 24.28

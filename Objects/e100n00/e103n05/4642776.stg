@@ -137,14 +137,14 @@ OBJECT_SHARED Models/lib/belt_loader.ac 103.10517 5.37982 8.27 -38.54
 OBJECT_SHARED Models/lib/belt_loader.ac 103.10547 5.38010 8.62 -38.54
 OBJECT_SHARED Models/lib/JetWayWallBase.ac 103.10486 5.37949 8.24 230.82
 OBJECT_SHARED Models/lib/JetWayWallBase.ac 103.10481 5.37953 8.24 229.57
-OBJECT_SHARED Models/lib/jetway_e10m.ac 103.10479 5.37951 8.24 222.96
+#OBJECT_SHARED Models/lib/jetway_e10m.ac 103.10479 5.37951 8.24 222.96
 OBJECT_SHARED Models/lib/RampParking.xml 103.10472 5.37938 8.33 45
-OBJECT_SHARED Models/lib/jetway_e10m.ac 103.10484 5.37947 8.26 226.88
+#OBJECT_SHARED Models/lib/jetway_e10m.ac 103.10484 5.37947 8.26 226.88
 OBJECT_SHARED Models/lib/caisses_group.ac 103.10498 5.37961 8.22 318.81
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 103.10494 5.37959 8.23 136.39
 OBJECT_SHARED Models/lib/loader.ac 103.10522 5.37982 8.27 -41.77
 OBJECT_SHARED Models/lib/loader.ac 103.10551 5.38011 8.98 -41.77
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 103.10442 5.37898 6.87 247
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 103.10442 5.37898 6.87 247
 OBJECT_SHARED Models/lib/chariot3curve.ac 103.10565 5.38100 8.31 90
 OBJECT_SHARED Models/lib/belt_loader.ac 103.10574 5.38113 8.23 -47.35
 OBJECT_SHARED Models/lib/cargo_pod_lot.ac 103.10551 5.38088 8.40 41.61

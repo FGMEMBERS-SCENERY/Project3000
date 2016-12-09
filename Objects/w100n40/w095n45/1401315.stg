@@ -27,9 +27,9 @@ OBJECT_SHARED Models/lib/belt_loader.ac -94.06595 45.54599 310.43 270
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -94.06581 45.54606 310.43 71.56
 OBJECT_SHARED Models/lib/chariot3.ac -94.06584 45.54597 310.42 122.28
 OBJECT_SHARED Models/lib/chariot1.ac -94.06602 45.54592 310.43 90
-OBJECT_SHARED Models/lib/jetway_e4m.ac -94.06636 45.54592 310.47 210.02
-OBJECT_SHARED Models/lib/jetway_e16m.ac -94.06642 45.54589 310.47 303.81
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -94.06629 45.54576 310.45 322.89
+#OBJECT_SHARED Models/lib/jetway_e4m.ac -94.06636 45.54592 310.47 210.02
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -94.06642 45.54589 310.47 303.81
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -94.06629 45.54576 310.45 322.89
 OBJECT_SHARED Models/lib/FireStationLg.ac -94.06499 45.54646 310.37 299.6
 OBJECT_SHARED Models/lib/MedHangar.ac -94.06624 45.54800 310.70 224.78
 OBJECT_SHARED Models/lib/MedHangar.ac -94.06664 45.54828 310.80 224.78

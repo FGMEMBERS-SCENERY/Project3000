@@ -119,14 +119,14 @@ OBJECT_SHARED Models/lib/MedHangar.ac 9.51902 40.90440 13.49 124.78
 OBJECT_SHARED Models/lib/LgMaint.ac 9.51994 40.90475 10.49 124.86
 OBJECT_SHARED Models/lib/LgMaint.ac 9.52103 40.90469 9.37 73.91
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.51396 40.90191 12.26 213.37
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51664 40.90265 10.85 107.03
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51620 40.90241 10.96 102.45
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51576 40.90218 11.05 109.3
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51532 40.90195 11.10 111.03
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51488 40.90172 11.09 101.42
-OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51664 40.90265 10.85 125
-OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51620 40.90241 10.96 125
-OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51576 40.90218 11.05 125
-OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51532 40.90195 11.10 125
-OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51488 40.90172 11.09 125
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51664 40.90265 10.85 107.03
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51620 40.90241 10.96 102.45
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51576 40.90218 11.05 109.3
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51532 40.90195 11.10 111.03
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 9.51488 40.90172 11.09 101.42
+#OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51664 40.90265 10.85 125
+#OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51620 40.90241 10.96 125
+#OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51576 40.90218 11.05 125
+#OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51532 40.90195 11.10 125
+#OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51488 40.90172 11.09 125
 # END dsf2stg

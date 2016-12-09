@@ -47,8 +47,8 @@ OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 9.38843 51.41709 256.04 268.88
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.38833 51.41682 256.20 220.44
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.38849 51.41761 255.90 262.69
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.39254 51.41802 250.88 0
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 9.38724 51.41667 257.63 198.88
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml 9.38659 51.41669 258.46 198.88
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 9.38724 51.41667 257.63 198.88
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 9.38659 51.41669 258.46 198.88
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.39390 51.41679 249.33 357.99
 OBJECT_SHARED Models/lib/lamp10m.xml 9.39235 51.41805 251.10 0
 OBJECT_SHARED Models/lib/lamp10m.xml 9.39229 51.41732 251.20 0

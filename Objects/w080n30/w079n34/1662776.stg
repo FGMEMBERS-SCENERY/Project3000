@@ -544,10 +544,10 @@ OBJECT_SHARED Models/Effects/taxilampblue.xml -78.88114 34.99286 52.60 270
 OBJECT_SHARED Models/Effects/taxilampblue.xml -78.88118 34.99293 52.62 0
 OBJECT_SHARED Models/Effects/taxilampblue.xml -78.88128 34.99299 52.56 0
 OBJECT_SHARED Models/Effects/taxilampblue.xml -78.88145 34.99308 52.51 0
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.88754 34.99066 53.51 46.71
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.88793 34.99051 53.48 47.85
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.88801 34.99049 53.47 318.36
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.88815 34.99066 53.48 317.96
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.88754 34.99066 53.51 46.71
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.88793 34.99051 53.48 47.85
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.88801 34.99049 53.47 318.36
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -78.88815 34.99066 53.48 317.96
 OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -78.89016 34.99022 52.99 270
 OBJECT_SHARED Models/Aircraft/B1900_services.xml -78.89015 34.99046 53.20 0
 OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -78.88991 34.98978 52.82 303.12

@@ -61,7 +61,7 @@ OBJECT_SHARED Models/Airport/cargobox.xml -75.45058 40.64276 112.72 123.69
 OBJECT_SHARED Models/Airport/cargobox.xml -75.43487 40.65312 113.55 123.69
 OBJECT_SHARED Models/Airport/cargobox.xml -75.43677 40.65230 113.57 123.69
 OBJECT_SHARED Models/Airport/cargobox.xml -75.45084 40.64243 112.35 123.69
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43588 40.65218 113.15 293.17
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43588 40.65218 113.15 293.17
 OBJECT_SHARED Models/lib/cargobox2x3m.ac -75.43571 40.65258 113.43 135
 OBJECT_SHARED Models/lib/cargobox2x3m.ac -75.43604 40.65230 113.27 218.16
 OBJECT_SHARED Models/lib/caisses_group.ac -75.43474 40.65276 113.22 193.97
@@ -86,8 +86,8 @@ OBJECT_SHARED Models/lib/container6.ac -75.43427 40.65335 113.57 37.45
 OBJECT_SHARED Models/lib/container6.ac -75.43602 40.65187 112.92 37.45
 OBJECT_SHARED Models/lib/container6.ac -75.45040 40.64265 112.69 37.45
 OBJECT_SHARED Models/lib/container6.ac -75.43450 40.65306 113.40 18.2
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43598 40.65228 113.27 280.52
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43532 40.65280 113.45 209.17
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43598 40.65228 113.27 280.52
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43532 40.65280 113.45 209.17
 OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -75.43237 40.66101 117.85 5.09
 OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -75.43090 40.65712 114.06 5.09
 OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -75.44390 40.64887 114.48 22.33
@@ -147,7 +147,7 @@ OBJECT_SHARED Models/lib/container1.ac -75.43682 40.65236 113.65 35.54
 OBJECT_SHARED Models/lib/container1.ac -75.45089 40.64249 112.41 35.54
 OBJECT_SHARED Models/lib/container1.ac -75.45198 40.64182 111.92 161.57
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -75.44978 40.64511 115.56 10.95
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43574 40.65253 113.34 256.37
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43574 40.65253 113.34 256.37
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -75.44326 40.64903 114.16 57.66
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -75.44033 40.64863 112.19 57.66
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -75.43226 40.66115 117.92 188.19
@@ -199,9 +199,9 @@ OBJECT_SHARED Models/lib/RampParking.xml -75.45065 40.64313 112.94 38.32
 OBJECT_SHARED Models/lib/RampParking.xml -75.45126 40.64277 112.54 38.32
 OBJECT_SHARED Models/lib/RampParking.xml -75.45179 40.64245 112.22 38.32
 OBJECT_SHARED Models/lib/RampParking.xml -75.45228 40.64214 112.23 38.32
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43579 40.65210 113.02 351.11
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43552 40.65267 113.44 225.43
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43602 40.65237 113.36 261.51
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43579 40.65210 113.02 351.11
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43552 40.65267 113.44 225.43
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.43602 40.65237 113.36 261.51
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.43383 40.65325 113.19 271.13
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.43436 40.65354 113.70 335.92
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.43400 40.65352 113.52 288.44

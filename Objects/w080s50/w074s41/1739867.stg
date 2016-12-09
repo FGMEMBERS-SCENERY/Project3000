@@ -8,7 +8,7 @@ OBJECT_SHARED Models/lib/cube16x10.ac -73.06068 -40.60530 59.95 205.5
 OBJECT_SHARED Models/lib/cars7.ac -73.06086 -40.60425 60.28 205.9
 OBJECT_SHARED Models/lib/cars14.ac -73.06181 -40.60421 59.81 295.81
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.06100 -40.60429 60.21 114.98
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -73.06126 -40.60491 59.84 316.01
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -73.06126 -40.60491 59.84 316.01
 OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -73.06246 -40.60411 59.15 49.68
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.06054 -40.60560 60.38 94.54
 OBJECT_SHARED Models/lib/MedHangar.ac -73.06243 -40.61406 61.02 205.53

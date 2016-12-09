@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -75.72781 41.33802 279.99 77.75
-OBJECT_SHARED Models/lib/jetway_e16m.ac -75.72798 41.33780 279.94 344.05
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -75.72781 41.33802 279.99 77.75
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -75.72798 41.33780 279.94 344.05
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -75.72812 41.33813 279.71 100.69
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -75.72836 41.33785 279.59 100.69
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -75.72842 41.33762 279.75 100.69
@@ -15,14 +15,14 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -75.72805 41.33774 279.92 28
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -75.72792 41.33789 279.97 282.78
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -75.72783 41.33805 279.94 12.96
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -75.72805 41.33815 279.74 12.96
-OBJECT_SHARED Models/lib/jetway_e12m.ac -75.72842 41.33779 279.64 114.68
-OBJECT_SHARED Models/lib/jetway_e16m.ac -75.72821 41.33803 279.69 100.01
-OBJECT_SHARED Models/lib/jetway_e16m.ac -75.72795 41.33811 279.79 40.24
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.72849 41.33789 279.52 186.88
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.72824 41.33819 279.59 184.45
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.72780 41.33822 279.89 131.09
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.72805 41.33757 280.05 56.99
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.72777 41.33776 280.09 73.59
+#OBJECT_SHARED Models/lib/jetway_e12m.ac -75.72842 41.33779 279.64 114.68
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -75.72821 41.33803 279.69 100.01
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -75.72795 41.33811 279.79 40.24
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.72849 41.33789 279.52 186.88
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.72824 41.33819 279.59 184.45
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.72780 41.33822 279.89 131.09
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.72805 41.33757 280.05 56.99
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -75.72777 41.33776 280.09 73.59
 OBJECT_SHARED Models/lib/RampGroup.xml -75.72821 41.33819 279.59 8.69
 OBJECT_SHARED Models/lib/RampParking.xml -75.72777 41.33751 280.25 237.86
 OBJECT_SHARED Models/lib/RampParking.xml -75.72758 41.33782 280.25 239.87
@@ -43,5 +43,5 @@ OBJECT_SHARED Models/lib/MedHangar.ac -75.73245 41.33273 278.08 147.98
 OBJECT_SHARED Models/lib/MedHangar.ac -75.73219 41.33304 278.23 147.98
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -75.73274 41.33247 277.79 146.96
 OBJECT_SHARED Models/lib/HorizTanks2.ac -75.73251 41.33241 277.98 238.46
-OBJECT_SHARED Models/lib/jetway_e10m.ac -75.72815 41.33763 279.97 322.25
+#OBJECT_SHARED Models/lib/jetway_e10m.ac -75.72815 41.33763 279.97 322.25
 # END dsf2stg

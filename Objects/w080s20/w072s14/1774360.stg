@@ -42,13 +42,13 @@ OBJECT_SHARED Models/lib/RampParking.xml -71.94386 -13.53746 3290.67 62.5
 OBJECT_SHARED Models/lib/RampParking.xml -71.94389 -13.53784 3291.53 68.91
 OBJECT_SHARED Models/lib/RampParking.xml -71.94329 -13.53727 3290.22 283.56
 OBJECT_SHARED Models/lib/RampParking.xml -71.94330 -13.53766 3290.78 269.71
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.94372 -13.53739 3290.85 268.22
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.94372 -13.53739 3290.85 268.22
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -71.94371 -13.53739 3290.85 173.51
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.94377 -13.53775 3291.38 274.33
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.94377 -13.53775 3291.38 274.33
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -71.94375 -13.53776 3291.23 174.24
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.94334 -13.53741 3290.36 128.99
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.94334 -13.53741 3290.36 128.99
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -71.94336 -13.53741 3290.53 353.66
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.94338 -13.53779 3291.03 117.48
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -71.94338 -13.53779 3291.03 117.48
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -71.94340 -13.53779 3291.03 353.44
 OBJECT_SHARED Models/lib/caisses_group.ac -71.94323 -13.53791 3290.88 189.46
 OBJECT_SHARED Models/lib/chariot3curve.ac -71.94334 -13.53788 3291.05 22.25

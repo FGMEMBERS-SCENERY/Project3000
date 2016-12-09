@@ -21,9 +21,9 @@ OBJECT_SHARED Models/lib/cars7.ac -62.17011 -38.70375 75.69 271.08
 OBJECT_SHARED Models/lib/cars14.ac -62.16978 -38.70290 75.24 0
 OBJECT_SHARED Models/lib/cars14.ac -62.16978 -38.70343 75.35 358.93
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -62.16886 -38.70350 75.07 292.91
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -62.16896 -38.70363 75.20 138.24
-OBJECT_SHARED Models/lib/jetway_e12m.ac -62.16909 -38.70367 75.32 19.81
-OBJECT_SHARED Models/lib/jetway_e16m.ac -62.16928 -38.70367 75.21 359.08
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -62.16896 -38.70363 75.20 138.24
+#OBJECT_SHARED Models/lib/jetway_e12m.ac -62.16909 -38.70367 75.32 19.81
+#OBJECT_SHARED Models/lib/jetway_e16m.ac -62.16928 -38.70367 75.21 359.08
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -62.16930 -38.70367 75.21 357.51
 OBJECT_SHARED Models/Trees/billboard-tree.xml -62.18057 -38.71763 72.52 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -62.18071 -38.71784 72.57 0

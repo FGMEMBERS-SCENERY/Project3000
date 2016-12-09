@@ -58,9 +58,9 @@ OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -134.57576 58.35716 3.06 45
 OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -134.58857 58.36162 3.08 166.95
 OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac -134.59357 58.36061 1.90 162.42
 OBJECT_SHARED Models/lib/MedHangar.ac -134.57736 58.35786 3.75 77.03
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -134.58678 58.35891 2.91 303.61
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -134.58570 58.35876 3.04 7.86
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -134.58481 58.35863 3.15 8.3
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -134.58678 58.35891 2.91 303.61
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -134.58570 58.35876 3.04 7.86
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -134.58481 58.35863 3.15 8.3
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -134.58255 58.36038 4.29 74.91
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -134.58328 58.35943 3.84 74.91
 OBJECT_SHARED Models/lib/20_spaces_dual.ac -134.58259 58.36020 4.20 256.07

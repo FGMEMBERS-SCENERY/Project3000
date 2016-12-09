@@ -14,10 +14,10 @@ OBJECT_SHARED Models/lib/cars14.ac -72.05355 -50.28503 198.72 271.97
 OBJECT_SHARED Models/lib/cars14.ac -72.05351 -50.28502 198.72 91.96
 OBJECT_SHARED Models/lib/cars7.ac -72.05310 -50.28492 198.78 183.96
 OBJECT_SHARED Models/lib/cars14.ac -72.05559 -50.28436 200.22 96.06
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.05418 -50.28416 199.98 192.53
-OBJECT_SHARED Models/lib/jetway_e10m.ac -72.05417 -50.28424 199.98 95.73
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.05317 -50.28412 199.48 214.54
-OBJECT_SHARED Models/lib/jetway_e8m.ac -72.05316 -50.28418 199.45 93.44
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.05418 -50.28416 199.98 192.53
+#OBJECT_SHARED Models/lib/jetway_e10m.ac -72.05417 -50.28424 199.98 95.73
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.05317 -50.28412 199.48 214.54
+#OBJECT_SHARED Models/lib/jetway_e8m.ac -72.05316 -50.28418 199.45 93.44
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -72.05316 -50.28420 199.45 94.46
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -72.05416 -50.28426 199.87 95.33
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.05203 -50.28447 198.78 6.20999

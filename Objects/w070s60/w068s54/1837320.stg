@@ -11,8 +11,8 @@ OBJECT_SHARED Models/lib/HorizTanks2.ac -67.75110 -53.78236 21.14 90
 OBJECT_SHARED Models/lib/HorizTanks2.ac -67.75039 -53.78235 21.12 90.32
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -67.75090 -53.78250 21.02 180.51
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -67.75327 -53.78179 21.85 0.309998
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -67.75353 -53.78138 21.43 233.96
-OBJECT_SHARED Models/lib/jetway_e8m.ac -67.75353 -53.78144 21.43 90.36
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -67.75353 -53.78138 21.43 233.96
+#OBJECT_SHARED Models/lib/jetway_e8m.ac -67.75353 -53.78144 21.43 90.36
 OBJECT_SHARED Models/lib/JetWayWallBase.ac -67.75353 -53.78146 21.54 89.41
 OBJECT_SHARED Models/lib/cars7.ac -67.75255 -53.78185 21.72 90
 OBJECT_SHARED Models/lib/cars7.ac -67.75254 -53.78206 21.50 90

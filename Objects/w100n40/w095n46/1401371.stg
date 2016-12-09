@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -94.14134 46.39319 370.93 242.456
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -94.14134 46.39319 370.93 242.456
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.14464 46.39132 371.09 37.93
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.14500 46.39149 371.08 314.76
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.14353 46.39230 371.02 341.57

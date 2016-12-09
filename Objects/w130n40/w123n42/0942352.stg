@@ -2,11 +2,11 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/caisses_group.ac -122.87403 42.36946 399.65 291.037
-OBJECT_SHARED Models/lib/jetway_e8m.ac -122.87377 42.36886 399.50 199.283
+#OBJECT_SHARED Models/lib/jetway_e8m.ac -122.87377 42.36886 399.50 199.283
 OBJECT_SHARED Models/lib/chariot3.ac -122.87295 42.36813 400.11 289.821
 OBJECT_SHARED Models/lib/caisses_group.ac -122.87239 42.36803 400.46 197.278
 OBJECT_SHARED Models/lib/belt_loader.ac -122.87383 42.36924 399.45 -68.1991
-OBJECT_SHARED Models/Airport/Jetway/jetway.xml -122.87377 42.36886 399.50 57.5651
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml -122.87377 42.36886 399.50 57.5651
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.87341 42.36848 400.06 15.5239
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -122.87421 42.36993 399.62 113.312
 OBJECT_SHARED Models/lib/chariot3curve.ac -122.87326 42.36832 400.09 315

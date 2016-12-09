@@ -160,15 +160,15 @@ OBJECT_SHARED Models/lib/RampGroup.xml 8.78653 53.05115 3.06 130.94
 OBJECT_SHARED Models/lib/RampParking.xml 8.78603 53.05142 3.11 131.19
 OBJECT_SHARED Models/lib/RampGroup.xml 8.78557 53.05197 3.29 131.32
 OBJECT_SHARED Models/lib/RampGroup.xml 8.78470 53.05220 3.29 143.69
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 8.78390 53.05246 3.32 28.15
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 8.78444 53.05227 3.30 23.41
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 8.78520 53.05200 3.26 19.69
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 8.78578 53.05167 3.20 24.77
-OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 8.78637 53.05131 3.11 7.47
-OBJECT_SHARED Models/lib/jetway_e16m.ac 8.78637 53.05131 3.11 64.69
-OBJECT_SHARED Models/lib/jetway_e16m.ac 8.78578 53.05167 3.20 42.22
-OBJECT_SHARED Models/lib/jetway_e16m.ac 8.78520 53.05200 3.26 54.78
-OBJECT_SHARED Models/lib/jetway_e16m.ac 8.78390 53.05246 3.32 60.5
-OBJECT_SHARED Models/lib/jetway_e16m.ac 8.78444 53.05227 3.30 60.5
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 8.78390 53.05246 3.32 28.15
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 8.78444 53.05227 3.30 23.41
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 8.78520 53.05200 3.26 19.69
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 8.78578 53.05167 3.20 24.77
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 8.78637 53.05131 3.11 7.47
+#OBJECT_SHARED Models/lib/jetway_e16m.ac 8.78637 53.05131 3.11 64.69
+#OBJECT_SHARED Models/lib/jetway_e16m.ac 8.78578 53.05167 3.20 42.22
+#OBJECT_SHARED Models/lib/jetway_e16m.ac 8.78520 53.05200 3.26 54.78
+#OBJECT_SHARED Models/lib/jetway_e16m.ac 8.78390 53.05246 3.32 60.5
+#OBJECT_SHARED Models/lib/jetway_e16m.ac 8.78444 53.05227 3.30 60.5
 OBJECT_SHARED Models/lib/RampParking.xml 8.78416 53.05224 3.23 115.36
 # END dsf2stg
