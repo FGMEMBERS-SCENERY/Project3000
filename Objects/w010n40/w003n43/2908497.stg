@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -2.50011 43.36540 0.00 319.546
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -2.50006 43.36538 -0.00 345.466
-OBJECT_SHARED Models/lib/office6x12.ac -2.50000 43.36589 0.00 164.559
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -2.50011 43.36540 3.72 49.5462
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -2.50006 43.36538 3.70 75.4656
+OBJECT_SHARED Models/lib/office6x12.ac -2.50000 43.36589 4.43 164.559
 # END dsf2stg

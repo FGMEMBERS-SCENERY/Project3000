@@ -1,0 +1,40 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -0.76431 51.49992 33.82 266.829
+OBJECT_SHARED Models/lib/cars4.ac -0.76427 51.49972 33.75 259.611
+OBJECT_SHARED Models/lib/cars6.ac -0.76437 51.49958 33.78 171.798
+OBJECT_SHARED Models/lib/cars4.ac -0.76470 51.49960 33.94 127.906
+OBJECT_SHARED Models/lib/cars4.ac -0.76481 51.49970 34.02 102.852
+OBJECT_SHARED Models/lib/cars4.ac -0.76446 51.49972 33.86 183.207
+OBJECT_SHARED Models/lib/cars4.ac -0.76463 51.49985 33.97 3.2705
+OBJECT_SHARED Models/lib/cars6.ac -0.76444 51.49985 33.90 183.241
+OBJECT_SHARED Models/lib/cars10.ac -0.76490 51.49998 34.17 4.44961
+OBJECT_SHARED Models/Misc/6barrels.ac -0.76558 51.49794 33.45 215.96
+OBJECT_SHARED Models/Misc/6barrels.ac -0.76565 51.49798 33.52 138.716
+OBJECT_SHARED Models/Misc/6barrels.ac -0.76568 51.49799 33.53 147.172
+OBJECT_SHARED Models/lib/coal_pile.ac -0.78117 51.49985 38.35 49.6956
+OBJECT_SHARED Models/lib/coal_pile.ac -0.78125 51.49982 38.30 124.057
+OBJECT_SHARED Models/lib/coal_pile.ac -0.78213 51.49952 38.18 157.688
+OBJECT_SHARED Models/lib/coal_pile.ac -0.78225 51.49948 38.23 115.288
+OBJECT_SHARED Models/lib/coal_pile.ac -0.78233 51.49944 38.76 116.565
+OBJECT_SHARED Models/lib/coal_pile.ac -0.78246 51.49941 38.16 57.1317
+OBJECT_SHARED Models/lib/coal_pile.ac -0.78258 51.49937 38.21 287.771
+OBJECT_SHARED Models/lib/coal_pile.ac -0.78269 51.49933 38.38 288.435
+OBJECT_SHARED Models/lib/coal_pile.ac -0.78283 51.49928 38.15 349.271
+OBJECT_SHARED Models/lib/coal_pile.ac -0.78294 51.49925 38.19 15.4994
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -0.77291 51.49355 33.26 197.947
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -0.77273 51.49365 33.22 19.6416
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -0.77275 51.49363 33.22 19.6416
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -0.77276 51.49364 33.23 19.6416
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.77218 51.49353 33.18 238.392
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.77220 51.49352 33.18 300.63
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.77220 51.49354 33.18 201.477
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.77222 51.49353 33.19 210.256
+OBJECT_SHARED Models/lib/stack_of_cones.ac -0.77204 51.49354 33.17 153.905
+OBJECT_SHARED Models/lib/stack_of_cones.ac -0.77203 51.49357 33.14 193.523
+OBJECT_SHARED Models/lib/stack_of_cones.ac -0.77207 51.49356 33.15 200.472
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.77227 51.49352 33.20 198.446
+OBJECT_SHARED Models/lib/shed8x10.ac -0.76529 51.49801 33.43 341.966
+OBJECT_SHARED Models/lib/shed8x10.ac -0.77307 51.49434 33.26 197.608
+# END dsf2stg

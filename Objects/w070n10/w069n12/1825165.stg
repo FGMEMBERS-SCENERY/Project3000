@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -68.27910 12.13272 3.00 315.58
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -68.27910 12.13272 3.00 315.58
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27513 12.13328 4.06 45.55
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27500 12.13327 4.09 131.12
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27574 12.13327 3.86 135.86
@@ -9,7 +9,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml -68.27578 12.13266 4.03 221.34
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27436 12.13264 4.45 -33.69
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27799 12.13251 3.41 91.95
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27440 12.13325 4.29 47.56
-OBJECT_SHARED Models/lib/lamp10m.xml -68.27904 12.13267 3.04 44.25
+OBJECT_SHARED Models/lib/lamp10m.xml -68.27904 12.13267 3.03 44.25
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27744 12.13273 3.56 270.65
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27739 12.13273 3.56 89.98
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27739 12.13269 3.56 89.98
@@ -34,7 +34,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml -68.27606 12.13285 3.92 178.79
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27618 12.13285 3.87 180.46
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27635 12.13244 3.94 61.15
 OBJECT_SHARED Models/lib/lamp10m.xml -68.27701 12.13248 3.72 87.84
-OBJECT_SHARED Models/lib/lamp10m.xml -68.27752 12.13250 3.57 89.02
+OBJECT_SHARED Models/lib/lamp10m.xml -68.27752 12.13250 3.56 89.02
 OBJECT_SHARED Models/lib/transformer3x3.ac -68.27805 12.13298 3.24 0
 OBJECT_SHARED Models/lib/transformer3x3.ac -68.27784 12.13298 3.33 0
 OBJECT_SHARED Models/lib/transformer3x3.ac -68.27787 12.13298 3.30 0
@@ -45,18 +45,18 @@ OBJECT_SHARED Models/lib/transformer3x3.ac -68.27799 12.13298 3.27 0
 OBJECT_SHARED Models/lib/transformer3x3.ac -68.27802 12.13298 3.27 0
 OBJECT_SHARED Models/lib/office3x10.ac -68.27823 12.13362 2.75 89.43
 OBJECT_SHARED Models/lib/office3x10.ac -68.27832 12.13362 2.72 89.43
-OBJECT_SHARED Models/lib/office3x10.ac -68.27813 12.13362 2.78 89.43
-OBJECT_SHARED Models/lib/office3x10.ac -68.27804 12.13362 2.81 89.43
+OBJECT_SHARED Models/lib/office3x10.ac -68.27813 12.13362 2.79 89.43
+OBJECT_SHARED Models/lib/office3x10.ac -68.27804 12.13362 2.83 89.43
 OBJECT_SHARED Models/lib/industrial13x24.ac -68.27830 12.13270 3.26 89.7
 OBJECT_SHARED Models/lib/schranke.ac -68.27916 12.13338 2.63 359.04
 OBJECT_SHARED Models/Misc/6barrels.ac -68.27785 12.13266 3.41 201.8
 OBJECT_SHARED Models/lib/transformer3x3.ac -68.27916 12.13298 2.86 180.41
-OBJECT_SHARED Models/lib/admin31x12.ac -68.28057 12.13218 2.65 268.96
+OBJECT_SHARED Models/lib/admin31x12.ac -68.28057 12.13218 2.66 268.96
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.27473 12.13301 4.27 178.83
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.27540 12.13298 4.08 178.91
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.27705 12.13224 3.71 135
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.27791 12.13238 3.45 131.74
-OBJECT_SHARED Models/lib/chariot1.ac -68.27806 12.13282 3.31 268.82
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -68.27806 12.13282 3.32 268.82
 OBJECT_SHARED Models/lib/chariot3curve.ac -68.27796 12.13262 3.40 129.33
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -68.27779 12.13274 3.44 89.68
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -68.27783 12.13274 3.44 89.21
@@ -67,25 +67,25 @@ OBJECT_SHARED Models/lib/cone.ac -68.27525 12.13315 4.04 188.43
 OBJECT_SHARED Models/lib/cone.ac -68.27526 12.13315 4.04 353.21
 OBJECT_SHARED Models/lib/cone.ac -68.27526 12.13315 4.07 277.33
 OBJECT_SHARED Models/lib/cone.ac -68.27526 12.13316 4.04 182.82
-OBJECT_SHARED Models/lib/cone.ac -68.27555 12.13316 3.95 296.81
-OBJECT_SHARED Models/lib/cone.ac -68.27556 12.13316 3.95 158.44
-OBJECT_SHARED Models/lib/cone.ac -68.27556 12.13316 3.95 228.54
+OBJECT_SHARED Models/lib/cone.ac -68.27555 12.13316 3.96 296.81
+OBJECT_SHARED Models/lib/cone.ac -68.27556 12.13316 3.96 158.44
+OBJECT_SHARED Models/lib/cone.ac -68.27556 12.13316 3.96 228.54
 OBJECT_SHARED Models/lib/cone.ac -68.27759 12.13260 3.52 0
 OBJECT_SHARED Models/lib/cone.ac -68.27759 12.13261 3.52 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -68.27820 12.13291 3.23 90.85
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -68.27758 12.13258 3.52 0
 OBJECT_SHARED Models/lib/FireStationLg.ac -68.27855 12.13276 3.13 268.2
 OBJECT_SHARED Models/lib/MedHangar.ac -68.27938 12.13292 2.83 178.85
-OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -68.28072 12.13297 -92.65 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -68.28045 12.13297 -92.58 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -68.28072 12.13297 -89.65 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -68.28045 12.13297 -89.58 0
 OBJECT_SHARED Models/lib/MedHangar.ac -68.28000 12.13274 2.71 88.84
 OBJECT_SHARED Models/lib/shed8x10.ac -68.27785 12.13290 3.37 180.63
 OBJECT_SHARED Models/lib/shed8x10.ac -68.27805 12.13290 3.31 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -68.27458 12.13314 4.28 0
 OBJECT_SHARED Models/Misc/FlagpoleFG.xml -68.27672 12.13268 3.78 0
-OBJECT_SHARED Models/lib/fuel-truck.xml -68.28086 12.13289 2.32 6.13
+OBJECT_SHARED Models/lib/fuel-truck.xml -68.28086 12.13289 2.31 6.13
 OBJECT_SHARED Models/lib/fuel-truck.xml -68.28034 12.13280 2.58 271.13
 OBJECT_SHARED Models/lib/fuel-truck.xml -68.27777 12.13291 3.37 2.76001
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -68.28182 12.13352 -0.00 312.68
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -68.28182 12.13352 -0.00 42.68
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -68.27735 12.13264 3.62 180.51
 # END dsf2stg

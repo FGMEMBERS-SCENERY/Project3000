@@ -1,10 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 22.20280 61.11498 73.29 159.83
-OBJECT_SHARED Models/lib/SmHangar.ac 22.20292 61.11486 73.27 250.16
-OBJECT_SHARED Models/lib/transformer3x3.ac 22.20326 61.11497 73.62 250.06
-OBJECT_SHARED Models/lib/transformer3x3.ac 22.20237 61.11530 73.35 156.18
-OBJECT_SHARED Models/lib/transformer3x3.ac 22.21251 61.11410 79.58 71.64
-OBJECT_SHARED Models/lib/farm19x12.ac 22.21142 61.11448 79.95 162.25
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 22.20890 61.11467 77.60 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 22.20957 61.11453 77.84 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 22.21024 61.11439 78.27 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 22.21083 61.11427 79.93 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 22.21142 61.11415 79.90 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 22.21211 61.11401 79.93 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 22.21276 61.11388 79.96 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 22.21340 61.11376 79.97 90
+OBJECT_SHARED Models/lib/SmHangar.ac 22.20280 61.11498 73.55 159.83
+OBJECT_SHARED Models/lib/SmHangar.ac 22.20292 61.11486 73.49 250.16
+OBJECT_SHARED Models/lib/transformer3x3.ac 22.20326 61.11497 73.92 250.06
+OBJECT_SHARED Models/lib/transformer3x3.ac 22.20237 61.11530 73.58 156.18
+OBJECT_SHARED Models/lib/transformer3x3.ac 22.21251 61.11410 80.00 71.64
+OBJECT_SHARED Models/lib/farm19x12.ac 22.21142 61.11448 80.00 162.25
 # END dsf2stg

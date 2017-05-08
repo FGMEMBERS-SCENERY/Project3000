@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac -82.03473 33.46569 125.78 43.86
-OBJECT_SHARED Models/lib/MedHangar.ac -82.03498 33.46538 125.47 224.39
-OBJECT_SHARED Models/lib/MedHangar.ac -82.03557 33.46502 124.94 43.59
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -82.03438 33.46619 126.19 136.74
-OBJECT_SHARED Models/lib/fuel-truck.xml -82.03433 33.46624 126.22 241.07
-OBJECT_SHARED Models/lib/LongRow.ac -82.03869 33.46261 120.28 97.85
-OBJECT_SHARED Models/Transport/Norberttruck.xml -82.03541 33.46914 128.10 341.82
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -82.03529 33.46907 128.14 264.64
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -82.03524 33.46907 128.19 264.64
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -82.03512 33.46906 128.23 264.64
+OBJECT_SHARED Models/lib/MedHangar.ac -82.03473 33.46569 125.80 43.86
+OBJECT_SHARED Models/lib/MedHangar.ac -82.03498 33.46538 125.51 224.39
+OBJECT_SHARED Models/lib/MedHangar.ac -82.03557 33.46502 124.97 43.59
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -82.03438 33.46619 126.23 136.74
+OBJECT_SHARED Models/lib/fuel-truck.xml -82.03433 33.46624 126.27 241.07
+OBJECT_SHARED Models/lib/LongRow.ac -82.03869 33.46261 120.21 97.85
+OBJECT_SHARED Models/Transport/Norberttruck.xml -82.03541 33.46914 128.42 341.82
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.03529 33.46907 128.44 84.64
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.03524 33.46907 128.47 84.64
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.03512 33.46906 128.50 84.64
 # END dsf2stg

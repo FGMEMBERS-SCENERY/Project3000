@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office32x25.ac 4.39058 51.30184 -2.00 119.25
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 4.38472 51.30913 0.15 348.44
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 4.39007 51.30248 -2.04 174.14
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 4.38937 51.30305 -2.03 118.3
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 4.38928 51.30316 -2.06 122.62
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 4.38947 51.30290 -1.97 307.41
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 4.38952 51.30283 -1.94 303.69
-OBJECT_SHARED Models/lib/LongRow.ac 4.38513 51.30895 0.31 118.61
+OBJECT_SHARED Models/lib/office32x25.ac 4.39058 51.30184 -1.49 119.25
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 4.38472 51.30913 -0.50 348.44
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 4.39007 51.30248 -1.81 174.14
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 4.38937 51.30305 -1.94 118.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 4.38928 51.30316 -1.94 122.62
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 4.38947 51.30290 -1.91 307.41
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 4.38952 51.30283 -1.89 303.69
+OBJECT_SHARED Models/lib/LongRow.ac 4.38513 51.30895 -0.48 118.61
 # END dsf2stg

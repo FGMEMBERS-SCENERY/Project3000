@@ -1,26 +1,26 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.34490 59.39790 108.81 0
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.34539 59.39806 108.65 82.88
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.34357 59.39872 108.26 124.88
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.34380 59.39861 108.37 172.87
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.34152 59.39902 107.38 30
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.34154 59.39900 107.38 30
-OBJECT_SHARED Models/lib/fboModern1.ac 11.34287 59.39922 107.76 212
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.34398 59.39924 107.69 303
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.34417 59.39910 107.79 305
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.34378 59.39932 107.57 125
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.34354 59.39951 107.32 124
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.34336 59.39974 107.05 179.38
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.34343 59.39968 107.05 120.78
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.34413 59.39821 108.67 310
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.34329 59.39894 108.05 301.96
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.34326 59.39896 107.98 302.34
-OBJECT_SHARED Models/lib/HorizTanks2.ac 11.34410 59.39865 108.23 300
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.34419 59.39818 108.65 310
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.34395 59.39812 108.75 310
-OBJECT_SHARED Models/lib/MedHangar.ac 11.34458 59.39800 108.76 213
-OBJECT_SHARED Models/lib/SmHangar.ac 11.34342 59.39881 108.14 214
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.34369 59.39865 108.28 278.75
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.34490 59.39790 110.11 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.34539 59.39806 109.80 82.88
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 11.34357 59.39872 109.19 124.88
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 11.34380 59.39861 109.32 172.87
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.34152 59.39902 108.20 30
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.34154 59.39900 108.20 30
+OBJECT_SHARED Models/lib/fboModern1.ac 11.34287 59.39922 108.46 212
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 11.34398 59.39924 108.45 303
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 11.34417 59.39910 108.59 305
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.34378 59.39932 108.31 125
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.34354 59.39951 108.01 124
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.34336 59.39974 107.69 179.38
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.34343 59.39968 107.69 120.78
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 11.34413 59.39821 109.81 310
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.34329 59.39894 108.91 301.96
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.34326 59.39896 108.76 302.34
+OBJECT_SHARED Models/lib/HorizTanks2.ac 11.34410 59.39865 109.17 300
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 11.34419 59.39818 109.81 310
+OBJECT_SHARED Models/Transport/hatchback_red.ac 11.34395 59.39812 109.92 310
+OBJECT_SHARED Models/lib/MedHangar.ac 11.34458 59.39800 110.02 213
+OBJECT_SHARED Models/lib/SmHangar.ac 11.34342 59.39881 109.05 214
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.34369 59.39865 109.18 278.75
 # END dsf2stg

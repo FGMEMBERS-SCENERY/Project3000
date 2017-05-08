@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -73.96759 44.26596 532.79 193.75
-OBJECT_SHARED Models/lib/SmHangar.ac -73.96762 44.26606 532.64 194.08
-OBJECT_SHARED Models/lib/MedHangar.ac -73.96750 44.26402 535.50 189.22
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.96546 44.26439 534.05 282.53
-OBJECT_SHARED Models/Transport/hatchback_red.ac -73.96787 44.26372 535.90 337.61
-OBJECT_SHARED Models/Transport/hatchback_red.ac -73.96779 44.26372 535.89 346.18
-OBJECT_SHARED Models/Transport/hatchback_red.ac -73.96727 44.26376 535.78 336.54
-OBJECT_SHARED Models/Transport/hatchback_red.ac -73.96731 44.26376 535.78 341.11
-OBJECT_SHARED Models/Transport/hatchback_red.ac -73.96774 44.26372 535.89 342.34
-OBJECT_SHARED Models/lib/LongRow.ac -73.96745 44.26538 533.86 285.14
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.96679 44.26492 534.49 285.15
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.96592 44.26396 534.48 142.38
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.96616 44.26410 534.57 142.52
+OBJECT_SHARED Models/lib/SmHangar.ac -73.96759 44.26596 531.93 193.75
+OBJECT_SHARED Models/lib/SmHangar.ac -73.96762 44.26606 531.85 194.08
+OBJECT_SHARED Models/lib/MedHangar.ac -73.96750 44.26402 533.62 189.22
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -73.96546 44.26439 532.78 282.53
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -73.96787 44.26372 534.04 337.61
+OBJECT_SHARED Models/Transport/hatchback_green.ac -73.96779 44.26372 534.00 346.18
+OBJECT_SHARED Models/Transport/hatchback_green.ac -73.96727 44.26376 533.72 336.54
+OBJECT_SHARED Models/Transport/hatchback_green.ac -73.96731 44.26376 533.72 341.11
+OBJECT_SHARED Models/Transport/van_red.ac -73.96774 44.26372 533.96 342.34
+OBJECT_SHARED Models/lib/LongRow.ac -73.96745 44.26538 532.43 285.14
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -73.96679 44.26492 532.74 285.15
+OBJECT_SHARED Models/Aircraft/Cessna172.xml -73.96592 44.26396 533.14 142.38
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -73.96616 44.26410 533.17 142.52
 # END dsf2stg

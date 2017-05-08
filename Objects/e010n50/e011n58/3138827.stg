@@ -1,10 +1,22 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.77233 58.13272 16.17 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.77250 58.13295 17.11 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.77272 58.13307 17.41 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.77200 58.13227 15.57 0
-OBJECT_SHARED Models/lib/SmHangar.ac 11.77253 58.13252 13.55 156.12
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.77313 58.13309 15.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.77233 58.13272 11.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.77250 58.13295 11.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.77272 58.13307 12.07 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 11.77200 58.13227 11.45 0
+OBJECT_SHARED Models/lib/SmHangar.ac 11.77253 58.13252 11.04 156.12
+OBJECT_SHARED Models/lib/garden-shed.ac 11.77172 58.13223 11.69 357.99
+OBJECT_SHARED Models/lib/garden-shed.ac 11.77172 58.13206 11.64 357.99
+OBJECT_SHARED Models/lib/dGreenhse.ac 11.77137 58.13220 12.04 315
+OBJECT_SHARED Models/lib/dGreenhse.ac 11.77133 58.13222 12.15 315
+OBJECT_SHARED Models/lib/dGreenhse.ac 11.77157 58.13209 11.73 315
+OBJECT_SHARED Models/lib/dGreenhse.ac 11.77128 58.13225 12.15 315
+OBJECT_SHARED Models/lib/dGreenhse.ac 11.77152 58.13212 11.84 315
+OBJECT_SHARED Models/lib/dGreenhse.ac 11.77123 58.13227 12.35 315
+OBJECT_SHARED Models/lib/dGreenhse.ac 11.77147 58.13214 11.84 315
+OBJECT_SHARED Models/lib/dGreenhse.ac 11.77118 58.13230 12.35 315
+OBJECT_SHARED Models/lib/dGreenhse.ac 11.77142 58.13217 12.04 315
+OBJECT_SHARED Models/lib/dGreenhse.ac 11.77113 58.13232 12.46 315
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.77313 58.13309 11.56 0
 # END dsf2stg

@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -2.92916 48.05849 110.41 175.88
+OBJECT_SHARED Models/lib/industrial13x24.ac -2.93001 48.05866 108.24 175.9
+OBJECT_SHARED Models/lib/shed8x10.ac -2.92391 48.05522 115.41 71.1
+OBJECT_SHARED Models/lib/shed8x10.ac -2.92391 48.05515 114.87 71.1
+OBJECT_SHARED Models/lib/garden-shed.ac -2.92311 48.05596 119.24 88.96
+OBJECT_SHARED Models/lib/industrial13x24.ac -2.92500 48.05571 116.40 165.27
+OBJECT_SHARED Models/lib/hangar81x16.ac -2.92334 48.05554 117.95 175.35
+OBJECT_SHARED Models/Transport/hatchback_green.ac -2.92378 48.05532 116.13 72.18
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -2.92362 48.05533 116.18 251.35
+OBJECT_SHARED Models/Transport/van_red.ac -2.92375 48.05539 116.99 250.38
+OBJECT_SHARED Models/Transport/van_silver.ac -2.92334 48.05556 118.23 250.02
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -2.92334 48.05558 118.23 66.04
+OBJECT_SHARED Models/Transport/hatchback_black.ac -2.92339 48.05544 116.97 250.97
+OBJECT_SHARED Models/lib/schranke.ac -2.92382 48.05545 117.46 163.9
+OBJECT_SHARED Models/lib/schranke.ac -2.92336 48.05562 118.21 90
+# END dsf2stg

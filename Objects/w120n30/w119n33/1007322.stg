@@ -1,31 +1,31 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac -118.41495 33.40221 475.02 267
-OBJECT_SHARED Models/Misc/picnic_table.ac -118.41470 33.40298 476.42 359
-OBJECT_SHARED Models/Misc/picnic_table.ac -118.41470 33.40295 476.27 359
-OBJECT_SHARED Models/Misc/picnic_table.ac -118.41467 33.40292 476.27 71
-OBJECT_SHARED Models/Misc/picnic_table.ac -118.41468 33.40289 476.27 72
-OBJECT_SHARED Models/Misc/picnic_table.ac -118.41469 33.40287 476.27 72
-OBJECT_SHARED Models/Misc/picnic_table.ac -118.41471 33.40283 476.12 162
-OBJECT_SHARED Models/Misc/picnic_table.ac -118.41474 33.40284 476.12 162
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -118.41467 33.40329 476.74 43
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -118.41545 33.40207 474.79 266.5
-OBJECT_SHARED Models/lib/canopy38x8.ac -118.41508 33.40322 476.66 305
-OBJECT_SHARED Models/lib/deciduous-tree.xml -118.41488 33.40291 476.27 72
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -118.41563 33.40314 478.17 216.5
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -118.41530 33.40384 477.10 35.5
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -118.41548 33.40368 477.04 216.51
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -118.41502 33.40295 476.42 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41473 33.40185 474.00 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -118.41655 33.40176 466.49 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -118.41478 33.40192 474.29 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -118.41418 33.40220 467.03 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -118.41433 33.40241 466.92 0
+OBJECT_SHARED Models/lib/MedHangar.ac -118.41495 33.40221 475.04 267
+OBJECT_SHARED Models/Misc/picnic_table.ac -118.41470 33.40298 476.66 359
+OBJECT_SHARED Models/Misc/picnic_table.ac -118.41470 33.40295 476.50 359
+OBJECT_SHARED Models/Misc/picnic_table.ac -118.41467 33.40292 476.50 71
+OBJECT_SHARED Models/Misc/picnic_table.ac -118.41468 33.40289 476.50 72
+OBJECT_SHARED Models/Misc/picnic_table.ac -118.41469 33.40287 476.50 72
+OBJECT_SHARED Models/Misc/picnic_table.ac -118.41471 33.40283 476.33 162
+OBJECT_SHARED Models/Misc/picnic_table.ac -118.41474 33.40284 476.33 162
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -118.41467 33.40329 477.06 43
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -118.41545 33.40207 474.75 266.5
+OBJECT_SHARED Models/lib/canopy38x8.ac -118.41508 33.40322 476.94 305
+OBJECT_SHARED Models/lib/deciduous-tree.xml -118.41488 33.40291 476.50 72
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -118.41563 33.40314 478.24 216.5
+OBJECT_SHARED Models/Aircraft/Cessna172.xml -118.41530 33.40384 477.47 35.5
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -118.41548 33.40368 477.40 216.51
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -118.41502 33.40295 476.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41473 33.40185 473.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.41655 33.40176 466.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.41478 33.40192 474.17 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.41418 33.40220 467.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.41433 33.40241 466.86 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml -118.41416 33.40235 466.98 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -118.41452 33.40275 475.97 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml -118.41442 33.40247 466.87 28.07
-OBJECT_SHARED Models/lib/deciduous-tree.xml -118.41450 33.40257 475.80 344.05
-OBJECT_SHARED Models/lib/deciduous-tree.xml -118.41455 33.40264 475.80 0
-OBJECT_SHARED Models/lib/transformer3x3.ac -118.41048 33.40712 448.76 350.28
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -118.41452 33.40275 476.15 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -118.41442 33.40247 466.74 28.07
+OBJECT_SHARED Models/lib/deciduous-tree.xml -118.41450 33.40257 475.94 344.05
+OBJECT_SHARED Models/lib/deciduous-tree.xml -118.41455 33.40264 475.94 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -118.41048 33.40712 449.76 350.28
 # END dsf2stg

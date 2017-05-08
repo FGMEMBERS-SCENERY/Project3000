@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 25.84982 -18.09708 1067.71 252.121
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.85055 -18.09677 1068.17 250.891
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 25.85045 -18.09705 1068.11 250.427
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 25.84987 -18.09597 1067.95 70.21
-OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml 25.84897 -18.09528 1068.16 0
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 25.84982 -18.09708 1067.55 252.121
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 25.85055 -18.09677 1067.53 250.891
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 25.85045 -18.09705 1067.43 250.427
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 25.84987 -18.09597 1068.11 160.21
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml 25.84897 -18.09528 1068.69 0
 # END dsf2stg

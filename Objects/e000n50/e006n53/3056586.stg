@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 6.58280 53.12727 2.41 262.84
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 6.58360 53.12764 2.43 262.86
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 6.58443 53.12803 2.48 262.53
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 6.58525 53.12842 2.55 262.79
+OBJECT_SHARED Models/lib/lamp10m.xml 6.58682 53.12829 2.44 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 6.58748 53.12861 2.45 321.21
+OBJECT_SHARED Models/lib/MedHangar.ac 6.58572 53.13057 3.66 176.43
+OBJECT_SHARED Models/lib/MedHangar.ac 6.58578 53.13110 4.05 175.73
+OBJECT_SHARED Models/lib/MedHangar.ac 6.58363 53.13129 4.23 355.36
+OBJECT_SHARED Models/lib/MedHangar.ac 6.58356 53.13076 3.87 355.36
+OBJECT_SHARED Models/lib/LongRow.ac 6.59015 53.12717 1.82 50.37
+OBJECT_SHARED Models/lib/LongRow.ac 6.58988 53.12762 1.95 50.54
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.58831 53.12786 2.15 321.99
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 6.58481 53.13003 3.32 184.62
+OBJECT_SHARED Models/lib/lamp10m.xml 6.58766 53.12788 2.23 0
+# END dsf2stg

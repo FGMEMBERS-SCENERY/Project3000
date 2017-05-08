@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.18140 7.12634 1183.35 17.3077
-OBJECT_SHARED Models/lib/SmHangar.ac -73.18308 7.12970 1187.18 200.251
-OBJECT_SHARED Models/lib/SmHangar.ac -73.18300 7.12950 1187.02 199.467
-OBJECT_SHARED Models/lib/MedHangar.ac -73.18267 7.12914 1186.52 201.666
-OBJECT_SHARED Models/lib/MedHangar.ac -73.18359 7.12880 1187.60 19.2653
-OBJECT_SHARED Models/lib/MedHangar.ac -73.18377 7.12930 1187.92 19.8852
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.18201 7.12644 1184.15 18.7586
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.18170 7.12638 1183.74 18.4349
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.18109 7.12628 1182.97 15.7469
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -73.18089 7.12626 1182.74 162.897
-OBJECT_SHARED Models/lib/belt_loader.ac -73.18070 7.12628 1182.53 255.964
-OBJECT_SHARED Models/lib/caisses_group.ac -73.18078 7.12628 1182.64 90
-OBJECT_SHARED Models/lib/chariot3curve.ac -73.18088 7.12633 1182.76 90
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.18140 7.12634 1183.44 17.3077
+OBJECT_SHARED Models/lib/SmHangar.ac -73.18308 7.12970 1187.90 200.251
+OBJECT_SHARED Models/lib/SmHangar.ac -73.18300 7.12950 1187.68 199.467
+OBJECT_SHARED Models/lib/MedHangar.ac -73.18267 7.12914 1187.08 201.666
+OBJECT_SHARED Models/lib/MedHangar.ac -73.18359 7.12880 1188.26 19.2653
+OBJECT_SHARED Models/lib/MedHangar.ac -73.18377 7.12930 1188.68 19.8852
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.18201 7.12644 1184.27 18.7586
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.18170 7.12638 1183.84 18.4349
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.18109 7.12628 1183.07 15.7469
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -73.18089 7.12626 1182.86 162.897
+OBJECT_SHARED Models/lib/belt_loader.ac -73.18070 7.12628 1182.67 255.964
+OBJECT_SHARED Models/lib/caisses_group.ac -73.18078 7.12628 1182.77 90
+OBJECT_SHARED Models/lib/chariot3curve.ac -73.18088 7.12633 1182.88 90
 # END dsf2stg

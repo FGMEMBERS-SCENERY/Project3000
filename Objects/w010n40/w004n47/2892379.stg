@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/schranke.ac -3.10064 47.48011 9.79 250.25
+OBJECT_SHARED Models/lib/shed8x10.ac -3.10110 47.47997 9.85 158.89
+OBJECT_SHARED Models/lib/industrial13x24.ac -3.10131 47.48009 10.03 158.92
+OBJECT_SHARED Models/lib/industrial13x24.ac -3.10251 47.48054 11.18 146.49
+OBJECT_SHARED Models/lib/garden-shed.ac -3.10047 47.47983 9.48 346.79
+OBJECT_SHARED Models/lib/garage-small-white.ac -3.10034 47.47986 9.36 159.02
+OBJECT_SHARED Models/lib/farm19x12.ac -3.10214 47.48028 10.73 337.58
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.10231 47.48053 10.99 146.87
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.10237 47.48055 11.10 326.82
+# END dsf2stg

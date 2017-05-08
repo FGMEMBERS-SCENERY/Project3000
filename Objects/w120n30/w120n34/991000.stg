@@ -1,0 +1,56 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -119.83695 34.42491 3.63 10.31
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83665 34.42436 3.69 121.76
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83684 34.42491 3.63 90
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83682 34.42485 3.63 90
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83695 34.42503 3.61 154.99
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83678 34.42499 3.61 276.34
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83678 34.42502 3.61 280.62
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83679 34.42506 3.59 278.75
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83681 34.42514 3.59 93.37
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83681 34.42516 3.65 98.75
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83687 34.42518 3.65 99.47
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -119.83687 34.42521 3.65 97.78
+OBJECT_SHARED Models/lib/jetway_e12m.ac -119.83663 34.42433 3.71 358.22
+OBJECT_SHARED Models/lib/MedHangar.ac -119.84561 34.42932 2.76 115.83
+OBJECT_SHARED Models/lib/lamp10m.xml -119.83694 34.42561 3.52 230.91
+OBJECT_SHARED Models/lib/belt_loader.ac -119.83639 34.42624 3.35 243.44
+OBJECT_SHARED Models/lib/belt_loader.ac -119.83707 34.42452 3.68 103.24
+OBJECT_SHARED Models/lib/belt_loader.ac -119.83688 34.42483 3.63 7.72
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -119.83678 34.42428 3.71 21.32
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -119.83702 34.42451 3.68 5.91
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -119.83732 34.42600 3.47 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -119.83696 34.42586 3.48 270
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -119.83668 34.42577 3.49 271.01
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -119.83674 34.42412 3.74 358.96
+OBJECT_SHARED Models/lib/jetway_e16m.ac -119.83688 34.42512 3.59 356.42
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83718 34.42511 3.59 66.74
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83680 34.42406 3.74 103.49
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83691 34.42426 3.71 74.48
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83697 34.42453 3.68 58.85
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83703 34.42483 3.63 65.06
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83671 34.42580 3.49 350.31
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83712 34.42573 3.51 83.26
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83714 34.42528 3.56 33.64
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -119.83738 34.42602 3.47 88.7
+OBJECT_SHARED Models/lib/jetway_e12m.ac -119.83665 34.42446 3.68 358.22
+OBJECT_SHARED Models/lib/MedHangar.ac -119.83590 34.42339 3.67 105.13
+OBJECT_SHARED Models/lib/FireStationLg.ac -119.84342 34.43036 3.12 23.81
+OBJECT_SHARED Models/lib/office32x25.ac -119.84537 34.43101 3.21 204.19
+OBJECT_SHARED Models/lib/office32x25.ac -119.84532 34.43027 3.02 206.33
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -119.84583 34.43007 2.91 296.18
+OBJECT_SHARED Models/lib/LuggCartPkng.ac -119.83647 34.42400 3.61 192.49
+OBJECT_SHARED Models/lib/caisses_group.ac -119.83659 34.42399 3.75 11.51
+OBJECT_SHARED Models/lib/admin31x12.ac -119.83620 34.42535 3.45 38.3
+OBJECT_SHARED Models/lib/LongRow.ac -119.83768 34.43243 3.45 289.3
+OBJECT_SHARED Models/lib/LongRow.ac -119.84337 34.43080 3.20 24.35
+OBJECT_SHARED Models/lib/LongRow.ac -119.84350 34.43116 3.29 24.35
+OBJECT_SHARED Models/lib/LongRow.ac -119.84350 34.43149 3.37 24.35
+OBJECT_SHARED Models/lib/LongRow.ac -119.83876 34.43217 3.46 289.24
+OBJECT_SHARED Models/lib/LongRow.ac -119.83661 34.43276 3.48 288.71
+OBJECT_SHARED Models/lib/LongRow.ac -119.83714 34.43259 3.44 290.27
+OBJECT_SHARED Models/lib/office112x50.ac -119.83139 34.43305 3.20 180
+OBJECT_SHARED Models/lib/fboModern1.ac -119.83617 34.43296 3.47 109.15
+# END dsf2stg

@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 5.71474 48.35968 364.84 192.061
-OBJECT_SHARED Models/lib/SmHangar.ac 5.71488 48.35922 366.62 191.672
-OBJECT_SHARED Models/lib/SmHangar.ac 5.71469 48.35982 364.44 191.672
-OBJECT_SHARED Models/lib/SmHangar.ac 5.71465 48.35996 363.76 191.529
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 5.71468 48.35953 365.34 292.278
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 5.71745 48.35912 366.02 0
-OBJECT_SHARED Models/lib/shed8x10.ac 5.71756 48.35912 365.91 80.7885
+OBJECT_SHARED Models/lib/SmHangar.ac 5.71474 48.35968 364.34 192.061
+OBJECT_SHARED Models/lib/SmHangar.ac 5.71488 48.35922 365.12 191.672
+OBJECT_SHARED Models/lib/SmHangar.ac 5.71469 48.35982 364.16 191.672
+OBJECT_SHARED Models/lib/SmHangar.ac 5.71465 48.35996 363.87 191.529
+OBJECT_SHARED Models/Transport/hatchback_red.ac 5.71468 48.35953 364.58 292.278
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 5.71745 48.35912 368.27 0
+OBJECT_SHARED Models/lib/shed8x10.ac 5.71756 48.35912 368.42 80.7885
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 5.71478 48.35999 363.99 264.56
 # END dsf2stg

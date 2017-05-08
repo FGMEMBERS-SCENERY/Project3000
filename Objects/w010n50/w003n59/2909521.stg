@@ -2,19 +2,19 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -2.57490 59.25236 16.60 155.35
-OBJECT_SHARED Models/lib/coal_pile.ac -2.57531 59.25249 17.12 13.2408
-OBJECT_SHARED Models/lib/coal_pile.ac -2.57540 59.25251 17.20 90
-OBJECT_SHARED Models/lib/coal_pile.ac -2.57549 59.25249 17.28 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.57531 59.25249 17.13 13.2408
+OBJECT_SHARED Models/lib/coal_pile.ac -2.57540 59.25251 17.21 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.57549 59.25249 17.30 90
 OBJECT_SHARED Models/lib/schranke.ac -2.57519 59.25245 16.89 288.435
 OBJECT_SHARED Models/lib/cone.ac -2.57492 59.25240 16.62 0
 OBJECT_SHARED Models/lib/cone.ac -2.57485 59.25241 16.55 0
 OBJECT_SHARED Models/lib/cone.ac -2.57479 59.25231 16.37 0
 OBJECT_SHARED Models/lib/cone.ac -2.57474 59.25222 16.20 0
-OBJECT_SHARED Models/lib/cone.ac -2.57492 59.25217 16.39 0
+OBJECT_SHARED Models/lib/cone.ac -2.57492 59.25217 16.38 0
 OBJECT_SHARED Models/lib/cone.ac -2.57514 59.25214 16.48 0
 OBJECT_SHARED Models/lib/cone.ac -2.57522 59.25225 16.80 0
 OBJECT_SHARED Models/lib/cone.ac -2.57528 59.25235 16.97 0
 OBJECT_SHARED Models/lib/cone.ac -2.57516 59.25237 16.86 0
-OBJECT_SHARED Models/lib/office3x10.ac -2.57491 59.25255 16.74 19.8849
-OBJECT_SHARED Models/lib/cars4.ac -2.57490 59.25251 16.73 198.947
+OBJECT_SHARED Models/lib/office3x10.ac -2.57491 59.25255 16.75 19.8849
+OBJECT_SHARED Models/lib/cars4.ac -2.57490 59.25251 16.74 198.947
 # END dsf2stg

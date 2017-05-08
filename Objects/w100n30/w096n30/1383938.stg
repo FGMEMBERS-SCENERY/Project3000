@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.35883 30.00642 27.59 101.31
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.35735 30.00642 27.60 79.22
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.35470 30.00629 27.64 32.28
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.35499 30.00653 27.61 36.1
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.35000 30.00628 27.69 23.78
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.35024 30.00652 27.66 40.6
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.33920 30.00629 27.82 149.2
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.33893 30.00655 27.80 122.74
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.33444 30.00631 27.86 155.82
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.33419 30.00655 27.86 140.31
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.33032 30.00645 27.89 75.96
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -95.33182 30.00645 27.88 105.95
+OBJECT_SHARED Models/lib/belt_loader.ac -95.30928 30.00146 27.26 270
+OBJECT_SHARED Models/lib/belt_loader.ac -95.30938 30.00147 27.26 270
+OBJECT_SHARED Models/lib/belt_loader.ac -95.30948 30.00147 27.27 270
+OBJECT_SHARED Models/lib/container6-HD.ac -95.30926 30.00001 27.11 0
+OBJECT_SHARED Models/lib/container6-HD.ac -95.30947 30.00231 27.34 0
+OBJECT_SHARED Models/lib/container6-HD.ac -95.30960 30.00232 27.35 0
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -95.30944 30.00201 27.31 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -95.30933 30.00124 27.23 0
+OBJECT_SHARED Models/lib/CargoPodPkng.ac -95.31014 30.00222 27.35 270
+OBJECT_SHARED Models/lib/CargoPodPkng.ac -95.31014 30.00189 27.32 270
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -95.31046 30.00192 27.34 355
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -95.31061 30.00207 27.36 355.6
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -95.31062 30.00222 27.37 355
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -95.30940 30.00178 27.29 265.6
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -95.30937 30.00219 27.33 215.27
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -95.31054 30.00149 27.30 90
+OBJECT_SHARED Models/Airport/cargoip.xml -95.31046 30.00021 27.17 0
+OBJECT_SHARED Models/Airport/cargoip.xml -95.31052 30.00078 27.23 0
+OBJECT_SHARED Models/Airport/cargoip.xml -95.31033 30.00055 27.20 0
+OBJECT_SHARED Models/Airport/cargoip.xml -95.31049 30.00054 27.20 0
+OBJECT_SHARED Models/Airport/cargobox.xml -95.31042 30.00028 27.18 0
+OBJECT_SHARED Models/Airport/cargobox.xml -95.31055 30.00018 27.17 0
+OBJECT_SHARED Models/Airport/cargobox.xml -95.31036 30.00020 27.17 0
+OBJECT_SHARED Models/Airport/cargobox.xml -95.31037 30.00040 27.19 0
+OBJECT_SHARED Models/Airport/cargobox.xml -95.31053 30.00032 27.18 0
+OBJECT_SHARED Models/Airport/cargobox.xml -95.31053 30.00044 27.19 0
+OBJECT_SHARED Models/lib/loader.ac -95.30959 30.00129 27.25 270
+OBJECT_SHARED Models/lib/loader.ac -95.30925 30.00122 27.22 270
+OBJECT_SHARED Models/lib/office65x50.ac -95.31334 30.00230 27.46 270
+# END dsf2stg

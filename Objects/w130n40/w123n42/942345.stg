@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65631 42.18895 573.71 39.65
+OBJECT_SHARED Models/lib/MedHangar.ac -122.65741 42.18897 572.16 38.85
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65498 42.18712 576.80 41.84
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65473 42.18692 576.65 42.49
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65486 42.18702 576.72 42.04
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65510 42.18722 576.86 40.73
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65491 42.18751 576.91 81.11
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65510 42.18753 576.91 81.18
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65530 42.18756 576.89 81.18
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65549 42.18758 576.89 81.18
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65567 42.18760 574.83 81.18
+OBJECT_SHARED Models/lib/LongRow.ac -122.65536 42.18709 576.80 309.68
+OBJECT_SHARED Models/lib/LongRow.ac -122.65566 42.18882 573.89 351.26
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65677 42.18842 572.70 39.93
+OBJECT_SHARED Models/lib/SmHangar.ac -122.65687 42.18851 572.61 39.05
+OBJECT_SHARED Models/lib/HorizTanks2.ac -122.65746 42.18841 572.70 36.72
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65642 42.18828 574.36 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65658 42.18813 572.96 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65671 42.18832 572.79 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65606 42.18803 574.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65616 42.18817 574.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65586 42.18797 574.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65564 42.18794 574.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65541 42.18791 576.75 75.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65515 42.18788 576.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65490 42.18786 576.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65605 42.18768 574.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65589 42.18776 574.72 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65566 42.18775 574.78 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65542 42.18772 576.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65517 42.18769 576.83 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65495 42.18766 576.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65471 42.18763 576.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.65467 42.18783 576.79 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -122.65703 42.18805 573.03 218.77
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -122.65635 42.18758 574.83 220.68
+OBJECT_SHARED Models/Aircraft/Cessna172.xml -122.65596 42.18741 574.94 216.03
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -122.65531 42.18646 576.37 37.79
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -122.65506 42.18621 576.03 219.27
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -122.65680 42.18830 572.79 170.27
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -122.65764 42.18881 571.19 43.07
+# END dsf2stg

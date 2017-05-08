@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.50328 37.18403 56.25 228.58
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.50242 37.18417 56.99 45
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.50378 37.18313 56.31 49.72
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.50335 37.18348 56.34 47.61
-OBJECT_SHARED Models/lib/LongRow.ac -77.50121 37.18392 56.39 47
-OBJECT_SHARED Models/lib/LongRow.ac -77.50146 37.18311 56.42 47
-OBJECT_SHARED Models/lib/LongRow.ac -77.50044 37.18347 55.87 47
-OBJECT_SHARED Models/lib/LongRow.ac -77.50076 37.18372 56.16 47
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.50328 37.18403 56.57 228.58
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -77.50242 37.18417 56.66 45
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -77.50378 37.18313 56.57 49.72
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -77.50335 37.18348 56.60 47.61
+OBJECT_SHARED Models/lib/LongRow.ac -77.50121 37.18392 56.68 47
+OBJECT_SHARED Models/lib/LongRow.ac -77.50146 37.18311 56.67 47
+OBJECT_SHARED Models/lib/LongRow.ac -77.50044 37.18347 56.57 47
+OBJECT_SHARED Models/lib/LongRow.ac -77.50076 37.18372 56.64 47
 OBJECT_SHARED Models/lib/LongRow.ac -77.50159 37.18417 56.69 47
-OBJECT_SHARED Models/lib/MedHangar.ac -77.50202 37.18397 56.90 318.26
-OBJECT_SHARED Models/lib/fboModern1.ac -77.50320 37.18267 56.54 317.37
-OBJECT_SHARED Models/lib/MedHangar.ac -77.50234 37.18302 56.90 317.71
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -77.50181 37.18357 56.70 316.59
+OBJECT_SHARED Models/lib/MedHangar.ac -77.50202 37.18397 56.69 318.26
+OBJECT_SHARED Models/lib/fboModern1.ac -77.50320 37.18267 56.66 317.37
+OBJECT_SHARED Models/lib/MedHangar.ac -77.50234 37.18302 56.69 317.71
+OBJECT_SHARED Models/Transport/hatchback_red.ac -77.50181 37.18357 56.69 316.59
 # END dsf2stg

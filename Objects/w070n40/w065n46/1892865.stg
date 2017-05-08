@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -64.66320 46.10519 58.58 195.174
+OBJECT_SHARED Models/lib/MedHangar.ac -64.66435 46.10549 58.34 271.042
+OBJECT_SHARED Models/lib/LongRow.ac -64.67314 46.10485 61.03 271.292
+OBJECT_SHARED Models/lib/MedHangar.ac -64.67404 46.10479 61.26 272.862
+OBJECT_SHARED Models/lib/LgMaint.ac -64.68033 46.10487 62.37 271.259
+OBJECT_SHARED Models/lib/MedHangar.ac -64.68267 46.10469 62.27 271.332
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -64.68138 46.10406 61.79 180.379
+# END dsf2stg

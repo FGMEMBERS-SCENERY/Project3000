@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92491 52.34705 690.64 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92502 52.34705 690.64 105.52
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92513 52.34705 690.64 66.8
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92524 52.34705 690.64 174.81
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92535 52.34705 690.64 57.53
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92546 52.34705 690.64 126.03
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92557 52.34705 690.91 318.37
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92567 52.34705 690.91 29.74
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92578 52.34705 690.91 280.3
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92589 52.34705 690.91 146.31
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92600 52.34705 690.91 5.70999
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92611 52.34705 690.91 260.54
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92622 52.34705 690.91 126.03
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92633 52.34705 690.91 101.31
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92644 52.34705 690.91 180
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92655 52.34705 690.63 213.69
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.92666 52.34705 690.63 141.34
+OBJECT_SHARED Models/lib/lamp10m.xml -109.92578 52.34672 690.68 180
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -109.92576 52.34672 690.68 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -109.92583 52.34672 690.68 45
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -109.92578 52.34673 690.68 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -109.92578 52.34674 690.68 0
+OBJECT_SHARED Models/lib/garden-shed.ac -109.92581 52.34673 690.68 90
+OBJECT_SHARED Models/lib/SmHangar.ac -109.92542 52.34671 690.45 90
+OBJECT_SHARED Models/lib/SmHangar.ac -109.92516 52.34671 690.45 90
+OBJECT_SHARED Models/lib/SmHangar.ac -109.92490 52.34671 690.45 90
+# END dsf2stg

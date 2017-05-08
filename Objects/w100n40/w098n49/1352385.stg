@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -97.53273 49.09690 -0.49 26.56
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -97.53267 49.09676 -0.49 2.73001
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.53305 49.09641 -0.48 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.53272 49.09734 -0.50 270
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.53273 49.09750 -0.51 271.43
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -97.53273 49.09760 -0.51 273.95
-OBJECT_SHARED Models/lib/HorizTanks2.ac -97.53321 49.09631 -0.48 90
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.53317 49.09647 -0.48 90
-OBJECT_SHARED Models/lib/SmHangar.ac -97.53261 49.09630 -0.48 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -97.53273 49.09690 246.04 26.56
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -97.53267 49.09676 246.04 2.73001
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -97.53305 49.09641 246.03 0
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -97.53272 49.09734 246.04 270
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -97.53273 49.09750 246.05 271.43
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -97.53273 49.09760 246.05 273.95
+OBJECT_SHARED Models/lib/HorizTanks2.ac -97.53321 49.09631 246.03 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.53317 49.09647 246.03 90
+OBJECT_SHARED Models/lib/SmHangar.ac -97.53261 49.09630 246.03 0
 # END dsf2stg

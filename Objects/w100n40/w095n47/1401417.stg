@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -94.64154 47.15789 408.84 124.99
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -94.64178 47.15813 409.46 121.76
-OBJECT_SHARED Models/Aircraft/B1900_services.xml -94.64217 47.15633 407.31 90
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.64277 47.15807 411.08 167.47
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -94.64387 47.15811 412.54 4.76
-OBJECT_SHARED Models/lib/fboModern1.ac -94.64147 47.15808 408.97 36.58
-OBJECT_SHARED Models/lib/MedHangar.ac -94.64403 47.15823 412.52 123.28
-OBJECT_SHARED Models/lib/MedHangar.ac -94.64287 47.15819 411.31 124.51
-OBJECT_SHARED Models/lib/MedHangar.ac -94.64172 47.15629 406.21 306.45
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -94.64154 47.15789 409.93 124.99
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -94.64178 47.15813 410.61 121.76
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -94.64217 47.15633 408.82 90
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.64277 47.15807 411.45 167.47
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -94.64387 47.15811 411.33 4.76
+OBJECT_SHARED Models/lib/fboModern1.ac -94.64147 47.15808 410.11 36.58
+OBJECT_SHARED Models/lib/MedHangar.ac -94.64403 47.15823 411.39 123.28
+OBJECT_SHARED Models/lib/MedHangar.ac -94.64287 47.15819 411.61 124.51
+OBJECT_SHARED Models/lib/MedHangar.ac -94.64172 47.15629 408.38 306.45
 # END dsf2stg

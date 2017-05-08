@@ -1,5 +1,5 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -64.69890 46.50849 12.02 18.53
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -64.69890 46.50849 11.95 18.53
 # END dsf2stg

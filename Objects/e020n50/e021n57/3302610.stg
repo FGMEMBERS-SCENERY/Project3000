@@ -1,15 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/cargobox.xml 21.54519 57.36201 3.25 51.044
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 21.54516 57.36199 3.25 322.334
-OBJECT_SHARED Models/lib/chariot1.ac 21.54665 57.36260 3.18 328.361
-OBJECT_SHARED Models/lib/chariot1.ac 21.54511 57.36213 3.25 141.152
-OBJECT_SHARED Models/lib/chariot1.ac 21.54507 57.36210 3.25 141.152
-OBJECT_SHARED Models/lib/chariot1.ac 21.54452 57.36136 3.28 143.999
-OBJECT_SHARED Models/lib/container6.ac 21.54642 57.36267 3.16 328.672
-OBJECT_SHARED Models/lib/container6.ac 21.54646 57.36273 3.17 328.672
+OBJECT_SHARED Models/lib/garage-small-white.ac 21.54496 57.36203 3.16 324.87
+OBJECT_SHARED Models/Airport/cargobox.xml 21.54519 57.36201 3.12 51.044
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 21.54516 57.36199 3.12 322.334
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 21.54665 57.36260 2.87 328.361
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 21.54511 57.36213 3.14 141.152
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 21.54507 57.36210 3.14 141.152
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 21.54452 57.36136 3.29 143.999
+OBJECT_SHARED Models/lib/container6-HD.ac 21.54642 57.36267 2.89 328.672
+OBJECT_SHARED Models/lib/container6-HD.ac 21.54646 57.36273 2.88 328.672
 OBJECT_SHARED Models/lib/fuel-truck.xml 21.54459 57.36136 3.27 54.2108
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 21.54363 57.36169 3.29 233.102
-OBJECT_SHARED Models/lib/SmHangar.ac 21.54551 57.36252 3.18 142.828
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 21.54363 57.36169 2.84 233.102
+OBJECT_SHARED Models/lib/SmHangar.ac 21.54551 57.36252 3.05 142.828
 # END dsf2stg

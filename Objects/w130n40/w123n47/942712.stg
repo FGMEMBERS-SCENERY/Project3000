@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_silver.ac -122.89844 47.99809 119.77 174.69
+OBJECT_SHARED Models/Transport/hatchback_red.ac -122.89849 47.99810 119.77 178.07
+OBJECT_SHARED Models/Transport/hatchback_black.ac -122.89725 47.99654 92.10 118.53
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.89732 47.99656 93.65 113.63
+OBJECT_SHARED Models/lib/coal_pile.ac -122.89723 47.99805 116.93 266.67
+OBJECT_SHARED Models/lib/stack_of_cones.ac -122.89733 47.99796 115.38 0
+OBJECT_SHARED Models/lib/cone.ac -122.89680 47.99979 125.24 181.88
+OBJECT_SHARED Models/lib/cone.ac -122.89690 47.99981 125.24 216.47
+OBJECT_SHARED Models/lib/cone.ac -122.89699 47.99983 125.24 200.62
+OBJECT_SHARED Models/lib/cone.ac -122.90055 47.99277 45.44 186.09
+OBJECT_SHARED Models/lib/cone.ac -122.90063 47.99279 45.44 238.35
+OBJECT_SHARED Models/lib/cone.ac -122.90073 47.99281 45.44 201.25
+OBJECT_SHARED Models/Airport/cargobox.xml -122.89723 47.99798 115.38 148.32
+OBJECT_SHARED Models/Airport/cargobox.xml -122.89722 47.99794 113.83 148.32
+OBJECT_SHARED Models/Airport/cargobox.xml -122.89725 47.99796 115.38 148.32
+OBJECT_SHARED Models/Airport/cargobox.xml -122.89727 47.99800 115.38 148.32
+OBJECT_SHARED Models/Airport/cargobox.xml -122.89728 47.99797 115.38 148.32
+OBJECT_SHARED Models/Misc/6barrels.ac -122.89730 47.99810 116.93 101.31
+OBJECT_SHARED Models/Misc/6barrels.ac -122.89730 47.99813 116.93 201.8
+OBJECT_SHARED Models/Misc/6barrels.ac -122.89735 47.99811 116.93 342.65
+OBJECT_SHARED Models/Misc/6barrels.ac -122.89728 47.99810 116.93 111.1
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -122.89739 47.99801 115.38 72.15
+OBJECT_SHARED Models/Transport/van_silver.ac -122.89735 47.99805 116.93 74.86
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -122.89749 47.99795 115.38 161.31
+OBJECT_SHARED Models/Transport/hatchback_red.ac -122.89759 47.99768 113.56 346.24
+OBJECT_SHARED Models/lib/trailer-fedex.ac -122.89738 47.99697 99.86 338.99
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -122.89740 47.99771 110.72 68.77
+OBJECT_SHARED Models/lib/shed10x50.ac -122.89741 47.99715 101.41 161.11
+# END dsf2stg

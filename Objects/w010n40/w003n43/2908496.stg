@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars10.ac -2.80567 43.33928 36.71 45.33
-OBJECT_SHARED Models/lib/cars10.ac -2.80594 43.33908 35.57 45.33
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80639 43.34000 36.59 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80538 43.33968 37.69 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80544 43.33949 37.31 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80549 43.33945 37.24 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80554 43.33942 37.03 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80558 43.33938 36.98 0
+OBJECT_SHARED Models/lib/cars10.ac -2.80567 43.33928 37.16 45.33
+OBJECT_SHARED Models/lib/cars10.ac -2.80594 43.33908 36.70 45.33
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80639 43.34000 36.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80538 43.33968 37.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80544 43.33949 37.59 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80549 43.33945 37.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80554 43.33942 37.38 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80558 43.33938 37.36 0
 # END dsf2stg

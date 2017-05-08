@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/industrial13x24.ac 17.71946 -14.65961 -0.11 332.09
-OBJECT_SHARED Models/lib/SmHangar.ac 17.71879 -14.65928 -0.09 239.83
-OBJECT_SHARED Models/lib/FireStationLg.ac 17.71903 -14.65940 -0.09 60.28
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 17.71720 -14.65978 -0.14 331.95
-OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 17.72088 -14.66107 -0.18 1.92001
-OBJECT_SHARED Models/lib/MedHangar.ac 17.71598 -14.65851 -0.14 241.34
+OBJECT_SHARED Models/lib/industrial13x24.ac 17.71946 -14.65961 1412.70 332.09
+OBJECT_SHARED Models/lib/SmHangar.ac 17.71879 -14.65928 1412.47 239.83
+OBJECT_SHARED Models/lib/FireStationLg.ac 17.71903 -14.65940 1412.52 60.28
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 17.71720 -14.65978 1410.02 331.95
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 17.72088 -14.66107 1411.66 1.92001
+OBJECT_SHARED Models/lib/MedHangar.ac 17.71598 -14.65851 1410.62 241.34
 # END dsf2stg

@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -81.41096 31.08574 3.04 90.62
+OBJECT_SHARED Models/lib/SmHangar.ac -81.42699 31.07592 1.65 271
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.42789 31.07097 1.00 200
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.42650 31.06981 1.76 200
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.42667 31.07193 2.04 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.42667 31.07227 2.03 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.42674 31.07240 2.02 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.42684 31.07305 1.98 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.42685 31.07343 1.97 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.42688 31.07363 1.95 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.42706 31.07394 1.94 270
+OBJECT_SHARED Models/lib/admin31x12.ac -81.42667 31.07210 2.03 6
+OBJECT_SHARED Models/lib/admin31x12.ac -81.42676 31.07318 1.97 5
+OBJECT_SHARED Models/Misc/picnic_table.ac -81.42680 31.07303 1.99 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.42682 31.07298 1.99 5
+OBJECT_SHARED Models/lib/lamp10m.xml -81.42686 31.07336 1.97 5
+OBJECT_SHARED Models/lib/lamp10m.xml -81.42675 31.07230 2.03 5
+OBJECT_SHARED Models/lib/lamp10m.xml -81.42669 31.07186 2.04 5
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -81.42690 31.07285 2.00 275
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -81.42695 31.07329 1.97 275
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -81.42678 31.07186 2.03 275
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -81.42684 31.07204 2.03 195
+OBJECT_SHARED Models/Misc/picnic_table.ac -81.42667 31.07190 2.04 90
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.42680 31.07219 2.03 280
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.42680 31.07217 2.03 275
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.42679 31.07214 2.03 275
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.42680 31.07212 2.03 275
+OBJECT_SHARED Models/Transport/van_silver.ac -81.42679 31.07209 2.03 275
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.42678 31.07201 2.03 275
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.42678 31.07198 2.03 275
+OBJECT_SHARED Models/Transport/van_red.ac -81.42678 31.07196 2.03 274
+# END dsf2stg

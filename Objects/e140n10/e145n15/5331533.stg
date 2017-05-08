@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/LongRow.ac 145.72554 15.12562 -0.18 263.1
-OBJECT_SHARED Models/lib/LongRow.ac 145.72562 15.12626 -0.20 263.1
-OBJECT_SHARED Models/lib/cargo_pod_lot.ac 145.72607 15.12647 -0.20 6.58
-OBJECT_SHARED Models/lib/cargo_pod_lot.ac 145.72605 15.12659 -0.20 6.58
+OBJECT_SHARED Models/lib/LongRow.ac 145.72554 15.12562 61.74 263.1
+OBJECT_SHARED Models/lib/LongRow.ac 145.72562 15.12626 60.68 263.1
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 145.72607 15.12647 60.34 6.58
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 145.72605 15.12659 60.17 6.58
 # END dsf2stg

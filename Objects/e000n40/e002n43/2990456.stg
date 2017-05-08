@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangar81x16.ac 2.11653 43.91580 0.00 0.739998
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 2.11793 43.91533 0.00 0.459999
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 2.11642 43.91572 0.00 90.9
+OBJECT_SHARED Models/lib/container6-HD.ac 2.11419 43.91641 -0.00 271.51
+OBJECT_SHARED Models/lib/container6-HD.ac 2.11450 43.91641 0.00 270
+OBJECT_SHARED Models/lib/industrial13x24.ac 2.11608 43.91538 0.00 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 2.11677 43.91661 0.00 331.52
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 2.11870 43.91584 0.00 326.88
+OBJECT_SHARED Models/lib/shed10x50.ac 2.11826 43.91604 0.00 331.43
+OBJECT_SHARED Models/lib/shed10x50.ac 2.11772 43.91626 0.00 149.89
+OBJECT_SHARED Models/lib/lamp10m.xml 2.11625 43.91571 -0.00 89.64
+OBJECT_SHARED Models/lib/lamp10m.xml 2.11737 43.91570 0.00 182.36
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 2.11629 43.91605 -0.00 0
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 2.11678 43.91617 0.00 90.27
+OBJECT_SHARED Models/Transport/van_silver.ac 2.11813 43.91559 0.00 244.7
+OBJECT_SHARED Models/Transport/hatchback_black.ac 2.11648 43.91626 -0.00 270.93
+OBJECT_SHARED Models/lib/cars4.ac 2.11666 43.91596 0.00 180.14
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 2.11158 43.91199 0.00 358.21
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 2.11600 43.91579 -0.00 184.76
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 2.11636 43.91620 -0.00 183.01
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 2.11699 43.91654 0.00 150.26
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 2.11786 43.91565 0.00 142.7
+OBJECT_SHARED Models/Airport/cargobox.xml 2.11618 43.91540 0.00 322.59
+OBJECT_SHARED Models/lib/container6-HD.ac 2.11434 43.91558 -0.00 333.44
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 2.11457 43.91559 0.00 315
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 2.11622 43.91555 0.00 338.63
+OBJECT_SHARED Models/Transport/hatchback_green.ac 2.12000 43.91501 0.00 19.44
+OBJECT_SHARED Models/Transport/van_red.ac 2.11962 43.91511 -0.00 250.97
+OBJECT_SHARED Models/lib/trailer-ups.ac 2.11930 43.91524 0.00 334.8
+OBJECT_SHARED Models/Transport/Norberttruck.xml 2.11893 43.91536 0.00 272.54
+OBJECT_SHARED Models/lib/trailer-fedex.ac 2.11882 43.91543 0.00 75.96
+OBJECT_SHARED Models/lib/cars6.ac 2.11864 43.91558 0.00 147.74
+OBJECT_SHARED Models/lib/coal_pile.ac 2.11618 43.91549 0.00 355.18
+OBJECT_SHARED Models/lib/lamp10m.xml 2.11583 43.91585 0.00 102.53
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 2.11733 43.91553 0.00 270
+# END dsf2stg

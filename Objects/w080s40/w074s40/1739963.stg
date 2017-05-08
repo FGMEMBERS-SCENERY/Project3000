@@ -1,8 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -73.16828 -39.06398 17.16 148
-OBJECT_SHARED Models/lib/SmHangar.ac -73.16820 -39.06327 17.42 327.39
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.16748 -39.06219 17.79 95.71
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.16911 -39.06420 17.68 192.2
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.16822 -39.06391 18.17 148
+OBJECT_SHARED Models/lib/cars7.ac -73.16828 -39.06398 18.21 148
+OBJECT_SHARED Models/lib/SmHangar.ac -73.16820 -39.06327 18.07 327.39
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.16748 -39.06219 17.80 95.71
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -73.16911 -39.06420 18.38 192.2
 # END dsf2stg

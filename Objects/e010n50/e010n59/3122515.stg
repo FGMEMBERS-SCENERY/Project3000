@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.78913 59.37423 58.22 150
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.78969 59.37398 59.30 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.79005 59.37413 58.92 270
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.78874 59.37419 58.06 60
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.78892 59.37441 57.26 90
-OBJECT_SHARED Models/lib/citation.ac 10.78895 59.37386 59.45 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.78913 59.37423 53.30 150
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.78969 59.37398 53.46 90
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 10.79005 59.37413 53.27 270
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 10.78874 59.37419 53.34 60
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 10.78892 59.37441 53.07 90
+OBJECT_SHARED Models/lib/citation.ac 10.78895 59.37386 53.71 0
 # END dsf2stg

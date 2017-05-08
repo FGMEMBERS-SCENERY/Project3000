@@ -1,13 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/admin31x12.ac -71.69253 -46.58109 305.38 42.27
-OBJECT_SHARED Models/lib/cars7.ac -71.69215 -46.58130 305.69 42.46
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.71956 -46.53835 199.29 345
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.72075 -46.53732 202.00 256
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.71629 -46.53773 192.59 135
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.71793 -46.53763 196.23 45
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.69333 -46.57765 303.23 208.78
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.69116 -46.58099 305.62 92.91
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.69267 -46.58071 304.89 88.45
+OBJECT_SHARED Models/lib/admin31x12.ac -71.69253 -46.58109 306.10 42.27
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.69223 -46.58125 306.24 42.46
+OBJECT_SHARED Models/lib/cars7.ac -71.69215 -46.58130 306.35 42.46
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.71956 -46.53835 201.31 75
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.72075 -46.53732 202.00 346
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.71629 -46.53773 200.32 225
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.71793 -46.53763 201.96 135
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.69333 -46.57765 302.32 208.78
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.69116 -46.58099 306.34 92.91
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -71.69267 -46.58071 305.48 88.45
 # END dsf2stg

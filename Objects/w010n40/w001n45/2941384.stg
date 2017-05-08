@@ -1,23 +1,23 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.88390 45.19823 31.25 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.88390 45.19822 31.25 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.88389 45.19822 31.25 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.88404 45.19774 31.84 207.095
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -0.88375 45.19820 31.25 206.565
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -0.88410 45.19808 31.41 49.2971
-OBJECT_SHARED Models/Transport/hatchback_red.ac -0.88318 45.19856 31.10 25.2776
-OBJECT_SHARED Models/Transport/hatchback_red.ac -0.88313 45.19857 31.09 28.3929
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.88350 45.19840 31.16 0
-OBJECT_SHARED Models/lib/shed8x10.ac -0.88051 45.19956 30.53 25.2916
-OBJECT_SHARED Models/lib/farm19x12.ac -0.88345 45.19844 31.16 205.919
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -0.88251 45.19824 31.12 297.919
-OBJECT_SHARED Models/lib/SmHangar.ac -0.88540 45.19771 31.37 115.32
-OBJECT_SHARED Models/lib/SmHangar.ac -0.88409 45.19815 31.40 116.45
-OBJECT_SHARED Models/lib/SmHangar.ac -0.88444 45.19803 31.32 116.45
-OBJECT_SHARED Models/lib/SmHangar.ac -0.88475 45.19792 31.35 116.45
-OBJECT_SHARED Models/lib/SmHangar.ac -0.88506 45.19781 31.36 116.45
-OBJECT_SHARED Models/lib/SmHangar.ac -0.88377 45.19826 31.21 117.48
-OBJECT_SHARED Models/lib/SmHangar.ac -0.88364 45.19830 31.21 117.48
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.88390 45.19823 31.26 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.88390 45.19822 31.26 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.88389 45.19822 31.26 0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -0.88404 45.19774 31.40 207.095
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -0.88375 45.19820 31.26 206.565
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -0.88410 45.19808 31.29 49.2971
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.88318 45.19856 31.07 25.2776
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.88313 45.19857 31.07 28.3929
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.88350 45.19840 31.17 0
+OBJECT_SHARED Models/lib/shed8x10.ac -0.88051 45.19956 30.65 25.2916
+OBJECT_SHARED Models/lib/farm19x12.ac -0.88345 45.19844 31.17 205.919
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -0.88251 45.19824 31.19 297.919
+OBJECT_SHARED Models/lib/SmHangar.ac -0.88540 45.19771 31.38 115.32
+OBJECT_SHARED Models/lib/SmHangar.ac -0.88409 45.19815 31.29 116.45
+OBJECT_SHARED Models/lib/SmHangar.ac -0.88444 45.19803 31.33 116.45
+OBJECT_SHARED Models/lib/SmHangar.ac -0.88475 45.19792 31.36 116.45
+OBJECT_SHARED Models/lib/SmHangar.ac -0.88506 45.19781 31.38 116.45
+OBJECT_SHARED Models/lib/SmHangar.ac -0.88377 45.19826 31.22 117.48
+OBJECT_SHARED Models/lib/SmHangar.ac -0.88364 45.19830 31.22 117.48
 # END dsf2stg

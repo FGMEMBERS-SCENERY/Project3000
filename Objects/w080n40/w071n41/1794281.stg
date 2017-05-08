@@ -2,7 +2,7 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/office65x50.ac -70.53440 41.65873 34.20 63.8412
-OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -70.52034 41.65086 -59.37 0
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -70.52034 41.65086 -59.36 0
 OBJECT_SHARED Models/lib/MedHangar.ac -70.51601 41.64919 30.00 231.468
 OBJECT_SHARED Models/lib/MedHangar.ac -70.51915 41.65097 30.62 231.468
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.52209 41.65180 31.00 52.3561

@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/large-hangar.ac -3.80960 48.60090 81.10 344.64
+OBJECT_SHARED Models/lib/large-hangar.ac -3.80857 48.60071 80.82 164.64
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -3.81383 48.60027 84.24 15.26
+OBJECT_SHARED Models/lib/container6-HD.ac -3.81378 48.60033 84.25 0
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -3.81379 48.60028 84.25 342.98
+OBJECT_SHARED Models/Airport/cargobox.xml -3.81378 48.60044 84.23 22.99
+OBJECT_SHARED Models/Airport/cargoip.xml -3.81377 48.60039 84.23 329.27
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -3.81389 48.60016 84.25 6.55
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.81585 48.59985 83.42 269.92
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -3.81387 48.60024 84.25 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -3.81387 48.60022 84.25 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -3.81391 48.60023 84.24 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -3.81390 48.60024 84.25 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -3.81381 48.60007 84.29 89.82
+OBJECT_SHARED Models/lib/watertank3x1.ac -3.81383 48.60013 84.28 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -3.81389 48.60023 84.25 30.26
+OBJECT_SHARED Models/lib/stack_of_cones.ac -3.81390 48.60021 84.25 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -3.81382 48.60003 84.31 0
+OBJECT_SHARED Models/lib/office16x4n.ac -3.81694 48.59928 82.64 49.23
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -3.81660 48.60008 82.76 317.59
+OBJECT_SHARED Models/lib/farm19x12.ac -3.81654 48.59988 82.88 318.11
+OBJECT_SHARED Models/lib/office40x25.ac -3.81694 48.59887 83.70 138.99
+OBJECT_SHARED Models/lib/SmHangar.ac -3.81766 48.59929 81.90 318.88
+OBJECT_SHARED Models/lib/MedHangar.ac -3.81733 48.59954 82.20 319.06
+OBJECT_SHARED Models/lib/MedHangar.ac -3.81793 48.59909 81.62 319.06
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.81613 48.59983 83.23 179.77
+# END dsf2stg

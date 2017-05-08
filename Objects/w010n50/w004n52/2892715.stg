@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -3.14978 52.63271 71.30 56.812
+OBJECT_SHARED Models/lib/lamp10m.xml -3.15019 52.63236 71.45 233.13
+OBJECT_SHARED Models/lib/lamp10m.xml -3.15085 52.63214 71.55 90.4078
+OBJECT_SHARED Models/lib/lamp10m.xml -3.15056 52.63250 71.49 -5.4404
+OBJECT_SHARED Models/Airport/cargobox.xml -3.15551 52.62593 71.16 180
+OBJECT_SHARED Models/Airport/cargobox.xml -3.15554 52.62593 71.15 192.938
+OBJECT_SHARED Models/Airport/cargoip.xml -3.15536 52.62592 71.23 186.009
+OBJECT_SHARED Models/Airport/cargoip.xml -3.15539 52.62594 71.23 186.532
+OBJECT_SHARED Models/Airport/cargoip.xml -3.15542 52.62592 71.22 185.473
+OBJECT_SHARED Models/Airport/cargoip.xml -3.15551 52.62591 71.16 182.726
+OBJECT_SHARED Models/Airport/cargoip.xml -3.15546 52.62592 71.19 186.864
+OBJECT_SHARED Models/Airport/cargoip.xml -3.15543 52.62594 71.21 183.302
+OBJECT_SHARED Models/Airport/cargoip.xml -3.15549 52.62593 71.17 188.241
+OBJECT_SHARED Models/Airport/cargobox.xml -3.15557 52.62592 71.13 191.802
+OBJECT_SHARED Models/Airport/cargobox.xml -3.15561 52.62592 71.11 298.996
+OBJECT_SHARED Models/Airport/cargobox.xml -3.15564 52.62592 71.09 272.412
+OBJECT_SHARED Models/Airport/cargobox.xml -3.15568 52.62592 71.06 279.516
+OBJECT_SHARED Models/Airport/cargobox.xml -3.15570 52.62590 71.06 188.221
+OBJECT_SHARED Models/Airport/cargobox.xml -3.15571 52.62592 71.05 195.642
+OBJECT_SHARED Models/lib/coal_pile.ac -3.16009 52.62501 72.11 301.171
+OBJECT_SHARED Models/lib/coal_pile.ac -3.15996 52.62501 72.08 271.432
+OBJECT_SHARED Models/lib/coal_pile.ac -3.15961 52.62508 72.26 295.942
+OBJECT_SHARED Models/lib/coal_pile.ac -3.15971 52.62507 72.29 355.914
+OBJECT_SHARED Models/lib/coal_pile.ac -3.15978 52.62510 72.31 284.826
+OBJECT_SHARED Models/lib/coal_pile.ac -3.15985 52.62508 72.32 253.379
+OBJECT_SHARED Models/lib/coal_pile.ac -3.15995 52.62510 72.35 347.757
+OBJECT_SHARED Models/lib/coal_pile.ac -3.16004 52.62511 72.37 255.226
+OBJECT_SHARED Models/Misc/6barrels.ac -3.15086 52.63174 71.56 226.444
+OBJECT_SHARED Models/Misc/6barrels.ac -3.15082 52.63177 71.56 227.726
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -3.15009 52.63282 71.36 183.691
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -3.15011 52.63282 71.37 188.13
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -3.15010 52.63283 71.36 194.743
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -3.15008 52.63283 71.36 160.821
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -3.15009 52.63284 71.36 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -3.15058 52.63203 71.55 145.62
+OBJECT_SHARED Models/lib/cars4.ac -3.15088 52.63249 71.50 19.5584
+OBJECT_SHARED Models/lib/cars6.ac -3.15082 52.63235 71.51 234.525
+OBJECT_SHARED Models/lib/office4x14.ac -3.15026 52.63217 71.48 325.426
+OBJECT_SHARED Models/lib/office4x14.ac -3.15032 52.63219 71.49 325.426
+OBJECT_SHARED Models/lib/office4x14.ac -3.15015 52.63227 71.45 325.426
+OBJECT_SHARED Models/lib/office4x14.ac -3.15021 52.63230 71.47 325.426
+# END dsf2stg

@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -72.45563 41.92321 78.95 -83.5
-OBJECT_SHARED Models/lib/lamp10m.xml -72.45566 41.92336 78.82 -84.71
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.45646 41.92472 77.73 95.61
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.45567 41.92288 78.73 8.28
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.45590 41.92278 78.40 273.33
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.45636 41.92402 77.76 96.71
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.45566 41.92329 78.80 276.95
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.45637 41.92415 77.80 276.71
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.45660 41.92580 77.84 272.89
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.45663 41.92610 77.93 274.66
-OBJECT_SHARED Models/lib/SmHangar.ac -72.45563 41.92309 78.93 6.99
-OBJECT_SHARED Models/lib/LongRow.ac -72.45445 41.92287 83.59 104.14
-OBJECT_SHARED Models/lib/SmHangar.ac -72.45579 41.92337 78.65 92.92
+OBJECT_SHARED Models/lib/lamp10m.xml -72.45563 41.92321 79.01 -83.5
+OBJECT_SHARED Models/lib/lamp10m.xml -72.45566 41.92336 78.85 -84.71
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.45646 41.92472 77.36 95.61
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.45567 41.92288 78.83 8.28
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.45590 41.92278 78.51 273.33
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.45636 41.92402 77.62 96.71
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -72.45566 41.92329 78.85 276.95
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -72.45637 41.92415 77.60 276.71
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -72.45660 41.92580 77.11 272.89
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -72.45663 41.92610 77.13 274.66
+OBJECT_SHARED Models/lib/SmHangar.ac -72.45563 41.92309 79.01 6.99
+OBJECT_SHARED Models/lib/LongRow.ac -72.45445 41.92287 83.53 104.14
+OBJECT_SHARED Models/lib/SmHangar.ac -72.45579 41.92337 78.69 92.92
 # END dsf2stg

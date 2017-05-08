@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office32x25.ac 77.04363 11.03453 -0.30 275
-OBJECT_SHARED Models/lib/FireStationLg.ac 77.04297 11.03411 -0.29 315
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 77.03951 11.03094 -0.19 225
-OBJECT_SHARED Models/lib/RampGroup.xml 77.04028 11.03060 -0.21 225
-OBJECT_SHARED Models/lib/RampGroup.xml 77.04060 11.03090 -0.20 225
-OBJECT_SHARED Models/lib/RampGroup.xml 77.04092 11.03118 -0.20 225
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 77.04156 11.03164 -0.21 315
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 77.04171 11.03148 -0.21 315
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 77.04188 11.03131 -0.21 315
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 77.03915 11.02970 -0.22 225
-OBJECT_SHARED Models/lib/fboModern1.ac 77.04158 11.03203 -0.22 135
-OBJECT_SHARED Models/lib/admin31x12.ac 77.04112 11.03180 -0.21 312
+OBJECT_SHARED Models/lib/office32x25.ac 77.04363 11.03453 396.83 275
+OBJECT_SHARED Models/lib/FireStationLg.ac 77.04297 11.03411 397.43 315
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 77.03951 11.03094 401.42 225
+OBJECT_SHARED Models/lib/RampGroup.xml 77.04028 11.03060 400.92 225
+OBJECT_SHARED Models/lib/RampGroup.xml 77.04060 11.03090 400.57 225
+OBJECT_SHARED Models/lib/RampGroup.xml 77.04092 11.03118 400.22 225
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 77.04156 11.03164 399.52 315
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 77.04171 11.03148 399.49 315
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 77.04188 11.03131 399.43 315
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 77.03915 11.02970 402.18 225
+OBJECT_SHARED Models/lib/fboModern1.ac 77.04158 11.03203 399.35 135
+OBJECT_SHARED Models/lib/admin31x12.ac 77.04112 11.03180 399.81 312
 # END dsf2stg

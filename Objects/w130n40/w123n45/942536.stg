@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -122.76707 45.24821 60.64 0
+OBJECT_SHARED Models/lib/fboModern1.ac -122.76809 45.24760 60.44 352.63
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -122.76883 45.24220 58.71 132.06
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -122.76637 45.24270 58.55 90
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -122.76636 45.24279 58.62 92.29
+OBJECT_SHARED Models/lib/admin31x12.ac -122.76689 45.24838 60.66 355.6
+OBJECT_SHARED Models/lib/LongRow.ac -122.76597 45.24939 60.69 357.74
+OBJECT_SHARED Models/lib/LongRow.ac -122.76788 45.24280 58.86 172.41
+OBJECT_SHARED Models/lib/LongRow.ac -122.76870 45.24317 59.10 352.73
+OBJECT_SHARED Models/lib/LongRow.ac -122.76866 45.24347 59.21 352.69
+OBJECT_SHARED Models/lib/MedHangar.ac -122.76863 45.24182 58.55 266.34
+OBJECT_SHARED Models/lib/office32x25.ac -122.76744 45.24241 58.49 172.22
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.76824 45.24193 58.38 0
+OBJECT_SHARED Models/lib/SmHangar.ac -122.76839 45.24206 58.49 359.88
+# END dsf2stg

@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.61502 50.43573 344.19 98.43
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.61575 50.43539 343.70 13.57
-OBJECT_SHARED Models/lib/stack_of_cones.ac 8.61580 50.43560 343.38 0
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.61585 50.43549 343.49 283.96
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.61580 50.43540 343.67 13.57
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.61592 50.43499 344.15 277.35
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.61591 50.43502 344.15 277.35
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.61590 50.43505 344.02 277.35
-OBJECT_SHARED Models/lib/SmHangar.ac 8.61578 50.43554 343.54 192.3
-OBJECT_SHARED Models/lib/SmHangar.ac 8.61575 50.43565 343.42 192.3
-OBJECT_SHARED Models/lib/MedHangar.ac 8.61534 50.43567 343.80 280.5
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 8.61502 50.43573 339.11 98.43
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.61575 50.43539 338.65 13.57
+OBJECT_SHARED Models/lib/stack_of_cones.ac 8.61580 50.43560 338.38 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.61585 50.43549 338.46 283.96
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.61580 50.43540 338.62 13.57
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.61592 50.43499 339.11 277.35
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.61591 50.43502 339.12 277.35
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.61590 50.43505 338.95 277.35
+OBJECT_SHARED Models/lib/SmHangar.ac 8.61578 50.43554 338.51 192.3
+OBJECT_SHARED Models/lib/SmHangar.ac 8.61575 50.43565 338.42 192.3
+OBJECT_SHARED Models/lib/MedHangar.ac 8.61534 50.43567 338.73 280.5
 # END dsf2stg

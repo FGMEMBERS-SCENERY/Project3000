@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -49.05240 -22.34402 616.41 0
-OBJECT_SHARED Models/lib/lamp10m.xml -49.05212 -22.34416 616.02 0
-OBJECT_SHARED Models/lib/lamp10m.xml -49.05185 -22.34431 615.78 0
-OBJECT_SHARED Models/lib/fuel-truck.xml -49.05300 -22.34390 616.78 328.13
-OBJECT_SHARED Models/lib/cars4.ac -49.05159 -22.34481 615.05 60.82
-OBJECT_SHARED Models/lib/cars6.ac -49.05136 -22.34475 615.10 238.84
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -49.05375 -22.34355 617.47 56.31
-OBJECT_SHARED Models/lib/MedHangar.ac -49.05336 -22.34375 617.21 57.68
-OBJECT_SHARED Models/lib/MedHangar.ac -49.05453 -22.34332 615.80 57.68
-OBJECT_SHARED Models/lib/MedHangar.ac -49.05519 -22.34299 614.30 57.68
+OBJECT_SHARED Models/lib/lamp10m.xml -49.05240 -22.34402 614.89 0
+OBJECT_SHARED Models/lib/lamp10m.xml -49.05212 -22.34416 615.07 0
+OBJECT_SHARED Models/lib/lamp10m.xml -49.05185 -22.34431 615.56 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -49.05300 -22.34390 613.59 328.13
+OBJECT_SHARED Models/lib/cars4.ac -49.05159 -22.34481 614.50 60.82
+OBJECT_SHARED Models/lib/cars6.ac -49.05136 -22.34475 615.36 238.84
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -49.05375 -22.34355 612.65 146.31
+OBJECT_SHARED Models/lib/MedHangar.ac -49.05336 -22.34375 613.15 57.68
+OBJECT_SHARED Models/lib/MedHangar.ac -49.05453 -22.34332 611.27 57.68
+OBJECT_SHARED Models/lib/MedHangar.ac -49.05519 -22.34299 611.05 57.68
 # END dsf2stg

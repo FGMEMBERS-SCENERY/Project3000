@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/admin31x12.ac 171.08176 -44.97067 -0.46 304.793
-OBJECT_SHARED Models/lib/belt_loader.ac 171.08134 -44.97091 -0.46 124.505
-OBJECT_SHARED Models/lib/loader.ac 171.08171 -44.97086 -0.47 -1.34192
-OBJECT_SHARED Models/lib/container6.ac 171.08140 -44.97079 -0.45 309.57
-OBJECT_SHARED Models/lib/MedHangar.ac 171.08097 -44.97091 -0.46 306.851
+OBJECT_SHARED Models/lib/admin31x12.ac 171.08176 -44.97067 29.44 304.793
+OBJECT_SHARED Models/lib/belt_loader.ac 171.08134 -44.97091 30.24 124.505
+OBJECT_SHARED Models/lib/loader.ac 171.08171 -44.97086 29.53 -1.34192
+OBJECT_SHARED Models/lib/container6-HD.ac 171.08140 -44.97079 30.19 309.57
+OBJECT_SHARED Models/lib/MedHangar.ac 171.08097 -44.97091 30.24 306.851
 # END dsf2stg

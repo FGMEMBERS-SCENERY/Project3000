@@ -1,6 +1,6 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -18.78952 64.11398 576.42 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -18.78425 64.11475 579.10 228.362
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -18.78952 64.11398 -0.00 0
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -18.78425 64.11475 0.00 228.362
 # END dsf2stg

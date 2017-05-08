@@ -1,15 +1,35 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -16.77697 32.69188 43.00 40.74
-OBJECT_SHARED Models/lib/office65x50.ac -16.77227 32.69677 42.21 223.71
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -16.77521 32.69343 46.23 44.32
-OBJECT_SHARED Models/lib/lamp10m.xml -16.77757 32.69185 47.73 0
-OBJECT_SHARED Models/lib/lamp10m.xml -16.77694 32.69244 47.69 0
-OBJECT_SHARED Models/lib/lamp10m.xml -16.77670 32.69305 48.60 0
-OBJECT_SHARED Models/lib/lamp10m.xml -16.77601 32.69360 48.69 0
-OBJECT_SHARED Models/lib/lamp10m.xml -16.77509 32.69434 48.60 0
-OBJECT_SHARED Models/lib/lamp10m.xml -16.77442 32.69460 48.01 0
-OBJECT_SHARED Models/lib/lamp10m.xml -16.77366 32.69518 47.97 0
-OBJECT_SHARED Models/lib/lamp10m.xml -16.77278 32.69603 47.93 0
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -16.77890 32.69305 51.48 177.12
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -16.77196 32.69835 51.37 52.23
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -16.77713 32.69178 46.42 40.74
+OBJECT_SHARED Models/lib/office65x50.ac -16.77179 32.69709 36.51 223.71
+OBJECT_SHARED Models/lib/lamp10m.xml -16.77763 32.69193 47.35 0
+OBJECT_SHARED Models/lib/lamp10m.xml -16.77701 32.69246 47.74 0
+OBJECT_SHARED Models/lib/lamp10m.xml -16.77688 32.69298 48.64 0
+OBJECT_SHARED Models/lib/lamp10m.xml -16.77603 32.69362 48.51 0
+OBJECT_SHARED Models/lib/lamp10m.xml -16.77498 32.69442 48.54 0
+OBJECT_SHARED Models/lib/lamp10m.xml -16.77428 32.69468 47.98 0
+OBJECT_SHARED Models/lib/lamp10m.xml -16.77348 32.69528 47.81 0
+OBJECT_SHARED Models/lib/lamp10m.xml -16.77262 32.69597 47.61 0
+OBJECT_SHARED Models/lib/office32x25n.ac -16.78116 32.69013 48.06 44.46
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -16.77523 32.69345 46.81 42.87
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -16.77545 32.69391 48.17 47.68
+OBJECT_SHARED Models/lib/loader.ac -16.77561 32.69378 48.28 220.24
+OBJECT_SHARED Models/lib/belt_loader.ac -16.77580 32.69364 48.19 222.97
+OBJECT_SHARED Models/lib/container6-HD.ac -16.77402 32.69455 47.26 44.54
+OBJECT_SHARED Models/lib/container6-HD.ac -16.77409 32.69449 47.23 45
+OBJECT_SHARED Models/Airport/cargoip.xml -16.77417 32.69441 47.20 34.44
+OBJECT_SHARED Models/Airport/cargoip.xml -16.77421 32.69446 47.40 49.5
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -16.77297 32.69544 47.12 44.71
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -16.77668 32.69263 47.51 126.41
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -16.77616 32.69337 48.41 42.14
+OBJECT_SHARED Models/lib/caisses_group.ac -16.77331 32.69512 47.05 225.59
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -16.77531 32.69400 48.21 318.37
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -16.77660 32.69272 47.56 310.02
+OBJECT_SHARED Models/Airport/cargobox.xml -16.77732 32.69284 48.81 239.53
+OBJECT_SHARED Models/Airport/cargobox.xml -16.77739 32.69293 49.17 321.34
+OBJECT_SHARED Models/lib/loader.ac -16.77736 32.69281 48.96 -53.86
+OBJECT_SHARED Models/lib/office32x25.ac -16.77843 32.69175 48.25 223.47
 # END dsf2stg

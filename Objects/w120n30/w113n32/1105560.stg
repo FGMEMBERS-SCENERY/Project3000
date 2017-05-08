@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -112.86201 32.44926 439.94 41.5
+OBJECT_SHARED Models/lib/LongRow.ac -112.86189 32.44885 440.44 131.85
+OBJECT_SHARED Models/lib/LongRow.ac -112.86120 32.44820 441.08 132.18
+OBJECT_SHARED Models/Transport/hatchback_red.ac -112.86143 32.44876 440.47 133.88
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -112.86213 32.44942 439.84 129.52
+OBJECT_SHARED Models/lib/2container-office.ac -112.86134 32.44874 440.57 41.41
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -112.86243 32.44911 440.14 226.683
+OBJECT_SHARED Models/lib/office40x25.ac -112.85277 32.44812 440.92 91.97
+# END dsf2stg

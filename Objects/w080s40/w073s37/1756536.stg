@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80303 -36.12450 10.67 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80285 -36.12473 10.41 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80284 -36.12496 10.05 0
-OBJECT_SHARED Models/lib/farm19x12.ac -72.80382 -36.11782 24.74 12.82
-OBJECT_SHARED Models/lib/farm19x12.ac -72.80421 -36.11741 20.08 11.89
-OBJECT_SHARED Models/lib/farm19x12.ac -72.80463 -36.11667 16.95 180.63
-OBJECT_SHARED Models/lib/farm19x12.ac -72.80442 -36.11632 19.36 1.88
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80303 -36.12450 11.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80285 -36.12473 10.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80284 -36.12496 10.79 0
+OBJECT_SHARED Models/lib/farm19x12.ac -72.80382 -36.11782 14.16 12.82
+OBJECT_SHARED Models/lib/farm19x12.ac -72.80421 -36.11741 13.84 11.89
+OBJECT_SHARED Models/lib/farm19x12.ac -72.80463 -36.11667 13.45 180.63
+OBJECT_SHARED Models/lib/farm19x12.ac -72.80442 -36.11632 13.99 1.88
 # END dsf2stg

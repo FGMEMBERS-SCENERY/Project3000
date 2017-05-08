@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree.xml 5.21171 47.54489 278.14 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 5.21217 47.54478 278.99 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 5.21131 47.54454 278.02 0
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 5.20674 47.54507 280.22 83.3819
-OBJECT_SHARED Models/lib/MedHangar.ac 5.20693 47.54553 280.51 173.112
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.20763 47.54501 280.23 176.479
-OBJECT_SHARED Models/lib/SmHangar.ac 5.20699 47.54607 280.93 171.73
-OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20685 47.54593 280.78 82.0565
-OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20660 47.54506 280.21 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20662 47.54515 280.28 0
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 5.20705 47.54553 280.52 285.376
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.20723 47.54607 280.95 40.1388
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.21171 47.54489 278.83 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.21217 47.54478 278.71 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.21131 47.54454 278.54 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 5.20674 47.54507 279.54 83.3819
+OBJECT_SHARED Models/lib/MedHangar.ac 5.20693 47.54553 279.70 173.112
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.20763 47.54501 279.39 176.479
+OBJECT_SHARED Models/lib/SmHangar.ac 5.20699 47.54607 279.97 171.73
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20685 47.54593 279.86 82.0565
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20660 47.54506 279.55 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20662 47.54515 279.59 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 5.20705 47.54553 279.69 285.376
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 5.20723 47.54607 279.98 40.1388
 # END dsf2stg

@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -118.98814 42.65758 1397.03 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -118.98900 42.65738 1395.32 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -118.98874 42.65739 1395.32 270
-OBJECT_SHARED Models/Trees/billboard-tree.xml -118.98883 42.65743 1395.32 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -118.98882 42.65731 1395.36 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -118.98895 42.65732 1395.36 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -118.98889 42.65736 1395.32 180
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -118.98867 42.65747 1395.28 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -118.98873 42.65732 1395.36 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml -118.98808 42.65733 1397.30 0
-OBJECT_SHARED Models/lib/SmHangar.ac -118.98917 42.65630 1395.91 163.44
-OBJECT_SHARED Models/lib/watertank3x1.ac -118.98941 42.65590 1396.09 110
-OBJECT_SHARED Models/lib/office16x4n.ac -118.98942 42.65605 1396.03 73.44
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -118.98814 42.65758 1400.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -118.98900 42.65738 1395.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -118.98874 42.65739 1395.62 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.98883 42.65743 1395.62 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.98882 42.65731 1395.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.98895 42.65732 1395.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -118.98889 42.65736 1395.62 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -118.98867 42.65747 1395.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -118.98873 42.65732 1395.59 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -118.98808 42.65733 1399.60 0
+OBJECT_SHARED Models/lib/SmHangar.ac -118.98917 42.65630 1395.90 163.44
+OBJECT_SHARED Models/lib/watertank3x1.ac -118.98941 42.65590 1396.06 110
+OBJECT_SHARED Models/lib/office16x4n.ac -118.98942 42.65605 1396.02 73.44
 OBJECT_SHARED Models/Misc/picnic_table.ac -118.98927 42.65623 1395.94 180
 # END dsf2stg

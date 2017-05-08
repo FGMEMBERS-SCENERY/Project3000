@@ -1,13 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -97.02719 34.29987 220.32 0
-OBJECT_SHARED Models/lib/MedHangar.ac -97.02701 34.29846 219.89 179.8
-OBJECT_SHARED Models/lib/MedHangar.ac -97.02684 34.30293 221.23 179.6
-OBJECT_SHARED Models/lib/SmHangar.ac -97.02703 34.29765 219.84 179.95
-OBJECT_SHARED Models/lib/MedHangar.ac -97.02701 34.30138 220.75 179.88
-OBJECT_SHARED Models/lib/LgMaint.ac -97.02688 34.30418 222.00 180.1
-OBJECT_SHARED Models/lib/fuel-truck.xml -97.02738 34.29588 219.81 0
-OBJECT_SHARED Models/lib/fuel-truck.xml -97.01071 34.29608 219.00 0
-OBJECT_SHARED Models/lib/fuel-truck.xml -97.01828 34.29476 218.41 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -97.02719 34.29987 219.84 0
+OBJECT_SHARED Models/lib/admin-with-cars.ac -97.02726 34.29948 219.56 179.77
+OBJECT_SHARED Models/lib/MedHangar.ac -97.02701 34.29846 218.96 179.8
+OBJECT_SHARED Models/lib/MedHangar.ac -97.02684 34.30293 222.43 179.6
+OBJECT_SHARED Models/lib/SmHangar.ac -97.02703 34.29765 218.57 179.95
+OBJECT_SHARED Models/lib/MedHangar.ac -97.02701 34.30138 221.00 179.88
+OBJECT_SHARED Models/lib/LgMaint.ac -97.02688 34.30418 223.83 180.1
+OBJECT_SHARED Models/lib/fuel-truck.xml -97.02738 34.29588 218.17 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -97.01071 34.29608 218.42 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -97.01828 34.29476 218.32 0
 # END dsf2stg

@@ -1,28 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_red.ac 7.24631 49.33637 252.64 320.6
-OBJECT_SHARED Models/Transport/hatchback_red.ac 7.24936 49.33896 260.45 213.69
-OBJECT_SHARED Models/Transport/hatchback_red.ac 7.24930 49.33893 261.01 213.27
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24979 49.33642 254.31 259.69
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24961 49.33643 254.75 270
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24987 49.33634 253.67 81.87
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24587 49.33616 251.08 180
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24598 49.33632 251.74 180
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24613 49.33646 253.01 180
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24633 49.33654 253.22 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24653 49.33671 254.54 180
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24732 49.33717 258.15 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24719 49.33710 257.46 308.66
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24704 49.33703 256.75 305.75
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24688 49.33694 256.02 302.01
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24673 49.33685 255.31 313.15
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24666 49.33677 255.23 320.71
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24646 49.33665 254.47 315
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24632 49.33660 253.76 312.88
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24622 49.33652 253.10 316.85
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24606 49.33639 252.38 328
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24604 49.33625 251.24 351.25
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24602 49.33613 250.67 333.44
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24596 49.33619 251.16 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.24631 49.33637 259.62 320.6
+OBJECT_SHARED Models/Transport/van_silver.ac 7.24936 49.33896 265.33 213.69
+OBJECT_SHARED Models/Transport/van_red.ac 7.24930 49.33893 265.21 213.27
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24979 49.33642 256.75 259.69
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24961 49.33643 256.52 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24987 49.33634 256.10 81.87
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24587 49.33616 248.82 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24598 49.33632 249.56 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24613 49.33646 250.81 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24633 49.33654 259.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.24653 49.33671 251.89 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24732 49.33717 254.64 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24719 49.33710 254.08 308.66
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24704 49.33703 253.53 305.75
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24688 49.33694 252.98 302.01
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24673 49.33685 252.43 313.15
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24666 49.33677 252.45 320.71
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24646 49.33665 251.91 315
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24632 49.33660 251.35 312.88
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24622 49.33652 250.79 316.85
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24606 49.33639 250.24 328
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24604 49.33625 249.38 351.25
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24602 49.33613 248.94 333.44
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.24596 49.33619 249.05 0
 # END dsf2stg

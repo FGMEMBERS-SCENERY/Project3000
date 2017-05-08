@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office16x4n.ac -77.17873 38.71070 21.60 139.83
-OBJECT_SHARED Models/lib/SmHangar.ac -77.17895 38.71073 22.52 226.08
-OBJECT_SHARED Models/lib/MedHangar.ac -77.18517 38.71517 16.55 227.28
-OBJECT_SHARED Models/lib/10_spaces_dual.ac -77.17798 38.71478 13.58 137.6
-OBJECT_SHARED Models/lib/MedHangar.ac -77.17830 38.71562 12.79 46.9
-OBJECT_SHARED Models/lib/MedHangar.ac -77.17877 38.71518 13.57 227.62
-OBJECT_SHARED Models/lib/office32x25.ac -77.17830 38.71448 14.13 47.54
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -77.17728 38.71464 13.40 139.17
+OBJECT_SHARED Models/lib/office16x4n.ac -77.17873 38.71070 20.72 139.83
+OBJECT_SHARED Models/lib/SmHangar.ac -77.17895 38.71073 20.88 226.08
+OBJECT_SHARED Models/lib/MedHangar.ac -77.18517 38.71517 15.70 227.28
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -77.17798 38.71478 13.77 137.6
+OBJECT_SHARED Models/lib/MedHangar.ac -77.17830 38.71562 12.88 46.9
+OBJECT_SHARED Models/lib/MedHangar.ac -77.17877 38.71518 13.54 227.62
+OBJECT_SHARED Models/lib/office32x25.ac -77.17830 38.71448 14.31 47.54
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -77.17728 38.71464 13.76 139.17
 # END dsf2stg

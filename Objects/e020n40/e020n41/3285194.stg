@@ -1,30 +1,30 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 20.74482 41.18003 701.36 342.646
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 20.74574 41.18144 704.37 72.0038
-OBJECT_SHARED Models/lib/LongRow.ac 20.74568 41.18189 703.88 73.5599
-OBJECT_SHARED Models/lib/hangar81x16.ac 20.74562 41.18192 703.62 73.058
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74566 41.18171 704.09 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74571 41.18177 703.99 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74563 41.18180 703.73 270
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74557 41.18180 703.73 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74531 41.18156 703.41 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74526 41.18148 703.58 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74492 41.18039 703.18 90
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74490 41.18031 702.86 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74486 41.18025 702.37 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74481 41.18030 702.75 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74474 41.18033 702.72 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74471 41.18038 702.81 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74473 41.18048 702.91 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74477 41.18053 703.39 0
-OBJECT_SHARED Models/lib/lamp10m.xml 20.74518 41.18108 704.19 0
-OBJECT_SHARED Models/lib/lamp10m.xml 20.74563 41.18230 703.19 0
-OBJECT_SHARED Models/lib/lamp10m.xml 20.74546 41.18186 703.36 0
-OBJECT_SHARED Models/lib/lamp10m.xml 20.74498 41.18068 704.46 0
-OBJECT_SHARED Models/lib/lamp10m.xml 20.74482 41.18037 703.16 0
-OBJECT_SHARED Models/lib/lamp10m.xml 20.74488 41.17983 700.76 0
-OBJECT_SHARED Models/lib/lamp10m.xml 20.74461 41.17924 699.60 0
-OBJECT_SHARED Models/lib/lamp10m.xml 20.74436 41.17863 700.07 0
+OBJECT_SHARED Models/lib/SmHangar.ac 20.74482 41.18003 700.26 342.646
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 20.74574 41.18144 701.76 72.0038
+OBJECT_SHARED Models/lib/LongRow.ac 20.74568 41.18189 701.85 73.5599
+OBJECT_SHARED Models/lib/hangar81x16.ac 20.74562 41.18192 701.71 73.058
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74566 41.18171 701.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74571 41.18177 701.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74563 41.18180 701.69 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74557 41.18180 701.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74531 41.18156 701.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74526 41.18148 701.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74492 41.18039 700.49 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74490 41.18031 700.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74486 41.18025 700.44 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74481 41.18030 700.35 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74474 41.18033 700.23 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74471 41.18038 700.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74473 41.18048 700.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.74477 41.18053 700.40 0
+OBJECT_SHARED Models/lib/lamp10m.xml 20.74518 41.18108 701.06 0
+OBJECT_SHARED Models/lib/lamp10m.xml 20.74563 41.18230 701.81 0
+OBJECT_SHARED Models/lib/lamp10m.xml 20.74546 41.18186 701.59 0
+OBJECT_SHARED Models/lib/lamp10m.xml 20.74498 41.18068 700.70 0
+OBJECT_SHARED Models/lib/lamp10m.xml 20.74482 41.18037 700.38 0
+OBJECT_SHARED Models/lib/lamp10m.xml 20.74488 41.17983 700.32 0
+OBJECT_SHARED Models/lib/lamp10m.xml 20.74461 41.17924 699.82 0
+OBJECT_SHARED Models/lib/lamp10m.xml 20.74436 41.17863 699.40 0
 # END dsf2stg

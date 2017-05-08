@@ -1,25 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office32x25.ac -6.81687 38.88277 183.79 83.47
-OBJECT_SHARED Models/lib/office40x25.ac -6.81839 38.88277 183.67 82.02
-OBJECT_SHARED Models/lib/MedHangar.ac -6.81997 38.89460 177.74 53.24
-OBJECT_SHARED Models/lib/LongRow.ac -6.82089 38.88322 183.25 352.93
-OBJECT_SHARED Models/lib/fboModern1.ac -6.81907 38.88312 183.50 262.67
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -6.81496 38.88370 183.10 16.82
-OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -6.82496 38.88410 86.15 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -6.82492 38.88441 86.38 0
-OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -6.82525 38.88429 181.50 84.6
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.81702 38.88415 183.34 217.22
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.81834 38.88428 183.15 217.22
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.81927 38.88436 183.00 217.25
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.82021 38.88446 182.85 217.85
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.82131 38.88457 182.67 218.6
-OBJECT_SHARED Models/lib/lamp10m.xml -6.81803 38.89344 182.57 42.59
-OBJECT_SHARED Models/lib/lamp10m.xml -6.81863 38.89378 178.26 50.13
-OBJECT_SHARED Models/lib/lamp10m.xml -6.81910 38.89405 178.12 48.16
-OBJECT_SHARED Models/lib/lamp10m.xml -6.81957 38.89431 177.94 51.17
-OBJECT_SHARED Models/lib/lamp10m.xml -6.82030 38.89475 177.61 75.94
-OBJECT_SHARED Models/lib/office65x50.ac -6.81766 38.88243 184.66 82.74
-OBJECT_SHARED Models/lib/FireStationLg.ac -6.82234 38.88390 182.81 352.11
+OBJECT_SHARED Models/lib/office32x25.ac -6.81687 38.88277 184.03 83.47
+OBJECT_SHARED Models/lib/office40x25.ac -6.81839 38.88277 183.89 82.02
+OBJECT_SHARED Models/lib/MedHangar.ac -6.81997 38.89460 177.91 53.24
+OBJECT_SHARED Models/lib/LongRow.ac -6.82089 38.88322 183.39 352.93
+OBJECT_SHARED Models/lib/fboModern1.ac -6.81907 38.88312 183.67 262.67
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -6.81496 38.88370 183.69 16.82
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -6.82496 38.88410 90.28 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -6.82492 38.88441 90.14 0
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -6.82525 38.88429 182.12 84.6
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.81702 38.88415 183.39 217.22
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.81834 38.88428 183.17 217.22
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.81927 38.88436 183.02 217.25
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.82021 38.88446 182.86 217.85
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -6.82131 38.88457 182.66 218.6
+OBJECT_SHARED Models/lib/lamp10m.xml -6.81803 38.89344 178.65 42.59
+OBJECT_SHARED Models/lib/lamp10m.xml -6.81863 38.89378 178.41 50.13
+OBJECT_SHARED Models/lib/lamp10m.xml -6.81910 38.89405 178.27 48.16
+OBJECT_SHARED Models/lib/lamp10m.xml -6.81957 38.89431 178.08 51.17
+OBJECT_SHARED Models/lib/lamp10m.xml -6.82030 38.89475 177.78 75.94
+OBJECT_SHARED Models/lib/office65x50.ac -6.81766 38.88243 184.15 82.74
+OBJECT_SHARED Models/lib/FireStationLg.ac -6.82234 38.88390 182.84 352.11
 # END dsf2stg

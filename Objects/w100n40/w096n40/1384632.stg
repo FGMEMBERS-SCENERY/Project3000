@@ -1,25 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.91671 40.95407 358.81 102.01
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.91670 40.95405 358.94 102.01
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.91668 40.95400 358.94 102.01
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.91668 40.95398 358.94 102.01
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.91667 40.95395 358.94 102.01
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.91665 40.95390 359.06 102.01
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.91664 40.95385 358.89 102.01
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.91663 40.95383 359.02 102.01
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.91755 40.95449 359.60 283.32
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.91748 40.95459 359.35 101.82
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.91760 40.95466 359.37 283.48
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -95.91736 40.95427 359.57 281.31
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.91736 40.95383 360.14 281.65
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.91741 40.95400 359.91 282.29
-OBJECT_SHARED Models/lib/LongRow.ac -95.91601 40.95230 359.78 282.4
-OBJECT_SHARED Models/lib/SmHangar.ac -95.91669 40.95369 359.30 12.4
-OBJECT_SHARED Models/lib/MedHangar.ac -95.91710 40.95457 358.82 12.4
-OBJECT_SHARED Models/lib/LongRow.ac -95.91726 40.95216 361.51 12.4
-OBJECT_SHARED Models/lib/LongRow.ac -95.91746 40.95285 361.22 12.4
-OBJECT_SHARED Models/lib/LongRow.ac -95.91736 40.95250 361.37 12.4
-OBJECT_SHARED Models/lib/HorizTanks2.ac -95.91692 40.95394 359.37 12.4
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -95.91671 40.95407 358.84 102.01
+OBJECT_SHARED Models/Transport/hatchback_red.ac -95.91670 40.95405 358.96 102.01
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.91668 40.95400 358.96 102.01
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.91668 40.95398 358.96 102.01
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.91667 40.95395 358.96 102.01
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.91665 40.95390 359.08 102.01
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -95.91664 40.95385 358.92 102.01
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -95.91663 40.95383 359.05 102.01
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -95.91755 40.95449 359.62 283.32
+OBJECT_SHARED Models/Aircraft/Cessna172.xml -95.91748 40.95459 359.37 101.82
+OBJECT_SHARED Models/Aircraft/Cessna172.xml -95.91760 40.95466 359.38 283.48
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -95.91736 40.95427 359.58 281.31
+OBJECT_SHARED Models/Aircraft/Cessna172.xml -95.91736 40.95383 360.16 281.65
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -95.91741 40.95400 359.93 282.29
+OBJECT_SHARED Models/lib/LongRow.ac -95.91601 40.95230 359.83 282.4
+OBJECT_SHARED Models/lib/SmHangar.ac -95.91669 40.95369 359.33 12.4
+OBJECT_SHARED Models/lib/MedHangar.ac -95.91710 40.95457 358.84 12.4
+OBJECT_SHARED Models/lib/LongRow.ac -95.91726 40.95216 361.53 12.4
+OBJECT_SHARED Models/lib/LongRow.ac -95.91746 40.95285 361.23 12.4
+OBJECT_SHARED Models/lib/LongRow.ac -95.91736 40.95250 361.39 12.4
+OBJECT_SHARED Models/lib/HorizTanks2.ac -95.91692 40.95394 359.40 12.4
 # END dsf2stg

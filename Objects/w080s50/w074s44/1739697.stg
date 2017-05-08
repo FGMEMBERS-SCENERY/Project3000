@@ -1,13 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -73.63409 -43.13337 2.33 309.1
-OBJECT_SHARED Models/lib/fuel-truck.xml -73.63328 -43.13294 0.00 342.26
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -73.63387 -43.13326 1.45 178.41
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.63400 -43.13408 4.94 347.15
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -73.63460 -43.13371 4.76 122.47
-OBJECT_SHARED Models/lib/SmHangar.ac -73.63435 -43.13418 6.07 307.84
-OBJECT_SHARED Models/lib/SmHangar.ac -73.63444 -43.13357 3.87 129.14
-OBJECT_SHARED Models/lib/SmHangar.ac -73.63442 -43.13381 4.68 218.68
-OBJECT_SHARED Models/lib/office3x10.ac -73.64512 -43.13759 5.77 0
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.63418 -43.13341 13.27 309.1
+OBJECT_SHARED Models/lib/cars7.ac -73.63409 -43.13337 13.24 309.1
+OBJECT_SHARED Models/lib/fuel-truck.xml -73.63328 -43.13294 12.61 342.26
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -73.63387 -43.13326 13.14 178.41
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.63400 -43.13408 13.56 347.15
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -73.63460 -43.13371 13.45 122.47
+OBJECT_SHARED Models/lib/SmHangar.ac -73.63435 -43.13418 13.60 307.84
+OBJECT_SHARED Models/lib/SmHangar.ac -73.63444 -43.13357 13.38 129.14
+OBJECT_SHARED Models/lib/SmHangar.ac -73.63442 -43.13381 13.47 218.68
+OBJECT_SHARED Models/lib/office3x10.ac -73.64512 -43.13759 7.33 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -73.63465 -43.13283 13.15 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -73.63505 -43.13265 13.21 90
 # END dsf2stg

@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/loader.ac -87.74208 41.78913 184.03 2.14002
+OBJECT_SHARED Models/lib/jetway_e12m.ac -87.74370 41.78468 184.24 77.41
+OBJECT_SHARED Models/lib/jetway_e12m.ac -87.74381 41.78478 184.23 45.48
+OBJECT_SHARED Models/lib/jetway_e12m.ac -87.74385 41.78485 184.22 45.48
+OBJECT_SHARED Models/lib/jetway_e16m.ac -87.74326 41.78854 184.04 324.63
+OBJECT_SHARED Models/lib/jetway_e10m.ac -87.74345 41.78808 184.06 169.07
+OBJECT_SHARED Models/lib/jetway_e16m.ac -87.74575 41.78624 184.15 90
+# END dsf2stg

@@ -1,23 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/watertank3x1.ac -115.32844 33.75453 161.76 255.43
-OBJECT_SHARED Models/lib/stack_of_cones.ac -115.32836 33.75459 161.75 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -115.32844 33.75459 161.75 0
-OBJECT_SHARED Models/lib/propane-tank.ac -115.32846 33.75454 161.76 71.91
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32836 33.75451 161.76 180
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32836 33.75452 161.76 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32844 33.75461 161.75 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32843 33.75461 161.75 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32844 33.75461 161.75 0
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -115.32844 33.75428 161.76 346.08
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -115.32851 33.75430 162.16 345.14
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -115.32855 33.75431 162.16 343.27
-OBJECT_SHARED Models/lib/farm19x12.ac -115.32848 33.75435 161.76 254.07
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -115.32815 33.75464 161.75 205.87
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -115.32872 33.75350 162.17 255.17
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -115.32825 33.75445 161.76 21.8
-OBJECT_SHARED Models/Airport/helipad40m.ac -115.32890 33.75299 162.18 75.24
-OBJECT_SHARED Models/Airport/helipad40m.ac -115.32895 33.75283 162.19 75.24
-OBJECT_SHARED Models/Airport/helipad40m.ac -115.32900 33.75268 162.19 75.24
+OBJECT_SHARED Models/lib/watertank3x1.ac -115.32844 33.75453 161.18 255.43
+OBJECT_SHARED Models/lib/stack_of_cones.ac -115.32836 33.75459 161.18 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -115.32844 33.75459 161.18 0
+OBJECT_SHARED Models/lib/propane-tank.ac -115.32846 33.75454 161.18 71.91
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32836 33.75451 161.18 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32836 33.75452 161.18 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32844 33.75461 161.18 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32843 33.75461 161.18 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32844 33.75461 161.18 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -115.32844 33.75428 161.17 346.08
+OBJECT_SHARED Models/Transport/hatchback_black.ac -115.32851 33.75430 161.68 345.14
+OBJECT_SHARED Models/Transport/hatchback_black.ac -115.32855 33.75431 161.68 343.27
+OBJECT_SHARED Models/lib/farm19x12.ac -115.32848 33.75435 161.17 254.07
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -115.32815 33.75464 161.18 205.87
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -115.32872 33.75350 161.61 255.17
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -115.32825 33.75445 161.17 21.8
 # END dsf2stg

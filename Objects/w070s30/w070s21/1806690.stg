@@ -1,13 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -69.62909 -20.42410 990.56 98.36
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -69.62931 -20.42433 990.81 97.55
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -69.63321 -20.42859 990.51 346.43
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.63247 -20.42383 990.74 353.54
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -69.65913 -20.42930 994.32 82.41
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -69.62980 -20.42496 991.00 147.17
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -69.62886 -20.42392 990.66 175.76
-OBJECT_SHARED Models/lib/cars7.ac -69.62847 -20.42439 990.84 187.46
-OBJECT_SHARED Models/lib/farm19x12.ac -69.62776 -20.42478 990.86 80.85
+OBJECT_SHARED Models/lib/SmHangar.ac -69.62909 -20.42410 992.52 98.36
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -69.62931 -20.42433 992.56 187.55
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -69.63321 -20.42859 991.99 346.43
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -69.63247 -20.42383 994.40 353.54
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -69.65913 -20.42930 997.90 82.41
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -69.62980 -20.42496 992.59 147.17
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -69.62886 -20.42392 992.49 175.76
+OBJECT_SHARED Models/lib/handicap-sign.ac -69.62848 -20.42431 992.15 187.46
+OBJECT_SHARED Models/lib/cars7.ac -69.62847 -20.42439 992.12 187.46
+OBJECT_SHARED Models/lib/farm19x12.ac -69.62776 -20.42478 991.62 80.85
 # END dsf2stg

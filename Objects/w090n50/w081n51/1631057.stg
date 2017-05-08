@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61418 51.29022 8.19 41.99
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61331 51.28975 8.02 51.34
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61250 51.28934 7.91 47.49
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61271 51.28888 7.99 -43.03
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61376 51.28826 8.52 226.98
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61457 51.28876 8.92 221.19
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61547 51.28931 9.37 232.43
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61688 51.29002 9.02 213.69
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61796 51.29093 8.37 145
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61736 51.29126 8.27 58.4
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61602 51.29070 8.78 47.12
+OBJECT_SHARED Models/lib/lamp10m.xml -80.61567 51.29082 8.53 135
+OBJECT_SHARED Models/lib/MedHangar.ac -80.61549 51.28969 9.35 233
+OBJECT_SHARED Models/lib/MedHangar.ac -80.61621 51.29003 9.44 233
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -80.61749 51.29101 8.45 -36.11
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -80.61392 51.28980 8.36 140
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -80.61414 51.28993 8.39 140
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -80.61373 51.28893 8.48 46.6
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -80.61349 51.28899 8.38 47
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -80.61389 51.28870 8.57 47
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -80.61332 51.28910 8.29 47
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -80.61352 51.28911 8.39 227
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -80.61395 51.28883 8.62 227
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -80.61374 51.28880 8.47 47
+# END dsf2stg

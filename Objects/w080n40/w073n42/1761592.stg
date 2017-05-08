@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -72.86480 42.92627 589.35 10.15
-OBJECT_SHARED Models/lib/SmHangar.ac -72.86498 42.92692 590.25 10.73
-OBJECT_SHARED Models/lib/stack_of_cones.ac -72.86513 42.92765 591.13 0
-OBJECT_SHARED Models/lib/SmHangar.ac -72.86491 42.92669 589.93 11.4
-OBJECT_SHARED Models/lib/SmHangar.ac -72.86485 42.92647 589.59 10.58
-OBJECT_SHARED Models/lib/SmHangar.ac -72.86508 42.92727 590.79 11.52
-OBJECT_SHARED Models/Misc/picnic_table.ac -72.86502 42.92716 590.61 191.92
-OBJECT_SHARED Models/lib/propane-tank.ac -72.86475 42.92671 589.83 281.31
+OBJECT_SHARED Models/lib/SmHangar.ac -72.86480 42.92627 589.47 10.15
+OBJECT_SHARED Models/lib/SmHangar.ac -72.86498 42.92692 590.47 10.73
+OBJECT_SHARED Models/lib/stack_of_cones.ac -72.86513 42.92765 591.45 0
+OBJECT_SHARED Models/lib/SmHangar.ac -72.86491 42.92669 590.10 11.4
+OBJECT_SHARED Models/lib/SmHangar.ac -72.86485 42.92647 589.71 10.58
+OBJECT_SHARED Models/lib/SmHangar.ac -72.86508 42.92727 591.08 11.52
+OBJECT_SHARED Models/Misc/picnic_table.ac -72.86502 42.92716 590.86 191.92
+OBJECT_SHARED Models/lib/propane-tank.ac -72.86475 42.92671 589.98 281.31
 # END dsf2stg

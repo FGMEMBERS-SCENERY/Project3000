@@ -1,14 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -70.64207 -38.07974 1050.58 80.01
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.64288 -38.08024 1051.02 351
+OBJECT_SHARED Models/lib/SmHangar.ac -70.64207 -38.07974 1050.73 80.01
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -70.64288 -38.08024 1051.05 81
 OBJECT_SHARED Models/lib/farm19x12.ac -70.64550 -38.08489 1015.96 179.92
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.64534 -38.08086 1052.86 299.75
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.63157 -38.08270 1038.87 129.81
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.65478 -38.08113 1061.68 270.94
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.64170 -38.08094 1049.43 30.14
-OBJECT_SHARED Models/lib/cars14.ac -70.64249 -38.07968 1050.96 259.94
-OBJECT_SHARED Models/lib/cars7.ac -70.64313 -38.07970 1051.53 351.24
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.64295 -38.07961 1051.40 79.99
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.64534 -38.08086 1051.66 299.75
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.63157 -38.08270 1039.13 129.81
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.65478 -38.08113 1052.13 270.94
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -70.64170 -38.08094 1049.73 30.14
+OBJECT_SHARED Models/lib/handicap-sign.ac -70.64227 -38.07971 1050.89 259.94
+OBJECT_SHARED Models/lib/handicap-sign.ac -70.64268 -38.07965 1051.26 259.94
+OBJECT_SHARED Models/lib/cars14.ac -70.64249 -38.07968 1051.05 259.94
+OBJECT_SHARED Models/lib/handicap-sign.ac -70.64315 -38.07979 1051.45 351.24
+OBJECT_SHARED Models/lib/cars7.ac -70.64313 -38.07970 1051.52 351.24
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.64295 -38.07961 1051.42 79.99
 # END dsf2stg

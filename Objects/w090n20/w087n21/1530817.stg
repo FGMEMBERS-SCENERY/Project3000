@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office112x50.ac -86.87189 21.03838 9.46 325.96
+OBJECT_SHARED Models/lib/lamp10m.xml -86.87218 21.03823 9.42 -38.66
+OBJECT_SHARED Models/lib/lamp10m.xml -86.87193 21.03858 9.46 -38.66
+OBJECT_SHARED Models/lib/lamp10m.xml -86.87208 21.03837 9.43 -38.66
+OBJECT_SHARED Models/lib/lamp10m.xml -86.87180 21.03876 9.47 -38.66
+OBJECT_SHARED Models/lib/lamp10m.xml -86.87229 21.03810 9.40 -38.66
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -86.87168 21.03741 9.48 190.78
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -86.87217 21.03771 9.41 190.78
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -86.87266 21.03802 9.36 190.78
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -86.87312 21.03831 9.31 190.78
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -86.87356 21.03856 9.26 190.78
+OBJECT_SHARED Models/Aircraft/D328_services.xml -86.87313 21.03800 9.31 56.73
+OBJECT_SHARED Models/Aircraft/737virgin.xml -86.86953 21.03580 9.88 326.49
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -86.87183 21.03714 9.49 326.23
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.86779 21.03545 10.14 325.1
+OBJECT_SHARED Models/Aircraft/320austrian.xml -86.86762 21.03548 10.16 56.92
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.86854 21.03556 10.04 235.3
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.86903 21.03586 9.94 235.3
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.86944 21.03612 9.86 235.3
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.86994 21.03644 9.79 235.3
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.87100 21.03711 9.58 235.3
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.87031 21.03667 9.70 235.3
+OBJECT_SHARED Models/lib/jetway_e12m.ac -86.87492 21.03933 9.17 143.38
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.87418 21.03893 9.21 235.01
+OBJECT_SHARED Models/lib/jetway_e4m.ac -86.87420 21.03889 9.21 56.87
+OBJECT_SHARED Models/lib/jetway_e4m.ac -86.87466 21.03918 9.18 54.16
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.87463 21.03922 9.19 237.09
+OBJECT_SHARED Models/lib/jetway_e12m.ac -86.87456 21.03911 9.23 145.78
+OBJECT_SHARED Models/lib/jetway_e8m.ac -86.87414 21.03886 9.22 154.69
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.87499 21.03944 9.17 235.01
+OBJECT_SHARED Models/lib/jetway_e4m.ac -86.86831 21.03513 10.12 56.46
+OBJECT_SHARED Models/lib/jetway_e16m.ac -86.86804 21.03516 10.15 145.01
+OBJECT_SHARED Models/lib/jetway_e8m.ac -86.86804 21.03516 10.15 327.03
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.86819 21.03525 10.11 325.82
+OBJECT_SHARED Models/lib/jetway_e8m.ac -86.86827 21.03509 10.12 123.23
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -86.86828 21.03517 10.11 235.81
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -86.87047 21.04112 9.57 147.94
+# END dsf2stg

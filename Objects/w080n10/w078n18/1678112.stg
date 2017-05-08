@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -77.91132 18.50007 4.29 24.69
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.90691 18.50331 3.35 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.90569 18.50395 3.77 296.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.90596 18.50417 3.35 12.31
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -77.91132 18.50007 4.28 24.69
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.90691 18.50331 3.36 0
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -77.90569 18.50395 3.78 296.19
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -77.90596 18.50417 3.36 12.31
 OBJECT_SHARED Models/lib/fboModern1.ac -77.90582 18.50360 3.91 293.53
 OBJECT_SHARED Models/lib/FireStationLg.ac -77.92128 18.50110 1.68 291.63
 # END dsf2stg

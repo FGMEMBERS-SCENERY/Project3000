@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -123.01765 48.70983 43.79 92.01
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -123.01747 48.70987 42.17 174.24
+OBJECT_SHARED Models/lib/cone.ac -123.01785 48.71077 43.15 239.38
+OBJECT_SHARED Models/lib/cone.ac -123.01810 48.71115 42.97 240.49
+OBJECT_SHARED Models/lib/cone.ac -123.01562 48.70837 41.61 242.1
+OBJECT_SHARED Models/lib/cone.ac -123.01612 48.70822 41.85 253.22
+OBJECT_SHARED Models/lib/cone.ac -123.01999 48.71394 41.91 252.23
+OBJECT_SHARED Models/lib/cone.ac -123.01948 48.71409 42.44 248.48
+# END dsf2stg

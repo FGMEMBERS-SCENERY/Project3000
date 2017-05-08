@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/B1900_services.xml -2.99951 16.73183 -0.24 10.037
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -2.99744 16.73126 -0.29 112.93
-OBJECT_SHARED Models/lib/office32x25.ac -2.99629 16.73191 -0.32 291.53
-OBJECT_SHARED Models/lib/office40x25.ac -2.99777 16.73179 -0.29 111.85
-OBJECT_SHARED Models/lib/cube16x10.ac -2.99845 16.73117 -0.27 112.03
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99723 16.73138 -0.30 113.67
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99738 16.73132 -0.29 113.67
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99730 16.73135 -0.30 113.67
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99729 16.73112 -0.29 293.77
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99727 16.73113 -0.29 293.77
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99719 16.73116 -0.30 293.77
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99711 16.73119 -0.30 293.77
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99694 16.73127 -0.30 293.77
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99702 16.73146 -0.30 113.67
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99707 16.73144 -0.30 113.67
-OBJECT_SHARED Models/lib/4space_wStop.ac -2.99715 16.73141 -0.30 113.67
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -2.99951 16.73183 265.51 10.037
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -2.99744 16.73126 265.54 112.93
+OBJECT_SHARED Models/lib/office32x25.ac -2.99629 16.73191 265.83 291.53
+OBJECT_SHARED Models/lib/office40x25.ac -2.99777 16.73179 265.65 111.85
+OBJECT_SHARED Models/lib/cube16x10.ac -2.99845 16.73117 265.44 112.03
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99723 16.73138 265.59 113.67
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99738 16.73132 265.55 113.67
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99730 16.73135 265.56 113.67
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99729 16.73112 265.50 293.77
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99727 16.73113 265.50 293.77
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99719 16.73116 265.53 293.77
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99711 16.73119 265.55 293.77
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99694 16.73127 265.59 293.77
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99702 16.73146 265.64 113.67
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99707 16.73144 265.61 113.67
+OBJECT_SHARED Models/lib/4space_wStop.ac -2.99715 16.73141 265.60 113.67
 # END dsf2stg

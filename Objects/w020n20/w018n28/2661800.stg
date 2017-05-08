@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/farm19x12.ac -17.75421 28.62987 6.96 272.85
-OBJECT_SHARED Models/Misc/6barrels.ac -17.75699 28.63670 13.44 211.61
-OBJECT_SHARED Models/lib/office6x12.ac -17.75701 28.63681 12.40 182.35
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -17.75710 28.63480 25.46 273.98
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -17.75698 28.63434 22.67 1.97
-OBJECT_SHARED Models/Transport/hatchback_black.ac -17.75704 28.63440 23.11 5.63
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -17.75701 28.63413 21.79 276.32
+OBJECT_SHARED Models/lib/farm19x12.ac -17.75421 28.62987 9.38 272.85
+OBJECT_SHARED Models/Misc/6barrels.ac -17.75699 28.63670 25.70 211.61
+OBJECT_SHARED Models/lib/office6x12.ac -17.75701 28.63681 25.66 182.35
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -17.75710 28.63480 26.79 273.98
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -17.75698 28.63434 26.88 1.97
+OBJECT_SHARED Models/Transport/hatchback_red.ac -17.75704 28.63440 26.82 5.63
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -17.75701 28.63413 27.00 276.32
 # END dsf2stg

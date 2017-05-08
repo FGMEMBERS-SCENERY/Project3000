@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac 96.95064 5.22910 30.92 301
+OBJECT_SHARED Models/lib/cars14.ac 96.94926 5.22909 30.37 99
+OBJECT_SHARED Models/lib/cars14.ac 96.94924 5.22921 30.32 99
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 96.94833 5.22882 30.64 280
+OBJECT_SHARED Models/lib/cube16x10.ac 96.94910 5.22871 30.48 277
+OBJECT_SHARED Models/lib/SmHangar.ac 96.94889 5.22864 30.51 99
+OBJECT_SHARED Models/lib/lamp10m.xml 96.94974 5.22888 30.35 211
+OBJECT_SHARED Models/lib/lamp10m.xml 96.94926 5.22861 30.43 211
+OBJECT_SHARED Models/lib/lamp10m.xml 96.94901 5.22848 30.47 211
+# END dsf2stg

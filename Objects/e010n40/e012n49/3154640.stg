@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 12.18443 49.33934 393.68 348.45
-OBJECT_SHARED Models/lib/SmHangar.ac 12.18481 49.33944 393.13 257.51
-OBJECT_SHARED Models/lib/SmHangar.ac 12.18490 49.33928 393.46 167.34
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.18403 49.33969 392.37 74.05
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.18398 49.33955 393.11 79.69
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.18549 49.33964 392.09 254.14
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.18462 49.33947 392.85 347.28
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.18457 49.33947 392.85 347.8
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 12.18447 49.33921 394.00 168.7
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.19690 49.33690 395.88 0
-OBJECT_SHARED Models/Transport/hatchback_red.ac 12.19692 49.33693 395.88 62.79
-OBJECT_SHARED Models/Transport/hatchback_red.ac 12.18471 49.33946 392.81 77.38
-OBJECT_SHARED Models/Transport/hatchback_red.ac 12.18493 49.33938 393.09 344.79
-OBJECT_SHARED Models/lib/lamp10m.xml 12.18442 49.33923 394.05 169.81
-OBJECT_SHARED Models/lib/lamp10m.xml 12.18450 49.33947 392.90 301.39
-OBJECT_SHARED Models/lib/lamp10m.xml 12.18491 49.33941 393.09 308.66
+OBJECT_SHARED Models/lib/SmHangar.ac 12.18443 49.33934 391.11 348.45
+OBJECT_SHARED Models/lib/SmHangar.ac 12.18481 49.33944 390.94 257.51
+OBJECT_SHARED Models/lib/SmHangar.ac 12.18490 49.33928 391.10 167.34
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 12.18403 49.33969 390.51 74.05
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 12.18398 49.33955 390.81 79.69
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 12.18549 49.33964 390.54 254.14
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.18462 49.33947 390.79 347.28
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.18457 49.33947 390.79 347.8
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 12.18447 49.33921 391.25 168.7
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.19690 49.33690 396.88 0
+OBJECT_SHARED Models/Transport/van_silver.ac 12.19692 49.33693 396.88 62.79
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.18471 49.33946 390.78 77.38
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.18493 49.33938 390.94 344.79
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18442 49.33923 391.25 169.81
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18450 49.33947 390.79 301.39
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18491 49.33941 390.94 308.66
 # END dsf2stg

@@ -1,25 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -5.64868 -15.96311 -0.30 89.67
-OBJECT_SHARED Models/lib/FireStationLg.ac -5.64799 -15.96285 -0.32 1.05
-OBJECT_SHARED Models/lib/lamp10m.xml -5.64791 -15.96307 -0.31 0
-OBJECT_SHARED Models/lib/lamp10m.xml -5.64854 -15.96185 -0.33 0
-OBJECT_SHARED Models/lib/lamp10m.xml -5.64852 -15.96250 -0.32 0
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -5.64779 -15.96297 -0.32 0.859985
-OBJECT_SHARED Models/lib/RampParking.xml -5.64831 -15.96247 -0.32 309.48
-OBJECT_SHARED Models/lib/RampParking.xml -5.64833 -15.96171 -0.33 231.56
-OBJECT_SHARED Models/lib/chariot3curve.ac -5.64842 -15.96188 -0.33 198.61
-OBJECT_SHARED Models/lib/chariot3curve.ac -5.64843 -15.96236 -0.32 147.53
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -5.64851 -15.96174 -0.33 52.03
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -5.64847 -15.96243 -0.32 60.64
-OBJECT_SHARED Models/lib/loader.ac -5.64834 -15.96263 -0.32 1.32001
-OBJECT_SHARED Models/lib/loader.ac -5.64843 -15.96159 -0.33 180.78
-OBJECT_SHARED Models/lib/belt_loader.ac -5.64852 -15.96165 -0.33 270
-OBJECT_SHARED Models/lib/belt_loader.ac -5.64848 -15.96257 -0.31 270
-OBJECT_SHARED Models/lib/stack_of_cones.ac -5.64768 -15.96303 -0.32 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -5.64851 -15.96159 -0.33 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -5.64849 -15.96214 -0.32 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -5.64847 -15.96264 -0.31 0
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -5.64836 -15.96277 -0.31 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -5.64868 -15.96311 0.00 89.67
+OBJECT_SHARED Models/lib/FireStationLg.ac -5.64799 -15.96285 0.00 1.05
+OBJECT_SHARED Models/lib/lamp10m.xml -5.64791 -15.96307 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -5.64854 -15.96185 -0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -5.64852 -15.96250 0.00 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -5.64779 -15.96297 0.00 0.859985
+OBJECT_SHARED Models/lib/RampParking.xml -5.64831 -15.96247 0.00 309.48
+OBJECT_SHARED Models/lib/RampParking.xml -5.64833 -15.96171 0.00 231.56
+OBJECT_SHARED Models/lib/chariot3curve.ac -5.64842 -15.96188 0.00 198.61
+OBJECT_SHARED Models/lib/chariot3curve.ac -5.64843 -15.96236 0.00 147.53
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -5.64851 -15.96174 0.00 52.03
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -5.64847 -15.96243 -0.00 60.64
+OBJECT_SHARED Models/lib/loader.ac -5.64834 -15.96263 0.00 1.32001
+OBJECT_SHARED Models/lib/loader.ac -5.64843 -15.96159 0.00 180.78
+OBJECT_SHARED Models/lib/belt_loader.ac -5.64852 -15.96165 0.00 270
+OBJECT_SHARED Models/lib/belt_loader.ac -5.64848 -15.96257 0.00 270
+OBJECT_SHARED Models/lib/stack_of_cones.ac -5.64768 -15.96303 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -5.64851 -15.96159 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -5.64849 -15.96214 -0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -5.64847 -15.96264 0.00 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -5.64836 -15.96277 0.00 0
 # END dsf2stg

@@ -1,22 +1,22 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.68176 54.30837 -0.51 292.31
-OBJECT_SHARED Models/lib/cars6.ac 8.68171 54.30851 -0.51 199.69
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.68153 54.30831 -0.51 292.31
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.68170 54.30835 -0.51 292.31
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.68164 54.30834 -0.51 292.31
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.68158 54.30832 -0.51 292.31
-OBJECT_SHARED Models/lib/MedHangar.ac 8.68244 54.30923 -0.55 182.48
-OBJECT_SHARED Models/lib/SmHangar.ac 8.68201 54.30849 -0.52 95.36
-OBJECT_SHARED Models/lib/HorizTanks2.ac 8.68245 54.30900 -0.55 180.71
-OBJECT_SHARED Models/lib/propane-tank.ac 8.68152 54.30869 -0.51 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 8.68219 54.30877 -0.53 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.68265 54.30836 -0.54 270
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.68179 54.30838 -0.51 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 8.68189 54.30881 -95.51 0
-OBJECT_SHARED Models/lib/lamp10m.xml 8.68252 54.30947 -0.58 90.37
-OBJECT_SHARED Models/lib/lamp10m.xml 8.68217 54.30897 -0.53 152.1
-OBJECT_SHARED Models/lib/lamp10m.xml 8.68218 54.30855 -0.52 89.14
-OBJECT_SHARED Models/lib/lamp10m.xml 8.68173 54.30861 -0.51 89.14
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.68176 54.30837 -0.13 292.31
+OBJECT_SHARED Models/lib/cars6.ac 8.68171 54.30851 -0.06 199.69
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.68153 54.30831 -0.25 292.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.68170 54.30835 -0.14 292.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.68164 54.30834 -0.23 292.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.68158 54.30832 -0.24 292.31
+OBJECT_SHARED Models/lib/MedHangar.ac 8.68244 54.30923 0.19 182.48
+OBJECT_SHARED Models/lib/SmHangar.ac 8.68201 54.30849 -0.04 95.36
+OBJECT_SHARED Models/lib/HorizTanks2.ac 8.68245 54.30900 0.19 180.71
+OBJECT_SHARED Models/lib/propane-tank.ac 8.68152 54.30869 -0.03 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 8.68219 54.30877 0.14 0
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 8.68265 54.30836 -0.09 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.68179 54.30838 -0.12 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 8.68189 54.30881 -91.90 0
+OBJECT_SHARED Models/lib/lamp10m.xml 8.68252 54.30947 0.01 90.37
+OBJECT_SHARED Models/lib/lamp10m.xml 8.68217 54.30897 0.19 152.1
+OBJECT_SHARED Models/lib/lamp10m.xml 8.68218 54.30855 0.03 89.14
+OBJECT_SHARED Models/lib/lamp10m.xml 8.68173 54.30861 -0.01 89.14
 # END dsf2stg

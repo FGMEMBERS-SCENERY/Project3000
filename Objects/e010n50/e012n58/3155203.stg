@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.78799 58.04270 97.11 227.42
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.78778 58.04259 96.99 141.22
-OBJECT_SHARED Models/lib/LongRow.ac 12.78679 58.04203 97.16 49.36
-OBJECT_SHARED Models/lib/office40x25.ac 12.78865 58.04285 97.29 140.01
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.78799 58.04270 97.04 227.42
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.78778 58.04259 97.06 141.22
+OBJECT_SHARED Models/lib/LongRow.ac 12.78679 58.04203 97.09 49.36
+OBJECT_SHARED Models/lib/office40x25.ac 12.78865 58.04285 96.97 140.01
 # END dsf2stg

@@ -1,27 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -72.26763 48.52451 173.05 0
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -72.26751 48.52442 172.94 75.7627
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -72.26662 48.52401 173.71 305.363
-OBJECT_SHARED Models/lib/stack_of_cones.ac -72.26691 48.52382 172.29 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.26695 48.52379 172.06 307.75
-OBJECT_SHARED Models/lib/hangar81x16.ac -72.26901 48.52562 173.51 308.86
-OBJECT_SHARED Models/lib/container6.ac -72.26786 48.52451 172.33 37.97
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26659 48.52475 176.47 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26686 48.52495 176.45 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26701 48.52511 176.56 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26705 48.52486 175.86 0
-OBJECT_SHARED Models/lib/cone.ac -72.26792 48.52452 172.33 0
-OBJECT_SHARED Models/lib/cone.ac -72.26779 48.52449 172.57 0
-OBJECT_SHARED Models/lib/cone.ac -72.26785 48.52456 172.68 0
-OBJECT_SHARED Models/lib/cone.ac -72.26786 48.52446 172.33 0
-OBJECT_SHARED Models/Airport/helipad40m.ac -72.26940 48.52478 169.78 307.72
-OBJECT_SHARED Models/Airport/helipad40m.ac -72.26963 48.52497 170.00 306.75
-OBJECT_SHARED Models/lib/lamp10m.xml -72.26691 48.52371 171.95 260.54
-OBJECT_SHARED Models/lib/lamp10m.xml -72.26657 48.52389 173.36 -1.17001
-OBJECT_SHARED Models/lib/lamp10m.xml -72.26777 48.52447 172.57 168.69
-OBJECT_SHARED Models/lib/lamp10m.xml -72.26720 48.52474 174.69 78.11
-OBJECT_SHARED Models/lib/MedHangar.ac -72.26751 48.52458 173.63 126.1
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.26645 48.52369 173.15 129.04
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -72.26763 48.52451 172.65 0
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -72.26751 48.52442 172.64 75.7627
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -72.26662 48.52401 172.06 305.363
+OBJECT_SHARED Models/lib/stack_of_cones.ac -72.26691 48.52382 172.52 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.26695 48.52379 172.62 307.75
+OBJECT_SHARED Models/lib/hangar81x16.ac -72.26901 48.52562 172.73 308.86
+OBJECT_SHARED Models/lib/container6-HD.ac -72.26786 48.52451 172.90 37.97
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26659 48.52475 174.95 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26686 48.52495 173.87 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26701 48.52511 173.75 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -72.26705 48.52486 171.75 0
+OBJECT_SHARED Models/lib/cone.ac -72.26792 48.52452 172.90 0
+OBJECT_SHARED Models/lib/cone.ac -72.26779 48.52449 172.82 0
+OBJECT_SHARED Models/lib/cone.ac -72.26785 48.52456 172.81 0
+OBJECT_SHARED Models/lib/cone.ac -72.26786 48.52446 172.90 0
+OBJECT_SHARED Models/lib/lamp10m.xml -72.26691 48.52371 172.60 260.54
+OBJECT_SHARED Models/lib/lamp10m.xml -72.26657 48.52389 172.14 -1.17001
+OBJECT_SHARED Models/lib/lamp10m.xml -72.26777 48.52447 172.82 168.69
+OBJECT_SHARED Models/lib/lamp10m.xml -72.26720 48.52474 172.10 78.11
+OBJECT_SHARED Models/lib/MedHangar.ac -72.26751 48.52458 172.48 126.1
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.26645 48.52369 172.09 129.04
 # END dsf2stg

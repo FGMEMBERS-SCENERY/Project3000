@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 5.68539 53.44835 0.94 25.35
+OBJECT_SHARED Models/lib/cone.ac 5.68483 53.44883 0.78 0
+OBJECT_SHARED Models/lib/cone.ac 5.68454 53.44898 0.70 0
+OBJECT_SHARED Models/lib/cone.ac 5.68423 53.44919 0.64 0
+OBJECT_SHARED Models/lib/cone.ac 5.68416 53.44945 0.73 0
+OBJECT_SHARED Models/lib/cone.ac 5.68415 53.44973 0.81 0
+OBJECT_SHARED Models/lib/cone.ac 5.68414 53.44999 0.94 0
+OBJECT_SHARED Models/lib/cone.ac 5.68414 53.45023 1.02 0
+OBJECT_SHARED Models/lib/cone.ac 5.68415 53.45045 1.16 0
+OBJECT_SHARED Models/lib/cone.ac 5.68415 53.45068 1.24 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 5.68541 53.44837 0.92 0
+OBJECT_SHARED Models/lib/office16x4n.ac 5.68579 53.44857 1.12 164.41
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 5.68556 53.44847 0.98 247.51
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 5.68373 53.44946 0.61 90.9
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 5.68371 53.44976 0.73 90.9
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 5.68371 53.44990 0.78 90.9
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 5.68367 53.45025 0.91 90.9
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 5.68373 53.44932 0.52 90.9
+OBJECT_SHARED Models/Transport/hatchback_green.ac 5.68506 53.44851 0.79 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 5.68518 53.44851 0.83 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 5.68579 53.44845 1.05 296.12
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 5.68582 53.44842 1.06 296.12
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.68591 53.44839 1.10 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.68596 53.44835 1.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.68601 53.44831 1.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.68591 53.44827 1.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.68581 53.44824 1.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.68572 53.44821 1.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.68562 53.44817 1.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.68553 53.44812 1.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.68548 53.44821 1.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.68541 53.44828 0.94 0
+# END dsf2stg

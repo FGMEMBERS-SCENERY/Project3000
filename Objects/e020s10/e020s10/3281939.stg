@@ -1,28 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 20.42556 -9.68944 1098.71 139.09
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 20.42554 -9.68946 1098.59 139.48
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 20.42553 -9.68949 1098.61 137.97
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 20.42550 -9.68950 1098.61 136.33
+OBJECT_SHARED Models/lib/trailer-fedex.ac 20.42556 -9.68944 1096.82 319.09
+OBJECT_SHARED Models/lib/trailer-fedex.ac 20.42554 -9.68946 1096.82 319.48
+OBJECT_SHARED Models/lib/trailer-fedex.ac 20.42553 -9.68949 1096.83 317.97
+OBJECT_SHARED Models/lib/trailer-fedex.ac 20.42550 -9.68950 1096.83 316.33
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 20.42451 -9.68863 1096.80 54.3
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 20.42443 -9.68870 1096.71 231.04
-OBJECT_SHARED Models/lib/shed8x10.ac 20.42826 -9.69093 1096.00 138.96
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 20.42781 -9.68899 1097.64 48.23
-OBJECT_SHARED Models/lib/shed8x10.ac 20.42811 -9.68914 1097.48 317.39
-OBJECT_SHARED Models/lib/industrial13x24.ac 20.42814 -9.68941 1097.27 318.21
-OBJECT_SHARED Models/lib/industrial13x24.ac 20.42804 -9.68952 1097.19 318.21
-OBJECT_SHARED Models/Airport/FGRefuel02.xml 20.42825 -9.69369 1094.54 49.97
-OBJECT_SHARED Models/lib/shed10x50.ac 20.42709 -9.69230 1096.51 228.54
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 20.42742 -9.69232 1096.12 138.5
-OBJECT_SHARED Models/lib/FireStationLg.ac 20.42396 -9.68863 1096.15 49.13
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 20.42409 -9.68907 1096.53 319.02
-OBJECT_SHARED Models/Aircraft/320austrian.xml 20.42308 -9.68744 1095.10 188.96
-OBJECT_SHARED Models/Aircraft/D328_services.xml 20.42714 -9.69096 1097.04 50.31
-OBJECT_SHARED Models/Aircraft/B1900_services.xml 20.42749 -9.69125 1096.41 52.97
-OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 20.42849 -9.69332 1094.30 54.87
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 20.42305 -9.68745 1095.11 295.56
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 20.42832 -9.69097 1095.97 225
-OBJECT_SHARED Models/lib/cargo_pod_lot.ac 20.42898 -9.69092 1095.93 54.6
-OBJECT_SHARED Models/lib/cargo_pod_lot.ac 20.42891 -9.69085 1096.00 55.84
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 20.42443 -9.68870 1096.81 231.04
+OBJECT_SHARED Models/lib/shed8x10.ac 20.42826 -9.69093 1096.55 138.96
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 20.42781 -9.68899 1096.60 48.23
+OBJECT_SHARED Models/lib/shed8x10.ac 20.42811 -9.68914 1096.57 317.39
+OBJECT_SHARED Models/lib/industrial13x24.ac 20.42814 -9.68941 1096.59 318.21
+OBJECT_SHARED Models/lib/industrial13x24.ac 20.42804 -9.68952 1096.60 318.21
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 20.42825 -9.69369 1096.22 49.97
+OBJECT_SHARED Models/lib/shed10x50.ac 20.42709 -9.69230 1096.66 228.54
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 20.42742 -9.69232 1096.61 138.5
+OBJECT_SHARED Models/lib/FireStationLg.ac 20.42396 -9.68863 1096.82 49.13
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 20.42409 -9.68907 1096.87 319.02
+OBJECT_SHARED Models/Aircraft/320austrian.xml 20.42308 -9.68744 1096.66 188.96
+OBJECT_SHARED Models/Aircraft/D328_services.xml 20.42714 -9.69096 1096.72 50.31
+OBJECT_SHARED Models/Aircraft/B1900_services.xml 20.42749 -9.69125 1096.66 52.97
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 20.42849 -9.69332 1096.23 54.87
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 20.42305 -9.68745 1096.67 295.56
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 20.42832 -9.69097 1096.55 225
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 20.42898 -9.69092 1096.46 54.6
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 20.42891 -9.69085 1096.48 55.84
 # END dsf2stg

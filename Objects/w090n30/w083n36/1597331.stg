@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml -82.17735 36.36761 469.40 123.52
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -82.17811 36.37028 476.14 120
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -82.17786 36.36995 475.26 120
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -82.17799 36.37019 475.84 301.01
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -82.17790 36.37009 475.55 303
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -82.17829 36.36998 475.32 303
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -82.17820 36.36987 475.02 303
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -82.17824 36.37008 475.59 125
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -82.17815 36.36997 475.29 125
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -82.17833 36.37017 475.88 125
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -82.18196 36.36787 471.40 30
+OBJECT_SHARED Models/lib/MedHangar.ac -82.17876 36.36982 474.83 122
+OBJECT_SHARED Models/lib/MedHangar.ac -82.17974 36.36903 472.71 122
+OBJECT_SHARED Models/lib/MedHangar.ac -82.17918 36.36931 473.48 122
+OBJECT_SHARED Models/lib/office65x50.ac -82.17771 36.36726 468.61 123
+OBJECT_SHARED Models/lib/LongRow.ac -82.18121 36.36836 472.11 213
+# END dsf2stg

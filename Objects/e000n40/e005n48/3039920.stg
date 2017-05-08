@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.18432 48.86785 264.20 23.1
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 5.18318 48.86772 261.45 230.67
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.18345 48.86756 262.86 125.21
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 5.18316 48.86783 260.95 33.4
-OBJECT_SHARED Models/lib/shed10x50.ac 5.18386 48.86812 261.98 33.39
-OBJECT_SHARED Models/lib/transformer3x3.ac 5.18274 48.86759 260.78 36.98
-OBJECT_SHARED Models/lib/office3x10.ac 5.18257 48.86753 260.88 34.92
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18245 48.86748 260.54 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 5.18280 48.86768 260.36 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 5.18292 48.86772 260.70 0
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.18343 48.86792 261.45 133.23
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 5.18432 48.86785 262.90 23.1
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 5.18318 48.86772 262.34 230.67
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.18345 48.86756 262.56 125.21
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 5.18316 48.86783 262.26 33.4
+OBJECT_SHARED Models/lib/shed10x50.ac 5.18386 48.86812 262.53 33.39
+OBJECT_SHARED Models/lib/transformer3x3.ac 5.18274 48.86759 262.14 36.98
+OBJECT_SHARED Models/lib/office3x10.ac 5.18257 48.86753 262.10 34.92
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.18245 48.86748 262.02 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 5.18280 48.86768 262.09 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.18292 48.86772 262.18 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 5.18343 48.86792 262.36 133.23
 # END dsf2stg

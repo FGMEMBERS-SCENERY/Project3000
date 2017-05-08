@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -123.32578 48.11217 50.26 1.48789
+OBJECT_SHARED Models/lib/dGreenhse.ac -123.32478 48.11227 47.97 277.125
+OBJECT_SHARED Models/Transport/hatchback_red.ac -123.32498 48.11227 47.97 80.4456
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.32384 48.11213 48.64 242.352
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.32391 48.11221 47.66 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.32392 48.11217 47.66 276.341
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.32400 48.11209 48.64 22.8323
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.32402 48.11199 49.63 140.712
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.32387 48.11194 50.61 127.877
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.32369 48.11184 51.60 345.38
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.32381 48.11185 51.60 173.158
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.32482 48.10988 47.12 120.494
+# END dsf2stg

@@ -1,19 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 22.66693 -32.30058 -0.82 212
-OBJECT_SHARED Models/lib/MedHangar.ac 22.66561 -32.30101 -0.84 120.24
-OBJECT_SHARED Models/lib/SmHangar.ac 22.66452 -32.30193 -0.84 121.28
-OBJECT_SHARED Models/lib/HorizTanks2.ac 22.66504 -32.30150 -0.84 120.35
-OBJECT_SHARED Models/Airport/FGRefuel02.xml 22.66515 -32.30166 -0.84 -58.75
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 22.66490 -32.30195 -0.84 118.91
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.66437 -32.30209 -0.84 79.54
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.66561 -32.30161 -0.83 298.74
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.66652 -32.30098 -0.82 300.78
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.66594 -32.30145 -0.83 299.23
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.66558 -32.30107 -0.84 70.29
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 22.66609 -32.30100 -0.83 301.25
-OBJECT_SHARED Models/lib/lamp10m.xml 22.66648 -32.30088 -0.82 67.64
-OBJECT_SHARED Models/lib/lamp10m.xml 22.66599 -32.30087 -0.83 33.93
-OBJECT_SHARED Models/lib/lamp10m.xml 22.66534 -32.30114 -0.84 209.8
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 22.66693 -32.30058 896.41 212
+OBJECT_SHARED Models/lib/MedHangar.ac 22.66561 -32.30101 896.91 120.24
+OBJECT_SHARED Models/lib/SmHangar.ac 22.66452 -32.30193 891.83 121.28
+OBJECT_SHARED Models/lib/HorizTanks2.ac 22.66504 -32.30150 893.97 120.35
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 22.66515 -32.30166 893.87 -58.75
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 22.66490 -32.30195 892.61 118.91
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 22.66437 -32.30209 892.11 79.54
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 22.66561 -32.30161 895.65 298.74
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 22.66652 -32.30098 896.35 300.78
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 22.66594 -32.30145 897.02 299.23
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 22.66558 -32.30107 896.71 70.29
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 22.66609 -32.30100 897.30 301.25
+OBJECT_SHARED Models/lib/lamp10m.xml 22.66648 -32.30088 896.56 67.64
+OBJECT_SHARED Models/lib/lamp10m.xml 22.66599 -32.30087 897.53 33.93
+OBJECT_SHARED Models/lib/lamp10m.xml 22.66534 -32.30114 895.76 209.8
 # END dsf2stg

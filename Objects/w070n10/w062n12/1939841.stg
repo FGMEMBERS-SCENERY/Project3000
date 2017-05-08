@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/container6-HD.ac -61.79068 12.00575 13.21 0
+OBJECT_SHARED Models/Airport/cargoip.xml -61.79067 12.00569 13.21 0
+OBJECT_SHARED Models/Airport/cargoip.xml -61.79061 12.00572 13.20 0
+OBJECT_SHARED Models/Airport/cargoip.xml -61.79060 12.00579 13.40 270
+OBJECT_SHARED Models/Airport/cargoip.xml -61.79069 12.00581 13.41 0
+OBJECT_SHARED Models/lib/lamp10m.xml -61.79072 12.00575 13.21 269.48
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -61.78858 12.00738 15.54 179.75
+OBJECT_SHARED Models/lib/SmHangar.ac -61.79029 12.00571 13.16 0
+OBJECT_SHARED Models/lib/office16x4n.ac -61.78419 12.00729 14.14 358.8
+OBJECT_SHARED Models/lib/container6-HD.ac -61.78492 12.00717 14.23 0
+OBJECT_SHARED Models/lib/container6-HD.ac -61.78487 12.00733 14.38 0
+OBJECT_SHARED Models/lib/container6-HD.ac -61.78491 12.00724 14.23 0
+OBJECT_SHARED Models/lib/container6-HD.ac -61.78484 12.00717 14.19 0
+OBJECT_SHARED Models/lib/belt_loader.ac -61.78591 12.00659 13.60 214.09
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -61.78579 12.00685 13.90 218.05
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78467 12.00706 14.00 89.23
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78505 12.00707 14.14 97.43
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78542 12.00706 14.25 89.34
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78581 12.00705 14.40 90.81
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78639 12.00704 14.45 90
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78680 12.00704 14.59 89.69
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -61.78782 12.00637 13.93 91.43
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -61.78759 12.00658 14.21 63.69
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -61.78694 12.00666 14.14 311.63
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78740 12.00689 14.63 111.25
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78784 12.00662 14.28 147.79
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78799 12.00625 13.80 179.33
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78800 12.00586 13.07 180.4
+OBJECT_SHARED Models/lib/chariot3curve.ac -61.78601 12.00664 13.63 300.07
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -61.78632 12.00703 14.42 0
+OBJECT_SHARED Models/Airport/cargobox.xml -61.78458 12.00704 13.80 155.22
+OBJECT_SHARED Models/Airport/cargobox.xml -61.78464 12.00708 13.96 271.36
+OBJECT_SHARED Models/Airport/cargobox.xml -61.78473 12.00709 14.00 336.8
+OBJECT_SHARED Models/Airport/cargobox.xml -61.78475 12.00699 13.84 279.46
+OBJECT_SHARED Models/Airport/cargobox.xml -61.78476 12.00704 13.87 106.7
+OBJECT_SHARED Models/Airport/cargobox.xml -61.78479 12.00708 14.04 270
+OBJECT_SHARED Models/lib/belt_loader.ac -61.78625 12.00700 14.42 180
+OBJECT_SHARED Models/lib/belt_loader.ac -61.78521 12.00703 14.02 -0.720001
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -61.78490 12.00707 14.07 191.95
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -61.78495 12.00703 13.94 90
+OBJECT_SHARED Models/lib/fuel-truck.xml -61.78689 12.00696 14.62 49.23
+OBJECT_SHARED Models/lib/fuel-truck.xml -61.78484 12.00705 14.04 110.56
+OBJECT_SHARED Models/Transport/hatchback_green.ac -61.79021 12.00581 13.36 90.57
+# END dsf2stg

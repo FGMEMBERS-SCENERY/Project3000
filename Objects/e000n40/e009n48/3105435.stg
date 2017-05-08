@@ -1,30 +1,30 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac 9.79967 48.41731 687.97 156.07
-OBJECT_SHARED Models/lib/SmHangar.ac 9.79996 48.41847 680.38 177.14
-OBJECT_SHARED Models/lib/SmHangar.ac 9.80009 48.41847 680.18 177.14
-OBJECT_SHARED Models/lib/SmHangar.ac 9.80023 48.41846 679.88 177.14
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.80104 48.41846 677.15 236.31
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.79963 48.41862 680.00 145.38
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.80008 48.41858 679.62 266.63
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.80019 48.41840 680.50 177.14
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 9.79995 48.41841 681.00 266.42
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.80004 48.41839 680.81 176.86
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.79999 48.41839 680.92 176.86
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.79991 48.41839 681.08 176.86
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.79984 48.41840 681.14 176.86
-OBJECT_SHARED Models/lib/stack_of_cones.ac 9.79974 48.41739 686.97 0
-OBJECT_SHARED Models/Transport/hatchback_red.ac 9.80022 48.41834 680.96 356.75
-OBJECT_SHARED Models/Transport/hatchback_red.ac 9.80049 48.41821 680.41 353.39
-OBJECT_SHARED Models/Transport/hatchback_red.ac 9.80042 48.41822 680.67 353.19
-OBJECT_SHARED Models/Transport/hatchback_red.ac 9.80037 48.41823 680.86 353.16
-OBJECT_SHARED Models/Transport/hatchback_red.ac 9.80030 48.41824 681.12 355.24
-OBJECT_SHARED Models/Transport/hatchback_red.ac 9.80024 48.41823 681.35 350.75
-OBJECT_SHARED Models/Transport/hatchback_red.ac 9.79972 48.41736 687.13 250.71
-OBJECT_SHARED Models/Transport/hatchback_red.ac 9.79974 48.41701 688.29 335.61
-OBJECT_SHARED Models/Transport/hatchback_red.ac 9.79971 48.41703 688.15 331.65
-OBJECT_SHARED Models/lib/lamp10m.xml 9.80021 48.41841 680.46 176.48
-OBJECT_SHARED Models/lib/lamp10m.xml 9.79979 48.41843 681.18 175.53
-OBJECT_SHARED Models/lib/lamp10m.xml 9.79963 48.41708 688.85 321.63
+OBJECT_SHARED Models/lib/MedHangar.ac 9.79967 48.41731 675.98 156.07
+OBJECT_SHARED Models/lib/SmHangar.ac 9.79996 48.41847 676.47 177.14
+OBJECT_SHARED Models/lib/SmHangar.ac 9.80009 48.41847 676.43 177.14
+OBJECT_SHARED Models/lib/SmHangar.ac 9.80023 48.41846 676.39 177.14
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 9.80104 48.41846 676.10 236.31
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 9.79963 48.41862 676.54 145.38
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.80008 48.41858 676.40 266.63
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.80019 48.41840 676.43 177.14
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 9.79995 48.41841 676.51 266.42
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.80004 48.41839 676.48 176.86
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.79999 48.41839 676.50 176.86
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.79991 48.41839 676.52 176.86
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.79984 48.41840 676.55 176.86
+OBJECT_SHARED Models/lib/stack_of_cones.ac 9.79974 48.41739 676.12 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 9.80022 48.41834 676.44 356.75
+OBJECT_SHARED Models/Transport/hatchback_red.ac 9.80049 48.41821 676.34 353.39
+OBJECT_SHARED Models/Transport/hatchback_red.ac 9.80042 48.41822 676.37 353.19
+OBJECT_SHARED Models/Transport/hatchback_black.ac 9.80037 48.41823 676.38 353.16
+OBJECT_SHARED Models/Transport/van_red.ac 9.80030 48.41824 676.40 355.24
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 9.80024 48.41823 676.43 350.75
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 9.79972 48.41736 676.12 250.71
+OBJECT_SHARED Models/Transport/hatchback_black.ac 9.79974 48.41701 686.12 335.61
+OBJECT_SHARED Models/Transport/hatchback_green.ac 9.79971 48.41703 686.07 331.65
+OBJECT_SHARED Models/lib/lamp10m.xml 9.80021 48.41841 676.43 176.48
+OBJECT_SHARED Models/lib/lamp10m.xml 9.79979 48.41843 676.56 175.53
+OBJECT_SHARED Models/lib/lamp10m.xml 9.79963 48.41708 675.70 321.63
 # END dsf2stg

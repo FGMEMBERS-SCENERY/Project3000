@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac 14.40438 48.51515 689.23 142.76
+OBJECT_SHARED Models/Transport/van_silver.ac 14.40464 48.51509 688.57 145.34
+OBJECT_SHARED Models/Transport/hatchback_green.ac 14.40458 48.51512 688.57 146.09
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 14.40461 48.51511 688.57 145.27
+OBJECT_SHARED Models/Transport/hatchback_black.ac 14.40526 48.51505 688.81 260.32
+OBJECT_SHARED Models/Transport/van_silver.ac 14.40524 48.51498 688.05 260.89
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 14.40532 48.51497 688.08 81.99
+OBJECT_SHARED Models/Transport/hatchback_black.ac 14.40531 48.51495 687.35 265.33
+OBJECT_SHARED Models/Transport/hatchback_green.ac 14.40523 48.51495 688.05 264.03
+OBJECT_SHARED Models/Transport/hatchback_green.ac 14.40531 48.51500 688.08 263.05
+OBJECT_SHARED Models/Transport/hatchback_black.ac 14.40507 48.51502 688.01 82.54
+OBJECT_SHARED Models/Transport/hatchback_red.ac 14.40501 48.51508 688.71 260.18
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 14.40457 48.51507 688.57 326.41
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 14.40454 48.51509 688.54 329.22
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 14.40448 48.51511 688.54 327.36
+OBJECT_SHARED Models/Transport/hatchback_green.ac 14.40452 48.51515 689.26 144.76
+OBJECT_SHARED Models/Transport/van_silver.ac 14.40446 48.51518 689.26 144.9
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.40519 48.51472 685.86 353
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.40524 48.51472 685.86 353
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.40513 48.51473 685.83 353
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.40507 48.51473 685.83 353
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.40496 48.51475 685.79 353
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.40501 48.51474 685.79 353
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.40489 48.51475 686.49 353
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.40483 48.51476 686.45 353
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.40472 48.51477 686.42 353
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.40477 48.51477 686.45 353
+OBJECT_SHARED Models/lib/lamp10m.xml 14.40555 48.51500 688.15 263
+OBJECT_SHARED Models/lib/lamp10m.xml 14.40505 48.51495 687.28 263
+OBJECT_SHARED Models/lib/lamp10m.xml 14.40527 48.51471 685.89 263
+OBJECT_SHARED Models/lib/lamp10m.xml 14.40470 48.51477 686.42 263
+OBJECT_SHARED Models/lib/lamp10m.xml 14.40419 48.51515 688.27 263
+OBJECT_SHARED Models/lib/lamp10m.xml 14.40460 48.51493 687.11 263
+OBJECT_SHARED Models/lib/SmHangar.ac 14.40365 48.51499 686.44 152
+OBJECT_SHARED Models/lib/SmHangar.ac 14.40358 48.51490 685.39 152
+OBJECT_SHARED Models/lib/farm19x12.ac 14.40524 48.51483 686.59 353
+OBJECT_SHARED Models/lib/office3x10.ac 14.40515 48.51468 685.86 263
+OBJECT_SHARED Models/lib/office3x10.ac 14.40534 48.51468 685.89 285
+OBJECT_SHARED Models/lib/industrial13x24.ac 14.40424 48.51497 687.46 324.5
+OBJECT_SHARED Models/lib/cars10.ac 14.40554 48.51504 688.15 263
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 14.40528 48.51499 688.08 353
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 14.40503 48.51504 687.98 353
+OBJECT_SHARED Models/lib/cars10.ac 14.40440 48.51537 691.84 324.5
+OBJECT_SHARED Models/lib/4_spaces_dual.ac 14.40439 48.51518 689.23 144.5
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 14.40451 48.51512 688.54 54.5
+OBJECT_SHARED Models/lib/schranke.ac 14.40459 48.51477 686.39 260
+# END dsf2stg

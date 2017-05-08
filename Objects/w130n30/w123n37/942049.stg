@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -122.50269 37.51782 16.85 0
+OBJECT_SHARED Models/lib/propane-tank.ac -122.50264 37.51789 16.99 152.337
+OBJECT_SHARED Models/Transport/hatchback_green.ac -122.50279 37.51779 16.85 334.537
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -122.50282 37.51797 17.13 65.8423
+OBJECT_SHARED Models/lib/cone.ac -122.50272 37.51782 16.85 0
+OBJECT_SHARED Models/lib/cone.ac -122.50268 37.51783 16.85 0
+OBJECT_SHARED Models/lib/cone.ac -122.50270 37.51784 16.85 0
+OBJECT_SHARED Models/lib/cone.ac -122.50270 37.51781 16.85 0
+OBJECT_SHARED Models/lib/cone.ac -122.50270 37.51783 16.85 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -122.50271 37.51793 16.99 247.855
+# END dsf2stg

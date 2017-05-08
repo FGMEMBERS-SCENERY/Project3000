@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/belt_loader.ac 141.79802 45.40008 -0.48 19.5
-OBJECT_SHARED Models/lib/chariot1.ac 141.79691 45.39981 -0.50 292.87
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 141.79697 45.39983 -0.50 289.98
-OBJECT_SHARED Models/lib/belt_loader.ac 141.79660 45.39973 -0.51 -67.62
-OBJECT_SHARED Models/lib/chariot4.ac 141.79632 45.39962 -0.52 200.94
-OBJECT_SHARED Models/lib/JetWayWallBase.ac 141.79737 45.39990 -0.50 181.51
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79829 45.40001 -0.49 65.87
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79761 45.39983 -0.49 66.48
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79699 45.39967 -0.51 66.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79638 45.39950 -0.53 65.88
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 141.79840 45.39967 -0.49 21.07
-OBJECT_SHARED Models/lib/MedHangar.ac 141.79655 45.39956 -0.51 291.24
+OBJECT_SHARED Models/lib/belt_loader.ac 141.79802 45.40008 7.03 19.5
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 141.79691 45.39981 7.13 292.87
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 141.79697 45.39983 7.13 289.98
+OBJECT_SHARED Models/lib/belt_loader.ac 141.79660 45.39973 7.16 -67.62
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 141.79632 45.39962 7.21 200.94
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 141.79737 45.39990 7.11 181.51
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79829 45.40001 7.07 65.87
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79761 45.39983 7.12 66.48
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79699 45.39967 7.16 66.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79638 45.39950 7.19 65.88
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 141.79840 45.39967 7.14 21.07
+OBJECT_SHARED Models/lib/MedHangar.ac 141.79655 45.39956 7.17 291.24
 # END dsf2stg

@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office40x25.ac -81.11181 34.00673 100.55 18
+OBJECT_SHARED Models/lib/office32x25.ac -81.11160 34.00628 100.44 94
+OBJECT_SHARED Models/lib/office65x50.ac -81.11358 34.00799 102.98 105
+OBJECT_SHARED Models/lib/lamp10m.xml -81.11298 34.00433 100.84 75
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.11302 34.00436 101.28 352
+OBJECT_SHARED Models/lib/office32x25n.ac -81.11174 34.00506 100.92 1
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11317 34.00478 102.11 15
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11328 34.00443 101.43 325
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11320 34.00444 101.51 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11330 34.00450 101.58 15
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11323 34.00452 101.66 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11331 34.00464 101.73 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11328 34.00455 101.73 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11334 34.00457 101.73 325
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11337 34.00464 101.65 15
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11333 34.00474 101.89 15
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11351 34.00467 101.72 15
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11345 34.00446 101.50 325
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11345 34.00452 101.42 15
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11350 34.00449 101.42 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11339 34.00453 101.50 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11336 34.00445 101.35 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11370 34.00458 101.41 325
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11368 34.00464 101.41 15
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11381 34.00457 101.33 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11364 34.00454 101.34 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11362 34.00460 101.49 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11400 34.00448 101.01 325
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11409 34.00454 100.93 15
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11402 34.00456 101.10 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11394 34.00450 101.09 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11394 34.00458 101.21 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11376 34.00455 101.33 15
+# END dsf2stg

@@ -1,19 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/cargobox.xml -18.91820 66.13437 7.34 180.003
-OBJECT_SHARED Models/Airport/cargobox.xml -18.91815 66.13434 7.60 0
-OBJECT_SHARED Models/Airport/cargobox.xml -18.91822 66.13438 7.34 0
-OBJECT_SHARED Models/Airport/cargobox.xml -18.91815 66.13438 7.35 0
-OBJECT_SHARED Models/Airport/cargobox.xml -18.91815 66.13436 7.34 0
-OBJECT_SHARED Models/Airport/cargobox.xml -18.91819 66.13435 7.34 0
-OBJECT_SHARED Models/Airport/cargoip.xml -18.91806 66.13437 7.35 0
-OBJECT_SHARED Models/Airport/cargoip.xml -18.91810 66.13435 7.35 0
-OBJECT_SHARED Models/Airport/cargoip.xml -18.91810 66.13437 7.35 0
-OBJECT_SHARED Models/lib/cars7.ac -18.91839 66.13424 7.78 316.943
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -18.91843 66.13413 8.04 288.673
-OBJECT_SHARED Models/lib/SmHangar.ac -18.91853 66.13411 8.02 227.545
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -18.91731 66.13440 7.55 49.5203
-OBJECT_SHARED Models/lib/SmHangar.ac -18.91792 66.13442 7.40 136.665
-OBJECT_SHARED Models/lib/SmHangar.ac -18.91767 66.13446 7.19 47.2515
+OBJECT_SHARED Models/Airport/cargobox.xml -18.91820 66.13437 7.17 180.003
+OBJECT_SHARED Models/Airport/cargobox.xml -18.91815 66.13434 7.47 0
+OBJECT_SHARED Models/Airport/cargobox.xml -18.91822 66.13438 7.17 0
+OBJECT_SHARED Models/Airport/cargobox.xml -18.91815 66.13438 7.20 0
+OBJECT_SHARED Models/Airport/cargobox.xml -18.91815 66.13436 7.17 0
+OBJECT_SHARED Models/Airport/cargobox.xml -18.91819 66.13435 7.17 0
+OBJECT_SHARED Models/Airport/cargoip.xml -18.91806 66.13437 7.20 0
+OBJECT_SHARED Models/Airport/cargoip.xml -18.91810 66.13435 7.20 0
+OBJECT_SHARED Models/Airport/cargoip.xml -18.91810 66.13437 7.20 0
+OBJECT_SHARED Models/lib/cars7.ac -18.91839 66.13424 7.65 316.943
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -18.91843 66.13413 7.92 288.673
+OBJECT_SHARED Models/lib/SmHangar.ac -18.91853 66.13411 7.89 227.545
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -18.91731 66.13440 7.43 49.5203
+OBJECT_SHARED Models/lib/SmHangar.ac -18.91792 66.13442 7.27 136.665
+OBJECT_SHARED Models/lib/SmHangar.ac -18.91767 66.13446 7.07 47.2515
 # END dsf2stg

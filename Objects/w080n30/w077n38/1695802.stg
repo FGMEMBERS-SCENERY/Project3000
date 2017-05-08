@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -76.32695 38.97487 2.88 256.65
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.32624 38.97471 3.00 256.95
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.32601 38.97477 3.07 168.98
+OBJECT_SHARED Models/lib/MedHangar.ac -76.32575 38.97454 3.08 257.01
+OBJECT_SHARED Models/lib/cars10.ac -76.32691 38.97433 2.97 166
+OBJECT_SHARED Models/lib/cars10.ac -76.32720 38.97455 2.75 347
+OBJECT_SHARED Models/lib/cars6.ac -76.32680 38.97447 2.90 76
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.32669 38.97467 2.90 345
+OBJECT_SHARED Models/lib/admin31x12.ac -76.32648 38.97468 2.94 76.31
+OBJECT_SHARED Models/lib/LongRow.ac -76.32801 38.97443 2.52 285
+OBJECT_SHARED Models/lib/LongRow.ac -76.32833 38.97533 2.61 285
+OBJECT_SHARED Models/lib/LongRow.ac -76.32890 38.97555 2.47 286
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.32687 38.97433 2.97 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -76.32359 38.97602 2.83 74.39
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.32657 38.97477 2.94 125
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -76.32656 38.97476 2.94 125
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.32773 38.97750 2.31 19.52
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.32778 38.97752 2.28 329.3
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.32778 38.97750 2.28 247.13
+OBJECT_SHARED Models/lib/lamp10m.xml -76.32553 38.97448 3.12 345
+OBJECT_SHARED Models/lib/lamp10m.xml -76.32601 38.97457 3.03 345
+OBJECT_SHARED Models/lib/prop_a.ac -76.32661 38.97488 2.96 346.58
+OBJECT_SHARED Models/lib/prop_a.ac -76.32609 38.97512 3.11 344.85
+OBJECT_SHARED Models/lib/prop_a.ac -76.32621 38.97520 3.11 163.76
+OBJECT_SHARED Models/lib/prop_a.ac -76.32648 38.97525 3.06 344.13
+OBJECT_SHARED Models/lib/prop_a.ac -76.32731 38.97527 2.89 347.34
+OBJECT_SHARED Models/lib/prop_a.ac -76.32728 38.97539 2.91 349.25
+OBJECT_SHARED Models/lib/prop_a.ac -76.32741 38.97535 2.87 165.91
+# END dsf2stg

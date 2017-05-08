@@ -1,24 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office16x4n.ac -8.23912 54.49277 33.85 105.19
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -8.23889 54.49277 34.08 343.74
-OBJECT_SHARED Models/Transport/hatchback_green.ac -8.23904 54.49301 34.40 204.3
-OBJECT_SHARED Models/Transport/hatchback_green.ac -8.23913 54.49318 34.16 189.87
-OBJECT_SHARED Models/lib/MedHangar.ac -8.23893 54.49334 34.27 15.22
-OBJECT_SHARED Models/lib/cars2.ac -8.23868 54.49271 34.10 197.94
-OBJECT_SHARED Models/lib/4space_wStop.ac -8.23910 54.49283 33.86 284.72
-OBJECT_SHARED Models/Transport/hatchback_red.ac -8.23849 54.49277 34.55 194.04
-OBJECT_SHARED Models/Transport/hatchback_red.ac -8.23852 54.49276 34.52 194.04
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -8.23823 54.49287 35.09 15.1369
-OBJECT_SHARED Models/lib/lamp10m.xml -8.23859 54.49273 34.20 27.0717
-OBJECT_SHARED Models/lib/lamp10m.xml -8.23932 54.49347 33.98 221.985
-OBJECT_SHARED Models/lib/lamp10m.xml -8.24016 54.49295 33.32 26.56
-OBJECT_SHARED Models/lib/lamp10m.xml -8.23918 54.49313 34.53 270
-OBJECT_SHARED Models/lib/lamp10m.xml -8.23886 54.49320 34.79 95.19
-OBJECT_SHARED Models/lib/lamp10m.xml -8.23862 54.49321 34.68 168.69
-OBJECT_SHARED Models/lib/lamp10m.xml -8.23841 54.49285 34.88 81.47
-OBJECT_SHARED Models/lib/lamp10m.xml -8.23885 54.49279 34.13 315
-OBJECT_SHARED Models/lib/lamp10m.xml -8.23919 54.49347 34.11 180
-OBJECT_SHARED Models/lib/lamp10m.xml -8.24121 54.49280 32.88 260.54
+OBJECT_SHARED Models/lib/office16x4n.ac -8.23912 54.49277 33.48 105.19
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -8.23889 54.49277 33.76 343.74
+OBJECT_SHARED Models/Transport/hatchback_black.ac -8.23904 54.49301 33.58 204.3
+OBJECT_SHARED Models/Transport/hatchback_black.ac -8.23913 54.49318 33.41 189.87
+OBJECT_SHARED Models/lib/MedHangar.ac -8.23893 54.49334 33.67 15.22
+OBJECT_SHARED Models/lib/cars2.ac -8.23868 54.49271 34.01 197.94
+OBJECT_SHARED Models/lib/4space_wStop.ac -8.23910 54.49283 33.50 284.72
+OBJECT_SHARED Models/Transport/van_red.ac -8.23849 54.49277 34.34 194.04
+OBJECT_SHARED Models/Transport/hatchback_red.ac -8.23852 54.49276 34.30 194.04
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -8.23823 54.49287 35.14 15.1369
+OBJECT_SHARED Models/lib/lamp10m.xml -8.23859 54.49273 34.14 27.0717
+OBJECT_SHARED Models/lib/lamp10m.xml -8.23932 54.49347 32.93 221.985
+OBJECT_SHARED Models/lib/lamp10m.xml -8.24016 54.49295 32.55 26.56
+OBJECT_SHARED Models/lib/lamp10m.xml -8.23918 54.49313 33.35 270
+OBJECT_SHARED Models/lib/lamp10m.xml -8.23886 54.49320 33.85 95.19
+OBJECT_SHARED Models/lib/lamp10m.xml -8.23862 54.49321 34.28 168.69
+OBJECT_SHARED Models/lib/lamp10m.xml -8.23841 54.49285 34.50 81.47
+OBJECT_SHARED Models/lib/lamp10m.xml -8.23885 54.49279 33.81 315
+OBJECT_SHARED Models/lib/lamp10m.xml -8.23919 54.49347 33.12 180
+OBJECT_SHARED Models/lib/lamp10m.xml -8.24121 54.49280 32.38 260.54
 # END dsf2stg

@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -125.76764 49.07867 25.89 150
+OBJECT_SHARED Models/lib/cars10.ac -125.76716 49.07867 26.15 183.37
+OBJECT_SHARED Models/lib/cars10.ac -125.76768 49.07888 25.99 3
+OBJECT_SHARED Models/lib/cars10.ac -125.76685 49.07903 25.74 271.18
+OBJECT_SHARED Models/lib/SmHangar.ac -125.76926 49.07904 26.11 55.43
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -125.76869 49.07872 25.97 57.66
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.77562 49.06709 -0.04 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.77073 49.06619 -0.07 270
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.77396 49.06509 -0.07 180
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.76692 49.06677 -0.08 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.77158 49.06835 0.33 90
+# END dsf2stg

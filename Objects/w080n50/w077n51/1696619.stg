@@ -1,26 +1,26 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -76.14104 51.68794 257.06 -71.57
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -76.14298 51.68832 254.06 288.82
-OBJECT_SHARED Models/lib/HorizTanks2.ac -76.13964 51.68804 257.89 16.44
-OBJECT_SHARED Models/Transport/hatchback_red.ac -76.13815 51.68887 256.12 345.85
-OBJECT_SHARED Models/Transport/hatchback_red.ac -76.13784 51.68882 256.70 350.54
-OBJECT_SHARED Models/lib/belt_loader.ac -76.13967 51.68858 255.79 -11.31
-OBJECT_SHARED Models/lib/cargo_pod_lot.ac -76.14265 51.68760 256.66 338.63
-OBJECT_SHARED Models/lib/CargoDolly.ac -76.14214 51.68764 257.16 300.96
-OBJECT_SHARED Models/Airport/cargobox.xml -76.14207 51.68764 257.16 0
-OBJECT_SHARED Models/Airport/cargoip.xml -76.14209 51.68765 256.82 0
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.13961 51.68851 256.21 0
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.13961 51.68847 256.21 0
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.14119 51.68802 256.56 63.43
-OBJECT_SHARED Models/lib/fuel-truck.xml -76.13974 51.68806 257.48 218.03
-OBJECT_SHARED Models/lib/cargo_pod_lot.ac -76.13901 51.68809 258.06 171.12
-OBJECT_SHARED Models/Airport/cargobox.xml -76.13944 51.68899 254.70 0
-OBJECT_SHARED Models/lib/container6.ac -76.13963 51.68896 254.53 0
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -76.13928 51.68872 255.79 290.62
-OBJECT_SHARED Models/Transport/Norberttruck.xml -76.13929 51.68887 255.12 111.58
-OBJECT_SHARED Models/Transport/Norberttruck.xml -76.13942 51.68883 255.37 109.2
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -76.13942 51.68869 255.71 289.44
-OBJECT_SHARED Models/lib/cars6.ac -76.13822 51.68851 257.38 170.86
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -76.14104 51.68794 254.41 -71.57
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -76.14298 51.68832 252.54 288.82
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.13964 51.68804 254.89 16.44
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.13815 51.68887 253.39 345.85
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.13784 51.68882 253.75 350.54
+OBJECT_SHARED Models/lib/belt_loader.ac -76.13967 51.68858 253.44 -11.31
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -76.14265 51.68760 254.12 338.63
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -76.14214 51.68764 254.45 300.96
+OBJECT_SHARED Models/Airport/cargobox.xml -76.14207 51.68764 254.45 0
+OBJECT_SHARED Models/Airport/cargoip.xml -76.14209 51.68765 254.25 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.13961 51.68851 253.72 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.13961 51.68847 253.72 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.14119 51.68802 254.09 63.43
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.13974 51.68806 254.60 218.03
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -76.13901 51.68809 254.95 171.12
+OBJECT_SHARED Models/Airport/cargobox.xml -76.13944 51.68899 252.63 0
+OBJECT_SHARED Models/lib/container6-HD.ac -76.13963 51.68896 252.55 0
+OBJECT_SHARED Models/lib/trailer-fedex.ac -76.13928 51.68872 253.38 110.62
+OBJECT_SHARED Models/Transport/Norberttruck.xml -76.13929 51.68887 252.91 111.58
+OBJECT_SHARED Models/Transport/Norberttruck.xml -76.13942 51.68883 253.10 109.2
+OBJECT_SHARED Models/lib/trailer-fedex.ac -76.13942 51.68869 253.34 109.44
+OBJECT_SHARED Models/lib/cars6.ac -76.13822 51.68851 254.33 170.86
 # END dsf2stg

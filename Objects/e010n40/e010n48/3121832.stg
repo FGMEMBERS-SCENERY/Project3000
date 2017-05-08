@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.00181 48.74914 640.56 107.27
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.00174 48.74927 640.56 110.56
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.00763 48.74325 635.20 282.13
-OBJECT_SHARED Models/Transport/hatchback_red.ac 10.00669 48.74208 635.09 18.15
-OBJECT_SHARED Models/Transport/hatchback_red.ac 10.00691 48.74216 635.01 19.98
-OBJECT_SHARED Models/Transport/hatchback_red.ac 10.00496 48.74299 635.50 290.73
-OBJECT_SHARED Models/Transport/hatchback_red.ac 10.00509 48.74286 635.45 286.93
-OBJECT_SHARED Models/lib/cars6.ac 10.00129 48.74987 640.62 288.08
-OBJECT_SHARED Models/lib/MedHangar.ac 10.00493 48.74367 635.64 200.33
-OBJECT_SHARED Models/lib/admin31x12.ac 10.00154 48.74972 640.50 199.27
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 10.00181 48.74914 641.08 107.27
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 10.00174 48.74927 641.17 110.56
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 10.00763 48.74325 635.22 282.13
+OBJECT_SHARED Models/Transport/van_silver.ac 10.00669 48.74208 635.20 18.15
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.00691 48.74216 635.03 19.98
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 10.00496 48.74299 635.52 290.73
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 10.00509 48.74286 635.49 286.93
+OBJECT_SHARED Models/lib/cars6.ac 10.00129 48.74987 641.35 288.08
+OBJECT_SHARED Models/lib/MedHangar.ac 10.00493 48.74367 635.53 200.33
+OBJECT_SHARED Models/lib/admin31x12.ac 10.00154 48.74972 641.25 199.27
 # END dsf2stg

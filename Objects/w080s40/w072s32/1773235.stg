@@ -1,5 +1,6 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -71.07119 -31.22417 889.08 158.04
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.07122 -31.22423 885.23 160.5
+OBJECT_SHARED Models/lib/cars7.ac -71.07119 -31.22417 885.23 158.04
 # END dsf2stg

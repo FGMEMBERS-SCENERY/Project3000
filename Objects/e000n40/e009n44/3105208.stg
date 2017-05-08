@@ -1,26 +1,26 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01484 44.95248 126.94 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01464 44.95347 126.05 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01498 44.95299 126.19 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01911 44.94884 127.68 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01946 44.94856 128.04 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01530 44.95714 119.30 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01556 44.95172 127.26 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01551 44.95181 127.12 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01525 44.95185 127.36 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01514 44.95206 126.90 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01504 44.95222 126.96 0
-OBJECT_SHARED Models/lib/MedHangar.ac 9.01427 44.95429 125.12 197.92
-OBJECT_SHARED Models/lib/LongRow.ac 9.01377 44.95461 125.48 106.55
-OBJECT_SHARED Models/lib/hangar81x16.ac 9.01556 44.95054 127.78 110.56
-OBJECT_SHARED Models/lib/admin31x12.ac 9.01558 44.95152 127.30 19.89
-OBJECT_SHARED Models/lib/SmHangar.ac 9.01568 44.95044 127.88 202.31
-OBJECT_SHARED Models/lib/fuel-truck.xml 9.01449 44.95436 124.61 107.5
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.01381 44.95543 123.72 196.7
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.01364 44.95540 124.12 14.97
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.01385 44.95491 124.72 106.63
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.01380 44.95503 124.62 200.95
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.01580 44.95117 127.17 109.47
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01484 44.95248 126.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01464 44.95347 126.94 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01498 44.95299 127.11 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01911 44.94884 127.38 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01946 44.94856 127.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01530 44.95714 119.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01556 44.95172 126.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01551 44.95181 126.39 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01525 44.95185 126.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01514 44.95206 126.50 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.01504 44.95222 126.52 0
+OBJECT_SHARED Models/lib/MedHangar.ac 9.01427 44.95429 124.83 197.92
+OBJECT_SHARED Models/lib/LongRow.ac 9.01377 44.95461 125.10 106.55
+OBJECT_SHARED Models/lib/hangar81x16.ac 9.01556 44.95054 127.69 110.56
+OBJECT_SHARED Models/lib/admin31x12.ac 9.01558 44.95152 126.61 19.89
+OBJECT_SHARED Models/lib/SmHangar.ac 9.01568 44.95044 127.65 202.31
+OBJECT_SHARED Models/lib/fuel-truck.xml 9.01449 44.95436 124.42 107.5
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 9.01381 44.95543 123.81 196.7
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 9.01364 44.95540 124.12 14.97
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 9.01385 44.95491 124.54 106.63
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.01380 44.95503 124.46 200.95
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 9.01580 44.95117 126.67 109.47
 # END dsf2stg

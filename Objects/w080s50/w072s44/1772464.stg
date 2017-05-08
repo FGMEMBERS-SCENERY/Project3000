@@ -1,17 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fuel-truck.xml -71.85514 -43.18836 347.65 112.33
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.85110 -43.18891 345.93 275.44
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.85489 -43.18830 347.59 18.43
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.85340 -43.18856 346.68 98.62
-OBJECT_SHARED Models/lib/cars7.ac -71.85574 -43.18820 348.16 76.27
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.86006 -43.18588 361.36 0
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.85921 -43.18465 351.45 278
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.85808 -43.18691 344.42 71
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.85731 -43.18552 347.87 245
-OBJECT_SHARED Models/lib/SmHangar.ac -71.85424 -43.18847 347.12 257.08
-OBJECT_SHARED Models/lib/SmHangar.ac -71.85191 -43.18882 346.17 256.51
-OBJECT_SHARED Models/lib/SmHangar.ac -71.85218 -43.18878 346.25 256.66
-OBJECT_SHARED Models/lib/SmHangar.ac -71.85245 -43.18873 346.33 256.49
+OBJECT_SHARED Models/lib/fuel-truck.xml -71.85514 -43.18836 347.86 112.33
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.85110 -43.18891 346.62 275.44
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.85489 -43.18830 347.77 18.43
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -71.85340 -43.18856 347.39 98.62
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.85563 -43.18822 347.94 76.27
+OBJECT_SHARED Models/lib/cars7.ac -71.85574 -43.18820 347.96 76.27
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.86006 -43.18588 340.00 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.85921 -43.18465 340.00 8
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.85808 -43.18691 340.00 161
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -71.85731 -43.18552 340.00 335
+OBJECT_SHARED Models/lib/SmHangar.ac -71.85424 -43.18847 347.61 257.08
+OBJECT_SHARED Models/lib/SmHangar.ac -71.85191 -43.18882 346.92 256.51
+OBJECT_SHARED Models/lib/SmHangar.ac -71.85218 -43.18878 347.04 256.66
+OBJECT_SHARED Models/lib/SmHangar.ac -71.85245 -43.18873 347.08 256.49
 # END dsf2stg

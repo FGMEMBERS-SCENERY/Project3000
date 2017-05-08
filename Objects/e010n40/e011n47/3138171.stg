@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cone.ac 11.76938 47.90581 641.29 93.11
-OBJECT_SHARED Models/lib/cone.ac 11.76958 47.90582 641.23 225.69
-OBJECT_SHARED Models/lib/cone.ac 11.76968 47.90487 641.99 235.62
-OBJECT_SHARED Models/lib/cone.ac 11.76948 47.90486 642.04 251.57
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.76906 47.90798 639.99 192
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.76901 47.90797 640.01 199.81
+OBJECT_SHARED Models/lib/cone.ac 11.76938 47.90581 -0.04 93.11
+OBJECT_SHARED Models/lib/cone.ac 11.76958 47.90582 -0.04 225.69
+OBJECT_SHARED Models/lib/cone.ac 11.76968 47.90487 -0.03 235.62
+OBJECT_SHARED Models/lib/cone.ac 11.76948 47.90486 -0.03 251.57
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 11.76906 47.90798 -0.05 192
+OBJECT_SHARED Models/Transport/hatchback_green.ac 11.76901 47.90797 -0.05 199.81
 # END dsf2stg

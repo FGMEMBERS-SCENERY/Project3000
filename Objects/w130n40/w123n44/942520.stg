@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office65x50.ac -122.99267 44.90502 64.60 207.52
+OBJECT_SHARED Models/lib/office112x50.ac -122.99440 44.90691 63.76 208.35
+OBJECT_SHARED Models/lib/office65x50.ac -122.99698 44.91191 61.16 204.08
+OBJECT_SHARED Models/lib/MedHangar.ac -122.99839 44.91219 60.99 40.34
+OBJECT_SHARED Models/lib/LgMaint.ac -122.99956 44.91278 60.74 40.3
+OBJECT_SHARED Models/lib/MedHangar.ac -122.99545 44.90752 63.40 116.16
+OBJECT_SHARED Models/lib/MedHangar.ac -122.99931 44.90175 65.00 270.336
+# END dsf2stg

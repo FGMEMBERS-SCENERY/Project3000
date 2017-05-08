@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -73.87640 41.62454 47.79 123.88
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88298 41.62423 45.41 -17.22
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88282 41.62451 45.79 -19.08
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88270 41.62459 45.92 -83.4
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88234 41.62463 46.15 -84.59
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.88334 41.62425 45.20 39.32
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.88295 41.62449 45.65 39.32
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.88259 41.62471 46.05 39.32
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88287 41.62441 45.64 0
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88256 41.62459 45.98 0
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.88303 41.62456 45.73 219.32
+OBJECT_SHARED Models/lib/lamp10m.xml -73.87640 41.62454 47.27 123.88
+OBJECT_SHARED Models/lib/lamp10m.xml -73.88298 41.62423 45.40 -17.22
+OBJECT_SHARED Models/lib/lamp10m.xml -73.88282 41.62451 45.73 -19.08
+OBJECT_SHARED Models/lib/lamp10m.xml -73.88270 41.62459 45.87 -83.4
+OBJECT_SHARED Models/lib/lamp10m.xml -73.88234 41.62463 46.14 -84.59
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.88334 41.62425 45.18 39.32
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.88295 41.62449 45.58 39.32
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.88259 41.62471 45.99 39.32
+OBJECT_SHARED Models/lib/lamp10m.xml -73.88287 41.62441 45.60 0
+OBJECT_SHARED Models/lib/lamp10m.xml -73.88256 41.62459 45.94 0
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.88303 41.62456 45.64 219.32
 # END dsf2stg

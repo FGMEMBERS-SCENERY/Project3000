@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -3.19816 47.32482 52.90 59.6542
+OBJECT_SHARED Models/lib/garden-shed.ac -3.19810 47.32491 52.83 149.827
+OBJECT_SHARED Models/lib/industrial13x24.ac -3.19824 47.32474 52.96 240.327
+OBJECT_SHARED Models/lib/MedHangar.ac -3.19912 47.32422 53.05 237.414
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.19858 47.32427 53.16 236.163
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.19855 47.32431 53.17 58.7805
+OBJECT_SHARED Models/Transport/van_silver.ac -3.19732 47.32538 52.72 329.47
+OBJECT_SHARED Models/Transport/van_silver.ac -3.19785 47.32507 52.73 326.6
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -3.19718 47.32530 52.86 323.3
+OBJECT_SHARED Models/Transport/hatchback_black.ac -3.19759 47.32536 52.40 151.16
+OBJECT_SHARED Models/Transport/hatchback_red.ac -3.19758 47.32528 52.53 144.32
+OBJECT_SHARED Models/Transport/hatchback_green.ac -3.19755 47.32527 52.62 148.78
+OBJECT_SHARED Models/Transport/hatchback_red.ac -3.19748 47.32524 52.92 329.7
+OBJECT_SHARED Models/Transport/hatchback_black.ac -3.19744 47.32523 53.05 327.41
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -3.19740 47.32521 53.19 325.06
+OBJECT_SHARED Models/Transport/hatchback_black.ac -3.19741 47.32541 52.62 328.86
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -3.19744 47.32542 52.59 326.08
+OBJECT_SHARED Models/Transport/hatchback_green.ac -3.19747 47.32544 52.55 327.31
+OBJECT_SHARED Models/Transport/van_silver.ac -3.19750 47.32545 52.51 326.12
+# END dsf2stg

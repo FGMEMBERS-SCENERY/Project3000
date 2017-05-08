@@ -1,30 +1,31 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml 0.67601 51.91109 67.58 -86.3569
-OBJECT_SHARED Models/lib/lamp10m.xml 0.67598 51.91100 67.57 125.628
-OBJECT_SHARED Models/lib/lamp10m.xml 0.67596 51.91100 67.57 2.89859
-OBJECT_SHARED Models/lib/lamp10m.xml 0.67552 51.91118 67.52 265.507
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 0.67592 51.91103 67.56 145.252
-OBJECT_SHARED Models/lib/fuel-truck.xml 0.67665 51.91139 67.65 150.11
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.68034 51.91297 68.34 207.19
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 0.67597 51.91107 67.58 323.775
-OBJECT_SHARED Models/lib/cargobox2x3m.ac 0.67548 51.91142 67.58 83.59
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.68014 51.91291 68.26 207.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67994 51.91285 68.18 207.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67957 51.91271 68.07 207.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67621 51.91160 67.63 196.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67603 51.91156 67.63 196.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67585 51.91152 67.62 196.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67566 51.91148 67.61 196.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67593 51.91131 67.62 210.31
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67576 51.91127 67.59 210.31
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67543 51.91138 67.57 277.89
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67552 51.91126 67.55 295.88
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67540 51.91150 67.61 251.92
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 0.67900 51.91251 67.91 207.19
-OBJECT_SHARED Models/lib/shed8x10.ac 0.67654 51.91139 67.65 55.12
-OBJECT_SHARED Models/lib/hangar81x16.ac 0.68130 51.91282 69.04 209.54
-OBJECT_SHARED Models/lib/cars2.ac 0.67607 51.91101 67.59 325.89
-OBJECT_SHARED Models/lib/cars6.ac 0.67566 51.91112 67.51 322.02
+OBJECT_SHARED Models/lib/lamp10m.xml 0.67601 51.91109 -0.00 -86.3569
+OBJECT_SHARED Models/lib/lamp10m.xml 0.67598 51.91100 0.00 125.628
+OBJECT_SHARED Models/lib/lamp10m.xml 0.67596 51.91100 0.00 2.89859
+OBJECT_SHARED Models/lib/lamp10m.xml 0.67552 51.91118 0.00 265.507
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 0.67592 51.91103 0.00 145.252
+OBJECT_SHARED Models/lib/fuel-truck.xml 0.67665 51.91139 0.00 150.11
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 0.68034 51.91297 0.00 207.19
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 0.67597 51.91107 -0.00 323.775
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 0.67548 51.91142 0.00 83.59
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 0.68014 51.91291 0.00 207.19
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 0.67994 51.91285 0.00 207.19
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 0.67957 51.91271 -0.00 207.19
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 0.67621 51.91160 0.00 196.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 0.67603 51.91156 -0.00 196.09
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 0.67585 51.91152 -0.00 196.09
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 0.67566 51.91148 0.00 196.09
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 0.67593 51.91131 -0.00 210.31
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 0.67576 51.91127 0.00 210.31
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 0.67543 51.91138 0.00 277.89
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 0.67552 51.91126 0.00 295.88
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 0.67540 51.91150 0.00 251.92
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 0.67900 51.91251 0.00 207.19
+OBJECT_SHARED Models/lib/shed8x10.ac 0.67654 51.91139 0.00 55.12
+OBJECT_SHARED Models/lib/hangar81x16.ac 0.68130 51.91282 -0.01 209.54
+OBJECT_SHARED Models/lib/2_spaces_dual.ac 0.67587 51.91088 0.00 47.82
+OBJECT_SHARED Models/lib/cars2.ac 0.67607 51.91101 0.00 325.89
+OBJECT_SHARED Models/lib/cars6.ac 0.67566 51.91112 0.00 322.02
 # END dsf2stg

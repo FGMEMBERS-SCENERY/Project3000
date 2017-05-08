@@ -1,17 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.35108 -38.44829 915.93 291.37
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.36295 -38.44821 933.70 223.87
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.35815 -38.44814 920.00 129.81
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.35907 -38.44787 921.14 359.51
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -71.35108 -38.44829 915.61 291.37
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.36295 -38.44821 924.84 223.87
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.35815 -38.44814 920.86 129.81
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -71.35907 -38.44787 921.90 359.51
 OBJECT_SHARED Models/lib/farm19x12.ac -71.37042 -38.44569 930.49 57
 OBJECT_SHARED Models/lib/farm19x12.ac -71.37058 -38.44558 930.57 57
 OBJECT_SHARED Models/lib/farm19x12.ac -71.37074 -38.44547 930.61 57
 OBJECT_SHARED Models/lib/farm19x12.ac -71.37089 -38.44536 930.69 57
 OBJECT_SHARED Models/lib/farm19x12.ac -71.37106 -38.44526 932.31 57
-OBJECT_SHARED Models/lib/cars7.ac -71.35854 -38.44790 920.55 270
-OBJECT_SHARED Models/lib/cars7.ac -71.35929 -38.44790 921.34 270
+OBJECT_SHARED Models/lib/cars7.ac -71.35854 -38.44790 921.38 270
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.35920 -38.44789 921.99 270
+OBJECT_SHARED Models/lib/cars7.ac -71.35929 -38.44790 922.08 270
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.35865 -38.44789 921.46 270
 OBJECT_SHARED Models/lib/deciduous-tree.xml -71.37010 -38.44574 930.37 327
 OBJECT_SHARED Models/lib/deciduous-tree.xml -71.36999 -38.44582 930.33 327
 OBJECT_SHARED Models/lib/deciduous-tree.xml -71.36985 -38.44591 930.25 327
@@ -27,5 +29,5 @@ OBJECT_SHARED Models/lib/deciduous-tree.xml -71.36987 -38.44621 930.29 327
 OBJECT_SHARED Models/Trees/billboard-tree.xml -71.36925 -38.44568 930.05 327
 OBJECT_SHARED Models/Trees/billboard-tree.xml -71.36936 -38.44580 930.09 327
 OBJECT_SHARED Models/Trees/billboard-tree.xml -71.36946 -38.44591 930.13 327
-OBJECT_SHARED Models/lib/SmHangar.ac -71.35890 -38.44790 920.94 90
+OBJECT_SHARED Models/lib/SmHangar.ac -71.35890 -38.44790 921.73 90
 # END dsf2stg

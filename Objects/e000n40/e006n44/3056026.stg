@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.60945 44.38634 1125.91 268.509
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 6.61010 44.38644 1126.06 90
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 6.61010 44.38647 1126.29 88.4088
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.60847 44.38645 1126.31 269.334
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 6.60929 44.38664 1126.60 357.795
-OBJECT_SHARED Models/lib/MedHangar.ac 6.60876 44.38637 1126.12 268.369
-OBJECT_SHARED Models/Transport/hatchback_red.ac 6.60858 44.38604 1124.49 90
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 6.60858 44.38601 1124.49 88.4926
-OBJECT_SHARED Models/lib/SmHangar.ac 6.60997 44.38633 1125.86 268.091
-OBJECT_SHARED Models/lib/SmHangar.ac 6.60980 44.38634 1125.88 268.091
-OBJECT_SHARED Models/lib/SmHangar.ac 6.60965 44.38634 1125.89 268.091
-OBJECT_SHARED Models/lib/SmHangar.ac 6.60911 44.38634 1125.92 268.091
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.60945 44.38634 1126.25 268.509
+OBJECT_SHARED Models/Transport/hatchback_red.ac 6.61010 44.38644 1126.46 90
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 6.61010 44.38647 1126.68 88.4088
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.60847 44.38645 1126.59 269.334
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 6.60929 44.38664 1126.93 357.795
+OBJECT_SHARED Models/lib/MedHangar.ac 6.60876 44.38637 1126.42 268.369
+OBJECT_SHARED Models/Transport/hatchback_black.ac 6.60858 44.38604 1122.99 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 6.60858 44.38601 1122.99 88.4926
+OBJECT_SHARED Models/lib/SmHangar.ac 6.60997 44.38633 1126.24 268.091
+OBJECT_SHARED Models/lib/SmHangar.ac 6.60980 44.38634 1126.24 268.091
+OBJECT_SHARED Models/lib/SmHangar.ac 6.60965 44.38634 1126.24 268.091
+OBJECT_SHARED Models/lib/SmHangar.ac 6.60911 44.38634 1126.25 268.091
 # END dsf2stg

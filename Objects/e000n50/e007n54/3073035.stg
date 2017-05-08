@@ -2,13 +2,13 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/FireStationLg.ac 7.91549 54.18732 1.84 304.22
-OBJECT_SHARED Models/lib/admin31x12.ac 7.91430 54.18690 1.56 124.93
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.91499 54.18708 1.64 35.41
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.91482 54.18694 1.55 305.54
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.91487 54.18696 1.58 305.54
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.91502 54.18702 1.61 36.03
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.91493 54.18698 1.59 305.54
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.91477 54.18691 1.55 305.54
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91464 54.18660 1.55 37.97
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 7.91491 54.18671 1.54 37.97
+OBJECT_SHARED Models/lib/admin31x12.ac 7.91430 54.18690 1.61 124.93
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 7.91499 54.18708 1.72 125.41
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.91482 54.18694 1.68 305.54
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.91487 54.18696 1.69 305.54
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.91502 54.18702 1.72 36.03
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.91493 54.18698 1.70 305.54
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.91477 54.18691 1.67 305.54
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 7.91464 54.18660 1.70 37.97
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 7.91491 54.18671 1.71 37.97
 # END dsf2stg

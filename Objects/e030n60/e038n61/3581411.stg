@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 38.91601 61.50799 122.19 315
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 38.91529 61.50787 122.30 140.19
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 38.91462 61.50776 122.41 241.63
+OBJECT_SHARED Models/lib/garages18x9.ac 38.91272 61.50714 122.67 221.28
+OBJECT_SHARED Models/lib/fuel-truck.xml 38.91194 61.50721 122.82 50.19
+OBJECT_SHARED Models/lib/HorizTanks2.ac 38.91088 61.50645 122.93 133.3
+OBJECT_SHARED Models/lib/HorizTanks2.ac 38.91115 61.50659 122.89 136.77
+OBJECT_SHARED Models/lib/HorizTanks2.ac 38.91125 61.50664 122.87 138.41
+OBJECT_SHARED Models/Transport/hatchback_black.ac 38.91025 61.50725 123.12 332.53
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 38.91185 61.50719 122.83 219.81
+OBJECT_SHARED Models/Transport/hatchback_green.ac 38.91199 61.50730 122.81 8.62
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 38.91192 61.50731 122.83 338.04
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 38.91310 61.50738 122.63 320.91
+OBJECT_SHARED Models/Transport/hatchback_black.ac 38.91312 61.50735 122.62 330.59
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 38.91321 61.50733 122.61 147.72
+OBJECT_SHARED Models/Transport/van_silver.ac 38.91325 61.50730 122.59 136.27
+OBJECT_SHARED Models/Transport/van_red.ac 38.91332 61.50729 122.59 142
+OBJECT_SHARED Models/lib/shed8x10.ac 38.91055 61.50740 123.07 60.42
+# END dsf2stg

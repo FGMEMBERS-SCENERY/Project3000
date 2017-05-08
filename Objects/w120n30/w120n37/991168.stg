@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -119.91022 37.11693 143.67 41.99
+OBJECT_SHARED Models/lib/2container-office.ac -119.91264 37.11196 143.34 3.53
+OBJECT_SHARED Models/lib/2container-office.ac -119.91497 37.11483 144.84 270
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90927 37.11483 142.63 321.19
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90928 37.11481 142.63 143.88
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90901 37.11439 142.82 332.35
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90838 37.11733 142.70 0
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90838 37.11735 142.70 0
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90840 37.11735 142.70 0
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90840 37.11733 142.70 0
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90848 37.11732 142.70 0
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90848 37.11734 142.70 0
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90850 37.11735 143.15 0
+OBJECT_SHARED Models/Airport/cargobox.xml -119.90850 37.11733 143.15 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -119.90838 37.11721 142.59 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -119.90844 37.11722 142.59 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -119.90848 37.11722 142.59 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -119.90852 37.11722 143.07 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -119.90855 37.11722 143.07 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -119.90858 37.11722 143.07 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -119.90861 37.11722 143.07 0
+OBJECT_SHARED Models/lib/container6-HD.ac -119.90862 37.11729 143.15 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -119.91005 37.11698 143.73 142.86
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.91004 37.11971 146.40 258.87
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.91159 37.11976 147.75 269.81
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.91157 37.12019 148.07 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.91168 37.12022 148.07 90
+OBJECT_SHARED Models/Transport/van_silver.ac -119.91095 37.12002 147.34 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -119.91092 37.12002 147.34 354.33
+OBJECT_SHARED Models/Transport/van_silver.ac -119.91145 37.11991 147.24 91.82
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -119.91589 37.11809 145.87 299.46
+OBJECT_SHARED Models/Transport/hatchback_red.ac -119.91496 37.11504 145.02 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -119.90886 37.11458 142.69 85.56
+OBJECT_SHARED Models/lib/garage-small-white.ac -119.90807 37.11546 141.91 145.86
+OBJECT_SHARED Models/lib/2container-office.ac -119.91598 37.11816 145.90 140.33
+OBJECT_SHARED Models/lib/garage-small-white.ac -119.90921 37.11481 142.63 233.53
+OBJECT_SHARED Models/lib/garage-small-white.ac -119.90908 37.11438 142.82 60.51
+OBJECT_SHARED Models/lib/farm19x12.ac -119.90910 37.11472 142.65 224.89
+OBJECT_SHARED Models/lib/garden-shed.ac -119.91120 37.11994 147.24 359.84
+OBJECT_SHARED Models/lib/dGreenhse.ac -119.91098 37.11993 147.24 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -119.91098 37.11997 147.34 90
+OBJECT_SHARED Models/lib/garden-shed.ac -119.91532 37.11487 144.93 0
+OBJECT_SHARED Models/lib/dGreenhse.ac -119.91533 37.11490 144.93 90
+OBJECT_SHARED Models/lib/SmHangar.ac -119.90984 37.11690 143.67 54.85
+OBJECT_SHARED Models/lib/SmHangar.ac -119.90999 37.11698 143.73 54.81
+OBJECT_SHARED Models/lib/2container-office.ac -119.91394 37.11296 143.39 87.98
+# END dsf2stg

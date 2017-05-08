@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -115.72186 43.13185 -0.66 0
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -115.72388 43.12736 -0.56 152.884
-OBJECT_SHARED Models/lib/SmHangar.ac -115.72523 43.12749 -0.56 246.047
-OBJECT_SHARED Models/lib/SmHangar.ac -115.72488 43.12736 -0.55 246.047
-OBJECT_SHARED Models/lib/hangar81x16.ac -115.72554 43.12756 -0.55 155.436
-OBJECT_SHARED Models/lib/MedHangar.ac -115.72529 43.12810 -0.57 65.1156
-OBJECT_SHARED Models/lib/MedHangar.ac -115.72605 43.12836 -0.57 65.1156
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -115.72750 43.12806 -0.55 155.81
-OBJECT_SHARED Models/lib/LgMaint.ac -115.72866 43.13410 -0.65 90
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -115.72186 43.13185 962.40 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -115.72388 43.12736 961.27 152.884
+OBJECT_SHARED Models/lib/SmHangar.ac -115.72523 43.12749 961.34 246.047
+OBJECT_SHARED Models/lib/SmHangar.ac -115.72488 43.12736 961.32 246.047
+OBJECT_SHARED Models/lib/hangar81x16.ac -115.72554 43.12756 961.42 155.436
+OBJECT_SHARED Models/lib/MedHangar.ac -115.72529 43.12810 961.46 65.1156
+OBJECT_SHARED Models/lib/MedHangar.ac -115.72605 43.12836 961.65 65.1156
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -115.72750 43.12806 961.69 245.81
+OBJECT_SHARED Models/lib/LgMaint.ac -115.72866 43.13410 964.43 90
 # END dsf2stg

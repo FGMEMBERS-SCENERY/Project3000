@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -119.22408 38.25979 1971.36 179.54
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -119.22355 38.25896 1971.62 270.12
+OBJECT_SHARED Models/lib/cars6.ac -119.22379 38.25879 1971.67 0.050003
+OBJECT_SHARED Models/lib/FireStationLg.ac -119.22366 38.25857 1971.73 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -119.22343 38.25967 1972.32 269.81
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -119.22355 38.25961 1971.43 270.34
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -119.22355 38.25974 1971.39 270.18
+OBJECT_SHARED Models/lib/citation.ac -119.22372 38.25905 1971.59 0
+OBJECT_SHARED Models/lib/SmHangar.ac -119.22392 38.25950 1971.46 180
+# END dsf2stg

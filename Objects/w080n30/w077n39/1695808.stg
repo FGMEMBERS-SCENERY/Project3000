@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -76.82740 39.07676 42.71 66.32
+OBJECT_SHARED Models/lib/coal_pile.ac -76.82738 39.07732 42.65 90
+OBJECT_SHARED Models/lib/coal_pile.ac -76.82735 39.07735 42.63 270
+OBJECT_SHARED Models/lib/coal_pile.ac -76.82730 39.07737 42.79 90
+OBJECT_SHARED Models/Aircraft/Cessna172.xml -76.82703 39.07732 43.35 250
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -76.82698 39.07742 43.23 250
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -76.82729 39.07684 42.85 160
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -76.82753 39.07693 42.54 130
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -76.82847 39.07761 39.42 45
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.82720 39.07713 43.01 333.85
+OBJECT_SHARED Models/Transport/hatchback_black.ac -76.82713 39.07657 42.20 56
+OBJECT_SHARED Models/Transport/van_silver.ac -76.82707 39.07665 42.42 56
+OBJECT_SHARED Models/Transport/hatchback_black.ac -76.82705 39.07667 42.27 56
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.82692 39.07645 42.17 236
+OBJECT_SHARED Models/lib/SmHangar.ac -76.82766 39.07558 40.97 317.88
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.82657 39.07680 43.26 54
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.82678 39.07694 42.53 54
+OBJECT_SHARED Models/lib/lamp10m.xml -76.82687 39.07682 42.33 231
+OBJECT_SHARED Models/lib/lamp10m.xml -76.82605 39.07773 45.20 236
+OBJECT_SHARED Models/lib/lamp10m.xml -76.82578 39.07763 48.65 236
+OBJECT_SHARED Models/lib/lamp10m.xml -76.82662 39.07673 43.30 236
+OBJECT_SHARED Models/lib/lamp10m.xml -76.82713 39.07663 42.20 146
+OBJECT_SHARED Models/lib/lamp10m.xml -76.82723 39.07679 42.79 -24
+OBJECT_SHARED Models/lib/lamp10m.xml -76.82744 39.07651 42.55 -24
+OBJECT_SHARED Models/lib/SmHangar.ac -76.82885 39.07733 38.17 159.44
+OBJECT_SHARED Models/lib/SmHangar.ac -76.82938 39.07634 37.25 156.42
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.82757 39.07663 42.36 356.49
+OBJECT_SHARED Models/Transport/van_red.ac -76.82724 39.07596 41.26 317.28
+# END dsf2stg

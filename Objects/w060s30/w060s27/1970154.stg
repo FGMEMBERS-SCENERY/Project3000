@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cone.ac -59.34131 -26.31188 83.80 0
-OBJECT_SHARED Models/lib/cone.ac -59.34123 -26.31193 83.80 0
-OBJECT_SHARED Models/lib/cone.ac -59.34139 -26.31181 83.76 180
-OBJECT_SHARED Models/lib/cone.ac -59.34208 -26.31277 83.93 0
-OBJECT_SHARED Models/lib/cone.ac -59.34221 -26.31274 83.89 0
-OBJECT_SHARED Models/lib/cone.ac -59.34227 -26.31281 83.75 0
-OBJECT_SHARED Models/Aircraft/B1900_services.xml -59.34217 -26.31285 83.79 90.57
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -59.34127 -26.31184 83.77 125.13
+OBJECT_SHARED Models/lib/cone.ac -59.34131 -26.31188 82.10 0
+OBJECT_SHARED Models/lib/cone.ac -59.34123 -26.31193 82.15 0
+OBJECT_SHARED Models/lib/cone.ac -59.34139 -26.31181 82.03 180
+OBJECT_SHARED Models/lib/cone.ac -59.34208 -26.31277 81.84 0
+OBJECT_SHARED Models/lib/cone.ac -59.34221 -26.31274 81.80 0
+OBJECT_SHARED Models/lib/cone.ac -59.34227 -26.31281 81.78 0
+OBJECT_SHARED Models/Aircraft/B1900_services.xml -59.34217 -26.31285 81.82 90.57
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -59.34127 -26.31184 82.09 125.13
 # END dsf2stg

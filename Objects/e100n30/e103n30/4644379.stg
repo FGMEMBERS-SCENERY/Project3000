@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac 103.84822 30.42320 -0.93 343.39
-OBJECT_SHARED Models/lib/MedHangar.ac 103.84805 30.42269 -0.93 343.74
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 103.84774 30.42209 -0.93 73.06
-OBJECT_SHARED Models/lib/LongRow.ac 103.84819 30.42488 -0.92 253.33
-OBJECT_SHARED Models/lib/LongRow.ac 103.84824 30.42504 -0.92 73.35
-OBJECT_SHARED Models/lib/LongRow.ac 103.84772 30.42355 -0.93 73.35
+OBJECT_SHARED Models/lib/MedHangar.ac 103.84822 30.42320 461.40 343.39
+OBJECT_SHARED Models/lib/MedHangar.ac 103.84805 30.42269 461.34 343.74
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 103.84774 30.42209 461.27 73.06
+OBJECT_SHARED Models/lib/LongRow.ac 103.84819 30.42488 461.88 253.33
+OBJECT_SHARED Models/lib/LongRow.ac 103.84824 30.42504 461.95 73.35
+OBJECT_SHARED Models/lib/LongRow.ac 103.84772 30.42355 461.44 73.35
 # END dsf2stg

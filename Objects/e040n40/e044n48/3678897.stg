@@ -1,13 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 44.35542 48.79021 141.51 19.98
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 44.35375 48.78979 140.78 -71.56
-OBJECT_SHARED Models/Aircraft/320austrian.xml 44.35653 48.78893 141.98 13.06
-OBJECT_SHARED Models/Aircraft/320volare.xml 44.35064 48.79060 138.70 18.76
-OBJECT_SHARED Models/Aircraft/320volare.xml 44.35574 48.78858 141.60 8.27
-OBJECT_SHARED Models/lib/LongRow.ac 44.35966 48.79320 141.45 20.7
-OBJECT_SHARED Models/lib/FireStationLg.ac 44.34355 48.78568 134.90 205
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 44.35607 48.79052 141.85 200.03
-OBJECT_SHARED Models/lib/hangar81x16.ac 44.35969 48.79236 141.27 112.28
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 44.35542 48.79021 140.74 19.98
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 44.35375 48.78979 140.25 -71.56
+OBJECT_SHARED Models/Aircraft/320austrian.xml 44.35653 48.78893 141.45 13.06
+OBJECT_SHARED Models/Aircraft/320volare.xml 44.35064 48.79060 138.71 18.76
+OBJECT_SHARED Models/Aircraft/320volare.xml 44.35574 48.78858 141.24 8.27
+OBJECT_SHARED Models/lib/admin-with-cars.ac 44.35463 48.79186 139.94 110.27
+OBJECT_SHARED Models/lib/LongRow.ac 44.35966 48.79320 140.36 20.7
+OBJECT_SHARED Models/lib/FireStationLg.ac 44.34355 48.78568 135.28 205
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 44.35607 48.79052 140.84 200.03
+OBJECT_SHARED Models/lib/hangar81x16.ac 44.35969 48.79236 140.81 112.28
 # END dsf2stg

@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -120.24700 36.33851 100.05 0.179993
+OBJECT_SHARED Models/lib/lamp10m.xml -120.24697 36.33895 99.95 90.73
+OBJECT_SHARED Models/lib/lamp10m.xml -120.24682 36.34145 99.39 45.37
+OBJECT_SHARED Models/lib/lamp10m.xml -120.24665 36.34001 99.74 -27.85
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -120.24692 36.33916 99.92 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -120.24667 36.34079 99.57 266.67
+OBJECT_SHARED Models/Transport/hatchback_black.ac -120.24671 36.34087 99.55 274.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac -120.24628 36.33891 99.08 270
+OBJECT_SHARED Models/lib/garden-shed.ac -120.24598 36.33905 99.02 179.05
+OBJECT_SHARED Models/lib/dGreenhse.ac -120.24592 36.33904 99.05 90.43
+OBJECT_SHARED Models/lib/trailer-fedex.ac -120.24678 36.34093 99.55 4.28
+OBJECT_SHARED Models/lib/trailer-fedex.ac -120.24679 36.34097 99.52 0
+OBJECT_SHARED Models/Misc/6barrels.ac -120.24678 36.34058 99.62 164.31
+OBJECT_SHARED Models/Misc/6barrels.ac -120.24680 36.34057 99.62 304.29
+OBJECT_SHARED Models/Misc/6barrels.ac -120.24678 36.34035 99.68 5.10001
+OBJECT_SHARED Models/lib/coal_pile.ac -120.24677 36.34053 99.65 182.13
+OBJECT_SHARED Models/lib/coal_pile.ac -120.24680 36.34039 99.67 2.15
+OBJECT_SHARED Models/lib/coal_pile.ac -120.24677 36.34046 99.65 182.13
+OBJECT_SHARED Models/lib/coal_pile.ac -120.24680 36.34046 99.65 2.15
+OBJECT_SHARED Models/lib/coal_pile.ac -120.24677 36.34039 99.67 182.13
+OBJECT_SHARED Models/lib/coal_pile.ac -120.24680 36.34053 99.65 2.15
+OBJECT_SHARED Models/lib/stack_of_cones.ac -120.24698 36.33895 99.97 267.8
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -120.24694 36.34070 99.59 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -120.24694 36.34067 99.59 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -120.24695 36.34061 99.62 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -120.24694 36.34064 99.62 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.24692 36.34025 99.70 359.88
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.24698 36.34025 99.70 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -120.24698 36.34110 99.50 180.08
+OBJECT_SHARED Models/lib/SmHangar.ac -120.24709 36.33860 100.03 90.01
+OBJECT_SHARED Models/lib/SmHangar.ac -120.24710 36.33832 100.09 89.85
+# END dsf2stg
