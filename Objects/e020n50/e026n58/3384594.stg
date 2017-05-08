@@ -1,19 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 26.69121 58.30988 63.98 92
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 26.68889 58.30972 65.24 2
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 26.68785 58.30971 65.52 2
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 26.68463 58.30898 66.29 270
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 26.69024 58.31006 64.46 0
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 26.69104 58.30992 64.09 182
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 26.68911 58.31005 65.11 0
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 26.69161 58.31001 63.73 2
-OBJECT_SHARED Models/lib/hangar81x16.ac 26.68840 58.30985 65.33 92
-OBJECT_SHARED Models/lib/transformer3x3.ac 26.66347 58.30746 71.43 92
-OBJECT_SHARED Models/lib/hangar81x16.ac 26.68593 58.31055 66.29 2
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 26.68678 58.30972 65.87 183
-OBJECT_SHARED Models/lib/office32x25.ac 26.69086 58.31018 64.03 272
-OBJECT_SHARED Models/lib/office40x25.ac 26.69011 58.31020 64.46 2
-OBJECT_SHARED Models/lib/transformer3x3.ac 26.69731 58.30661 63.25 92
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml 26.69121 58.30988 63.75 92
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 26.68889 58.30972 64.38 2
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 26.68785 58.30971 64.58 2
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 26.68463 58.30898 65.55 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 26.69024 58.31006 63.91 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 26.69104 58.30992 63.80 182
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 26.68911 58.31005 64.19 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 26.69161 58.31001 63.62 2
+OBJECT_SHARED Models/lib/hangar81x16.ac 26.68840 58.30985 64.38 92
+OBJECT_SHARED Models/lib/transformer3x3.ac 26.66347 58.30746 71.75 92
+OBJECT_SHARED Models/lib/hangar81x16.ac 26.68593 58.31055 64.35 2
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 26.68678 58.30972 64.80 183
+OBJECT_SHARED Models/lib/office32x25.ac 26.69086 58.31018 63.77 272
+OBJECT_SHARED Models/lib/office40x25.ac 26.69011 58.31020 63.90 2
+OBJECT_SHARED Models/lib/transformer3x3.ac 26.69731 58.30661 62.94 92
 # END dsf2stg

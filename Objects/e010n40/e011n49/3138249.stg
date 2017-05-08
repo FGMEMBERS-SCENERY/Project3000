@@ -1,21 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.39973 49.21607 436.88 102.09
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.39977 49.21596 437.31 231.19
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.39973 49.21593 437.51 236.1
+OBJECT_SHARED Models/Transport/hatchback_green.ac 11.39973 49.21607 436.88 102.09
+OBJECT_SHARED Models/Transport/van_silver.ac 11.39977 49.21596 437.30 231.19
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 11.39973 49.21593 437.51 236.1
 OBJECT_SHARED Models/Transport/hatchback_red.ac 11.39969 49.21590 437.51 234
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.39965 49.21587 437.51 236.23
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.39949 49.21598 436.98 23.48
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.39954 49.21600 436.98 19.54
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.39958 49.21602 437.09 195.79
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.39963 49.21603 437.09 22.09
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.39967 49.21604 437.19 25.17
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.40029 49.21603 437.84 240.9
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.40026 49.21604 437.84 240.9
+OBJECT_SHARED Models/Transport/hatchback_black.ac 11.39965 49.21587 437.51 236.23
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 11.39949 49.21598 436.98 23.48
+OBJECT_SHARED Models/Transport/hatchback_black.ac 11.39954 49.21600 436.98 19.54
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 11.39958 49.21602 437.09 195.79
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 11.39963 49.21603 437.09 22.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac 11.39967 49.21604 437.19 25.17
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.40029 49.21603 437.83 240.9
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.40026 49.21604 437.83 240.9
 OBJECT_SHARED Models/lib/office3x10.ac 11.40034 49.21616 437.20 240.9
 OBJECT_SHARED Models/lib/shed8x10.ac 11.40023 49.21612 437.41 330.9
-OBJECT_SHARED Models/lib/shed8x10.ac 11.40469 49.21183 438.90 246.64
+OBJECT_SHARED Models/lib/shed8x10.ac 11.40469 49.21183 438.48 246.64
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 11.39766 49.21564 434.93 163.07
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.39773 49.21568 434.62 270
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40167 49.21753 438.46 250.2
@@ -27,9 +27,9 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40178 49.21768 438.41 213.69
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40169 49.21766 438.44 279.46
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40159 49.21763 438.48 300.07
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40151 49.21762 438.51 238.39
-OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40144 49.21759 438.54 325.41
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40144 49.21759 438.53 325.41
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40163 49.21748 438.49 308.05
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40157 49.21750 438.49 202.62
 OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40147 49.21754 438.52 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40137 49.21757 438.54 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.40137 49.21757 438.53 90
 # END dsf2stg

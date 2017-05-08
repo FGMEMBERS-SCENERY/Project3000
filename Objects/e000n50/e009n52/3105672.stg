@@ -1,25 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.05709 52.17567 53.28 354.81
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.05529 52.17598 53.32 346.5
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.05769 52.17540 53.17 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.05763 52.17540 53.16 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.05755 52.17540 53.16 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.05756 52.17537 53.16 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.05763 52.17537 53.16 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.05769 52.17537 53.17 0
-OBJECT_SHARED Models/lib/cars4.ac 9.05626 52.17585 53.29 78.5
-OBJECT_SHARED Models/lib/cars6.ac 9.05759 52.17574 53.30 171.7
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.05612 52.17574 53.23 79.38
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 9.05709 52.17567 53.27 354.81
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 9.05529 52.17598 53.33 346.5
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.05769 52.17540 53.16 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.05763 52.17540 53.15 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.05755 52.17540 53.15 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.05756 52.17537 53.15 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.05763 52.17537 53.15 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.05769 52.17537 53.16 0
+OBJECT_SHARED Models/lib/cars4.ac 9.05626 52.17585 53.28 78.5
+OBJECT_SHARED Models/lib/cars6.ac 9.05759 52.17574 53.29 171.7
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.05612 52.17574 53.22 79.38
 OBJECT_SHARED Models/lib/cars4.ac 9.05801 52.17565 53.27 176.31
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.05639 52.17370 52.64 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.05765 52.17354 52.63 0
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.05779 52.17541 53.18 356.26
-OBJECT_SHARED Models/lib/SmHangar.ac 9.05680 52.17565 53.22 77.66
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.05765 52.17354 52.46 0
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 9.05779 52.17541 53.17 86.26
+OBJECT_SHARED Models/lib/SmHangar.ac 9.05680 52.17565 53.20 77.66
 OBJECT_SHARED Models/lib/SmHangar.ac 9.05657 52.17568 53.25 77.66
-OBJECT_SHARED Models/lib/SmHangar.ac 9.05642 52.17570 53.25 77.66
+OBJECT_SHARED Models/lib/SmHangar.ac 9.05642 52.17570 53.24 77.66
 OBJECT_SHARED Models/lib/SmHangar.ac 9.05602 52.17587 53.33 76.91
 OBJECT_SHARED Models/lib/SmHangar.ac 9.05576 52.17591 53.31 76.91
-OBJECT_SHARED Models/lib/SmHangar.ac 9.05556 52.17600 53.34 346.35
+OBJECT_SHARED Models/lib/SmHangar.ac 9.05556 52.17600 53.35 346.35
 # END dsf2stg

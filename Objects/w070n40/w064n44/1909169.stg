@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -63.53020 44.86877 135.94 139.06
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -63.53377 44.87176 135.12 285.65
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -63.53386 44.87099 133.96 12.66
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -63.53103 44.86944 136.58 98.98
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -63.53154 44.86897 136.23 98.59
+OBJECT_SHARED Models/lib/LgMaint.ac -63.53181 44.86983 136.90 64.76
+OBJECT_SHARED Models/lib/MedHangar.ac -63.52946 44.87317 137.77 330.25
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -63.53286 44.87178 137.84 200.22
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -63.53349 44.87150 134.91 204.22
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -63.53363 44.87094 137.64 329.13
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -63.53315 44.87175 135.51 337.47
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -63.53363 44.87177 135.34 287.67
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -63.53384 44.87115 134.16 240.38
+OBJECT_SHARED Models/Airport/cargobox.xml -63.53353 44.87194 135.54 0
+OBJECT_SHARED Models/Airport/cargobox.xml -63.53356 44.87192 135.50 0
+OBJECT_SHARED Models/Airport/cargobox.xml -63.53358 44.87191 135.50 153.44
+OBJECT_SHARED Models/lib/loader.ac -63.53330 44.87187 135.62 -1.12
+OBJECT_SHARED Models/lib/loader.ac -63.53346 44.87192 135.54 58.67
+OBJECT_SHARED Models/lib/loader.ac -63.53311 44.87149 137.80 105.78
+OBJECT_SHARED Models/lib/belt_loader.ac -63.53261 44.87213 137.89 144.46
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -63.53265 44.87229 137.92 0
+OBJECT_SHARED Models/lib/container6-HD.ac -63.53258 44.87235 137.93 244.54
+OBJECT_SHARED Models/lib/container6-HD.ac -63.53282 44.87201 137.88 148.74
+OBJECT_SHARED Models/lib/container6-HD.ac -63.53279 44.87208 137.89 149.68
+OBJECT_SHARED Models/lib/container6-HD.ac -63.53292 44.87198 137.88 0
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -63.53383 44.87166 135.10 90
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -63.53387 44.87162 134.89 90
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -63.53390 44.87156 134.89 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -63.53300 44.87191 137.87 152.65
+OBJECT_SHARED Models/lib/fuel-truck.xml -63.52977 44.87348 137.68 152.82
+OBJECT_SHARED Models/Airport/cargobox.xml -63.53054 44.87084 137.45 0
+OBJECT_SHARED Models/Airport/cargobox.xml -63.53056 44.87089 137.50 0
+OBJECT_SHARED Models/Airport/cargoip.xml -63.53052 44.87086 137.48 0
+OBJECT_SHARED Models/Airport/cargoip.xml -63.53050 44.87084 137.45 0
+OBJECT_SHARED Models/Airport/cargoip.xml -63.53103 44.86952 136.66 0
+OBJECT_SHARED Models/Airport/cargoip.xml -63.53099 44.86951 136.66 0
+OBJECT_SHARED Models/Airport/cargoip.xml -63.53131 44.86927 136.50 0
+OBJECT_SHARED Models/Airport/cargoip.xml -63.53124 44.86929 136.50 0
+OBJECT_SHARED Models/Airport/cargoim.xml -63.53128 44.86930 136.50 0
+OBJECT_SHARED Models/Airport/cargoim.xml -63.53127 44.86925 136.41 0
+OBJECT_SHARED Models/Airport/cargoim.xml -63.53131 44.86921 136.41 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -63.52455 44.87489 137.57 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -63.52454 44.87486 137.57 0
+OBJECT_SHARED Models/lib/lamp10m.xml -63.52503 44.87394 137.69 270
+# END dsf2stg

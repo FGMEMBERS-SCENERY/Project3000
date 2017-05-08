@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/citation.ac -43.38534 -21.79494 913.95 301.5
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.38532 -21.79473 913.94 219.14
-OBJECT_SHARED Models/lib/SmHangar.ac -43.38529 -21.79443 913.93 355.12
-OBJECT_SHARED Models/lib/office40x25.ac -43.38521 -21.79559 911.41 86.15
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -43.38440 -21.79417 913.26 83.66
-OBJECT_SHARED Models/lib/SmHangar.ac -43.38503 -21.79165 909.52 84.81
-OBJECT_SHARED Models/lib/MedHangar.ac -43.38477 -21.79188 908.62 84.06
+OBJECT_SHARED Models/lib/citation.ac -43.38534 -21.79494 911.70 301.5
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.38532 -21.79473 911.72 219.14
+OBJECT_SHARED Models/lib/SmHangar.ac -43.38529 -21.79443 911.95 355.12
+OBJECT_SHARED Models/lib/office40x25.ac -43.38521 -21.79559 915.95 86.15
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -43.38440 -21.79417 913.00 83.66
+OBJECT_SHARED Models/lib/SmHangar.ac -43.38503 -21.79165 911.92 84.81
+OBJECT_SHARED Models/lib/MedHangar.ac -43.38477 -21.79188 909.93 84.06
 # END dsf2stg

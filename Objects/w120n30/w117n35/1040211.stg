@@ -1,17 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/6barrels.ac -116.08004 35.28700 281.25 0
-OBJECT_SHARED Models/Transport/hatchback_black.ac -116.07989 35.28601 281.03 22.62
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.08010 35.28660 281.16 11.31
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.07994 35.28620 281.07 22.25
-OBJECT_SHARED Models/Transport/hatchback_green.ac -116.07978 35.28647 281.14 16.5
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -116.08125 35.28739 280.49 286.21
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.08107 35.28761 280.53 17.4
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.08115 35.28806 280.64 104.62
-OBJECT_SHARED Models/Misc/picnic_table.ac -116.08079 35.28718 280.44 19.65
-OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08155 35.28804 280.27 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08107 35.28770 281.05 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08133 35.28691 280.88 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08110 35.28697 280.90 0
+OBJECT_SHARED Models/Misc/6barrels.ac -116.08004 35.28700 281.30 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -116.07989 35.28601 281.10 22.62
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -116.08010 35.28660 281.21 11.31
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -116.07994 35.28620 281.14 22.25
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.07978 35.28647 281.19 16.5
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -116.08125 35.28739 280.35 286.21
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -116.08107 35.28761 280.39 17.4
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.08115 35.28806 280.50 104.62
+OBJECT_SHARED Models/Misc/picnic_table.ac -116.08079 35.28718 280.31 19.65
+OBJECT_SHARED Models/lib/2container-office.ac -116.08012 35.28712 281.32 285.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08155 35.28804 280.11 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08107 35.28770 280.91 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08133 35.28691 280.76 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08110 35.28697 280.78 0
 # END dsf2stg

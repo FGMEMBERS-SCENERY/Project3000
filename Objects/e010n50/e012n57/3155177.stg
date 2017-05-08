@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 12.29628 57.66485 153.10 334.16
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 12.29628 57.66485 153.39 334.16
 OBJECT_SHARED Models/lib/FireStationLg.ac 12.28487 57.66139 155.62 153.02
-OBJECT_SHARED Models/lib/container1.ac 12.29570 57.67021 155.71 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 12.29570 57.67021 155.71 0
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.29317 57.66729 156.11 158.39
 OBJECT_SHARED Models/lib/jetway_e16m.ac 12.29317 57.66727 156.11 333.4
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.29363 57.66779 156.04 158.39
-OBJECT_SHARED Models/lib/jetway_e16m.ac 12.29363 57.66777 156.04 333.4
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.29363 57.66779 156.05 158.39
+OBJECT_SHARED Models/lib/jetway_e16m.ac 12.29363 57.66777 156.05 333.4
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.29430 57.66849 155.97 158.39
 OBJECT_SHARED Models/lib/jetway_e16m.ac 12.29430 57.66847 155.97 333.4
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 12.29467 57.66890 155.93 158.39

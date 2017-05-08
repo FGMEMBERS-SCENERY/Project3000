@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/chariot2.ac -114.25268 48.30847 903.27 40.45
-OBJECT_SHARED Models/lib/cargobox2x3m.ac -114.25318 48.30760 903.04 180
-OBJECT_SHARED Models/lib/cargobox2x3m.ac -114.25349 48.30725 902.93 324.09
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -114.25268 48.30847 903.27 40.45
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -114.25318 48.30760 903.04 180
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -114.25349 48.30725 902.93 324.09
 OBJECT_SHARED Models/lib/belt_loader.ac -114.25359 48.30766 903.05 146.85
 OBJECT_SHARED Models/lib/MedHangar.ac -114.26365 48.31211 903.62 90
 OBJECT_SHARED Models/lib/MedHangar.ac -114.26465 48.31211 903.64 90.47
@@ -11,7 +11,7 @@ OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -114.25285 48.30912 903.42 0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -114.25285 48.30912 903.42 0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -114.25352 48.30703 902.88 0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -114.25349 48.30707 902.90 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -114.25010 48.30955 903.62 62.1
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -114.25010 48.30955 903.62 62.1
 OBJECT_SHARED Models/lib/citation.ac -114.25201 48.30986 903.66 90.15
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -114.25208 48.30837 903.26 328.57
 OBJECT_SHARED Models/lib/stack_of_cones.ac -114.25354 48.30711 902.91 0
@@ -19,8 +19,8 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac -114.25351 48.30754 903.00 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -114.25286 48.30929 903.47 0
 OBJECT_SHARED Models/lib/belt_loader.ac -114.25243 48.30825 903.20 145.01
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -114.25335 48.30769 903.06 319.64
-OBJECT_SHARED Models/lib/chariot3.ac -114.25328 48.30788 903.11 323.39
-OBJECT_SHARED Models/lib/chariot3.ac -114.25403 48.30731 902.96 57.31
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -114.25328 48.30788 903.11 323.39
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -114.25403 48.30731 902.96 57.31
 OBJECT_SHARED Models/lib/lamp10m.xml -114.26505 48.31206 903.64 270
 OBJECT_SHARED Models/lib/lamp10m.xml -114.25443 48.30700 902.88 234.18
 OBJECT_SHARED Models/lib/lamp10m.xml -114.25242 48.30814 903.17 -33.52
@@ -36,7 +36,7 @@ OBJECT_SHARED Models/lib/cube16x10.ac -114.25285 48.30918 903.45 178.81
 OBJECT_SHARED Models/lib/fuel-truck.xml -114.25405 48.30693 902.86 83.16
 OBJECT_SHARED Models/lib/HorizTanks2.ac -114.25422 48.30688 902.86 324.51
 OBJECT_SHARED Models/lib/lamp10m.xml -114.25251 48.30868 903.32 51.97
-OBJECT_SHARED Models/lib/chariot1.ac -114.25343 48.30734 902.96 176.91
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -114.25343 48.30734 902.96 176.91
 OBJECT_SHARED Models/lib/belt_loader.ac -114.25381 48.30732 902.96 47.35
 OBJECT_SHARED Models/lib/jetway_e4m.ac -114.25358 48.30720 902.93 324.22
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -114.25387 48.30714 902.91 54.68

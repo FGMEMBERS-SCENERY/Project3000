@@ -1,28 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.24036 50.90586 210.85 318.24
-OBJECT_SHARED Models/lib/propane-tank.ac 9.24064 50.90582 210.90 46.08
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.24031 50.90589 210.84 315.73
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 9.24091 50.90580 210.95 48.71
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23642 50.90608 211.86 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23674 50.90600 211.74 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23960 50.90562 210.71 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23941 50.90597 210.68 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23993 50.90554 210.77 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.24041 50.90592 210.86 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23724 50.90625 211.69 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23710 50.90616 211.72 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23724 50.90592 211.57 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23770 50.90572 211.28 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.23767 50.90554 211.20 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.23754 50.90590 211.49 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.23992 50.90614 210.77 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.23972 50.90511 210.73 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.24011 50.90547 210.80 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.24090 50.90606 210.64 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.24050 50.90589 210.88 0
-OBJECT_SHARED Models/lib/MedHangar.ac 9.23709 50.90557 211.42 90
-OBJECT_SHARED Models/lib/MedHangar.ac 9.23814 50.90585 211.28 90.73
-OBJECT_SHARED Models/lib/MedHangar.ac 9.24020 50.90605 210.72 47.44
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.24036 50.90586 210.44 318.24
+OBJECT_SHARED Models/lib/propane-tank.ac 9.24064 50.90582 210.28 46.08
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.24031 50.90589 210.46 315.73
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 9.24091 50.90580 210.16 48.71
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23642 50.90608 212.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23674 50.90600 212.51 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23960 50.90562 210.82 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23941 50.90597 210.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23993 50.90554 210.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.24041 50.90592 210.41 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23724 50.90625 211.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23710 50.90616 211.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23724 50.90592 212.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.23770 50.90572 211.93 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.23767 50.90554 211.93 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.23754 50.90590 212.04 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.23992 50.90614 210.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.23972 50.90511 210.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.24011 50.90547 210.54 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.24090 50.90606 210.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.24050 50.90589 210.37 0
+OBJECT_SHARED Models/lib/MedHangar.ac 9.23709 50.90557 212.29 90
+OBJECT_SHARED Models/lib/MedHangar.ac 9.23814 50.90585 211.69 90.73
+OBJECT_SHARED Models/lib/MedHangar.ac 9.24020 50.90605 210.56 47.44
 # END dsf2stg

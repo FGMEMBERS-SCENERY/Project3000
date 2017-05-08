@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac -98.00219 35.46928 429.32 268.41
+OBJECT_SHARED Models/Misc/6barrels.ac -98.00219 35.46931 429.32 64.21
+OBJECT_SHARED Models/Misc/6barrels.ac -98.00219 35.46935 429.32 247.62
+OBJECT_SHARED Models/Misc/6barrels.ac -98.00219 35.46940 429.32 298.95
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -98.00226 35.46931 429.30 0
+OBJECT_SHARED Models/Airport/cargobox.xml -98.00226 35.46943 429.30 0
+OBJECT_SHARED Models/lib/propane-tank.ac -98.00166 35.46892 429.43 2.39
+OBJECT_SHARED Models/lib/propane-tank.ac -98.00239 35.46903 429.27 177.98
+OBJECT_SHARED Models/Airport/cargobox.xml -98.00222 35.46942 429.32 0
+OBJECT_SHARED Models/Airport/cargoim.xml -98.00225 35.46938 429.30 0
+OBJECT_SHARED Models/Airport/cargoim.xml -98.00222 35.46939 429.32 356.63
+OBJECT_SHARED Models/Airport/cargoim.xml -98.00223 35.46938 429.32 267.76
+OBJECT_SHARED Models/Airport/cargoim.xml -98.00225 35.46939 429.30 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -98.00223 35.47406 429.21 89.35
+OBJECT_SHARED Models/Transport/hatchback_green.ac -98.00193 35.47055 429.39 272.86
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.00193 35.47062 429.39 268.81
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -98.00199 35.47269 429.35 275.53
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -98.00218 35.47392 429.22 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.00282 35.47307 428.99 0
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -98.00186 35.47044 429.39 0
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -98.00238 35.46936 429.27 285.12
+OBJECT_SHARED Models/lib/large-hangar.ac -98.00160 35.47023 429.46 179.75
+OBJECT_SHARED Models/lib/large-hangar.ac -98.00161 35.47125 429.47 180
+OBJECT_SHARED Models/lib/large-hangar.ac -98.00162 35.47227 429.48 180.61
+OBJECT_SHARED Models/lib/large-hangar.ac -98.00165 35.47321 429.45 180
+OBJECT_SHARED Models/lib/SmHangar.ac -98.00240 35.46922 429.27 270
+OBJECT_SHARED Models/lib/MedHangar.ac -98.00164 35.46927 429.46 269.97
+OBJECT_SHARED Models/lib/LongRow.ac -98.00242 35.47453 429.12 90
+OBJECT_SHARED Models/lib/LongRow.ac -98.00177 35.47462 429.37 90
+# END dsf2stg

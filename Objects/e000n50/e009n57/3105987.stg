@@ -2,17 +2,19 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.86487 57.09017 2.41 218.38
-OBJECT_SHARED Models/lib/fboModern1.ac 9.87238 57.08499 2.33 306.03
-OBJECT_SHARED Models/lib/MedHangar.ac 9.86983 57.08479 2.13 219.16
+OBJECT_SHARED Models/lib/fboModern1.ac 9.87239 57.08499 2.33 306.03
+OBJECT_SHARED Models/lib/MedHangar.ac 9.86984 57.08479 2.13 219.16
 OBJECT_SHARED Models/lib/lamp10m.xml 9.86910 57.08797 2.36 36.23
 OBJECT_SHARED Models/lib/lamp10m.xml 9.87010 57.08719 2.34 34.7
-OBJECT_SHARED Models/lib/lamp10m.xml 9.87069 57.08673 2.33 34.03
+OBJECT_SHARED Models/lib/lamp10m.xml 9.87070 57.08673 2.33 34.03
 OBJECT_SHARED Models/lib/lamp10m.xml 9.86960 57.08758 2.35 37.06
 OBJECT_SHARED Models/lib/lamp10m.xml 9.87129 57.08626 2.34 38.99
-OBJECT_SHARED Models/lib/lamp10m.xml 9.87200 57.08571 2.34 39.99
-OBJECT_SHARED Models/lib/lamp10m.xml 9.87264 57.08531 2.37 37.09
-OBJECT_SHARED Models/lib/FireStationLg.ac 9.85327 57.09746 3.39 275.75
-OBJECT_SHARED Models/lib/fboModern1.ac 9.83866 57.10343 3.13 169.13
-OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 9.87147 57.08843 -92.49 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 9.87133 57.08865 -92.48 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.87201 57.08571 2.34 39.99
+OBJECT_SHARED Models/lib/lamp10m.xml 9.87264 57.08531 2.36 37.09
+OBJECT_SHARED Models/lib/FireStationLg.ac 9.85328 57.09746 3.39 275.75
+OBJECT_SHARED Models/lib/fboModern1.ac 9.83867 57.10343 3.14 169.13
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 9.87147 57.08843 -89.49 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 9.87134 57.08865 -89.48 0
+OBJECT_SHARED Models/lib/prop_a.ac 9.86762 57.08614 2.08 307.14
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 9.86787 57.08626 2.11 38.48
 # END dsf2stg

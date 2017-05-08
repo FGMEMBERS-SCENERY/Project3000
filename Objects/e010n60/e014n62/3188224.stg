@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office40x25.ac 14.41932 62.04629 351.00 91.5399
-OBJECT_SHARED Models/lib/office32x25n.ac 14.42040 62.04628 351.00 91.1998
-OBJECT_SHARED Models/lib/cube16x10.ac 14.42107 62.04660 351.15 91.6135
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 14.41849 62.04657 351.36 181.432
+OBJECT_SHARED Models/lib/office40x25.ac 14.41932 62.04629 351.34 91.5399
+OBJECT_SHARED Models/lib/office32x25n.ac 14.42040 62.04628 351.28 91.1998
+OBJECT_SHARED Models/lib/cube16x10.ac 14.42107 62.04660 351.28 91.6135
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 14.41849 62.04657 351.44 271.432
 # END dsf2stg

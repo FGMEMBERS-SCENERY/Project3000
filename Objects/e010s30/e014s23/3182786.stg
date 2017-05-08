@@ -1,8 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 14.64277 -22.97759 78.25 143.19
-OBJECT_SHARED Models/lib/fboModern1.ac 14.64243 -22.97769 77.71 108
-OBJECT_SHARED Models/lib/cube16x10.ac 14.64306 -22.97742 78.79 287
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 14.64347 -22.97695 79.78 290
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 14.64277 -22.97759 84.90 143.19
+OBJECT_SHARED Models/lib/fboModern1.ac 14.64243 -22.97769 84.49 108
+OBJECT_SHARED Models/lib/cube16x10.ac 14.64306 -22.97742 85.21 287
+OBJECT_SHARED Models/lib/admin-with-cars.ac 14.64150 -22.97754 83.59 110
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 14.64347 -22.97695 85.66 290
 # END dsf2stg

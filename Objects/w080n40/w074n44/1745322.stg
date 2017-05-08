@@ -2,13 +2,13 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.45909 44.65385 54.00 22.73
-OBJECT_SHARED Models/lib/container6.ac -73.47171 44.66824 63.51 23
+OBJECT_SHARED Models/lib/container6-HD.ac -73.47171 44.66824 63.50 23
 OBJECT_SHARED Models/lib/FireStationLg.ac -73.45907 44.65249 53.46 203.93
 OBJECT_SHARED Models/lib/MedHangar.ac -73.46220 44.65929 58.49 293.73
 OBJECT_SHARED Models/lib/MedHangar.ac -73.46280 44.66032 59.18 112.44
 OBJECT_SHARED Models/lib/lamp10m.xml -73.45868 44.65437 53.87 23.73
 OBJECT_SHARED Models/lib/citation.ac -73.45872 44.65397 53.70 73.78
-OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -73.45801 44.65095 51.52 25.78
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -73.45801 44.65095 51.59 25.78
 OBJECT_SHARED Models/lib/caisses_group.ac -73.47160 44.66906 63.13 201.75
 OBJECT_SHARED Models/lib/HorizTanks2.ac -73.46068 44.65299 54.86 23.92
 OBJECT_SHARED Models/lib/LongRow.ac -73.45922 44.64874 51.84 0
@@ -21,7 +21,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml -73.47140 44.66938 62.93 113.09
 OBJECT_SHARED Models/lib/lamp10m.xml -73.47302 44.66892 63.69 112.48
 OBJECT_SHARED Models/lib/MedHangar.ac -73.46579 44.66560 61.77 292.87
 OBJECT_SHARED Models/lib/MedHangar.ac -73.46655 44.66664 62.06 112.26
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.45735 44.65069 50.65 114.83
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.45735 44.65069 50.69 114.83
 OBJECT_SHARED Models/lib/MedHangar.ac -73.45938 44.65145 53.29 22.28
 OBJECT_SHARED Models/lib/MedHangar.ac -73.45857 44.64770 50.88 293.25
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -73.46080 44.65318 55.02 23.91

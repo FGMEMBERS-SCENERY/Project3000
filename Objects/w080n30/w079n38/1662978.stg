@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -78.49737 38.03087 147.15 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -78.49739 38.03083 146.84 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -78.49742 38.03080 146.84 0
+OBJECT_SHARED Models/lib/lamp10m.xml -78.49748 38.03102 147.00 240
+OBJECT_SHARED Models/lib/lamp10m.xml -78.49743 38.03109 147.24 240
+OBJECT_SHARED Models/lib/NoParkStripes.xml -78.49746 38.03106 147.30 330
+OBJECT_SHARED Models/lib/cars4.ac -78.49735 38.03123 147.49 242
+OBJECT_SHARED Models/lib/4space_wStop.ac -78.49782 38.03122 148.19 153
+OBJECT_SHARED Models/lib/1car-stop.ac -78.49758 38.03133 148.18 38
+OBJECT_SHARED Models/lib/1car-stop.ac -78.49762 38.03134 148.18 38
+OBJECT_SHARED Models/lib/1car-stop.ac -78.49754 38.03132 147.98 38
+OBJECT_SHARED Models/lib/1car-stop.ac -78.49765 38.03136 148.51 38
+# END dsf2stg

@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/HorizTanks2.ac 11.24902 43.25780 187.76 86.99
-OBJECT_SHARED Models/lib/MedHangar.ac 11.24905 43.25372 185.49 178
+OBJECT_SHARED Models/lib/HorizTanks2.ac 11.24902 43.25780 187.87 86.99
+OBJECT_SHARED Models/lib/MedHangar.ac 11.24905 43.25372 185.47 178
 OBJECT_SHARED Models/lib/MedHangar.ac 11.24884 43.25434 185.66 178
-OBJECT_SHARED Models/lib/watertank3x1.ac 11.24901 43.25619 186.53 193
-OBJECT_SHARED Models/lib/watertank3x1.ac 11.24900 43.25621 186.53 193
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.24915 43.25373 185.49 268.25
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.24941 43.25542 186.23 40.48
+OBJECT_SHARED Models/lib/watertank3x1.ac 11.24901 43.25619 186.57 193
+OBJECT_SHARED Models/lib/watertank3x1.ac 11.24900 43.25621 186.57 193
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 11.24915 43.25373 185.47 268.25
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 11.24941 43.25542 186.08 40.48
 # END dsf2stg

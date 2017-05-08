@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -3.66185 48.05314 166.90 4.95001
+OBJECT_SHARED Models/Transport/hatchback_black.ac -3.66186 48.05284 166.26 354.76
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -3.66197 48.05284 166.37 355.71
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -3.66205 48.05284 166.45 355.71
+OBJECT_SHARED Models/lib/6space_wStop.ac -3.66206 48.05282 166.46 266.13
+OBJECT_SHARED Models/lib/6space_wStop.ac -3.66180 48.05280 166.20 266.13
+OBJECT_SHARED Models/lib/SmHangar.ac -3.66230 48.05227 167.11 156.51
+OBJECT_SHARED Models/lib/SmHangar.ac -3.66238 48.05303 167.03 268.88
+OBJECT_SHARED Models/lib/SmHangar.ac -3.66257 48.05303 167.23 268.88
+OBJECT_SHARED Models/lib/SmHangar.ac -3.66217 48.05259 166.36 248.2
+OBJECT_SHARED Models/lib/SmHangar.ac -3.66270 48.05263 166.93 337.49
+OBJECT_SHARED Models/lib/SmHangar.ac -3.66327 48.05171 166.59 337.49
+OBJECT_SHARED Models/lib/SmHangar.ac -3.66317 48.05188 166.71 337.49
+OBJECT_SHARED Models/lib/SmHangar.ac -3.66307 48.05203 166.70 337.49
+OBJECT_SHARED Models/lib/SmHangar.ac -3.66285 48.05240 166.89 337.49
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.66277 48.05324 167.68 180.18
+OBJECT_SHARED Models/Transport/Norberttruck.xml -3.66564 48.05653 173.98 157.07
+OBJECT_SHARED Models/Transport/Norberttruck.xml -3.66594 48.05671 174.53 159.79
+OBJECT_SHARED Models/Transport/Norberttruck.xml -3.66641 48.05679 175.26 159.79
+OBJECT_SHARED Models/Transport/Norberttruck.xml -3.66640 48.05683 175.25 159.79
+OBJECT_SHARED Models/Transport/Norberttruck.xml -3.66665 48.05685 175.67 159.79
+OBJECT_SHARED Models/Transport/Norberttruck.xml -3.66663 48.05689 175.64 159.79
+OBJECT_SHARED Models/lib/MedHangar.ac -3.66735 48.05624 175.18 337.64
+OBJECT_SHARED Models/lib/MedHangar.ac -3.66609 48.05423 172.36 247.51
+OBJECT_SHARED Models/lib/LongRow.ac -3.66770 48.05515 174.99 67.51
+OBJECT_SHARED Models/lib/LgMaint.ac -3.66731 48.05432 175.63 67.9
+OBJECT_SHARED Models/lib/LgMaint.ac -3.66679 48.05518 173.91 67.9
+OBJECT_SHARED Models/lib/LgMaint.ac -3.66644 48.05576 174.27 67.9
+# END dsf2stg

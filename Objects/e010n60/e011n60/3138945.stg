@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars2.ac 11.38211 60.02138 153.65 96.01
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.38184 60.02210 154.26 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 11.38173 60.02206 154.44 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 11.38063 60.02252 157.64 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.38178 60.02209 154.26 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.38072 60.02255 156.66 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 11.38056 60.02256 157.69 0
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 11.38178 60.02194 154.22 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.38172 60.02201 154.41 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.38201 60.02147 153.78 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.38202 60.02146 153.78 0
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.38009 60.02272 161.07 311.5
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.38037 60.02255 158.86 316.71
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.38019 60.02264 160.10 135
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.38185 60.02208 154.26 0
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 11.38176 60.02197 154.24 0
+OBJECT_SHARED Models/lib/cars2.ac 11.38211 60.02138 154.05 96.01
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.38184 60.02210 154.50 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 11.38173 60.02206 154.59 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 11.38063 60.02252 156.07 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.38178 60.02209 154.50 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.38072 60.02255 156.06 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.38056 60.02256 156.18 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 11.38178 60.02194 154.45 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.38172 60.02201 154.57 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.38201 60.02147 154.16 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.38202 60.02146 154.16 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.38009 60.02272 156.94 311.5
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 11.38037 60.02255 156.43 316.71
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 11.38019 60.02264 156.68 135
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.38185 60.02208 154.50 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 11.38176 60.02197 154.48 0
 # END dsf2stg

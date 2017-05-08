@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -79.44063 37.77930 335.45 290
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.44142 37.77927 332.67 110
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44090 37.77986 332.01 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44081 37.77991 332.55 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44086 37.77989 332.01 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44076 37.77993 332.55 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44071 37.77996 332.59 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44082 37.77996 332.05 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44075 37.77999 332.59 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44041 37.77956 334.34 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44037 37.77961 334.34 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44031 37.77960 334.51 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44036 37.77966 333.80 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44029 37.77966 333.96 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44033 37.77972 333.96 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44025 37.77930 333.66 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44025 37.77947 334.40 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44015 37.77933 333.21 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44013 37.77938 333.58 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43999 37.77949 333.51 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44170 37.77993 328.17 175
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44139 37.78009 328.55 175
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44146 37.78007 328.08 175
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44164 37.77989 328.64 175
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44173 37.77988 328.17 175
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44160 37.77996 328.13 175
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44223 37.77927 328.95 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44227 37.77915 329.54 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44218 37.77930 328.95 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44228 37.77924 329.01 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44227 37.77919 329.01 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44214 37.77933 329.41 185
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.44208 37.77936 328.89 185
+# END dsf2stg

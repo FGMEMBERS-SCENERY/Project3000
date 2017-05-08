@@ -1,8 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -71.17187 -30.55546 334.70 135.76
-OBJECT_SHARED Models/lib/cars7.ac -71.17909 -30.56289 335.91 140.19
-OBJECT_SHARED Models/lib/farm19x12.ac -71.17817 -30.55751 325.33 35.39
-OBJECT_SHARED Models/lib/SmHangar.ac -71.17933 -30.56296 335.50 230.09
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.17914 -30.56294 333.40 137.14
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.17180 -30.55540 335.82 139.64
+OBJECT_SHARED Models/lib/cars7.ac -71.17187 -30.55546 335.83 135.76
+OBJECT_SHARED Models/lib/cars7.ac -71.17909 -30.56289 333.40 140.19
+OBJECT_SHARED Models/lib/garage-small-white.ac -71.17758 -30.55748 333.71 124
+OBJECT_SHARED Models/lib/garage-small-white.ac -71.17773 -30.55756 333.68 123.11
+OBJECT_SHARED Models/lib/garage-small-white.ac -71.17785 -30.55762 333.61 121.17
+OBJECT_SHARED Models/lib/dGreenhse.ac -71.17844 -30.55764 333.17 306.5
+OBJECT_SHARED Models/lib/garden-shed.ac -71.17804 -30.55736 333.38 28.4
+OBJECT_SHARED Models/lib/farm19x12.ac -71.17817 -30.55751 333.27 35.39
+OBJECT_SHARED Models/lib/SmHangar.ac -71.17933 -30.56296 333.28 230.09
 # END dsf2stg

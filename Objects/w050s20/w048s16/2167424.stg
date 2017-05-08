@@ -1,8 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -47.91742 -15.87509 1056.24 185.56
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -47.91781 -15.87512 1056.58 186
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -47.91824 -15.87515 1056.73 186
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -47.91865 -15.87519 1057.06 186
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -47.91803 -15.87532 974.53 90
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -47.91801 -15.87516 974.68 228
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -47.91746 -15.87512 974.70 232.64
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -47.91856 -15.87519 974.82 228
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91872 -15.87541 974.53 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91852 -15.87533 974.64 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91808 -15.87540 974.39 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91749 -15.87535 974.40 0
 # END dsf2stg

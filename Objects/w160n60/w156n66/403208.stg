@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -155.68150 66.22139 149.27 282.93
+OBJECT_SHARED Models/lib/SmHangar.ac -155.68193 66.22152 150.02 45.89
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -155.69073 66.22338 159.25 155.27
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -155.69238 66.22363 160.34 49.9
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -155.69075 66.22358 159.65 336.5
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -155.69208 66.22445 162.31 49.13
+# END dsf2stg

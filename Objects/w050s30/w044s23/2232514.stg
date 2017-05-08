@@ -1,24 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fboModern1.ac -43.37004 -22.98901 4.71 86.71
-OBJECT_SHARED Models/lib/MedHangar.ac -43.36862 -22.98911 6.28 87.19
-OBJECT_SHARED Models/lib/LgMaint.ac -43.37004 -22.98431 5.01 356.34
-OBJECT_SHARED Models/lib/office32x25.ac -43.36999 -22.98574 4.91 87.8
-OBJECT_SHARED Models/lib/office32x25.ac -43.36898 -22.98614 5.23 86.05
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -43.37034 -22.98826 4.20 177.27
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -43.36981 -22.98777 4.99 86.86
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.36940 -22.98899 5.99 145.26
-OBJECT_SHARED Models/lib/citation.ac -43.37081 -22.98596 0.81 147.02
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -43.37045 -22.98566 3.93 327.03
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.37068 -22.98511 3.19 177.06
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.36836 -22.98927 6.05 38.66
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -43.37048 -22.99095 4.04 175.03
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.37070 -22.98863 0.43 145.49
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.36912 -22.99095 4.93 0
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -43.36996 -22.99096 4.82 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -43.36960 -22.99103 5.19 180
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -43.37013 -22.99096 4.68 180
-OBJECT_SHARED Models/lib/citation.ac -43.36985 -22.99092 5.04 0
-OBJECT_SHARED Models/lib/citation.ac -43.37034 -22.99094 4.37 0
+OBJECT_SHARED Models/lib/fboModern1.ac -43.37004 -22.98901 4.98 86.71
+OBJECT_SHARED Models/lib/MedHangar.ac -43.36862 -22.98911 6.12 87.19
+OBJECT_SHARED Models/lib/LgMaint.ac -43.37004 -22.98431 4.22 356.34
+OBJECT_SHARED Models/lib/office32x25.ac -43.36999 -22.98574 4.22 87.8
+OBJECT_SHARED Models/lib/office32x25.ac -43.36898 -22.98614 5.32 86.05
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -43.37034 -22.98826 4.53 177.27
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -43.36981 -22.98777 4.85 86.86
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.36940 -22.98899 5.52 145.26
+OBJECT_SHARED Models/lib/citation.ac -43.37081 -22.98596 3.53 147.02
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -43.37045 -22.98566 3.75 327.03
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.37068 -22.98511 3.55 177.06
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.36836 -22.98927 6.20 38.66
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -43.37048 -22.99095 4.51 175.03
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.37070 -22.98863 4.22 145.49
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -43.36912 -22.99095 5.90 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -43.36996 -22.99096 5.01 0
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -43.36960 -22.99103 5.42 180
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -43.37013 -22.99096 4.91 180
+OBJECT_SHARED Models/lib/citation.ac -43.36985 -22.99092 5.25 0
+OBJECT_SHARED Models/lib/citation.ac -43.37034 -22.99094 4.72 0
 # END dsf2stg

@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.98857 43.44554 235.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.98922 43.44553 235.50 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.98971 43.44553 235.41 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.99318 43.44556 234.45 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.99437 43.44572 233.50 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.99421 43.44502 233.00 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.99293 43.44504 233.34 88.52
+OBJECT_SHARED Models/lib/office32x25.ac -85.99374 43.44505 233.49 269.11
+OBJECT_SHARED Models/lib/SmHangar.ac -85.99461 43.44507 232.75 0
+OBJECT_SHARED Models/lib/SmHangar.ac -85.99461 43.44527 232.94 0
+OBJECT_SHARED Models/lib/SmHangar.ac -85.99330 43.44504 233.26 89.34
+OBJECT_SHARED Models/lib/SmHangar.ac -85.99016 43.44460 232.63 90
+OBJECT_SHARED Models/lib/SmHangar.ac -85.99050 43.44460 232.57 90
+OBJECT_SHARED Models/lib/LongRow.ac -85.99104 43.44467 232.78 89.76
+OBJECT_SHARED Models/lib/LongRow.ac -85.99151 43.44471 232.69 89.76
+OBJECT_SHARED Models/lib/LongRow.ac -85.99196 43.44471 232.60 89.76
+# END dsf2stg

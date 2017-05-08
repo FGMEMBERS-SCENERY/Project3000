@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -166.53905 53.89715 9.03 90
+OBJECT_SHARED Models/lib/MedHangar.ac -166.53966 53.89715 9.19 90
+OBJECT_SHARED Models/lib/cars2.ac -166.53994 53.89709 9.11 90
+OBJECT_SHARED Models/lib/cars4.ac -166.54120 53.89784 9.30 316.59
+OBJECT_SHARED Models/lib/propane-tank.ac -166.54091 53.89794 9.39 135.86
+OBJECT_SHARED Models/Transport/van_red.ac -166.54162 53.89527 7.84 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -166.54140 53.89526 8.55 0
+OBJECT_SHARED Models/lib/SmHangar.ac -166.54067 53.89771 9.21 46.35
+OBJECT_SHARED Models/Airport/cargoip.xml -166.54030 53.89733 9.28 257.79
+OBJECT_SHARED Models/Airport/cargoip.xml -166.54030 53.89735 9.28 257.62
+OBJECT_SHARED Models/Airport/cargoip.xml -166.54030 53.89737 9.38 258.83
+OBJECT_SHARED Models/Airport/cargoip.xml -166.54030 53.89738 9.38 66.19
+OBJECT_SHARED Models/lib/SmHangar.ac -166.54049 53.89761 9.59 46.85
+OBJECT_SHARED Models/lib/SmHangar.ac -166.54034 53.89753 9.48 46.39
+OBJECT_SHARED Models/lib/admin31x12.ac -166.54045 53.89510 9.04 89.73
+OBJECT_SHARED Models/lib/lamp10m.xml -166.54225 53.89524 7.86 0
+OBJECT_SHARED Models/lib/lamp10m.xml -166.54306 53.89524 6.80 0
+OBJECT_SHARED Models/lib/lamp10m.xml -166.53868 53.89717 9.16 179.39
+OBJECT_SHARED Models/lib/lamp10m.xml -166.53999 53.89717 9.19 180.3
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -166.53886 53.89702 8.91 180.15
+OBJECT_SHARED Models/Aircraft/Cessna172.xml -166.53936 53.89676 8.72 90
+OBJECT_SHARED Models/lib/hangar81x16.ac -166.54208 53.89496 7.95 359.85
+OBJECT_SHARED Models/lib/fuel-truck.xml -166.54234 53.89532 7.84 270
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -166.54195 53.89538 7.82 -0.600006
+OBJECT_SHARED Models/lib/hangar81x16.ac -166.54209 53.89517 7.86 269.87
+# END dsf2stg

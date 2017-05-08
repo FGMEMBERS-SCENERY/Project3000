@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.45541 43.87669 472.46 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.45624 43.87631 473.76 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.45519 43.87537 475.35 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.45554 43.87502 476.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.45498 43.87550 475.12 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.45498 43.87617 473.57 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.45493 43.87660 472.69 0
+OBJECT_SHARED Models/lib/LongRow.ac -121.45578 43.87501 476.67 179.16
+OBJECT_SHARED Models/lib/LongRow.ac -121.45683 43.87538 476.19 359.54
+OBJECT_SHARED Models/lib/LongRow.ac -121.45683 43.87574 475.51 359.8
+OBJECT_SHARED Models/lib/LongRow.ac -121.45596 43.87605 474.21 179.65
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -121.45505 43.87584 474.46 160.66
+# END dsf2stg

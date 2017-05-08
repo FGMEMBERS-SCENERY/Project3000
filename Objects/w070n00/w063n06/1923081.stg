@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -62.85468 6.24081 394.77 1.00509
+OBJECT_SHARED Models/lib/MedHangar.ac -62.85512 6.24044 395.15 91.4725
+OBJECT_SHARED Models/lib/LongRow.ac -62.85515 6.24003 395.39 275.582
+OBJECT_SHARED Models/lib/admin31x12.ac -62.85512 6.24112 394.91 281.142
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -62.85561 6.24088 394.93 180.747
+# END dsf2stg

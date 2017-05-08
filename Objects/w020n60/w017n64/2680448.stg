@@ -1,10 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -16.94249 64.00284 89.16 150
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -16.94234 64.00275 89.06 60
-OBJECT_SHARED Models/lib/watertank3x1.ac -16.94232 64.00274 89.00 330
-OBJECT_SHARED Models/Misc/6barrels.ac -16.94254 64.00290 89.22 0
-OBJECT_SHARED Models/lib/office4x14.ac -16.94148 64.00300 88.69 151.767
-OBJECT_SHARED Models/Misc/picnic_table.ac -16.94157 64.00291 88.70 153.021
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -16.94249 64.00284 0.00 150
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -16.94234 64.00275 0.00 60
+OBJECT_SHARED Models/lib/watertank3x1.ac -16.94232 64.00274 0.00 330
+OBJECT_SHARED Models/lib/garden-shed.ac -16.94228 64.00280 0.00 330
+OBJECT_SHARED Models/lib/garden-shed.ac -16.94223 64.00283 0.00 60
+OBJECT_SHARED Models/Misc/6barrels.ac -16.94254 64.00290 0.00 0
+OBJECT_SHARED Models/lib/office4x14.ac -16.94148 64.00300 0.00 151.767
+OBJECT_SHARED Models/Misc/picnic_table.ac -16.94157 64.00291 0.00 153.021
 # END dsf2stg

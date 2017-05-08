@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -95.97692 48.99606 324.33 269.16
-OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -95.97677 48.99816 325.55 180.43
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -95.97719 48.99597 324.29 89.57
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.97715 48.99628 324.47 269.9
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -95.97676 48.99737 325.08 0
-OBJECT_SHARED Models/lib/SmHangar.ac -95.97674 48.99747 325.13 0
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.97654 48.99642 324.47 270.54
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.97654 48.99645 324.47 270.67
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.97678 48.99753 325.14 270
-OBJECT_SHARED Models/lib/SmHangar.ac -95.97665 48.99656 324.61 0.379997
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.97701 48.99672 324.69 90
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -95.97742 48.99557 324.08 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -95.97692 48.99606 324.77 269.16
+OBJECT_SHARED Models/Aircraft/atr42-iberia.xml -95.97677 48.99816 325.74 180.43
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -95.97719 48.99597 324.73 89.57
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -95.97715 48.99628 324.91 269.9
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -95.97676 48.99737 325.45 0
+OBJECT_SHARED Models/lib/SmHangar.ac -95.97674 48.99747 325.48 0
+OBJECT_SHARED Models/Transport/van_red.ac -95.97654 48.99642 324.93 270.54
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -95.97654 48.99645 324.93 270.67
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.97678 48.99753 325.49 270
+OBJECT_SHARED Models/lib/SmHangar.ac -95.97665 48.99656 325.05 0.379997
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.97701 48.99672 325.12 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -95.97742 48.99557 324.49 0
 # END dsf2stg

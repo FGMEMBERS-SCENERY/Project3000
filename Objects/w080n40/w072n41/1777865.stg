@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57906 41.16941 33.90 8.23001
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57944 41.16927 34.15 6.16
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57901 41.16931 34.02 5.23999
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57946 41.16938 34.05 187.43
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57954 41.16927 34.18 9.35001
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57914 41.16930 34.05 186.71
+OBJECT_SHARED Models/Transport/hatchback_black.ac -71.57906 41.16941 33.91 8.23001
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -71.57944 41.16927 34.15 6.16
+OBJECT_SHARED Models/Transport/hatchback_green.ac -71.57901 41.16931 34.02 5.23999
+OBJECT_SHARED Models/Transport/van_red.ac -71.57946 41.16938 34.05 187.43
+OBJECT_SHARED Models/Transport/hatchback_red.ac -71.57954 41.16927 34.19 9.35001
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -71.57914 41.16930 34.05 186.71
 OBJECT_SHARED Models/lib/fuel-truck.xml -71.58044 41.16922 34.55 184.64
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57899 41.16943 33.87 187.27
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57931 41.16928 34.12 7.72
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57892 41.16943 33.84 196.17
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57929 41.16940 33.98 187.99
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -71.57949 41.16938 34.05 4.70999
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -71.57899 41.16943 33.87 187.27
+OBJECT_SHARED Models/Transport/van_red.ac -71.57931 41.16928 34.12 7.72
+OBJECT_SHARED Models/Transport/hatchback_green.ac -71.57892 41.16943 33.84 196.17
+OBJECT_SHARED Models/Transport/hatchback_green.ac -71.57929 41.16940 33.97 187.99
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -71.57949 41.16938 34.05 4.70999
 OBJECT_SHARED Models/lib/lamp10m.xml -71.57959 41.16941 34.08 186.95
-OBJECT_SHARED Models/lib/lamp10m.xml -71.57932 41.16943 33.98 188.53
+OBJECT_SHARED Models/lib/lamp10m.xml -71.57932 41.16943 33.97 188.53
 OBJECT_SHARED Models/lib/lamp10m.xml -71.57894 41.16946 33.67 185.62
 OBJECT_SHARED Models/lib/NoParkStripes.xml -71.57953 41.16921 34.31 5.83
 OBJECT_SHARED Models/lib/NoParkStripes.xml -71.57937 41.16922 34.28 5.83
@@ -22,15 +22,15 @@ OBJECT_SHARED Models/lib/NoParkStripes.xml -71.57920 41.16923 34.21 5.83
 OBJECT_SHARED Models/lib/NoParkStripes.xml -71.57904 41.16924 34.14 5.83
 OBJECT_SHARED Models/lib/NoParkStripes.xml -71.57888 41.16925 33.99 5.83
 OBJECT_SHARED Models/lib/6space_wStop.ac -71.57895 41.16929 34.02 275.76
-OBJECT_SHARED Models/lib/6space_wStop.ac -71.57919 41.16927 34.08 275.76
+OBJECT_SHARED Models/lib/6space_wStop.ac -71.57919 41.16927 34.09 275.76
 OBJECT_SHARED Models/lib/6space_wStop.ac -71.57942 41.16925 34.15 275.76
 OBJECT_SHARED Models/lib/6space_wStop.ac -71.57948 41.16941 34.05 96.1
 OBJECT_SHARED Models/lib/6space_wStop.ac -71.57925 41.16943 33.94 96.1
 OBJECT_SHARED Models/lib/6space_wStop.ac -71.57901 41.16945 33.87 96.1
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -71.58074 41.16932 34.48 186.65
-OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -71.57962 41.16922 34.34 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -71.57962 41.16922 34.35 0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -71.57965 41.16922 34.38 0
 OBJECT_SHARED Models/lib/MedHangar.ac -71.58012 41.16916 34.49 96.04
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.58071 41.16905 34.73 185.68
-OBJECT_SHARED Models/lib/SmHangar.ac -71.58074 41.16920 34.60 185.71
+OBJECT_SHARED Models/lib/SmHangar.ac -71.58074 41.16920 34.61 185.71
 # END dsf2stg

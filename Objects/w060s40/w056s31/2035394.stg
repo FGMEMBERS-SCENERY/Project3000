@@ -1,8 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -55.47320 -30.96843 208.81 232.52
-OBJECT_SHARED Models/lib/cars10.ac -55.47422 -30.96896 203.84 49.49
-OBJECT_SHARED Models/lib/cars10.ac -55.47402 -30.96872 205.25 230.51
-OBJECT_SHARED Models/lib/MedHangar.ac -55.47357 -30.96903 207.09 139.75
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -55.47320 -30.96843 199.68 232.52
+OBJECT_SHARED Models/lib/handicap-sign.ac -55.47404 -30.96876 198.86 142.93
+OBJECT_SHARED Models/lib/handicap-sign.ac -55.47403 -30.96874 198.97 142.2
+OBJECT_SHARED Models/lib/handicap-sign.ac -55.47404 -30.96876 198.86 322.65
+OBJECT_SHARED Models/lib/handicap-sign.ac -55.47402 -30.96874 198.97 324.57
+OBJECT_SHARED Models/lib/cars10.ac -55.47422 -30.96896 198.55 49.49
+OBJECT_SHARED Models/lib/cars10.ac -55.47402 -30.96872 198.97 230.51
+OBJECT_SHARED Models/lib/MedHangar.ac -55.47357 -30.96903 198.84 139.75
 # END dsf2stg

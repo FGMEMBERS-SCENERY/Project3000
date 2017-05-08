@@ -1,21 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -80.51483 43.59437 347.64 180
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50874 43.59343 347.75 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50877 43.59331 347.38 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50887 43.59336 347.43 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50885 43.59352 347.80 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50883 43.59361 347.97 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50855 43.59362 347.64 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50867 43.59360 347.81 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51523 43.59453 347.32 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51534 43.59452 347.30 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51546 43.59434 347.34 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51546 43.59448 347.25 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51551 43.59454 347.25 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51555 43.59439 347.30 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51555 43.59426 347.34 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51483 43.59414 347.81 0
-OBJECT_SHARED Models/lib/SmHangar.ac -80.51502 43.59412 347.65 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -80.51483 43.59437 346.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50874 43.59343 348.04 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50877 43.59331 347.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50887 43.59336 348.19 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50885 43.59352 348.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50883 43.59361 348.11 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50855 43.59362 348.01 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.50867 43.59360 348.06 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51523 43.59453 345.96 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51534 43.59452 345.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51546 43.59434 346.10 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51546 43.59448 345.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51551 43.59454 345.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51555 43.59439 345.79 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51555 43.59426 346.10 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.51483 43.59414 347.04 0
+OBJECT_SHARED Models/lib/SmHangar.ac -80.51502 43.59412 346.92 90
 # END dsf2stg

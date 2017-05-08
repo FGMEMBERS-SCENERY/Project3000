@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -5.06252 48.46190 36.40 220.45
+OBJECT_SHARED Models/Transport/hatchback_red.ac -5.06258 48.46189 36.41 220.46
+OBJECT_SHARED Models/lib/NoParkStripes.xml -5.06257 48.46223 36.73 127.87
+# END dsf2stg

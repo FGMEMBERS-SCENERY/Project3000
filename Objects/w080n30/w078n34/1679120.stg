@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.90972 34.26744 6.30 262.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.90970 34.26653 6.00 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.90906 34.26652 5.99 265.3
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.91032 34.26517 5.58 357.68
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.90905 34.26671 6.05 358.01
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.91110 34.26583 5.80 1.17
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.91106 34.26652 6.04 265.1
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.90925 34.26776 6.42 265.85
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.91061 34.26544 5.65 358.03
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.90868 34.26811 6.50 248.71
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.91149 34.26622 5.95 315
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.91137 34.27628 7.77 323.555
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.91057 34.27240 7.83 323.992
+OBJECT_SHARED Models/lib/RampParking.xml -77.90964 34.26638 5.97 160
+OBJECT_SHARED Models/lib/RampParking.xml -77.90909 34.26683 6.09 335.76
+OBJECT_SHARED Models/lib/RampParking.xml -77.90956 34.26686 6.13 359.16
+OBJECT_SHARED Models/lib/RampParking.xml -77.90912 34.26642 5.96 214.02
+OBJECT_SHARED Models/lib/RampParking.xml -77.90892 34.26664 6.02 275.39
+OBJECT_SHARED Models/lib/jetway_e16m.ac -77.90989 34.26664 6.04 357.81
+OBJECT_SHARED Models/lib/jetway_e16m.ac -77.90989 34.26664 6.04 177.17
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -77.90917 34.26640 5.96 90
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -77.90902 34.26643 5.95 339.78
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -77.90936 34.26679 6.09 188.53
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -77.90890 34.26655 6.02 199.42
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -77.90962 34.26685 6.10 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -77.90898 34.26672 6.05 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -77.90908 34.26646 5.99 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -77.90950 34.26645 6.00 284.96
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -77.91118 34.27596 8.09 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -77.91108 34.27599 8.27 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -77.89354 34.27048 4.45 175.24
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.91031 34.27228 7.70 281.94
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.90976 34.27053 7.25 143.13
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -77.89689 34.26389 4.38 112.83
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -77.89266 34.26909 5.35 10.51
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.89320 34.26902 5.84 184.09
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.89254 34.26867 5.08 96.82
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.89735 34.26468 4.63 112.25
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -77.91036 34.27258 7.87 98.53
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -77.91045 34.27362 7.96 96.34
+OBJECT_SHARED Models/Aircraft/Cessna172.xml -77.91097 34.27498 8.12 99.27
+OBJECT_SHARED Models/lib/MedHangar.ac -77.90982 34.27043 7.22 235.17
+OBJECT_SHARED Models/lib/LongRow.ac -77.91149 34.27665 7.75 100.99
+OBJECT_SHARED Models/lib/MedHangar.ac -77.91096 34.27441 7.94 189.63
+OBJECT_SHARED Models/lib/LgMaint.ac -77.91121 34.27563 7.93 189.64
+OBJECT_SHARED Models/lib/LgMaint.ac -77.91041 34.27161 7.53 189.33
+OBJECT_SHARED Models/lib/LgMaint.ac -77.91069 34.27320 8.00 188.95
+OBJECT_SHARED Models/lib/MedHangar.ac -77.89681 34.26393 4.36 21.34
+OBJECT_SHARED Models/lib/MedHangar.ac -77.89720 34.26480 4.65 20.25
+OBJECT_SHARED Models/lib/LongRow.ac -77.89260 34.26931 5.28 186.02
+OBJECT_SHARED Models/lib/LongRow.ac -77.89248 34.26828 5.01 187.36
+OBJECT_SHARED Models/lib/MedHangar.ac -77.89241 34.26885 5.01 7.42
+OBJECT_SHARED Models/lib/FireStationLg.ac -77.90663 34.26856 6.57 312.04
+# END dsf2stg

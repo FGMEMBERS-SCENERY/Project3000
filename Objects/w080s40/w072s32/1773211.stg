@@ -1,7 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -71.10946 -31.57468 434.39 0.550003
-OBJECT_SHARED Models/lib/farm19x12.ac -71.10941 -31.57384 436.10 253.41
-OBJECT_SHARED Models/lib/SmHangar.ac -71.10914 -31.57343 436.21 162.63
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.10946 -31.57460 434.83 359.56
+OBJECT_SHARED Models/lib/cars7.ac -71.10946 -31.57468 434.65 0.550003
+OBJECT_SHARED Models/lib/garage-small-white.ac -71.10817 -31.57256 436.90 243.81
+OBJECT_SHARED Models/lib/garage-small-white.ac -71.10793 -31.57265 436.31 244.11
+OBJECT_SHARED Models/lib/farm19x12.ac -71.10941 -31.57384 436.21 253.41
+OBJECT_SHARED Models/lib/SmHangar.ac -71.10914 -31.57343 436.57 162.63
 # END dsf2stg

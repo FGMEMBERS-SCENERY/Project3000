@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25.ac 26.42495 40.13986 8.17 317.38
+OBJECT_SHARED Models/lib/FireStationLg.ac 26.42572 40.14061 6.69 318.07
+OBJECT_SHARED Models/lib/fuel-truck.xml 26.42559 40.13998 6.40 47.89
+OBJECT_SHARED Models/lib/caisses_group.ac 26.42548 40.13990 6.35 137.72
+OBJECT_SHARED Models/lib/lamp10m.xml 26.42488 40.13944 6.89 359.7
+OBJECT_SHARED Models/lib/lamp10m.xml 26.42560 40.14009 6.45 359.7
+OBJECT_SHARED Models/lib/lamp10m.xml 26.42529 40.13980 6.30 359.7
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 26.42548 40.13996 6.40 137.71
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.42545 40.13998 6.40 54.39
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.42542 40.13999 6.40 56.01
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 26.42554 40.13837 6.81 139.04
+OBJECT_SHARED Models/lib/admin-with-cars.ac 26.42438 40.14060 8.38 138.43
+OBJECT_SHARED Models/lib/belt_loader.ac 26.42547 40.14005 6.45 57.23
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 26.42575 40.13990 6.35 138.88
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 26.42570 40.13993 6.35 140.14
+OBJECT_SHARED Models/lib/belt_loader.ac 26.42549 40.14004 6.40 55.01
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 26.42429 40.13794 6.28 228.79
+OBJECT_SHARED Models/lib/6space_wStop.ac 26.42509 40.13855 6.41 320.29
+OBJECT_SHARED Models/lib/6space_wStop.ac 26.42490 40.13839 6.39 317.3
+OBJECT_SHARED Models/lib/6space_wStop.ac 26.42469 40.13849 6.20 138.07
+OBJECT_SHARED Models/lib/6space_wStop.ac 26.42487 40.13865 6.21 140.61
+# END dsf2stg

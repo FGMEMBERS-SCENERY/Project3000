@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -120.74892 38.72765 780.53 92.23
+OBJECT_SHARED Models/Airport/cargobox.xml -120.74868 38.72740 780.64 136.7
+OBJECT_SHARED Models/Airport/cargobox.xml -120.74865 38.72739 780.64 140.31
+OBJECT_SHARED Models/Airport/cargobox.xml -120.74864 38.72737 780.64 132.93
+OBJECT_SHARED Models/Airport/cargobox.xml -120.74862 38.72739 780.64 237.99
+OBJECT_SHARED Models/Airport/cargobox.xml -120.74860 38.72740 780.64 225.78
+OBJECT_SHARED Models/Airport/cargoip.xml -120.74862 38.72741 780.64 225
+OBJECT_SHARED Models/Airport/cargoip.xml -120.74864 38.72740 780.64 310.6
+OBJECT_SHARED Models/Airport/cargoip.xml -120.74866 38.72741 780.64 42.93
+OBJECT_SHARED Models/Airport/cargoim.xml -120.74863 38.72742 780.64 316.97
+OBJECT_SHARED Models/lib/fuel-truck.xml -120.74903 38.72738 780.64 199.03
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -120.74878 38.72751 780.61 129.44
+OBJECT_SHARED Models/lib/container6-HD.ac -120.74858 38.72735 780.64 23.74
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -120.74893 38.72768 780.53 90.74
+OBJECT_SHARED Models/lib/coal_pile.ac -120.74838 38.72716 786.73 312.71
+OBJECT_SHARED Models/lib/coal_pile.ac -120.74840 38.72722 786.73 18.97
+OBJECT_SHARED Models/lib/coal_pile.ac -120.74847 38.72725 787.41 76.93
+OBJECT_SHARED Models/lib/coal_pile.ac -120.74846 38.72719 786.73 335.38
+OBJECT_SHARED Models/lib/coal_pile.ac -120.74852 38.72722 780.70 97.65
+OBJECT_SHARED Models/lib/coal_pile.ac -120.74851 38.72718 780.70 266.82
+OBJECT_SHARED Models/lib/coal_pile.ac -120.74857 38.72720 780.70 20.56
+# END dsf2stg

@@ -2,12 +2,12 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/office16x4n.ac -83.53796 39.18836 289.48 219.61
-OBJECT_SHARED Models/lib/SmHangar.ac -83.53670 39.18920 286.95 310
-OBJECT_SHARED Models/lib/SmHangar.ac -83.53691 39.18906 287.31 310
+OBJECT_SHARED Models/lib/SmHangar.ac -83.53670 39.18920 286.96 310
+OBJECT_SHARED Models/lib/SmHangar.ac -83.53691 39.18906 287.32 310
 OBJECT_SHARED Models/lib/MedHangar.ac -83.53720 39.18890 287.91 310
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -83.53777 39.18837 289.16 310.82
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -83.53796 39.18808 289.66 130.61
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -83.54034 39.18663 293.55 219.09
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.53872 39.18773 291.00 216.87
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -83.53954 39.18723 292.43 39.8
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -83.53872 39.18773 291.00 216.87
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -83.53954 39.18723 292.43 39.8
 # END dsf2stg

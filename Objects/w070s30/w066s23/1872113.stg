@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/HorizTanks2.ac -65.57647 -22.15142 3512.66 114.874
-OBJECT_SHARED Models/lib/cone.ac -65.57597 -22.15073 3512.10 0
-OBJECT_SHARED Models/lib/cone.ac -65.57633 -22.15099 3512.61 0
-OBJECT_SHARED Models/lib/cone.ac -65.57638 -22.15101 3512.83 0
-OBJECT_SHARED Models/lib/cone.ac -65.57643 -22.15103 3512.83 0
-OBJECT_SHARED Models/lib/cone.ac -65.57647 -22.15105 3512.72 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -65.57639 -22.15122 3512.51 353.737
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -65.57637 -22.15129 3512.50 23.7382
+OBJECT_SHARED Models/lib/HorizTanks2.ac -65.57647 -22.15142 3511.87 114.874
+OBJECT_SHARED Models/lib/cone.ac -65.57597 -22.15073 3510.73 0
+OBJECT_SHARED Models/lib/cone.ac -65.57633 -22.15099 3511.35 0
+OBJECT_SHARED Models/lib/cone.ac -65.57638 -22.15101 3511.44 0
+OBJECT_SHARED Models/lib/cone.ac -65.57643 -22.15103 3511.44 0
+OBJECT_SHARED Models/lib/cone.ac -65.57647 -22.15105 3511.62 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -65.57639 -22.15122 3511.63 353.737
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -65.57637 -22.15129 3511.71 23.7382
 # END dsf2stg

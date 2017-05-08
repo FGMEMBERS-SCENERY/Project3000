@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -18.88287 63.42383 20.82 306.609
-OBJECT_SHARED Models/lib/watertank3x1.ac -18.88272 63.42474 20.12 0
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -18.88273 63.42467 20.12 334.748
-OBJECT_SHARED Models/lib/SmHangar.ac -18.88299 63.42467 20.18 90
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -18.88287 63.42383 -0.00 306.609
+OBJECT_SHARED Models/lib/watertank3x1.ac -18.88272 63.42474 0.00 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -18.88273 63.42467 0.00 334.748
+OBJECT_SHARED Models/lib/SmHangar.ac -18.88299 63.42467 0.00 90
 # END dsf2stg

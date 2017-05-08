@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars2.ac -18.02065 66.54777 43.55 287.402
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -18.02071 66.54800 43.62 301.005
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -18.02067 66.54795 43.62 347.905
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -18.01995 66.54779 44.09 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -18.02054 66.54783 43.67 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -18.02062 66.54790 43.64 0
-OBJECT_SHARED Models/lib/office8x14.ac -18.02070 66.54786 43.58 196.993
-OBJECT_SHARED Models/lib/SmHangar.ac -18.02081 66.54807 43.59 196.484
+OBJECT_SHARED Models/lib/cars2.ac -18.02065 66.54777 44.19 287.402
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -18.02071 66.54800 44.29 301.005
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -18.02067 66.54795 44.29 347.905
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -18.01995 66.54779 44.72 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -18.02054 66.54783 44.33 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -18.02062 66.54790 44.31 0
+OBJECT_SHARED Models/lib/office8x14.ac -18.02070 66.54786 44.24 196.993
+OBJECT_SHARED Models/lib/SmHangar.ac -18.02081 66.54807 44.27 196.484
 # END dsf2stg

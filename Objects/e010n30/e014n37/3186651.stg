@@ -1,22 +1,22 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml 14.90807 37.40917 27.48 0
-OBJECT_SHARED Models/lib/lamp10m.xml 14.91024 37.40900 27.31 0
-OBJECT_SHARED Models/lib/lamp10m.xml 14.91222 37.40802 26.66 0
-OBJECT_SHARED Models/lib/lamp10m.xml 14.91741 37.40726 25.78 0
-OBJECT_SHARED Models/lib/MedHangar.ac 14.91552 37.40893 26.73 81.6
-OBJECT_SHARED Models/lib/MedHangar.ac 14.91797 37.40844 26.16 323.61
-OBJECT_SHARED Models/lib/LgMaint.ac 14.92746 37.40724 24.13 28.5
-OBJECT_SHARED Models/lib/LgMaint.ac 14.93168 37.40675 23.24 60.7
-OBJECT_SHARED Models/lib/MedHangar.ac 14.91132 37.40800 26.72 81.5
-OBJECT_SHARED Models/lib/MedHangar.ac 14.91068 37.40808 26.81 81.5
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 14.92333 37.40564 24.52 261.79
-OBJECT_SHARED Models/lib/HorizTanks2.ac 14.90965 37.39607 24.94 80
-OBJECT_SHARED Models/lib/HorizTanks2.ac 14.90969 37.39625 24.88 80
-OBJECT_SHARED Models/lib/industrial15x22.ac 14.91015 37.39676 24.39 351
-OBJECT_SHARED Models/lib/HorizTanks2.ac 14.90972 37.39644 24.61 80
-OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 14.91075 37.39620 -70.78 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac 14.91006 37.39628 -70.20 0
-OBJECT_SHARED Models/lib/FireStationLg.ac 14.91922 37.40658 25.83 195
+OBJECT_SHARED Models/lib/lamp10m.xml 14.90807 37.40917 27.18 0
+OBJECT_SHARED Models/lib/lamp10m.xml 14.91024 37.40900 26.93 0
+OBJECT_SHARED Models/lib/lamp10m.xml 14.91222 37.40802 26.50 0
+OBJECT_SHARED Models/lib/lamp10m.xml 14.91741 37.40726 25.62 0
+OBJECT_SHARED Models/lib/MedHangar.ac 14.91552 37.40893 26.24 81.6
+OBJECT_SHARED Models/lib/MedHangar.ac 14.91797 37.40844 25.77 323.61
+OBJECT_SHARED Models/lib/LgMaint.ac 14.92746 37.40724 23.88 28.5
+OBJECT_SHARED Models/lib/LgMaint.ac 14.93168 37.40675 23.01 60.7
+OBJECT_SHARED Models/lib/MedHangar.ac 14.91132 37.40800 26.61 81.5
+OBJECT_SHARED Models/lib/MedHangar.ac 14.91068 37.40808 26.70 81.5
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 14.92333 37.40564 24.20 261.79
+OBJECT_SHARED Models/lib/HorizTanks2.ac 14.90965 37.39607 24.39 80
+OBJECT_SHARED Models/lib/HorizTanks2.ac 14.90969 37.39625 24.38 80
+OBJECT_SHARED Models/lib/industrial15x22.ac 14.91015 37.39676 24.31 351
+OBJECT_SHARED Models/lib/HorizTanks2.ac 14.90972 37.39644 24.38 80
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 14.91075 37.39620 -67.79 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 14.91006 37.39628 -67.69 0
+OBJECT_SHARED Models/lib/FireStationLg.ac 14.91922 37.40658 25.16 195
 # END dsf2stg

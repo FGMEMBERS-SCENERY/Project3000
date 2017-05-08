@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fuel-truck.xml 10.00760 53.62378 11.38 206.93
-OBJECT_SHARED Models/lib/fuel-truck.xml 10.00573 53.62333 11.10 206.93
-OBJECT_SHARED Models/lib/fuel-truck.xml 10.00563 53.62331 11.08 206.93
-OBJECT_SHARED Models/Airport/FGRefuel02.xml 10.00551 53.62329 11.07 26.57
+OBJECT_SHARED Models/lib/fuel-truck.xml 10.00760 53.62378 11.39 206.93
+OBJECT_SHARED Models/lib/fuel-truck.xml 10.00573 53.62333 11.08 206.93
+OBJECT_SHARED Models/lib/fuel-truck.xml 10.00563 53.62331 11.07 206.93
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 10.00551 53.62329 11.06 26.57
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 10.00770 53.62380 11.40 209.98
-OBJECT_SHARED Models/lib/lamp10m.xml 10.00549 53.62490 11.21 -11.8
-OBJECT_SHARED Models/lib/lamp10m.xml 10.00578 53.62457 11.23 -10.7
-OBJECT_SHARED Models/lib/lamp10m.xml 10.00608 53.62420 11.22 -12.07
+OBJECT_SHARED Models/lib/lamp10m.xml 10.00549 53.62490 11.22 -11.8
+OBJECT_SHARED Models/lib/lamp10m.xml 10.00578 53.62457 11.24 -10.7
+OBJECT_SHARED Models/lib/lamp10m.xml 10.00608 53.62420 11.23 -12.07
 OBJECT_SHARED Models/lib/lamp10m.xml 10.00627 53.62387 11.22 -11.98
 # END dsf2stg

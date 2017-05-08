@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25n.ac 49.29521 -12.34991 109.07 56.656
+OBJECT_SHARED Models/lib/transformer3x3.ac 49.29590 -12.34949 110.00 123.311
+OBJECT_SHARED Models/lib/office6x12.ac 49.29641 -12.34958 111.35 277.964
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 49.29491 -12.34938 107.90 327.869
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 49.29463 -12.34921 107.26 147.569
+OBJECT_SHARED Models/lib/lamp10m.xml 49.29562 -12.35024 110.00 106.093
+OBJECT_SHARED Models/lib/lamp10m.xml 49.29454 -12.34953 107.66 187.318
+# END dsf2stg

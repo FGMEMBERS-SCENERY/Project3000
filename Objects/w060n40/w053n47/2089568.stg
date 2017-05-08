@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -52.75050 47.61739 140.70 -85.14
+OBJECT_SHARED Models/lib/MedHangar.ac -52.75372 47.61694 143.35 306.01
+OBJECT_SHARED Models/lib/office32x25n.ac -52.75011 47.61546 141.41 328.28
+OBJECT_SHARED Models/lib/lamp10m.xml -52.75068 47.61967 139.33 0
+OBJECT_SHARED Models/lib/lamp10m.xml -52.75070 47.61777 140.65 0
+OBJECT_SHARED Models/Airport/cargoim.xml -52.75100 47.61820 140.68 0
+OBJECT_SHARED Models/Airport/cargoim.xml -52.75101 47.61824 140.68 0
+OBJECT_SHARED Models/Airport/cargoim.xml -52.75105 47.61823 140.77 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75137 47.61821 141.05 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75144 47.61819 141.05 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75149 47.61822 141.14 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75141 47.61822 141.05 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75136 47.61826 140.97 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75141 47.61827 140.97 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75147 47.61826 141.06 0
+OBJECT_SHARED Models/lib/trailer-fedex.ac -52.75165 47.61813 141.40 304.75
+OBJECT_SHARED Models/lib/trailer-fedex.ac -52.75172 47.61802 141.47 307.65
+OBJECT_SHARED Models/lib/trailer-fedex.ac -52.75174 47.61792 141.54 309.24
+OBJECT_SHARED Models/lib/trailer-ups.ac -52.75086 47.61814 140.64 308.39
+# END dsf2stg

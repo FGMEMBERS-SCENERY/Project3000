@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -45.57268 -23.78678 4.81 268.881
+OBJECT_SHARED Models/lib/fuel-truck.xml -45.57199 -23.78619 4.60 199.344
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -45.57202 -23.78626 4.44 106.281
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -45.57261 -23.78633 5.27 279.866
+OBJECT_SHARED Models/Misc/picnic_table.ac -45.57274 -23.78630 5.39 236.611
+OBJECT_SHARED Models/Misc/picnic_table.ac -45.57258 -23.78621 5.35 191.592
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -45.57264 -23.78677 4.67 9.63757
+# END dsf2stg

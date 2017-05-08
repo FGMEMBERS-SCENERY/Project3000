@@ -1,0 +1,55 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4container-office.ac -111.35240 25.98947 5.91 102.06
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -111.35193 25.99068 5.40 7.45999
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -111.35178 25.99053 5.17 8.63
+OBJECT_SHARED Models/lib/SmHangar.ac -111.35188 25.98961 5.83 8.35
+OBJECT_SHARED Models/lib/SmHangar.ac -111.35145 25.98977 4.65 277.66
+OBJECT_SHARED Models/lib/SmHangar.ac -111.35127 25.98980 4.65 277.05
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -111.35355 25.99214 8.57 157.48
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -111.35342 25.99205 7.81 157.31
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -111.35340 25.99272 8.16 213.69
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -111.35356 25.99264 8.85 214.24
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -111.35373 25.99257 8.85 215.02
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -111.35364 25.99236 8.74 158.2
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -111.35372 25.99217 8.63 159.15
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -111.35316 25.99159 7.53 337.83
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -111.35330 25.99164 7.53 156.16
+OBJECT_SHARED Models/lib/cars14.ac -111.35283 25.99051 5.30 187
+OBJECT_SHARED Models/Transport/hatchback_black.ac -111.35360 25.99210 8.57 249.68
+OBJECT_SHARED Models/Transport/hatchback_green.ac -111.35332 25.99221 7.87 66.25
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.35356 25.99222 8.63 248.75
+OBJECT_SHARED Models/Transport/van_silver.ac -111.35359 25.99199 8.51 66.37
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -111.35342 25.99211 7.81 246.64
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.35339 25.99207 7.81 66.8
+OBJECT_SHARED Models/Transport/van_silver.ac -111.35343 25.99198 7.76 69.15
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.35349 25.99197 7.76 246.45
+OBJECT_SHARED Models/Transport/van_silver.ac -111.35346 25.99190 7.70 70.56
+OBJECT_SHARED Models/Transport/van_red.ac -111.35329 25.99160 7.53 69.44
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.35331 25.99156 7.53 67.38
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35367 25.99334 9.26 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35250 25.99156 7.53 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35273 25.99182 7.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35271 25.99152 7.40 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35252 25.99137 6.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35271 25.99137 6.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35257 25.99110 5.75 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35268 25.99111 5.75 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35230 25.99050 5.17 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35229 25.99044 5.24 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35256 25.99038 5.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35231 25.99075 5.40 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35226 25.99092 5.62 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35390 25.99192 8.45 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35402 25.99174 8.34 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -111.35416 25.99162 8.28 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -111.35235 25.99023 5.39 8.42999
+OBJECT_SHARED Models/lib/lamp10m.xml -111.35257 25.99346 9.33 186.92
+OBJECT_SHARED Models/lib/lamp10m.xml -111.35247 25.99281 8.39 186.45
+OBJECT_SHARED Models/lib/lamp10m.xml -111.35242 25.99240 7.23 187.35
+OBJECT_SHARED Models/lib/lamp10m.xml -111.35234 25.99181 6.51 186.8
+OBJECT_SHARED Models/lib/lamp10m.xml -111.35226 25.99133 6.06 188.1
+OBJECT_SHARED Models/lib/lamp10m.xml -111.35214 25.99052 5.17 188.39
+OBJECT_SHARED Models/lib/lamp10m.xml -111.35203 25.98971 5.76 188.71
+# END dsf2stg

@@ -2,9 +2,9 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/watertank3x1.ac 10.45580 54.85443 -3.82 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.45616 54.85416 -3.75 117.256
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 10.45616 54.85416 -3.75 117.256
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.45569 54.85425 -3.88 226.636
-OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45660 54.85438 -3.58 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45660 54.85438 -3.59 0
 OBJECT_SHARED Models/lib/cone.ac 10.45611 54.85422 -3.78 0
 OBJECT_SHARED Models/lib/cone.ac 10.45622 54.85410 -3.78 0
 OBJECT_SHARED Models/lib/cone.ac 10.45701 54.85402 -3.54 0
@@ -23,8 +23,8 @@ OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45678 54.85361 -3.69 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45708 54.85371 -3.56 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45702 54.85401 -3.54 0
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.45674 54.85428 -3.58 123.489
-OBJECT_SHARED Models/lib/propane-tank.ac 10.45663 54.85440 -3.58 305.789
+OBJECT_SHARED Models/lib/propane-tank.ac 10.45663 54.85440 -3.59 305.789
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.45607 54.85422 -3.78 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.45659 54.85440 -3.58 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.45697 54.85406 -3.29 33.367
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.45659 54.85440 -3.59 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.45697 54.85406 -3.52 33.367
 # END dsf2stg

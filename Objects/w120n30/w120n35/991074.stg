@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.34945 35.61995 95.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.34940 35.61987 95.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.34923 35.61788 95.97 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.34922 35.61809 95.94 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.34922 35.61796 95.95 83.99
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.34922 35.61798 95.95 284.89
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.34922 35.61801 95.95 304.7
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.34920 35.61995 95.64 55.95
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.34920 35.62005 95.64 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -119.34962 35.62044 95.51 1.16
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34944 35.62160 95.40 0
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34944 35.62139 95.45 0
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34945 35.62119 95.46 0
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34937 35.61751 96.00 359.11
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34937 35.61772 96.00 359.11
+OBJECT_SHARED Models/lib/garden-shed.ac -119.34928 35.61712 96.00 1.33
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -119.34949 35.61725 96.00 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -119.34949 35.61709 96.00 182.2
+OBJECT_SHARED Models/lib/fuel-truck.xml -119.34952 35.62038 95.51 91.19
+OBJECT_SHARED Models/Transport/hatchback_green.ac -119.34951 35.61982 95.64 270
+OBJECT_SHARED Models/Transport/van_silver.ac -119.34951 35.62010 95.58 270.9
+OBJECT_SHARED Models/Transport/hatchback_black.ac -119.34952 35.61999 95.60 88.95
+OBJECT_SHARED Models/Transport/hatchback_black.ac -119.34951 35.62003 95.60 91.79
+OBJECT_SHARED Models/lib/lamp10m.xml -119.34921 35.61847 95.87 89.52
+OBJECT_SHARED Models/lib/lamp10m.xml -119.34920 35.61906 95.78 89.52
+OBJECT_SHARED Models/lib/lamp10m.xml -119.34920 35.61979 95.67 89.52
+OBJECT_SHARED Models/lib/lamp10m.xml -119.34919 35.62013 95.62 89.52
+OBJECT_SHARED Models/lib/lamp10m.xml -119.34919 35.62038 95.57 89.52
+OBJECT_SHARED Models/lib/lamp10m.xml -119.34919 35.62072 95.53 89.52
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -119.34977 35.62189 95.15 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -119.34976 35.62186 95.15 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -119.34976 35.62183 95.18 89.6
+# END dsf2stg

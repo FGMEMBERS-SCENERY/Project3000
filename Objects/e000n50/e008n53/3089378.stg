@@ -1,37 +1,37 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.53098 53.53807 0.53 317.7
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.53087 53.53814 0.51 135.17
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.53090 53.53812 0.52 139.22
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.53094 53.53809 0.52 141.11
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.53170 53.53760 0.63 131.51
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.53167 53.53758 0.64 313.72
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.53162 53.53761 0.65 133.69
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.53165 53.53763 0.64 131.99
-OBJECT_SHARED Models/lib/SmHangar.ac 8.53157 53.53776 0.56 223
-OBJECT_SHARED Models/lib/SmHangar.ac 8.53146 53.53784 0.59 223
-OBJECT_SHARED Models/lib/SmHangar.ac 8.53134 53.53791 0.63 223
-OBJECT_SHARED Models/lib/SmHangar.ac 8.53123 53.53798 0.59 223
-OBJECT_SHARED Models/lib/SmHangar.ac 8.53112 53.53805 0.56 223
-OBJECT_SHARED Models/lib/SmHangar.ac 8.53191 53.53756 0.56 223
-OBJECT_SHARED Models/lib/SmHangar.ac 8.53217 53.53744 0.45 223
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.53098 53.53807 -0.28 317.7
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.53087 53.53814 -0.33 135.17
+OBJECT_SHARED Models/Transport/van_silver.ac 8.53090 53.53812 -0.31 139.22
+OBJECT_SHARED Models/Transport/van_silver.ac 8.53094 53.53809 -0.30 141.11
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.53170 53.53760 0.47 131.51
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.53167 53.53758 0.44 313.72
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.53162 53.53761 0.38 133.69
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.53165 53.53763 0.42 131.99
+OBJECT_SHARED Models/lib/SmHangar.ac 8.53157 53.53776 0.26 223
+OBJECT_SHARED Models/lib/SmHangar.ac 8.53146 53.53784 0.21 223
+OBJECT_SHARED Models/lib/SmHangar.ac 8.53134 53.53791 0.06 223
+OBJECT_SHARED Models/lib/SmHangar.ac 8.53123 53.53798 -0.08 223
+OBJECT_SHARED Models/lib/SmHangar.ac 8.53112 53.53805 -0.22 223
+OBJECT_SHARED Models/lib/SmHangar.ac 8.53191 53.53756 0.57 223
+OBJECT_SHARED Models/lib/SmHangar.ac 8.53217 53.53744 0.78 223
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52879 53.53814 0.22 237.99
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52860 53.53816 0.22 270
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52839 53.53812 0.27 270
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52822 53.53791 0.37 191.31
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52860 53.53827 0.17 322.13
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52851 53.53818 0.22 311.63
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52834 53.53806 0.27 330.26
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52826 53.53799 0.32 171.87
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52834 53.53806 0.26 330.26
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52826 53.53799 0.31 171.87
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52795 53.53781 0.40 235.62
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52814 53.53784 0.42 270
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52799 53.53789 0.34 212.01
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52786 53.53793 0.33 255.96
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52780 53.53785 0.38 332.65
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52869 53.53878 -0.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52869 53.53878 -0.12 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52861 53.53872 -0.06 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52848 53.53864 -0.01 292.38
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52848 53.53864 -0.02 292.38
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52842 53.53858 -0.02 321.34
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52826 53.53854 0.02 277.59
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52825 53.53846 0.02 356.99
@@ -42,7 +42,7 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52782 53.53817 0.15 321.34
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52773 53.53812 0.20 286.7
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52762 53.53804 0.24 325.84
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52751 53.53796 0.23 315.83
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52736 53.53787 0.29 339.44
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52719 53.53774 0.37 317.49
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52736 53.53787 0.27 339.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52719 53.53774 0.38 317.49
 OBJECT_SHARED Models/Trees/billboard-tree.xml 8.52705 53.53764 0.42 213.69
 # END dsf2stg

@@ -1,11 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/farm19x12.ac -71.32836 -38.94970 1163.40 304.56
-OBJECT_SHARED Models/lib/cars7.ac -71.33124 -38.95210 1162.77 110.7
-OBJECT_SHARED Models/lib/SmHangar.ac -71.33228 -38.95242 1163.55 290.42
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.32775 -38.95128 1161.33 144.25
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.33236 -38.95172 1163.55 86.35
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.33015 -38.95096 1162.04 30.7
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.33173 -38.95234 1163.10 67.48
+OBJECT_SHARED Models/lib/farm19x12.ac -71.32836 -38.94970 1161.09 304.56
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.33132 -38.95213 1163.63 110.7
+OBJECT_SHARED Models/lib/cars7.ac -71.33124 -38.95210 1163.59 110.7
+OBJECT_SHARED Models/lib/SmHangar.ac -71.33228 -38.95242 1164.22 290.42
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -71.32775 -38.95128 1162.18 144.25
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -71.33236 -38.95172 1164.08 86.35
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -71.33015 -38.95096 1162.57 30.7
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.33173 -38.95234 1163.89 67.48
 # END dsf2stg

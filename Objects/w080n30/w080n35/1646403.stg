@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office16x4n.ac -79.18957 35.01991 89.02 145.99
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.18992 35.02054 88.36 245.48
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.19052 35.01933 88.13 236.63
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.18960 35.02066 88.50 66.29
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.18956 35.02065 88.50 66.29
-OBJECT_SHARED Models/lib/watertank3x1.ac -79.18977 35.02046 88.40 245.92
-OBJECT_SHARED Models/lib/stack_of_cones.ac -79.18959 35.02040 88.51 43.33
-OBJECT_SHARED Models/lib/propane-tank.ac -79.18935 35.01994 89.12 327.34
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.18969 35.02061 88.44 333.44
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.19033 35.01983 88.19 102.66
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -79.19078 35.01919 88.04 188.04
-OBJECT_SHARED Models/lib/office16x4n.ac -79.18928 35.02039 89.04 239.45
-OBJECT_SHARED Models/lib/SmHangar.ac -79.18940 35.02057 88.64 61.72
-OBJECT_SHARED Models/lib/SmHangar.ac -79.18949 35.02033 88.78 241.48
+OBJECT_SHARED Models/lib/office16x4n.ac -79.18957 35.01991 90.27 145.99
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.18992 35.02054 89.00 245.48
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -79.19052 35.01933 89.93 236.63
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.18960 35.02066 89.81 66.29
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.18956 35.02065 90.17 66.29
+OBJECT_SHARED Models/lib/watertank3x1.ac -79.18977 35.02046 89.53 245.92
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.18959 35.02040 90.49 43.33
+OBJECT_SHARED Models/lib/propane-tank.ac -79.18935 35.01994 90.30 327.34
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.18969 35.02061 89.67 333.44
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.19033 35.01983 89.44 102.66
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -79.19078 35.01919 89.03 188.04
+OBJECT_SHARED Models/lib/office16x4n.ac -79.18928 35.02039 90.52 239.45
+OBJECT_SHARED Models/lib/SmHangar.ac -79.18940 35.02057 90.60 61.72
+OBJECT_SHARED Models/lib/SmHangar.ac -79.18949 35.02033 90.45 241.48
 # END dsf2stg

@@ -1,30 +1,30 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 12.88226 48.82904 313.98 268.12
-OBJECT_SHARED Models/lib/SmHangar.ac 12.88195 48.82905 313.82 268.12
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.88290 48.82880 314.62 153.06
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 12.88191 48.82915 313.70 89.05
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.88232 48.82949 313.54 179.54
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.88267 48.82938 313.81 268.08
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.88263 48.82938 313.76 268.62
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.88259 48.82939 313.76 266.76
+OBJECT_SHARED Models/lib/SmHangar.ac 12.88226 48.82904 313.96 268.12
+OBJECT_SHARED Models/lib/SmHangar.ac 12.88195 48.82905 313.78 268.12
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 12.88290 48.82880 314.63 153.06
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 12.88191 48.82915 313.63 89.05
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.88232 48.82949 313.49 179.54
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.88267 48.82938 313.79 268.08
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.88263 48.82938 313.73 268.62
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.88259 48.82939 313.73 266.76
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.88185 48.82922 313.56 0
-OBJECT_SHARED Models/lib/office16x4n.ac 12.88200 48.82926 313.57 272.08
-OBJECT_SHARED Models/lib/cars6.ac 12.88309 48.82911 314.46 88.03
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88182 48.82933 313.48 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88261 48.83047 312.78 288.44
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88278 48.83046 312.76 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88367 48.82901 315.25 270
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88350 48.82897 315.02 310.24
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88331 48.82869 315.16 325.3
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88333 48.82884 315.04 176.19
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88337 48.82892 315.06 146.31
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88350 48.82900 315.02 116.57
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88357 48.82907 314.89 243.43
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88339 48.82904 314.91 270
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88331 48.82900 314.79 308.66
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88306 48.82891 314.71 270
-OBJECT_SHARED Models/lib/lamp10m.xml 12.88307 48.82921 314.32 270.48
-OBJECT_SHARED Models/lib/lamp10m.xml 12.88256 48.82935 313.88 315.45
+OBJECT_SHARED Models/lib/office16x4n.ac 12.88200 48.82926 313.51 272.08
+OBJECT_SHARED Models/lib/cars6.ac 12.88309 48.82911 314.40 88.03
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88182 48.82933 313.49 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88261 48.83047 312.50 288.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88278 48.83046 312.50 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88367 48.82901 315.80 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88350 48.82897 315.39 310.24
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88331 48.82869 315.55 325.3
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88333 48.82884 315.35 176.19
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88337 48.82892 315.42 146.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88350 48.82900 315.39 116.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88357 48.82907 315.38 243.43
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88339 48.82904 315.25 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88331 48.82900 315.01 308.66
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.88306 48.82891 314.69 270
+OBJECT_SHARED Models/lib/lamp10m.xml 12.88307 48.82921 314.27 270.48
+OBJECT_SHARED Models/lib/lamp10m.xml 12.88256 48.82935 313.83 315.45
 # END dsf2stg

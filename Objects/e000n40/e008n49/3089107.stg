@@ -1,29 +1,29 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88668 49.25044 161.91 123.42
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88670 49.25041 161.92 305.56
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88673 49.25039 161.93 309.99
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88676 49.25037 161.94 308.21
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88681 49.25032 161.28 305.96
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88684 49.25029 161.29 305.56
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88686 49.25027 161.29 309.99
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88689 49.25025 160.47 308.21
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88681 49.25013 159.94 146.98
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88678 49.25015 159.92 147.14
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88674 49.25016 160.39 328
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88670 49.25018 160.36 149.8
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88663 49.25021 160.39 325.01
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88659 49.25022 160.45 147.14
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88655 49.25024 160.50 151.58
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88651 49.25025 161.18 149.8
-OBJECT_SHARED Models/lib/cars4.ac 8.88530 49.25003 158.87 239.1
-OBJECT_SHARED Models/lib/cars2.ac 8.88536 49.25011 159.26 239.1
-OBJECT_SHARED Models/lib/cars10.ac 8.88558 49.25035 161.17 239.1
-OBJECT_SHARED Models/lib/lamp10m.xml 8.88611 49.25001 159.14 237.81
-OBJECT_SHARED Models/lib/lamp10m.xml 8.88517 49.25012 159.24 149.11
-OBJECT_SHARED Models/lib/lamp10m.xml 8.88537 49.25032 160.09 150.43
-OBJECT_SHARED Models/lib/shed8x10.ac 8.88569 49.25002 158.91 57.5
-OBJECT_SHARED Models/lib/transformer3x3.ac 8.88613 49.25003 159.15 57.5
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.88649 49.25037 161.91 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88668 49.25044 161.01 123.42
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.88670 49.25041 161.00 305.56
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.88673 49.25039 160.97 309.99
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.88676 49.25037 160.95 308.21
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.88681 49.25032 159.33 305.96
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.88684 49.25029 159.11 305.56
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.88686 49.25027 158.93 309.99
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.88689 49.25025 159.06 308.21
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.88681 49.25013 158.81 146.98
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.88678 49.25015 158.80 147.14
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.88674 49.25016 159.00 328
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.88670 49.25018 158.98 149.8
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.88663 49.25021 158.96 325.01
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.88659 49.25022 158.95 147.14
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.88655 49.25024 158.94 151.58
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.88651 49.25025 159.20 149.8
+OBJECT_SHARED Models/lib/cars4.ac 8.88530 49.25003 159.46 239.1
+OBJECT_SHARED Models/lib/cars2.ac 8.88536 49.25011 159.86 239.1
+OBJECT_SHARED Models/lib/cars10.ac 8.88558 49.25035 162.21 239.1
+OBJECT_SHARED Models/lib/lamp10m.xml 8.88611 49.25001 158.38 237.81
+OBJECT_SHARED Models/lib/lamp10m.xml 8.88517 49.25012 159.82 149.11
+OBJECT_SHARED Models/lib/lamp10m.xml 8.88537 49.25032 160.86 150.43
+OBJECT_SHARED Models/lib/shed8x10.ac 8.88569 49.25002 158.34 57.5
+OBJECT_SHARED Models/lib/transformer3x3.ac 8.88613 49.25003 158.38 57.5
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.88649 49.25037 159.49 0
 # END dsf2stg

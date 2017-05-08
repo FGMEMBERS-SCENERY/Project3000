@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/LongRow.ac 169.98137 -44.48687 -0.64 60
-OBJECT_SHARED Models/lib/LongRow.ac 169.98121 -44.48617 -0.64 240
-OBJECT_SHARED Models/lib/LongRow.ac 169.98058 -44.48597 -0.64 240
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 169.98072 -44.48678 -0.64 151.13
-OBJECT_SHARED Models/lib/shed8x10.ac 169.98243 -44.48641 -0.63 151.43
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 169.97935 -44.48669 -0.66 101.98
-OBJECT_SHARED Models/lib/canopy38x8.ac 169.96518 -44.48779 -0.70 99.43
+OBJECT_SHARED Models/lib/LongRow.ac 169.98137 -44.48687 421.33 60
+OBJECT_SHARED Models/lib/LongRow.ac 169.98121 -44.48617 421.37 240
+OBJECT_SHARED Models/lib/LongRow.ac 169.98058 -44.48597 421.38 240
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 169.98072 -44.48678 421.33 151.13
+OBJECT_SHARED Models/lib/shed8x10.ac 169.98243 -44.48641 420.86 151.43
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 169.97935 -44.48669 422.41 101.98
+OBJECT_SHARED Models/lib/canopy38x8.ac 169.96518 -44.48779 430.79 99.43
 # END dsf2stg

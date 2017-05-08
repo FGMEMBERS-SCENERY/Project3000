@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -171.99970 -13.83260 15.72 182
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -171.99460 -13.83257 13.17 180.9
+OBJECT_SHARED Models/lib/HorizTanks2.ac -171.99470 -13.83251 12.95 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -171.99479 -13.83251 12.95 90
+OBJECT_SHARED Models/lib/office16x4n.ac -171.99440 -13.83262 14.29 90
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -171.99641 -13.83157 10.93 244
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -171.99810 -13.83185 11.31 270.7
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -171.99739 -13.83150 10.64 233.5
+OBJECT_SHARED Models/Transport/hatchback_green.ac -171.99907 -13.83180 11.15 181.3
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -171.99838 -13.83224 11.86 358.15
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -171.99859 -13.83181 11.15 222.27
+OBJECT_SHARED Models/lib/lamp10m.xml -171.99560 -13.83226 12.28 -88.6
+OBJECT_SHARED Models/lib/lamp10m.xml -171.99608 -13.83225 12.08 270
+OBJECT_SHARED Models/lib/lamp10m.xml -171.99672 -13.83223 11.93 -88.6
+OBJECT_SHARED Models/lib/lamp10m.xml -171.99721 -13.83219 11.93 270
+OBJECT_SHARED Models/lib/lamp10m.xml -171.99751 -13.83223 11.86 268.67
+OBJECT_SHARED Models/lib/lamp10m.xml -171.99785 -13.83222 11.86 -88.78
+OBJECT_SHARED Models/lib/lamp10m.xml -171.99813 -13.83221 11.86 269.01
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -171.99578 -13.83227 12.28 358.75
+OBJECT_SHARED Models/lib/chariot3curve.ac -171.99593 -13.83213 11.88 10.3
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -171.99637 -13.83218 12.08 270
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -171.99659 -13.83213 11.73 183.07
+OBJECT_SHARED Models/lib/belt_loader.ac -171.99614 -13.83222 12.08 -84.47
+OBJECT_SHARED Models/lib/belt_loader.ac -171.99684 -13.83212 11.73 183.58
+OBJECT_SHARED Models/lib/loader.ac -171.99619 -13.83224 12.08 265.91
+OBJECT_SHARED Models/lib/loader.ac -171.99623 -13.83224 12.08 -87.95
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -171.99814 -13.83174 10.96 265.24
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -171.99693 -13.83210 11.73 272.39
+# END dsf2stg

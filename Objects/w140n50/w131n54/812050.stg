@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -130.44658 54.29298 35.91 297.041
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -130.44661 54.29296 35.91 71.9658
+OBJECT_SHARED Models/Misc/picnic_table.ac -130.44554 54.29267 36.38 298.686
+OBJECT_SHARED Models/Misc/picnic_table.ac -130.44557 54.29270 36.38 298.686
+OBJECT_SHARED Models/lib/farm19x12.ac -130.44234 54.29100 46.95 11.0638
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -130.44609 54.29300 36.48 20.5916
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -130.44614 54.29299 36.48 28.6787
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -130.44605 54.29301 36.48 28.6787
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -130.44601 54.29303 36.48 28.6787
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -130.44597 54.29304 36.48 28.6787
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -130.44551 54.29228 36.26 27.9092
+OBJECT_SHARED Models/lib/stack_of_cones.ac -130.44494 54.29171 36.63 0
+OBJECT_SHARED Models/lib/cars6.ac -130.44560 54.29308 36.51 207.188
+OBJECT_SHARED Models/lib/cars10.ac -130.44527 54.29236 36.79 118.083
+OBJECT_SHARED Models/lib/cars10.ac -130.44513 54.29208 36.72 119.284
+OBJECT_SHARED Models/lib/SmHangar.ac -130.44522 54.29135 36.54 298.379
+OBJECT_SHARED Models/lib/SmHangar.ac -130.44479 54.29164 36.61 29.3551
+OBJECT_SHARED Models/lib/cars6.ac -130.44495 54.29129 36.54 298.129
+OBJECT_SHARED Models/lib/cars6.ac -130.44509 54.29103 36.47 118.029
+OBJECT_SHARED Models/Transport/Norberttruck.xml -130.44590 54.29322 36.53 29.2653
+OBJECT_SHARED Models/Transport/Norberttruck.xml -130.44618 54.29313 36.51 30.0692
+OBJECT_SHARED Models/lib/cars6.ac -130.44444 54.29207 37.08 296.909
+OBJECT_SHARED Models/lib/cars6.ac -130.44449 54.29160 37.06 119.745
+OBJECT_SHARED Models/lib/lamp10m.xml -130.44557 54.29220 36.22 27.1152
+OBJECT_SHARED Models/lib/lamp10m.xml -130.44575 54.29237 36.29 27.1152
+OBJECT_SHARED Models/lib/lamp10m.xml -130.44594 54.29256 36.35 27.1152
+# END dsf2stg

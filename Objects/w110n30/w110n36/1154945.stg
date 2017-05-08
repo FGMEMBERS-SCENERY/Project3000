@@ -1,12 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -109.57609 36.11219 1686.78 208.951
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -109.57619 36.11180 1686.92 229.28
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -109.57625 36.11157 1687.00 215.779
-OBJECT_SHARED Models/lib/6space_wStop.ac -109.57657 36.11130 1687.05 78.28
-OBJECT_SHARED Models/lib/6space_wStop.ac -109.57676 36.11133 1687.05 78.65
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.57658 36.11127 1687.05 348.69
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.57671 36.11130 1687.05 348.16
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -109.57609 36.11219 1686.74 208.951
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -109.57619 36.11180 1686.91 229.28
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -109.57625 36.11157 1686.99 215.779
+OBJECT_SHARED Models/lib/6space_wStop.ac -109.57657 36.11130 1686.47 78.28
+OBJECT_SHARED Models/lib/6space_wStop.ac -109.57676 36.11133 1686.47 78.65
+OBJECT_SHARED Models/Transport/hatchback_black.ac -109.57658 36.11127 1686.47 348.69
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -109.57671 36.11130 1686.47 348.16
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -109.57641 36.11105 1687.23 260.5
+OBJECT_SHARED Models/lib/garden-shed.ac -109.57634 36.11178 1686.91 166.729
+OBJECT_SHARED Models/lib/garden-shed.ac -109.57637 36.11163 1686.99 80.2175
+OBJECT_SHARED Models/lib/garden-shed.ac -109.57622 36.11224 1686.74 79.1143
 # END dsf2stg

@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4container-office.ac 52.84993 24.94013 18.32 267.976
+OBJECT_SHARED Models/lib/fuel-truck.xml 52.85192 24.93404 0.00 240.43
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 52.85110 24.93325 2.59 61.7664
+OBJECT_SHARED Models/lib/industrial13x24.ac 52.85358 24.92766 0.00 102.985
+OBJECT_SHARED Models/Misc/6barrels.ac 52.85265 24.93019 0.34 320.544
+OBJECT_SHARED Models/lib/transformer3x3.ac 52.85421 24.92692 -0.00 226.273
+OBJECT_SHARED Models/lib/industrial15x22.ac 52.85731 24.92854 2.16 28.42
+OBJECT_SHARED Models/lib/shed10x50.ac 52.85778 24.92846 3.33 299.622
+OBJECT_SHARED Models/lib/shed8x10.ac 52.85855 24.92804 2.06 204.61
+OBJECT_SHARED Models/lib/shed8x10.ac 52.85169 24.93430 0.70 154.605
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 52.85220 24.93406 0.00 154.282
+OBJECT_SHARED Models/lib/admin31x12.ac 52.85170 24.93386 -0.00 62.6413
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 52.85200 24.93415 -95.00 343.552
+# END dsf2stg

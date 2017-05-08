@@ -1,9 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 10.16704 50.05388 236.16 78.06
-OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 10.16705 50.05389 236.16 78.06
-OBJECT_SHARED Models/lib/NoParkStripes.xml 10.16658 50.05411 238.09 165.96
-OBJECT_SHARED Models/lib/NoParkStripes.xml 10.16676 50.05408 237.58 165.96
-OBJECT_SHARED Models/lib/10_spaces_dual.ac 10.16714 50.05440 237.76 256.87
+OBJECT_SHARED Models/lib/garages18x9.ac 10.16735 50.05464 237.89 256.03
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 10.16704 50.05388 235.63 78.06
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 10.16705 50.05389 235.63 78.06
+OBJECT_SHARED Models/lib/NoParkStripes.xml 10.16658 50.05411 236.10 165.96
+OBJECT_SHARED Models/lib/NoParkStripes.xml 10.16676 50.05408 236.09 165.96
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 10.16714 50.05440 236.85 256.87
 # END dsf2stg

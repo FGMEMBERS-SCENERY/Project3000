@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 6.07780 47.20637 382.56 303.21
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.07727 47.20570 383.01 303.92
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 6.07754 47.20572 382.61 122.54
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 6.07794 47.20611 382.43 332.93
+OBJECT_SHARED Models/lib/lamp10m.xml 6.07811 47.20640 382.50 0
+OBJECT_SHARED Models/lib/garden-shed.ac 6.07809 47.20640 382.51 304.16
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.07815 47.20632 382.46 35.16
+OBJECT_SHARED Models/lib/SmHangar.ac 6.07715 47.20582 382.98 305.55
+OBJECT_SHARED Models/lib/SmHangar.ac 6.07728 47.20589 382.72 305.55
+OBJECT_SHARED Models/lib/MedHangar.ac 6.07756 47.20615 382.54 213.51
+OBJECT_SHARED Models/lib/farm19x12.ac 6.07942 47.20718 382.65 39.67
+OBJECT_SHARED Models/lib/cube16x10.ac 6.07915 47.20696 382.60 308.26
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 6.07864 47.20714 382.72 218.66
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 6.07908 47.20719 382.70 180
+OBJECT_SHARED Models/Airport/cargoip.xml 6.07862 47.20698 382.67 146.31
+OBJECT_SHARED Models/Airport/cargoip.xml 6.07859 47.20697 382.68 191.31
+OBJECT_SHARED Models/Airport/cargoip.xml 6.07867 47.20695 382.66 204.78
+OBJECT_SHARED Models/Airport/cargobox.xml 6.07864 47.20694 382.62 139.4
+OBJECT_SHARED Models/lib/shed8x10.ac 6.07851 47.20706 382.74 305.51
+OBJECT_SHARED Models/lib/office3x10.ac 6.07855 47.20721 382.79 307.94
+OBJECT_SHARED Models/lib/office3x10.ac 6.07866 47.20717 382.77 217.87
+OBJECT_SHARED Models/lib/garden-shed.ac 6.07883 47.20707 382.69 302.2
+OBJECT_SHARED Models/Transport/hatchback_black.ac 6.07655 47.20579 382.71 119.05
+OBJECT_SHARED Models/Transport/hatchback_green.ac 6.07660 47.20572 382.80 128.29
+OBJECT_SHARED Models/Transport/hatchback_black.ac 6.07664 47.20568 382.82 306.25
+OBJECT_SHARED Models/Transport/hatchback_red.ac 6.07671 47.20561 382.88 303.69
+OBJECT_SHARED Models/Transport/van_silver.ac 6.07661 47.20529 382.95 69.78
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 6.07657 47.20527 382.90 58.5
+OBJECT_SHARED Models/Transport/hatchback_black.ac 6.07651 47.20524 382.95 60.07
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 6.07627 47.20564 382.67 250.35
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 6.07678 47.20555 382.91 128.45
+OBJECT_SHARED Models/Transport/van_red.ac 6.07674 47.20559 382.89 123.31
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 6.07667 47.20566 382.83 122.74
+OBJECT_SHARED Models/Transport/hatchback_black.ac 6.07676 47.20557 382.89 305.54
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 6.07680 47.20553 382.93 310.4
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 6.07683 47.20551 382.96 135
+OBJECT_SHARED Models/Transport/Norberttruck.xml 6.07667 47.20521 383.12 32.39
+OBJECT_SHARED Models/lib/trailer-fedex.ac 6.07660 47.20535 382.84 212.5
+OBJECT_SHARED Models/lib/trailer-fedex.ac 6.07627 47.20522 382.75 29.71
+OBJECT_SHARED Models/lib/trailer-fedex.ac 6.07642 47.20536 382.80 32.11
+OBJECT_SHARED Models/lib/trailer-fedex.ac 6.07622 47.20528 382.75 32.58
+OBJECT_SHARED Models/lib/industrial13x24.ac 6.07632 47.20562 382.70 306.15
+OBJECT_SHARED Models/lib/industrial13x24.ac 6.07647 47.20569 382.73 306.15
+OBJECT_SHARED Models/lib/shed8x10.ac 6.07635 47.20569 382.64 35.95
+OBJECT_SHARED Models/lib/shed8x10.ac 6.07603 47.20577 382.18 35.01
+OBJECT_SHARED Models/lib/cars6.ac 6.07516 47.20484 382.47 126.33
+# END dsf2stg

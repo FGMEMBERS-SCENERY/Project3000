@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.48393 37.06539 8.50 10
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.48391 37.06525 8.66 10
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.48387 37.06509 8.61 10
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.48379 37.06500 8.43 10
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.48376 37.06490 8.32 10
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.48392 37.06498 8.50 10
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.48389 37.06487 8.39 10
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -76.48379 37.06571 8.00 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -76.48378 37.06567 8.00 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -76.48374 37.06563 8.00 0
+OBJECT_SHARED Models/lib/office32x25n.ac -76.48306 37.06042 6.45 359
+OBJECT_SHARED Models/lib/office65x50.ac -76.48444 37.06106 8.99 134
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -76.48205 37.06305 5.05 357
+# END dsf2stg

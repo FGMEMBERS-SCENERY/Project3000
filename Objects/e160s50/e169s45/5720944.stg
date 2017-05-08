@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 169.23221 -44.23046 329.58 256.63
+OBJECT_SHARED Models/lib/transformer3x3.ac 169.23097 -44.23208 319.37 351.16
+OBJECT_SHARED Models/lib/SmHangar.ac 169.23031 -44.23099 312.09 140.9
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 169.23099 -44.23188 319.47 199.62
+OBJECT_SHARED Models/lib/shed8x10.ac 169.22973 -44.23255 313.44 251.26
+# END dsf2stg

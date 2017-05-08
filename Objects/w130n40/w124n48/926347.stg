@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -123.18829 48.14137 35.14 181.74
+OBJECT_SHARED Models/lib/lamp10m.xml -123.18864 48.14140 35.81 271.64
+OBJECT_SHARED Models/lib/lamp10m.xml -123.18864 48.14125 35.87 270
+OBJECT_SHARED Models/lib/lamp10m.xml -123.18810 48.14049 34.15 190.56
+OBJECT_SHARED Models/lib/lamp10m.xml -123.18827 48.14047 34.15 187.82
+OBJECT_SHARED Models/lib/cars4.ac -123.18827 48.14046 34.15 9.66
+OBJECT_SHARED Models/lib/garage-small-white.ac -123.18790 48.14041 33.93 237.19
+OBJECT_SHARED Models/lib/industrial15x22.ac -123.18879 48.14133 35.87 1
+OBJECT_SHARED Models/lib/office3x10.ac -123.18822 48.14106 34.74 89.35
+OBJECT_SHARED Models/lib/industrial13x24.ac -123.18786 48.14134 35.66 0.339996
+OBJECT_SHARED Models/Transport/Norberttruck.xml -123.18853 48.14114 36.04 270.43
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -123.18856 48.14129 35.87 153.28
+OBJECT_SHARED Models/Airport/cargoip.xml -123.18861 48.14134 35.87 186.15
+OBJECT_SHARED Models/Airport/cargoip.xml -123.18858 48.14134 35.87 186.34
+OBJECT_SHARED Models/Airport/cargoip.xml -123.18855 48.14134 35.87 186.43
+OBJECT_SHARED Models/Airport/cargoip.xml -123.18855 48.14136 35.81 184.76
+OBJECT_SHARED Models/Airport/cargoip.xml -123.18858 48.14136 35.81 183.3
+OBJECT_SHARED Models/Airport/cargoip.xml -123.18861 48.14136 35.81 183.81
+OBJECT_SHARED Models/Airport/cargoip.xml -123.18856 48.14138 35.81 185.71
+OBJECT_SHARED Models/Airport/cargoip.xml -123.18858 48.14138 35.81 183.3
+OBJECT_SHARED Models/Airport/cargoip.xml -123.18861 48.14138 35.81 180.92
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -123.18805 48.14131 35.66 90
+OBJECT_SHARED Models/Transport/hatchback_green.ac -123.18804 48.14128 35.66 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -123.18804 48.14126 35.66 93.81
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18728 48.14138 33.18 176.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18671 48.14138 33.18 63.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18669 48.14136 33.18 170.54
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18662 48.14133 33.70 282.27
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18661 48.14130 33.70 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18662 48.14127 33.70 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18668 48.14125 33.70 202.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18662 48.14123 34.22 84.81
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18663 48.14118 34.22 347.47
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18663 48.14113 34.74 106.39
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18895 48.14100 35.95 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18894 48.14092 35.87 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18825 48.14095 34.36 88.19
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18820 48.14101 34.36 332.59
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.18833 48.14098 34.36 127.67
+# END dsf2stg

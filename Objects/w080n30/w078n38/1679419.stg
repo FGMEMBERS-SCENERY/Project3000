@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.07756 38.91045 46.72 20
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.07755 38.91056 46.73 20
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.07755 38.91066 46.74 20
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.07770 38.91046 46.42 20
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.07782 38.91047 46.11 20
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.07781 38.91058 46.12 20
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.07781 38.91067 46.12 20
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.07769 38.91067 46.43 20
+OBJECT_SHARED Models/lib/shed8x10.ac -77.07748 38.91030 46.52 179
+OBJECT_SHARED Models/lib/shed8x10.ac -77.07823 38.91049 42.48 24
+OBJECT_SHARED Models/lib/cars4.ac -77.07819 38.91056 43.44 205
+OBJECT_SHARED Models/lib/cars4.ac -77.07830 38.91071 43.14 205
+OBJECT_SHARED Models/lib/cars4.ac -77.07844 38.91066 42.48 24
+OBJECT_SHARED Models/lib/cars4.ac -77.07813 38.91074 44.71 285
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -77.07741 38.91066 46.85 340
+# END dsf2stg

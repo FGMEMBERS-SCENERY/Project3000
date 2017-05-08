@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars4.ac 8.91150 50.79137 228.01 118.54
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.91182 50.79178 228.58 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.91165 50.79184 228.49 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.91170 50.79170 228.43 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.91152 50.79156 228.24 0
-OBJECT_SHARED Models/lib/lamp10m.xml 8.91153 50.79138 228.03 31.68
-OBJECT_SHARED Models/lib/lamp10m.xml 8.91157 50.79179 228.46 117.9
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.91153 50.79177 228.44 29.6
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.91159 50.79220 228.93 198.92
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.91146 50.79170 228.31 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.91149 50.79176 228.42 31.92
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.91144 50.79174 228.29 28.81
-OBJECT_SHARED Models/lib/SmHangar.ac 8.91132 50.79143 227.90 298.58
-OBJECT_SHARED Models/lib/SmHangar.ac 8.91149 50.79164 228.22 29.75
+OBJECT_SHARED Models/lib/cars4.ac 8.91150 50.79137 227.39 118.54
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.91182 50.79178 228.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.91165 50.79184 228.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.91170 50.79170 227.98 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.91152 50.79156 227.64 0
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91153 50.79138 227.43 31.68
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91157 50.79179 227.90 117.9
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.91153 50.79177 227.85 29.6
+OBJECT_SHARED Models/Transport/van_silver.ac 8.91159 50.79220 228.29 198.92
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.91146 50.79170 227.66 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.91149 50.79176 227.80 31.92
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.91144 50.79174 227.64 28.81
+OBJECT_SHARED Models/lib/SmHangar.ac 8.91132 50.79143 227.16 298.58
+OBJECT_SHARED Models/lib/SmHangar.ac 8.91149 50.79164 227.60 29.75
 # END dsf2stg

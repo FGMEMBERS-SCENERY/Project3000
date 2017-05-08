@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64740 -38.92745 110.41 342.88
-OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64724 -38.92704 110.45 342.88
-OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64711 -38.92667 106.57 342.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64734 -38.92749 109.61 148
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64733 -38.92745 109.61 87.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64719 -38.92707 110.45 147.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64717 -38.92704 110.45 87.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64705 -38.92671 107.01 147.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64703 -38.92667 107.01 87.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64689 -38.92629 101.69 147.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64688 -38.92626 101.69 87.88
-OBJECT_SHARED Models/lib/MedHangar.ac -72.64556 -38.92281 95.50 342.88
-OBJECT_SHARED Models/lib/MedHangar.ac -72.64540 -38.92241 95.46 342.88
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.64574 -38.92476 95.89 72.88
-OBJECT_SHARED Models/lib/FireStationLg.ac -72.64569 -38.92365 95.65 162.88
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -72.64543 -38.92329 95.59 -17.12
+OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64740 -38.92745 100.83 342.88
+OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64724 -38.92704 100.61 342.88
+OBJECT_SHARED Models/lib/jetway_e12m.ac -72.64711 -38.92667 100.48 342.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64734 -38.92749 100.86 148
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64733 -38.92745 100.86 87.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64719 -38.92707 100.67 147.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64717 -38.92704 100.61 87.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64705 -38.92671 100.50 147.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64703 -38.92667 100.50 87.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64689 -38.92629 100.31 147.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -72.64688 -38.92626 100.31 87.88
+OBJECT_SHARED Models/lib/MedHangar.ac -72.64556 -38.92281 98.78 342.88
+OBJECT_SHARED Models/lib/MedHangar.ac -72.64540 -38.92241 98.63 342.88
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.64574 -38.92476 99.76 72.88
+OBJECT_SHARED Models/lib/FireStationLg.ac -72.64569 -38.92365 99.15 162.88
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -72.64543 -38.92329 99.07 -17.12
 # END dsf2stg

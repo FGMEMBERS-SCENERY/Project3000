@@ -1,13 +1,6 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/cargoip.xml -14.82776 66.01525 10.89 0
-OBJECT_SHARED Models/Airport/cargoip.xml -14.82771 66.01526 11.12 0
-OBJECT_SHARED Models/Airport/cargoip.xml -14.82771 66.01524 11.47 0
-OBJECT_SHARED Models/Airport/cargobox.xml -14.82767 66.01527 11.12 0
-OBJECT_SHARED Models/Airport/cargobox.xml -14.82767 66.01525 11.12 0
-OBJECT_SHARED Models/Airport/cargobox.xml -14.82763 66.01526 11.34 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -14.82759 66.01528 11.34 0
-OBJECT_SHARED Models/Transport/hatchback_red.ac -14.82749 66.01533 11.55 28.5
-OBJECT_SHARED Models/Transport/hatchback_red.ac -14.82752 66.01530 11.55 33.69
+OBJECT_SHARED Models/Transport/hatchback_red.ac -14.82791 66.01516 11.95 43.56
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -14.82781 66.01516 12.04 12.34
 # END dsf2stg

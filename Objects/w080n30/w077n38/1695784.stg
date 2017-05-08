@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -76.92975 38.74996 72.99 48
+OBJECT_SHARED Models/lib/lamp10m.xml -76.92992 38.74980 73.09 318.8
+OBJECT_SHARED Models/lib/lamp10m.xml -76.93007 38.74986 73.35 45.5
+OBJECT_SHARED Models/lib/lamp10m.xml -76.93023 38.74972 73.47 48
+OBJECT_SHARED Models/lib/lamp10m.xml -76.93121 38.74855 73.13 53.2
+OBJECT_SHARED Models/Transport/van_silver.ac -76.93469 38.74573 72.58 322.9
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.93467 38.74571 72.58 139.3
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.93483 38.74569 72.53 319
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.93073 38.74911 73.39 233.1
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.93192 38.74826 73.71 302
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.93356 38.74678 72.96 224.4
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.92977 38.74999 72.99 319.1
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.93482 38.74564 72.59 319
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.93490 38.74566 72.47 130
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.93043 38.74932 73.12 180
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.93045 38.74932 73.12 0
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -76.93505 38.74563 72.38 229.8
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -76.93532 38.74537 72.36 225
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.93125 38.74855 72.70 14
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -76.93122 38.74856 73.13 0
+OBJECT_SHARED Models/lib/office8x14.ac -76.92967 38.74999 72.82 139.9
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.93274 38.74751 73.38 48
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.93349 38.74666 73.02 48
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.93329 38.74683 73.17 228
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.93478 38.74549 72.72 49
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.93472 38.74567 72.58 228
+OBJECT_SHARED Models/lib/office16x4n.ac -76.93268 38.74752 73.38 49.8
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.93055 38.74940 73.57 48
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -76.93097 38.74906 73.81 50.01
+OBJECT_SHARED Models/lib/propane-tank.ac -76.93048 38.74938 73.57 229
+OBJECT_SHARED Models/lib/MedHangar.ac -76.93022 38.74982 73.46 319
+OBJECT_SHARED Models/Misc/picnic_table.ac -76.93047 38.74932 73.38 140
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -76.93056 38.74947 73.66 235
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -76.93007 38.74995 73.35 65
+# END dsf2stg

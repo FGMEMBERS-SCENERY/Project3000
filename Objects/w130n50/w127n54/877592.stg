@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -126.77522 54.43706 649.23 210.44
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77510 54.43774 648.49 240.53
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77504 54.43772 648.49 156.13
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77499 54.43767 648.49 245.13
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77493 54.43764 648.66 147.31
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77485 54.43761 648.66 237.31
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77481 54.43756 648.66 204.68
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77477 54.43751 648.83 246.63
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77472 54.43747 648.83 118.26
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77466 54.43741 649.00 239.22
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77460 54.43737 649.00 78.97
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77466 54.43734 649.17 253.26
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77470 54.43732 649.17 188.97
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77478 54.43730 649.17 249.89
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77419 54.43708 645.31 225.61
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77414 54.43704 645.48 167.35
+OBJECT_SHARED Models/lib/deciduous-tree.xml -126.77420 54.43704 645.48 241.49
+OBJECT_SHARED Models/Transport/hatchback_green.ac -126.77477 54.43711 649.23 28.26
+OBJECT_SHARED Models/Transport/hatchback_black.ac -126.77436 54.43692 645.64 41.33
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -126.77440 54.43691 645.64 41.33
+OBJECT_SHARED Models/Transport/hatchback_red.ac -126.77444 54.43690 645.64 41.33
+OBJECT_SHARED Models/lib/cone.ac -126.77534 54.43779 648.32 66.55
+OBJECT_SHARED Models/lib/cone.ac -126.77533 54.43779 648.32 260.38
+OBJECT_SHARED Models/lib/cone.ac -126.77532 54.43779 648.32 73.26
+OBJECT_SHARED Models/lib/cone.ac -126.77487 54.43730 649.17 118.26
+OBJECT_SHARED Models/lib/cone.ac -126.77487 54.43731 649.17 222.3
+OBJECT_SHARED Models/lib/stack_of_cones.ac -126.77509 54.43754 648.83 142.56
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -126.77510 54.43755 648.66 28.26
+OBJECT_SHARED Models/lib/lamp10m.xml -126.77507 54.43755 648.66 28.26
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77450 54.43705 645.48 258.75
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77447 54.43706 645.31 238.99
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77441 54.43704 645.48 151.95
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77443 54.43705 645.48 179.96
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77444 54.43706 645.31 234.82
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77444 54.43703 645.48 163.26
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77444 54.43704 645.48 182.7
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77447 54.43704 645.48 169.6
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77446 54.43703 645.48 66.42
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77449 54.43704 645.48 180.19
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77450 54.43703 648.99 181.69
+OBJECT_SHARED Models/Misc/6barrels.ac -126.77449 54.43702 645.48 253.26
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -126.77458 54.43705 649.23 118.26
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -126.77534 54.43777 648.32 28.26
+OBJECT_SHARED Models/lib/watertank3x1.ac -126.77533 54.43778 648.32 298.26
+OBJECT_SHARED Models/lib/garden-shed.ac -126.77456 54.43703 648.99 28.26
+OBJECT_SHARED Models/lib/garden-shed.ac -126.77454 54.43700 648.99 28.26
+OBJECT_SHARED Models/lib/shed8x10.ac -126.77445 54.43697 645.48 28.26
+OBJECT_SHARED Models/lib/shed8x10.ac -126.77506 54.43762 648.66 118.26
+# END dsf2stg

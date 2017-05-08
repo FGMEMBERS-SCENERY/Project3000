@@ -3,17 +3,17 @@
 #
 OBJECT_SHARED Models/lib/stack_of_cones.ac -19.58095 65.73981 1.00 338.553
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -19.58119 65.74004 1.00 13.3919
-OBJECT_SHARED Models/lib/container1.ac -19.58099 65.73998 1.00 289.231
-OBJECT_SHARED Models/lib/container1.ac -19.58102 65.74001 1.00 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -19.58099 65.73998 1.00 289.231
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -19.58102 65.74001 1.00 0
 OBJECT_SHARED Models/lib/propane-tank.ac -19.58070 65.73882 1.00 9.46269
 OBJECT_SHARED Models/lib/lamp10m.xml -19.58082 65.73945 1.00 280.785
 OBJECT_SHARED Models/lib/lamp10m.xml -19.58092 65.73978 1.00 281.977
 OBJECT_SHARED Models/lib/lamp10m.xml -19.58106 65.74006 1.00 276.01
-OBJECT_SHARED Models/Transport/hatchback_red.ac -19.58101 65.73962 1.00 91.259
+OBJECT_SHARED Models/Transport/van_red.ac -19.58101 65.73962 1.00 91.259
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -19.57972 65.73909 1.00 11.41
 OBJECT_SHARED Models/lib/SmHangar.ac -19.58089 65.73952 1.00 189.279
 OBJECT_SHARED Models/lib/SmHangar.ac -19.58060 65.73876 1.00 189.256
-OBJECT_SHARED Models/lib/cars14.ac -19.58169 65.73963 1.00 8.69
+OBJECT_SHARED Models/lib/cars14.ac -19.58169 65.73963 0.99 8.69
 OBJECT_SHARED Models/lib/cars4.ac -19.58130 65.73977 1.00 8.34409
 OBJECT_SHARED Models/lib/cars2.ac -19.58089 65.73939 1.00 279.782
 # END dsf2stg

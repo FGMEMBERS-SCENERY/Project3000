@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -10.22609 8.36190 439.38 90.01
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -10.22635 8.36239 441.24 0
-OBJECT_SHARED Models/lib/HorizTanks2.ac -10.22630 8.36241 441.28 90
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -10.22609 8.36190 438.17 180.01
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -10.22635 8.36239 438.45 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -10.22630 8.36241 438.45 90
 # END dsf2stg

@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -120.70903 39.27477 1606.21 283.67
+OBJECT_SHARED Models/Airport/cargobox.xml -120.70852 39.27602 1607.55 244.29
+OBJECT_SHARED Models/Airport/cargobox.xml -120.70854 39.27603 1607.55 245.7
+OBJECT_SHARED Models/Airport/cargobox.xml -120.70871 39.27625 1607.76 270
+OBJECT_SHARED Models/Airport/cargobox.xml -120.70883 39.27629 1607.85 186.34
+OBJECT_SHARED Models/Airport/cargobox.xml -120.70880 39.27628 1607.85 279.46
+OBJECT_SHARED Models/lib/container6-HD.ac -120.70874 39.27629 1607.85 349.08
+OBJECT_SHARED Models/lib/trailer-fedex.ac -120.70868 39.27625 1607.85 81.9
+OBJECT_SHARED Models/lib/trailer-fedex.ac -120.70864 39.27626 1607.85 81.31
+OBJECT_SHARED Models/lib/trailer-fedex.ac -120.70860 39.27626 1607.85 80.41
+OBJECT_SHARED Models/lib/office3x10.ac -120.70872 39.27614 1607.65 97.13
+OBJECT_SHARED Models/lib/2container-office.ac -120.70871 39.27609 1607.65 358.18
+OBJECT_SHARED Models/lib/SmHangar.ac -120.70848 39.27593 1602.98 151.49
+OBJECT_SHARED Models/lib/watertank3x1.ac -120.70857 39.27414 1605.36 270
+OBJECT_SHARED Models/lib/watertank3x1.ac -120.70857 39.27415 1605.36 270
+OBJECT_SHARED Models/lib/garden-shed.ac -120.70861 39.27417 1605.48 359.2
+OBJECT_SHARED Models/lib/dGreenhse.ac -120.70861 39.27409 1605.36 359.08
+OBJECT_SHARED Models/lib/garage-small-white.ac -120.70867 39.27414 1605.36 179.16
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.70873 39.27403 1605.21 282.34
+OBJECT_SHARED Models/lib/SmHangar.ac -120.70886 39.27444 1605.72 12.02
+# END dsf2stg

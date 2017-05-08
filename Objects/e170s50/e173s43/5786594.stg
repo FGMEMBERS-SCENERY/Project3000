@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.60097 -42.42549 7.37 294.996
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 173.59900 -42.42613 7.55 358.581
-OBJECT_SHARED Models/lib/transformer3x3.ac 173.59966 -42.42683 6.20 38.5508
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 173.60372 -42.42176 11.72 25.5338
-OBJECT_SHARED Models/lib/SmHangar.ac 173.59878 -42.42613 7.55 204.822
-OBJECT_SHARED Models/Transport/hatchback_red.ac 173.60007 -42.42562 7.70 172.235
-OBJECT_SHARED Models/Misc/picnic_table.ac 173.60038 -42.42556 7.70 226.236
-OBJECT_SHARED Models/lib/vending-machine.ac 173.60029 -42.42572 7.58 294.184
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 173.60097 -42.42549 8.78 294.996
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 173.59900 -42.42613 8.54 358.581
+OBJECT_SHARED Models/lib/transformer3x3.ac 173.59966 -42.42683 7.73 38.5508
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 173.60372 -42.42176 12.38 25.5338
+OBJECT_SHARED Models/lib/SmHangar.ac 173.59878 -42.42613 8.54 204.822
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 173.60007 -42.42562 8.81 172.235
+OBJECT_SHARED Models/Misc/picnic_table.ac 173.60038 -42.42556 8.81 226.236
+OBJECT_SHARED Models/lib/vending-machine.ac 173.60029 -42.42572 8.81 294.184
 # END dsf2stg

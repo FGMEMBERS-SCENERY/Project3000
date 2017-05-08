@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -71.52401 -32.78449 16.39 342.03
-OBJECT_SHARED Models/lib/MedHangar.ac -71.52561 -32.78484 15.42 153.43
-OBJECT_SHARED Models/lib/MedHangar.ac -71.52539 -32.78516 14.01 259.53
-OBJECT_SHARED Models/Aircraft/D328_services.xml -71.52233 -32.79381 10.60 90
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -71.52247 -32.78562 9.79 197.65
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -71.52401 -32.78449 14.00 72.03
+OBJECT_SHARED Models/lib/MedHangar.ac -71.52561 -32.78484 15.90 153.43
+OBJECT_SHARED Models/lib/MedHangar.ac -71.52539 -32.78516 15.78 259.53
+OBJECT_SHARED Models/Aircraft/D328_services.xml -71.52233 -32.79381 17.00 90
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -71.52247 -32.78562 12.91 197.65
 # END dsf2stg

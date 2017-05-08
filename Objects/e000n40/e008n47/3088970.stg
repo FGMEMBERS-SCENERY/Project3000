@@ -1,23 +1,23 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.51532 47.23808 591.64 359
-OBJECT_SHARED Models/lib/hangar81x16.ac 8.51617 47.23778 592.06 180
-OBJECT_SHARED Models/lib/farm19x12.ac 8.51436 47.23795 590.90 0
-OBJECT_SHARED Models/lib/6space_wStop.ac 8.51405 47.23779 590.69 2
-OBJECT_SHARED Models/lib/6space_wStop.ac 8.51369 47.23775 590.42 201
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.51604 47.23779 591.98 180
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.51604 47.23775 591.89 180
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.51601 47.23777 591.96 180
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.51401 47.23782 590.66 92
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.51402 47.23775 590.60 272
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.51374 47.23776 590.46 110
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.51369 47.23782 590.42 290.01
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.51347 47.23804 590.41 178
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.51460 47.23792 591.08 269
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 8.51566 47.23790 591.84 62
-OBJECT_SHARED Models/lib/vending-machine.ac 8.51437 47.23792 590.91 0
-OBJECT_SHARED Models/lib/vending-machine.ac 8.51595 47.23776 591.92 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.51600 47.23775 591.86 260
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.51599 47.23779 591.94 180
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.51532 47.23808 591.45 359
+OBJECT_SHARED Models/lib/hangar81x16.ac 8.51617 47.23778 592.07 180
+OBJECT_SHARED Models/lib/farm19x12.ac 8.51436 47.23795 590.64 0
+OBJECT_SHARED Models/lib/6space_wStop.ac 8.51405 47.23779 590.40 2
+OBJECT_SHARED Models/lib/6space_wStop.ac 8.51369 47.23775 590.24 201
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51604 47.23779 591.86 180
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51604 47.23775 591.87 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.51601 47.23777 591.81 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.51401 47.23782 590.39 92
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.51402 47.23775 590.33 272
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.51374 47.23776 590.26 110
+OBJECT_SHARED Models/Transport/van_silver.ac 8.51369 47.23782 590.24 290.01
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 8.51347 47.23804 590.35 178
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 8.51460 47.23792 590.82 269
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 8.51566 47.23790 591.56 62
+OBJECT_SHARED Models/lib/vending-machine.ac 8.51437 47.23792 590.64 0
+OBJECT_SHARED Models/lib/vending-machine.ac 8.51595 47.23776 591.74 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51600 47.23775 591.80 260
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51599 47.23779 591.79 180
 # END dsf2stg

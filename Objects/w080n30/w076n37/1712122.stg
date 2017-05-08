@@ -1,23 +1,23 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office40x25.ac -75.48222 37.93897 7.57 90
-OBJECT_SHARED Models/lib/office32x25.ac -75.47266 37.93332 10.58 326.5
-OBJECT_SHARED Models/lib/office32x25.ac -75.47583 37.92820 11.50 147.54
-OBJECT_SHARED Models/lib/office32x25.ac -75.45964 37.94605 8.02 90
-OBJECT_SHARED Models/lib/office40x25.ac -75.45892 37.94609 7.98 358.49
-OBJECT_SHARED Models/lib/office32x25n.ac -75.47503 37.94484 5.43 270.42
-OBJECT_SHARED Models/lib/MedHangar.ac -75.47194 37.93329 9.95 237.36
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -75.47085 37.93954 9.52 152.15
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.47113 37.93972 -85.57 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.47149 37.93970 -85.70 0
-OBJECT_SHARED Models/lib/office16x4n.ac -75.46974 37.94039 9.97 270.95
-OBJECT_SHARED Models/lib/MedHangar.ac -75.47236 37.93288 10.31 57.01
-OBJECT_SHARED Models/lib/office65x50.ac -75.47751 37.93938 9.23 359.03
-OBJECT_SHARED Models/lib/office65x50.ac -75.47933 37.93869 9.06 359.06
-OBJECT_SHARED Models/lib/office65x50.ac -75.47894 37.93869 9.38 359.06
-OBJECT_SHARED Models/lib/office65x50.ac -75.47910 37.93960 9.27 359.06
-OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -75.47318 37.93932 -86.51 0
-OBJECT_SHARED Models/lib/LgMaint.ac -75.47002 37.94094 10.09 179.29
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -75.46654 37.94089 10.60 327.85
+OBJECT_SHARED Models/lib/office40x25.ac -75.48222 37.93897 7.82 90
+OBJECT_SHARED Models/lib/office32x25.ac -75.47266 37.93332 10.27 326.5
+OBJECT_SHARED Models/lib/office32x25.ac -75.47583 37.92820 9.87 147.54
+OBJECT_SHARED Models/lib/office32x25.ac -75.45964 37.94605 6.27 90
+OBJECT_SHARED Models/lib/office40x25.ac -75.45892 37.94609 5.95 358.49
+OBJECT_SHARED Models/lib/office32x25n.ac -75.47503 37.94484 6.98 270.42
+OBJECT_SHARED Models/lib/MedHangar.ac -75.47194 37.93329 10.07 237.36
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -75.47085 37.93954 10.56 152.15
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.47113 37.93972 -84.49 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.47149 37.93970 -84.53 0
+OBJECT_SHARED Models/lib/office16x4n.ac -75.46974 37.94039 10.44 270.95
+OBJECT_SHARED Models/lib/MedHangar.ac -75.47236 37.93288 10.08 57.01
+OBJECT_SHARED Models/lib/office65x50.ac -75.47751 37.93938 9.40 359.03
+OBJECT_SHARED Models/lib/office65x50.ac -75.47933 37.93869 9.11 359.06
+OBJECT_SHARED Models/lib/office65x50.ac -75.47894 37.93869 9.25 359.06
+OBJECT_SHARED Models/lib/office65x50.ac -75.47910 37.93960 8.78 359.06
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -75.47318 37.93932 -81.60 0
+OBJECT_SHARED Models/lib/LgMaint.ac -75.47002 37.94094 10.30 179.29
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -75.46654 37.94089 10.20 327.85
 # END dsf2stg

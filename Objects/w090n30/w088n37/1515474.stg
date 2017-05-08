@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -87.39650 37.35398 124.69 217.41
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -87.39712 37.35361 125.22 308.99
+OBJECT_SHARED Models/lib/cars4.ac -87.39695 37.35361 125.23 40.26
+OBJECT_SHARED Models/lib/lamp10m.xml -87.39656 37.35387 124.83 222.27
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -87.39685 37.35368 125.09 352.06
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -87.39721 37.35441 124.66 37.8
+OBJECT_SHARED Models/lib/lamp10m.xml -87.39640 37.35404 124.70 36.55
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -87.39704 37.35355 125.23 263.03
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -87.39609 37.35440 124.12 311.92
+OBJECT_SHARED Models/lib/HorizTanks2.ac -87.39647 37.35403 124.69 308.99
+OBJECT_SHARED Models/lib/lamp10m.xml -87.39852 37.35409 127.78 218.16
+OBJECT_SHARED Models/lib/MedHangar.ac -87.39882 37.35393 127.86 308.876
+# END dsf2stg

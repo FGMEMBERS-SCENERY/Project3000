@@ -1,19 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/billboard-tree.xml 5.08911 44.02260 118.18 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 5.08911 44.02260 118.18 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 5.09031 44.02227 120.18 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 5.08737 44.02392 115.29 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 5.08969 44.02240 119.19 0
-OBJECT_SHARED Models/lib/SmHangar.ac 5.08786 44.02312 116.25 241.08
-OBJECT_SHARED Models/Misc/picnic_table.ac 5.08950 44.02247 118.80 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 5.08951 44.02249 118.81 336.53
-OBJECT_SHARED Models/lib/cone.ac 5.08858 44.02290 117.22 0
-OBJECT_SHARED Models/lib/cone.ac 5.08856 44.02292 117.20 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.08925 44.02268 118.24 154.72
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.08711 44.02371 115.14 99.09
-OBJECT_SHARED Models/lib/LongRow.ac 5.08880 44.02267 117.68 152.668
-OBJECT_SHARED Models/lib/MedHangar.ac 5.08735 44.02350 115.47 228.71
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.08833 44.02340 116.54 132.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.08911 44.02260 118.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.08911 44.02260 118.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.09031 44.02227 120.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.08737 44.02392 115.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.08969 44.02240 119.20 0
+OBJECT_SHARED Models/lib/SmHangar.ac 5.08786 44.02312 116.30 241.08
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.08950 44.02247 118.81 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.08951 44.02249 118.83 336.53
+OBJECT_SHARED Models/lib/garage-small-white.ac 5.08897 44.02262 118.05 60.9
+OBJECT_SHARED Models/lib/cone.ac 5.08858 44.02290 117.27 0
+OBJECT_SHARED Models/lib/cone.ac 5.08856 44.02292 117.24 0
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 5.08925 44.02268 118.26 154.72
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 5.08711 44.02371 115.17 99.09
+OBJECT_SHARED Models/lib/LongRow.ac 5.08880 44.02267 117.71 152.668
+OBJECT_SHARED Models/lib/MedHangar.ac 5.08735 44.02350 115.50 228.71
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.08833 44.02340 116.57 132.96
 # END dsf2stg

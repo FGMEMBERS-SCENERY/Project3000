@@ -1,25 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/FireStationLg.ac -70.33616 -18.35061 57.95 160.82
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.33586 -18.35036 58.67 70.82
-OBJECT_SHARED Models/lib/office40x25.ac -70.33582 -18.35021 58.83 160.82
-OBJECT_SHARED Models/lib/lamp10m.xml -70.33639 -18.35088 57.66 -19.18
-OBJECT_SHARED Models/lib/lamp10m.xml -70.33631 -18.35091 57.98 -19.18
-OBJECT_SHARED Models/lib/lamp10m.xml -70.33634 -18.35074 57.75 -19.18
-OBJECT_SHARED Models/lib/lamp10m.xml -70.33626 -18.35076 57.86 -19.18
-OBJECT_SHARED Models/lib/lamp10m.xml -70.33634 -18.35074 57.75 -19.18
-OBJECT_SHARED Models/lib/lamp10m.xml -70.33626 -18.35076 57.86 -19.18
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33599 -18.34916 57.05 145.82
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33598 -18.34912 57.09 85.82
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33615 -18.34960 57.59 145.82
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33613 -18.34956 57.59 85.82
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33634 -18.35003 57.33 145.82
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33632 -18.34999 57.33 85.82
-OBJECT_SHARED Models/lib/lamp10m.xml -70.33528 -18.34700 58.45 -19.18
-OBJECT_SHARED Models/lib/lamp10m.xml -70.33515 -18.34664 58.84 -19.18
-OBJECT_SHARED Models/lib/JetWayWallBase.ac -70.33589 -18.34917 57.28 160.82
-OBJECT_SHARED Models/lib/JetWayWallBase.ac -70.33605 -18.34961 57.72 160.82
-OBJECT_SHARED Models/lib/jetway_e12m.ac -70.33617 -18.34957 57.46 340.82
-OBJECT_SHARED Models/lib/jetway_e12m.ac -70.33602 -18.34913 57.09 340.82
+OBJECT_SHARED Models/lib/FireStationLg.ac -70.33616 -18.35061 55.33 160.82
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.33586 -18.35036 55.74 70.82
+OBJECT_SHARED Models/lib/office40x25.ac -70.33582 -18.35021 55.89 160.82
+OBJECT_SHARED Models/lib/lamp10m.xml -70.33639 -18.35088 55.04 -19.18
+OBJECT_SHARED Models/lib/lamp10m.xml -70.33631 -18.35091 55.17 -19.18
+OBJECT_SHARED Models/lib/lamp10m.xml -70.33634 -18.35074 55.20 -19.18
+OBJECT_SHARED Models/lib/lamp10m.xml -70.33626 -18.35076 55.18 -19.18
+OBJECT_SHARED Models/lib/lamp10m.xml -70.33634 -18.35074 55.20 -19.18
+OBJECT_SHARED Models/lib/lamp10m.xml -70.33626 -18.35076 55.18 -19.18
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33599 -18.34916 55.75 145.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33598 -18.34912 55.76 85.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33615 -18.34960 55.58 145.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33613 -18.34956 55.58 85.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33634 -18.35003 55.27 145.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.33632 -18.34999 55.27 85.82
+OBJECT_SHARED Models/lib/lamp10m.xml -70.33528 -18.34700 56.92 -19.18
+OBJECT_SHARED Models/lib/lamp10m.xml -70.33515 -18.34664 57.24 -19.18
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -70.33589 -18.34917 55.88 160.82
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -70.33605 -18.34961 55.71 160.82
+OBJECT_SHARED Models/lib/jetway_e12m.ac -70.33617 -18.34957 55.45 340.82
+OBJECT_SHARED Models/lib/jetway_e12m.ac -70.33602 -18.34913 55.76 340.82
 # END dsf2stg

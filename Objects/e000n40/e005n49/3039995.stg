@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.91398 49.97982 457.61 198.19
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 5.91489 49.97999 454.56 200.39
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91436 49.97982 456.30 204.03
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91432 49.97981 456.44 198.03
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91428 49.97980 456.58 204.54
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91423 49.97979 456.75 198.03
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91419 49.97978 456.89 199.47
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91414 49.97976 457.06 199.5
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91410 49.97975 457.20 199.53
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91384 49.97981 458.09 120.88
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91382 49.97984 458.16 111.25
-OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91387 49.97975 457.94 110.03
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 5.91460 49.97989 455.52 198.5
-OBJECT_SHARED Models/lib/shed8x10.ac 5.91361 49.97973 458.84 290.76
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 5.91398 49.97982 458.46 198.19
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 5.91489 49.97999 457.93 200.39
+OBJECT_SHARED Models/Transport/van_silver.ac 5.91436 49.97982 458.25 204.03
+OBJECT_SHARED Models/Transport/van_red.ac 5.91432 49.97981 458.27 198.03
+OBJECT_SHARED Models/Transport/van_red.ac 5.91428 49.97980 458.30 204.54
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 5.91423 49.97979 458.32 198.03
+OBJECT_SHARED Models/Transport/hatchback_red.ac 5.91419 49.97978 458.34 199.47
+OBJECT_SHARED Models/Transport/van_silver.ac 5.91414 49.97976 458.37 199.5
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 5.91410 49.97975 458.39 199.53
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 5.91384 49.97981 458.61 120.88
+OBJECT_SHARED Models/Transport/hatchback_black.ac 5.91382 49.97984 458.62 111.25
+OBJECT_SHARED Models/Transport/van_red.ac 5.91387 49.97975 458.52 110.03
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 5.91460 49.97989 458.12 198.5
+OBJECT_SHARED Models/lib/shed8x10.ac 5.91361 49.97973 459.92 290.76
 # END dsf2stg

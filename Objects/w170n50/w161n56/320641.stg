@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -160.55574 56.00920 4.67 284.53
+OBJECT_SHARED Models/lib/SmHangar.ac -160.55531 56.00935 5.92 333.44
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -160.55550 56.00915 4.74 64.44
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -160.55640 56.00966 4.27 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -160.55512 56.00963 5.74 59.72
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -160.70565 56.01960 -3.79 90
+# END dsf2stg

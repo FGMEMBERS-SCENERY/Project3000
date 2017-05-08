@@ -1,17 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64340 -5.12748 1512.65 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64250 -5.12836 1507.64 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64567 -5.12752 1505.78 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64635 -5.12686 1505.72 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64632 -5.12694 1505.72 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64638 -5.12709 1505.74 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64631 -5.12710 1505.74 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64638 -5.12715 1505.74 0
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 141.64583 -5.12667 1505.70 123.486
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 141.64586 -5.12672 1505.70 295.71
-OBJECT_SHARED Models/lib/fuel-truck.xml 141.64594 -5.12688 1505.72 358.708
-OBJECT_SHARED Models/lib/SmHangar.ac 141.64254 -5.12847 1502.67 132.896
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 141.64226 -5.12882 1508.06 74.9238
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64340 -5.12748 1506.37 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64250 -5.12836 1504.24 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64567 -5.12752 1504.50 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64635 -5.12686 1505.11 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64632 -5.12694 1505.02 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64638 -5.12709 1504.87 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64631 -5.12710 1504.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 141.64638 -5.12715 1504.82 0
+OBJECT_SHARED Models/lib/garage-small-white.ac 141.64235 -5.12850 1503.97 312.721
+OBJECT_SHARED Models/Transport/hatchback_black.ac 141.64583 -5.12667 1505.31 123.486
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 141.64586 -5.12672 1505.26 295.71
+OBJECT_SHARED Models/lib/fuel-truck.xml 141.64594 -5.12688 1505.09 358.708
+OBJECT_SHARED Models/lib/SmHangar.ac 141.64254 -5.12847 1503.90 132.896
+OBJECT_SHARED Models/Aircraft/Cessna172.ac 141.64226 -5.12882 1503.36 74.9238
 # END dsf2stg

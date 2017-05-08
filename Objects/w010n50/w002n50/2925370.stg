@@ -4,6 +4,6 @@
 OBJECT_SHARED Models/lib/fuel-truck.xml -1.35600 50.94530 8.45 336.55
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -1.35860 50.95307 11.56 160.64
 OBJECT_SHARED Models/Aircraft/D328_services.xml -1.36049 50.94956 11.96 70.56
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -1.35933 50.95235 11.63 70.91
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -1.35933 50.95235 11.63 160.91
 OBJECT_SHARED Models/lib/MedHangar.ac -1.35851 50.95376 11.53 161.1
 # END dsf2stg

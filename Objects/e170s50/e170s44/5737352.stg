@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 170.13335 -43.76689 652.29 91.1
+OBJECT_SHARED Models/Airport/cargobox.xml 170.13252 -43.76589 653.46 105.95
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 170.13300 -43.76658 652.64 190.08
+OBJECT_SHARED Models/lib/shed8x10.ac 170.13197 -43.76725 652.28 71.17
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 170.13263 -43.76750 651.56 20.9
+OBJECT_SHARED Models/lib/SmHangar.ac 170.13312 -43.76689 652.29 113.45
+OBJECT_SHARED Models/lib/admin31x12.ac 170.13289 -43.76642 652.88 202.08
+# END dsf2stg

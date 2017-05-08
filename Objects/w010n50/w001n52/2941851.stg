@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -0.24981 52.46524 8.18 278.1
+OBJECT_SHARED Models/lib/SmHangar.ac -0.24281 52.46839 7.38 352.03
+OBJECT_SHARED Models/lib/office3x10.ac -0.24336 52.46891 7.30 350.67
+OBJECT_SHARED Models/lib/lamp10m.xml -0.24286 52.46846 7.36 34.8
+OBJECT_SHARED Models/lib/lamp10m.xml -0.24287 52.46859 7.33 199.82
+OBJECT_SHARED Models/lib/lamp10m.xml -0.24307 52.46884 7.30 248.03
+OBJECT_SHARED Models/Airport/cargoip.xml -0.24256 52.46851 7.33 90.97
+OBJECT_SHARED Models/Airport/cargoip.xml -0.24259 52.46853 7.33 102.58
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -0.24265 52.46854 7.33 308.77
+OBJECT_SHARED Models/lib/propane-tank.ac -0.24426 52.46867 7.49 172.42
+OBJECT_SHARED Models/lib/propane-tank.ac -0.24426 52.46866 7.49 172.42
+OBJECT_SHARED Models/lib/propane-tank.ac -0.24427 52.46865 7.49 172.42
+OBJECT_SHARED Models/lib/propane-tank.ac -0.24427 52.46864 7.51 172.42
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.24268 52.46855 7.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.24268 52.46856 7.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.24270 52.46856 7.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.24270 52.46857 7.31 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.24273 52.46858 7.32 169.67
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.24326 52.46883 7.33 169.46
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.24333 52.46884 7.33 170.58
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.24339 52.46884 7.34 169.65
+OBJECT_SHARED Models/lib/cars4.ac -0.24309 52.46894 7.26 170.91
+OBJECT_SHARED Models/lib/cars4.ac -0.24308 52.46883 7.30 81.37
+OBJECT_SHARED Models/lib/cars6.ac -0.24329 52.46909 7.21 350.6
+# END dsf2stg

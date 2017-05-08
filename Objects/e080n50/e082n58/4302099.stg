@@ -1,18 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 82.92707 58.32409 -0.37 301.93
-OBJECT_SHARED Models/lib/office32x25n.ac 82.92760 58.32641 -0.38 191.43
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 82.92810 58.32578 -0.37 101.89
-OBJECT_SHARED Models/lib/FireStationLg.ac 82.92784 58.32512 -0.37 14.56
-OBJECT_SHARED Models/lib/fuel-truck.xml 82.92909 58.32058 -0.31 137.63
-OBJECT_SHARED Models/lib/HorizTanks2.ac 82.92906 58.32050 -0.30 320.71
-OBJECT_SHARED Models/lib/HorizTanks2.ac 82.92916 58.32057 -0.30 321.34
-OBJECT_SHARED Models/Airport/helipad40m.ac 82.93016 58.32358 -0.33 12.8
-OBJECT_SHARED Models/Airport/helipad40m.ac 82.92993 58.32417 -0.34 11.31
-OBJECT_SHARED Models/Airport/helipad40m.ac 82.92971 58.32479 -0.34 11.32
-OBJECT_SHARED Models/lib/cube16x10.ac 82.92819 58.32154 -0.33 29.48
-OBJECT_SHARED Models/lib/office32x25.ac 82.92815 58.32233 -0.34 8.81
-OBJECT_SHARED Models/Aircraft/B1900_services.xml 82.92900 58.32465 -0.35 11.69
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 82.92881 58.32500 -0.35 189.02
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 82.92707 58.32409 72.94 301.93
+OBJECT_SHARED Models/lib/office32x25n.ac 82.92760 58.32641 72.33 191.43
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 82.92810 58.32578 71.88 101.89
+OBJECT_SHARED Models/lib/FireStationLg.ac 82.92784 58.32512 72.21 14.56
+OBJECT_SHARED Models/lib/fuel-truck.xml 82.92909 58.32058 70.72 137.63
+OBJECT_SHARED Models/lib/HorizTanks2.ac 82.92906 58.32050 70.71 320.71
+OBJECT_SHARED Models/lib/HorizTanks2.ac 82.92916 58.32057 70.73 321.34
+OBJECT_SHARED Models/lib/cube16x10.ac 82.92819 58.32154 70.80 29.48
+OBJECT_SHARED Models/lib/office32x25.ac 82.92815 58.32233 70.92 8.81
+OBJECT_SHARED Models/Aircraft/B1900_services.xml 82.92900 58.32465 71.18 11.69
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 82.92881 58.32500 71.29 189.02
 # END dsf2stg

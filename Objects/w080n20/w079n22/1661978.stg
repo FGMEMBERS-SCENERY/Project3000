@@ -3,22 +3,22 @@
 #
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.32735 22.46613 8.55 0
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.32899 22.46583 8.20 0
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -78.33015 22.46618 8.05 199.54
+OBJECT_SHARED Models/lib/trailer-ups.ac -78.33015 22.46618 8.05 199.54
 OBJECT_SHARED Models/lib/office32x25n.ac -78.33511 22.46615 7.17 288.18
 OBJECT_SHARED Models/lib/FireStationLg.ac -78.33599 22.46587 7.02 288.71
 OBJECT_SHARED Models/lib/office32x25.ac -78.33249 22.46606 7.61 288.98
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -78.33326 22.46585 7.45 200.71
-OBJECT_SHARED Models/lib/cars6.ac -78.33030 22.46661 8.07 18.78
+OBJECT_SHARED Models/lib/cars6.ac -78.33030 22.46661 8.08 18.78
 OBJECT_SHARED Models/lib/cars4.ac -78.32885 22.46618 8.28 289.77
-OBJECT_SHARED Models/lib/chariot5.ac -78.32846 22.46600 8.30 16.92
-OBJECT_SHARED Models/lib/CargoPalettePkng.ac -78.32808 22.46629 8.41 198.87
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -78.32846 22.46600 8.30 16.92
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -78.32808 22.46629 8.41 198.87
 OBJECT_SHARED Models/lib/loader.ac -78.32822 22.46623 8.38 -72.7
 OBJECT_SHARED Models/lib/fuel-truck.xml -78.32809 22.46620 8.40 288
-OBJECT_SHARED Models/lib/fuel-truck.xml -78.32776 22.46613 8.43 17.28
+OBJECT_SHARED Models/lib/fuel-truck.xml -78.32776 22.46613 8.44 17.28
 OBJECT_SHARED Models/lib/belt_loader.ac -78.32895 22.46583 8.20 -72.3
 OBJECT_SHARED Models/lib/belt_loader.ac -78.32857 22.46618 8.31 -72.3
 OBJECT_SHARED Models/lib/belt_loader.ac -78.32859 22.46617 8.31 -72.3
-OBJECT_SHARED Models/lib/container6.ac -78.32835 22.46625 8.35 289.06
+OBJECT_SHARED Models/lib/container6-HD.ac -78.32835 22.46625 8.35 289.06
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.32790 22.46597 8.41 197.63
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.32917 22.46556 8.15 197.63
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.32851 22.46576 8.29 197.63
@@ -27,6 +27,6 @@ OBJECT_SHARED Models/lib/lamp10m.xml -78.32849 22.46603 8.30 108.57
 OBJECT_SHARED Models/lib/lamp10m.xml -78.32875 22.46595 8.24 108.57
 OBJECT_SHARED Models/lib/lamp10m.xml -78.32896 22.46589 8.21 108.57
 OBJECT_SHARED Models/lib/lamp10m.xml -78.32935 22.46576 8.13 108.57
-OBJECT_SHARED Models/lib/lamp10m.xml -78.32957 22.46570 8.09 108.57
-OBJECT_SHARED Models/lib/lamp10m.xml -78.32977 22.46563 8.05 108.57
+OBJECT_SHARED Models/lib/lamp10m.xml -78.32957 22.46570 8.10 108.57
+OBJECT_SHARED Models/lib/lamp10m.xml -78.32977 22.46563 8.04 108.57
 # END dsf2stg

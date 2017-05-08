@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -156.01380 20.79450 23.75 180
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -156.01356 20.79451 23.75 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -156.01416 20.79452 23.75 265.6
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -156.01450 20.79451 23.75 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -156.01441 20.79450 23.75 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -156.01436 20.79453 23.75 0
+OBJECT_SHARED Models/lib/NoParkStripes.xml -156.01446 20.79442 23.91 90
+OBJECT_SHARED Models/lib/SmHangar.ac -156.01569 20.79452 25.38 180
+OBJECT_SHARED Models/lib/6space_wStop.ac -156.01481 20.79433 24.68 270
+OBJECT_SHARED Models/lib/6space_wStop.ac -156.01489 20.79448 24.30 90
+OBJECT_SHARED Models/lib/cars6.ac -156.01478 20.79448 24.30 0
+OBJECT_SHARED Models/lib/farm19x12.ac -156.01425 20.79441 23.91 0
+OBJECT_SHARED Models/lib/cube16x10.ac -156.01515 20.79447 24.30 90
+OBJECT_SHARED Models/lib/lamp10m.xml -156.01452 20.79444 24.48 270
+OBJECT_SHARED Models/lib/lamp10m.xml -156.01416 20.79445 23.91 270
+# END dsf2stg

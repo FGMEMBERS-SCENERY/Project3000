@@ -1,21 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.93353 51.14471 311.79 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.93380 51.14416 311.85 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.93401 51.14479 311.33 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.93386 51.14483 311.42 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.93464 51.14597 306.47 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.93455 51.14591 306.90 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.93334 51.14337 309.09 180
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.93334 51.14345 309.73 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.93362 51.14416 312.01 0
-OBJECT_SHARED Models/lib/farm19x12.ac 7.93344 51.14421 312.17 222.75
-OBJECT_SHARED Models/lib/SmHangar.ac 7.93383 51.14435 312.21 223.26
-OBJECT_SHARED Models/lib/SmHangar.ac 7.93393 51.14442 312.61 223.26
-OBJECT_SHARED Models/lib/cars4.ac 7.93408 51.14466 311.66 229.4
-OBJECT_SHARED Models/lib/cars4.ac 7.93387 51.14451 312.50 216.66
-OBJECT_SHARED Models/lib/SmHangar.ac 7.93544 51.14348 312.37 327.45
-OBJECT_SHARED Models/lib/SmHangar.ac 7.93552 51.14356 312.56 327.45
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.93433 51.14481 311.11 247.75
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.93353 51.14471 311.88 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.93380 51.14416 312.16 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.93401 51.14479 312.26 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.93386 51.14483 312.12 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.93464 51.14597 311.77 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.93455 51.14591 311.67 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.93334 51.14337 311.54 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.93334 51.14345 311.62 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.93362 51.14416 312.06 0
+OBJECT_SHARED Models/lib/farm19x12.ac 7.93344 51.14421 311.90 222.75
+OBJECT_SHARED Models/lib/SmHangar.ac 7.93383 51.14435 312.18 223.26
+OBJECT_SHARED Models/lib/SmHangar.ac 7.93393 51.14442 312.25 223.26
+OBJECT_SHARED Models/lib/cars4.ac 7.93408 51.14466 312.33 229.4
+OBJECT_SHARED Models/lib/cars4.ac 7.93387 51.14451 312.21 216.66
+OBJECT_SHARED Models/lib/SmHangar.ac 7.93544 51.14348 312.84 327.45
+OBJECT_SHARED Models/lib/SmHangar.ac 7.93552 51.14356 311.65 327.45
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.93433 51.14481 312.52 247.75
 # END dsf2stg

@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -74.99923 40.08124 33.27 133.11
-OBJECT_SHARED Models/lib/lamp10m.xml -74.99958 40.08099 33.84 128
-OBJECT_SHARED Models/lib/lamp10m.xml -74.99992 40.08076 34.01 129.81
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -74.99808 40.08034 31.52 0
-OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -74.99994 40.08083 34.01 221.63
+OBJECT_SHARED Models/lib/lamp10m.xml -74.99923 40.08124 30.71 133.11
+OBJECT_SHARED Models/lib/lamp10m.xml -74.99958 40.08099 30.80 128
+OBJECT_SHARED Models/lib/lamp10m.xml -74.99992 40.08076 30.87 129.81
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -74.99808 40.08034 30.63 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -74.99994 40.08083 30.87 221.63
 # END dsf2stg

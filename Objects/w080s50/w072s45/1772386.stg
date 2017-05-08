@@ -1,14 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/farm19x12.ac -71.31544 -44.49922 750.16 209.94
-OBJECT_SHARED Models/lib/farm19x12.ac -71.31494 -44.49927 749.48 306.49
-OBJECT_SHARED Models/lib/farm19x12.ac -71.31514 -44.49906 750.45 303.81
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -71.31170 -44.49902 749.21 287.1
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31695 -44.49920 750.90 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31669 -44.49927 750.37 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31647 -44.49945 749.68 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31444 -44.49816 754.02 90
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31457 -44.49794 755.43 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31472 -44.49776 755.91 0
+OBJECT_SHARED Models/lib/farm19x12.ac -71.31544 -44.49922 751.31 209.94
+OBJECT_SHARED Models/lib/garden-shed.ac -71.31485 -44.49889 751.82 90
+OBJECT_SHARED Models/lib/farm19x12.ac -71.31494 -44.49927 750.96 306.49
+OBJECT_SHARED Models/lib/farm19x12.ac -71.31514 -44.49906 751.45 303.81
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -71.31170 -44.49902 750.55 287.1
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31695 -44.49920 751.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31669 -44.49927 751.42 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31647 -44.49945 750.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31444 -44.49816 753.17 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31457 -44.49794 753.87 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.31472 -44.49776 754.12 0
 # END dsf2stg

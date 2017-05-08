@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -79.07448 43.11856 163.18 303.82
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -79.07453 43.11870 163.59 124.99
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -79.07462 43.11863 162.73 303.82
-OBJECT_SHARED Models/Transport/Norberttruck.xml -79.07430 43.11874 164.36 147.73
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.07491 43.11900 163.03 54.75
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.07488 43.11899 163.03 54.75
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.07495 43.11902 163.03 54.75
-OBJECT_SHARED Models/lib/MedHangar.ac -79.07614 43.11842 165.16 270.64
-OBJECT_SHARED Models/lib/cars6.ac -79.07582 43.11793 161.75 180.05
+OBJECT_SHARED Models/Transport/van_silver.ac -79.07448 43.11856 163.67 303.82
+OBJECT_SHARED Models/Transport/hatchback_black.ac -79.07453 43.11870 163.85 124.99
+OBJECT_SHARED Models/Transport/hatchback_red.ac -79.07462 43.11863 163.62 303.82
+OBJECT_SHARED Models/Transport/Norberttruck.xml -79.07430 43.11874 163.93 147.73
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.07491 43.11900 164.08 54.75
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.07488 43.11899 164.08 54.75
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.07495 43.11902 164.08 54.75
+OBJECT_SHARED Models/lib/MedHangar.ac -79.07614 43.11842 163.05 270.64
+OBJECT_SHARED Models/lib/cars6.ac -79.07582 43.11793 162.75 180.05
 # END dsf2stg

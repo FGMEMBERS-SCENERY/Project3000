@@ -1,21 +1,27 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_red.ac 18.94741 49.06319 411.90 270
-OBJECT_SHARED Models/Transport/hatchback_red.ac 18.94776 49.06287 411.93 280.62
-OBJECT_SHARED Models/Transport/hatchback_red.ac 18.94771 49.06291 411.86 276.34
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 18.94863 49.06265 412.30 33.69
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.94804 49.06301 412.15 302.98
-OBJECT_SHARED Models/lib/shed8x10.ac 18.94756 49.06254 411.29 118.07
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.94844 49.06215 411.88 300.96
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 18.94814 49.06253 411.61 31.33
-OBJECT_SHARED Models/lib/farm19x12.ac 18.94727 49.06300 411.29 122.03
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.94799 49.06285 412.02 31.92
-OBJECT_SHARED Models/lib/transformer3x3.ac 18.94829 49.06212 411.72 29.36
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94691 49.06354 410.11 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94700 49.06347 410.41 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94709 49.06340 410.65 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94730 49.06234 410.76 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94827 49.06290 412.15 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94699 49.06321 410.26 0
+OBJECT_SHARED Models/Transport/van_silver.ac 18.94741 49.06319 412.06 270
+OBJECT_SHARED Models/Transport/hatchback_green.ac 18.94776 49.06287 412.55 280.62
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 18.94771 49.06291 412.43 276.34
+OBJECT_SHARED Models/lib/garage-small-white.ac 18.94752 49.06336 412.14 123.69
+OBJECT_SHARED Models/lib/garage-small-white.ac 18.94804 49.06223 412.61 30.96
+OBJECT_SHARED Models/lib/garage-small-white.ac 18.94837 49.06208 413.11 121.43
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 18.94863 49.06265 413.44 33.69
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.94804 49.06301 412.78 302.98
+OBJECT_SHARED Models/lib/garden-shed.ac 18.94777 49.06345 412.48 13.04
+OBJECT_SHARED Models/lib/garden-shed.ac 18.94772 49.06340 412.37 106.02
+OBJECT_SHARED Models/lib/garden-shed.ac 18.94769 49.06335 412.37 12.53
+OBJECT_SHARED Models/lib/shed8x10.ac 18.94756 49.06254 412.17 118.07
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.94844 49.06215 413.13 300.96
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 18.94814 49.06253 412.79 121.33
+OBJECT_SHARED Models/lib/farm19x12.ac 18.94727 49.06300 411.94 122.03
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.94799 49.06285 412.76 31.92
+OBJECT_SHARED Models/lib/transformer3x3.ac 18.94829 49.06212 412.97 29.36
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94691 49.06354 410.07 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94700 49.06347 410.42 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94709 49.06340 411.03 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94730 49.06234 411.71 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94827 49.06290 413.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.94699 49.06321 411.56 0
 # END dsf2stg

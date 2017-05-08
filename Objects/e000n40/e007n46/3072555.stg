@@ -1,19 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/helipad40m.ac 7.87822 46.64770 684.07 123.27
-OBJECT_SHARED Models/lib/transformer3x3.ac 7.87837 46.64812 689.59 186.34
-OBJECT_SHARED Models/lib/MedHangar.ac 7.87841 46.64788 684.50 33.83
-OBJECT_SHARED Models/Transport/hatchback_red.ac 7.87814 46.64804 687.18 151.46
-OBJECT_SHARED Models/Transport/hatchback_red.ac 7.87817 46.64802 686.76 147.64
-OBJECT_SHARED Models/Transport/hatchback_red.ac 7.87819 46.64799 686.26 149.56
-OBJECT_SHARED Models/Transport/hatchback_red.ac 7.87821 46.64797 685.76 150.33
-OBJECT_SHARED Models/Transport/hatchback_red.ac 7.87823 46.64794 684.39 147.62
-OBJECT_SHARED Models/Transport/hatchback_red.ac 7.87826 46.64792 684.41 151.86
-OBJECT_SHARED Models/lib/cars10.ac 7.87807 46.64836 687.29 303.94
-OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87804 46.64807 684.66 164.4
-OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87795 46.64794 682.97 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87793 46.64800 682.15 100.62
-OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87800 46.64801 683.29 310.82
-OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87795 46.64813 683.19 19.44
+OBJECT_SHARED Models/lib/transformer3x3.ac 7.87837 46.64812 687.01 186.34
+OBJECT_SHARED Models/lib/MedHangar.ac 7.87841 46.64788 686.79 33.83
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 7.87814 46.64804 686.66 151.46
+OBJECT_SHARED Models/Transport/hatchback_green.ac 7.87817 46.64802 686.68 147.64
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.87819 46.64799 686.70 149.56
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.87821 46.64797 686.72 150.33
+OBJECT_SHARED Models/Transport/hatchback_green.ac 7.87823 46.64794 686.59 147.62
+OBJECT_SHARED Models/Transport/hatchback_red.ac 7.87826 46.64792 686.61 151.86
+OBJECT_SHARED Models/lib/cars10.ac 7.87807 46.64836 687.05 303.94
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87804 46.64807 686.72 164.4
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87795 46.64794 686.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87793 46.64800 686.60 100.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87800 46.64801 686.61 310.82
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87795 46.64813 686.69 19.44
 # END dsf2stg

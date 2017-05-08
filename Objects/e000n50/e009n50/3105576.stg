@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/propane-tank.ac 9.02057 50.74849 353.73 155.56
-OBJECT_SHARED Models/lib/propane-tank.ac 9.02056 50.74847 353.71 152.88
-OBJECT_SHARED Models/lib/office16x4n.ac 9.02062 50.74907 352.01 153.43
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.02024 50.74870 353.37 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.02014 50.74853 352.95 0
-OBJECT_SHARED Models/lib/SmHangar.ac 9.02054 50.74849 353.67 153.71
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.02098 50.74885 351.69 155.29
+OBJECT_SHARED Models/lib/propane-tank.ac 9.02057 50.74849 351.41 155.56
+OBJECT_SHARED Models/lib/propane-tank.ac 9.02056 50.74847 351.41 152.88
+OBJECT_SHARED Models/lib/office16x4n.ac 9.02062 50.74907 351.28 153.43
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.02024 50.74870 351.42 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.02014 50.74853 351.48 0
+OBJECT_SHARED Models/lib/SmHangar.ac 9.02054 50.74849 351.42 153.71
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 9.02098 50.74885 351.10 245.29
 # END dsf2stg

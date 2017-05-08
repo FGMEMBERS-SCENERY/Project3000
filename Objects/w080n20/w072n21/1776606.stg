@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -71.14651 21.44276 5.84 173.122
+OBJECT_SHARED Models/lib/chariot3curve.ac -71.14635 21.44258 5.82 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -71.14571 21.44255 5.82 169.216
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -71.14655 21.44278 5.83 161.565
+OBJECT_SHARED Models/lib/belt_loader.ac -71.14644 21.44266 5.83 75.4656
+OBJECT_SHARED Models/lib/lamp10m.xml -71.14565 21.44250 5.82 255.96
+OBJECT_SHARED Models/lib/lamp10m.xml -71.14600 21.44259 5.82 255.61
+OBJECT_SHARED Models/lib/lamp10m.xml -71.14648 21.44269 5.84 257.01
+OBJECT_SHARED Models/Transport/van_silver.ac -71.14387 21.44706 4.12 165.96
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -71.14393 21.44707 4.12 166.68
+OBJECT_SHARED Models/lib/cars10.ac -71.14661 21.44216 5.74 165.61
+OBJECT_SHARED Models/lib/SmHangar.ac -71.14280 21.44677 3.81 345.58
+OBJECT_SHARED Models/lib/cars6.ac -71.14604 21.44169 5.59 256.84
+OBJECT_SHARED Models/lib/cars6.ac -71.14621 21.44174 5.57 256.84
+OBJECT_SHARED Models/lib/cars6.ac -71.14637 21.44178 5.61 256.84
+OBJECT_SHARED Models/lib/cars6.ac -71.14625 21.44156 5.48 76.91
+OBJECT_SHARED Models/lib/cars6.ac -71.14641 21.44159 5.44 76.91
+OBJECT_SHARED Models/lib/cars10.ac -71.14660 21.44161 5.41 75.44
+OBJECT_SHARED Models/lib/cars10.ac -71.14645 21.44195 5.71 345.51
+OBJECT_SHARED Models/lib/cars10.ac -71.14686 21.44241 5.71 345.51
+OBJECT_SHARED Models/lib/4container-office.ac -71.14568 21.44200 5.74 166.31
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -71.14412 21.44330 5.52 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -71.14557 21.44183 5.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -71.14645 21.44398 5.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -71.14657 21.44401 5.61 0
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -71.14595 21.44229 5.81 75.43
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -71.14453 21.44229 5.75 345.5
+# END dsf2stg

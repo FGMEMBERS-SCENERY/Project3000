@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office16x4n.ac -78.78706 22.02452 90.37 24.87
-OBJECT_SHARED Models/lib/lamp10m.xml -78.78728 22.02452 90.51 -64.58
-OBJECT_SHARED Models/lib/lamp10m.xml -78.78745 22.02444 90.70 -64.58
-OBJECT_SHARED Models/lib/lamp10m.xml -78.78761 22.02437 90.77 -64.58
-OBJECT_SHARED Models/lib/lamp10m.xml -78.78779 22.02429 90.98 -64.58
-OBJECT_SHARED Models/lib/lamp10m.xml -78.78798 22.02420 91.19 -64.58
-OBJECT_SHARED Models/lib/lamp10m.xml -78.78817 22.02413 91.37 -64.58
-OBJECT_SHARED Models/lib/FireStationLg.ac -78.78834 22.02394 91.53 114.98
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -78.78756 22.02404 90.98 26.82
-OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -78.78635 22.02388 90.09 0
+OBJECT_SHARED Models/lib/office16x4n.ac -78.78706 22.02452 90.45 24.87
+OBJECT_SHARED Models/lib/lamp10m.xml -78.78728 22.02452 90.61 -64.58
+OBJECT_SHARED Models/lib/lamp10m.xml -78.78745 22.02444 90.81 -64.58
+OBJECT_SHARED Models/lib/lamp10m.xml -78.78761 22.02437 90.88 -64.58
+OBJECT_SHARED Models/lib/lamp10m.xml -78.78779 22.02429 91.08 -64.58
+OBJECT_SHARED Models/lib/lamp10m.xml -78.78798 22.02420 91.28 -64.58
+OBJECT_SHARED Models/lib/lamp10m.xml -78.78817 22.02413 91.48 -64.58
+OBJECT_SHARED Models/lib/FireStationLg.ac -78.78834 22.02394 91.64 114.98
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -78.78756 22.02404 91.05 26.82
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -78.78635 22.02388 90.12 0
 # END dsf2stg

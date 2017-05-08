@@ -1,12 +1,22 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -88.68479 44.10212 228.15 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68502 44.10225 228.14 0
-OBJECT_SHARED Models/Misc/picnic_table.ac -88.68497 44.10229 228.14 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -88.68601 44.10256 133.02 0
-OBJECT_SHARED Models/lib/SmHangar.ac -88.68471 44.10175 228.25 181.59
-OBJECT_SHARED Models/lib/SmHangar.ac -88.68493 44.10204 228.09 90
-OBJECT_SHARED Models/lib/MedHangar.ac -88.68582 44.10273 228.06 90
-OBJECT_SHARED Models/lib/MedHangar.ac -88.68451 44.10378 229.23 179.12
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68489 44.10296 228.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68474 44.10280 228.82 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68461 44.10251 228.80 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68455 44.10231 228.78 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68436 44.10289 229.15 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68448 44.10287 229.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68415 44.10252 229.24 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68425 44.10259 229.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68412 44.10244 229.19 0
+OBJECT_SHARED Models/lib/propane-tank.ac -88.68481 44.10333 228.86 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -88.68477 44.10314 228.82 180
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -88.68416 44.10347 229.53 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68485 44.10342 228.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68414 44.10339 229.61 0
+OBJECT_SHARED Models/lib/SmHangar.ac -88.68413 44.10272 229.34 180.418
+OBJECT_SHARED Models/lib/SmHangar.ac -88.68421 44.10305 229.41 270
+OBJECT_SHARED Models/lib/SmHangar.ac -88.68450 44.10305 229.12 270.494
+OBJECT_SHARED Models/lib/SmHangar.ac -88.68425 44.10355 229.42 179.605
 # END dsf2stg

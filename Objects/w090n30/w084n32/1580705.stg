@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -83.58414 32.62393 78.90 139.36
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -83.58494 32.62450 80.86 221.9
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -83.58642 32.62297 85.09 322.82
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -83.58548 32.62246 86.69 45
+OBJECT_SHARED Models/lib/LongRow.ac -83.58650 32.62457 81.67 134.51
+OBJECT_SHARED Models/Airport/egkk_oil.xml -83.58543 32.62328 82.74 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -83.58512 32.62362 80.88 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -83.58474 32.62397 79.87 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -83.58579 32.62292 -6.23 0
+OBJECT_SHARED Models/lib/LongRow.ac -83.58650 32.62457 81.67 134.51
+OBJECT_SHARED Models/lib/fuel-truck.xml -83.58577 32.62498 81.18 315
+# END dsf2stg

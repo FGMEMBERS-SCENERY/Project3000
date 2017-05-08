@@ -1,11 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.77518 40.45915 637.48 122.05
-OBJECT_SHARED Models/lib/SmHangar.ac -78.77588 40.45889 635.84 305.14
-OBJECT_SHARED Models/lib/SmHangar.ac -78.77557 40.45873 636.49 213.37
-OBJECT_SHARED Models/lib/shed10x50.ac -78.77428 40.45987 638.10 32.64
-OBJECT_SHARED Models/lib/HorizTanks2.ac -78.77466 40.45888 638.61 70.82
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -78.77501 40.45897 637.93 211.57
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -78.77544 40.45884 636.96 32
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.77518 40.45915 636.45 122.05
+OBJECT_SHARED Models/lib/SmHangar.ac -78.77588 40.45889 635.49 305.14
+OBJECT_SHARED Models/lib/SmHangar.ac -78.77557 40.45873 635.96 213.37
+OBJECT_SHARED Models/lib/shed10x50.ac -78.77428 40.45987 637.04 32.64
+OBJECT_SHARED Models/lib/HorizTanks2.ac -78.77466 40.45888 637.25 70.82
+OBJECT_SHARED Models/lib/garage-small-white.ac -78.77572 40.45860 635.81 123.03
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -78.77501 40.45897 636.77 211.57
+OBJECT_SHARED Models/Transport/hatchback_green.ac -78.77544 40.45884 636.25 32
 # END dsf2stg

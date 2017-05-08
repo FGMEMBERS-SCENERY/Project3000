@@ -1,13 +1,46 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/admin31x12.ac -118.41179 34.25937 300.41 133.09
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -118.41238 34.26017 301.92 42.79
-OBJECT_SHARED Models/lib/LongRow.ac -118.41471 34.26483 307.25 40.82
-OBJECT_SHARED Models/lib/LongRow.ac -118.41582 34.26402 305.45 42.34
-OBJECT_SHARED Models/lib/LongRow.ac -118.41020 34.25828 297.72 131.61
-OBJECT_SHARED Models/lib/MedHangar.ac -118.41131 34.26053 305.90 42.41
-OBJECT_SHARED Models/lib/fboModern1.ac -118.41382 34.26295 305.69 41.48
-OBJECT_SHARED Models/lib/cars2.ac -118.41199 34.25926 300.22 230.14
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -118.41390 34.25937 300.13 130.17
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41681 34.26398 304.98 0
+OBJECT_SHARED Models/lib/MedHangar.ac -118.41346 34.26469 308.93 311.078
+OBJECT_SHARED Models/lib/MedHangar.ac -118.41312 34.26493 309.23 311.078
+OBJECT_SHARED Models/lib/MedHangar.ac -118.41422 34.26412 307.21 311.078
+OBJECT_SHARED Models/lib/MedHangar.ac -118.41446 34.26395 307.07 311.078
+OBJECT_SHARED Models/lib/MedHangar.ac -118.41478 34.26372 305.84 311.078
+OBJECT_SHARED Models/lib/lamp10m.xml -118.41490 34.26184 303.32 89.03
+OBJECT_SHARED Models/lib/lamp10m.xml -118.41490 34.26185 303.32 270
+OBJECT_SHARED Models/lib/lamp10m.xml -118.41365 34.26090 302.51 43.09
+OBJECT_SHARED Models/lib/lamp10m.xml -118.41365 34.26091 302.51 222.96
+OBJECT_SHARED Models/lib/lamp10m.xml -118.41289 34.26020 301.72 219.25
+OBJECT_SHARED Models/lib/lamp10m.xml -118.41241 34.25971 300.93 40.71
+OBJECT_SHARED Models/lib/lamp10m.xml -118.41241 34.25971 300.93 221.63
+OBJECT_SHARED Models/lib/lamp10m.xml -118.41290 34.26020 301.72 43.28
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41119 34.25825 297.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41124 34.25830 298.10 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41128 34.25835 298.10 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41133 34.25840 298.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41140 34.25844 298.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41168 34.25916 300.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41150 34.25911 299.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41168 34.25904 299.63 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41163 34.25894 299.44 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41176 34.25887 299.44 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41181 34.25901 299.63 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41185 34.25914 299.81 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -118.41194 34.25919 300.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -118.41190 34.25921 300.00 33.69
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -118.41179 34.25913 299.81 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -118.41184 34.25908 299.81 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -118.41190 34.25916 300.00 0
+OBJECT_SHARED Models/lib/admin31x12.ac -118.41179 34.25937 300.38 133.09
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -118.41238 34.26017 301.86 42.79
+OBJECT_SHARED Models/lib/LongRow.ac -118.41071 34.26738 314.37 221.19
+OBJECT_SHARED Models/lib/LongRow.ac -118.41048 34.26715 315.06 221.19
+OBJECT_SHARED Models/lib/LongRow.ac -118.41407 34.26508 308.59 221.19
+OBJECT_SHARED Models/lib/LongRow.ac -118.41506 34.26437 306.79 221.94
+OBJECT_SHARED Models/lib/LongRow.ac -118.41020 34.25828 297.73 131.61
+OBJECT_SHARED Models/lib/MedHangar.ac -118.41131 34.26053 306.67 42.41
+OBJECT_SHARED Models/lib/fboModern1.ac -118.41382 34.26295 305.60 41.48
+OBJECT_SHARED Models/lib/cars2.ac -118.41199 34.25926 300.19 230.14
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -118.41393 34.25939 300.12 130.17
 # END dsf2stg

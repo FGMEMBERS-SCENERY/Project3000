@@ -1,12 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -97.49995 27.77654 -0.13 0
-OBJECT_SHARED Models/lib/lamp10m.xml -97.49995 27.77704 -0.12 0
-OBJECT_SHARED Models/lib/lamp10m.xml -97.49941 27.77422 -0.19 180
-OBJECT_SHARED Models/lib/lamp10m.xml -97.49942 27.77365 -0.20 180
-OBJECT_SHARED Models/lib/MedHangar.ac -97.49939 27.77339 -0.21 180
-OBJECT_SHARED Models/lib/MedHangar.ac -97.49939 27.77392 -0.20 180
-OBJECT_SHARED Models/lib/MedHangar.ac -97.49939 27.77446 -0.19 180
-OBJECT_SHARED Models/lib/FireStationLg.ac -97.49941 27.76863 -0.26 90
+OBJECT_SHARED Models/lib/lamp10m.xml -97.49995 27.77654 11.74 0
+OBJECT_SHARED Models/lib/lamp10m.xml -97.49995 27.77704 11.76 0
+OBJECT_SHARED Models/lib/lamp10m.xml -97.49941 27.77422 11.62 180
+OBJECT_SHARED Models/lib/lamp10m.xml -97.49942 27.77365 11.60 180
+OBJECT_SHARED Models/lib/MedHangar.ac -97.49939 27.77339 11.58 180
+OBJECT_SHARED Models/lib/MedHangar.ac -97.49939 27.77392 11.60 180
+OBJECT_SHARED Models/lib/MedHangar.ac -97.49939 27.77446 11.63 180
+OBJECT_SHARED Models/lib/large-hangar.ac -97.49972 27.77734 11.76 270
+OBJECT_SHARED Models/lib/FireStationLg.ac -97.49941 27.76863 11.41 90
 # END dsf2stg

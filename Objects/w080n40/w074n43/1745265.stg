@@ -1,5 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -73.74498 43.86590 246.54 32.9889
+OBJECT_SHARED Models/lib/SmHangar.ac -73.74291 43.86156 251.12 35.32
+OBJECT_SHARED Models/lib/lamp10m.xml -73.74300 43.86167 251.14 126.55
+OBJECT_SHARED Models/lib/lamp10m.xml -73.74283 43.86148 251.10 123.98
 # END dsf2stg

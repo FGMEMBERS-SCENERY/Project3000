@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 13.00172 47.79343 428.39 22.56
+OBJECT_SHARED Models/lib/lamp10m.xml 13.00199 47.79298 428.45 22.01
+OBJECT_SHARED Models/lib/lamp10m.xml 13.00228 47.79250 428.56 22.48
+OBJECT_SHARED Models/lib/lamp10m.xml 13.00255 47.79206 428.67 22.19
+OBJECT_SHARED Models/lib/lamp10m.xml 13.00284 47.79159 428.78 22.2
+OBJECT_SHARED Models/lib/lamp10m.xml 13.00313 47.79111 428.88 22.13
+OBJECT_SHARED Models/lib/lamp10m.xml 13.00341 47.79065 428.97 22.06
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00160 47.79287 428.68 82.34
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00186 47.79244 428.79 82.65
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00212 47.79198 428.90 82.13
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00237 47.79159 428.96 84.07
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00287 47.79074 429.16 80.96
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00025 47.79192 429.89 261.68
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00138 47.79324 428.62 82.91
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00240 47.79154 429.01 83.67
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00057 47.79141 429.95 262.51
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00267 47.79105 429.06 84.02
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00263 47.79111 429.11 83.23
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 13.00094 47.79081 430.12 261.69
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 13.00046 47.79090 430.27 119.95
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 13.00185 47.79241 428.79 0
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 13.00083 47.79044 430.38 121.1
+OBJECT_SHARED Models/lib/MedHangar.ac 13.00028 47.79416 428.67 27.66
+OBJECT_SHARED Models/lib/SmHangar.ac 13.00021 47.78992 430.97 204.13
+OBJECT_SHARED Models/lib/LongRow.ac 13.00504 47.79558 425.08 112.74
+OBJECT_SHARED Models/lib/large-hangar.ac 13.00594 47.79357 424.83 28.24
+OBJECT_SHARED Models/lib/office32x25.ac 13.00072 47.78982 430.76 31.17
+# END dsf2stg

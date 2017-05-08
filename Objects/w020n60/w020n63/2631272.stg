@@ -1,6 +1,6 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -19.55684 63.69041 197.97 0
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -19.55688 63.69039 197.96 24.0569
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -19.55684 63.69041 0.00 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -19.55688 63.69039 0.00 24.0569
 # END dsf2stg

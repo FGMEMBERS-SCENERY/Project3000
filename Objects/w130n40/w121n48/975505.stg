@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac -120.71767 48.34259 365.29 110.2
+OBJECT_SHARED Models/Transport/van_red.ac -120.71585 48.34658 363.67 60.0027
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -120.71670 48.34679 365.08 350.002
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -120.71659 48.34678 365.08 170.005
+OBJECT_SHARED Models/Transport/hatchback_green.ac -120.71656 48.34677 365.08 170.005
+OBJECT_SHARED Models/Transport/hatchback_black.ac -120.71693 48.34690 365.03 255.002
+OBJECT_SHARED Models/Transport/hatchback_red.ac -120.71693 48.34696 364.99 85.0025
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.71627 48.34621 363.86 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.71587 48.34655 363.72 65.0016
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.72699 48.35103 380.63 162.812
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.71636 48.34707 363.44 270.004
+OBJECT_SHARED Models/lib/office4x14.ac -120.71589 48.34665 363.63 244.005
+OBJECT_SHARED Models/Transport/hatchback_black.ac -120.71666 48.34679 365.08 170.005
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -120.71663 48.34678 365.08 352.002
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -120.71671 48.34701 364.99 90.0014
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -120.71671 48.34697 364.99 85.0025
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -120.72249 48.34832 371.69 290.002
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -120.72010 48.34460 367.68 110.005
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -120.71955 48.34492 367.91 315.002
+OBJECT_SHARED Models/lib/office6x12.ac -120.71587 48.34620 363.86 250.003
+OBJECT_SHARED Models/lib/office6x12.ac -120.71638 48.34615 363.90 320.004
+OBJECT_SHARED Models/lib/office6x12.ac -120.71707 48.34689 365.03 260.001
+OBJECT_SHARED Models/lib/office6x12.ac -120.71706 48.34698 364.99 260.001
+OBJECT_SHARED Models/lib/office6x12.ac -120.71705 48.34707 364.94 260.001
+OBJECT_SHARED Models/lib/office8x14.ac -120.71656 48.34700 364.99 263
+OBJECT_SHARED Models/lib/shed8x10.ac -120.72684 48.35091 381.02 56.097
+OBJECT_SHARED Models/lib/shed8x10.ac -120.71734 48.34685 365.03 175.003
+OBJECT_SHARED Models/Trees/billboard-tree.xml -120.71717 48.34682 365.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -120.71701 48.34681 365.08 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -120.71501 48.34640 362.64 235.005
+OBJECT_SHARED Models/lib/garage-small-white.ac -120.71778 48.34746 366.26 270.003
+OBJECT_SHARED Models/lib/garage-small-white.ac -120.71808 48.34894 365.62 255.001
+OBJECT_SHARED Models/lib/2container-office.ac -120.71895 48.34871 367.21 350.001
+OBJECT_SHARED Models/lib/office3x10.ac -120.71982 48.34889 368.62 0
+# END dsf2stg
