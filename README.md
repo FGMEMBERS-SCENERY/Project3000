@@ -40,3 +40,40 @@ https://forum.flightgear.org/viewtopic.php?f=5&t=27688
 
 check out the latest AI groundnets and AI jetways here:
 https://github.com/mherweg/Airports
+
+***
+
+Credits
+--------
+
+Thanks to..
+
+* Everyone who makes 3D airports and uploads them to the gateway.
+* Everyone who makes scenery models and uploads them to http://scenemodels.flightgear.org/
+* Torsten Dreyer, Martin Spott and others for making, running & supporting http://scenemodels.flightgear.org/
+* Laminar Research for making, running and supporting the gateway server
+* All authors of osm2city.py (radi,vanosten, ...) - I use a lot of their code
+* TeXnicer, HerbyW, 3m, D-07007 for brainstorming and testing
+* IAHM-COL for uploading project3000 shared models to http://scenemodels.flightgear.org/ and including project3000 in terraGIT
+
+***
+
+:copyright: 2020 Israel Hernandez (IAHM-COL) <br>
+:copyright: 2017, Martin Herweg (D-LASER)<br>
+
+License: GPL 2+
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
