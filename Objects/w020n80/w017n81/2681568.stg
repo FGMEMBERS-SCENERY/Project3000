@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -16.66267 81.59779 0.00 51.64
+OBJECT_SHARED Models/lib/hangar81x16.ac -16.66787 81.60189 12.57 61.56
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -16.66858 81.59625 9.53 324.69
+OBJECT_SHARED Models/lib/watertank3x1.ac -16.66849 81.59668 12.35 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -16.66811 81.59605 12.02 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -16.66794 81.59601 12.63 45
+OBJECT_SHARED Models/lib/stack_of_cones.ac -16.66818 81.59600 12.68 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -16.66836 81.59676 12.60 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -16.66857 81.59674 11.97 0
+OBJECT_SHARED Models/lib/propane-tank.ac -16.66568 81.59787 11.99 139.97
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -16.66848 81.59681 11.84 271.06
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -16.66849 81.59683 11.95 271.06
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -16.66849 81.59685 11.95 271.06
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -16.66811 81.59602 11.88 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -16.66856 81.59692 12.63 270.69
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -16.66856 81.59695 11.85 270.69
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -16.66858 81.59698 11.78 270.69
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -16.66839 81.59705 11.78 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -16.66846 81.59708 11.83 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -16.66837 81.59711 11.74 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -16.66854 81.59710 11.77 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -16.66839 81.59714 11.74 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -16.66857 81.59715 11.77 0
+OBJECT_SHARED Models/lib/SmHangar.ac -16.66083 81.59801 11.64 54.06
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -16.66851 81.59724 12.83 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -16.66797 81.59753 11.67 138.81
+OBJECT_SHARED Models/lib/HorizTanks2.ac -16.64895 81.60037 11.58 150.8
+OBJECT_SHARED Models/lib/HorizTanks2.ac -16.64867 81.60046 14.43 150.8
+OBJECT_SHARED Models/lib/HorizTanks2.ac -16.65350 81.60134 14.42 150.8
+OBJECT_SHARED Models/lib/HorizTanks2.ac -16.65378 81.60125 13.03 150.8
+OBJECT_SHARED Models/lib/HorizTanks2.ac -16.65404 81.60118 12.94 150.8
+OBJECT_SHARED Models/lib/HorizTanks2.ac -16.65430 81.60110 12.92 150.8
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -16.65784 81.59837 12.88 50.39
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -16.65724 81.59848 13.28 50.39
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -16.65323 81.59616 13.38 270.95
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -16.65320 81.59600 15.83 270.95
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -16.66267 81.59779 15.94 51.64
+OBJECT_SHARED Models/lib/lamp10m.xml -16.66592 81.59729 12.57 48.22
+OBJECT_SHARED Models/lib/lamp10m.xml -16.66449 81.59712 12.22 48.77
+OBJECT_SHARED Models/lib/lamp10m.xml -16.66285 81.59780 12.66 53.02
+OBJECT_SHARED Models/lib/lamp10m.xml -16.66139 81.59764 12.55 50.57
+OBJECT_SHARED Models/lib/lamp10m.xml -16.66904 81.59542 12.99 180
+OBJECT_SHARED Models/lib/lamp10m.xml -16.66906 81.59600 12.85 180
+OBJECT_SHARED Models/lib/lamp10m.xml -16.66904 81.59650 12.38 179.19
+OBJECT_SHARED Models/lib/lamp10m.xml -16.66903 81.59708 12.03 179.54
+# END dsf2stg

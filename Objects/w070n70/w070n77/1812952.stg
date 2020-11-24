@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -69.37669 77.48553 0.00 236.71
+OBJECT_SHARED Models/lib/lamp10m.xml -69.37404 77.48514 21.38 234.5
+OBJECT_SHARED Models/lib/lamp10m.xml -69.36932 77.48537 21.64 57.4
+OBJECT_SHARED Models/lib/lamp10m.xml -69.36895 77.48532 22.99 57.4
+OBJECT_SHARED Models/lib/lamp10m.xml -69.36922 77.48460 23.16 136.31
+OBJECT_SHARED Models/lib/lamp10m.xml -69.36695 77.48451 16.48 46.5
+OBJECT_SHARED Models/lib/lamp10m.xml -69.36845 77.48479 22.68 137.6
+OBJECT_SHARED Models/lib/industrial13x24.ac -69.36937 77.48465 20.23 47.6
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -69.36734 77.48463 16.82 139.51
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.37529 77.48560 22.48 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.37527 77.48561 22.00 0
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -69.37417 77.48536 22.00 58.88
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -69.37569 77.48562 22.04 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -69.37546 77.48564 21.86 57.99
+OBJECT_SHARED Models/Airport/cargoim.xml -69.37629 77.48554 21.93 0
+OBJECT_SHARED Models/Airport/cargoim.xml -69.37613 77.48550 21.51 0
+OBJECT_SHARED Models/Airport/cargoip.xml -69.37584 77.48562 21.58 0
+OBJECT_SHARED Models/Airport/cargoip.xml -69.37605 77.48561 21.83 0
+OBJECT_SHARED Models/Airport/cargoip.xml -69.37624 77.48552 21.74 0
+OBJECT_SHARED Models/Airport/cargoip.xml -69.37596 77.48555 21.55 0
+OBJECT_SHARED Models/Airport/cargoip.xml -69.37585 77.48557 21.77 0
+OBJECT_SHARED Models/Airport/cargobox.xml -69.37618 77.48558 21.80 0
+OBJECT_SHARED Models/Airport/cargobox.xml -69.37617 77.48555 21.70 0
+OBJECT_SHARED Models/Airport/cargobox.xml -69.37605 77.48559 21.70 0
+OBJECT_SHARED Models/Airport/cargobox.xml -69.37596 77.48561 21.74 0
+OBJECT_SHARED Models/lib/lamp10m.xml -69.37477 77.48555 21.77 234.78
+OBJECT_SHARED Models/lib/lamp10m.xml -69.37601 77.48578 22.16 234.78
+OBJECT_SHARED Models/lib/container6-HD.ac -69.37409 77.48542 22.08 327.91
+# END dsf2stg

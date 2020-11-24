@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac 16.72150 77.89791 0.00 90
+OBJECT_SHARED Models/lib/office32x25n.ac 16.72221 77.89459 14.88 318.86
+OBJECT_SHARED Models/lib/lamp10m.xml 16.72049 77.89709 9.15 135.52
+OBJECT_SHARED Models/lib/lamp10m.xml 16.72085 77.89717 14.37 140.95
+OBJECT_SHARED Models/lib/SmHangar.ac 16.72069 77.89713 14.39 137.16
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 16.71177 77.89134 -80.72 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 16.72887 77.89533 -87.16 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 16.72695 77.89496 -84.82 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 16.72686 77.89535 -84.40 0
+OBJECT_SHARED Models/lib/hangar81x16.ac 16.72252 77.89919 8.36 47.96
+OBJECT_SHARED Models/lib/hangar81x16.ac 16.72418 77.89904 15.87 47.96
+OBJECT_SHARED Models/lib/hangar81x16.ac 16.71132 77.89175 14.43 47.96
+OBJECT_SHARED Models/lib/hangar81x16.ac 16.71718 77.89348 5.79 47.96
+OBJECT_SHARED Models/lib/hangar81x16.ac 16.71512 77.89256 8.89 47.96
+# END dsf2stg

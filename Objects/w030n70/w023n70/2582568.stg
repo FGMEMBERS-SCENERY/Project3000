@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -22.64056 70.74027 0.00 17.4
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -22.64015 70.74031 62.68 17.46
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -22.64492 70.74311 62.18 112.16
+OBJECT_SHARED Models/lib/lamp10m.xml -22.64655 70.74397 66.90 22.96
+OBJECT_SHARED Models/lib/lamp10m.xml -22.64623 70.74373 67.92 22.6
+OBJECT_SHARED Models/lib/lamp10m.xml -22.64583 70.74320 67.75 23.12
+OBJECT_SHARED Models/lib/lamp10m.xml -22.64613 70.74343 67.51 24.98
+OBJECT_SHARED Models/lib/lamp10m.xml -22.64643 70.74366 67.69 25.38
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -22.64641 70.74369 67.87 24.15
+OBJECT_SHARED Models/Airport/cargoip.xml -22.64626 70.74316 67.87 0
+OBJECT_SHARED Models/Airport/cargoip.xml -22.64619 70.74316 67.82 0
+OBJECT_SHARED Models/Airport/cargobox.xml -22.64612 70.74317 67.76 0
+OBJECT_SHARED Models/Airport/cargobox.xml -22.64605 70.74318 67.70 0
+OBJECT_SHARED Models/lib/container6-HD.ac -22.64597 70.74323 67.64 21.8
+OBJECT_SHARED Models/lib/propane-tank.ac -22.64471 70.74377 67.64 116.57
+OBJECT_SHARED Models/lib/watertank3x1.ac -22.64628 70.74291 66.92 295.56
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -22.64617 70.74292 67.76 25.41
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -22.64609 70.74293 67.69 25.41
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -22.64601 70.74294 67.61 25.41
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -22.64622 70.74319 67.55 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -22.64615 70.74320 67.76 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -22.64618 70.74318 67.70 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -22.64608 70.74319 67.76 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -22.64446 70.74274 67.70 112.84
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -22.64649 70.74394 66.42 23.72
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -22.64681 70.74264 67.92 246.038
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -22.64779 70.74457 67.98 21.4997
+OBJECT_SHARED Models/lib/shed10x50.ac -22.64620 70.74267 68.41 68.3774
+# END dsf2stg

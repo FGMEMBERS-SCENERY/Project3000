@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -20.22014 74.29856 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -20.22022 74.29856 5.18 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -20.22115 74.29873 5.13 346.76
+OBJECT_SHARED Models/lib/SmHangar.ac -20.22012 74.29847 4.80 181.06
+OBJECT_SHARED Models/lib/HorizTanks2.ac -20.22091 74.29850 5.07 135.01
+OBJECT_SHARED Models/lib/container6-HD.ac -20.22074 74.29849 4.66 0
+OBJECT_SHARED Models/lib/container6-HD.ac -20.22076 74.29843 4.76 0
+OBJECT_SHARED Models/lib/lamp10m.xml -20.22016 74.29853 4.59 272.643
+OBJECT_SHARED Models/lib/lamp10m.xml -20.22016 74.29841 5.02 271.762
+# END dsf2stg

@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 19.00134 74.50411 2.30 40.12
+OBJECT_SHARED Models/lib/lamp10m.xml 19.00169 74.50426 3.84 184.97
+OBJECT_SHARED Models/lib/lamp10m.xml 19.00017 74.50461 3.76 -71.56
+OBJECT_SHARED Models/Airport/cargoip.xml 19.00045 74.50457 2.34 0
+OBJECT_SHARED Models/Airport/cargobox.xml 19.00038 74.50458 2.52 0
+OBJECT_SHARED Models/Airport/cargobox.xml 19.00031 74.50459 2.46 0
+# END dsf2stg

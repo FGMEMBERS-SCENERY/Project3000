@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.99571 74.50295 0.00 39.7
+OBJECT_SHARED Models/lib/shed8x10.ac 18.99595 74.50330 2.77 76.17
+OBJECT_SHARED Models/lib/shed8x10.ac 18.99433 74.50351 2.19 85.48
+OBJECT_SHARED Models/lib/shed10x50.ac 18.99749 74.50397 1.23 33.45
+OBJECT_SHARED Models/lib/shed8x10.ac 18.99852 74.50410 1.76 32.62
+OBJECT_SHARED Models/lib/shed8x10.ac 18.99421 74.50331 2.14 20.46
+OBJECT_SHARED Models/lib/shed8x10.ac 18.99609 74.50358 1.52 48.72
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.99848 74.50390 1.75 124.33
+OBJECT_SHARED Models/lib/container6-HD.ac 18.99998 74.50438 2.47 14.74
+OBJECT_SHARED Models/lib/watertank3x1.ac 18.99981 74.50444 2.52 287.04
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 18.99954 74.50363 2.40 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 18.99983 74.50448 3.47 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 18.99979 74.50450 2.25 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 18.99971 74.50450 2.25 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 18.99977 74.50448 2.20 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac 18.99964 74.50445 2.25 196.39
+# END dsf2stg

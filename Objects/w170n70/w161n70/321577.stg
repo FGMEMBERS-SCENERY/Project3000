@@ -1,0 +1,51 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -160.03208 70.63891 0.00 203.5
+OBJECT_SHARED Models/lib/shed8x10.ac -160.03259 70.63882 6.32 193.497
+OBJECT_SHARED Models/lib/shed8x10.ac -160.03251 70.63858 6.49 226.399
+OBJECT_SHARED Models/lib/shed8x10.ac -160.03120 70.63853 6.48 7.76556
+OBJECT_SHARED Models/lib/shed8x10.ac -160.03084 70.63813 6.25 309.805
+OBJECT_SHARED Models/lib/shed8x10.ac -160.03062 70.63819 6.18 312.137
+OBJECT_SHARED Models/lib/shed8x10.ac -160.02760 70.63933 6.20 314.999
+OBJECT_SHARED Models/lib/shed8x10.ac -160.02572 70.63906 6.39 34.8254
+OBJECT_SHARED Models/lib/shed8x10.ac -160.02492 70.63904 6.18 225.002
+OBJECT_SHARED Models/lib/shed8x10.ac -160.02375 70.63931 6.76 23.1993
+OBJECT_SHARED Models/lib/transformer3x3.ac -160.01626 70.63904 7.48 27.9786
+OBJECT_SHARED Models/lib/stack_of_cones.ac -160.01507 70.63878 11.09 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.03465 70.63688 11.32 132.44
+OBJECT_SHARED Models/lib/farm19x12.ac -160.03654 70.63743 6.97 315.42
+OBJECT_SHARED Models/lib/farm19x12.ac -160.03601 70.63786 6.65 45.24
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.03631 70.63818 6.56 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.03657 70.63852 6.51 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.03570 70.63869 6.32 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.03398 70.63938 6.44 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.03143 70.63947 6.49 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.03157 70.63929 6.49 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.03033 70.63903 6.40 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.02531 70.63953 6.38 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.02760 70.63973 6.93 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -160.02670 70.63961 6.42 90
+OBJECT_SHARED Models/lib/SmHangar.ac -160.01091 70.63977 6.25 243.91
+OBJECT_SHARED Models/lib/SmHangar.ac -160.01585 70.63909 10.33 124.09
+OBJECT_SHARED Models/lib/container6-HD.ac -160.01672 70.63897 11.05 123.69
+OBJECT_SHARED Models/lib/container6-HD.ac -160.01528 70.63870 10.93 306.39
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -160.01487 70.63890 11.29 37.38
+OBJECT_SHARED Models/Airport/cargoim.xml -160.01497 70.63878 11.29 30.41
+OBJECT_SHARED Models/Airport/cargoip.xml -160.01474 70.63884 11.32 30.53
+OBJECT_SHARED Models/lib/transformer3x3.ac -160.01313 70.63684 11.32 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -160.01310 70.63681 10.23 178.57
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -160.01304 70.63681 10.23 357.56
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -160.01319 70.63682 10.23 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -160.01315 70.63681 10.23 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -160.03050 70.63680 10.23 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -160.02944 70.63670 5.95 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -160.02820 70.63676 6.03 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -160.02623 70.63723 6.18 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -160.01076 70.64036 -85.98 291.99
+OBJECT_SHARED Models/lib/HorizTanks2.ac -160.01148 70.63997 10.37 109.91
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -160.01065 70.64012 -84.66 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -160.01113 70.64007 -84.66 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -160.01137 70.64029 -81.66 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -160.01185 70.64023 -84.64 0
+# END dsf2stg

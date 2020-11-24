@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34287 76.23816 0.00 357.17
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -119.34177 76.23796 1.25 352.86
+OBJECT_SHARED Models/Airport/cargobox.xml -119.34290 76.23785 1.30 12.99
+OBJECT_SHARED Models/Airport/cargobox.xml -119.34286 76.23781 1.16 215.54
+OBJECT_SHARED Models/Airport/cargobox.xml -119.34279 76.23783 1.16 202.25
+OBJECT_SHARED Models/Airport/cargobox.xml -119.34282 76.23785 1.16 287.53
+OBJECT_SHARED Models/Airport/cargobox.xml -119.34294 76.23783 1.18 48.81
+# END dsf2stg
