@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 169.04239 -43.86163 8.43 202.38
-OBJECT_SHARED Models/Aircraft/B1900_services.xml 169.04246 -43.86185 8.39 201.829
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 169.04274 -43.86219 8.73 228.084
-OBJECT_SHARED Models/lib/farm19x12.ac 169.04131 -43.86225 9.03 210.037
-OBJECT_SHARED Models/lib/stack_of_cones.ac 169.04144 -43.86206 9.06 53.9236
-OBJECT_SHARED Models/lib/propane-tank.ac 169.04167 -43.86229 8.40 24.7112
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 169.04262 -43.86234 8.76 337.654
-OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 169.04247 -43.86152 8.46 112.917
-OBJECT_SHARED Models/lib/canopy17x14.ac 169.04370 -43.85949 9.07 160.262
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac 169.04165 -43.86217 8.39 283.508
-OBJECT_SHARED Models/lib/SmHangar.ac 169.04228 -43.86158 8.43 21.3139
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 169.04239 -43.86163 0.00 202.38
+OBJECT_SHARED Models/Aircraft/B1900_services.xml 169.04246 -43.86185 8.03 201.829
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 169.04274 -43.86219 8.04 228.084
+OBJECT_SHARED Models/lib/farm19x12.ac 169.04131 -43.86225 8.17 210.037
+OBJECT_SHARED Models/lib/stack_of_cones.ac 169.04144 -43.86206 7.92 53.9236
+OBJECT_SHARED Models/lib/propane-tank.ac 169.04167 -43.86229 7.92 24.7112
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 169.04262 -43.86234 8.06 337.654
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 169.04247 -43.86152 8.18 112.917
+OBJECT_SHARED Models/lib/canopy17x14.ac 169.04370 -43.85949 8.02 160.262
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 169.04165 -43.86217 9.05 283.508
+OBJECT_SHARED Models/lib/SmHangar.ac 169.04228 -43.86158 8.06 21.3139
 # END dsf2stg

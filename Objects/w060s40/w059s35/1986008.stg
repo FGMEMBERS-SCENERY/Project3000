@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -58.78141 -34.55644 0.00 12.09
+OBJECT_SHARED Models/lib/HorizTanks2.ac -58.78162 -34.55637 31.56 12.09
+OBJECT_SHARED Models/lib/HorizTanks2.ac -58.78159 -34.55647 31.55 12.09
+OBJECT_SHARED Models/lib/HorizTanks2.ac -58.78143 -34.55633 31.53 12.09
+OBJECT_SHARED Models/lib/LgMaint.ac -58.78486 -34.55712 31.57 101.41
+OBJECT_SHARED Models/lib/LgMaint.ac -58.78386 -34.55696 31.12 101.41
+OBJECT_SHARED Models/lib/MedHangar.ac -58.79043 -34.55012 31.26 291.43
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.78429 -34.55712 32.17 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.78438 -34.55713 31.19 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -58.78435 -34.55712 31.18 135
+# END dsf2stg

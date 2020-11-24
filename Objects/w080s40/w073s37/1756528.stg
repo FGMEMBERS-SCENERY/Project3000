@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/handicap-sign.ac -72.80380 -36.12612 10.64 186.08
+OBJECT_SHARED Models/lib/handicap-sign.ac -72.80380 -36.12612 0.00 186.08
 OBJECT_SHARED Models/lib/handicap-sign.ac -72.80380 -36.12609 10.64 185.65
-OBJECT_SHARED Models/lib/cars7.ac -72.80381 -36.12604 10.66 185.73
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.80477 -36.12576 9.90 231.34
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -72.80447 -36.12693 9.92 180.9
-OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80318 -36.12542 10.65 0
-OBJECT_SHARED Models/lib/SmHangar.ac -72.80468 -36.12672 9.77 195.68
-OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80332 -36.12560 10.61 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80302 -36.12517 10.72 270
+OBJECT_SHARED Models/lib/cars7.ac -72.80381 -36.12604 10.64 185.73
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.80477 -36.12576 10.66 231.34
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -72.80447 -36.12693 9.90 180.9
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80318 -36.12542 11.08 0
+OBJECT_SHARED Models/lib/SmHangar.ac -72.80468 -36.12672 10.66 195.68
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80332 -36.12560 9.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.80302 -36.12517 10.61 270
 # END dsf2stg

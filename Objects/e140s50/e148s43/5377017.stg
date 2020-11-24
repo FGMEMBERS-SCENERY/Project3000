@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/2vending-machines.ac 148.26078 -42.00050 0.00 67.93
+OBJECT_SHARED Models/Airport/cargoip.xml 148.26065 -42.00052 13.45 337.67
+OBJECT_SHARED Models/Airport/cargobox.xml 148.26066 -42.00049 13.45 339.44
+OBJECT_SHARED Models/lib/propane-tank.ac 148.26068 -42.00045 13.45 68.79
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.26075 -42.00061 9.97 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.26080 -42.00051 13.45 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 148.25817 -42.00002 13.45 67.61
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 148.26075 -42.00050 10.06 337.97
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 148.26067 -42.00063 9.97 247.96
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 148.26085 -42.00050 10.01 127.946
+OBJECT_SHARED Models/lib/SmHangar.ac 148.26079 -42.00057 13.45 158.29
+# END dsf2stg

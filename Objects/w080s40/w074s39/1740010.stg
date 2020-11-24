@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.48822 -38.35899 153.49 263
-OBJECT_SHARED Models/lib/cars7.ac -73.48831 -38.35899 153.66 263
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.48864 -38.35881 153.85 173
-OBJECT_SHARED Models/lib/cars7.ac -73.48863 -38.35874 153.74 173
-OBJECT_SHARED Models/lib/garden-shed.ac -73.48774 -38.35917 150.71 90
-OBJECT_SHARED Models/lib/garden-shed.ac -73.48773 -38.35948 150.87 358
-OBJECT_SHARED Models/lib/4container-office.ac -73.49045 -38.36129 154.15 164.01
-OBJECT_SHARED Models/lib/farm19x12.ac -73.49099 -38.36156 150.88 169
-OBJECT_SHARED Models/lib/farm19x12.ac -73.49107 -38.36182 150.64 90
-OBJECT_SHARED Models/lib/SmHangar.ac -73.48923 -38.36196 157.68 351.5
-OBJECT_SHARED Models/lib/SmHangar.ac -73.48820 -38.35926 153.77 352.8
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -73.48877 -38.36259 157.72 83.43
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.48822 -38.35899 0.00 263
+OBJECT_SHARED Models/lib/cars7.ac -73.48831 -38.35899 153.49 263
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.48864 -38.35881 153.66 173
+OBJECT_SHARED Models/lib/cars7.ac -73.48863 -38.35874 153.85 173
+OBJECT_SHARED Models/lib/garden-shed.ac -73.48774 -38.35917 153.74 90
+OBJECT_SHARED Models/lib/garden-shed.ac -73.48773 -38.35948 150.35 358
+OBJECT_SHARED Models/lib/4container-office.ac -73.49045 -38.36129 150.75 164.01
+OBJECT_SHARED Models/lib/farm19x12.ac -73.49099 -38.36156 156.69 169
+OBJECT_SHARED Models/lib/farm19x12.ac -73.49107 -38.36182 153.53 90
+OBJECT_SHARED Models/lib/SmHangar.ac -73.48923 -38.36196 153.11 351.5
+OBJECT_SHARED Models/lib/SmHangar.ac -73.48820 -38.35926 157.68 352.8
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -73.48877 -38.36259 153.77 83.43
 # END dsf2stg

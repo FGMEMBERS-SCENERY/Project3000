@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/large-hangar.ac -60.78180 -32.91986 0.00 172.19
+OBJECT_SHARED Models/lib/SmHangar.ac -60.78108 -32.91795 24.59 338.22
+OBJECT_SHARED Models/lib/SmHangar.ac -60.78117 -32.91815 24.81 338.22
+OBJECT_SHARED Models/lib/SmHangar.ac -60.78113 -32.91805 24.79 338.22
+OBJECT_SHARED Models/lib/SmHangar.ac -60.78071 -32.92119 24.79 261.73
+OBJECT_SHARED Models/lib/SmHangar.ac -60.78158 -32.92093 23.98 170.95
+OBJECT_SHARED Models/lib/hangar81x16.ac -60.78000 -32.91571 24.31 338.35
+OBJECT_SHARED Models/lib/hangar81x16.ac -60.78420 -32.92025 24.93 261.37
+OBJECT_SHARED Models/lib/MedHangar.ac -60.78054 -32.92105 25.15 351.5
+OBJECT_SHARED Models/lib/MedHangar.ac -60.78133 -32.92108 23.95 260.68
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -60.78054 -32.91722 24.18 338.59
+OBJECT_SHARED Models/lib/lamp10m.xml -60.78084 -32.91733 24.79 -24.5672
+OBJECT_SHARED Models/lib/lamp10m.xml -60.78066 -32.91694 24.84 -24.9048
+OBJECT_SHARED Models/lib/lamp10m.xml -60.78046 -32.91653 24.89 -24.6769
+OBJECT_SHARED Models/lib/lamp10m.xml -60.78029 -32.91618 24.91 -22.6199
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.77920 -32.91535 24.91 44.9998
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.77940 -32.91529 24.82 308.66
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.77954 -32.91524 24.86 271.149
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.77970 -32.91519 24.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.77982 -32.91515 24.94 320.194
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.77993 -32.91519 24.97 343.555
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.77971 -32.91562 24.98 18.4348
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.77979 -32.91559 24.88 336.802
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.77973 -32.91568 24.90 329.036
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78126 -32.92144 24.86 328.393
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78139 -32.92142 24.10 36.8697
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78192 -32.92109 24.13 338.199
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78189 -32.92098 24.35 26.565
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78186 -32.92083 24.37 328.393
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78234 -32.92117 24.42 30.9636
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78226 -32.92110 24.44 320.195
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78397 -32.92107 24.46 327.265
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78417 -32.92106 24.94 25.0167
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78413 -32.92076 25.00 25.0168
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78408 -32.92067 25.03 325.305
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78409 -32.92020 25.05 317.49
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78309 -32.92116 25.15 33.6899
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78327 -32.92106 24.67 140.906
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78318 -32.92094 24.74 153.435
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78306 -32.92086 24.76 319.764
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78266 -32.92111 24.71 28.3006
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78266 -32.92103 24.57 128.157
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.78263 -32.92096 24.60 42.7095
+# END dsf2stg

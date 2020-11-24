@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -57.01912 -37.23538 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -57.02192 -37.23410 4.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -57.02045 -37.23433 4.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -57.02064 -37.23463 4.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -57.02053 -37.23454 4.70 0
+OBJECT_SHARED Models/lib/shed8x10.ac -57.02043 -37.23459 4.71 345.677
+OBJECT_SHARED Models/lib/admin31x12.ac -57.02104 -37.23444 4.72 80.2476
+OBJECT_SHARED Models/lib/cars6.ac -57.02058 -37.23435 4.66 169.992
+OBJECT_SHARED Models/lib/cars10.ac -57.02125 -37.23401 4.69 350.476
+OBJECT_SHARED Models/lib/cars10.ac -57.02098 -37.23429 4.61 171.746
+OBJECT_SHARED Models/lib/cars10.ac -57.02080 -37.23407 4.66 350.768
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -57.01904 -37.23550 4.67 110.316
+OBJECT_SHARED Models/lib/stack_of_cones.ac -57.02126 -37.23471 4.83 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -57.02098 -37.23476 4.65 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -57.02072 -37.23481 4.67 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -57.02149 -37.23467 4.70 0
+# END dsf2stg

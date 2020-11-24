@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -70.16238 -48.78272 0.00 214
+OBJECT_SHARED Models/lib/lamp10m.xml -70.16201 -48.78310 358.52 214
+OBJECT_SHARED Models/lib/garages22x9.ac -70.16219 -48.78390 358.48 39.81
+OBJECT_SHARED Models/lib/garages22x9.ac -70.16203 -48.78381 358.02 39.81
+OBJECT_SHARED Models/lib/garages18x9.ac -70.16148 -48.78379 358.16 37.23
+OBJECT_SHARED Models/lib/industrial15x22.ac -70.16253 -48.78350 358.37 350
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -70.16219 -48.78292 358.10 213
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.16159 -48.78402 358.50 309.91
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.16150 -48.78398 358.26 309.91
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.16143 -48.78394 358.29 309.91
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -70.16295 -48.78291 358.37 123
+OBJECT_SHARED Models/lib/lamp10m.xml -70.16225 -48.78348 358.18 214
+OBJECT_SHARED Models/lib/lamp10m.xml -70.16252 -48.78322 358.21 214
+OBJECT_SHARED Models/lib/lamp10m.xml -70.16268 -48.78304 358.24 214
+OBJECT_SHARED Models/lib/lamp10m.xml -70.16289 -48.78283 358.23 214
+OBJECT_SHARED Models/lib/SmHangar.ac -70.16192 -48.78319 358.23 213
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -70.16233 -48.78376 263.47 0
+# END dsf2stg

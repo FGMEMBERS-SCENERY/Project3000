@@ -1,38 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172.xml 167.92337 -44.67212 0.75 0.320007
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 167.92316 -44.67229 4.79 38.8
-OBJECT_SHARED Models/lib/SmHangar.ac 167.92500 -44.67350 8.94 323.5
-OBJECT_SHARED Models/lib/lamp10m.xml 167.92319 -44.67217 4.59 135.86
-OBJECT_SHARED Models/lib/lamp10m.xml 167.92313 -44.67253 5.09 209.24
-OBJECT_SHARED Models/lib/lamp10m.xml 167.92427 -44.67322 7.34 54.12
-OBJECT_SHARED Models/lib/lamp10m.xml 167.92422 -44.67300 7.11 -36.73
-OBJECT_SHARED Models/lib/lamp10m.xml 167.92410 -44.67313 7.23 2.01999
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 167.92434 -44.67332 7.45 70.6
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml 167.92437 -44.67328 7.45 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 167.92422 -44.67324 7.34 324.53
-OBJECT_SHARED Models/Misc/picnic_table.ac 167.92410 -44.67318 7.34 323.75
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 167.92416 -44.67321 7.34 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 167.92410 -44.67309 7.23 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92428 -44.67273 6.78 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92442 -44.67282 6.89 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92453 -44.67290 11.31 303.28
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92460 -44.67282 10.78 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92528 -44.67355 8.94 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92519 -44.67364 9.02 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92511 -44.67371 9.06 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92499 -44.67366 9.06 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92488 -44.67360 9.02 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92477 -44.67354 8.94 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92467 -44.67349 8.94 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92450 -44.67342 8.86 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92442 -44.67335 7.56 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92446 -44.67328 7.45 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92480 -44.67305 11.16 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92470 -44.67312 8.53 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 167.92459 -44.67318 8.64 0
-OBJECT_SHARED Models/lib/cars4.ac 167.92440 -44.67328 7.45 145.23
-OBJECT_SHARED Models/lib/cars6.ac 167.92432 -44.67283 6.89 315.72
-OBJECT_SHARED Models/lib/fuel-truck.xml 167.92431 -44.67336 7.56 234.27
+OBJECT_SHARED Models/lib/cars2.ac 167.92328 -44.67375 0.00 145.081
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 167.92377 -44.67378 6.17 54.1016
+OBJECT_SHARED Models/lib/office3x10.ac 167.92344 -44.67366 7.70 325.98
+OBJECT_SHARED Models/lib/cone.ac 167.92317 -44.67375 6.17 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 167.92305 -44.67368 6.17 20.5612
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 167.92391 -44.67385 6.17 7.79492
+OBJECT_SHARED Models/lib/SmHangar.ac 167.92389 -44.67397 7.70 325.133
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 167.92367 -44.67367 7.73 117.924
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 167.92310 -44.67363 7.66 58.5745
 # END dsf2stg

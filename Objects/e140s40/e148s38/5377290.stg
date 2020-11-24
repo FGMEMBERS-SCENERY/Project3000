@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 148.60962 -37.79081 0.00 183.41
+OBJECT_SHARED Models/Misc/picnic_table.ac 148.60935 -37.79110 28.42 213.69
+OBJECT_SHARED Models/Misc/picnic_table.ac 148.60929 -37.79111 28.99 180
+OBJECT_SHARED Models/Misc/picnic_table.ac 148.60339 -37.78983 28.99 150.42
+OBJECT_SHARED Models/Transport/hatchback_black.ac 148.60340 -37.78981 31.59 99.46
+OBJECT_SHARED Models/lib/cars2.ac 148.60874 -37.79129 31.59 7.21
+OBJECT_SHARED Models/lib/cars4.ac 148.60924 -37.79125 29.24 6.31
+OBJECT_SHARED Models/lib/watertank3x1.ac 148.60896 -37.79119 29.24 276.98
+OBJECT_SHARED Models/lib/stack_of_cones.ac 148.60989 -37.79113 29.12 356.82
+OBJECT_SHARED Models/lib/stack_of_cones.ac 148.61012 -37.79112 28.87 74.05
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 148.60942 -37.79123 28.87 184.09
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.61008 -37.79118 29.12 83.29
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.60851 -37.79113 29.00 104.04
+OBJECT_SHARED Models/lib/lamp10m.xml 148.60941 -37.79113 28.99 -40.24
+OBJECT_SHARED Models/lib/lamp10m.xml 148.60858 -37.79120 28.99 -82.41
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 148.60852 -37.79114 29.12 192.95
+OBJECT_SHARED Models/lib/prop_a.ac 148.61014 -37.79106 28.99 147.38
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 148.61365 -37.78993 28.87 189.46
+OBJECT_SHARED Models/Transport/hatchback_red.ac 148.61362 -37.78995 24.63 183.95
+OBJECT_SHARED Models/lib/SmHangar.ac 148.60865 -37.79118 24.63 277.27
+OBJECT_SHARED Models/lib/SmHangar.ac 148.61019 -37.79122 29.12 6.66
+OBJECT_SHARED Models/lib/SmHangar.ac 148.61008 -37.79123 29.00 6.66
+OBJECT_SHARED Models/lib/SmHangar.ac 148.60983 -37.79113 29.00 278.08
+OBJECT_SHARED Models/lib/SmHangar.ac 148.60957 -37.79116 28.87 277.95
+# END dsf2stg

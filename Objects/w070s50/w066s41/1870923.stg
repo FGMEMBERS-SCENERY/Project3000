@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -65.02982 -40.75767 0.00 140.907
+OBJECT_SHARED Models/Misc/picnic_table.ac -65.03013 -40.75746 13.55 223.025
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -65.03003 -40.75781 13.44 230.527
+OBJECT_SHARED Models/Transport/hatchback_black.ac -65.03036 -40.75753 13.59 240.708
+OBJECT_SHARED Models/lib/cars6.ac -65.03015 -40.75676 13.43 239.859
+OBJECT_SHARED Models/lib/cars6.ac -65.03044 -40.75652 13.15 322.628
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -65.03052 -40.75632 13.04 234.462
+OBJECT_SHARED Models/lib/watertank3x1.ac -65.02638 -40.75891 12.97 228.576
+OBJECT_SHARED Models/lib/watertank3x1.ac -65.02598 -40.75896 14.86 235.305
+OBJECT_SHARED Models/Misc/6barrels.ac -65.02591 -40.75895 15.04 188.13
+OBJECT_SHARED Models/Misc/6barrels.ac -65.02605 -40.75896 15.02 192.529
+OBJECT_SHARED Models/Misc/6barrels.ac -65.02602 -40.75895 15.04 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02980 -40.75668 15.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02994 -40.75673 13.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02812 -40.75850 13.07 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02794 -40.75864 14.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02761 -40.75887 14.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02739 -40.75902 14.54 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02707 -40.75924 14.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02723 -40.75944 14.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02739 -40.75936 14.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02748 -40.75927 14.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02765 -40.75917 14.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02779 -40.75909 14.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02864 -40.75846 14.65 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02882 -40.75838 14.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02896 -40.75828 14.03 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02906 -40.75822 13.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.02975 -40.75770 13.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.03017 -40.75739 13.55 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.03083 -40.75700 13.39 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.02641 -40.75874 13.21 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.02620 -40.75906 14.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.02647 -40.75890 15.04 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.02630 -40.75901 14.82 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.03036 -40.75637 14.95 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.03043 -40.75650 13.01 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.03037 -40.75654 13.04 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.03024 -40.75660 13.04 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.02987 -40.75664 13.08 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.02605 -40.75926 13.11 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.02585 -40.75926 15.20 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.02572 -40.75913 15.26 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.02559 -40.75898 15.19 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -65.02569 -40.75890 15.17 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -65.03030 -40.75646 15.08 326.31
+OBJECT_SHARED Models/lib/shed8x10.ac -65.02970 -40.75692 13.04 52.651
+OBJECT_SHARED Models/lib/farm19x12.ac -65.02983 -40.75782 13.21 317.726
+OBJECT_SHARED Models/lib/shed8x10.ac -65.02596 -40.75890 13.60 51.7737
+# END dsf2stg

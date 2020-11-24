@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac 144.41757 -30.92610 0.00 70.87
+OBJECT_SHARED Models/Transport/van_silver.ac 144.41763 -30.92615 92.49 57.83
+OBJECT_SHARED Models/Transport/van_red.ac 144.41630 -30.92828 92.43 350.54
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 144.41642 -30.92851 90.05 309.11
+OBJECT_SHARED Models/Transport/van_red.ac 144.41616 -30.92836 89.88 53.75
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 144.41757 -30.92609 89.96 310.03
+OBJECT_SHARED Models/lib/transformer3x3.ac 144.41762 -30.92612 92.49 172.04
+OBJECT_SHARED Models/lib/transformer3x3.ac 144.41759 -30.92612 92.49 172.1
+OBJECT_SHARED Models/lib/lamp10m.xml 144.41755 -30.92610 92.49 276.533
+OBJECT_SHARED Models/lib/lamp10m.xml 144.41661 -30.92819 92.49 -67.25
+OBJECT_SHARED Models/lib/lamp10m.xml 144.41704 -30.92740 90.50 19.99
+OBJECT_SHARED Models/lib/lamp10m.xml 144.41635 -30.92708 91.21 104.28
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.41630 -30.92706 91.00 169.88
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.41639 -30.92704 91.00 260.75
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.41700 -30.92731 91.07 71.08
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.41702 -30.92735 91.29 319.9
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.41705 -30.92738 91.21 282.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.41697 -30.92800 91.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 144.41631 -30.92821 90.69 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 144.41640 -30.92822 90.13 356.22
+OBJECT_SHARED Models/Misc/picnic_table.ac 144.41636 -30.92822 90.13 357.86
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.41699 -30.92879 90.13 206.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.41670 -30.92844 89.94 304.99
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.41643 -30.92853 90.32 294.78
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.41613 -30.92837 89.88 228.01
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 144.41628 -30.92824 89.96 132.99
+OBJECT_SHARED Models/lib/lamp10m.xml 144.41576 -30.92768 90.13 177.57
+# END dsf2stg

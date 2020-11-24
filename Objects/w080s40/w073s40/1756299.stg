@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cube16x10.ac -72.08230 -39.82507 141.67 98.59
-OBJECT_SHARED Models/lib/SmHangar.ac -72.08326 -39.82565 140.92 186
-OBJECT_SHARED Models/lib/SmHangar.ac -72.08259 -39.82561 141.54 7
-OBJECT_SHARED Models/lib/SmHangar.ac -72.08182 -39.82516 142.11 186
-OBJECT_SHARED Models/lib/cars14.ac -72.08289 -39.82578 141.29 98.12
-OBJECT_SHARED Models/lib/handicap-sign.ac -72.08312 -39.82581 141.10 101
+OBJECT_SHARED Models/lib/cube16x10.ac -72.08230 -39.82507 0.00 98.59
+OBJECT_SHARED Models/lib/SmHangar.ac -72.08326 -39.82565 141.67 186
+OBJECT_SHARED Models/lib/SmHangar.ac -72.08259 -39.82561 140.92 7
+OBJECT_SHARED Models/lib/SmHangar.ac -72.08182 -39.82516 141.54 186
+OBJECT_SHARED Models/lib/cars14.ac -72.08289 -39.82578 142.11 98.12
+OBJECT_SHARED Models/lib/handicap-sign.ac -72.08312 -39.82581 141.28 101
 OBJECT_SHARED Models/lib/handicap-sign.ac -72.08309 -39.82580 141.10 101
-OBJECT_SHARED Models/lib/handicap-sign.ac -72.08272 -39.82576 141.47 101
+OBJECT_SHARED Models/lib/handicap-sign.ac -72.08272 -39.82576 141.10 101
 OBJECT_SHARED Models/lib/handicap-sign.ac -72.08269 -39.82576 141.47 101
-OBJECT_SHARED Models/lib/handicap-sign.ac -72.08155 -39.82527 142.38 101
-OBJECT_SHARED Models/lib/handicap-sign.ac -72.08135 -39.82525 142.43 101
-OBJECT_SHARED Models/lib/cars7.ac -72.08146 -39.82526 142.38 99
-OBJECT_SHARED Models/lib/HorizTanks2.ac -72.08672 -39.82550 137.98 8
-OBJECT_SHARED Models/lib/fuel-truck.xml -72.08641 -39.82557 138.19 52
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -72.08107 -39.82507 142.60 212
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.08314 -39.82537 141.08 333
+OBJECT_SHARED Models/lib/handicap-sign.ac -72.08155 -39.82527 141.47 101
+OBJECT_SHARED Models/lib/handicap-sign.ac -72.08135 -39.82525 142.38 101
+OBJECT_SHARED Models/lib/cars7.ac -72.08146 -39.82526 142.43 99
+OBJECT_SHARED Models/lib/HorizTanks2.ac -72.08672 -39.82550 142.38 8
+OBJECT_SHARED Models/lib/fuel-truck.xml -72.08641 -39.82557 137.98 52
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -72.08107 -39.82507 138.19 212
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.08314 -39.82537 142.60 333
 # END dsf2stg

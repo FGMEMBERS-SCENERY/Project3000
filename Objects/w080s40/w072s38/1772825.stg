@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -71.72162 -37.52811 566.71 311.38
-OBJECT_SHARED Models/lib/SmHangar.ac -71.72124 -37.52846 566.97 310.61
-OBJECT_SHARED Models/lib/cars7.ac -71.72010 -37.53104 570.62 36
+OBJECT_SHARED Models/lib/SmHangar.ac -71.72162 -37.52811 0.00 311.38
+OBJECT_SHARED Models/lib/SmHangar.ac -71.72124 -37.52846 566.71 310.61
+OBJECT_SHARED Models/lib/cars7.ac -71.72010 -37.53104 566.97 36
 OBJECT_SHARED Models/lib/handicap-sign.ac -71.72013 -37.53101 570.62 36
-OBJECT_SHARED Models/lib/handicap-sign.ac -71.72015 -37.53099 570.71 36
-OBJECT_SHARED Models/lib/cars7.ac -71.72123 -37.52822 566.45 219.2
-OBJECT_SHARED Models/lib/handicap-sign.ac -71.72119 -37.52826 566.61 218
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.72015 -37.53099 570.62 36
+OBJECT_SHARED Models/lib/cars7.ac -71.72123 -37.52822 570.71 219.2
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.72119 -37.52826 566.45 218
 OBJECT_SHARED Models/lib/handicap-sign.ac -71.72117 -37.52828 566.61 218
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -71.72100 -37.52866 567.11 295.87
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -71.72100 -37.52866 566.61 295.87
 # END dsf2stg

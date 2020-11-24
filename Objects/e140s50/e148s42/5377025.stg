@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.25782 -41.99973 13.45 0
+OBJECT_SHARED Models/lib/cone.ac 148.25826 -41.99984 10.06 0
+OBJECT_SHARED Models/lib/cone.ac 148.25824 -41.99986 10.01 0
+OBJECT_SHARED Models/lib/cone.ac 148.25824 -41.99985 10.04 0
+OBJECT_SHARED Models/lib/cone.ac 148.25824 -41.99984 10.01 180
+OBJECT_SHARED Models/lib/cone.ac 148.25824 -41.99985 10.01 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 148.25820 -41.99997 10.04 248.15
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.25827 -41.99986 13.45 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.25825 -41.99986 10.04 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.25827 -41.99985 10.04 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.25828 -41.99986 10.04 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.25828 -41.99985 10.04 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 148.25825 -41.99984 10.01 0
+OBJECT_SHARED Models/lib/prop_a.ac 148.26034 -41.99996 10.01 159.25
+OBJECT_SHARED Models/lib/prop_a.ac 148.25784 -41.99966 12.19 338.276
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 148.25763 -41.99975 9.97 68.9
+OBJECT_SHARED Models/Transport/van_silver.ac 148.25758 -41.99983 10.01 69.53
+OBJECT_SHARED Models/Transport/hatchback_black.ac 148.25761 -41.99979 10.01 248.26
+OBJECT_SHARED Models/Transport/van_silver.ac 148.25757 -41.99985 10.01 247.22
+OBJECT_SHARED Models/Transport/hatchback_green.ac 148.25760 -41.99981 10.04 68.69
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 148.25764 -41.99974 10.01 246.43
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 148.25819 -41.99982 13.45 282.85
+OBJECT_SHARED Models/lib/MedHangar.ac 148.25806 -41.99979 13.45 248.02
+OBJECT_SHARED Models/lib/farm19x12.ac 148.26294 -41.99916 10.01 172.11
+# END dsf2stg

@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac 148.65077 -33.84533 0.00 104.973
+OBJECT_SHARED Models/lib/MedHangar.ac 148.65149 -33.84632 297.18 258.79
+OBJECT_SHARED Models/lib/MedHangar.ac 148.65233 -33.84566 297.03 78.5308
+OBJECT_SHARED Models/lib/SmHangar.ac 148.65111 -33.84566 298.62 107.354
+OBJECT_SHARED Models/lib/SmHangar.ac 148.65111 -33.84566 298.62 107.354
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 148.65005 -33.84689 202.13 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac 148.65075 -33.84648 295.77 285.484
+OBJECT_SHARED Models/lib/prop_a.ac 148.65209 -33.84550 297.00 260.392
+OBJECT_SHARED Models/lib/prop_a.ac 148.65154 -33.84563 298.66 351.495
+OBJECT_SHARED Models/lib/prop_a.ac 148.65059 -33.84590 298.64 200.556
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 148.65115 -33.84524 297.09 267.791
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 148.65115 -33.84521 297.20 267.791
+OBJECT_SHARED Models/Transport/hatchback_red.ac 148.65160 -33.84563 297.20 353.66
+# END dsf2stg

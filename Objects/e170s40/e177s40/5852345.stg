@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml 177.40742 -39.01668 0.00 116.89
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 177.40625 -39.01657 12.88 209.72
+OBJECT_SHARED Models/lib/shed8x10.ac 177.40769 -39.01571 12.60 157.84
+OBJECT_SHARED Models/lib/industrial13x24.ac 177.40668 -39.01631 11.82 297.09
+OBJECT_SHARED Models/lib/SmHangar.ac 177.40750 -39.01595 12.79 339.12
+OBJECT_SHARED Models/lib/SmHangar.ac 177.40300 -39.01685 12.70 201.79
+# END dsf2stg

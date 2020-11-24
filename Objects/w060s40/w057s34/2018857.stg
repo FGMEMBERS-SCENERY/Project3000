@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -56.51046 -33.36142 -95.00 358.64
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -56.51046 -33.36152 -14.93 358.64
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -56.51057 -33.36162 -14.91 358.64
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -56.51057 -33.36152 -15.00 358.64
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -56.51058 -33.36142 -15.02 358.64
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -56.51134 -33.35636 79.97 20.85
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -56.51116 -33.35609 78.57 107.45
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -56.50858 -33.35663 78.56 178.94
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -56.50974 -33.36115 80.55 9.95001
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -56.50968 -33.36140 80.83 16.19
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -56.50985 -33.36145 80.86 10.67
+# END dsf2stg

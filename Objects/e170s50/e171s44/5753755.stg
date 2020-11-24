@@ -1,19 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 171.94868 -43.52604 196.59 40.17
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94786 -43.52091 202.50 90.45
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94802 -43.52090 202.50 120.96
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94790 -43.52168 200.90 358.19
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94776 -43.52165 200.90 99.73
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94779 -43.52208 200.10 68.89
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94772 -43.52229 199.70 3.62
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94752 -43.52228 199.70 93.99
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.95219 -43.52476 202.02 107.9
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.95236 -43.52483 202.02 322.67
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94873 -43.52673 195.93 225.99
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94864 -43.52689 195.74 357.8
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94903 -43.52779 195.00 131.31
-OBJECT_SHARED Models/lib/shed10x50.ac 171.95089 -43.53054 202.86 14.38
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 171.94845 -43.52602 196.04 283.37
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 171.94868 -43.52604 0.00 40.17
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94786 -43.52091 197.87 90.45
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94802 -43.52090 205.00 120.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94790 -43.52168 205.00 358.19
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94776 -43.52165 202.09 99.73
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94779 -43.52208 202.09 68.89
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94772 -43.52229 201.49 3.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94752 -43.52228 201.19 93.99
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.95219 -43.52476 201.19 107.9
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.95236 -43.52483 199.29 322.67
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94873 -43.52673 199.29 225.99
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94864 -43.52689 197.44 357.8
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.94903 -43.52779 197.33 131.31
+OBJECT_SHARED Models/lib/shed10x50.ac 171.95089 -43.53054 196.79 14.38
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 171.94845 -43.52602 198.84 283.37
 # END dsf2stg

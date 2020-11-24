@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/handicap-sign.ac -67.61682 -54.93245 11.41 103.43
-OBJECT_SHARED Models/lib/cars7.ac -67.61696 -54.93247 11.69 102.27
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -67.63746 -54.93123 15.69 287.79
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -67.61783 -54.93162 14.41 50.08
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -67.62867 -54.93062 17.66 9.66
-OBJECT_SHARED Models/lib/MedHangar.ac -67.63163 -54.93203 17.81 269.03
-OBJECT_SHARED Models/lib/SmHangar.ac -67.61781 -54.93243 12.96 255.28
-OBJECT_SHARED Models/lib/SmHangar.ac -67.61829 -54.93194 14.52 156.59
-OBJECT_SHARED Models/lib/farm19x12.ac -67.61591 -54.93177 11.68 264.5
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -67.61550 -54.93207 10.40 85.16
+OBJECT_SHARED Models/lib/handicap-sign.ac -67.61682 -54.93245 0.00 103.43
+OBJECT_SHARED Models/lib/cars7.ac -67.61696 -54.93247 11.41 102.27
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -67.63746 -54.93123 11.69 287.79
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -67.61783 -54.93162 15.69 50.08
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -67.62867 -54.93062 14.41 9.66
+OBJECT_SHARED Models/lib/MedHangar.ac -67.63163 -54.93203 17.66 269.03
+OBJECT_SHARED Models/lib/SmHangar.ac -67.61781 -54.93243 17.81 255.28
+OBJECT_SHARED Models/lib/SmHangar.ac -67.61829 -54.93194 12.96 156.59
+OBJECT_SHARED Models/lib/farm19x12.ac -67.61591 -54.93177 14.52 264.5
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -67.61550 -54.93207 11.68 85.16
 # END dsf2stg

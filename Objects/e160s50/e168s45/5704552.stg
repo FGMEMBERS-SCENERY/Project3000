@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/van_red.ac 168.01460 -44.36869 1.11 38.9393
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 168.01498 -44.36870 1.11 140.341
-OBJECT_SHARED Models/lib/cone.ac 168.01457 -44.36834 1.77 26.8472
-OBJECT_SHARED Models/Misc/picnic_table.ac 168.01513 -44.36845 1.60 11.9042
-OBJECT_SHARED Models/lib/propane-tank.ac 168.01504 -44.36870 1.11 51.7987
-OBJECT_SHARED Models/lib/watertank3x1.ac 168.01548 -44.36848 1.44 206.934
-OBJECT_SHARED Models/lib/garden-shed.ac 168.01529 -44.36868 1.11 255
-OBJECT_SHARED Models/lib/garden-shed.ac 168.01525 -44.36867 1.11 255
-OBJECT_SHARED Models/lib/garden-shed.ac 168.01522 -44.36867 1.11 255
-OBJECT_SHARED Models/lib/garden-shed.ac 168.01531 -44.36863 1.28 75
-OBJECT_SHARED Models/lib/garden-shed.ac 168.01527 -44.36862 1.28 74.9998
-OBJECT_SHARED Models/lib/garden-shed.ac 168.01524 -44.36861 1.28 75
-OBJECT_SHARED Models/lib/farm19x12.ac 168.00535 -44.36211 4.22 5.48349
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 168.01460 -44.36869 0.00 38.9393
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 168.01498 -44.36870 7.51 140.341
+OBJECT_SHARED Models/lib/cone.ac 168.01457 -44.36834 7.51 26.8472
+OBJECT_SHARED Models/Misc/picnic_table.ac 168.01513 -44.36845 7.88 11.9042
+OBJECT_SHARED Models/lib/propane-tank.ac 168.01504 -44.36870 7.78 51.7987
+OBJECT_SHARED Models/lib/watertank3x1.ac 168.01548 -44.36848 7.51 206.934
+OBJECT_SHARED Models/lib/garden-shed.ac 168.01529 -44.36868 7.70 255
+OBJECT_SHARED Models/lib/garden-shed.ac 168.01525 -44.36867 7.51 255
+OBJECT_SHARED Models/lib/garden-shed.ac 168.01522 -44.36867 7.51 255
+OBJECT_SHARED Models/lib/garden-shed.ac 168.01531 -44.36863 7.51 75
+OBJECT_SHARED Models/lib/garden-shed.ac 168.01527 -44.36862 7.60 74.9998
+OBJECT_SHARED Models/lib/garden-shed.ac 168.01524 -44.36861 7.60 75
+OBJECT_SHARED Models/lib/farm19x12.ac 168.00535 -44.36211 7.60 5.48349
 # END dsf2stg

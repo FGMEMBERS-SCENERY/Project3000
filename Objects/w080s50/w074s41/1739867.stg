@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fuel-truck.xml -73.06058 -40.60501 61.08 27.43
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.06163 -40.60414 60.83 294.87
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.06160 -40.60413 60.83 295.61
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.06076 -40.60454 61.14 22.5
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.06091 -40.60417 61.20 25.73
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.06082 -40.60431 61.22 23.5
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.06058 -40.60448 61.25 203.25
-OBJECT_SHARED Models/lib/cars7.ac -73.06066 -40.60451 61.20 292.68
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -73.06083 -40.60506 60.93 205.5
-OBJECT_SHARED Models/lib/cube16x10.ac -73.06068 -40.60530 60.91 205.5
-OBJECT_SHARED Models/lib/cars7.ac -73.06086 -40.60425 61.16 205.9
-OBJECT_SHARED Models/lib/cars14.ac -73.06181 -40.60421 60.67 295.81
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.06100 -40.60429 61.10 114.98
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -73.06246 -40.60411 60.35 49.68
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.06054 -40.60560 60.94 94.54
-OBJECT_SHARED Models/lib/MedHangar.ac -73.06243 -40.61406 60.20 205.53
+OBJECT_SHARED Models/lib/fuel-truck.xml -73.06058 -40.60501 0.00 27.43
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.06163 -40.60414 61.08 294.87
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.06160 -40.60413 60.81 295.61
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.06076 -40.60454 60.81 22.5
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.06091 -40.60417 61.14 25.73
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.06082 -40.60431 61.20 23.5
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.06058 -40.60448 61.22 203.25
+OBJECT_SHARED Models/lib/cars7.ac -73.06066 -40.60451 61.26 292.68
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -73.06083 -40.60506 61.20 205.5
+OBJECT_SHARED Models/lib/cube16x10.ac -73.06068 -40.60530 60.93 205.5
+OBJECT_SHARED Models/lib/cars7.ac -73.06086 -40.60425 60.92 205.9
+OBJECT_SHARED Models/lib/cars14.ac -73.06181 -40.60421 61.16 295.81
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.06100 -40.60429 60.67 114.98
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -73.06246 -40.60411 60.74 49.68
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.06054 -40.60560 60.31 94.54
+OBJECT_SHARED Models/lib/MedHangar.ac -73.06243 -40.61406 60.94 205.53
 # END dsf2stg

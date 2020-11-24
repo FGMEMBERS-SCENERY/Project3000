@@ -1,21 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92313 -39.28970 255.10 78
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92371 -39.28959 254.37 78
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92342 -39.28961 254.70 78
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92400 -39.28954 253.97 78
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92522 -39.28935 252.56 78
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92466 -39.28944 253.15 79
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92428 -39.28950 253.65 79
-OBJECT_SHARED Models/lib/SmHangar.ac -71.92496 -39.28939 252.83 78
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -71.92171 -39.28996 256.89 168
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -71.92281 -39.28966 255.44 258
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.92554 -39.28930 252.24 77.11
-OBJECT_SHARED Models/lib/cars14.ac -71.92665 -39.29104 251.84 78.5
-OBJECT_SHARED Models/lib/cars14.ac -71.92598 -39.29115 252.77 78.5
-OBJECT_SHARED Models/lib/handicap-sign.ac -71.92646 -39.29107 252.13 78.5
-OBJECT_SHARED Models/lib/handicap-sign.ac -71.92688 -39.29101 251.61 78.5
-OBJECT_SHARED Models/lib/handicap-sign.ac -71.92579 -39.29118 252.99 78.5
-OBJECT_SHARED Models/lib/handicap-sign.ac -71.92621 -39.29111 252.47 78.5
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92313 -39.28970 0.00 78
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92371 -39.28959 255.10 78
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92342 -39.28961 254.37 78
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92400 -39.28954 254.70 78
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92522 -39.28935 253.97 78
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92466 -39.28944 252.56 79
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92428 -39.28950 253.15 79
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92496 -39.28939 253.65 78
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -71.92171 -39.28996 252.83 168
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -71.92281 -39.28966 256.89 258
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.92554 -39.28930 255.43 77.11
+OBJECT_SHARED Models/lib/cars14.ac -71.92665 -39.29104 252.24 78.5
+OBJECT_SHARED Models/lib/cars14.ac -71.92598 -39.29115 251.84 78.5
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.92646 -39.29107 252.77 78.5
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.92688 -39.29101 252.13 78.5
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.92579 -39.29118 251.61 78.5
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.92621 -39.29111 252.99 78.5
 # END dsf2stg

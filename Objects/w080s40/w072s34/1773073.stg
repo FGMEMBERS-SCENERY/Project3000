@@ -1,29 +1,29 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/handicap-sign.ac -71.61550 -33.65533 75.24 302.93
-OBJECT_SHARED Models/lib/cars7.ac -71.61557 -33.65536 75.41 300.39
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.61470 -33.65566 75.44 77.97
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -71.61554 -33.65542 75.35 82.3
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -71.61303 -33.65412 73.67 350.54
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -71.61412 -33.65536 74.86 284.99
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.61485 -33.65525 74.97 122.76
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -71.61593 -33.65592 76.18 78.69
-OBJECT_SHARED Models/lib/farm19x12.ac -71.61850 -33.65646 78.30 211.01
-OBJECT_SHARED Models/lib/farm19x12.ac -71.61926 -33.65679 79.12 38
-OBJECT_SHARED Models/lib/dGreenhse.ac -71.61907 -33.65692 79.12 126
-OBJECT_SHARED Models/lib/garage-small-white.ac -71.61956 -33.65702 79.57 126
-OBJECT_SHARED Models/lib/dGreenhse.ac -71.61464 -33.65509 74.72 303.89
-OBJECT_SHARED Models/lib/garage-small-white.ac -71.61481 -33.65503 74.68 310.24
-OBJECT_SHARED Models/lib/farm19x12.ac -71.61489 -33.65517 74.88 307.03
-OBJECT_SHARED Models/lib/garden-shed.ac -71.61505 -33.65516 74.94 304
-OBJECT_SHARED Models/lib/office3x10.ac -71.61335 -33.65437 73.77 301.66
-OBJECT_SHARED Models/lib/garage-small-white.ac -71.61347 -33.65442 73.79 302.74
-OBJECT_SHARED Models/lib/SmHangar.ac -71.61536 -33.65553 75.41 219
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -71.61373 -33.65474 74.10 121
-OBJECT_SHARED Models/lib/SmHangar.ac -71.61523 -33.65529 75.08 125.48
-OBJECT_SHARED Models/lib/SmHangar.ac -71.61263 -33.65409 73.67 300.88
-OBJECT_SHARED Models/lib/SmHangar.ac -71.61274 -33.65400 73.64 121.46
-OBJECT_SHARED Models/lib/SmHangar.ac -71.61406 -33.65501 74.52 123.69
-OBJECT_SHARED Models/lib/SmHangar.ac -71.61580 -33.65573 75.86 124.83
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.61550 -33.65533 0.00 302.93
+OBJECT_SHARED Models/lib/cars7.ac -71.61557 -33.65536 75.22 300.39
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -71.61470 -33.65566 75.39 77.97
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -71.61554 -33.65542 75.44 82.3
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -71.61303 -33.65412 75.34 350.54
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -71.61412 -33.65536 73.58 284.99
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -71.61485 -33.65525 74.86 122.76
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -71.61593 -33.65592 74.97 78.69
+OBJECT_SHARED Models/lib/farm19x12.ac -71.61850 -33.65646 76.18 211.01
+OBJECT_SHARED Models/lib/farm19x12.ac -71.61926 -33.65679 78.29 38
+OBJECT_SHARED Models/lib/dGreenhse.ac -71.61907 -33.65692 79.13 126
+OBJECT_SHARED Models/lib/garage-small-white.ac -71.61956 -33.65702 79.14 126
+OBJECT_SHARED Models/lib/dGreenhse.ac -71.61464 -33.65509 79.56 303.89
+OBJECT_SHARED Models/lib/garage-small-white.ac -71.61481 -33.65503 74.71 310.24
+OBJECT_SHARED Models/lib/farm19x12.ac -71.61489 -33.65517 74.67 307.03
+OBJECT_SHARED Models/lib/garden-shed.ac -71.61505 -33.65516 74.87 304
+OBJECT_SHARED Models/lib/office3x10.ac -71.61335 -33.65437 74.93 301.66
+OBJECT_SHARED Models/lib/garage-small-white.ac -71.61347 -33.65442 73.81 302.74
+OBJECT_SHARED Models/lib/SmHangar.ac -71.61536 -33.65553 73.82 219
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -71.61373 -33.65474 75.41 121
+OBJECT_SHARED Models/lib/SmHangar.ac -71.61523 -33.65529 74.08 125.48
+OBJECT_SHARED Models/lib/SmHangar.ac -71.61263 -33.65409 75.08 300.88
+OBJECT_SHARED Models/lib/SmHangar.ac -71.61274 -33.65400 73.54 121.46
+OBJECT_SHARED Models/lib/SmHangar.ac -71.61406 -33.65501 73.51 123.69
+OBJECT_SHARED Models/lib/SmHangar.ac -71.61580 -33.65573 74.50 124.83
 # END dsf2stg

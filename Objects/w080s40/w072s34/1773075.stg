@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -71.19259 -33.67547 178.95 0
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -71.19259 -33.67538 179.05 3.01
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -71.19222 -33.67773 178.67 226.64
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -71.19233 -33.67756 178.56 24.77
-OBJECT_SHARED Models/lib/MedHangar.ac -71.19242 -33.67529 179.18 93.49
-OBJECT_SHARED Models/lib/MedHangar.ac -71.19261 -33.67782 178.62 278.51
-OBJECT_SHARED Models/lib/garage-small-white.ac -71.19223 -33.67782 178.75 97.12
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -71.19259 -33.67547 0.00 0
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -71.19259 -33.67538 179.05 3.01
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -71.19222 -33.67773 179.15 226.64
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -71.19233 -33.67756 178.69 24.77
+OBJECT_SHARED Models/lib/MedHangar.ac -71.19242 -33.67529 178.59 93.49
+OBJECT_SHARED Models/lib/MedHangar.ac -71.19261 -33.67782 179.28 278.51
+OBJECT_SHARED Models/lib/garage-small-white.ac -71.19223 -33.67782 178.64 97.12
 OBJECT_SHARED Models/lib/office3x10.ac -71.19289 -33.67565 178.76 2.12
-OBJECT_SHARED Models/lib/farm19x12.ac -71.19299 -33.67579 178.57 92.14
+OBJECT_SHARED Models/lib/farm19x12.ac -71.19299 -33.67579 178.86 92.14
 # END dsf2stg

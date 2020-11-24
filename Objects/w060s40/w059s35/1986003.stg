@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -58.20710 -34.74373 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -58.20704 -34.74376 2.80 270
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -58.18361 -34.74428 2.82 103.495
+# END dsf2stg

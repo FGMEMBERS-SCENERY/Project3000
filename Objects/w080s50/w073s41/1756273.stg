@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.66103 -40.12622 230.24 140.2
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.66191 -40.12522 228.60 211.26
-OBJECT_SHARED Models/lib/SmHangar.ac -72.66065 -40.12698 230.94 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.66103 -40.12622 218.49 140.2
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.66191 -40.12522 230.25 211.26
+OBJECT_SHARED Models/lib/SmHangar.ac -72.66065 -40.12698 229.30 0
 # END dsf2stg

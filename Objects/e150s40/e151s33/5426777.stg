@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac 151.34275 -32.60071 0.00 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 151.34330 -32.60167 35.61 86.6335
+OBJECT_SHARED Models/Transport/van_silver.ac 151.34329 -32.60170 35.54 255.964
+OBJECT_SHARED Models/Transport/van_silver.ac 151.34330 -32.60117 35.54 244.983
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 151.34329 -32.60121 35.81 55.4914
+OBJECT_SHARED Models/Transport/hatchback_red.ac 151.34327 -32.60125 35.81 247.38
+OBJECT_SHARED Models/Transport/van_red.ac 151.34291 -32.60159 35.84 263.254
+OBJECT_SHARED Models/Transport/van_red.ac 151.34309 -32.60141 35.64 350.789
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 151.34305 -32.60139 35.82 175.601
+OBJECT_SHARED Models/Transport/hatchback_green.ac 151.34300 -32.60138 35.82 354.359
+OBJECT_SHARED Models/Transport/hatchback_red.ac 151.34297 -32.60136 35.82 170.655
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 151.34308 -32.60110 35.82 349.011
+OBJECT_SHARED Models/lib/office4x14.ac 151.34323 -32.60119 35.77 167.59
+OBJECT_SHARED Models/lib/SmHangar.ac 151.34287 -32.60112 35.81 348.19
+OBJECT_SHARED Models/lib/SmHangar.ac 151.34311 -32.60116 35.77 169.51
+OBJECT_SHARED Models/lib/garden-shed.ac 151.34347 -32.60086 35.81 351.75
+OBJECT_SHARED Models/lib/office6x12.ac 151.34303 -32.60130 35.71 262.53
+# END dsf2stg

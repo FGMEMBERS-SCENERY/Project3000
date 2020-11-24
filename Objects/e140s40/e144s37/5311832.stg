@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 144.24030 -36.54191 0.00 270.6
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.23894 -36.54240 133.67 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.23878 -36.54207 134.17 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.23879 -36.54192 133.95 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.23962 -36.54289 133.80 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.23959 -36.54313 134.33 344.36
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.23959 -36.54305 134.47 122.35
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.23957 -36.54298 134.39 321.34
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.23949 -36.54290 134.39 24.15
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 144.23936 -36.54288 134.60 321.34
+OBJECT_SHARED Models/lib/shed10x50.ac 144.23922 -36.54190 134.60 0
+OBJECT_SHARED Models/lib/industrial13x24.ac 144.23999 -36.54297 133.80 270.28
+OBJECT_SHARED Models/lib/industrial13x24.ac 144.23983 -36.54297 134.39 269.76
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 144.23948 -36.54275 134.39 180
+OBJECT_SHARED Models/lib/watertank3x1.ac 144.23928 -36.54273 134.44 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 144.23893 -36.54195 134.38 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac 144.23905 -36.54220 133.87 212.55
+OBJECT_SHARED Models/Transport/hatchback_black.ac 144.23890 -36.54225 134.03 201.16
+OBJECT_SHARED Models/Transport/hatchback_green.ac 144.23896 -36.54222 134.10 237.8
+OBJECT_SHARED Models/Misc/picnic_table.ac 144.23936 -36.54263 134.03 343.69
+OBJECT_SHARED Models/Misc/picnic_table.ac 144.23927 -36.54263 134.31 31.33
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 144.23913 -36.54272 134.31 307.52
+# END dsf2stg

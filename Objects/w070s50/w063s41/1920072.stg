@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.98412 -40.78542 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.98401 -40.78548 39.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.98469 -40.78522 39.83 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.98460 -40.78516 39.42 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.98462 -40.78524 39.44 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.98454 -40.78516 39.44 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -62.98466 -40.78519 39.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -62.98460 -40.78520 39.42 0
+OBJECT_SHARED Models/lib/prop_a.ac -62.98447 -40.78506 39.44 316.57
+OBJECT_SHARED Models/lib/SmHangar.ac -62.98439 -40.78521 39.42 226.59
+OBJECT_SHARED Models/lib/transformer3x3.ac -62.98404 -40.78517 39.47 227.49
+# END dsf2stg

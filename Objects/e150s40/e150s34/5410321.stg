@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 150.31827 -33.66733 0.00 18.43
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 150.31893 -33.66777 989.35 22.58
+OBJECT_SHARED Models/lib/stack_of_cones.ac 150.31881 -33.66779 989.60 253.97
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 150.31831 -33.66772 989.60 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 150.31883 -33.66747 989.35 98.95
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 150.31847 -33.66731 989.45 316.91
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 150.31895 -33.66744 989.35 312.09
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 150.31847 -33.66730 989.37 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 150.31883 -33.66749 989.35 32.01
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 150.31896 -33.66744 989.45 340.79
+OBJECT_SHARED Models/lib/garage-small-white.ac 150.31887 -33.66779 989.37 287.59
+OBJECT_SHARED Models/Transport/hatchback_green.ac 150.31925 -33.66743 989.60 9.31
+OBJECT_SHARED Models/lib/SmHangar.ac 150.31840 -33.66732 989.37 104.18
+OBJECT_SHARED Models/lib/prop_a.ac 150.31934 -33.66735 989.35 234.73
+OBJECT_SHARED Models/Transport/van_red.ac 150.31823 -33.66753 989.28 276.25
+OBJECT_SHARED Models/lib/SmHangar.ac 150.31889 -33.66744 989.42 277.95
+OBJECT_SHARED Models/lib/SmHangar.ac 150.31914 -33.66741 989.37 278.23
+# END dsf2stg

@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 158.94021 -54.49857 0.00 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 158.94011 -54.49938 7.59 308.13
+OBJECT_SHARED Models/lib/cone.ac 158.94021 -54.49860 6.10 0
+OBJECT_SHARED Models/lib/cone.ac 158.94014 -54.49864 7.59 0
+OBJECT_SHARED Models/lib/cone.ac 158.94009 -54.49869 7.59 0
+OBJECT_SHARED Models/lib/cone.ac 158.94005 -54.49873 7.41 296.565
+OBJECT_SHARED Models/lib/cone.ac 158.93999 -54.49877 7.41 0
+OBJECT_SHARED Models/lib/cone.ac 158.93993 -54.49880 7.22 0
+OBJECT_SHARED Models/lib/cone.ac 158.93985 -54.49881 7.22 270
+OBJECT_SHARED Models/lib/cone.ac 158.93978 -54.49884 7.22 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 158.94024 -54.49839 7.22 329.036
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 158.94035 -54.49842 7.93 238.299
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 158.94031 -54.49842 7.93 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac 158.94018 -54.49845 7.93 148.425
+OBJECT_SHARED Models/lib/lamp10m.xml 158.93988 -54.49930 7.78 -47.6547
+OBJECT_SHARED Models/lib/lamp10m.xml 158.93993 -54.49829 6.29 22.9956
+# END dsf2stg

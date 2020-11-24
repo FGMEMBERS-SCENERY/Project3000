@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -73.20947 -42.60290 41.62 332.24
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -73.20921 -42.60726 45.74 110.38
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -73.20896 -42.60389 43.34 319.76
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -73.20862 -42.60568 44.86 308.75
-OBJECT_SHARED Models/lib/garden-shed.ac -73.20878 -42.60570 44.99 189.46
-OBJECT_SHARED Models/lib/garage-small-white.ac -73.20859 -42.60321 42.16 192.99
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -73.20947 -42.60290 0.00 332.24
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -73.20921 -42.60726 41.27 110.38
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -73.20896 -42.60389 46.37 319.76
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -73.20862 -42.60568 43.30 308.75
+OBJECT_SHARED Models/lib/garden-shed.ac -73.20878 -42.60570 45.35 189.46
+OBJECT_SHARED Models/lib/garage-small-white.ac -73.20859 -42.60321 45.50 192.99
 OBJECT_SHARED Models/lib/garage-small-white.ac -73.20876 -42.60312 42.00 282.58
-OBJECT_SHARED Models/lib/farm19x12.ac -73.20903 -42.60749 45.48 109.54
-OBJECT_SHARED Models/lib/SmHangar.ac -73.20866 -42.60438 43.97 12.56
-OBJECT_SHARED Models/lib/SmHangar.ac -73.20920 -42.60248 41.02 336.81
-OBJECT_SHARED Models/lib/SmHangar.ac -73.20851 -42.60580 44.81 6.91
-OBJECT_SHARED Models/lib/SmHangar.ac -73.20927 -42.60707 45.87 205.78
+OBJECT_SHARED Models/lib/farm19x12.ac -73.20903 -42.60749 41.78 109.54
+OBJECT_SHARED Models/lib/SmHangar.ac -73.20866 -42.60438 45.98 12.56
+OBJECT_SHARED Models/lib/SmHangar.ac -73.20920 -42.60248 44.10 336.81
+OBJECT_SHARED Models/lib/SmHangar.ac -73.20851 -42.60580 40.59 6.91
+OBJECT_SHARED Models/lib/SmHangar.ac -73.20927 -42.60707 45.33 205.78
 # END dsf2stg

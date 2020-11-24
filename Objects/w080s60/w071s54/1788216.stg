@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -70.83149 -53.00611 0.00 318.27
+OBJECT_SHARED Models/lib/office8x14.ac -70.84373 -53.00665 36.89 0.5
+OBJECT_SHARED Models/lib/MedHangar.ac -70.84901 -53.00540 38.82 152.55
+OBJECT_SHARED Models/lib/lamp10m.xml -70.84715 -53.00577 34.00 39.81
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.84292 -53.00485 39.24 47.38
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.84360 -53.00487 39.16 47.38
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.84442 -53.00490 39.21 47.38
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.84525 -53.00491 39.23 47.38
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.84610 -53.00492 39.25 47.38
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.84704 -53.00493 39.25 47.11
+# END dsf2stg
