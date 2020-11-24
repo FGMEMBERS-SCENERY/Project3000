@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office6x12.ac 126.14909 -13.75417 0.00 126.29
+OBJECT_SHARED Models/lib/office3x10.ac 126.14942 -13.75441 4.65 309.37
+OBJECT_SHARED Models/lib/office8x14.ac 126.14912 -13.75387 4.52 36.66
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.14924 -13.75393 4.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.14929 -13.75404 4.86 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 126.14899 -13.75411 4.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 126.14906 -13.75406 4.72 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 126.14874 -13.75385 4.72 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 126.14839 -13.75371 -90.08 0
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14963 -13.75452 3.82 220.91
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14949 -13.75436 4.95 244.06
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14931 -13.75435 4.52 87.14
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14930 -13.75418 4.58 216.35
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14896 -13.75375 4.65 224.29
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14881 -13.75362 4.99 223.26
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14912 -13.75330 5.05 40.24
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14895 -13.75343 5.25 39.02
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14791 -13.75238 5.18 294.68
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14812 -13.75270 5.03 300.05
+OBJECT_SHARED Models/lib/lamp10m.xml 126.14834 -13.75303 4.76 304.31
+# END dsf2stg

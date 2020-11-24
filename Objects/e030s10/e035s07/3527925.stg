@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac 35.74923 -6.16921 0.00 90
+OBJECT_SHARED Models/lib/farm19x12.ac 35.74916 -6.16917 1121.33 358.26
+OBJECT_SHARED Models/lib/farm19x12.ac 35.74946 -6.16918 1121.36 358.26
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 35.74850 -6.16953 1121.16 -1.66
+OBJECT_SHARED Models/lib/cube16x10.ac 35.74884 -6.16923 1121.63 268.5
+# END dsf2stg

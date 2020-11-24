@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -76.11008 -5.89486 0.00 356.257
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -76.11061 -5.89514 146.82 264.933
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -76.11200 -5.89490 146.53 338.6
+OBJECT_SHARED Models/lib/SmHangar.ac -76.11176 -5.89492 145.03 250.356
+OBJECT_SHARED Models/lib/cube16x10.ac -76.11333 -5.89456 145.17 85.0063
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.11122 -5.89472 144.42 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.11124 -5.89470 145.55 270
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.11111 -5.89480 145.53 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.11110 -5.89492 145.67 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.11112 -5.89493 145.77 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.11009 -5.89479 145.78 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.11009 -5.89481 146.72 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.11055 -5.89506 146.75 0
+OBJECT_SHARED Models/lib/industrial15x22.ac -76.11022 -5.89524 146.42 354.71
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.11097 -5.89510 147.25 265.401
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -76.11034 -5.89518 146.03 40.0303
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -76.11007 -5.89496 146.99 131.424
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -76.11128 -5.89487 146.95 315
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -76.11090 -5.89513 145.56 45
+# END dsf2stg

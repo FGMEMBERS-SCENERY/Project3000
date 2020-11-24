@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -56.37858 -16.51663 122.35 277.334
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -56.37835 -16.51607 123.35 282.155
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -56.37803 -16.51568 122.94 284.759
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -56.37730 -16.51499 124.01 281.378
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -56.37711 -16.51487 123.57 30.1244
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -56.37760 -16.51472 123.77 278.351
+OBJECT_SHARED Models/lib/lamp10m.xml -56.37829 -16.51430 124.29 57.5289
+OBJECT_SHARED Models/lib/lamp10m.xml -56.37825 -16.51449 123.55 -34.9921
+OBJECT_SHARED Models/lib/lamp10m.xml -56.37844 -16.51452 123.74 236.646
+OBJECT_SHARED Models/lib/lamp10m.xml -56.37847 -16.51434 123.67 138.838
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -56.39484 -16.53088 127.90 221.013
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -56.38499 -16.52602 123.37 341.799
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -56.37792 -16.51914 123.89 120.734
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -56.37711 -16.51523 125.33 227.42
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -56.37787 -16.51571 123.68 317.911
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -56.37829 -16.51616 123.71 317.603
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -56.37848 -16.51675 122.68 317.564
+# END dsf2stg

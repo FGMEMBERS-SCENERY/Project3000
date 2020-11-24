@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/industrial13x24.ac 151.08461 -8.50813 10.17 309.5
-OBJECT_SHARED Models/Misc/6barrels.ac 151.08509 -8.50953 10.38 105.8
-OBJECT_SHARED Models/lib/coal_pile.ac 151.08360 -8.50855 10.02 90
-OBJECT_SHARED Models/lib/transformer3x3.ac 151.08527 -8.50792 10.13 321.12
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 151.08366 -8.50729 11.52 131.72
-OBJECT_SHARED Models/lib/office3x10.ac 151.08394 -8.50730 11.49 180
-OBJECT_SHARED Models/lib/stack_of_cones.ac 151.08483 -8.50869 10.29 328.57
+OBJECT_SHARED Models/lib/industrial13x24.ac 151.08461 -8.50813 0.00 309.5
+OBJECT_SHARED Models/Misc/6barrels.ac 151.08509 -8.50953 10.18 105.8
+OBJECT_SHARED Models/lib/coal_pile.ac 151.08360 -8.50855 10.40 90
+OBJECT_SHARED Models/lib/transformer3x3.ac 151.08527 -8.50792 10.02 321.12
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 151.08366 -8.50729 10.13 131.72
+OBJECT_SHARED Models/lib/office3x10.ac 151.08394 -8.50730 11.34 180
+OBJECT_SHARED Models/lib/stack_of_cones.ac 151.08483 -8.50869 11.32 328.57
 # END dsf2stg

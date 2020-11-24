@@ -1,0 +1,46 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 140.99944 -28.99679 0.00 93.36
+OBJECT_SHARED Models/Transport/van_red.ac 140.99978 -28.99717 116.01 23.77
+OBJECT_SHARED Models/Transport/hatchback_black.ac 140.99962 -28.99706 116.73 290.62
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 140.99889 -28.99866 116.71 225.83
+OBJECT_SHARED Models/Transport/Norberttruck.xml 140.99976 -28.99584 117.67 30.23
+OBJECT_SHARED Models/Transport/Norberttruck.xml 140.99974 -28.99581 116.49 28.64
+OBJECT_SHARED Models/lib/garden-shed.ac 140.99990 -28.99711 117.69 214.29
+OBJECT_SHARED Models/lib/garden-shed.ac 140.99987 -28.99708 116.71 203.75
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 140.99966 -28.99693 116.71 300.38
+OBJECT_SHARED Models/lib/office4x14.ac 140.99941 -28.99615 116.67 90.3
+OBJECT_SHARED Models/lib/office4x14.ac 140.99936 -28.99610 115.86 0.869995
+OBJECT_SHARED Models/lib/office4x14.ac 140.99941 -28.99605 115.86 270.33
+OBJECT_SHARED Models/Transport/hatchback_green.ac 140.99910 -28.99866 115.86 269.54
+OBJECT_SHARED Models/Transport/hatchback_black.ac 140.99925 -28.99860 116.66 140.71
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 140.99926 -28.99907 116.62 0
+OBJECT_SHARED Models/lib/shed8x10.ac 140.99906 -28.99911 116.81 275.34
+OBJECT_SHARED Models/lib/vending-machine.ac 140.99968 -28.99707 116.81 207.21
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99903 -28.99919 116.71 271.79
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99901 -28.99915 116.85 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99998 -28.99590 116.81 335.77
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99982 -28.99621 116.50 331.7
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99983 -28.99714 116.62 335.77
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99997 -28.99732 116.78 333.44
+OBJECT_SHARED Models/Misc/picnic_table.ac 140.99982 -28.99706 116.76 118.93
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99942 -28.99673 116.71 31.6
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99989 -28.99749 115.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99930 -28.99765 116.81 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99929 -28.99757 116.28 164.48
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99930 -28.99747 116.28 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99930 -28.99737 116.24 175.6
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99930 -28.99728 116.21 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99929 -28.99718 116.18 176.63
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99929 -28.99702 116.14 169.7
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99929 -28.99688 116.08 188.88
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99929 -28.99678 116.04 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99929 -28.99667 116.01 178.94
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99938 -28.99707 115.99 353.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99982 -28.99703 116.11 295.35
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99993 -28.99710 116.69 183.32
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99983 -28.99668 116.69 184.67
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99951 -28.99647 116.62 176.19
+OBJECT_SHARED Models/Trees/billboard-tree.xml 140.99958 -28.99628 116.59 129.17
+# END dsf2stg

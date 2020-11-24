@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -59.05201 -27.45007 0.00 216.27
+OBJECT_SHARED Models/lib/LongRow.ac -59.05235 -27.44897 59.30 322.51
+OBJECT_SHARED Models/lib/LongRow.ac -59.05131 -27.44975 57.31 35.77
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -59.05040 -27.44834 59.88 21.83
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -59.04847 -27.44528 59.40 351.87
+OBJECT_SHARED Models/lib/stack_of_cones.ac -59.05199 -27.45254 58.01 14.81
+OBJECT_SHARED Models/lib/cone.ac -59.05200 -27.45253 58.94 327.09
+OBJECT_SHARED Models/lib/cone.ac -59.05201 -27.45253 58.94 80.75
+OBJECT_SHARED Models/lib/cone.ac -59.05202 -27.45252 58.94 279.27
+OBJECT_SHARED Models/lib/cone.ac -59.05203 -27.45251 58.94 26.57
+OBJECT_SHARED Models/lib/cone.ac -59.05204 -27.45251 58.94 87.77
+OBJECT_SHARED Models/lib/cone.ac -59.05205 -27.45250 58.94 177.21
+OBJECT_SHARED Models/lib/cone.ac -59.05206 -27.45249 58.84 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -59.04870 -27.44586 58.84 0
+OBJECT_SHARED Models/lib/cone.ac -59.04871 -27.44582 58.21 0
+OBJECT_SHARED Models/lib/cone.ac -59.04871 -27.44583 58.24 300.38
+OBJECT_SHARED Models/lib/cone.ac -59.04872 -27.44584 58.24 42.88
+OBJECT_SHARED Models/lib/cone.ac -59.04872 -27.44584 58.24 0
+OBJECT_SHARED Models/lib/cone.ac -59.04872 -27.44585 58.24 31.18
+OBJECT_SHARED Models/lib/cone.ac -59.04873 -27.44586 58.21 27.76
+OBJECT_SHARED Models/lib/lamp10m.xml -59.04927 -27.44618 58.21 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -59.04964 -27.44584 58.29 58.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -59.04906 -27.44702 57.26 337.67
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -59.04932 -27.44693 58.64 337.65
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -59.04883 -27.44626 59.01 157.51
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -59.04863 -27.44633 58.29 157.02
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -59.04853 -27.44536 57.85 185.81
+OBJECT_SHARED Models/Transport/van_silver.ac -59.04851 -27.44533 57.99 6.95999
+OBJECT_SHARED Models/lib/trailer-fedex.ac -59.04884 -27.44543 58.01 239.41
+OBJECT_SHARED Models/lib/trailer-fedex.ac -59.04870 -27.44526 58.00 244.2
+OBJECT_SHARED Models/lib/trailer-fedex.ac -59.04874 -27.44526 58.02 242.81
+OBJECT_SHARED Models/lib/belt_loader.ac -59.04840 -27.44556 58.02 247.44
+OBJECT_SHARED Models/lib/fuel-truck.xml -59.04816 -27.44551 57.77 246.61
+OBJECT_SHARED Models/lib/fuel-truck.xml -59.04822 -27.44558 57.43 248.26
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -59.04832 -27.44545 57.31 245.56
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -59.04835 -27.44544 57.62 241.63
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -59.04829 -27.44560 57.81 337.58
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -59.04827 -27.44563 57.59 337.67
+# END dsf2stg

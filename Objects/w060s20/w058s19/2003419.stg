@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -57.59598 -18.52050 0.00 216.819
+OBJECT_SHARED Models/lib/lamp10m.xml -57.59604 -18.52024 91.84 178.8
+OBJECT_SHARED Models/lib/prop_a.ac -57.59782 -18.51818 90.81 315
+OBJECT_SHARED Models/lib/prop_a.ac -57.59792 -18.51828 93.05 304.695
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -57.59839 -18.50822 93.19 143.13
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -57.58145 -18.52550 89.81 325.006
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -57.59662 -18.51810 92.45 299.356
+OBJECT_SHARED Models/lib/transformer3x3.ac -57.59633 -18.52089 92.26 278.351
+OBJECT_SHARED Models/lib/transformer3x3.ac -57.59634 -18.52084 92.36 278.351
+OBJECT_SHARED Models/lib/LongRow.ac -57.59650 -18.52074 92.39 278.229
+# END dsf2stg

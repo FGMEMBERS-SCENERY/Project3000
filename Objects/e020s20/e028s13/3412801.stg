@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/industrial13x24.ac 28.14788 -12.89778 1268.23 74.38
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14782 -12.89719 1268.36 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14799 -12.89724 1268.06 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14761 -12.89715 1268.64 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14706 -12.89734 1269.26 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14746 -12.89709 1268.77 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14746 -12.89715 1268.77 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14718 -12.89731 1269.15 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14705 -12.89754 1269.34 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14728 -12.89764 1268.97 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14722 -12.89767 1269.06 0
-OBJECT_SHARED Models/lib/SmHangar.ac 28.14727 -12.89752 1268.99 253.96
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 28.14811 -12.89790 1267.99 254.34
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 28.14765 -12.89748 1268.50 254.66
+OBJECT_SHARED Models/lib/industrial13x24.ac 28.14788 -12.89778 0.00 74.38
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14782 -12.89719 1268.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14799 -12.89724 1268.27 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14761 -12.89715 1268.01 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14706 -12.89734 1268.57 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14746 -12.89709 1269.26 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14746 -12.89715 1268.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14718 -12.89731 1268.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14705 -12.89754 1269.14 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14728 -12.89764 1269.34 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 28.14722 -12.89767 1268.97 0
+OBJECT_SHARED Models/lib/SmHangar.ac 28.14727 -12.89752 1269.06 253.96
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 28.14811 -12.89790 1268.99 254.34
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 28.14765 -12.89748 1267.99 254.66
 # END dsf2stg

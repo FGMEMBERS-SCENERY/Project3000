@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 17.09349 -29.68408 0.00 266.68
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 17.09336 -29.68365 79.46 266.93
+OBJECT_SHARED Models/lib/lamp10m.xml 17.09371 -29.68329 79.12 33.96
+OBJECT_SHARED Models/lib/lamp10m.xml 17.09367 -29.68398 79.01 -33.69
+OBJECT_SHARED Models/lib/lamp10m.xml 17.09303 -29.68330 79.45 150.28
+OBJECT_SHARED Models/lib/lamp10m.xml 17.09367 -29.68365 78.79 -4.95001
+OBJECT_SHARED Models/lib/lamp10m.xml 17.09302 -29.68360 79.21 178.8
+OBJECT_SHARED Models/lib/lamp10m.xml 17.09317 -29.68305 79.01 88.94
+OBJECT_SHARED Models/lib/prop_a.ac 17.09313 -29.68312 78.61 310.58
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09357 -29.68456 78.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09344 -29.68454 79.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09330 -29.68451 79.63 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09316 -29.68448 79.61 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09302 -29.68444 79.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09363 -29.68451 79.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09256 -29.68338 79.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09261 -29.68346 78.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09265 -29.68354 78.82 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09225 -29.68362 78.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09297 -29.68438 78.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09310 -29.68442 79.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09323 -29.68444 79.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09337 -29.68448 79.55 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.09350 -29.68450 79.63 0
+# END dsf2stg

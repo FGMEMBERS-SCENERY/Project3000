@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 144.17097 -29.70590 0.00 136.21
+OBJECT_SHARED Models/Transport/van_silver.ac 144.17650 -29.71476 112.73 137.6
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 144.17645 -29.71476 114.86 178.53
+OBJECT_SHARED Models/Transport/hatchback_black.ac 144.17880 -29.70679 114.86 213.39
+OBJECT_SHARED Models/lib/office3x10.ac 144.17883 -29.70684 112.81 259.48
+OBJECT_SHARED Models/lib/shed8x10.ac 144.17637 -29.71488 112.81 347.85
+OBJECT_SHARED Models/lib/shed8x10.ac 144.17671 -29.71489 114.87 319.53
+OBJECT_SHARED Models/lib/shed8x10.ac 144.17891 -29.70675 115.13 261.99
+OBJECT_SHARED Models/Misc/6barrels.ac 144.17097 -29.70594 112.81 76.89
+OBJECT_SHARED Models/Misc/6barrels.ac 144.17099 -29.70592 112.73 180
+OBJECT_SHARED Models/Misc/6barrels.ac 144.17098 -29.70593 112.73 319.9
+OBJECT_SHARED Models/Misc/6barrels.ac 144.17098 -29.70595 112.73 27.46
+OBJECT_SHARED Models/Misc/6barrels.ac 144.17100 -29.70593 112.73 49.14
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 144.17099 -29.70596 112.73 271.27
+OBJECT_SHARED Models/Transport/Norberttruck.xml 144.17916 -29.70685 112.79 258.6
+OBJECT_SHARED Models/Transport/Norberttruck.xml 144.17797 -29.71454 112.82 3.47
+# END dsf2stg

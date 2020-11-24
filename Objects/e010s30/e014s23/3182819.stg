@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac 14.98347 -22.46200 0.00 328.69
+OBJECT_SHARED Models/lib/stack_of_cones.ac 14.98326 -22.46213 577.84 328.69
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 14.98348 -22.46202 577.62 270.54
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 14.98326 -22.46200 577.84 328.69
+OBJECT_SHARED Models/Misc/6barrels.ac 14.98346 -22.46213 577.66 328.69
+OBJECT_SHARED Models/Misc/6barrels.ac 14.98346 -22.46214 577.80 328.69
+OBJECT_SHARED Models/lib/MedHangar.ac 14.98699 -22.46122 577.80 281.42
+OBJECT_SHARED Models/lib/garage-small-white.ac 14.98402 -22.46200 580.34 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.98812 -22.46091 578.27 0
+OBJECT_SHARED Models/lib/cars4.ac 14.98399 -22.46219 580.79 259.148
+OBJECT_SHARED Models/lib/cars4.ac 14.98401 -22.46208 578.17 259.124
+OBJECT_SHARED Models/lib/deciduous-tree.xml 14.98790 -22.46114 578.26 0
+# END dsf2stg

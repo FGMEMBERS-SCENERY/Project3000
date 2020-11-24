@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -38.95572 -15.66396 0.00 0
+OBJECT_SHARED Models/lib/cars10.ac -38.95527 -15.66417 1.29 155.96
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -38.95567 -15.66378 1.42 -24.41
+OBJECT_SHARED Models/lib/stack_of_cones.ac -38.95614 -15.66499 1.01 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -38.95585 -15.66464 3.28 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -38.95606 -15.66457 2.46 0
+OBJECT_SHARED Models/lib/farm19x12.ac -38.95543 -15.66437 2.57 333.43
+# END dsf2stg

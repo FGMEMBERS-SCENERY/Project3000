@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 16.52911 -28.57033 0.00 180.7
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.52870 -28.57048 22.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.52894 -28.57043 22.89 0
+OBJECT_SHARED Models/lib/2space_wStop.ac 16.52771 -28.57054 22.87 274.62
+OBJECT_SHARED Models/lib/lamp10m.xml 16.52882 -28.57074 22.88 185.83
+OBJECT_SHARED Models/lib/lamp10m.xml 16.52908 -28.57047 22.97 165.44
+OBJECT_SHARED Models/lib/lamp10m.xml 16.52896 -28.56994 22.90 137.96
+OBJECT_SHARED Models/lib/lamp10m.xml 16.52855 -28.57025 22.72 -45
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.52874 -28.57022 22.83 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.52876 -28.57035 22.80 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.52876 -28.57028 22.84 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.52868 -28.57035 22.84 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.52868 -28.57027 22.87 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.52861 -28.57032 22.84 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.52788 -28.57070 22.83 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.52769 -28.57070 22.93 0
+OBJECT_SHARED Models/lib/coal_pile.ac 16.52662 -28.57357 22.93 110.38
+OBJECT_SHARED Models/lib/coal_pile.ac 16.52807 -28.57260 22.93 121.33
+OBJECT_SHARED Models/lib/coal_pile.ac 16.52709 -28.57266 23.18 107.2
+OBJECT_SHARED Models/lib/coal_pile.ac 16.52563 -28.57319 22.96 111.61
+OBJECT_SHARED Models/lib/6space_wStop.ac 16.52853 -28.57007 22.98 2.41
+# END dsf2stg

@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 148.70656 -22.80334 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 148.70640 -22.80329 165.24 27.3
+OBJECT_SHARED Models/Trees/billboard-tree.xml 148.70641 -22.80321 165.48 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml 148.70670 -22.80337 165.41 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 148.70650 -22.80332 165.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 148.70677 -22.80298 165.48 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 148.70690 -22.80328 165.25 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 148.70675 -22.80343 165.24 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 148.70645 -22.80278 165.23 336.08
+OBJECT_SHARED Models/lib/prop_a.ac 148.70616 -22.80200 165.34 63.07
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 148.70616 -22.80264 165.38 332.94
+OBJECT_SHARED Models/lib/stack_of_cones.ac 148.70639 -22.80263 165.35 289.47
+OBJECT_SHARED Models/lib/cars6.ac 148.70703 -22.80306 165.35 245
+OBJECT_SHARED Models/lib/cars2.ac 148.70674 -22.80316 165.25 66.22
+OBJECT_SHARED Models/lib/cars4.ac 148.70678 -22.80309 165.24 65.13
+# END dsf2stg

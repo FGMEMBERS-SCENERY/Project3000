@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 164.25930 -20.54196 0.00 142.13
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 164.25933 -20.54202 14.75 135.84
+OBJECT_SHARED Models/Transport/van_silver.ac 164.25920 -20.54192 14.75 269.48
+OBJECT_SHARED Models/Transport/hatchback_red.ac 164.25965 -20.54187 14.79 297.31
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 164.25967 -20.54193 15.15 297.31
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 164.25950 -20.54189 15.15 113.63
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 164.25952 -20.54191 14.79 113.63
+OBJECT_SHARED Models/Transport/hatchback_black.ac 164.25964 -20.54201 15.15 114.59
+OBJECT_SHARED Models/lib/loader.ac 164.25971 -20.54217 15.09 -62.85
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 164.25861 -20.54272 14.99 207.47
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 164.25865 -20.54271 14.44 207.9
+OBJECT_SHARED Models/lib/prop_a.ac 164.25826 -20.54298 14.44 294.59
+OBJECT_SHARED Models/lib/lamp10m.xml 164.25850 -20.54259 13.70 108.85
+OBJECT_SHARED Models/lib/lamp10m.xml 164.25954 -20.54220 14.48 113.55
+OBJECT_SHARED Models/lib/lamp10m.xml 164.25997 -20.54202 14.99 115.43
+OBJECT_SHARED Models/lib/lamp10m.xml 164.25921 -20.54231 15.09 206.57
+OBJECT_SHARED Models/lib/lamp10m.xml 164.25915 -20.54202 14.61 200.91
+OBJECT_SHARED Models/lib/lamp10m.xml 164.25946 -20.54187 14.75 194.93
+OBJECT_SHARED Models/lib/lamp10m.xml 164.25936 -20.54190 14.79 19.18
+OBJECT_SHARED Models/lib/lamp10m.xml 164.25968 -20.54184 14.79 24.18
+OBJECT_SHARED Models/lib/lamp10m.xml 164.25931 -20.54252 15.20 293.63
+OBJECT_SHARED Models/lib/lamp10m.xml 164.26002 -20.54224 14.52 111.73
+OBJECT_SHARED Models/lib/propane-tank.ac 164.25988 -20.54196 14.99 24.94
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 164.25956 -20.54218 15.09 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 164.25976 -20.54215 14.99 209.36
+OBJECT_SHARED Models/Misc/picnic_table.ac 164.25994 -20.54198 15.04 208.61
+OBJECT_SHARED Models/lib/stack_of_cones.ac 164.25952 -20.54222 15.09 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 164.25943 -20.54225 14.99 209.25
+OBJECT_SHARED Models/lib/SmHangar.ac 164.25840 -20.54285 14.61 114.82
+OBJECT_SHARED Models/lib/SmHangar.ac 164.25823 -20.54292 13.76 114.84
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25899 -20.54195 13.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25963 -20.54209 14.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25970 -20.54206 15.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25943 -20.54200 15.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25942 -20.54192 14.75 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25948 -20.54195 14.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25941 -20.54210 14.75 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25948 -20.54208 14.70 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25931 -20.54213 14.70 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25930 -20.54228 14.70 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 164.25935 -20.54225 14.61 0
+# END dsf2stg

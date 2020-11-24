@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac 34.82154 -2.45809 0.00 131.348
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 34.82149 -2.45807 1539.47 146.31
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 34.82144 -2.45804 1539.42 158.199
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 34.82139 -2.45801 1539.37 168.996
+OBJECT_SHARED Models/Transport/hatchback_black.ac 34.82135 -2.45799 1539.30 338.552
+OBJECT_SHARED Models/Transport/van_red.ac 34.82132 -2.45796 1539.25 336.571
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 34.82128 -2.45791 1539.19 165.069
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 34.82122 -2.45785 1539.08 153.435
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 34.82113 -2.45779 1538.96 337.751
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 34.82109 -2.45775 1538.83 311.634
+OBJECT_SHARED Models/Transport/hatchback_black.ac 34.82105 -2.45772 1538.74 324.462
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 34.82102 -2.45770 1538.67 330.461
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 34.82099 -2.45768 1538.64 332.021
+OBJECT_SHARED Models/Transport/hatchback_green.ac 34.82097 -2.45765 1538.59 147.529
+OBJECT_SHARED Models/lib/dGreenhse.ac 34.82029 -2.45803 1538.52 301
+OBJECT_SHARED Models/lib/dGreenhse.ac 34.82050 -2.45842 1537.47 301
+OBJECT_SHARED Models/lib/dGreenhse.ac 34.82048 -2.45839 1537.43 301
+OBJECT_SHARED Models/lib/dGreenhse.ac 34.82046 -2.45836 1537.47 301
+OBJECT_SHARED Models/lib/dGreenhse.ac 34.82034 -2.45811 1537.51 301
+OBJECT_SHARED Models/lib/dGreenhse.ac 34.82031 -2.45807 1537.43 301
+OBJECT_SHARED Models/lib/office3x10.ac 34.82221 -2.45845 1537.48 152.354
+OBJECT_SHARED Models/lib/office3x10.ac 34.82221 -2.45826 1539.14 214.875
+# END dsf2stg

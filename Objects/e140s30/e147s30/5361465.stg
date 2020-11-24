@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac 147.38787 -29.07284 0.00 43.41
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 147.38797 -29.07274 141.93 222.88
+OBJECT_SHARED Models/Transport/van_silver.ac 147.38783 -29.07283 141.94 26.38
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 147.38759 -29.07295 141.93 183.9
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 147.38782 -29.07289 141.91 198.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 147.38778 -29.07286 141.91 228.42
+OBJECT_SHARED Models/Misc/picnic_table.ac 147.38776 -29.07288 141.91 228.04
+OBJECT_SHARED Models/lib/cone.ac 147.38365 -29.07202 141.91 327.995
+# END dsf2stg

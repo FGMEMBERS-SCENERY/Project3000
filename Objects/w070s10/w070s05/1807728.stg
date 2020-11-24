@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -69.94163 -4.19661 0.00 24.3698
+OBJECT_SHARED Models/lib/stack_of_cones.ac -69.94156 -4.19668 78.60 310.766
+OBJECT_SHARED Models/lib/stack_of_cones.ac -69.94172 -4.19676 78.45 310.766
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -69.94163 -4.19674 78.01 18.6347
+OBJECT_SHARED Models/lib/chariot3curve.ac -69.94153 -4.19649 78.31 258.387
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -69.94185 -4.19715 79.13 69.34
+OBJECT_SHARED Models/lib/stack_of_cones.ac -69.94175 -4.19715 77.10 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -69.94191 -4.19728 77.15 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -69.94177 -4.19724 77.28 67.8685
+OBJECT_SHARED Models/lib/chariot3curve.ac -69.94177 -4.19702 77.18 271.726
+OBJECT_SHARED Models/lib/stack_of_cones.ac -69.94297 -4.19758 77.18 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -69.94313 -4.19770 77.66 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -69.94299 -4.19766 77.62 67.8685
+OBJECT_SHARED Models/lib/chariot3curve.ac -69.94300 -4.19745 77.63 271.726
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -69.94309 -4.19757 77.66 69.34
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -69.94378 -4.19747 77.62 175.624
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -69.94378 -4.19734 77.47 177.421
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -69.94367 -4.19696 77.49 144.429
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -69.94360 -4.19684 77.56 145.441
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94257 -4.19686 77.59 67.249
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94163 -4.19619 77.24 0.806915
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94171 -4.19605 79.32 212.171
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94241 -4.19590 79.15 161.565
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94229 -4.19593 78.06 162.15
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94237 -4.19631 78.11 14.1671
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94246 -4.19656 77.75 116.87
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94256 -4.19729 77.39 250.145
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94248 -4.19708 77.64 249.444
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94236 -4.19674 77.30 252.734
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94242 -4.19691 76.77 252.372
+OBJECT_SHARED Models/lib/lamp10m.xml -69.94231 -4.19662 77.01 198.03
+OBJECT_SHARED Models/lib/hangar81x16.ac -69.94269 -4.19740 76.77 69.3915
+OBJECT_SHARED Models/lib/office8x14.ac -69.94177 -4.19609 77.80 338.261
+OBJECT_SHARED Models/lib/office6x12.ac -69.94170 -4.19619 78.83 68.6196
+OBJECT_SHARED Models/lib/SmHangar.ac -69.94236 -4.19593 79.00 70.501
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -69.94267 -4.19726 78.06 117.084
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -69.94289 -4.19764 77.57 117.084
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -69.94170 -4.19721 77.71 117.084
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -69.94152 -4.19672 77.09 117.084
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -69.94097 -4.19612 78.62 158.629
+# END dsf2stg

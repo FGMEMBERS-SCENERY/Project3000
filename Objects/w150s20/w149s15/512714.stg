@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -148.71152 -14.87010 0.00 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -148.71126 -14.87011 4.07 0
+OBJECT_SHARED Models/lib/shed8x10.ac -148.71144 -14.87029 7.60 344.05
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -148.71132 -14.87000 7.61 253.3
+# END dsf2stg

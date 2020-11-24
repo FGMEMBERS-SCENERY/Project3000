@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars14.ac -151.36812 -22.43355 0.00 344.79
+OBJECT_SHARED Models/lib/cars14.ac -151.36831 -22.43350 9.16 165.06
+OBJECT_SHARED Models/lib/cars7.ac -151.36787 -22.43363 9.16 165.46
+OBJECT_SHARED Models/lib/cars7.ac -151.36798 -22.43358 9.35 345.69
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -151.36838 -22.43335 9.35 346.66
+OBJECT_SHARED Models/Airport/cargoim.xml -151.36804 -22.43328 8.96 0
+OBJECT_SHARED Models/Airport/cargoim.xml -151.36802 -22.43329 8.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -151.36788 -22.43361 8.77 347.93
+OBJECT_SHARED Models/Trees/billboard-tree.xml -151.36777 -22.43376 9.35 280.76
+OBJECT_SHARED Models/Trees/billboard-tree.xml -151.36787 -22.43363 9.16 302.91
+OBJECT_SHARED Models/Trees/billboard-tree.xml -151.36767 -22.43374 9.74 300.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml -151.36791 -22.43359 9.55 72.9
+OBJECT_SHARED Models/Trees/billboard-tree.xml -151.36764 -22.43374 9.35 73.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml -151.36778 -22.43374 9.55 116.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml -151.36764 -22.43372 9.55 82.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -151.36776 -22.43373 9.55 82.57
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -151.36854 -22.43295 9.55 341.09
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36757 -22.43342 8.09 340.48
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36764 -22.43340 8.96 342.36
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36772 -22.43338 8.96 342.36
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36778 -22.43336 8.96 342.36
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36785 -22.43334 8.96 342.36
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36799 -22.43331 8.77 259.47
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36817 -22.43328 8.77 258.72
+OBJECT_SHARED Models/lib/stack_of_cones.ac -151.36782 -22.43311 8.77 178.85
+OBJECT_SHARED Models/lib/stack_of_cones.ac -151.36751 -22.43320 8.38 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -151.36783 -22.43321 8.57 163.21
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36761 -22.43319 8.57 251.22
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36797 -22.43309 8.57 250.45
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36779 -22.43314 8.38 252.8
+OBJECT_SHARED Models/lib/lamp10m.xml -151.36743 -22.43324 8.38 253.78
+OBJECT_SHARED Models/lib/cube16x10.ac -151.36870 -22.43321 8.35 342.24
+# END dsf2stg

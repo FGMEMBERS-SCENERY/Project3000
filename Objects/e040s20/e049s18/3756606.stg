@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 49.81699 -17.08991 0.00 278.179
+OBJECT_SHARED Models/lib/prop_a.ac 49.81717 -17.08987 4.80 234.375
+OBJECT_SHARED Models/lib/MedHangar.ac 49.81671 -17.08970 5.25 139.501
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 49.81717 -17.09045 5.13 12.5288
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 49.81718 -17.09042 4.80 14.0363
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 49.81721 -17.09039 4.80 11.8887
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 49.81723 -17.09041 4.80 267.397
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 49.81727 -17.09027 4.80 96.1155
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 49.81727 -17.09031 4.79 100.62
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 49.81728 -17.09034 4.79 104.036
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 49.81728 -17.09038 4.79 93.5764
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 49.81729 -17.09041 4.83 96.009
+OBJECT_SHARED Models/lib/container6-HD.ac 49.81717 -17.08950 4.83 270
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 49.81657 -17.08993 5.51 131.349
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 49.81665 -17.08981 5.09 208.751
+OBJECT_SHARED Models/lib/chariot3curve.ac 49.81681 -17.08962 5.12 12.363
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 49.81668 -17.08985 4.86 73.7325
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 49.81708 -17.08963 5.14 180.357
+OBJECT_SHARED Models/lib/cube16x10.ac 49.81470 -17.09144 5.17 4.17046
+# END dsf2stg

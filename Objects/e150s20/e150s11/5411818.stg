@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac 150.33892 -10.30986 0.00 79.9795
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 150.33969 -10.30970 20.55 169.33
+OBJECT_SHARED Models/lib/shed10x50.ac 150.32878 -10.31075 20.52 165.651
+OBJECT_SHARED Models/lib/shed8x10.ac 150.33803 -10.30973 27.07 264.447
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34058 -10.30982 20.95 132.122
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34063 -10.30983 20.30 15.2551
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34090 -10.30988 20.30 62.7004
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34085 -10.31013 20.17 230.527
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34084 -10.31008 19.89 139.185
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34088 -10.31001 19.89 335.136
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34085 -10.30999 20.04 136.332
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34091 -10.30996 20.04 214.508
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34088 -10.30992 20.04 282.339
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34083 -10.30987 20.17 218.66
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34077 -10.30986 20.17 41.9872
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34068 -10.30987 20.17 287.103
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34061 -10.30986 20.17 232.306
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 150.34053 -10.30984 20.17 295.514
+OBJECT_SHARED Models/lib/6space_wStop.ac 150.33912 -10.30973 20.30 259.674
+OBJECT_SHARED Models/lib/6space_wStop.ac 150.33923 -10.30957 20.70 78.7832
+OBJECT_SHARED Models/lib/6space_wStop.ac 150.33905 -10.30954 20.79 78.7832
+OBJECT_SHARED Models/Transport/hatchback_black.ac 150.33987 -10.30998 20.88 92.386
+OBJECT_SHARED Models/Transport/hatchback_green.ac 150.33971 -10.30999 20.20 261.431
+OBJECT_SHARED Models/Transport/van_silver.ac 150.33971 -10.30996 20.20 261.666
+OBJECT_SHARED Models/Transport/hatchback_red.ac 150.33974 -10.30994 20.20 259.509
+OBJECT_SHARED Models/Transport/van_red.ac 150.33962 -10.30981 20.31 261.333
+OBJECT_SHARED Models/Transport/hatchback_black.ac 150.33943 -10.30964 20.41 348.257
+OBJECT_SHARED Models/Transport/van_red.ac 150.33940 -10.30963 20.79 347.869
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 150.33867 -10.30978 20.79 180
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 150.33867 -10.30979 20.62 180
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 150.33867 -10.30976 20.62 180
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 150.33867 -10.30980 20.62 180
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 150.33895 -10.31004 20.62 178.741
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 150.33889 -10.31004 20.48 177.357
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 150.33885 -10.31004 20.48 177.138
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 150.33876 -10.31004 20.48 204.864
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 150.33871 -10.31006 20.48 225
+# END dsf2stg

@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -79.36972 -3.99674 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -79.37029 -3.99686 1225.41 0
+OBJECT_SHARED Models/lib/lamp10m.xml -79.36964 -3.99654 1224.28 232.334
+OBJECT_SHARED Models/lib/lamp10m.xml -79.36990 -3.99659 1225.61 234.105
+OBJECT_SHARED Models/lib/lamp10m.xml -79.37014 -3.99664 1225.05 246.146
+OBJECT_SHARED Models/lib/cube16x10.ac -79.37070 -3.99666 1224.67 101.083
+OBJECT_SHARED Models/lib/cars7.ac -79.36895 -3.99648 1223.53 88.2295
+OBJECT_SHARED Models/lib/cars14.ac -79.36929 -3.99662 1226.94 101.599
+OBJECT_SHARED Models/Airport/cargoip.xml -79.37038 -3.99675 1226.18 0
+OBJECT_SHARED Models/Airport/cargoip.xml -79.37041 -3.99672 1224.10 12.1715
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.36731 -3.99613 1224.10 13.0143
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.36710 -3.99600 1230.00 101.645
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.36722 -3.99575 1230.38 192.074
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.36735 -3.99607 1230.13 102.246
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.36996 -3.99653 1229.99 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.36967 -3.99648 1224.85 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.37049 -3.99670 1225.42 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.37045 -3.99693 1223.91 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.37037 -3.99692 1223.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.37037 -3.99700 1224.09 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.36918 -3.99654 1224.07 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.36933 -3.99657 1226.37 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.36949 -3.99659 1226.18 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -79.36855 -3.99618 1225.80 -77.45
+OBJECT_SHARED Models/lib/cars10.ac -79.36979 -3.99707 1227.50 12.91
+OBJECT_SHARED Models/lib/cars10.ac -79.37009 -3.99714 1225.17 12.91
+OBJECT_SHARED Models/lib/cars10.ac -79.36951 -3.99700 1224.60 192.68
+OBJECT_SHARED Models/lib/cars10.ac -79.36980 -3.99707 1225.75 192.68
+OBJECT_SHARED Models/lib/cars10.ac -79.36930 -3.99715 1225.17 192.14
+OBJECT_SHARED Models/lib/cars10.ac -79.36989 -3.99728 1226.09 192.14
+OBJECT_SHARED Models/lib/cars10.ac -79.36960 -3.99722 1224.95 192.19
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -79.36961 -3.99671 1225.52 192.43
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.36955 -3.99643 1225.60 10.53
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.36982 -3.99647 1225.60 10.99
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.37009 -3.99652 1225.23 10.73
+# END dsf2stg

@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -51.39844 -0.86359 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -51.39823 -0.86345 1.98 0
+OBJECT_SHARED Models/lib/cone.ac -51.39813 -0.86340 1.98 0
+OBJECT_SHARED Models/lib/cone.ac -51.39819 -0.86343 1.98 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -51.39816 -0.86340 1.98 123.27
+# END dsf2stg

@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -77.64704 -7.80179 0.00 208.664
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -77.64706 -7.80175 1225.89 208.339
+OBJECT_SHARED Models/Transport/van_silver.ac -77.64694 -7.80143 1225.73 55.1247
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -77.64696 -7.80146 1226.18 55.7131
+OBJECT_SHARED Models/Transport/van_red.ac -77.64698 -7.80148 1225.98 57.6926
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64703 -7.80112 1225.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64703 -7.80098 1226.10 33.69
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64695 -7.80103 1226.16 45
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64687 -7.80110 1226.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64802 -7.79988 1226.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64795 -7.79993 1225.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64675 -7.80199 1225.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64768 -7.80286 1226.42 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64764 -7.80218 1225.07 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64774 -7.80249 1224.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64773 -7.80268 1224.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64671 -7.80190 1225.37 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64669 -7.80153 1226.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64680 -7.80187 1226.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64669 -7.80176 1226.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -77.64665 -7.80163 1226.46 0
+# END dsf2stg

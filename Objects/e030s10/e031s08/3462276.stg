@@ -2,17 +2,17 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 31.60628 -7.95109 0.00 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 31.60640 -7.95104 0.00 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 31.60624 -7.95098 0.00 0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 31.60640 -7.95083 0.00 114.86
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 31.60649 -7.95099 0.00 134.52
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 31.60650 -7.95101 0.00 125.69
-OBJECT_SHARED Models/Transport/hatchback_green.ac 31.60645 -7.95110 0.00 199.78
-OBJECT_SHARED Models/Transport/hatchback_black.ac 31.60642 -7.95111 0.00 199.3
-OBJECT_SHARED Models/Transport/hatchback_black.ac 31.60633 -7.95115 0.00 198.43
-OBJECT_SHARED Models/Transport/hatchback_black.ac 31.60618 -7.95122 0.00 233.35
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 31.60628 -7.95116 0.00 198.62
-OBJECT_SHARED Models/Transport/hatchback_black.ac 31.60626 -7.95118 0.00 199.01
-OBJECT_SHARED Models/lib/cargo-container1-HD.ac 31.60597 -7.95092 -0.00 195.36
-OBJECT_SHARED Models/lib/admin31x12.ac 31.60632 -7.95101 0.00 113.14
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 31.60640 -7.95104 1809.10 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 31.60624 -7.95098 1809.28 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 31.60640 -7.95083 1809.27 114.86
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 31.60649 -7.95099 1809.73 134.52
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 31.60650 -7.95101 1809.45 125.69
+OBJECT_SHARED Models/Transport/van_silver.ac 31.60645 -7.95110 1809.40 199.78
+OBJECT_SHARED Models/Transport/hatchback_black.ac 31.60642 -7.95111 1809.15 199.3
+OBJECT_SHARED Models/Transport/hatchback_red.ac 31.60633 -7.95115 1809.13 198.43
+OBJECT_SHARED Models/Transport/hatchback_black.ac 31.60618 -7.95122 1808.97 233.35
+OBJECT_SHARED Models/Transport/hatchback_red.ac 31.60628 -7.95116 1808.75 198.62
+OBJECT_SHARED Models/Transport/hatchback_black.ac 31.60626 -7.95118 1808.95 199.01
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 31.60597 -7.95092 1808.90 195.36
+OBJECT_SHARED Models/lib/admin31x12.ac 31.60632 -7.95101 1809.28 113.14
 # END dsf2stg

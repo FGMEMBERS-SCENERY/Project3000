@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -67.50311 -14.42982 0.00 264.682
+OBJECT_SHARED Models/Transport/hatchback_black.ac -67.50311 -14.42980 211.74 264.682
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -67.50309 -14.42937 211.74 355.957
+OBJECT_SHARED Models/Transport/hatchback_green.ac -67.50310 -14.42977 211.18 264.682
+OBJECT_SHARED Models/lib/lamp10m.xml -67.50294 -14.42999 211.74 176.99
+OBJECT_SHARED Models/lib/lamp10m.xml -67.50294 -14.42999 211.74 176.99
+OBJECT_SHARED Models/lib/lamp10m.xml -67.50291 -14.42953 212.03 176.99
+OBJECT_SHARED Models/lib/lamp10m.xml -67.50291 -14.42953 212.03 176.99
+OBJECT_SHARED Models/lib/lamp10m.xml -67.50291 -14.42915 211.31 176.99
+OBJECT_SHARED Models/lib/lamp10m.xml -67.50291 -14.42915 211.31 176.99
+OBJECT_SHARED Models/Trees/billboard-tree.xml -67.50314 -14.42916 210.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -67.50313 -14.42923 210.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -67.50311 -14.42930 210.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -67.50316 -14.42934 211.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -67.50318 -14.42929 211.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -67.50320 -14.42923 211.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -67.50330 -14.42934 210.90 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -67.50337 -14.42939 211.05 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -67.50330 -14.42940 211.19 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -67.50326 -14.42938 211.19 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -67.50324 -14.42944 211.19 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -67.50329 -14.42947 211.18 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -67.50333 -14.42944 211.33 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -67.50337 -14.42935 211.19 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -67.50329 -14.42965 211.05 87.98
+OBJECT_SHARED Models/lib/farm19x12.ac -67.50301 -14.42942 211.61 265.31
+OBJECT_SHARED Models/lib/prop_a.ac -67.50282 -14.42936 211.17 356.14
+OBJECT_SHARED Models/lib/admin31x12.ac -67.50301 -14.42965 211.17 175.79
+# END dsf2stg

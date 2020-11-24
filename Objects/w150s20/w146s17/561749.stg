@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -145.33183 -16.68728 0.00 89.6169
+OBJECT_SHARED Models/lib/watertank3x1.ac -145.33311 -16.68756 3.35 222.029
+OBJECT_SHARED Models/lib/stack_of_cones.ac -145.33297 -16.68745 2.84 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -145.33242 -16.68744 3.21 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -145.33240 -16.68740 3.27 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -145.33280 -16.68759 3.27 269.043
+OBJECT_SHARED Models/Misc/picnic_table.ac -145.33280 -16.68756 2.84 269.64
+OBJECT_SHARED Models/lib/cone.ac -145.33258 -16.68744 2.84 0
+OBJECT_SHARED Models/lib/cone.ac -145.33257 -16.68744 3.21 0
+OBJECT_SHARED Models/lib/cone.ac -145.33259 -16.68745 3.21 0
+OBJECT_SHARED Models/lib/cone.ac -145.33259 -16.68744 3.21 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -145.33190 -16.68733 3.21 244.258
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -145.33189 -16.68731 3.35 244.258
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -145.33191 -16.68731 3.35 244.258
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -145.33189 -16.68732 3.35 268.561
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -145.33189 -16.68729 3.35 268.561
+OBJECT_SHARED Models/lib/propane-tank.ac -145.33310 -16.68750 3.35 35.8648
+OBJECT_SHARED Models/lib/transformer3x3.ac -145.33258 -16.68765 3.06 180
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -145.33305 -16.68751 2.63 219.257
+OBJECT_SHARED Models/lib/lamp10m.xml -145.33251 -16.68746 3.06 269.854
+OBJECT_SHARED Models/lib/lamp10m.xml -145.33284 -16.68746 3.06 269.817
+# END dsf2stg

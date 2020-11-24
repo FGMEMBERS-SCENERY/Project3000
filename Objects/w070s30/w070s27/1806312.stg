@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -69.75207 -26.31307 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -69.75207 -26.31290 1601.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -69.75206 -26.31335 1601.55 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -69.75206 -26.31352 1601.92 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -69.75292 -26.31359 1601.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -69.75355 -26.31358 1600.49 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -69.75378 -26.31358 1599.31 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -69.75312 -26.31354 1598.72 299.055
+OBJECT_SHARED Models/Transport/hatchback_green.ac -69.75300 -26.31328 1600.03 99.9263
+OBJECT_SHARED Models/lib/cars10.ac -69.75214 -26.31353 1600.09 180.849
+OBJECT_SHARED Models/lib/cars10.ac -69.75051 -26.31671 1601.99 90.924
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -69.75241 -26.31324 1614.47 183.18
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -69.75243 -26.31342 1601.20 90
+OBJECT_SHARED Models/lib/stack_of_cones.ac -69.75220 -26.31311 1601.34 194.036
+OBJECT_SHARED Models/lib/stack_of_cones.ac -69.75290 -26.31314 1601.51 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -69.75239 -26.31321 1600.13 0
+OBJECT_SHARED Models/lib/cone.ac -69.75223 -26.31291 1601.20 0
+OBJECT_SHARED Models/lib/cone.ac -69.75223 -26.31302 1601.35 0
+OBJECT_SHARED Models/lib/cone.ac -69.75242 -26.31247 1601.43 0
+OBJECT_SHARED Models/lib/cone.ac -69.75242 -26.31234 1600.63 0
+OBJECT_SHARED Models/lib/cone.ac -69.75228 -26.31276 1600.45 0
+OBJECT_SHARED Models/lib/cone.ac -69.75230 -26.31247 1601.07 0
+OBJECT_SHARED Models/lib/cone.ac -69.75245 -26.31286 1600.82 0
+OBJECT_SHARED Models/lib/cone.ac -69.75246 -26.31269 1600.76 0
+OBJECT_SHARED Models/lib/cone.ac -69.75253 -26.31288 1600.59 0
+OBJECT_SHARED Models/lib/cone.ac -69.75253 -26.31304 1600.76 0
+OBJECT_SHARED Models/lib/cone.ac -69.75269 -26.31306 1600.84 0
+OBJECT_SHARED Models/lib/cone.ac -69.75268 -26.31317 1600.52 0
+OBJECT_SHARED Models/lib/cone.ac -69.75289 -26.31295 1600.60 270
+OBJECT_SHARED Models/lib/cone.ac -69.75279 -26.31295 1599.97 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -69.75292 -26.31328 1600.24 86.8202
+OBJECT_SHARED Models/lib/watertank3x1.ac -69.75305 -26.31342 1600.28 92.3373
+OBJECT_SHARED Models/lib/watertank3x1.ac -69.75253 -26.31335 1600.16 90.5513
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -69.75221 -26.31308 1601.07 1.9071
+OBJECT_SHARED Models/lib/shed8x10.ac -69.75253 -26.31329 1601.51 90
+OBJECT_SHARED Models/lib/shed8x10.ac -69.75305 -26.31336 1601.07 90
+OBJECT_SHARED Models/lib/shed8x10.ac -69.75361 -26.31345 1600.16 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -69.75285 -26.31334 1598.97 180.409
+OBJECT_SHARED Models/lib/transformer3x3.ac -69.75041 -26.31710 1600.48 348.311
+OBJECT_SHARED Models/lib/lamp10m.xml -69.75293 -26.31315 1615.21 181.79
+OBJECT_SHARED Models/lib/lamp10m.xml -69.75280 -26.31325 1600.13 -88.6335
+OBJECT_SHARED Models/lib/lamp10m.xml -69.75245 -26.31322 1600.41 -86.5318
+OBJECT_SHARED Models/lib/transformer3x3.ac -69.75257 -26.31361 1601.00 89.7623
+# END dsf2stg

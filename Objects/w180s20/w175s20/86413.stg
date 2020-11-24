@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac -174.34081 -19.77868 0.00 317.429
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -174.34084 -19.77867 10.50 311.906
+OBJECT_SHARED Models/Transport/hatchback_black.ac -174.34088 -19.77865 10.50 314.397
+OBJECT_SHARED Models/Transport/van_silver.ac -174.34090 -19.77863 10.50 318.879
+OBJECT_SHARED Models/Trees/billboard-tree.xml -174.34165 -19.77771 10.38 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -174.34160 -19.77786 9.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -174.34173 -19.77846 9.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -174.34142 -19.77858 10.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -174.34154 -19.77853 10.38 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -174.34135 -19.77852 10.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -174.34218 -19.77826 9.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -174.34190 -19.77784 9.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -174.34140 -19.77807 9.57 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -174.34191 -19.77836 9.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -174.34101 -19.77878 9.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -174.34091 -19.77883 10.90 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -174.34084 -19.77885 10.90 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -174.34058 -19.77873 11.48 206.565
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -174.34068 -19.77887 10.50 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -174.34076 -19.77888 11.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -174.34062 -19.77882 11.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -174.34057 -19.77867 10.90 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -174.34061 -19.77854 10.50 151.58
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -174.34060 -19.77851 9.98 155.55
+OBJECT_SHARED Models/lib/stack_of_cones.ac -174.34058 -19.77851 9.98 0
+OBJECT_SHARED Models/lib/farm19x12.ac -174.34171 -19.77773 9.98 61.0977
+OBJECT_SHARED Models/lib/shed8x10.ac -174.34204 -19.77814 9.20 71.8183
+OBJECT_SHARED Models/lib/shed8x10.ac -174.34186 -19.77800 9.67 152.466
+OBJECT_SHARED Models/lib/shed8x10.ac -174.34118 -19.77808 9.61 346.941
+OBJECT_SHARED Models/lib/shed8x10.ac -174.34140 -19.77823 9.64 66.8644
+OBJECT_SHARED Models/lib/shed8x10.ac -174.34153 -19.77816 9.67 156.413
+OBJECT_SHARED Models/lib/shed8x10.ac -174.34166 -19.77810 9.73 152.466
+OBJECT_SHARED Models/lib/transformer3x3.ac -174.34282 -19.77571 9.67 267.16
+OBJECT_SHARED Models/lib/transformer3x3.ac -174.34281 -19.77648 7.64 78.06
+# END dsf2stg

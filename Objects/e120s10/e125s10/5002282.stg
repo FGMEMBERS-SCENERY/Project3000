@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 125.28315 -9.30118 0.00 283.4
+OBJECT_SHARED Models/lib/RampGroup.xml 125.28330 -9.30019 28.87 285
+OBJECT_SHARED Models/lib/RampGroup.xml 125.28339 -9.30062 30.87 285
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 125.28353 -9.30072 30.93 190
+OBJECT_SHARED Models/Airport/cargoim.xml 125.28384 -9.30214 29.14 100
+OBJECT_SHARED Models/Airport/cargoip.xml 125.28383 -9.30212 26.27 100
+OBJECT_SHARED Models/Airport/cargoip.xml 125.28382 -9.30210 26.32 100
+OBJECT_SHARED Models/lib/container6-HD.ac 125.28384 -9.30220 26.36 100
+OBJECT_SHARED Models/lib/office40x25.ac 125.28510 -9.30057 26.15 103
+OBJECT_SHARED Models/lib/lamp10m.xml 125.28375 -9.30230 28.87 193
+OBJECT_SHARED Models/lib/lamp10m.xml 125.28364 -9.30184 25.95 193
+OBJECT_SHARED Models/lib/lamp10m.xml 125.28353 -9.30136 26.89 193
+OBJECT_SHARED Models/lib/lamp10m.xml 125.28343 -9.30079 27.85 193
+OBJECT_SHARED Models/lib/lamp10m.xml 125.28336 -9.30050 29.63 193
+OBJECT_SHARED Models/lib/lamp10m.xml 125.28326 -9.30009 30.23 193
+OBJECT_SHARED Models/lib/lamp10m.xml 125.28321 -9.29988 31.07 193
+OBJECT_SHARED Models/lib/HorizTanks2.ac 125.28282 -9.29966 31.50 104.46
+# END dsf2stg

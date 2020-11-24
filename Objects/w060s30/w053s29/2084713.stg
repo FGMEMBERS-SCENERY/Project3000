@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -52.51812 -28.25173 0.00 315.46
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -52.51728 -28.25179 605.00 312.49
+OBJECT_SHARED Models/lib/office6x12.ac -52.51801 -28.25186 601.63 134.17
+OBJECT_SHARED Models/lib/MedHangar.ac -52.51748 -28.25150 603.03 224.26
+OBJECT_SHARED Models/lib/cube16x10.ac -52.51826 -28.25084 603.19 44.65
+OBJECT_SHARED Models/lib/prop_a.ac -52.51799 -28.25094 599.85 328.03
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51708 -28.25200 600.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51717 -28.25201 600.33 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51734 -28.25200 600.72 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51726 -28.25206 600.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51741 -28.25192 599.89 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51752 -28.25188 601.76 225
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51763 -28.25181 602.15 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51771 -28.25174 602.80 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51778 -28.25167 603.45 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51786 -28.25161 603.84 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51794 -28.25152 604.49 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51801 -28.25144 604.07 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.51808 -28.25138 603.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -52.51862 -28.25115 603.77 0
+# END dsf2stg

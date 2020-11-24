@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 148.21567 -20.01521 0.00 136.63
+OBJECT_SHARED Models/Trees/billboard-tree.xml 148.21503 -20.01464 6.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 148.21536 -20.01463 6.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 148.21476 -20.01492 6.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 148.21515 -20.01452 6.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 148.21510 -20.01458 6.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 148.21497 -20.01467 6.19 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 148.21529 -20.01569 6.22 135.6
+OBJECT_SHARED Models/lib/HorizTanks2.ac 148.21492 -20.01492 6.37 137.53
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 148.21517 -20.01480 6.26 50.19
+OBJECT_SHARED Models/lib/MedHangar.ac 148.20817 -20.01759 6.24 261
+OBJECT_SHARED Models/lib/cars4.ac 148.21563 -20.01509 8.11 225.89
+OBJECT_SHARED Models/lib/cars4.ac 148.21520 -20.01562 6.03 253.43
+OBJECT_SHARED Models/Misc/picnic_table.ac 148.21450 -20.01592 6.36 217.65
+OBJECT_SHARED Models/Misc/picnic_table.ac 148.21445 -20.01585 6.38 222.51
+OBJECT_SHARED Models/Misc/picnic_table.ac 148.21566 -20.01509 6.54 306.28
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 148.21557 -20.01519 6.03 134.82
+OBJECT_SHARED Models/lib/transformer3x3.ac 148.21508 -20.01576 6.05 131.68
+OBJECT_SHARED Models/lib/transformer3x3.ac 148.21506 -20.01574 6.37 131.5
+# END dsf2stg

@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -138.79865 -21.81273 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -138.80162 -21.81142 1.70 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -138.80168 -21.81140 1.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79631 -21.81452 1.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79644 -21.81441 0.12 225
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79668 -21.81432 0.57 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79686 -21.81399 2.49 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79703 -21.81416 2.48 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79724 -21.81396 2.50 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79732 -21.81385 2.48 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79723 -21.81382 2.47 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79636 -21.81359 2.46 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79617 -21.81328 3.70 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79634 -21.81333 2.81 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79644 -21.81341 2.81 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -138.79651 -21.81353 2.86 315
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -138.79615 -21.81310 2.42 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -138.79735 -21.81366 2.71 180
+OBJECT_SHARED Models/lib/shed8x10.ac -138.80307 -21.81117 2.46 327.53
+OBJECT_SHARED Models/lib/SmHangar.ac -138.79856 -21.81279 2.12 230.12
+OBJECT_SHARED Models/lib/MedHangar.ac -138.79662 -21.81303 1.69 318.85
+OBJECT_SHARED Models/lib/LongRow.ac -138.82092 -21.86066 2.25 46
+OBJECT_SHARED Models/lib/office40x25.ac -138.82021 -21.85950 -0.00 43.53
+OBJECT_SHARED Models/lib/shed8x10.ac -138.81919 -21.80834 -0.00 358.36
+OBJECT_SHARED Models/lib/office3x10.ac -138.79876 -21.81291 0.00 148.13
+OBJECT_SHARED Models/lib/2container-office.ac -138.79694 -21.81385 1.67 314.17
+OBJECT_SHARED Models/lib/4container-office.ac -138.79610 -21.81357 2.47 233.13
+OBJECT_SHARED Models/lib/4container-office.ac -138.79496 -21.81455 3.70 228.24
+OBJECT_SHARED Models/lib/container6-HD.ac -138.80158 -21.81150 -0.00 148.67
+OBJECT_SHARED Models/lib/container6-HD.ac -138.80169 -21.81146 1.91 154.36
+OBJECT_SHARED Models/lib/container6-HD.ac -138.79782 -21.81349 1.91 149.04
+OBJECT_SHARED Models/lib/container6-HD.ac -138.79774 -21.81355 1.99 136.74
+OBJECT_SHARED Models/lib/container6-HD.ac -138.79868 -21.81305 1.99 241.39
+# END dsf2stg

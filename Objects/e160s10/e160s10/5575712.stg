@@ -1,0 +1,55 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 160.04639 -9.42776 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 160.04593 -9.42792 7.75 0
+OBJECT_SHARED Models/lib/lamp10m.xml 160.04551 -9.42813 7.64 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac 160.04392 -9.42752 7.51 24.02
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 160.04378 -9.42745 -86.68 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 160.04370 -9.42748 -86.64 0
+OBJECT_SHARED Models/lib/cars14.ac 160.04584 -9.42694 8.34 202.07
+OBJECT_SHARED Models/lib/cars14.ac 160.04539 -9.42714 8.31 202.07
+OBJECT_SHARED Models/lib/cars14.ac 160.04554 -9.42707 8.38 202.07
+OBJECT_SHARED Models/lib/cars14.ac 160.04569 -9.42701 8.22 202.07
+OBJECT_SHARED Models/lib/cars14.ac 160.04586 -9.42697 8.26 21.74
+OBJECT_SHARED Models/lib/cars14.ac 160.04571 -9.42703 8.29 21.74
+OBJECT_SHARED Models/lib/cars14.ac 160.04556 -9.42709 8.25 21.74
+OBJECT_SHARED Models/lib/cars14.ac 160.04541 -9.42716 8.21 21.74
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 160.04891 -9.42866 8.37 22.64
+OBJECT_SHARED Models/lib/cars7.ac 160.04793 -9.42842 6.79 108.31
+OBJECT_SHARED Models/lib/cars7.ac 160.04781 -9.42863 7.02 198.98
+OBJECT_SHARED Models/lib/cars7.ac 160.04869 -9.42822 6.94 21.46
+OBJECT_SHARED Models/lib/cars4.ac 160.04824 -9.42867 6.94 290.361
+OBJECT_SHARED Models/lib/SmHangar.ac 160.04623 -9.42978 6.92 111.56
+OBJECT_SHARED Models/lib/hangar81x16.ac 160.05000 -9.42862 6.84 22.47
+OBJECT_SHARED Models/lib/SmHangar.ac 160.04795 -9.42886 6.69 109.63
+OBJECT_SHARED Models/lib/MedHangar.ac 160.04853 -9.42885 6.86 111.58
+OBJECT_SHARED Models/lib/SmHangar.ac 160.04948 -9.42847 6.75 110.06
+OBJECT_SHARED Models/lib/SmHangar.ac 160.04957 -9.42844 6.85 110.06
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 160.05018 -9.42904 6.72 -64.43
+OBJECT_SHARED Models/lib/admin31x12.ac 160.04917 -9.42851 6.61 110.751
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 160.04634 -9.42761 6.84 90
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 160.04631 -9.42761 7.85 90
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 160.04552 -9.42817 7.85 24.0151
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 160.04552 -9.42820 7.48 22.4342
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 160.04551 -9.42817 7.47 21.3735
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 160.04652 -9.42772 7.48 17.5256
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 160.04652 -9.42770 7.56 19.6538
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 160.04642 -9.42771 7.58 18.8888
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 160.04652 -9.42775 7.78 198.155
+OBJECT_SHARED Models/lib/container6-HD.ac 160.04798 -9.42923 7.55 19.9557
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 160.04554 -9.42821 6.76 110.601
+OBJECT_SHARED Models/lib/belt_loader.ac 160.04653 -9.42778 7.46 20.7791
+OBJECT_SHARED Models/lib/belt_loader.ac 160.04654 -9.42780 7.53 21.3495
+OBJECT_SHARED Models/lib/container6-HD.ac 160.04805 -9.42940 7.52 20
+OBJECT_SHARED Models/lib/container6-HD.ac 160.04802 -9.42934 6.67 20
+OBJECT_SHARED Models/lib/container6-HD.ac 160.04800 -9.42929 6.74 20
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 160.04605 -9.42976 6.75 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 160.04610 -9.42964 6.85 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 160.04606 -9.42981 6.89 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 160.04506 -9.42719 6.83 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 160.04686 -9.42668 8.35 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 160.04601 -9.42673 8.25 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 160.04619 -9.42702 8.46 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 160.04627 -9.42671 8.26 0
+# END dsf2stg

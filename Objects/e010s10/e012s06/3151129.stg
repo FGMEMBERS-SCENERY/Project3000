@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18914 -5.58529 0.00 182.07
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18969 -5.58589 17.76 90.58
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18969 -5.58610 18.11 90
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18974 -5.58826 17.97 91.33
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18973 -5.58805 16.43 91.33
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18946 -5.58705 16.56 91.33
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18946 -5.58687 17.07 92.54
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18946 -5.58667 17.20 91.51
+OBJECT_SHARED Models/lib/lamp10m.xml 12.18946 -5.58649 17.34 91.64
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 12.18904 -5.58499 -77.54 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 12.18975 -5.58565 -77.18 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 12.18994 -5.58662 18.31 91.41
+OBJECT_SHARED Models/lib/SmHangar.ac 12.18968 -5.58578 17.73 0.400002
+OBJECT_SHARED Models/lib/container6-HD.ac 12.18964 -5.58606 18.20 8.53
+OBJECT_SHARED Models/lib/container6-HD.ac 12.18963 -5.58624 17.88 0
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 12.18956 -5.58592 17.76 181.01
+OBJECT_SHARED Models/Airport/cargoip.xml 12.18958 -5.58624 17.97 0
+OBJECT_SHARED Models/Airport/cargoip.xml 12.18959 -5.58626 17.76 45
+OBJECT_SHARED Models/Airport/cargobox.xml 12.18951 -5.58608 17.74 0
+OBJECT_SHARED Models/Airport/cargobox.xml 12.18954 -5.58625 17.74 0
+OBJECT_SHARED Models/Airport/cargobox.xml 12.18951 -5.58606 17.63 0
+OBJECT_SHARED Models/Airport/cargobox.xml 12.18957 -5.58626 17.75 0
+OBJECT_SHARED Models/Airport/cargoip.xml 12.18954 -5.58608 17.74 0
+OBJECT_SHARED Models/Airport/cargoip.xml 12.18949 -5.58607 17.74 0
+OBJECT_SHARED Models/Airport/cargoip.xml 12.18956 -5.58624 17.75 0
+OBJECT_SHARED Models/Airport/cargoim.xml 12.18957 -5.58606 17.76 15.52
+OBJECT_SHARED Models/Airport/cargoim.xml 12.18956 -5.58609 17.88 0
+OBJECT_SHARED Models/Airport/cargoim.xml 12.18959 -5.58608 17.86 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 12.18971 -5.58760 17.86 181.91
+OBJECT_SHARED Models/lib/FireStationLg.ac 12.18972 -5.58786 16.86 181.22
+# END dsf2stg

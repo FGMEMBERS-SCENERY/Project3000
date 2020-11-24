@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac 29.66767 -4.88709 0.00 214.046
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 29.66771 -4.88707 822.50 208.706
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 29.66775 -4.88704 822.50 205.084
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 29.66780 -4.88701 822.31 204.59
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 29.66785 -4.88699 822.32 210.211
+OBJECT_SHARED Models/Transport/hatchback_black.ac 29.66789 -4.88696 822.12 214.33
+OBJECT_SHARED Models/Transport/hatchback_black.ac 29.66793 -4.88693 822.13 215.655
+OBJECT_SHARED Models/Transport/hatchback_green.ac 29.66798 -4.88690 822.14 216.384
+OBJECT_SHARED Models/Transport/hatchback_green.ac 29.66802 -4.88688 821.94 213.944
+OBJECT_SHARED Models/Transport/hatchback_green.ac 29.66807 -4.88685 821.95 206.003
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 29.66811 -4.88682 821.75 206.03
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 29.66815 -4.88680 821.76 204.102
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 29.66819 -4.88678 821.57 207.096
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 29.66828 -4.88672 821.57 209.511
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 29.66824 -4.88675 821.39 205.201
+OBJECT_SHARED Models/lib/shed8x10.ac 29.66852 -4.88731 821.58 299.197
+OBJECT_SHARED Models/lib/transformer3x3.ac 29.66886 -4.88665 820.79 269.286
+OBJECT_SHARED Models/lib/transformer3x3.ac 29.66886 -4.88671 820.45 270
+OBJECT_SHARED Models/lib/transformer3x3.ac 29.66845 -4.88694 820.25 209.291
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 29.66805 -4.88644 820.91 211.329
+OBJECT_SHARED Models/Transport/hatchback_black.ac 29.66810 -4.88641 821.88 206.565
+OBJECT_SHARED Models/Transport/van_red.ac 29.66808 -4.88643 821.89 212.005
+OBJECT_SHARED Models/lib/cars10.ac 29.66726 -4.88301 821.88 71.9239
+OBJECT_SHARED Models/lib/cars10.ac 29.66717 -4.88328 818.35 71.8428
+OBJECT_SHARED Models/lib/transformer3x3.ac 29.66782 -4.88278 818.71 198.435
+OBJECT_SHARED Models/lib/transformer3x3.ac 29.66780 -4.88289 817.73 293.429
+OBJECT_SHARED Models/lib/cars10.ac 29.66760 -4.88338 817.89 213.596
+OBJECT_SHARED Models/lib/cars10.ac 29.66784 -4.88322 818.61 212.775
+OBJECT_SHARED Models/lib/cars6.ac 29.66756 -4.88299 818.32 36.1354
+OBJECT_SHARED Models/lib/cars6.ac 29.66756 -4.88281 818.17 270
+OBJECT_SHARED Models/lib/cars6.ac 29.66755 -4.88262 817.96 270.966
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 29.66729 -4.88444 817.67 225
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 29.66724 -4.88448 819.84 297.553
+OBJECT_SHARED Models/lib/transformer3x3.ac 29.66820 -4.88656 820.15 203.199
+# END dsf2stg

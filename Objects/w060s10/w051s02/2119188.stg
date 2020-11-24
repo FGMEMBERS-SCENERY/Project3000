@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -50.44525 -1.64063 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -50.44548 -1.64082 11.45 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -50.44490 -1.64032 11.11 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -50.44499 -1.63997 12.17 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -50.44514 -1.63979 12.26 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -50.44490 -1.64007 12.29 0
+OBJECT_SHARED Models/Misc/6barrels.ac -50.44470 -1.64019 12.29 201.801
+OBJECT_SHARED Models/Misc/6barrels.ac -50.44474 -1.64021 13.65 0
+OBJECT_SHARED Models/Misc/6barrels.ac -50.44483 -1.63999 13.64 225
+OBJECT_SHARED Models/Misc/6barrels.ac -50.44486 -1.64001 13.00 135
+OBJECT_SHARED Models/Misc/6barrels.ac -50.44484 -1.64002 12.33 63.4349
+OBJECT_SHARED Models/Misc/6barrels.ac -50.44487 -1.64004 12.99 198.435
+OBJECT_SHARED Models/Misc/6barrels.ac -50.44454 -1.64033 12.31 116.565
+OBJECT_SHARED Models/Misc/6barrels.ac -50.44456 -1.64034 15.00 111.801
+OBJECT_SHARED Models/lib/cars6.ac -50.44481 -1.64106 14.32 43.8854
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -50.44480 -1.64098 12.64 44.1931
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -50.44450 -1.64036 12.67 225.133
+# END dsf2stg

@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac 31.30650 -26.52670 0.00 303.13
+OBJECT_SHARED Models/lib/SmHangar.ac 31.31822 -26.51846 630.63 36.91
+OBJECT_SHARED Models/lib/SmHangar.ac 31.31809 -26.51862 636.60 306.51
+OBJECT_SHARED Models/lib/SmHangar.ac 31.31782 -26.51892 636.64 37.91
+OBJECT_SHARED Models/lib/SmHangar.ac 31.31796 -26.51908 636.76 37.91
+OBJECT_SHARED Models/lib/MedHangar.ac 31.31660 -26.51935 636.63 125.17
+OBJECT_SHARED Models/lib/MedHangar.ac 31.31624 -26.51959 637.17 125.17
+OBJECT_SHARED Models/lib/MedHangar.ac 31.31587 -26.51982 637.25 125.17
+OBJECT_SHARED Models/lib/HorizTanks2.ac 31.31503 -26.52014 637.27 35.73
+OBJECT_SHARED Models/lib/HorizTanks2.ac 31.31497 -26.52007 637.28 35.73
+OBJECT_SHARED Models/lib/lamp10m.xml 31.31512 -26.52059 637.28 304.43
+OBJECT_SHARED Models/lib/lamp10m.xml 31.31518 -26.52066 637.13 304.43
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 31.31336 -26.52109 637.10 306.71
+# END dsf2stg

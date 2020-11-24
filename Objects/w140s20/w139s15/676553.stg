@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -138.81099 -14.80887 0.00 155.25
+OBJECT_SHARED Models/lib/transformer3x3.ac -138.81097 -14.80884 5.64 64.2
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -138.81099 -14.80899 4.96 64.59
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -138.81095 -14.80881 5.20 24.3
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -138.81094 -14.80882 4.96 24.3
+OBJECT_SHARED Models/lib/lamp10m.xml -138.81088 -14.80913 4.96 64.1
+OBJECT_SHARED Models/lib/lamp10m.xml -138.81070 -14.80921 5.28 65.62
+# END dsf2stg

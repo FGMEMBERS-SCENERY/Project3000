@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cube16x10.ac -139.00951 -9.76780 0.00 146.66
+OBJECT_SHARED Models/lib/SmHangar.ac -139.01027 -9.76918 450.21 328.15
+OBJECT_SHARED Models/lib/vending-machine.ac -139.01007 -9.76887 448.85 149.3
+OBJECT_SHARED Models/Transport/hatchback_red.ac -139.01023 -9.76905 449.16 64.09
+OBJECT_SHARED Models/Transport/hatchback_red.ac -139.01021 -9.76903 448.98 60.75
+OBJECT_SHARED Models/Transport/hatchback_green.ac -139.01023 -9.76898 449.00 240.38
+OBJECT_SHARED Models/Transport/hatchback_green.ac -139.01008 -9.76907 449.05 308.64
+# END dsf2stg

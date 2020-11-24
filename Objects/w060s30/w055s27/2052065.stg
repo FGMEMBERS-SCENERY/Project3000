@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -54.57721 -26.39148 0.00 221.82
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -54.57687 -26.39109 198.65 322.43
+OBJECT_SHARED Models/Misc/6barrels.ac -54.57719 -26.39158 198.52 0
+OBJECT_SHARED Models/Misc/6barrels.ac -54.57717 -26.39155 198.73 0
+OBJECT_SHARED Models/Misc/6barrels.ac -54.57694 -26.39118 198.73 0
+OBJECT_SHARED Models/Misc/6barrels.ac -54.57691 -26.39111 198.58 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -54.57698 -26.39106 198.52 48.01
+# END dsf2stg

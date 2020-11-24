@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/schranke.ac 31.82097 -1.33270 0.00 53.05
+OBJECT_SHARED Models/lib/schranke.ac 31.82090 -1.33265 1141.67 230.91
+OBJECT_SHARED Models/lib/schranke.ac 31.82036 -1.33223 1141.70 235.56
+OBJECT_SHARED Models/lib/transformer3x3.ac 31.81413 -1.32767 1141.83 330
+OBJECT_SHARED Models/lib/schranke.ac 31.81410 -1.32767 1149.51 57.13
+OBJECT_SHARED Models/lib/schranke.ac 31.82283 -1.32945 1149.51 64.75
+OBJECT_SHARED Models/lib/schranke.ac 31.82274 -1.32941 1141.16 248.54
+OBJECT_SHARED Models/lib/transformer3x3.ac 31.82285 -1.32946 1141.11 62.64
+OBJECT_SHARED Models/lib/transformer3x3.ac 31.82088 -1.33265 1141.04 229.94
+OBJECT_SHARED Models/lib/transformer3x3.ac 31.82035 -1.33221 1141.70 322.06
+OBJECT_SHARED Models/lib/admin31x12.ac 31.82094 -1.33227 1141.83 235.01
+OBJECT_SHARED Models/lib/office32x25n.ac 31.82194 -1.33064 1141.75 233
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 31.82109 -1.33237 1141.54 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 31.82162 -1.33091 1141.70 233.97
+OBJECT_SHARED Models/Airport/cargobox.xml 31.82183 -1.33031 1141.65 144.94
+OBJECT_SHARED Models/Airport/cargobox.xml 31.82182 -1.33030 1141.54 145.07
+OBJECT_SHARED Models/Airport/cargobox.xml 31.82180 -1.33030 1141.54 88.52
+OBJECT_SHARED Models/Airport/cargobox.xml 31.82188 -1.33032 1141.54 144.31
+OBJECT_SHARED Models/Airport/cargoim.xml 31.82185 -1.33030 1141.51 318.45
+OBJECT_SHARED Models/Airport/cargoim.xml 31.82187 -1.33031 1141.51 322.91
+OBJECT_SHARED Models/Airport/cargoim.xml 31.82184 -1.33029 1141.51 326.31
+OBJECT_SHARED Models/Airport/cargoim.xml 31.82182 -1.33028 1141.54 320.79
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 31.82196 -1.33112 1141.54 50.59
+OBJECT_SHARED Models/lib/container6-HD.ac 31.82202 -1.33106 1141.56 296.57
+OBJECT_SHARED Models/lib/fuel-truck.xml 31.82146 -1.33077 1141.55 327.18
+OBJECT_SHARED Models/lib/HorizTanks2.ac 31.82167 -1.33015 1141.67 142
+OBJECT_SHARED Models/lib/fuel-truck.xml 31.82173 -1.33021 1141.56 322.29
+OBJECT_SHARED Models/Misc/picnic_table.ac 31.82078 -1.33208 1141.56 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 31.82041 -1.33193 1141.79 237.07
+OBJECT_SHARED Models/Transport/hatchback_black.ac 31.82041 -1.33217 1141.86 351.87
+# END dsf2stg

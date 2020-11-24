@@ -1,0 +1,56 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/admin31x12.ac 11.88296 -4.81468 0.00 105
+OBJECT_SHARED Models/lib/FireStationLg.ac 11.88383 -4.81734 17.63 15.04
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 11.88343 -4.81539 17.09 194.47
+OBJECT_SHARED Models/lib/chariot3curve.ac 11.88358 -4.81563 17.52 68.56
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 11.88358 -4.81542 17.48 131.37
+OBJECT_SHARED Models/lib/RampGroup.xml 11.88352 -4.81521 17.54 230.2
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 11.88399 -4.81683 17.57 282.99
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 11.88369 -4.81544 17.26 284.39
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 11.88346 -4.81474 17.55 283.3
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 11.88289 -4.81782 17.68 196
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 11.88292 -4.81791 16.76 196
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88277 -4.81462 16.73 281.89
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88314 -4.81452 17.61 297.76
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88319 -4.81471 17.68 305.54
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88284 -4.81487 17.66 320.19
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88294 -4.81485 17.56 25.02
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88304 -4.81483 17.58 278.13
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88313 -4.81481 17.60 298.61
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88320 -4.81479 17.62 61.19
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88275 -4.81454 17.64 312.71
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88282 -4.81453 17.63 63.43
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88289 -4.81451 17.64 72.47
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88296 -4.81449 17.66 75.38
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88303 -4.81447 17.68 292.38
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.88311 -4.81445 17.68 283.24
+OBJECT_SHARED Models/lib/SmHangar.ac 11.88480 -4.82049 17.70 104.51
+OBJECT_SHARED Models/lib/HorizTanks2.ac 11.88341 -4.81740 16.48 104.72
+OBJECT_SHARED Models/lib/lamp10m.xml 11.88383 -4.81679 16.99 194.25
+OBJECT_SHARED Models/lib/lamp10m.xml 11.88374 -4.81647 17.23 195.32
+OBJECT_SHARED Models/lib/lamp10m.xml 11.88365 -4.81612 17.29 194.5
+OBJECT_SHARED Models/lib/lamp10m.xml 11.88355 -4.81570 17.37 193.47
+OBJECT_SHARED Models/lib/lamp10m.xml 11.88184 -4.80875 17.45 194.38
+OBJECT_SHARED Models/lib/lamp10m.xml 11.88173 -4.80833 18.37 195.26
+OBJECT_SHARED Models/lib/lamp10m.xml 11.88320 -4.81506 18.37 193.6
+OBJECT_SHARED Models/lib/lamp10m.xml 11.88332 -4.81551 17.57 194.28
+OBJECT_SHARED Models/lib/HorizTanks2.ac 11.88338 -4.81719 17.47 14.04
+OBJECT_SHARED Models/lib/SmHangar.ac 11.88507 -4.82042 17.05 104.04
+OBJECT_SHARED Models/lib/MedHangar.ac 11.88445 -4.81893 16.61 234.73
+OBJECT_SHARED Models/lib/LongRow.ac 11.88495 -4.81925 16.79 12.99
+OBJECT_SHARED Models/lib/MedHangar.ac 11.88415 -4.81852 16.89 194.63
+OBJECT_SHARED Models/lib/fboModern1.ac 11.88184 -4.80845 16.82 194.34
+OBJECT_SHARED Models/lib/office32x25.ac 11.88183 -4.80911 18.39 14.14
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 11.88285 -4.81367 18.33 14.04
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 11.88296 -4.81497 17.84 286.51
+OBJECT_SHARED Models/lib/office16x4n.ac 11.88389 -4.81773 17.56 105.26
+OBJECT_SHARED Models/lib/jetway_e4m.ac 11.88364 -4.81593 17.00 174.81
+OBJECT_SHARED Models/lib/jetway_e4m.ac 11.88383 -4.81661 17.27 164.6
+OBJECT_SHARED Models/lib/jetway_e16m.ac 11.88379 -4.81660 17.27 194.93
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 11.88397 -4.81700 17.28 103.74
+OBJECT_SHARED Models/Airport/cargoim.xml 11.88333 -4.81537 17.21 0
+OBJECT_SHARED Models/Airport/cargoip.xml 11.88333 -4.81535 17.50 0
+OBJECT_SHARED Models/lib/jetway_e14m.ac 11.88360 -4.81593 17.51 195.1
+# END dsf2stg

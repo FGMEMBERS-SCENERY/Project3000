@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac 31.72213 -26.36739 0.00 335.66
+OBJECT_SHARED Models/lib/office16x4n.ac 31.72069 -26.36861 324.08 39.62
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 31.72060 -26.34303 231.11 0.769989
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 31.72048 -26.34358 234.90 0.339996
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 31.72061 -26.34358 233.74 0.339996
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 31.72075 -26.34359 233.61 0.339996
+OBJECT_SHARED Models/lib/lamp10m.xml 31.72044 -26.34686 328.36 0
+OBJECT_SHARED Models/lib/lamp10m.xml 31.72046 -26.35043 324.37 0
+OBJECT_SHARED Models/lib/lamp10m.xml 31.72179 -26.34909 323.26 0
+OBJECT_SHARED Models/lib/lamp10m.xml 31.72178 -26.34817 321.60 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 31.72185 -26.35740 321.85 180.36
+# END dsf2stg

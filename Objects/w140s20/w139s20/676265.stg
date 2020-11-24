@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -138.77209 -19.28422 0.00 100.21
+OBJECT_SHARED Models/lib/lamp10m.xml -138.77173 -19.28418 4.62 97.96
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -138.77195 -19.28398 4.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -138.77203 -19.28405 4.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -138.77141 -19.28399 4.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -138.77241 -19.28400 4.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -138.77207 -19.28399 4.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -138.77128 -19.28417 4.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -138.77133 -19.28410 4.71 288.43
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -138.77187 -19.28396 4.73 0
+OBJECT_SHARED Models/Airport/cargobox.xml -138.77215 -19.28424 4.66 0
+OBJECT_SHARED Models/Airport/cargobox.xml -138.77217 -19.28426 4.62 0
+OBJECT_SHARED Models/Airport/cargoim.xml -138.77219 -19.28425 4.61 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -138.77218 -19.28434 4.62 288.08
+OBJECT_SHARED Models/lib/stack_of_cones.ac -138.77166 -19.28422 4.61 221.76
+OBJECT_SHARED Models/lib/stack_of_cones.ac -138.77216 -19.28429 4.62 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -138.77153 -19.28404 4.61 96.24
+# END dsf2stg

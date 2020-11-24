@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 126.37021 -8.88080 0.00 180
+OBJECT_SHARED Models/lib/stack_of_cones.ac 126.37034 -8.88097 36.20 274.47
+OBJECT_SHARED Models/lib/propane-tank.ac 126.37013 -8.88089 36.19 2.86
+OBJECT_SHARED Models/lib/SmHangar.ac 126.37023 -8.88074 36.20 181.05
+OBJECT_SHARED Models/lib/office16x4n.ac 126.37027 -8.88103 36.20 2.77
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 126.37033 -8.88095 36.18 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 126.37035 -8.88096 36.19 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 126.37034 -8.88094 36.19 0
+# END dsf2stg

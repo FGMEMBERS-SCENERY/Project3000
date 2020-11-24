@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -48.81881 -26.98355 0.00 181.07
+OBJECT_SHARED Models/lib/SmHangar.ac -48.81890 -26.98360 8.19 90
+OBJECT_SHARED Models/lib/SmHangar.ac -48.81843 -26.98343 8.01 130.1
+OBJECT_SHARED Models/lib/SmHangar.ac -48.81826 -26.98328 8.68 138.37
+OBJECT_SHARED Models/lib/SmHangar.ac -48.81810 -26.98314 8.62 138.43
+OBJECT_SHARED Models/lib/SmHangar.ac -48.81781 -26.98287 8.38 138.21
+OBJECT_SHARED Models/lib/SmHangar.ac -48.82081 -26.98455 8.87 115.35
+OBJECT_SHARED Models/lib/SmHangar.ac -48.82102 -26.98464 16.18 115.46
+OBJECT_SHARED Models/lib/SmHangar.ac -48.82180 -26.98500 15.34 127.96
+# END dsf2stg

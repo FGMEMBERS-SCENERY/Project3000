@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -143.65512 -16.58749 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -143.65509 -16.58750 5.20 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -143.65510 -16.58747 5.20 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -143.65440 -16.58808 5.20 57.8356
+OBJECT_SHARED Models/Misc/picnic_table.ac -143.65443 -16.58812 5.18 55.5916
+OBJECT_SHARED Models/lib/stack_of_cones.ac -143.65476 -16.58760 5.18 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -143.65473 -16.58761 5.17 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -143.65417 -16.58796 5.17 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -143.65415 -16.58797 5.19 0
+OBJECT_SHARED Models/lib/cone.ac -143.65436 -16.58782 5.19 0
+OBJECT_SHARED Models/lib/cone.ac -143.65434 -16.58781 5.22 0
+OBJECT_SHARED Models/lib/cone.ac -143.65437 -16.58782 5.22 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -143.65385 -16.58798 5.22 57.5152
+OBJECT_SHARED Models/Misc/picnic_table.ac -143.65438 -16.58805 5.19 236.704
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -143.65514 -16.58745 5.19 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -143.65515 -16.58749 5.22 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -143.65517 -16.58748 5.20 24.3021
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -143.65516 -16.58745 5.20 24.3021
+OBJECT_SHARED Models/lib/cone.ac -143.65448 -16.58776 5.20 0
+OBJECT_SHARED Models/lib/cone.ac -143.65447 -16.58776 5.22 316.771
+OBJECT_SHARED Models/lib/propane-tank.ac -143.65526 -16.58753 5.22 179.527
+OBJECT_SHARED Models/lib/transformer3x3.ac -143.65526 -16.58750 5.20 90.3903
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -143.65391 -16.58800 5.20 326.487
+OBJECT_SHARED Models/lib/lamp10m.xml -143.65464 -16.58769 5.19 232.442
+OBJECT_SHARED Models/lib/lamp10m.xml -143.65431 -16.58790 5.11 236.887
+OBJECT_SHARED Models/lib/cars14.ac -143.65464 -16.58809 5.21 56.5649
+OBJECT_SHARED Models/lib/cars14.ac -143.65476 -16.58821 4.90 236.586
+# END dsf2stg

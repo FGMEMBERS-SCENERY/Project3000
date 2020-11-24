@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.35228 -13.71343 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.35226 -13.71339 3551.00 0
+OBJECT_SHARED Models/lib/cars6.ac -73.35231 -13.71366 3551.00 145.942
+OBJECT_SHARED Models/lib/cars10.ac -73.35209 -13.71339 3551.22 240.064
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -73.35198 -13.71345 3551.35 159.905
+OBJECT_SHARED Models/Transport/hatchback_black.ac -73.35265 -13.71361 3551.52 242.7
+OBJECT_SHARED Models/Transport/van_red.ac -73.35225 -13.71317 3550.61 167.905
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -73.35238 -13.71262 3550.86 239.226
+OBJECT_SHARED Models/lib/stack_of_cones.ac -73.35265 -13.71267 3550.28 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -73.35246 -13.71277 3550.04 180
+OBJECT_SHARED Models/lib/stack_of_cones.ac -73.35290 -13.71298 3550.24 0
+OBJECT_SHARED Models/lib/shed8x10.ac -73.35259 -13.71357 3549.76 238.317
+OBJECT_SHARED Models/lib/SmHangar.ac -73.35270 -13.71368 3550.61 238.908
+OBJECT_SHARED Models/lib/garden-shed.ac -73.35278 -13.71395 3550.49 90
+OBJECT_SHARED Models/lib/shed8x10.ac -73.35291 -13.71403 3550.51 59.0364
+OBJECT_SHARED Models/lib/industrial13x24.ac -73.35286 -13.71420 3550.34 240.15
+OBJECT_SHARED Models/lib/shed8x10.ac -73.35195 -13.71352 3550.47 60.4223
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -73.35206 -13.71369 3551.77 58.8612
+OBJECT_SHARED Models/lib/container6-HD.ac -73.35272 -13.71333 3551.57 326.821
+OBJECT_SHARED Models/lib/HorizTanks2.ac -73.35250 -13.71286 3550.22 328.647
+OBJECT_SHARED Models/lib/transformer3x3.ac -73.35173 -13.71321 3550.30 87.1376
+OBJECT_SHARED Models/lib/cube16x10.ac -73.35290 -13.71356 3551.90 56.9724
+# END dsf2stg

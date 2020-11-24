@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 29.26085 -1.67719 0.00 350.34
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 29.25986 -1.67638 1552.29 79.06
+OBJECT_SHARED Models/lib/office8x14.ac 29.26043 -1.67620 1551.32 164.28
+OBJECT_SHARED Models/lib/office6x12.ac 29.26013 -1.67667 1552.50 258.04
+OBJECT_SHARED Models/lib/admin31x12.ac 29.25981 -1.67696 1551.30 167.58
+OBJECT_SHARED Models/lib/shed8x10.ac 29.25882 -1.67923 1550.35 84.67
+OBJECT_SHARED Models/lib/4space_wStop.ac 29.25991 -1.67660 1545.53 77.67
+OBJECT_SHARED Models/lib/4space_wStop.ac 29.25980 -1.67657 1551.02 78.32
+OBJECT_SHARED Models/lib/4space_wStop.ac 29.26003 -1.67663 1550.88 78.69
+OBJECT_SHARED Models/lib/6space_wStop.ac 29.25994 -1.67721 1551.16 257.39
+# END dsf2stg

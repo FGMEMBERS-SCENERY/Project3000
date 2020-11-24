@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -40.06922 -19.35756 0.00 324.926
+OBJECT_SHARED Models/lib/lamp10m.xml -40.06885 -19.35715 37.88 -35.4334
+OBJECT_SHARED Models/lib/SmHangar.ac -40.06474 -19.35112 37.97 325.184
+OBJECT_SHARED Models/lib/SmHangar.ac -40.06487 -19.35130 37.83 325.184
+OBJECT_SHARED Models/lib/6space_wStop.ac -40.06842 -19.35741 38.19 146.64
+OBJECT_SHARED Models/lib/6space_wStop.ac -40.06855 -19.35738 36.96 146.64
+OBJECT_SHARED Models/lib/cars7.ac -40.06868 -19.35733 37.27 149.036
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -40.06854 -19.35667 37.44 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -40.06857 -19.35677 37.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -40.06875 -19.35715 37.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -40.06871 -19.35695 37.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -40.06895 -19.35737 37.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -40.06912 -19.35743 37.85 0
+# END dsf2stg

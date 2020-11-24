@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.91914 -5.76496 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.92057 -5.76624 -1000.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.92061 -5.76618 -1000.00 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.92053 -5.76615 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.92132 -5.76643 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.92048 -5.76621 -1000.00 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.92032 -5.76617 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.92034 -5.76611 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.92043 -5.76608 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.92037 -5.76603 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.92029 -5.76599 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.92020 -5.76612 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.92022 -5.76622 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.91860 -5.76753 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.91858 -5.76746 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.91852 -5.76745 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.91894 -5.76785 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.91887 -5.76780 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 123.91914 -5.76798 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 123.91898 -5.76791 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 123.91849 -5.76739 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 123.91856 -5.76737 -1000.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 123.91893 -5.76760 -1000.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 123.91905 -5.76774 -1000.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 123.91906 -5.76774 -1000.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 123.91906 -5.76775 -1000.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac 123.91912 -5.76778 -1000.00 228.76
+OBJECT_SHARED Models/lib/shed8x10.ac 123.91825 -5.76710 -1000.00 138.18
+OBJECT_SHARED Models/lib/shed8x10.ac 123.91842 -5.76725 -1000.00 46.22
+OBJECT_SHARED Models/lib/industrial13x24.ac 123.91889 -5.76763 -1000.00 139.9
+# END dsf2stg

@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -78.12150 -2.30446 0.00 349.98
+OBJECT_SHARED Models/lib/cars6.ac -78.12126 -2.30450 1029.89 351.95
+OBJECT_SHARED Models/lib/cars4.ac -78.11991 -2.30126 1029.88 90
+OBJECT_SHARED Models/lib/cars4.ac -78.11997 -2.30103 1029.83 86.19
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -78.12141 -2.30476 939.30 239.12
+OBJECT_SHARED Models/lib/HorizTanks2.ac -78.12113 -2.30476 1029.70 84.56
+OBJECT_SHARED Models/lib/SmHangar.ac -78.12002 -2.30121 1030.02 359.46
+OBJECT_SHARED Models/lib/SmHangar.ac -78.12009 -2.30097 1030.40 356.35
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -78.12077 -2.30150 1032.53 348.23
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -78.12053 -2.30250 1032.23 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -78.12059 -2.30249 1030.62 0
+# END dsf2stg
