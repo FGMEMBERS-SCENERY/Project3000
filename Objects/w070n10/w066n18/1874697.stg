@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -65.79938 18.13908 0.00 270
+OBJECT_SHARED Models/lib/lamp10m.xml -65.79913 18.13908 8.78 270
+OBJECT_SHARED Models/lib/lamp10m.xml -65.79887 18.13907 8.62 270
+OBJECT_SHARED Models/lib/lamp10m.xml -65.79865 18.13906 8.53 270
+OBJECT_SHARED Models/lib/lamp10m.xml -65.79838 18.13906 8.43 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -65.79941 18.13915 8.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -65.79950 18.13915 8.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -65.79958 18.13915 8.84 0
+OBJECT_SHARED Models/lib/SmHangar.ac -65.80318 18.13901 8.98 90
+OBJECT_SHARED Models/lib/SmHangar.ac -65.80340 18.13901 10.96 90
+OBJECT_SHARED Models/lib/SmHangar.ac -65.80368 18.13901 11.10 90
+OBJECT_SHARED Models/lib/cars6.ac -65.79894 18.13908 11.27 177.92
+OBJECT_SHARED Models/lib/cars10.ac -65.79865 18.13907 8.53 178.07
+OBJECT_SHARED Models/lib/cars10.ac -65.79835 18.13906 8.38 178.07
+OBJECT_SHARED Models/lib/cars6.ac -65.79962 18.13917 8.28 268.41
+OBJECT_SHARED Models/lib/cars4.ac -65.79980 18.13899 8.98 90
+OBJECT_SHARED Models/lib/SmHangar.ac -65.79884 18.13894 8.91 88.88
+# END dsf2stg

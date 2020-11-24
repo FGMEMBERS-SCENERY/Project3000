@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -63.21986 17.64439 0.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -63.22003 17.64445 33.17 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -63.21980 17.64455 33.23 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -63.21996 17.64461 33.20 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22041 17.64489 33.52 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22066 17.64493 34.06 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22054 17.64522 34.27 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22033 17.64512 34.11 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22034 17.64506 33.97 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22015 17.64505 33.97 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22020 17.64501 33.87 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22026 17.64486 33.90 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22013 17.64472 33.98 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22013 17.64437 33.71 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -63.22049 17.64442 33.27 0
+OBJECT_SHARED Models/lib/cars10.ac -63.22164 17.64520 32.96 337.46
+OBJECT_SHARED Models/lib/cars10.ac -63.22137 17.64509 40.52 337.46
+OBJECT_SHARED Models/lib/cars10.ac -63.22109 17.64499 39.68 337.46
+OBJECT_SHARED Models/lib/cars4.ac -63.22175 17.64524 38.12 337.92
+OBJECT_SHARED Models/lib/cars10.ac -63.22151 17.64502 41.70 172.39
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.21927 17.63960 39.64 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.21923 17.64015 -0.00 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.22814 17.64853 -0.00 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.22644 17.65177 -0.00 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.22418 17.65093 -0.05 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.22465 17.64977 -0.01 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.22495 17.64742 -0.01 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.22665 17.64805 -0.01 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.21458 17.64165 -0.01 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.21411 17.64569 -0.18 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.21420 17.64375 -0.33 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.21521 17.64381 -0.25 270
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.21505 17.64494 -0.17 257.91
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -63.21501 17.64553 -0.20 275.19
+OBJECT_SHARED Models/Transport/van_red.ac -63.22054 17.64378 -0.23 157.38
+OBJECT_SHARED Models/Transport/hatchback_black.ac -63.22076 17.64403 16.69 155.77
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.22048 17.64392 21.78 180
+OBJECT_SHARED Models/Transport/van_red.ac -63.22070 17.64387 18.84 197.53
+OBJECT_SHARED Models/Transport/van_silver.ac -63.22058 17.64371 18.93 116.57
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.22074 17.64365 14.31 200.14
+OBJECT_SHARED Models/Transport/hatchback_black.ac -63.22117 17.64356 11.56 215.54
+OBJECT_SHARED Models/Transport/van_silver.ac -63.22118 17.64361 17.12 200.56
+OBJECT_SHARED Models/Transport/hatchback_green.ac -63.22121 17.64359 17.12 200.14
+# END dsf2stg

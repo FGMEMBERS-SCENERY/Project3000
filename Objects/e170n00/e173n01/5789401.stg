@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.14511 1.38011 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.14538 1.37973 7.11 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.14533 1.38029 6.35 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.14563 1.37989 7.35 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac 173.14553 1.38027 7.15 36.34
+OBJECT_SHARED Models/Transport/hatchback_black.ac 173.14562 1.38016 7.49 32.96
+OBJECT_SHARED Models/Transport/hatchback_green.ac 173.14556 1.38023 7.39 34.59
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 173.14548 1.38034 7.45 34.57
+OBJECT_SHARED Models/lib/cars14.ac 173.14519 1.37990 7.40 215.25
+OBJECT_SHARED Models/lib/cars14.ac 173.14534 1.38001 6.76 215.25
+OBJECT_SHARED Models/lib/cars14.ac 173.14550 1.38010 6.94 34.66
+OBJECT_SHARED Models/lib/cars14.ac 173.14536 1.38000 7.09 35.5
+OBJECT_SHARED Models/lib/1space_dual.ac 173.14567 1.38011 6.92 216.74
+OBJECT_SHARED Models/lib/1space_dual.ac 173.14558 1.38022 7.35 216.74
+OBJECT_SHARED Models/lib/1space_dual.ac 173.14550 1.38033 7.45 216.74
+OBJECT_SHARED Models/lib/1space_dual.ac 173.14564 1.38015 7.54 216.74
+OBJECT_SHARED Models/lib/1space_dual.ac 173.14556 1.38026 7.39 216.74
+OBJECT_SHARED Models/lib/1space_dual.ac 173.14547 1.38037 7.48 216.74
+OBJECT_SHARED Models/lib/1space_dual.ac 173.14561 1.38018 7.43 216.74
+OBJECT_SHARED Models/lib/1space_dual.ac 173.14553 1.38030 7.41 216.74
+OBJECT_SHARED Models/lib/1space_dual.ac 173.14545 1.38041 7.51 216.74
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 173.14552 1.38064 7.47 109.8
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 173.14549 1.38062 7.79 322.31
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 173.14546 1.38059 7.67 135
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 173.14538 1.38074 7.64 220.47
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 173.14540 1.38071 7.78 215.41
+OBJECT_SHARED Models/lib/lamp10m.xml 173.14573 1.38046 7.75 308.1
+OBJECT_SHARED Models/lib/lamp10m.xml 173.14580 1.38037 7.64 308.1
+OBJECT_SHARED Models/lib/lamp10m.xml 173.14566 1.38055 7.57 308.1
+OBJECT_SHARED Models/lib/cube16x10.ac 173.14624 1.38317 7.72 270.91
+OBJECT_SHARED Models/lib/HorizTanks2.ac 173.14628 1.38002 9.90 304.77
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 173.14618 1.37995 7.26 124.23
+# END dsf2stg

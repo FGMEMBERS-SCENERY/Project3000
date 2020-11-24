@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -62.59283 17.20392 0.00 59.04
+OBJECT_SHARED Models/lib/cars10.ac -62.59236 17.20393 13.86 180
+OBJECT_SHARED Models/lib/cars10.ac -62.59193 17.20394 14.05 180
+OBJECT_SHARED Models/lib/cars10.ac -62.59227 17.20393 14.27 0
+OBJECT_SHARED Models/lib/cars10.ac -62.59225 17.20408 14.10 0
+OBJECT_SHARED Models/lib/cars10.ac -62.59269 17.20408 13.69 0
+OBJECT_SHARED Models/lib/cars10.ac -62.59269 17.20393 13.45 0
+OBJECT_SHARED Models/lib/lamp10m.xml -62.59197 17.20454 13.91 270
+OBJECT_SHARED Models/lib/lamp10m.xml -62.59295 17.20452 12.88 270
+OBJECT_SHARED Models/lib/lamp10m.xml -62.59268 17.20454 12.44 270
+OBJECT_SHARED Models/lib/cube16x10.ac -62.59113 17.20478 12.54 90.6
+OBJECT_SHARED Models/lib/garage-small-white.ac -62.59086 17.20456 12.57 270.46
+OBJECT_SHARED Models/lib/office3x10.ac -62.59097 17.20473 13.08 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -62.59098 17.20450 12.83 91.62
+OBJECT_SHARED Models/lib/HorizTanks2.ac -62.59298 17.20450 13.27 270
+OBJECT_SHARED Models/lib/propane-tank.ac -62.59103 17.20450 12.38 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -62.58556 17.20732 13.27 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -62.58498 17.20705 -0.01 180
+OBJECT_SHARED Models/lib/cone.ac -62.59215 17.20465 -0.00 0
+OBJECT_SHARED Models/lib/cone.ac -62.59208 17.20465 12.61 90
+OBJECT_SHARED Models/lib/cone.ac -62.59199 17.20465 12.61 0
+OBJECT_SHARED Models/lib/cone.ac -62.59194 17.20465 12.66 90
+OBJECT_SHARED Models/lib/cone.ac -62.59240 17.20464 12.70 270
+OBJECT_SHARED Models/lib/cone.ac -62.59245 17.20465 12.47 0
+OBJECT_SHARED Models/lib/cone.ac -62.59250 17.20464 12.42 90
+OBJECT_SHARED Models/lib/cone.ac -62.59255 17.20465 12.42 90
+OBJECT_SHARED Models/lib/cone.ac -62.59260 17.20465 12.37 270
+OBJECT_SHARED Models/lib/stack_of_cones.ac -62.59268 17.20461 12.37 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -62.59289 17.20457 12.32 90
+# END dsf2stg

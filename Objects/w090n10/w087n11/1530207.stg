@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -86.03213 11.43179 0.00 230.53
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -86.03148 11.43236 25.28 233.97
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -86.03153 11.43229 25.81 232.12
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -86.03158 11.43221 25.68 229.64
+OBJECT_SHARED Models/lib/stack_of_cones.ac -86.03130 11.43249 25.58 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -86.03157 11.43213 25.91 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -86.03168 11.43196 25.47 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -86.03196 11.43216 25.36 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -86.03203 11.43188 25.66 0
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03650 11.42469 25.34 300.38
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03654 11.42468 19.81 260.52
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03657 11.42471 19.81 205.33
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03657 11.42476 19.77 152.65
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03653 11.42479 19.84 94.09
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03649 11.42477 19.88 39.81
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03647 11.42473 19.88 1.74
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03006 11.43024 19.81 300.38
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03010 11.43024 23.46 260.52
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03014 11.43026 23.46 205.33
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03013 11.43032 23.53 152.65
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03009 11.43035 23.53 94.09
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03005 11.43033 23.53 39.81
+OBJECT_SHARED Models/lib/1car-stop.ac -86.03004 11.43029 23.53 1.74
+OBJECT_SHARED Models/lib/lamp10m.xml -86.03161 11.43260 23.53 58.39
+OBJECT_SHARED Models/lib/lamp10m.xml -86.03150 11.43231 26.09 234.16
+OBJECT_SHARED Models/lib/lamp10m.xml -86.03156 11.43223 25.68 236.31
+OBJECT_SHARED Models/lib/lamp10m.xml -86.03191 11.43218 25.58 57.99
+OBJECT_SHARED Models/lib/shed8x10.ac -86.03202 11.43195 25.64 56.31
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -86.03261 11.43155 -69.66 0
+OBJECT_SHARED Models/lib/cars6.ac -86.03180 11.43234 25.15 235.97
+OBJECT_SHARED Models/lib/cars10.ac -86.03157 11.43268 25.75 235.46
+OBJECT_SHARED Models/lib/cube16x10.ac -86.03292 11.42991 26.22 323.78
+OBJECT_SHARED Models/lib/cars10.ac -86.03205 11.43229 23.83 55.46
+OBJECT_SHARED Models/lib/cars10.ac -86.03187 11.43255 25.81 55.46
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -86.03473 11.42899 26.02 327.03
+# END dsf2stg

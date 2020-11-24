@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -66.16468 7.62741 0.00 347.32
+OBJECT_SHARED Models/lib/cars10.ac -66.16532 7.62754 46.69 348.056
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.16548 7.62717 47.35 270
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.16436 7.62711 43.91 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.16449 7.62710 45.97 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.16434 7.62662 46.03 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.16421 7.62691 42.47 0
+OBJECT_SHARED Models/lib/cone.ac -66.16531 7.62729 45.30 0
+OBJECT_SHARED Models/lib/cone.ac -66.16530 7.62730 45.95 0
+OBJECT_SHARED Models/lib/cone.ac -66.16530 7.62732 46.06 0
+OBJECT_SHARED Models/lib/cone.ac -66.16520 7.62727 46.29 0
+OBJECT_SHARED Models/lib/cone.ac -66.16520 7.62729 46.05 0
+OBJECT_SHARED Models/lib/cone.ac -66.16520 7.62730 46.28 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -66.16580 7.62738 46.40 259.695
+OBJECT_SHARED Models/lib/admin31x12.ac -66.16497 7.62722 45.30 77.9053
+OBJECT_SHARED Models/lib/transformer3x3.ac -66.16475 7.62723 46.15 259.695
+OBJECT_SHARED Models/lib/transformer3x3.ac -66.16534 7.62730 46.46 259.992
+OBJECT_SHARED Models/lib/transformer3x3.ac -66.16539 7.62751 46.06 168.232
+OBJECT_SHARED Models/lib/transformer3x3.ac -66.16615 7.62747 47.37 263.29
+OBJECT_SHARED Models/lib/transformer3x3.ac -66.16614 7.62753 45.32 263.29
+OBJECT_SHARED Models/lib/shed8x10.ac -66.16604 7.62743 46.01 79.1145
+# END dsf2stg

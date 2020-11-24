@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -76.32424 25.27945 0.00 304.38
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.32297 25.27799 11.89 48.37
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.32331 25.27844 12.38 57.99
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.32369 25.27892 12.19 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -76.32424 25.27688 12.56 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -76.32438 25.27705 10.15 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -76.32563 25.27820 10.09 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -76.32544 25.27824 9.84 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -76.32544 25.27792 10.09 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -76.32536 25.27808 9.72 0
+OBJECT_SHARED Models/lib/lamp10m.xml -76.32450 25.27901 9.48 122.97
+OBJECT_SHARED Models/lib/lamp10m.xml -76.32427 25.27936 11.14 126.19
+OBJECT_SHARED Models/lib/cars6.ac -76.32418 25.27957 11.70 35.8
+OBJECT_SHARED Models/lib/cars6.ac -76.32408 25.27935 11.99 121.62
+OBJECT_SHARED Models/lib/cars6.ac -76.32403 25.27970 11.82 215.48
+OBJECT_SHARED Models/lib/cars6.ac -76.32432 25.27969 12.25 128.01
+OBJECT_SHARED Models/lib/cars6.ac -76.32463 25.27987 11.99 302.3
+OBJECT_SHARED Models/lib/cars6.ac -76.32466 25.27954 11.88 122.03
+OBJECT_SHARED Models/lib/cars4.ac -76.32495 25.27964 11.47 94.99
+OBJECT_SHARED Models/lib/cars4.ac -76.32491 25.27953 11.41 108.7
+OBJECT_SHARED Models/lib/cars4.ac -76.32485 25.27943 11.31 119.97
+OBJECT_SHARED Models/lib/cars4.ac -76.32477 25.27928 11.29 127.09
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.32537 25.27988 11.19 141.76
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -76.32370 25.27903 11.21 37.41
+OBJECT_SHARED Models/lib/lamp10m.xml -76.32370 25.27897 12.12 34.22
+OBJECT_SHARED Models/lib/cars10.ac -76.32339 25.27869 12.12 124.77
+# END dsf2stg

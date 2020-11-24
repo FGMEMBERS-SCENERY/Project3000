@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -98.38346 28.68306 0.00 11.84
+OBJECT_SHARED Models/lib/stack_of_cones.ac -98.38348 28.68292 87.33 11.84
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -98.38344 28.68307 87.00 313.69
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -98.38355 28.68298 87.36 11.84
+OBJECT_SHARED Models/Misc/6barrels.ac -98.38336 28.68297 87.13 11.84
+OBJECT_SHARED Models/Misc/6barrels.ac -98.38335 28.68296 87.20 11.84
+OBJECT_SHARED Models/lib/2vending-machines.ac -98.38345 28.68306 87.20 224.04
+OBJECT_SHARED Models/lib/lamp10m.xml -98.38380 28.68310 87.36 131.91
+OBJECT_SHARED Models/lib/lamp10m.xml -98.38364 28.68322 87.44 132.16
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.38165 28.68183 87.45 214.9
+OBJECT_SHARED Models/lib/coal_pile.ac -98.38135 28.68136 84.32 49.47
+OBJECT_SHARED Models/lib/transformer3x3.ac -98.38120 28.68185 83.71 307.3
+OBJECT_SHARED Models/lib/industrial15x22.ac -98.38432 28.68356 85.02 5.07
+OBJECT_SHARED Models/lib/cars2.ac -98.38049 28.68096 88.07 231.59
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.38096 28.68104 84.13 50.69
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -98.38174 28.68167 83.20 8.02
+OBJECT_SHARED Models/lib/prop_a.ac -98.38138 28.68094 84.10 48.58
+OBJECT_SHARED Models/Misc/6barrels.ac -98.38030 28.68026 82.39 31.43
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.38045 28.68035 82.97 282.185
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.38050 28.68086 82.52 320.477
+OBJECT_SHARED Models/lib/LongRow.ac -98.38074 28.68106 83.91 139.6
+# END dsf2stg

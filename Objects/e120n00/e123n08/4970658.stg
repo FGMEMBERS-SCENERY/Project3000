@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 123.34376 8.60008 0.00 0
+OBJECT_SHARED Models/lib/industrial13x24.ac 123.34386 8.60065 6.75 161.36
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34367 8.60088 6.73 267.68
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34356 8.60088 6.71 300.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34363 8.60083 6.71 52.85
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34391 8.60074 6.71 91.97
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34408 8.60069 6.72 286.93
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34397 8.60068 6.73 348.11
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34416 8.60050 6.73 198.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34398 8.60051 6.73 341.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34408 8.60052 6.73 243.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34408 8.60059 6.72 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34416 8.60057 6.73 36.87
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34409 8.60044 6.73 278.13
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34404 8.60020 6.72 339.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34406 8.60009 6.73 53.97
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34426 8.60002 6.75 108.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34401 8.60004 6.76 268.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34385 8.59968 6.76 40.36
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34389 8.59974 6.77 222.14
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34390 8.59982 6.77 265.39
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34357 8.59958 6.77 127.3
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34345 8.59968 6.78 237.26
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34339 8.59975 6.08 6.57999
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34355 8.59967 6.05 147.85
+OBJECT_SHARED Models/Trees/billboard-tree.xml 123.34365 8.59966 6.77 280.49
+OBJECT_SHARED Models/lib/RampParking.xml 123.34272 8.59975 6.77 32.49
+OBJECT_SHARED Models/lib/RampParking.xml 123.34286 8.60019 6.05 32.49
+OBJECT_SHARED Models/lib/chariot3curve.ac 123.34355 8.60057 5.93 249.08
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 123.34350 8.60070 6.73 345.84
+OBJECT_SHARED Models/Airport/cargoim.xml 123.34361 8.60068 6.73 340.02
+OBJECT_SHARED Models/Airport/cargoip.xml 123.34360 8.60068 6.73 71.77
+OBJECT_SHARED Models/Airport/cargoip.xml 123.34358 8.60069 6.73 250.32
+OBJECT_SHARED Models/Airport/cargoip.xml 123.34359 8.60066 6.73 341.65
+OBJECT_SHARED Models/lib/loader.ac 123.34367 8.60060 6.73 161.69
+OBJECT_SHARED Models/lib/cars6.ac 123.34385 8.59983 6.73 252.64
+OBJECT_SHARED Models/lib/cars10.ac 123.34403 8.60043 6.77 253.19
+# END dsf2stg

@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 104.00192 10.16352 14.37 0
+OBJECT_SHARED Models/lib/lamp10m.xml 104.00013 10.16371 13.89 0
+OBJECT_SHARED Models/lib/lamp10m.xml 104.00072 10.16365 13.60 0
+OBJECT_SHARED Models/lib/lamp10m.xml 104.00127 10.16360 13.34 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 104.00107 10.16362 13.51 0
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 104.00171 10.16354 13.34 350.538
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 104.00004 10.16386 13.41 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 104.00040 10.16382 13.41 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 104.00079 10.16377 13.51 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 104.00120 10.16372 13.16 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 104.00155 10.16368 13.25 354.026
+# END dsf2stg

@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -75.21103 19.90956 0.00 180
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -75.21145 19.90957 18.48 178.21
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -75.20294 19.90873 18.47 274.33
+OBJECT_SHARED Models/lib/HorizTanks2.ac -75.20274 19.90888 18.71 184.18
+OBJECT_SHARED Models/lib/HorizTanks2.ac -75.20291 19.90887 18.52 183.45
+OBJECT_SHARED Models/lib/HorizTanks2.ac -75.20307 19.90886 18.50 183.15
+OBJECT_SHARED Models/lib/lamp10m.xml -75.20935 19.91024 18.50 91.68
+OBJECT_SHARED Models/lib/lamp10m.xml -75.20834 19.91019 17.56 88.67
+OBJECT_SHARED Models/lib/lamp10m.xml -75.20785 19.90956 17.18 0
+OBJECT_SHARED Models/lib/lamp10m.xml -75.20784 19.90931 17.63 1.54999
+OBJECT_SHARED Models/lib/lamp10m.xml -75.20786 19.90898 18.00 1.06
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.20883 19.90876 18.39 89.07
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -75.20888 19.90918 18.66 89.07
+OBJECT_SHARED Models/lib/industrial13x24.ac -75.20773 19.90974 18.34 90
+OBJECT_SHARED Models/lib/industrial13x24.ac -75.20767 19.91055 17.50 177.99
+OBJECT_SHARED Models/lib/industrial13x24.ac -75.21253 19.91054 16.58 180
+OBJECT_SHARED Models/lib/industrial13x24.ac -75.20970 19.91028 19.01 180
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -75.20984 19.91111 17.61 359.24
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -75.20776 19.90940 17.09 359.24
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -75.20765 19.90891 17.88 180
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -75.20599 19.90943 18.53 0
+OBJECT_SHARED Models/lib/LgMaint.ac -75.20881 19.91018 15.07 90
+OBJECT_SHARED Models/lib/transformer3x3.ac -75.23158 19.90244 17.46 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -75.20776 19.90875 7.74 90
+# END dsf2stg

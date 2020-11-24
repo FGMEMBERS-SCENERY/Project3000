@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml -92.47738 17.88063 0.00 215
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -92.47741 17.88062 9.61 215
+OBJECT_SHARED Models/Airport/cargobox.xml -92.47737 17.88065 9.61 215
+OBJECT_SHARED Models/lib/transformer3x3.ac -92.47780 17.88095 9.61 250
+OBJECT_SHARED Models/lib/lamp10m.xml -92.47705 17.88087 9.10 125
+OBJECT_SHARED Models/lib/lamp10m.xml -92.47740 17.88064 9.42 125
+OBJECT_SHARED Models/lib/lamp10m.xml -92.47775 17.88042 9.61 125
+OBJECT_SHARED Models/lib/industrial13x24.ac -92.47690 17.88083 9.68 35
+# END dsf2stg

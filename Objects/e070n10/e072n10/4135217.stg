@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 72.17969 10.82849 0.00 237.53
+OBJECT_SHARED Models/lib/lamp10m.xml 72.17958 10.82832 2.24 236.81
+OBJECT_SHARED Models/lib/lamp10m.xml 72.17947 10.82816 2.17 238.71
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 72.17939 10.82927 2.15 325.76
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 72.17923 10.82937 2.38 325.81
+OBJECT_SHARED Models/lib/SmHangar.ac 72.17950 10.82824 2.37 326.02
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 72.17946 10.82950 2.15 235.36
+OBJECT_SHARED Models/lib/SmHangar.ac 72.17962 10.82841 2.43 327.19
+OBJECT_SHARED Models/lib/schranke.ac 72.18018 10.82934 2.21 242.9
+OBJECT_SHARED Models/lib/2vending-machines.ac 72.17962 10.82835 2.42 236.21
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 72.17960 10.82837 2.17 327.8
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 72.17948 10.82819 2.21 324.26
+OBJECT_SHARED Models/Transport/van_red.ac 72.17970 10.82846 2.15 70.1
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 72.17965 10.82830 2.24 304.73
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 72.17960 10.82833 2.17 339.66
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 72.17895 10.82854 2.17 180.18
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 72.17892 10.82854 2.14 92.59
+# END dsf2stg

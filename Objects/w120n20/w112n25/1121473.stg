@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -111.61347 25.05058 0.00 321.871
+OBJECT_SHARED Models/lib/prop_a.ac -111.61331 25.05080 63.33 317.654
+OBJECT_SHARED Models/lib/prop_a.ac -111.61309 25.05100 63.57 324.401
+OBJECT_SHARED Models/lib/cars6.ac -111.61336 25.04985 64.47 319.86
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -111.61217 25.05052 62.39 318.7
+OBJECT_SHARED Models/lib/propane-tank.ac -111.61306 25.05112 64.42 141.499
+# END dsf2stg

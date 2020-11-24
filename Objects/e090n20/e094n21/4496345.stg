@@ -1,41 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 94.13372 21.41188 396.10 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 94.13365 21.41179 396.33 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 94.13360 21.41170 396.50 0
-OBJECT_SHARED Models/Airport/cargobox.xml 94.13460 21.41243 394.63 48.37
-OBJECT_SHARED Models/Airport/cargobox.xml 94.13455 21.41243 394.69 315
-OBJECT_SHARED Models/Airport/cargobox.xml 94.13457 21.41244 394.63 53.13
-OBJECT_SHARED Models/Misc/picnic_table.ac 94.13451 21.41239 394.69 0
-OBJECT_SHARED Models/Airport/cargobox.xml 94.13457 21.41241 394.63 61.39
-OBJECT_SHARED Models/Transport/hatchback_green.ac 94.13413 21.41194 395.94 323.75
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 94.13410 21.41190 395.94 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13533 21.40897 303.35 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13525 21.40886 303.53 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13515 21.40875 303.62 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13506 21.40865 303.76 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13496 21.40853 303.89 270
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13486 21.40841 304.03 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13476 21.40830 304.17 180
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13466 21.40818 304.30 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13456 21.40806 304.44 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13447 21.40794 304.62 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13437 21.40782 304.75 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13428 21.40771 304.89 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13418 21.40760 305.02 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 94.13408 21.40748 305.15 0
-OBJECT_SHARED Models/lib/shed10x50.ac 94.13556 21.40922 397.80 52.13
-OBJECT_SHARED Models/lib/transformer3x3.ac 94.13405 21.41186 395.94 318.81
-OBJECT_SHARED Models/lib/office8x14.ac 94.13443 21.41228 394.95 321.71
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 94.13380 21.41179 396.25 50.2
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 94.13020 21.40787 404.58 56.31
-OBJECT_SHARED Models/lib/industrial13x24.ac 94.13047 21.40800 408.00 144.25
-OBJECT_SHARED Models/Misc/6barrels.ac 94.13406 21.41177 396.13 0
-OBJECT_SHARED Models/Misc/6barrels.ac 94.13407 21.41179 396.13 0
-OBJECT_SHARED Models/Misc/6barrels.ac 94.13408 21.41177 396.13 0
-OBJECT_SHARED Models/lib/coal_pile.ac 94.13387 21.41149 396.71 225
-OBJECT_SHARED Models/lib/coal_pile.ac 94.13388 21.41152 396.71 90
-OBJECT_SHARED Models/lib/coal_pile.ac 94.13384 21.41153 396.75 90
-OBJECT_SHARED Models/lib/coal_pile.ac 94.13385 21.41157 396.54 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 94.13372 21.41188 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 94.13365 21.41179 396.11 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 94.13360 21.41170 396.34 0
+OBJECT_SHARED Models/Airport/cargobox.xml 94.13460 21.41243 396.52 48.37
+OBJECT_SHARED Models/Airport/cargobox.xml 94.13455 21.41243 394.63 315
+OBJECT_SHARED Models/Airport/cargobox.xml 94.13457 21.41244 394.69 53.13
+OBJECT_SHARED Models/Misc/picnic_table.ac 94.13451 21.41239 394.63 0
+OBJECT_SHARED Models/Airport/cargobox.xml 94.13457 21.41241 394.69 61.39
+OBJECT_SHARED Models/Transport/hatchback_red.ac 94.13413 21.41194 394.63 323.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac 94.13410 21.41190 395.94 0
+OBJECT_SHARED Models/lib/shed10x50.ac 94.13556 21.40922 395.94 52.13
+OBJECT_SHARED Models/lib/transformer3x3.ac 94.13405 21.41186 397.86 318.81
+OBJECT_SHARED Models/lib/office8x14.ac 94.13443 21.41228 395.94 321.71
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 94.13380 21.41179 394.95 50.2
 # END dsf2stg

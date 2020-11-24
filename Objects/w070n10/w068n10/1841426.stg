@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -67.66229 10.25454 426.03 148.404
+OBJECT_SHARED Models/lib/lamp10m.xml -67.66177 10.25476 419.85 166
+OBJECT_SHARED Models/lib/lamp10m.xml -67.66046 10.25448 427.71 166
+OBJECT_SHARED Models/lib/lamp10m.xml -67.66121 10.25466 428.24 166
+OBJECT_SHARED Models/lib/lamp10m.xml -67.66240 10.25440 428.00 239
+OBJECT_SHARED Models/lib/SmHangar.ac -67.66244 10.25423 423.31 240.905
+OBJECT_SHARED Models/lib/SmHangar.ac -67.66227 10.25413 426.33 240.905
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.66285 10.25413 418.26 33.7011
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.66281 10.25399 425.82 315.005
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.66253 10.25387 425.66 49.604
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.66253 10.25399 425.77 324.503
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.66264 10.25408 425.93 45.0007
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.66276 10.25414 425.99 335.203
+# END dsf2stg

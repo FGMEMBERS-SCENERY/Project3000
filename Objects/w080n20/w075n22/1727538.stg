@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -74.34034 22.83018 0.00 45
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -74.34021 22.82938 -6.19 269.83
+OBJECT_SHARED Models/Transport/hatchback_green.ac -74.34036 22.83030 -7.69 178.26
+OBJECT_SHARED Models/lib/cars10.ac -74.34622 22.82878 -5.98 170.03
+OBJECT_SHARED Models/lib/cars6.ac -74.34655 22.82897 1.73 0
+OBJECT_SHARED Models/lib/cars6.ac -74.34584 22.82887 1.53 270
+OBJECT_SHARED Models/lib/cars4.ac -74.33933 22.82923 -1.51 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.34569 22.82903 -8.29 359.72
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -74.33907 22.82936 -4.44 306.93
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -74.33919 22.82927 -7.29 37.87
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -74.33977 22.82919 -7.93 269.06
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -74.33993 22.82919 -8.16 0
+OBJECT_SHARED Models/lib/SmHangar.ac -74.34027 22.83025 -8.14 90
+OBJECT_SHARED Models/lib/SmHangar.ac -74.33953 22.82925 -6.00 270
+# END dsf2stg

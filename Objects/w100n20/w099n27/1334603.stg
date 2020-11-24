@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -98.12261 27.20702 0.00 213.69
+OBJECT_SHARED Models/lib/lamp10m.xml -98.12260 27.20755 32.35 93.83
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.12198 27.20680 32.84 269.22
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.12124 27.20702 32.91 269.22
+OBJECT_SHARED Models/lib/lamp10m.xml -98.12198 27.20819 32.43 353.66
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.12057 27.20760 32.85 269.22
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.12146 27.20765 32.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.12151 27.20759 32.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.12157 27.20755 32.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.12173 27.20746 32.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.12175 27.20752 32.37 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -98.12242 27.20715 32.37 166.82
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.12187 27.20749 32.37 331.56
+OBJECT_SHARED Models/lib/office3x10.ac -98.12272 27.20814 32.37 132.96
+OBJECT_SHARED Models/lib/2container-office.ac -98.12180 27.20755 32.33 262.67
+OBJECT_SHARED Models/lib/shed8x10.ac -98.12222 27.20711 32.37 263.02
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12150 27.20814 32.38 264
+OBJECT_SHARED Models/lib/garden-shed.ac -98.12195 27.20707 32.36 268.71
+OBJECT_SHARED Models/lib/shed8x10.ac -98.12172 27.20725 32.39 290.72
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12167 27.20841 32.38 83.82
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12204 27.20706 32.35 88.46
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.12153 27.20733 32.39 202.84
+OBJECT_SHARED Models/lib/watertank3x1.ac -98.12168 27.20711 32.39 291.4
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.12215 27.20687 32.40 84.17
+# END dsf2stg

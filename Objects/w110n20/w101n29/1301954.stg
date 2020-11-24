@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -100.47570 29.11591 0.00 320.19
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.46809 29.11393 294.66 351.2
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.47748 29.12181 291.80 305.46
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.46825 29.11397 294.97 61.21
+OBJECT_SHARED Models/Transport/van_silver.ac -100.47753 29.12183 291.81 316.61
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.47566 29.11585 295.10 30.26
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.47570 29.11584 294.66 35.84
+# END dsf2stg

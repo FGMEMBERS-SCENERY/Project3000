@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -94.42980 29.82511 0.00 225
+OBJECT_SHARED Models/lib/lamp10m.xml -94.42872 29.82281 7.29 0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -94.42898 29.82470 7.29 135
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -94.42898 29.82510 7.15 225
+OBJECT_SHARED Models/lib/lamp10m.xml -94.42902 29.82264 7.12 0
+OBJECT_SHARED Models/lib/lamp10m.xml -94.42888 29.82158 7.30 90
+OBJECT_SHARED Models/lib/lamp10m.xml -94.42942 29.81834 7.38 270
+OBJECT_SHARED Models/lib/lamp10m.xml -94.42947 29.81850 7.95 180
+OBJECT_SHARED Models/lib/lamp10m.xml -94.42933 29.81971 7.99 270
+OBJECT_SHARED Models/Transport/hatchback_red.ac -94.42935 29.81853 7.68 85
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.42936 29.82348 7.84 175
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -94.42946 29.82152 7.33 0
+OBJECT_SHARED Models/lib/cars4.ac -94.42898 29.82264 7.55 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -94.42922 29.82314 7.30 97.82
+OBJECT_SHARED Models/Transport/hatchback_red.ac -94.42915 29.82303 7.30 354.95
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.42918 29.82303 7.31 0
+OBJECT_SHARED Models/lib/prop_a.ac -94.42932 29.82307 7.31 155.93
+OBJECT_SHARED Models/lib/stack_of_cones.ac -94.42958 29.81849 7.33 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -94.42938 29.81955 8.06 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -94.42920 29.81960 7.74 0
+OBJECT_SHARED Models/lib/prop_a.ac -94.42974 29.82484 7.66 0
+OBJECT_SHARED Models/lib/prop_a.ac -94.42931 29.82462 7.29 107.22
+OBJECT_SHARED Models/lib/stack_of_cones.ac -94.42945 29.81850 7.18 336.57
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -94.42866 29.82323 7.92 270
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -94.42904 29.82264 7.26 180
+OBJECT_SHARED Models/lib/prop_a.ac -94.42973 29.82146 7.30 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -94.42938 29.81916 7.62 175.84
+OBJECT_SHARED Models/lib/prop_a.ac -94.42996 29.81856 7.77 0
+OBJECT_SHARED Models/lib/prop_a.ac -94.42979 29.81971 8.01 0
+OBJECT_SHARED Models/lib/prop_a.ac -94.42997 29.81977 7.97 0
+OBJECT_SHARED Models/lib/prop_a.ac -94.42997 29.81952 8.11 0
+OBJECT_SHARED Models/Misc/6barrels.ac -94.42936 29.81969 8.17 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -94.42938 29.81970 7.71 88.83
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.42933 29.81969 7.71 90
+OBJECT_SHARED Models/lib/stack_of_cones.ac -94.42981 29.82505 7.68 126
+OBJECT_SHARED Models/lib/stack_of_cones.ac -94.42982 29.82509 7.29 230
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.42981 29.82506 7.29 179.53
+OBJECT_SHARED Models/lib/shed8x10.ac -94.42878 29.82274 7.29 359.77
+OBJECT_SHARED Models/lib/MedHangar.ac -94.42923 29.82457 7.30 270.21
+OBJECT_SHARED Models/lib/MedHangar.ac -94.42930 29.82480 7.16 90
+OBJECT_SHARED Models/lib/LongRow.ac -94.42993 29.82324 7.17 0
+OBJECT_SHARED Models/lib/LongRow.ac -94.42947 29.82324 7.51 0
+OBJECT_SHARED Models/lib/MedHangar.ac -94.42921 29.82128 7.38 90
+OBJECT_SHARED Models/lib/MedHangar.ac -94.42939 29.81936 7.48 0
+OBJECT_SHARED Models/lib/SmHangar.ac -94.42958 29.81844 7.75 359.87
+# END dsf2stg

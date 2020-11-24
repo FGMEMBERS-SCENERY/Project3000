@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 53.91137 12.62703 0.00 171.963
+OBJECT_SHARED Models/lib/transformer3x3.ac 53.91132 12.62673 35.12 352.147
+OBJECT_SHARED Models/lib/FireStationLg.ac 53.90842 12.62666 35.51 153.556
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 53.90939 12.62871 35.45 154.026
+OBJECT_SHARED Models/Transport/hatchback_green.ac 53.90890 12.62726 32.76 70.4975
+OBJECT_SHARED Models/lib/stack_of_cones.ac 53.90845 12.62901 34.60 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 53.90824 12.62876 32.41 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 53.90809 12.62785 32.69 206.565
+OBJECT_SHARED Models/lib/stack_of_cones.ac 53.90778 12.62799 34.00 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 53.90824 12.62742 33.76 333.314
+# END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -83.48604 10.14808 0.00 43.1118
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -83.48607 10.14815 29.67 162.121
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -83.48616 10.14811 -65.27 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -83.48657 10.14809 29.78 86.6511
+OBJECT_SHARED Models/Misc/picnic_table.ac -83.48664 10.14810 30.00 88.2256
+OBJECT_SHARED Models/Misc/picnic_table.ac -83.48660 10.14810 30.00 90
+OBJECT_SHARED Models/lib/shed8x10.ac -83.48676 10.14819 30.00 350.671
+OBJECT_SHARED Models/lib/shed8x10.ac -83.48664 10.14818 30.09 171.469
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -83.48576 10.14805 29.98 355.63
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -83.48684 10.14817 29.56 192.095
+OBJECT_SHARED Models/lib/cars4.ac -83.48590 10.14813 30.09 266.025
+OBJECT_SHARED Models/Misc/6barrels.ac -83.48670 10.14814 29.62 0
+# END dsf2stg

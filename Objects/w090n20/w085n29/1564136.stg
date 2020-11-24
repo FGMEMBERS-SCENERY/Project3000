@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -84.91253 29.64145 0.00 0
+OBJECT_SHARED Models/lib/cars6.ac -84.91194 29.64088 1.03 314.054
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -84.91279 29.64143 1.08 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -84.91168 29.64066 1.00 48.7614
+# END dsf2stg

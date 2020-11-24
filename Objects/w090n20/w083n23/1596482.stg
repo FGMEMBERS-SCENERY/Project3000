@@ -1,32 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/belt_loader.ac -82.39842 23.00154 64.90 -59.53
-OBJECT_SHARED Models/lib/belt_loader.ac -82.39672 23.00214 66.16 270
-OBJECT_SHARED Models/lib/belt_loader.ac -82.39676 23.00212 66.12 270
-OBJECT_SHARED Models/lib/belt_loader.ac -82.39681 23.00209 66.12 270
-OBJECT_SHARED Models/lib/belt_loader.ac -82.39685 23.00207 66.12 270
-OBJECT_SHARED Models/lib/loader.ac -82.39711 23.00230 66.22 33.34
-OBJECT_SHARED Models/lib/loader.ac -82.39721 23.00224 66.06 32.57
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -82.39731 23.00240 66.25 0
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -82.39736 23.00236 66.22 0
-OBJECT_SHARED Models/lib/caisses_group.ac -82.39704 23.00230 66.26 32.57
-OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -82.39695 23.00220 66.14 35.4
-OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -82.39701 23.00221 66.14 35.54
-OBJECT_SHARED Models/lib/lamp10m.xml -82.39630 23.00111 65.37 36.68
-OBJECT_SHARED Models/lib/lamp10m.xml -82.39654 23.00143 65.54 36.68
-OBJECT_SHARED Models/lib/lamp10m.xml -82.39675 23.00170 65.69 36.68
-OBJECT_SHARED Models/lib/lamp10m.xml -82.39693 23.00191 65.86 34.27
-OBJECT_SHARED Models/lib/lamp10m.xml -82.39713 23.00221 66.10 34.27
-OBJECT_SHARED Models/lib/lamp10m.xml -82.39841 23.00175 65.23 125.82
-OBJECT_SHARED Models/lib/lamp10m.xml -82.39880 23.00149 64.79 125.82
-OBJECT_SHARED Models/lib/lamp10m.xml -82.39848 23.00054 63.91 125.82
-OBJECT_SHARED Models/lib/lamp10m.xml -82.39885 23.00031 63.66 125.82
-OBJECT_SHARED Models/lib/lamp10m.xml -82.39923 23.00003 63.32 125.82
-OBJECT_SHARED Models/Aircraft/ATR42.xml -82.39821 23.00084 64.28 36.73
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -82.39860 23.00118 64.54 304.25
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -82.39830 23.00078 64.25 304.25
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -82.39670 23.00121 65.26 125.06
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -82.39703 23.00162 65.51 125.06
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -82.39735 23.00201 65.80 125.06
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -82.39721 23.00172 65.30 126.66
+OBJECT_SHARED Models/lib/lamp10m.xml -82.39874 23.00168 64.45 125.45
+OBJECT_SHARED Models/lib/lamp10m.xml -82.39833 23.00194 63.92 129.91
+OBJECT_SHARED Models/lib/lamp10m.xml -82.39642 23.00155 64.15 40.07
+OBJECT_SHARED Models/lib/lamp10m.xml -82.39707 23.00239 64.75 37.28
+OBJECT_SHARED Models/lib/lamp10m.xml -82.39676 23.00196 64.90 37.28
+OBJECT_SHARED Models/lib/shed10x50.ac -82.40002 23.00090 62.73 86.98
+OBJECT_SHARED Models/lib/shed10x50.ac -82.40012 23.00091 63.46 86.98
+OBJECT_SHARED Models/lib/industrial13x24.ac -82.40063 23.00108 63.46 82.65
+OBJECT_SHARED Models/lib/coal_pile.ac -82.40101 23.00081 63.55 90
+OBJECT_SHARED Models/lib/lamp10m.xml -82.39916 23.00015 63.03 126
+OBJECT_SHARED Models/lib/lamp10m.xml -82.39876 23.00043 63.16 126
+OBJECT_SHARED Models/lib/lamp10m.xml -82.39839 23.00066 63.27 126
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -82.40161 23.00471 -27.66 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -82.40174 23.00504 -25.89 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -82.40215 23.00543 -25.64 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -82.40179 23.00556 -25.36 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -82.40111 23.00496 -28.12 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -82.40120 23.00517 -28.54 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -82.40097 23.00525 -28.38 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -82.40088 23.00503 -28.26 0
 # END dsf2stg

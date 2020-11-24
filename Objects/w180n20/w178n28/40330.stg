@@ -1,22 +1,22 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -177.38558 28.20327 -83.66 0
-OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -177.38525 28.20361 -83.47 0
-OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -177.38490 28.20392 -83.32 0
-OBJECT_SHARED Models/lib/FireStationLg.ac -177.38135 28.20605 8.14 201.5
-OBJECT_SHARED Models/lib/FireStationLg.ac -177.38144 28.20602 8.14 201.5
-OBJECT_SHARED Models/lib/SmHangar.ac -177.38089 28.20622 8.26 21.5
-OBJECT_SHARED Models/lib/SmHangar.ac -177.38106 28.20615 8.26 21.5
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -177.37973 28.21117 18.13 114.64
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -177.37948 28.21064 10.55 114.64
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -177.37923 28.21012 10.40 114.64
-OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -177.37699 28.21282 13.06 0
-OBJECT_SHARED Models/lib/lamp10m.xml -177.37894 28.21134 10.72 22.93
-OBJECT_SHARED Models/lib/lamp10m.xml -177.37864 28.21069 10.58 23.5
-OBJECT_SHARED Models/lib/lamp10m.xml -177.37836 28.21014 10.45 25.51
-OBJECT_SHARED Models/lib/chariot3curve.ac -177.37858 28.21044 10.49 90
-OBJECT_SHARED Models/lib/belt_loader.ac -177.37863 28.21064 10.55 19.98
-OBJECT_SHARED Models/lib/belt_loader.ac -177.37862 28.21060 10.55 20.56
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -177.37910 28.21000 10.37 292.11
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -177.38549 28.20305 -90.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -177.38515 28.20335 -80.61 0
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -177.38482 28.20367 -80.47 0
+OBJECT_SHARED Models/lib/FireStationLg.ac -177.38120 28.20569 9.81 201.5
+OBJECT_SHARED Models/lib/FireStationLg.ac -177.38128 28.20567 10.84 201.5
+OBJECT_SHARED Models/lib/SmHangar.ac -177.38082 28.20586 10.84 21.5
+OBJECT_SHARED Models/lib/SmHangar.ac -177.38099 28.20580 10.99 21.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -177.37962 28.21039 10.91 114.64
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -177.37937 28.20991 13.14 114.64
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -177.37914 28.20944 13.03 114.64
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -177.37699 28.21282 12.82 0
+OBJECT_SHARED Models/lib/lamp10m.xml -177.37907 28.21083 13.48 22.93
+OBJECT_SHARED Models/lib/lamp10m.xml -177.37866 28.21010 13.28 23.5
+OBJECT_SHARED Models/lib/lamp10m.xml -177.37824 28.20927 13.09 25.51
+OBJECT_SHARED Models/lib/chariot3curve.ac -177.37879 28.21019 12.65 90
+OBJECT_SHARED Models/lib/belt_loader.ac -177.37891 28.21050 13.11 19.98
+OBJECT_SHARED Models/lib/belt_loader.ac -177.37890 28.21042 13.20 20.56
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -177.37901 28.20933 13.17 292.11
 # END dsf2stg

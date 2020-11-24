@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -91.50342 15.31775 0.00 281.26
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.50295 15.31800 1874.34 21.62
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.50294 15.31800 1874.32 201.38
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.50290 15.31788 1874.32 22.32
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.50289 15.31788 1874.31 202.37
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -91.50313 15.31765 1874.31 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -91.50315 15.31763 1874.33 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -91.50318 15.31763 1874.33 0
+# END dsf2stg

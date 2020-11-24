@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 124.56671 11.05543 0.00 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 124.56768 11.05509 8.26 67.38
+OBJECT_SHARED Models/Transport/hatchback_black.ac 124.56796 11.05509 8.33 89.1
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 124.56751 11.05514 8.33 0
+OBJECT_SHARED Models/Transport/Norberttruck.xml 124.56745 11.05517 8.33 270.86
+OBJECT_SHARED Models/lib/shed8x10.ac 124.56662 11.05579 8.20 356.91
+OBJECT_SHARED Models/lib/lamp10m.xml 124.56663 11.05558 8.39 170.84
+OBJECT_SHARED Models/lib/lamp10m.xml 124.56657 11.05558 8.32 86.68
+OBJECT_SHARED Models/lib/shed8x10.ac 124.56674 11.05553 8.32 356.53
+OBJECT_SHARED Models/lib/office16x4n.ac 124.56812 11.05457 8.29 89.37
+OBJECT_SHARED Models/lib/schranke.ac 124.56663 11.05449 8.14 266.82
+OBJECT_SHARED Models/lib/transformer3x3.ac 124.56661 11.05450 8.00 267.97
+OBJECT_SHARED Models/lib/transformer3x3.ac 124.56795 11.05445 8.00 265.43
+# END dsf2stg

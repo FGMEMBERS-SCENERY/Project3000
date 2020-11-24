@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -77.78937 24.69934 0.00 287.77
+OBJECT_SHARED Models/lib/lamp10m.xml -77.78967 24.69916 9.11 350.34
+OBJECT_SHARED Models/lib/lamp10m.xml -77.78989 24.69937 8.98 180
+OBJECT_SHARED Models/lib/lamp10m.xml -77.78966 24.69938 9.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.78926 24.69932 9.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.78907 24.69960 9.11 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.78934 24.69964 9.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.78934 24.69952 9.54 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.78949 24.69992 9.39 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.78966 24.69975 9.74 0
+OBJECT_SHARED Models/lib/lamp10m.xml -77.78927 24.69908 9.71 73.74
+OBJECT_SHARED Models/lib/lamp10m.xml -77.79009 24.69912 8.86 91.33
+OBJECT_SHARED Models/lib/cars4.ac -77.78994 24.69918 8.93 183.72
+OBJECT_SHARED Models/lib/cars10.ac -77.78964 24.69939 8.98 181.19
+OBJECT_SHARED Models/lib/cars10.ac -77.78995 24.69935 9.23 1.18
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -77.78939 24.69938 9.22 107.84
+OBJECT_SHARED Models/lib/stack_of_cones.ac -77.78945 24.69897 9.23 278.53
+OBJECT_SHARED Models/lib/stack_of_cones.ac -77.78996 24.69910 8.74 19.23
+# END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac 52.33260 24.50676 0.00 274.42
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 52.33323 24.50226 7.13 95.49
+OBJECT_SHARED Models/lib/MedHangar.ac 52.33322 24.50258 6.99 184.92
+OBJECT_SHARED Models/lib/lamp10m.xml 52.33321 24.50238 7.04 187.18
+OBJECT_SHARED Models/lib/lamp10m.xml 52.33317 24.50280 7.01 185.26
+OBJECT_SHARED Models/lib/lamp10m.xml 52.33310 24.50335 7.07 148.97
+OBJECT_SHARED Models/lib/lamp10m.xml 52.33310 24.50346 7.19 234.66
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 52.33277 24.50337 7.20 274.65
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml 52.33282 24.50413 7.34 29.68
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 52.33302 24.50368 7.41 247.21
+# END dsf2stg

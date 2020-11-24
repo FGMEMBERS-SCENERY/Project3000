@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 86.70831 27.81190 0.00 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 86.70834 27.81395 3799.91 160.67
+OBJECT_SHARED Models/lib/prop_a.ac 86.70854 27.81203 3803.34 32.26
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 86.70743 27.81327 3799.95 0
+OBJECT_SHARED Models/Misc/6barrels.ac 86.70837 27.81392 3803.32 0
+OBJECT_SHARED Models/Misc/6barrels.ac 86.70744 27.81327 3803.07 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 86.70829 27.81185 3803.32 123.835
+OBJECT_SHARED Models/lib/stack_of_cones.ac 86.70831 27.81183 3799.91 0
+# END dsf2stg

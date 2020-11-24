@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -104.53339 24.12662 0.00 142.38
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -104.53687 24.12578 1860.64 232.02
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -104.53705 24.12580 1860.64 141.14
+OBJECT_SHARED Models/lib/HorizTanks2.ac -104.53699 24.12586 1860.64 142.59
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -104.53678 24.12589 1860.63 231.29
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -104.53690 24.12593 1860.63 52.22
+OBJECT_SHARED Models/lib/SmHangar.ac -104.53438 24.12562 1860.63 53.39
+OBJECT_SHARED Models/lib/MedHangar.ac -104.53546 24.12578 1860.66 233.59
+OBJECT_SHARED Models/lib/MedHangar.ac -104.53489 24.12540 1860.66 232.75
+OBJECT_SHARED Models/lib/SmHangar.ac -104.53379 24.12582 1860.66 141.69
+OBJECT_SHARED Models/lib/office40x25.ac -104.53292 24.12687 1860.65 138.19
+OBJECT_SHARED Models/lib/office40x25.ac -104.53094 24.12937 1860.65 142.67
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.53376 24.12667 1860.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.53555 24.12513 1861.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.53456 24.12580 1860.82 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.53530 24.12599 1860.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.53474 24.12570 1860.96 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.53492 24.12584 1860.66 0
+# END dsf2stg

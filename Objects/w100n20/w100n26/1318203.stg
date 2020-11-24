@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -99.24791 26.96629 0.00 -38.54
+OBJECT_SHARED Models/lib/lamp10m.xml -99.24776 26.96615 122.61 230.58
+OBJECT_SHARED Models/lib/lamp10m.xml -99.24860 26.96676 122.33 230.88
+OBJECT_SHARED Models/lib/lamp10m.xml -99.24830 26.96654 122.88 230.88
+OBJECT_SHARED Models/Transport/hatchback_green.ac -99.24726 26.96625 122.69 331.66
+OBJECT_SHARED Models/Transport/hatchback_black.ac -99.24840 26.96701 122.70 220.16
+OBJECT_SHARED Models/lib/prop_a.ac -99.24836 26.96713 123.13 236.13
+OBJECT_SHARED Models/lib/prop_a.ac -99.24847 26.96721 123.23 230.11
+OBJECT_SHARED Models/lib/propane-tank.ac -99.24730 26.96598 123.30 52.13
+OBJECT_SHARED Models/lib/lamp10m.xml -99.24754 26.96640 122.51 49.99
+OBJECT_SHARED Models/lib/cars6.ac -99.24808 26.96642 122.82 141.38
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -99.24820 26.96661 122.64 304.51
+OBJECT_SHARED Models/lib/HorizTanks2.ac -99.24830 26.96664 122.80 141.46
+OBJECT_SHARED Models/lib/office3x10.ac -99.24762 26.96616 122.77 51.17
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -99.24743 26.96632 122.60 141.01
+OBJECT_SHARED Models/lib/2container-office.ac -99.24744 26.96603 122.76 141.16
+# END dsf2stg

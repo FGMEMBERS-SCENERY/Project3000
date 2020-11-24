@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 55.17151 24.87022 29.91 103.44
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 55.17169 24.87051 45.95 102.99
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 55.17192 24.87084 45.91 103.11
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 55.17212 24.87117 45.87 103.86
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 55.17234 24.87150 45.80 103.95
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 55.17255 24.87181 45.76 102.65
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 55.17277 24.87213 45.72 105.64
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 55.17297 24.87244 45.69 105.39
+OBJECT_SHARED Models/lib/HorizTanks2.ac 55.17361 24.87171 45.65 58.51
+OBJECT_SHARED Models/lib/HorizTanks2.ac 55.17273 24.87007 45.87 237.02
+OBJECT_SHARED Models/Transport/Norberttruck.xml 55.18251 24.87382 45.51 303
+OBJECT_SHARED Models/Transport/Norberttruck.xml 55.18259 24.87393 46.41 304.82
+OBJECT_SHARED Models/Transport/Norberttruck.xml 55.18266 24.87404 46.41 303.39
+OBJECT_SHARED Models/Transport/Norberttruck.xml 55.18273 24.87415 46.40 305.61
+OBJECT_SHARED Models/Transport/Norberttruck.xml 55.18279 24.87426 46.37 305.94
+OBJECT_SHARED Models/Transport/Norberttruck.xml 55.18284 24.87436 46.37 301.11
+OBJECT_SHARED Models/Transport/Norberttruck.xml 55.18291 24.87447 46.35 301.33
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 55.17090 24.87259 46.34 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 55.17146 24.87342 45.34 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 55.17036 24.87177 45.24 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 55.16986 24.87102 45.46 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 55.18604 24.87440 34.87 58.31
+# END dsf2stg

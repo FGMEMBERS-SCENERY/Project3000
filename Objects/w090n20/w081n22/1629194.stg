@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -80.40980 22.15878 34.39 114.18
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -80.41031 22.15828 33.95 202.8
-OBJECT_SHARED Models/lib/fuel-truck.xml -80.41000 22.15776 34.50 267.48
-OBJECT_SHARED Models/lib/fuel-truck.xml -80.41001 22.15770 34.54 272.29
-OBJECT_SHARED Models/lib/office32x25.ac -80.40988 22.15895 34.23 294.62
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -80.40980 22.15878 0.00 114.18
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -80.41031 22.15828 34.39 202.8
+OBJECT_SHARED Models/lib/fuel-truck.xml -80.41000 22.15776 33.95 267.48
+OBJECT_SHARED Models/lib/fuel-truck.xml -80.41001 22.15770 34.50 272.29
+OBJECT_SHARED Models/lib/office32x25.ac -80.40988 22.15895 34.54 294.62
 # END dsf2stg

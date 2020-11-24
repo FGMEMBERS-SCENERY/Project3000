@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 129.70159 29.60845 0.00 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 129.70152 29.60856 99.75 224.558
+OBJECT_SHARED Models/lib/stack_of_cones.ac 129.70150 29.60853 104.24 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.70155 29.60852 99.75 280.081
+OBJECT_SHARED Models/Misc/picnic_table.ac 129.70164 29.60866 99.75 230.492
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 129.70195 29.60854 99.34 230.194
+OBJECT_SHARED Models/lib/coal_pile.ac 129.70199 29.60858 99.75 90
+OBJECT_SHARED Models/Misc/6barrels.ac 129.70183 29.60841 104.24 316.996
+OBJECT_SHARED Models/lib/office3x10.ac 129.70190 29.60849 99.95 137.85
+OBJECT_SHARED Models/lib/trailer-fedex.ac 129.70195 29.60867 99.75 318.482
+OBJECT_SHARED Models/lib/lamp10m.xml 129.70185 29.60842 99.34 -40.7155
+OBJECT_SHARED Models/lib/SmHangar.ac 129.70165 29.60855 99.95 136.22
+OBJECT_SHARED Models/Misc/picnic_table.ac 129.70163 29.60866 104.24 225.2
+OBJECT_SHARED Models/Trees/billboard-tree.xml 129.70215 29.60775 99.34 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 129.70177 29.60788 100.17 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 129.70168 29.60797 100.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 129.70192 29.60830 99.93 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml 129.70186 29.60823 100.03 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 129.70177 29.60826 99.94 0
+# END dsf2stg

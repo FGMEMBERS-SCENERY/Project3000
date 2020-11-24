@@ -1,8 +1,38 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -76.61930 20.39569 62.15 201.04
-OBJECT_SHARED Models/lib/office16x4n.ac -76.61833 20.39552 62.60 292.62
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.62202 20.39342 58.53 22.8
-OBJECT_SHARED Models/lib/FireStationLg.ac -76.62278 20.39347 58.00 112.45
+OBJECT_SHARED Models/lib/office16x4n.ac -76.61810 20.39575 0.00 292.62
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.62176 20.39366 62.84 22.8
+OBJECT_SHARED Models/lib/FireStationLg.ac -76.62251 20.39371 58.90 112.45
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.61989 20.39508 58.37 114.341
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.61996 20.39501 61.31 294.868
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.61997 20.39504 61.17 114.341
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.61988 20.39506 61.17 294.868
+OBJECT_SHARED Models/lib/industrial15x22.ac -76.61973 20.39458 61.31 16.314
+OBJECT_SHARED Models/lib/industrial15x22.ac -76.61555 20.39664 61.06 289.057
+OBJECT_SHARED Models/lib/industrial15x22.ac -76.61567 20.39682 64.38 289.502
+OBJECT_SHARED Models/Transport/hatchback_green.ac -76.62196 20.39396 64.44 116.565
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -76.62188 20.39399 58.97 101.31
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.62169 20.39361 59.04 205.641
+OBJECT_SHARED Models/Transport/van_red.ac -76.61936 20.39524 58.90 329.037
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -76.61943 20.39527 61.72 313.265
+OBJECT_SHARED Models/Transport/hatchback_black.ac -76.61948 20.39532 61.80 312.274
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -76.61955 20.39531 61.73 300.964
+OBJECT_SHARED Models/Transport/van_red.ac -76.61962 20.39534 61.73 289.654
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.61776 20.39621 61.67 299.745
+OBJECT_SHARED Models/Transport/van_silver.ac -76.61784 20.39617 63.32 302.006
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -76.61797 20.39613 63.32 291.251
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.61658 20.39643 63.16 211.607
+OBJECT_SHARED Models/Transport/van_silver.ac -76.61706 20.39632 63.96 215.311
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.61659 20.39649 63.71 203.962
+OBJECT_SHARED Models/Transport/van_red.ac -76.61655 20.39651 64.01 210.579
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.61710 20.39627 64.04 231.34
+OBJECT_SHARED Models/Transport/hatchback_black.ac -76.61708 20.39620 63.71 225
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.61726 20.39623 63.65 274.236
+OBJECT_SHARED Models/Transport/van_silver.ac -76.61731 20.39629 63.56 210.256
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.61719 20.39629 63.62 132.511
+OBJECT_SHARED Models/Transport/van_silver.ac -76.61919 20.39484 63.66 284.932
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.61931 20.39485 61.55 270
+OBJECT_SHARED Models/Transport/van_red.ac -76.61943 20.39490 61.56 263.66
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -76.61948 20.39494 61.50 210.964
 # END dsf2stg

@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -73.24833 10.43331 0.00 0
+OBJECT_SHARED Models/Airport/cargobox.xml -73.24835 10.43272 137.17 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -73.24849 10.43276 136.75 90
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -73.24846 10.43274 136.77 90
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -73.24847 10.43272 136.71 90
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -73.24847 10.43267 136.71 170.754
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -73.24849 10.43267 136.71 344.219
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -73.24843 10.43284 136.71 266.6
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -73.24852 10.43270 136.81 82.5831
+OBJECT_SHARED Models/Airport/cargobox.xml -73.24838 10.43271 136.71 0
+OBJECT_SHARED Models/Airport/cargobox.xml -73.24836 10.43271 136.75 0
+OBJECT_SHARED Models/Airport/cargobox.xml -73.24838 10.43269 136.75 45
+OBJECT_SHARED Models/Airport/cargobox.xml -73.24836 10.43269 136.75 90
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -73.24812 10.43420 136.75 171.87
+OBJECT_SHARED Models/lib/belt_loader.ac -73.24809 10.43417 137.82 258.275
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -73.24844 10.43266 137.82 87.7543
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -73.24840 10.43265 136.75 55.751
+OBJECT_SHARED Models/lib/caisses_group.ac -73.24838 10.43281 136.75 83.6598
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24795 10.43402 136.81 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24790 10.43401 137.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24784 10.43400 137.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24794 10.43335 137.79 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24800 10.43337 137.37 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24801 10.43329 137.34 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24795 10.43341 137.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24792 10.43353 137.37 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24793 10.43347 137.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24798 10.43348 137.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24803 10.43355 137.40 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24804 10.43350 137.47 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24804 10.43344 137.40 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24805 10.43339 137.34 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -73.24807 10.43331 137.31 15.9454
+OBJECT_SHARED Models/lib/lamp10m.xml -73.24831 10.43280 137.24 -11.147
+OBJECT_SHARED Models/lib/lamp10m.xml -73.24836 10.43264 136.85 -64.4942
+OBJECT_SHARED Models/lib/lamp10m.xml -73.24848 10.43265 136.69 261.402
+OBJECT_SHARED Models/lib/RampParking.xml -73.24833 10.43319 136.65 79.9078
+OBJECT_SHARED Models/lib/RampParking.xml -73.24818 10.43403 137.10 78.69
+# END dsf2stg

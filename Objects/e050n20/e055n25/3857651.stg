@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac 55.95939 25.75166 0.00 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac 55.95913 25.75156 -0.92 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac 55.95935 25.75114 -0.50 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac 55.95961 25.75125 -0.50 90
+OBJECT_SHARED Models/lib/lamp10m.xml 55.95971 25.75072 -0.81 205.974
+OBJECT_SHARED Models/lib/lamp10m.xml 55.95965 25.75084 -0.57 204.899
+OBJECT_SHARED Models/lib/lamp10m.xml 55.96004 25.75014 -0.52 204.538
+OBJECT_SHARED Models/lib/lamp10m.xml 55.95999 25.75024 -0.48 205.399
+OBJECT_SHARED Models/Trees/billboard-tree.xml 55.95904 25.75043 -0.56 231.404
+OBJECT_SHARED Models/Trees/billboard-tree.xml 55.95921 25.75096 0.54 93.6139
+OBJECT_SHARED Models/lib/admin31x12.ac 55.95943 25.75101 -0.18 113.314
+OBJECT_SHARED Models/lib/industrial13x24.ac 55.95968 25.75078 -0.42 205.852
+OBJECT_SHARED Models/lib/SmHangar.ac 55.96003 25.75019 -0.64 204.966
+# END dsf2stg

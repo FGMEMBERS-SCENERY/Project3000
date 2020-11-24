@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 121.42400 12.98522 0.00 82.14
+OBJECT_SHARED Models/lib/lamp10m.xml 121.42453 12.98004 33.55 172.21
+OBJECT_SHARED Models/lib/lamp10m.xml 121.42422 12.98549 36.44 83.06
+OBJECT_SHARED Models/lib/lamp10m.xml 121.42396 12.98502 33.28 -7.13
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 121.42412 12.98545 33.67 82.05
+OBJECT_SHARED Models/Transport/van_silver.ac 121.42393 12.98503 33.28 353.21
+OBJECT_SHARED Models/lib/shed8x10.ac 121.42409 12.98525 33.67 263.16
+OBJECT_SHARED Models/Misc/6barrels.ac 121.42416 12.98521 33.48 91.82
+OBJECT_SHARED Models/Misc/6barrels.ac 121.42415 12.98523 33.55 21.8
+OBJECT_SHARED Models/Misc/6barrels.ac 121.42414 12.98522 33.55 69.99
+OBJECT_SHARED Models/Misc/6barrels.ac 121.42415 12.98522 33.55 255.07
+OBJECT_SHARED Models/Misc/6barrels.ac 121.42413 12.98521 33.55 245.19
+OBJECT_SHARED Models/Misc/6barrels.ac 121.42415 12.98520 33.55 164.13
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 121.42407 12.98538 33.55 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 121.42415 12.98540 33.38 0
+OBJECT_SHARED Models/lib/schranke.ac 121.42453 12.98000 33.38 261.87
+OBJECT_SHARED Models/lib/transformer3x3.ac 121.42451 12.98002 36.44 262.13
+OBJECT_SHARED Models/Trees/billboard-tree.xml 121.42642 12.98516 36.44 140.04
+OBJECT_SHARED Models/Trees/billboard-tree.xml 121.42650 12.98515 30.23 120.14
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 121.42656 12.98514 30.27 122.35
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 121.42648 12.98518 29.68 140.71
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 121.42643 12.98522 30.23 248.2
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 121.42393 12.98556 30.23 294.78
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 121.42391 12.98551 33.22 51.52
+OBJECT_SHARED Models/Trees/billboard-tree.xml 121.42398 12.98528 33.28 90.95
+OBJECT_SHARED Models/Trees/billboard-tree.xml 121.42389 12.98543 33.48 185.53
+# END dsf2stg

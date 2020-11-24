@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -77.58323 24.15664 0.00 168.959
+OBJECT_SHARED Models/lib/lamp10m.xml -77.58401 24.15643 11.33 259.8
+OBJECT_SHARED Models/lib/lamp10m.xml -77.58467 24.15654 12.21 258.47
+OBJECT_SHARED Models/lib/cars10.ac -77.58331 24.15649 12.45 169.76
+OBJECT_SHARED Models/lib/cars10.ac -77.58367 24.15671 11.63 350.02
+# END dsf2stg

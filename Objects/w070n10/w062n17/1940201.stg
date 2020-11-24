@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -61.82680 17.63685 0.00 90
+OBJECT_SHARED Models/lib/cone.ac -61.82657 17.63677 8.37 0
+OBJECT_SHARED Models/lib/cone.ac -61.82658 17.63677 8.35 0
+OBJECT_SHARED Models/lib/cone.ac -61.82657 17.63678 8.35 0
+OBJECT_SHARED Models/lib/cone.ac -61.82647 17.63678 8.35 0
+OBJECT_SHARED Models/lib/cone.ac -61.82646 17.63678 8.41 270
+OBJECT_SHARED Models/lib/cone.ac -61.82648 17.63678 8.41 0
+OBJECT_SHARED Models/lib/cone.ac -61.82656 17.63678 8.41 0
+OBJECT_SHARED Models/lib/cone.ac -61.82655 17.63677 8.35 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -61.82633 17.63689 8.35 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -61.82635 17.63687 8.69 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -61.82634 17.63687 8.63 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -61.82635 17.63686 8.69 0
+OBJECT_SHARED Models/lib/lamp10m.xml -61.82646 17.63691 8.63 0.965576
+OBJECT_SHARED Models/lib/lamp10m.xml -61.82636 17.63681 8.56 89.1343
+OBJECT_SHARED Models/Transport/hatchback_black.ac -61.82642 17.63695 8.47 270.848
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -61.82655 17.63693 8.63 91.5005
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -61.82648 17.63689 8.50 179.29
+OBJECT_SHARED Models/Transport/hatchback_black.ac -61.82655 17.63695 8.56 267.857
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -61.82642 17.63698 8.65 267.857
+OBJECT_SHARED Models/Transport/hatchback_black.ac -61.82655 17.63688 8.78 0
+# END dsf2stg

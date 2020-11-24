@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -83.51705 10.57256 0.00 0
+OBJECT_SHARED Models/lib/office3x10.ac -83.51469 10.56507 7.83 296.56
+OBJECT_SHARED Models/lib/garden-shed.ac -83.51438 10.56515 2.05 291.5
+OBJECT_SHARED Models/lib/transformer3x3.ac -83.51423 10.56509 3.46 28.74
+OBJECT_SHARED Models/lib/transformer3x3.ac -83.51432 10.56543 4.33 24.44
+OBJECT_SHARED Models/lib/transformer3x3.ac -83.51460 10.56494 3.98 30.43
+OBJECT_SHARED Models/lib/office3x10.ac -83.51588 10.56704 2.14 299.74
+OBJECT_SHARED Models/lib/farm19x12.ac -83.51808 10.56520 3.73 65.1
+OBJECT_SHARED Models/lib/garage-small-white.ac -83.51474 10.56520 6.91 113.86
+OBJECT_SHARED Models/lib/farm19x12.ac -83.51214 10.56222 2.09 45
+OBJECT_SHARED Models/lib/farm19x12.ac -83.51352 10.56287 3.49 12.89
+OBJECT_SHARED Models/lib/office3x10.ac -83.51263 10.56313 2.85 304.11
+# END dsf2stg

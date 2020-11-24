@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.70168 11.52400 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.70159 11.52407 51.45 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.70159 11.52411 51.65 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.70161 11.52480 51.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.70167 11.52475 52.08 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.70163 11.52468 51.91 82.8749
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.70161 11.52419 52.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.70167 11.52435 51.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.70165 11.52481 51.57 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.70161 11.52470 51.91 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.70162 11.52457 52.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.70153 11.52446 51.92 39.8054
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.70152 11.52439 52.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.70157 11.52441 51.95 194.036
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.70162 11.52448 51.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.70162 11.52444 51.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.70163 11.52485 51.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.70162 11.52475 52.08 33.6899
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.70163 11.52462 52.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.70156 11.52444 51.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.70154 11.52433 51.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.70161 11.52428 51.89 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.70162 11.52436 51.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.70167 11.52447 51.79 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.70164 11.52451 51.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.70155 11.52451 51.85 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -85.70057 11.52451 52.02 270
+OBJECT_SHARED Models/lib/transformer3x3.ac -85.70359 11.52324 53.52 4.57001
+OBJECT_SHARED Models/lib/transformer3x3.ac -85.70998 11.52397 48.82 180
+# END dsf2stg

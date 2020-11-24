@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -158.03761 21.47735 0.50 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -158.03756 21.47739 247.13 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -158.03750 21.47739 247.13 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -158.03744 21.47737 247.25 0
+OBJECT_SHARED Models/lib/garden-shed.ac -158.03213 21.48584 246.75 292.457
+OBJECT_SHARED Models/lib/garden-shed.ac -158.03211 21.48585 260.49 292.457
+OBJECT_SHARED Models/lib/large-hangar.ac -158.04112 21.48170 260.49 111.37
+OBJECT_SHARED Models/lib/industrial13x24.ac -158.04094 21.47660 253.66 337.175
+OBJECT_SHARED Models/lib/MedHangar.ac -158.03855 21.47546 245.33 247
+# END dsf2stg

@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -60.02976 4.72970 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -60.03002 4.72979 584.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.03027 4.73017 584.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.02950 4.72922 584.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.02951 4.72959 584.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.02978 4.72925 584.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.02995 4.72935 584.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.02977 4.72941 584.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.03013 4.72956 584.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -60.02974 4.73009 584.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.02986 4.72964 584.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.02982 4.72988 584.87 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.02973 4.73029 584.63 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.02978 4.73061 583.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.03011 4.72924 583.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -60.03003 4.72966 584.83 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -60.02968 4.72961 584.80 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -60.02994 4.72914 584.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -60.03009 4.72936 584.55 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -60.02997 4.72955 584.86 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -60.03009 4.73063 584.91 0
+OBJECT_SHARED Models/lib/shed8x10.ac -60.03072 4.72742 583.27 13.6
+OBJECT_SHARED Models/lib/industrial13x24.ac -60.03036 4.73051 583.50 12.53
+OBJECT_SHARED Models/lib/shed8x10.ac -60.03010 4.72947 583.65 354.04
+OBJECT_SHARED Models/lib/shed8x10.ac -60.02989 4.73016 584.88 90
+OBJECT_SHARED Models/lib/shed8x10.ac -60.02996 4.73034 584.11 180.78
+OBJECT_SHARED Models/lib/shed8x10.ac -60.03791 4.72411 583.76 117.9
+OBJECT_SHARED Models/lib/farm19x12.ac -60.03094 4.73200 556.68 196.98
+OBJECT_SHARED Models/lib/4container-office.ac -60.03050 4.72753 581.16 266.92
+# END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -59.15141 5.27772 0.00 128.16
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -59.15187 5.27677 86.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -59.15201 5.27700 85.98 0
+OBJECT_SHARED Models/Airport/cargobox.xml -59.15191 5.27686 85.73 35.94
+OBJECT_SHARED Models/Airport/cargobox.xml -59.15190 5.27684 85.95 303.25
+OBJECT_SHARED Models/Airport/cargobox.xml -59.15189 5.27682 85.96 52.74
+OBJECT_SHARED Models/lib/cone.ac -59.15205 5.27705 85.97 0
+OBJECT_SHARED Models/lib/cone.ac -59.15206 5.27707 85.55 0
+OBJECT_SHARED Models/lib/cone.ac -59.15207 5.27708 85.54 0
+OBJECT_SHARED Models/lib/cone.ac -59.15208 5.27709 85.54 0
+OBJECT_SHARED Models/lib/shed8x10.ac -59.15136 5.27770 85.54 310.51
+OBJECT_SHARED Models/lib/MedHangar.ac -59.15192 5.27687 86.31 212.91
+# END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -55.44073 3.34700 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -55.44063 3.34715 161.41 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -55.44095 3.34703 161.09 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -55.44107 3.34620 160.49 54.38
+OBJECT_SHARED Models/lib/garage-small-white.ac -55.44104 3.34628 160.11 51.77
+OBJECT_SHARED Models/lib/garage-small-white.ac -55.44097 3.34633 160.36 53.97
+OBJECT_SHARED Models/lib/office3x10.ac -55.44120 3.34531 160.53 272.79
+OBJECT_SHARED Models/lib/office3x10.ac -55.44133 3.34513 158.96 301.46
+OBJECT_SHARED Models/lib/farm19x12.ac -55.43927 3.34838 158.89 36.98
+OBJECT_SHARED Models/lib/shed8x10.ac -55.44139 3.34665 158.31 39.37
+OBJECT_SHARED Models/lib/shed8x10.ac -55.44160 3.34649 160.64 37.69
+OBJECT_SHARED Models/lib/SmHangar.ac -55.44196 3.34638 160.68 308.32
+# END dsf2stg

@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 124.21506 7.16186 0.00 166.81
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 124.21565 7.16202 54.02 258.77
+OBJECT_SHARED Models/lib/container6-HD.ac 124.21571 7.16200 52.14 167.91
+OBJECT_SHARED Models/lib/belt_loader.ac 124.21564 7.16192 52.19 79.22
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 124.21566 7.16181 52.53 74.93
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 124.21568 7.16179 54.33 254.91
+OBJECT_SHARED Models/Misc/6barrels.ac 124.21364 7.16274 54.45 217.41
+OBJECT_SHARED Models/Misc/6barrels.ac 124.21363 7.16274 53.21 320.19
+OBJECT_SHARED Models/Misc/6barrels.ac 124.21363 7.16275 53.21 0
+OBJECT_SHARED Models/Misc/6barrels.ac 124.21364 7.16275 53.19 12.53
+OBJECT_SHARED Models/Misc/6barrels.ac 124.21362 7.16274 53.19 156.8
+OBJECT_SHARED Models/Misc/6barrels.ac 124.21361 7.16275 53.21 252.12
+OBJECT_SHARED Models/lib/SmHangar.ac 124.21363 7.16245 53.19 166.02
+OBJECT_SHARED Models/lib/SmHangar.ac 124.21369 7.16266 53.91 166.02
+OBJECT_SHARED Models/lib/SmHangar.ac 124.21366 7.16255 53.40 166.02
+OBJECT_SHARED Models/lib/stack_of_cones.ac 124.21556 7.16172 53.67 206.57
+OBJECT_SHARED Models/lib/stack_of_cones.ac 124.21557 7.16171 54.90 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21462 7.16190 54.94 337.38
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21582 7.16165 53.92 173.66
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21582 7.16168 55.17 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21587 7.16161 55.05 116.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21339 7.16258 55.32 105.26
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21343 7.16254 55.52 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21337 7.16250 55.80 216.87
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21397 7.16198 56.08 273.18
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21398 7.16192 55.03 201.8
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21391 7.16198 55.17 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21389 7.16192 55.03 239.04
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21438 7.16205 55.17 80.54
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21430 7.16181 54.87 200.56
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21420 7.16187 55.43 140.19
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21430 7.16188 55.29 71.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21424 7.16189 55.26 185.71
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21420 7.16190 55.24 244.49
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21444 7.16186 55.22 50.71
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21450 7.16193 55.31 135
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21457 7.16183 53.85 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21451 7.16183 54.10 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21454 7.16188 54.10 0
+# END dsf2stg

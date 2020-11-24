@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/jetway_e4m.ac -85.53497 10.60055 0.00 108
+OBJECT_SHARED Models/lib/fboModern1.ac -85.53865 10.59935 78.04 109.65
+OBJECT_SHARED Models/lib/jetway_e12m.ac -85.53484 10.60055 76.94 179.05
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -85.53756 10.59972 78.26 19.65
+# END dsf2stg

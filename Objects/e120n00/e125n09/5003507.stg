@@ -1,0 +1,51 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/schranke.ac 125.48287 9.76062 0.00 181.85
+OBJECT_SHARED Models/lib/transformer3x3.ac 125.48285 9.76056 10.69 270
+OBJECT_SHARED Models/lib/cars4.ac 125.48229 9.76098 10.68 1.34789
+OBJECT_SHARED Models/lib/cars10.ac 125.48230 9.76038 10.14 91.9225
+OBJECT_SHARED Models/Transport/hatchback_black.ac 125.48224 9.76026 10.05 185.782
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 125.48224 9.76048 10.03 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 125.48224 9.76053 10.07 181.061
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48257 9.76036 10.08 1.12329
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48230 9.76013 10.66 181.958
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48229 9.76042 10.01 182.161
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48228 9.76063 10.06 181.123
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48229 9.76026 10.09 1.57654
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48228 9.76052 10.03 2.23697
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48249 9.76005 10.08 -0.734528
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48242 9.76100 10.00 90
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48261 9.76056 10.14 1.25903
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48283 9.76057 10.68 -89.6995
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48222 9.76009 10.68 182.161
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48219 9.76066 10.01 178.727
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 125.48196 9.76067 10.10 270
+OBJECT_SHARED Models/lib/belt_loader.ac 125.48197 9.76073 10.10 90
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48195 9.76166 10.11 -0.477448
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48198 9.76081 10.22 0.481476
+OBJECT_SHARED Models/lib/lamp10m.xml 125.48200 9.76015 10.11 -12.8654
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 125.48266 9.76056 10.02 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48212 9.76112 10.68 85.2363
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48228 9.76116 10.15 290.807
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48220 9.76104 10.15 108.435
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48221 9.76111 10.14 100.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48225 9.76103 10.15 258.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48234 9.76074 10.14 211.483
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48239 9.76016 10.11 169.461
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48243 9.76028 10.02 222.672
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48236 9.76028 10.03 126.733
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48251 9.76012 10.03 46.8476
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48252 9.75999 10.61 84.2894
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48260 9.76010 10.58 64.0046
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48257 9.76044 10.60 76.1224
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48261 9.76039 10.68 72.3156
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48262 9.76030 10.67 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48263 9.76045 10.65 187.765
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48270 9.76047 10.68 48.3109
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48271 9.76068 10.67 188.616
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48277 9.76063 10.70 134.433
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48266 9.76063 10.69 219.226
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48260 9.76071 10.69 46.6365
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.48259 9.76064 10.70 129.936
+# END dsf2stg

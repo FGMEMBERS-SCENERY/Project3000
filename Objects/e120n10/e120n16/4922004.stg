@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac 120.61228 16.37405 1286.95 88.35
+OBJECT_SHARED Models/lib/schranke.ac 120.61297 16.37451 1287.07 284
+OBJECT_SHARED Models/lib/transformer3x3.ac 120.61295 16.37449 1286.74 275.44
+OBJECT_SHARED Models/lib/cube16x10.ac 120.61280 16.37453 1287.91 90.64
+OBJECT_SHARED Models/lib/lamp10m.xml 120.61272 16.37454 1286.70 179.37
+OBJECT_SHARED Models/Transport/hatchback_black.ac 120.61271 16.37447 1287.27 266.42
+OBJECT_SHARED Models/Transport/van_red.ac 120.61271 16.37449 1286.74 259.7
+OBJECT_SHARED Models/Transport/van_red.ac 120.61271 16.37451 1286.74 275.71
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.61219 16.37438 1285.72 104.04
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.61192 16.37442 1287.91 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.61243 16.37448 1288.04 206.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.62471 16.37479 1292.14 206.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.62463 16.37472 1292.07 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.62462 16.37476 1292.47 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.62487 16.37472 1292.07 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.62480 16.37474 1292.47 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.62498 16.37473 1292.47 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.62432 16.37475 1293.13 26.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.62442 16.37474 1291.51 222.51
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.62422 16.37473 1291.79 291.8
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.62405 16.37477 1291.79 206.56
+# END dsf2stg

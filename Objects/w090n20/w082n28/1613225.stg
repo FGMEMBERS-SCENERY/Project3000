@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -81.65145 28.73064 0.00 267.13
+OBJECT_SHARED Models/lib/hangar81x16.ac -81.65131 28.72931 25.02 90.91
+OBJECT_SHARED Models/lib/office4x14.ac -81.65106 28.72239 25.11 90.25
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.65107 28.72254 23.17 230.15
+OBJECT_SHARED Models/lib/shed8x10.ac -81.65096 28.72232 23.20 359.75
+# END dsf2stg

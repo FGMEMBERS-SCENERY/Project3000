@@ -1,12 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -76.99274 3.82030 0.00 7.12503
-OBJECT_SHARED Models/lib/lamp10m.xml -76.99275 3.82045 -0.00 6.34018
-OBJECT_SHARED Models/lib/lamp10m.xml -76.99277 3.82062 0.00 6.34021
-OBJECT_SHARED Models/lib/lamp10m.xml -76.99338 3.82026 0.00 180
-OBJECT_SHARED Models/lib/lamp10m.xml -76.99339 3.82042 0.00 180
-OBJECT_SHARED Models/lib/lamp10m.xml -76.99340 3.82057 0.00 180
-OBJECT_SHARED Models/lib/lamp10m.xml -76.99239 3.82030 0.00 135
-OBJECT_SHARED Models/lib/cube16x10.ac -76.99216 3.82029 0.00 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -76.99349 3.82099 0.00 143.077
+OBJECT_SHARED Models/Transport/hatchback_green.ac -76.99346 3.82099 15.79 149.959
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -76.99342 3.82099 15.79 148.047
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.99338 3.82099 15.81 151.29
+OBJECT_SHARED Models/Transport/hatchback_black.ac -76.99334 3.82100 15.81 145.776
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -76.99330 3.82100 15.86 153.123
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.99326 3.82100 15.86 147.936
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.99322 3.82100 15.86 151.174
+OBJECT_SHARED Models/Transport/hatchback_green.ac -76.99317 3.82101 15.89 152.679
+OBJECT_SHARED Models/Transport/hatchback_green.ac -76.99313 3.82101 15.91 149.171
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -76.99332 3.82090 15.94 273.746
+OBJECT_SHARED Models/Transport/van_silver.ac -76.99338 3.82090 15.62 271.848
+OBJECT_SHARED Models/Transport/van_red.ac -76.99344 3.82089 15.59 271.685
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99318 3.82097 15.57 -87.46
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99318 3.82097 15.57 92.5448
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99346 3.82095 15.81 -87.46
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99346 3.82095 15.81 92.5448
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.99217 3.82027 15.70 3.79
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99336 3.82071 15.43 93.48
+OBJECT_SHARED Models/lib/lamp10m.xml -76.99300 3.82073 15.13 93.48
 # END dsf2stg

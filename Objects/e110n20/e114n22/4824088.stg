@@ -1,23 +1,23 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 114.08702 22.43518 16.38 127.41
-OBJECT_SHARED Models/lib/office32x25.ac 114.08524 22.43566 15.02 250.26
-OBJECT_SHARED Models/lib/office32x25.ac 114.08831 22.43556 17.04 250.26
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08367 22.43342 14.84 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08365 22.43363 14.69 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08391 22.43362 14.69 334.49
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08436 22.43351 14.76 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08490 22.43348 15.62 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08514 22.43622 14.27 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08504 22.43606 14.21 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08489 22.43613 14.21 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08875 22.43323 19.95 315
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08850 22.43320 18.40 0
-OBJECT_SHARED Models/lib/MedHangar.ac 114.08663 22.43367 17.02 271.17
-OBJECT_SHARED Models/lib/MedHangar.ac 114.08812 22.43518 17.26 69.5
-OBJECT_SHARED Models/lib/SmHangar.ac 114.08534 22.43611 14.21 69.84
-OBJECT_SHARED Models/lib/SmHangar.ac 114.08552 22.43606 15.66 69.54
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 114.08702 22.43518 0.00 127.41
+OBJECT_SHARED Models/lib/office32x25.ac 114.08524 22.43566 16.38 250.26
+OBJECT_SHARED Models/lib/office32x25.ac 114.08831 22.43556 15.01 250.26
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08367 22.43342 17.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08365 22.43363 14.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08391 22.43362 14.75 334.49
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08436 22.43351 14.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08490 22.43348 14.80 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08514 22.43622 15.49 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08504 22.43606 14.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08489 22.43613 14.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08875 22.43323 14.64 315
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 114.08850 22.43320 19.96 0
+OBJECT_SHARED Models/lib/MedHangar.ac 114.08663 22.43367 18.40 271.17
+OBJECT_SHARED Models/lib/MedHangar.ac 114.08812 22.43518 17.03 69.5
+OBJECT_SHARED Models/lib/SmHangar.ac 114.08534 22.43611 17.26 69.84
+OBJECT_SHARED Models/lib/SmHangar.ac 114.08552 22.43606 14.64 69.54
 OBJECT_SHARED Models/lib/MedHangar.ac 114.08584 22.43592 15.65 68.71
-OBJECT_SHARED Models/lib/MedHangar.ac 114.08594 22.43366 16.12 269.47
+OBJECT_SHARED Models/lib/MedHangar.ac 114.08594 22.43366 15.64 269.47
 # END dsf2stg

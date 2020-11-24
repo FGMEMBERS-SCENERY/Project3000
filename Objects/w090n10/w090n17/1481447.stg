@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_silver.ac -89.04585 17.56558 0.00 289.82
+OBJECT_SHARED Models/lib/industrial13x24.ac -89.04588 17.56555 119.75 288.21
+OBJECT_SHARED Models/lib/garages22x9.ac -89.04592 17.56574 119.75 77.17
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04586 17.56587 118.73 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04589 17.56588 118.65 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04592 17.56588 118.65 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04595 17.56589 118.65 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04598 17.56590 118.61 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04601 17.56591 118.61 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04604 17.56591 118.61 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04607 17.56592 118.61 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04610 17.56593 118.56 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04577 17.56585 118.56 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04574 17.56584 118.70 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04571 17.56584 118.78 270
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04568 17.56583 118.78 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -89.04565 17.56582 118.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.04398 17.56533 118.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.04372 17.56526 118.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.04947 17.56668 119.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.04763 17.56619 119.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.04817 17.56632 117.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.04535 17.56564 115.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.04455 17.56547 119.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.04411 17.56537 118.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.04277 17.56501 118.85 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.04358 17.56525 120.94 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.04440 17.56544 119.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.04499 17.56557 118.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.04622 17.56570 119.32 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.04636 17.56589 119.02 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.04789 17.56625 118.96 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.04830 17.56635 116.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.04959 17.56671 115.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.05014 17.56685 119.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.05029 17.56689 119.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.04972 17.56676 118.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.04776 17.56623 119.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.04804 17.56629 116.61 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.04293 17.56505 116.10 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.04384 17.56530 121.13 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.04427 17.56539 119.40 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.04486 17.56554 118.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.04523 17.56562 119.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.04651 17.56593 119.57 0
+OBJECT_SHARED Models/lib/SmHangar.ac -89.04594 17.56598 118.84 164.78
+# END dsf2stg

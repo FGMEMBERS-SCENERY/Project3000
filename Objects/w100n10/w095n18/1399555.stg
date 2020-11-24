@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParking.xml -94.57800 18.10195 0.00 73.76
+OBJECT_SHARED Models/lib/RampGroup.xml -94.57771 18.10244 14.80 73.79
+OBJECT_SHARED Models/lib/RampParking.xml -94.57774 18.10273 14.73 73.4
+OBJECT_SHARED Models/lib/RampGroup.xml -94.57743 18.10324 14.52 72.93
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -94.57722 18.10309 14.37 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -94.57735 18.10133 13.83 71.3721
+OBJECT_SHARED Models/lib/lamp10m.xml -94.57835 18.10023 14.69 -15.73
+OBJECT_SHARED Models/lib/lamp10m.xml -94.57820 18.10066 14.22 -15.73
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -94.57789 18.10236 15.21 73.76
+OBJECT_SHARED Models/lib/lamp10m.xml -94.57737 18.10305 14.58 -17.84
+OBJECT_SHARED Models/lib/lamp10m.xml -94.57754 18.10255 14.52 -17.84
+OBJECT_SHARED Models/lib/lamp10m.xml -94.57768 18.10218 14.60 -17.84
+OBJECT_SHARED Models/lib/lamp10m.xml -94.57780 18.10178 14.85 -17.84
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -94.57737 18.10305 15.02 117.78
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -94.57754 18.10255 14.52 117.78
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -94.57768 18.10218 14.60 117.78
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -94.57780 18.10178 14.85 117.78
+OBJECT_SHARED Models/lib/LongRow.ac -94.57753 18.10123 15.02 71.7737
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -94.57786 18.10175 14.29 344.261
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -94.57786 18.10176 15.00 163.74
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -94.57787 18.10181 14.94 344.911
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -94.57780 18.10296 14.94 310.775
+OBJECT_SHARED Models/lib/caisses_group.ac -94.57803 18.10218 14.23 165.477
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -94.57783 18.10183 14.63 339.026
+OBJECT_SHARED Models/lib/loader.ac -94.57786 18.10190 15.02 166.003
+OBJECT_SHARED Models/lib/belt_loader.ac -94.57782 18.10186 14.88 -17.6848
+OBJECT_SHARED Models/lib/office32x25n.ac -94.57886 18.09580 14.96 161.134
+OBJECT_SHARED Models/lib/cube16x10.ac -94.57879 18.09638 18.96 72.6809
+OBJECT_SHARED Models/lib/FireStationLg.ac -94.57934 18.09581 18.73 161.444
+# END dsf2stg

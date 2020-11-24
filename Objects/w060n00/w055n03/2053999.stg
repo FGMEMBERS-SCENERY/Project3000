@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -54.03658 3.65638 0.00 304.8
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -54.03695 3.65610 113.04 32.99
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -54.03640 3.65593 113.01 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -54.03647 3.65622 112.93 307.03
+# END dsf2stg

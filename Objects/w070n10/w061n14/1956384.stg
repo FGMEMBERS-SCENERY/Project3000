@@ -1,6 +1,37 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -60.99970 14.59052 5.54 282.8
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -60.99984 14.59051 5.54 289.98
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99417 14.59483 7.66 -47.89
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99445 14.59478 7.07 260.82
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99458 14.59486 7.03 -78.94
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99483 14.59492 7.08 200.27
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99501 14.59465 7.05 167.37
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99574 14.59456 6.38 50.3
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99652 14.59477 6.84 -7.64999
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99571 14.59569 6.88 243.18
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99661 14.59552 7.41 -75.99
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99714 14.59542 7.24 -75.99
+OBJECT_SHARED Models/lib/lamp10m.xml -60.99798 14.59525 7.16 -64.81
+OBJECT_SHARED Models/lib/loader.ac -60.99699 14.59469 6.94 10.1
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -60.99677 14.59491 6.82 279.56
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -60.99709 14.59479 6.91 174.53
+OBJECT_SHARED Models/lib/caisses_group.ac -60.99843 14.59466 6.86 147.45
+OBJECT_SHARED Models/lib/HorizTanks2.ac -60.99842 14.59519 6.78 100.54
+OBJECT_SHARED Models/lib/HorizTanks2.ac -60.99852 14.59518 7.01 100.54
+OBJECT_SHARED Models/lib/HorizTanks2.ac -60.99862 14.59516 7.01 100.54
+OBJECT_SHARED Models/lib/fuel-truck.xml -60.99595 14.59482 8.14 276.71
+OBJECT_SHARED Models/lib/fuel-truck.xml -60.99710 14.59540 6.91 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -60.99827 14.59512 7.16 45.25
+OBJECT_SHARED Models/lib/fuel-truck.xml -60.99862 14.59506 6.97 350.54
+OBJECT_SHARED Models/lib/JetWayWallBase.ac -60.99911 14.59492 7.14 6.48
+OBJECT_SHARED Models/lib/SmHangar.ac -60.99612 14.59478 6.72 99.03
+OBJECT_SHARED Models/lib/SmHangar.ac -60.99426 14.59506 6.91 99.03
+OBJECT_SHARED Models/lib/SmHangar.ac -60.99445 14.59503 7.21 100.1
+OBJECT_SHARED Models/lib/SmHangar.ac -60.99468 14.59499 7.13 100.32
+OBJECT_SHARED Models/lib/SmHangar.ac -60.99478 14.59498 7.11 99.03
+OBJECT_SHARED Models/lib/LongRow.ac -60.99583 14.59489 7.10 8.42
+OBJECT_SHARED Models/lib/office32x25.ac -60.99778 14.59543 6.58 281.38
+OBJECT_SHARED Models/lib/MedHangar.ac -60.99594 14.59563 7.13 101.94
+OBJECT_SHARED Models/lib/MedHangar.ac -60.99682 14.59546 7.33 101.94
+OBJECT_SHARED Models/lib/MedHangar.ac -60.99736 14.59535 6.56 101.94
 # END dsf2stg

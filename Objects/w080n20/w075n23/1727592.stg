@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -74.83055 23.68222 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -74.83130 23.68224 4.61 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -74.83004 23.68229 3.16 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -74.83003 23.68241 4.79 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -74.82954 23.68236 4.85 87.3974
+OBJECT_SHARED Models/lib/cars6.ac -74.82975 23.68269 4.62 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -74.83000 23.68235 4.31 270
+OBJECT_SHARED Models/lib/transformer3x3.ac -74.83000 23.68233 4.79 270
+OBJECT_SHARED Models/lib/transformer3x3.ac -74.83002 23.68235 4.79 90
+OBJECT_SHARED Models/lib/transformer3x3.ac -74.83002 23.68232 4.79 270
+# END dsf2stg

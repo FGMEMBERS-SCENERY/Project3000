@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -80.65344 28.58486 0.00 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -80.65303 28.58454 0.99 180
+OBJECT_SHARED Models/Airport/egkk_oil.xml -80.65309 28.58484 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -80.65373 28.58474 0.99 270
+OBJECT_SHARED Models/lib/office65x50.ac -80.67663 28.59835 0.99 257.65
+OBJECT_SHARED Models/lib/office32x25.ac -80.67870 28.59993 0.81 210.69
+OBJECT_SHARED Models/Airport/egkk_oil.xml -80.60027 28.61041 0.83 325.01
+OBJECT_SHARED Models/Airport/egkk_oil.xml -80.60812 28.61060 1.09 159.36
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -80.60786 28.61060 -94.01 278.75
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -80.60779 28.61073 -94.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -80.60794 28.61080 -94.01 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -80.59983 28.61042 -94.01 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -80.59993 28.61051 -93.91 291.8
+OBJECT_SHARED Models/lib/cars14.ac -80.60439 28.60192 1.09 232.53
+OBJECT_SHARED Models/lib/cars14.ac -80.60438 28.60190 1.16 51.82
+OBJECT_SHARED Models/lib/cars14.ac -80.60394 28.60224 1.16 145.28
+OBJECT_SHARED Models/lib/cars14.ac -80.60366 28.60258 1.17 145.28
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -80.60315 28.60938 1.18 0
+OBJECT_SHARED Models/lib/cars14.ac -80.60384 28.60188 1.07 325.56
+OBJECT_SHARED Models/lib/cars14.ac -80.60357 28.60223 1.17 325.56
+OBJECT_SHARED Models/lib/cars14.ac -80.60330 28.60259 1.18 325.56
+OBJECT_SHARED Models/lib/MedHangar.ac -80.60437 28.60165 1.18 235.25
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -80.67914 28.60052 0.83 34.69
+OBJECT_SHARED Models/lib/cars14.ac -80.67828 28.59900 0.84 75.17
+OBJECT_SHARED Models/lib/cars14.ac -80.67844 28.60016 0.82 32.31
+OBJECT_SHARED Models/lib/cars14.ac -80.67814 28.59832 1.00 345.02
+OBJECT_SHARED Models/lib/cars14.ac -80.67849 28.60021 0.81 211.73
+OBJECT_SHARED Models/lib/cars14.ac -80.67812 28.59833 0.83 166.06
+OBJECT_SHARED Models/lib/cars14.ac -80.67741 28.59819 0.81 168.15
+OBJECT_SHARED Models/lib/cars14.ac -80.67595 28.59833 0.81 77.56
+OBJECT_SHARED Models/lib/cars14.ac -80.67660 28.59845 0.81 78.54
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.68062 28.59763 1.31 0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -80.67896 28.60073 0.82 163.69
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -80.67910 28.60045 0.84 76.64
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -80.67933 28.60077 0.84 256.22
+OBJECT_SHARED Models/lib/lamp10m.xml -80.67872 28.59960 0.85 30.34
+OBJECT_SHARED Models/lib/lamp10m.xml -80.67881 28.59973 0.83 28.72
+OBJECT_SHARED Models/lib/lamp10m.xml -80.67888 28.59983 0.83 27.47
+OBJECT_SHARED Models/lib/lamp10m.xml -80.67897 28.59995 0.83 30.4
+OBJECT_SHARED Models/lib/lamp10m.xml -80.67904 28.60006 0.83 26.16
+# END dsf2stg

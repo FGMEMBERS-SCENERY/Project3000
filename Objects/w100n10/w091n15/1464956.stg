@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -90.44672 15.99107 0.00 92
+OBJECT_SHARED Models/Airport/cargobox.xml -90.44702 15.99144 141.93 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.44703 15.99128 141.31 183
+OBJECT_SHARED Models/lib/industrial13x24.ac -90.44689 15.99144 141.37 271.64
+# END dsf2stg

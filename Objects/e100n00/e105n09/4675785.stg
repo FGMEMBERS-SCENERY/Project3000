@@ -1,24 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/admin31x12.ac 105.17669 9.17593 1.10 276.827
-OBJECT_SHARED Models/lib/lamp10m.xml 105.17656 9.17609 0.94 49.9628
-OBJECT_SHARED Models/lib/lamp10m.xml 105.17617 9.17599 1.20 35.5562
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac 105.17609 9.17582 1.42 14.4145
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 105.17576 9.17583 1.41 185.005
-OBJECT_SHARED Models/Airport/cargoip.xml 105.17646 9.17597 1.22 226.975
-OBJECT_SHARED Models/Airport/cargoip.xml 105.17550 9.17611 1.06 0
-OBJECT_SHARED Models/lib/loader.ac 105.17608 9.17567 1.61 -29.7406
-OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 105.17612 9.17585 1.38 88.7554
-OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 105.17612 9.17590 1.31 90.6437
-OBJECT_SHARED Models/lib/belt_loader.ac 105.17555 9.17611 1.06 -1.78064
-OBJECT_SHARED Models/lib/cargo-container1-HD.ac 105.17547 9.17612 1.35 337.521
-OBJECT_SHARED Models/lib/stack_of_cones.ac 105.17603 9.17607 1.09 233.643
-OBJECT_SHARED Models/lib/propane-tank.ac 105.17142 9.17628 2.32 173.109
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 105.17598 9.17596 1.24 268.409
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 105.17613 9.17566 1.62 39.9204
-OBJECT_SHARED Models/lib/lamp10m.xml 105.17540 9.17609 1.31 306.738
-OBJECT_SHARED Models/lib/MedHangar.ac 105.17582 9.17610 1.06 269.138
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 105.17618 9.17609 1.07 270
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 105.17646 9.17614 1.05 225
+OBJECT_SHARED Models/lib/admin31x12.ac 105.17669 9.17593 0.00 276.827
+OBJECT_SHARED Models/lib/lamp10m.xml 105.17656 9.17609 0.20 49.9628
+OBJECT_SHARED Models/lib/lamp10m.xml 105.17617 9.17599 0.02 35.5562
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 105.17609 9.17582 1.20 14.4145
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 105.17576 9.17583 1.42 185.005
+OBJECT_SHARED Models/Airport/cargoip.xml 105.17646 9.17597 1.41 226.975
+OBJECT_SHARED Models/Airport/cargoip.xml 105.17550 9.17611 1.22 0
+OBJECT_SHARED Models/lib/loader.ac 105.17608 9.17567 1.06 -29.7406
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 105.17612 9.17585 1.61 88.7554
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 105.17612 9.17590 1.38 90.6437
+OBJECT_SHARED Models/lib/belt_loader.ac 105.17555 9.17611 1.31 -1.78064
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 105.17547 9.17612 1.06 337.521
+OBJECT_SHARED Models/lib/stack_of_cones.ac 105.17603 9.17607 1.20 233.643
+OBJECT_SHARED Models/lib/propane-tank.ac 105.17142 9.17628 1.09 173.109
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 105.17598 9.17596 2.22 268.409
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 105.17613 9.17566 1.24 39.9204
+OBJECT_SHARED Models/lib/lamp10m.xml 105.17540 9.17609 1.62 306.738
+OBJECT_SHARED Models/lib/MedHangar.ac 105.17582 9.17610 1.19 269.138
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 105.17618 9.17609 1.06 270
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 105.17646 9.17614 1.07 225
 # END dsf2stg

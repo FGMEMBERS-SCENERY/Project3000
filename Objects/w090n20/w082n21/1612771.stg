@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -81.55482 21.62311 4.06 0
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -81.55340 21.62243 4.41 180
-OBJECT_SHARED Models/lib/fuel-truck.xml -81.55299 21.62221 4.54 242.86
-OBJECT_SHARED Models/lib/fuel-truck.xml -81.55301 21.62229 4.52 242.86
-OBJECT_SHARED Models/lib/lamp10m.xml -81.55340 21.62254 4.39 63.31
-OBJECT_SHARED Models/lib/lamp10m.xml -81.55396 21.62286 4.21 63.31
-OBJECT_SHARED Models/lib/lamp10m.xml -81.55431 21.62303 4.14 63.31
-OBJECT_SHARED Models/lib/lamp10m.xml -81.55461 21.62318 4.06 63.31
-OBJECT_SHARED Models/lib/lamp10m.xml -81.55485 21.62329 4.02 63.31
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.55319 21.62190 4.57 282.31
-OBJECT_SHARED Models/lib/office32x25.ac -81.55347 21.62287 4.26 244.32
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -81.55511 21.62395 3.85 152.01
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -81.55482 21.62311 0.00 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -81.55340 21.62243 4.06 180
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.55299 21.62221 4.41 242.86
+OBJECT_SHARED Models/lib/fuel-truck.xml -81.55301 21.62229 4.54 242.86
+OBJECT_SHARED Models/lib/lamp10m.xml -81.55340 21.62254 4.51 63.31
+OBJECT_SHARED Models/lib/lamp10m.xml -81.55396 21.62286 4.39 63.31
+OBJECT_SHARED Models/lib/lamp10m.xml -81.55431 21.62303 4.20 63.31
+OBJECT_SHARED Models/lib/lamp10m.xml -81.55461 21.62318 4.14 63.31
+OBJECT_SHARED Models/lib/lamp10m.xml -81.55485 21.62329 4.07 63.31
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -81.55319 21.62190 4.02 282.31
+OBJECT_SHARED Models/lib/office32x25.ac -81.55347 21.62287 4.57 244.32
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -81.55511 21.62395 4.26 152.01
 # END dsf2stg

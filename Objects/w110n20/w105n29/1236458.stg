@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -104.35923 29.63354 0.00 91.9
+OBJECT_SHARED Models/lib/lamp10m.xml -104.35877 29.63355 888.78 91.99
+OBJECT_SHARED Models/lib/lamp10m.xml -104.35960 29.63336 888.78 -88.82
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -104.35988 29.63310 889.26 332.7
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -104.35989 29.63311 888.93 0
+OBJECT_SHARED Models/lib/SmHangar.ac -104.35995 29.63321 888.93 0.709999
+OBJECT_SHARED Models/lib/HorizTanks2.ac -104.36039 29.63311 889.04 274.29
+OBJECT_SHARED Models/lib/SmHangar.ac -104.35966 29.63318 888.93 90.37
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -104.35968 29.63346 889.04 60.62
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -104.35968 29.63341 889.36 35.54
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -104.35979 29.63290 889.26 1.20605
+# END dsf2stg

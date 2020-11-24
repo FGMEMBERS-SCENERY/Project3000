@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -100.52489 28.85963 0.00 359.38
+OBJECT_SHARED Models/lib/prop_a.ac -100.52433 28.86044 266.38 270
+OBJECT_SHARED Models/lib/shed8x10.ac -100.52599 28.86179 267.68 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -100.52480 28.86042 266.81 179.26
+OBJECT_SHARED Models/lib/cars6.ac -100.52549 28.86004 266.84 269.8
+OBJECT_SHARED Models/lib/6space_wStop.ac -100.52549 28.85978 266.61 0.419998
+OBJECT_SHARED Models/lib/6space_wStop.ac -100.52574 28.85975 266.49 179.32
+OBJECT_SHARED Models/lib/cars6.ac -100.52574 28.85985 265.60 90
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -100.52676 28.86016 265.65 0
+OBJECT_SHARED Models/lib/cars4.ac -100.52630 28.86190 265.28 269.48
+OBJECT_SHARED Models/lib/watertank3x1.ac -100.52502 28.86140 266.87 270
+OBJECT_SHARED Models/lib/watertank3x1.ac -100.52501 28.86143 267.42 271.17
+OBJECT_SHARED Models/lib/watertank3x1.ac -100.52500 28.86146 267.42 271.55
+OBJECT_SHARED Models/lib/cars4.ac -100.52556 28.86190 267.48 179.29
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.52518 28.86208 266.87 252.47
+OBJECT_SHARED Models/lib/cars2.ac -100.52433 28.85819 267.75 181.01
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.52615 28.86132 266.41 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.52614 28.86141 266.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.52626 28.86145 266.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.52642 28.86202 266.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.52637 28.86212 266.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.52614 28.86211 266.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.52603 28.86206 266.99 0
+# END dsf2stg

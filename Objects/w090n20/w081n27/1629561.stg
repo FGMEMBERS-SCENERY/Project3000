@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -80.56185 27.96308 0.00 0
+OBJECT_SHARED Models/lib/prop_a.ac -80.56396 27.96149 6.59 225
+OBJECT_SHARED Models/lib/prop_a.ac -80.56551 27.96039 5.93 316.4
+OBJECT_SHARED Models/lib/prop_a.ac -80.56383 27.96039 5.43 229.64
+OBJECT_SHARED Models/lib/prop_a.ac -80.56279 27.96135 5.78 135.39
+OBJECT_SHARED Models/lib/prop_a.ac -80.56235 27.96168 6.19 315
+OBJECT_SHARED Models/lib/prop_a.ac -80.56205 27.96197 6.35 315.78
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -80.56467 27.96164 6.45 129.81
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -80.56532 27.96103 5.73 129.09
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -80.56529 27.96058 5.51 315
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -80.56459 27.96036 5.48 51.55
+OBJECT_SHARED Models/Transport/hatchback_red.ac -80.56116 27.96327 5.63 56
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.56093 27.96346 6.77 133.14
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.56496 27.96298 6.81 270.78
+OBJECT_SHARED Models/Transport/van_red.ac -80.56331 27.96158 5.62 249.78
+OBJECT_SHARED Models/Transport/van_red.ac -80.56378 27.96152 6.12 135
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.56449 27.96052 5.98 224.03
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -80.56459 27.96043 5.67 226.97
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -80.56454 27.96044 5.63 316.53
+OBJECT_SHARED Models/lib/LongRow.ac -80.56499 27.96102 5.64 225.62
+OBJECT_SHARED Models/lib/LongRow.ac -80.56429 27.96170 5.58 227.99
+OBJECT_SHARED Models/lib/LongRow.ac -80.56463 27.96079 5.86 226.62
+OBJECT_SHARED Models/lib/LongRow.ac -80.56405 27.96134 5.67 226.62
+OBJECT_SHARED Models/lib/LongRow.ac -80.56363 27.96111 5.89 227.26
+OBJECT_SHARED Models/lib/LongRow.ac -80.56321 27.96098 5.96 227.4
+OBJECT_SHARED Models/lib/MedHangar.ac -80.56203 27.96240 6.02 136.07
+OBJECT_SHARED Models/lib/SmHangar.ac -80.56076 27.96351 6.55 134.84
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -80.56084 27.96388 6.82 227.53
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -80.56077 27.96381 6.83 227.53
+# END dsf2stg

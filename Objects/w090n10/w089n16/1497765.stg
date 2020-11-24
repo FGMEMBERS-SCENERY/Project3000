@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -88.36168 16.53734 0.00 0
+OBJECT_SHARED Models/Transport/van_red.ac -88.36138 16.53753 5.30 270.623
+OBJECT_SHARED Models/Transport/hatchback_black.ac -88.36137 16.53756 5.30 271.629
+OBJECT_SHARED Models/Transport/hatchback_black.ac -88.36137 16.53759 5.25 270.579
+OBJECT_SHARED Models/Transport/hatchback_red.ac -88.36138 16.53762 5.25 270
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -88.36170 16.53734 5.25 328.09
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -88.36136 16.53737 5.30 1.04001
+OBJECT_SHARED Models/lib/SmHangar.ac -88.36106 16.53741 5.34 97.36
+OBJECT_SHARED Models/lib/office4x14.ac -88.36098 16.53749 5.44 7.59
+# END dsf2stg

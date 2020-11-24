@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -97.77313 23.79299 0.00 280.4
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.77284 23.79300 4.47 34.33
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.77287 23.79300 4.40 11.75
+OBJECT_SHARED Models/Transport/hatchback_red.ac -97.77303 23.79348 4.43 262.4
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.77302 23.79345 4.51 280.56
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.77290 23.79299 4.50 11.75
+OBJECT_SHARED Models/Transport/Norberttruck.xml -97.77309 23.79325 4.43 12.53
+OBJECT_SHARED Models/lib/coal_pile.ac -97.77308 23.79306 4.50 90
+OBJECT_SHARED Models/lib/office16x4n.ac -97.77330 23.79308 4.47 186
+OBJECT_SHARED Models/lib/prop_a.ac -97.77295 23.79475 4.50 12.049
+# END dsf2stg

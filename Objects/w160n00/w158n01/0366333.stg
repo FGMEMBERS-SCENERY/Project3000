@@ -1,8 +1,0 @@
-# dsf2stg
-# do not edit below this line
-#
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -157.35625 1.98351 4.70 36.1193
-OBJECT_SHARED Models/lib/RampGroup.xml -157.35550 1.98391 4.73 38.6598
-OBJECT_SHARED Models/lib/fuel-truck.xml -157.35501 1.98401 4.54 297.646
-OBJECT_SHARED Models/lib/chariot3curve.ac -157.35614 1.98330 4.68 192.559
-# END dsf2stg

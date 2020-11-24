@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -7.59265 7.26999 0.00 69.2
+OBJECT_SHARED Models/lib/shed8x10.ac -7.59243 7.27030 330.75 69.2
+OBJECT_SHARED Models/lib/shed8x10.ac -7.59251 7.27010 330.78 69.2
+OBJECT_SHARED Models/lib/shed8x10.ac -7.59259 7.27014 330.77 69.2
+OBJECT_SHARED Models/lib/HorizTanks2.ac -7.59194 7.27152 330.86 66.2948
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -7.59153 7.27290 330.75 154.323
+OBJECT_SHARED Models/lib/garden-shed.ac -7.59149 7.27289 328.98 67.1664
+OBJECT_SHARED Models/lib/shed8x10.ac -7.59062 7.27289 328.73 65.5561
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -7.58987 7.27190 321.84 245.5
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -7.58991 7.27191 321.99 245.5
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -7.58985 7.27194 322.25 245.5
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -7.58989 7.27196 321.59 245.5
+OBJECT_SHARED Models/lib/cars6.ac -7.59064 7.27228 321.78 158.199
+OBJECT_SHARED Models/Transport/hatchback_black.ac -7.58999 7.27260 325.75 246.038
+OBJECT_SHARED Models/lib/watertank3x1.ac -7.58997 7.27306 319.44 65.556
+OBJECT_SHARED Models/lib/cars4.ac -7.59018 7.27255 319.81 244.735
+OBJECT_SHARED Models/lib/lamp10m.xml -7.58997 7.27220 320.44 0
+OBJECT_SHARED Models/lib/lamp10m.xml -7.59009 7.27195 320.94 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -7.59028 7.27155 323.43 150.069
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -7.59029 7.27156 326.55 147.381
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -7.58989 7.27231 326.59 315
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -7.58991 7.27228 319.83 315
+OBJECT_SHARED Models/lib/shed8x10.ac -7.59027 7.27075 319.97 77.9052
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -7.58998 7.27085 325.73 78.3074
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -7.59004 7.27071 325.09 257.668
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -7.59013 7.27073 325.10 257.668
+# END dsf2stg

@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -74.41021 6.46267 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -74.41002 6.46260 108.81 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -74.40997 6.46233 108.67 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -74.41031 6.46343 108.71 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -74.41022 6.46333 108.78 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -74.41262 6.46280 108.72 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -74.41062 6.46484 107.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.41229 6.46509 108.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.41224 6.46387 108.93 43.2
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.41232 6.46392 108.85 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -74.41218 6.46493 108.77 183.44
+OBJECT_SHARED Models/Transport/hatchback_black.ac -74.41238 6.46419 108.98 97.96
+OBJECT_SHARED Models/lib/6space_wStop.ac -74.41236 6.46421 108.72 8
+OBJECT_SHARED Models/lib/stack_of_cones.ac -74.41228 6.46424 108.73 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -74.41227 6.46440 108.82 177.83
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -74.41231 6.46399 108.86 188.23
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -74.41225 6.46400 108.78 0
+# END dsf2stg

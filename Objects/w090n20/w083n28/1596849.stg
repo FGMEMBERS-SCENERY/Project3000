@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.57814 28.87113 0.00 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.57805 28.87135 2.02 7.125
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.57806 28.87127 2.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.57812 28.87118 2.00 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.57811 28.87126 2.01 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.57811 28.87132 2.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.57810 28.87138 2.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.57804 28.87138 2.00 153.435
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.57805 28.87144 2.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.57808 28.87146 2.00 0
+OBJECT_SHARED Models/lib/prop_a.ac -82.57703 28.87078 1.99 154.654
+OBJECT_SHARED Models/lib/prop_a.ac -82.57744 28.87006 2.09 129.805
+OBJECT_SHARED Models/lib/prop_a.ac -82.57839 28.86962 2.16 0
+OBJECT_SHARED Models/lib/prop_a.ac -82.57645 28.86926 2.11 260.838
+OBJECT_SHARED Models/lib/prop_a.ac -82.57836 28.87024 2.35 3.36648
+OBJECT_SHARED Models/lib/prop_a.ac -82.57836 28.87049 2.07 0
+OBJECT_SHARED Models/lib/prop_a.ac -82.57834 28.87073 2.05 0
+OBJECT_SHARED Models/lib/prop_a.ac -82.57847 28.87031 2.04 181.848
+OBJECT_SHARED Models/lib/MedHangar.ac -82.57735 28.86987 2.05 0
+OBJECT_SHARED Models/lib/LongRow.ac -82.57769 28.87061 2.19 0.910004
+OBJECT_SHARED Models/lib/LongRow.ac -82.57769 28.87028 2.08 0.599998
+OBJECT_SHARED Models/lib/LongRow.ac -82.57664 28.86912 2.11 359.53
+OBJECT_SHARED Models/lib/MedHangar.ac -82.57348 28.86842 2.37 179.77
+OBJECT_SHARED Models/lib/fboModern1.ac -82.57753 28.87120 2.54 170.658
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.57714 28.87101 2.03 88.03
+# END dsf2stg

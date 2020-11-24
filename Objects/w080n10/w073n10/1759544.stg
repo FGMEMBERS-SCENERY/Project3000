@@ -1,6 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -72.89934 10.88770 210.03 65.4431
-OBJECT_SHARED Models/lib/lamp10m.xml -72.89929 10.88781 210.09 68.1985
+OBJECT_SHARED Models/lib/lamp10m.xml -72.89934 10.88770 0.00 65.44
+OBJECT_SHARED Models/lib/lamp10m.xml -72.89929 10.88781 210.03 68.2
+OBJECT_SHARED Models/lib/SmHangar.ac -72.89958 10.88730 210.09 333.452
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -72.89916 10.88681 210.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac -72.89949 10.88749 210.49 333.579
 # END dsf2stg

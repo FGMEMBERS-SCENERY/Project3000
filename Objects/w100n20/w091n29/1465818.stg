@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -90.26447 29.44616 0.00 180
+OBJECT_SHARED Models/lib/MedHangar.ac -90.26446 29.44681 1.00 180
+OBJECT_SHARED Models/lib/MedHangar.ac -90.26427 29.44720 1.00 90
+OBJECT_SHARED Models/lib/fboModern1.ac -90.26391 29.44378 1.00 180
+OBJECT_SHARED Models/lib/office32x25n.ac -90.26545 29.43679 1.00 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.26390 29.44333 1.00 180
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.26390 29.44342 1.00 180
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.26509 29.43729 1.00 180
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.26509 29.43737 1.00 180
+OBJECT_SHARED Models/lib/LgMaint.ac -90.26503 29.43796 1.00 180
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26804 29.44526 1.00 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26809 29.44696 1.00 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26813 29.44867 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26813 29.45044 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26965 29.44525 0.98 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26969 29.44696 1.00 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26974 29.44866 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26974 29.45043 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.27129 29.44525 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.27134 29.44695 1.01 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.27138 29.44865 1.00 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.27138 29.45043 1.00 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26719 29.45393 1.00 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26898 29.45396 0.98 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26897 29.45239 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.27056 29.45223 0.98 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.27083 29.45321 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.27060 29.45420 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26719 29.45555 1.00 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26840 29.45555 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.26964 29.45550 0.99 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -90.27087 29.45549 1.00 0
+# END dsf2stg

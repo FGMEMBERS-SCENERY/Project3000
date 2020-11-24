@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -95.09033 16.43826 0.00 197.92
+OBJECT_SHARED Models/lib/lamp10m.xml -95.08985 16.43825 23.27 18.43
+OBJECT_SHARED Models/lib/lamp10m.xml -95.08994 16.43839 23.41 20.71
+OBJECT_SHARED Models/lib/lamp10m.xml -95.09012 16.43815 23.36 198.21
+OBJECT_SHARED Models/lib/lamp10m.xml -95.09036 16.43842 23.38 199.84
+OBJECT_SHARED Models/lib/lamp10m.xml -95.09006 16.43853 23.28 17.33
+OBJECT_SHARED Models/lib/SmHangar.ac -95.09088 16.44831 23.25 0
+OBJECT_SHARED Models/lib/FireStationLg.ac -95.08979 16.44550 26.96 90
+OBJECT_SHARED Models/lib/cube16x10.ac -95.09157 16.43942 25.32 270
+OBJECT_SHARED Models/lib/office32x25.ac -95.08988 16.44508 23.90 90
+OBJECT_SHARED Models/lib/RampGroup.xml -95.09062 16.43905 25.60 90
+OBJECT_SHARED Models/lib/RampGroup.xml -95.09062 16.43946 24.25 90
+OBJECT_SHARED Models/lib/fboModern1.ac -95.09126 16.45608 23.97 90
+OBJECT_SHARED Models/lib/fboModern1.ac -95.09084 16.45544 27.61 0
+OBJECT_SHARED Models/lib/4space_wStop.ac -95.09062 16.44591 28.13 0
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -95.08858 16.44509 27.01 0
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -95.08859 16.44546 24.44 180
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -95.09064 16.43979 24.60 90
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -95.09069 16.43980 24.30 90
+OBJECT_SHARED Models/Airport/cargoim.xml -95.09070 16.43985 24.39 0
+OBJECT_SHARED Models/Airport/cargobox.xml -95.09083 16.43981 24.39 0
+OBJECT_SHARED Models/Airport/cargobox.xml -95.09082 16.43983 24.40 0
+OBJECT_SHARED Models/Airport/cargobox.xml -95.09099 16.43981 24.40 0
+OBJECT_SHARED Models/Airport/cargobox.xml -95.09094 16.43982 24.38 0
+OBJECT_SHARED Models/Airport/cargoip.xml -95.09108 16.43979 24.38 0
+OBJECT_SHARED Models/Airport/cargoip.xml -95.09114 16.43980 24.31 0
+OBJECT_SHARED Models/Airport/cargoip.xml -95.09113 16.43984 24.31 0
+OBJECT_SHARED Models/Airport/cargoip.xml -95.09111 16.43982 24.31 0
+OBJECT_SHARED Models/lib/container6-HD.ac -95.09123 16.43981 24.31 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -95.08865 16.44577 24.20 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -95.08865 16.44592 24.93 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -95.09078 16.43965 25.04 90
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -95.09066 16.43990 24.25 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -95.09096 16.43990 24.45 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -95.09123 16.43991 24.40 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -95.09061 16.43894 24.17 135
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -95.09061 16.43935 24.32 135
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -95.09061 16.43965 23.99 135
+OBJECT_SHARED Models/lib/admin31x12.ac -95.09041 16.43941 24.19 90
+# END dsf2stg

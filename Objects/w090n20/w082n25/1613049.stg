@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -81.67503 25.99882 0.00 192.65
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.67480 25.99881 1.00 103.27
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.67484 25.99880 1.00 103.27
+OBJECT_SHARED Models/lib/LongRow.ac -81.67534 25.99949 1.00 12.87
+OBJECT_SHARED Models/lib/LongRow.ac -81.67526 25.99915 1.00 12.87
+# END dsf2stg

@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac -80.69154 26.78875 0.00 6.37
+OBJECT_SHARED Models/lib/LongRow.ac -80.69231 26.78933 3.48 96.08
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -80.69120 26.78824 3.71 5.65
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -80.69092 26.78823 -91.63 2
+# END dsf2stg

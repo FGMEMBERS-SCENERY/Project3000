@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac 120.60390 13.21252 0.00 286.05
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 120.60389 13.21175 6.12 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 120.60437 13.21294 5.82 194.83
+OBJECT_SHARED Models/lib/shed8x10.ac 120.60415 13.21127 6.20 290.34
+OBJECT_SHARED Models/lib/lamp10m.xml 120.60390 13.21160 5.62 197.57
+OBJECT_SHARED Models/lib/lamp10m.xml 120.60382 13.21189 5.77 192.68
+OBJECT_SHARED Models/lib/lamp10m.xml 120.60423 13.21168 5.91 195.95
+OBJECT_SHARED Models/lib/lamp10m.xml 120.60417 13.21199 5.82 193.17
+OBJECT_SHARED Models/lib/prop_a.ac 120.60422 13.21193 5.95 14.47
+OBJECT_SHARED Models/lib/prop_a.ac 120.60437 13.21154 5.91 15.62
+OBJECT_SHARED Models/lib/prop_a.ac 120.60434 13.21165 5.71 14.51
+OBJECT_SHARED Models/lib/cars2.ac 120.60394 13.21150 5.82 104.97
+OBJECT_SHARED Models/lib/cars2.ac 120.60387 13.21177 5.71 104.97
+OBJECT_SHARED Models/lib/cars6.ac 120.60393 13.21154 5.86 104.83
+OBJECT_SHARED Models/lib/cars6.ac 120.60385 13.21182 5.71 104.83
+OBJECT_SHARED Models/lib/cars10.ac 120.60361 13.21240 5.86 104.93
+OBJECT_SHARED Models/lib/cars10.ac 120.60368 13.21213 6.11 104.93
+OBJECT_SHARED Models/Transport/van_red.ac 120.60382 13.21233 5.98 325.84
+OBJECT_SHARED Models/Transport/hatchback_red.ac 120.60381 13.21236 6.07 325.01
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 120.60380 13.21240 6.11 315
+OBJECT_SHARED Models/Transport/hatchback_green.ac 120.60394 13.21178 6.11 14.42
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60397 13.21147 5.86 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60380 13.21205 5.71 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60392 13.21298 5.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60392 13.21298 5.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60393 13.21309 6.22 225
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60355 13.21285 4.40 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60362 13.21287 6.18 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60425 13.21307 6.20 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60380 13.21271 4.40 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60372 13.21267 6.16 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60399 13.21224 6.16 196.7
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60452 13.21123 6.03 345.96
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60447 13.21121 5.71 326.31
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60416 13.21113 5.57 310.6
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 120.60408 13.21112 5.53 308.66
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.60396 13.21125 5.53 262.12
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.60409 13.21146 5.57 176.42
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.60406 13.21161 5.71 202.75
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.60391 13.21215 5.77 226.85
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.60387 13.21269 5.98 236.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.60382 13.21263 6.16 191.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.60433 13.21281 6.14 246.5
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.60381 13.21310 6.18 25.46
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.60413 13.21333 4.40 102.72
+OBJECT_SHARED Models/Trees/billboard-tree.xml 120.60415 13.21358 4.62 108.92
+# END dsf2stg

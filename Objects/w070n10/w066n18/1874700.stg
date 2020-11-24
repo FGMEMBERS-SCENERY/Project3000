@@ -1,0 +1,46 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -65.48777 18.13428 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -65.48774 18.13435 13.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -65.48939 18.13435 12.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -65.48957 18.13435 16.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -65.48922 18.13444 11.76 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -65.48769 18.13448 11.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -65.48775 18.13441 12.71 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -65.48787 18.13440 12.86 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -65.48781 18.13433 12.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -65.48762 18.13461 13.08 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -65.48760 18.13468 12.56 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.48734 18.13501 12.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.48728 18.13513 11.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.49039 18.13418 11.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.49019 18.13423 11.89 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.48949 18.13441 15.44 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.48914 18.13449 11.81 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.48929 18.13445 11.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.48830 18.13444 11.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.48802 18.13387 12.47 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.48821 18.13421 13.81 0
+OBJECT_SHARED Models/lib/cars6.ac -65.48808 18.13422 13.01 330
+OBJECT_SHARED Models/lib/cars6.ac -65.48791 18.13413 13.08 150.52
+OBJECT_SHARED Models/lib/cars10.ac -65.48803 18.13399 13.44 150.91
+OBJECT_SHARED Models/lib/cars10.ac -65.48812 18.13386 13.59 150.97
+OBJECT_SHARED Models/lib/cars10.ac -65.48820 18.13371 13.74 151.22
+OBJECT_SHARED Models/lib/cars10.ac -65.48829 18.13413 14.11 331.17
+OBJECT_SHARED Models/lib/cars10.ac -65.48838 18.13399 13.15 331.17
+OBJECT_SHARED Models/lib/cars10.ac -65.48846 18.13384 13.30 331.17
+OBJECT_SHARED Models/lib/industrial13x24.ac -65.48870 18.13426 13.68 258.18
+OBJECT_SHARED Models/lib/NoParkStripes.xml -65.48855 18.13470 12.46 13.37
+OBJECT_SHARED Models/lib/NoParkStripes.xml -65.48856 18.13475 11.67 13.37
+OBJECT_SHARED Models/lib/NoParkStripes.xml -65.48857 18.13479 11.61 13.37
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -65.48993 18.13439 11.38 284
+OBJECT_SHARED Models/lib/prop_a.ac -65.49063 18.13430 11.63 104.66
+OBJECT_SHARED Models/lib/prop_a.ac -65.48879 18.13467 11.61 72.3
+OBJECT_SHARED Models/lib/lamp10m.xml -65.48981 18.13436 11.50 -20.41
+OBJECT_SHARED Models/lib/lamp10m.xml -65.48875 18.13457 11.68 -74.88
+OBJECT_SHARED Models/lib/lamp10m.xml -65.48802 18.13468 11.78 -74.05
+OBJECT_SHARED Models/lib/lamp10m.xml -65.48828 18.13467 12.01 -77.47
+OBJECT_SHARED Models/lib/lamp10m.xml -65.48762 18.13483 11.78 -79.44
+OBJECT_SHARED Models/lib/cube16x10.ac -65.48853 18.13467 12.09 104.15
+# END dsf2stg

@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -90.01901 29.83262 0.00 225.04
+OBJECT_SHARED Models/lib/FireStationLg.ac -90.02405 29.81998 1.02 147.53
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -90.02650 29.82330 0.99 132.41
+OBJECT_SHARED Models/lib/office32x25n.ac -90.02681 29.82256 1.01 312.38
+OBJECT_SHARED Models/lib/office32x25.ac -90.01985 29.83245 1.01 314.58
+OBJECT_SHARED Models/lib/office65x50.ac -90.01860 29.83361 1.02 316.81
+OBJECT_SHARED Models/lib/office65x50.ac -90.02280 29.82979 1.02 316.81
+OBJECT_SHARED Models/lib/office65x50.ac -90.02348 29.82866 1.01 133.73
+OBJECT_SHARED Models/lib/office65x50.ac -90.02694 29.82595 1.01 133.73
+OBJECT_SHARED Models/lib/office112x50.ac -90.02493 29.81943 1.01 310.68
+OBJECT_SHARED Models/lib/LgMaint.ac -90.02861 29.82378 0.99 307.82
+OBJECT_SHARED Models/lib/LgMaint.ac -90.02933 29.82330 1.01 307.82
+OBJECT_SHARED Models/lib/LgMaint.ac -90.02062 29.83223 1.01 315.91
+OBJECT_SHARED Models/lib/LgMaint.ac -90.02519 29.82149 1.01 43.71
+OBJECT_SHARED Models/lib/LgMaint.ac -90.02582 29.82207 1.00 43.71
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02459 29.82927 1.00 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02195 29.83163 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02723 29.82691 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.01884 29.83441 1.00 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02591 29.82809 1.02 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02327 29.83045 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02855 29.82572 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02525 29.82868 1.00 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02261 29.83104 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02789 29.82631 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.01951 29.83382 1.00 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02657 29.82750 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02393 29.82986 1.00 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02922 29.82513 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02425 29.82956 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.01983 29.83352 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02690 29.82720 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.01851 29.83470 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02558 29.82838 1.02 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02294 29.83075 1.00 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02822 29.82602 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02491 29.82897 1.00 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02227 29.83134 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02756 29.82661 1.01 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.01917 29.83411 1.00 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02624 29.82779 1.02 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02360 29.83016 1.00 45.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -90.02888 29.82543 1.01 45.93
+# END dsf2stg

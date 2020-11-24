@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargoip.xml -68.96101 12.18680 0.00 347.01
+OBJECT_SHARED Models/Airport/cargoip.xml -68.96104 12.18679 12.04 0
+OBJECT_SHARED Models/lib/loader.ac -68.96160 12.18678 12.04 270
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -68.96058 12.18645 12.28 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -68.95872 12.18506 12.35 340.02
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.95731 12.18550 13.89 348.46
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.95680 12.18541 12.80 349.16
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.95583 12.18519 12.81 348.28
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.95801 12.18540 12.85 349.16
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -68.96586 12.18801 13.18 349.11
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -68.96602 12.18787 12.53 350.38
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -68.96598 12.18810 12.72 348.69
+OBJECT_SHARED Models/lib/LongRow.ac -68.96538 12.18685 12.45 78.69
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -68.96542 12.18670 -81.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -68.96545 12.18657 -80.85 0
+OBJECT_SHARED Models/lib/MedHangar.ac -68.96686 12.18698 14.32 257.96
+OBJECT_SHARED Models/lib/MedHangar.ac -68.96755 12.18712 14.49 257.58
+OBJECT_SHARED Models/lib/MedHangar.ac -68.96810 12.18723 14.67 256.25
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -68.95501 12.18354 -80.13 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -68.95515 12.18361 -79.49 119.75
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -68.95529 12.18369 -79.61 0
+OBJECT_SHARED Models/lib/caisses_group.ac -68.95749 12.18551 15.25 271.28
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -68.95861 12.18585 12.86 286.7
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -68.95861 12.18582 12.73 186.34
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -68.95847 12.18569 12.73 0
+OBJECT_SHARED Models/Airport/cargobox.xml -68.96158 12.18687 12.86 14.93
+OBJECT_SHARED Models/Airport/cargobox.xml -68.96158 12.18689 12.13 356.42
+OBJECT_SHARED Models/Airport/cargobox.xml -68.96157 12.18691 12.13 0
+OBJECT_SHARED Models/Airport/cargoim.xml -68.96163 12.18689 12.13 343.07
+OBJECT_SHARED Models/Airport/cargoim.xml -68.96161 12.18689 12.13 0
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -68.96102 12.18675 12.13 153.43
+OBJECT_SHARED Models/Airport/cargobox.xml -68.96100 12.18678 12.04 0
+OBJECT_SHARED Models/lib/prop_a.ac -68.95527 12.18524 12.04 345.03
+# END dsf2stg

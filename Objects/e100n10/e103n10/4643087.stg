@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 103.99512 10.16422 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 103.99593 10.16413 15.06 0
+OBJECT_SHARED Models/lib/lamp10m.xml 103.99650 10.16408 14.79 0
+OBJECT_SHARED Models/lib/lamp10m.xml 103.99754 10.16395 13.11 0
+OBJECT_SHARED Models/lib/lamp10m.xml 103.99824 10.16387 14.19 0
+OBJECT_SHARED Models/lib/lamp10m.xml 103.99931 10.16377 14.19 0
+OBJECT_SHARED Models/lib/loader.ac 103.99530 10.16385 13.34 173.66
+OBJECT_SHARED Models/Airport/cargoip.xml 103.99531 10.16399 15.49 0
+OBJECT_SHARED Models/Airport/cargoim.xml 103.99531 10.16392 15.35 0
+OBJECT_SHARED Models/Airport/cargoim.xml 103.99531 10.16396 15.49 0
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac 103.99538 10.16388 15.35 357.632
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 103.99518 10.16424 15.49 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 103.99631 10.16411 15.06 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 103.99705 10.16400 14.79 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 103.99928 10.16379 14.49 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 103.99977 10.16375 13.89 0
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 103.99712 10.16382 13.11 265.083
+OBJECT_SHARED Models/lib/FireStationLg.ac 103.99684 10.16371 14.75 84.5485
+OBJECT_SHARED Models/lib/office65x50.ac 103.99215 10.16478 14.88 358.423
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 103.99117 10.16391 15.39 267.882
+OBJECT_SHARED Models/lib/HorizTanks2.ac 103.99654 10.16358 17.19 173.92
+OBJECT_SHARED Models/lib/HorizTanks2.ac 103.99656 10.16369 15.01 173.92
+OBJECT_SHARED Models/lib/HorizTanks2.ac 103.99657 10.16379 14.88 173.92
+OBJECT_SHARED Models/lib/office32x25.ac 103.99500 10.16345 14.75 86.4237
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 103.99504 10.16437 16.23 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 103.99556 10.16432 14.77 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 103.99611 10.16425 14.53 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 103.99917 10.16392 14.53 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 103.99850 10.16399 13.79 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 103.99780 10.16406 13.68 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 103.99715 10.16413 13.96 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 103.99670 10.16418 14.37 354.026
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 103.99968 10.16389 14.25 354.026
+# END dsf2stg

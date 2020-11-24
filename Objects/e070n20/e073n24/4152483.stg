@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 73.89096 24.61846 0.00 188.9
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 73.89072 24.61842 510.24 188.9
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 73.89048 24.61839 510.33 188.9
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 73.89128 24.61946 510.37 188.9
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 73.89174 24.61801 509.95 278.9
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 73.89169 24.61844 510.20 278.9
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 73.89164 24.61928 510.11 278.9
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 73.89149 24.61956 509.92 278.9
+OBJECT_SHARED Models/lib/jetway_e10m.ac 73.89069 24.61953 509.88 98.9
+OBJECT_SHARED Models/lib/jetway_e10m.ac 73.89025 24.61948 510.06 98.9
+OBJECT_SHARED Models/lib/RampGroup.xml 73.88972 24.61940 510.15 188.9
+OBJECT_SHARED Models/lib/container6-HD.ac 73.89121 24.62023 510.28 188.9
+OBJECT_SHARED Models/lib/caisses_group.ac 73.89127 24.61986 509.91 90
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 73.89166 24.62017 509.90 99
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac 73.89110 24.61993 509.83 100
+OBJECT_SHARED Models/Airport/cargoip.xml 73.89100 24.62020 509.94 189
+OBJECT_SHARED Models/Airport/cargoip.xml 73.89103 24.62022 509.95 189
+OBJECT_SHARED Models/Airport/cargoip.xml 73.89101 24.62022 509.95 189
+OBJECT_SHARED Models/Airport/cargoip.xml 73.89099 24.62022 509.95 189
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 73.89108 24.62019 509.95 305
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 73.89179 24.62026 509.93 188.9
+OBJECT_SHARED Models/lib/MedHangar.ac 73.89565 24.61943 509.81 98.9
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 73.89321 24.62001 509.44 8.89999
+OBJECT_SHARED Models/lib/SmHangar.ac 73.89339 24.61930 509.62 98.9
+OBJECT_SHARED Models/lib/transformer3x3.ac 73.90431 24.61978 509.66 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 73.90826 24.62227 509.09 0
+# END dsf2stg

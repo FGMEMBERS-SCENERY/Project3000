@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.09615 29.33385 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.09653 29.33449 349.69 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.09645 29.33518 349.81 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.09699 29.33489 348.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10719 29.33557 349.59 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10707 29.33570 354.74 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10743 29.33536 354.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10763 29.33551 354.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10775 29.33583 354.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10743 29.33622 355.11 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10754 29.33603 354.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10692 29.33569 355.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10697 29.33563 354.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10709 29.33561 354.74 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10681 29.33544 354.74 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10691 29.33537 354.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10666 29.33523 354.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10658 29.33513 354.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10665 29.33567 354.54 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10677 29.33568 354.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10664 29.33546 354.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10687 29.33512 354.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.10682 29.33531 354.54 0
+OBJECT_SHARED Models/lib/prop_a.ac -101.09687 29.33455 354.62 136.7
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -101.09639 29.33487 349.81 226.78
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -101.09653 29.33474 349.07 226.78
+OBJECT_SHARED Models/Transport/hatchback_green.ac -101.09639 29.33484 349.70 316.85
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -101.09658 29.33481 349.13 137.11
+OBJECT_SHARED Models/Transport/hatchback_red.ac -101.09660 29.33483 349.64 137.11
+OBJECT_SHARED Models/Transport/van_silver.ac -101.09652 29.33501 349.64 137.11
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.09671 29.33492 349.53 137.11
+OBJECT_SHARED Models/Transport/van_red.ac -101.10697 29.33543 349.59 138.27
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -101.10710 29.33550 354.66 318.61
+OBJECT_SHARED Models/Transport/hatchback_green.ac -101.10689 29.33552 354.70 292.54
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.10737 29.33543 354.70 90.46
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.09648 29.33421 354.66 48.19
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.10732 29.33613 349.52 310.22
+OBJECT_SHARED Models/lib/prop_a.ac -101.10739 29.33562 354.91 258.21
+OBJECT_SHARED Models/lib/coal_pile.ac -101.10760 29.33600 354.74 90
+OBJECT_SHARED Models/lib/SmHangar.ac -101.09669 29.33426 355.21 317.09
+OBJECT_SHARED Models/lib/garage-small-white.ac -101.09658 29.33456 349.92 316.2
+OBJECT_SHARED Models/lib/garage-small-white.ac -101.09697 29.33500 349.76 226.6
+OBJECT_SHARED Models/lib/farm19x12.ac -101.10697 29.33532 349.53 120.95
+OBJECT_SHARED Models/lib/SmHangar.ac -101.10719 29.33612 354.62 130.45
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -101.10764 29.33584 354.91 90
+# END dsf2stg

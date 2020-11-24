@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac -89.02975 17.27945 0.00 179.479
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.03061 17.27945 97.85 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.03062 17.27945 97.52 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.03062 17.27944 97.52 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.03063 17.27935 97.52 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.01892 17.27932 97.52 0
+OBJECT_SHARED Models/lib/SmHangar.ac -89.03035 17.27934 98.82 90
+OBJECT_SHARED Models/lib/shed8x10.ac -89.03012 17.27940 97.57 90
+OBJECT_SHARED Models/lib/SmHangar.ac -89.02836 17.27947 97.70 90
+OBJECT_SHARED Models/lib/garden-shed.ac -89.02916 17.27946 98.27 359.19
+OBJECT_SHARED Models/lib/garden-shed.ac -89.02868 17.27950 98.04 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -89.02994 17.27930 98.19 90
+OBJECT_SHARED Models/lib/2container-office.ac -89.02976 17.27934 97.80 270.184
+OBJECT_SHARED Models/lib/office3x10.ac -89.03061 17.27939 97.88 0
+# END dsf2stg

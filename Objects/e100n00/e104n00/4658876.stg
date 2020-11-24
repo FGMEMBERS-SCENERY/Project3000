@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/chariot3curve.ac 104.52680 0.92010 0.00 142.54
+OBJECT_SHARED Models/lib/LongRow.ac 104.52735 0.91998 10.57 48.18
+OBJECT_SHARED Models/lib/FireStationLg.ac 104.52724 0.91464 10.50 138.3
+OBJECT_SHARED Models/lib/large-hangar.ac 104.52671 0.91379 7.67 136.18
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 104.52758 0.92167 7.09 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 104.52721 0.92128 11.48 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 104.52648 0.92049 11.15 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 104.52684 0.92088 11.57 0
+OBJECT_SHARED Models/lib/lamp10m.xml 104.52764 0.92000 10.97 138.55
+OBJECT_SHARED Models/lib/lamp10m.xml 104.52787 0.92026 10.95 138.6
+# END dsf2stg

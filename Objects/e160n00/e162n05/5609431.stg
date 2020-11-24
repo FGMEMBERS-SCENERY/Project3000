@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac 162.95567 5.35201 0.00 29.54
+OBJECT_SHARED Models/Transport/Norberttruck.xml 162.95641 5.35173 4.28 124.33
+OBJECT_SHARED Models/lib/trailer-fedex.ac 162.95562 5.35212 2.04 25.74
+OBJECT_SHARED Models/lib/trailer-fedex.ac 162.95565 5.35206 4.41 26.23
+OBJECT_SHARED Models/lib/trailer-fedex.ac 162.95581 5.35184 4.34 32.01
+OBJECT_SHARED Models/lib/trailer-fedex.ac 162.95579 5.35189 2.65 27.3
+OBJECT_SHARED Models/lib/trailer-fedex.ac 162.95575 5.35192 4.14 33.69
+OBJECT_SHARED Models/lib/trailer-fedex.ac 162.95570 5.35197 4.17 30.02
+OBJECT_SHARED Models/lib/cars4.ac 162.95591 5.35252 4.23 304.95
+OBJECT_SHARED Models/lib/lamp10m.xml 162.95547 5.35235 4.73 34.84
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 162.95547 5.35237 0.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 162.95545 5.35240 0.00 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 162.95545 5.35238 -0.00 304.09
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac 162.95702 5.35192 0.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 162.95701 5.35217 -87.76 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 162.95627 5.35293 7.41 213.69
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 162.95633 5.35302 5.02 132.27
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 162.95642 5.35301 5.09 35.06
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 162.95640 5.35303 5.09 35.06
+OBJECT_SHARED Models/lib/stack_of_cones.ac 162.95619 5.35316 5.10 69.42
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 162.95647 5.35277 5.17 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 162.95614 5.35321 4.91 327.29
+OBJECT_SHARED Models/lib/stack_of_cones.ac 162.95618 5.35317 5.19 228.1
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 162.95621 5.35314 5.18 304.3
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 162.95622 5.35314 5.17 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 162.95622 5.35315 5.17 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 162.95622 5.35314 5.17 0
+OBJECT_SHARED Models/lib/cars10.ac 162.95649 5.35233 5.17 214.21
+OBJECT_SHARED Models/lib/cars6.ac 162.95612 5.35239 4.59 34.17
+# END dsf2stg

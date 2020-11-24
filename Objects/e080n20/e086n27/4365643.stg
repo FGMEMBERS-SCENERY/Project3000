@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 86.77521 27.18125 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 86.77530 27.18128 1347.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 86.77539 27.18131 1349.82 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 86.77549 27.18133 1349.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 86.77570 27.18133 1348.78 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 86.77574 27.18125 1347.78 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 86.77579 27.18132 1344.49 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 86.77578 27.18140 1347.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 86.77569 27.18143 1350.73 0
+OBJECT_SHARED Models/lib/watertank3x1.ac 86.77176 27.18092 1351.08 281.43
+OBJECT_SHARED Models/lib/industrial13x24.ac 86.77190 27.18167 1347.71 11.01
+OBJECT_SHARED Models/lib/propane-tank.ac 86.77507 27.18140 1364.46 8.43
+OBJECT_SHARED Models/lib/lamp10m.xml 86.77510 27.18141 1354.19 5.70999
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 86.77300 27.18111 1354.19 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 86.77231 27.18168 1347.42 0
+OBJECT_SHARED Models/lib/CargoPodPkng.ac 86.77234 27.18167 1361.60 -80.31
+OBJECT_SHARED Models/lib/office16x4n.ac 86.77488 27.18150 1361.60 68.84
+OBJECT_SHARED Models/Airport/cargobox.xml 86.77286 27.18113 1347.99 0
+OBJECT_SHARED Models/Airport/cargoip.xml 86.77283 27.18113 1347.49 0
+OBJECT_SHARED Models/Airport/cargoim.xml 86.77281 27.18112 1347.55 0
+OBJECT_SHARED Models/lib/farm19x12.ac 86.77551 27.18142 1347.55 7.32
+# END dsf2stg

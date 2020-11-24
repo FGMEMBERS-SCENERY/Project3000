@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -80.22061 26.97726 0.00 180
+OBJECT_SHARED Models/lib/farm19x12.ac -80.22244 26.97648 4.88 90
+OBJECT_SHARED Models/lib/SmHangar.ac -80.22181 26.97546 5.06 180
+OBJECT_SHARED Models/lib/farm19x12.ac -80.21406 26.97627 5.08 90
+OBJECT_SHARED Models/lib/SmHangar.ac -80.21304 26.97615 3.89 359.53
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.21304 26.97780 3.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.21312 26.97762 3.89 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.21311 26.97735 3.88 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -80.21306 26.97722 3.88 0
+# END dsf2stg

@@ -1,42 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -79.27124 25.70104 9.99 266.21
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -79.27191 25.70087 9.79 180.71
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -79.27174 25.70129 10.81 264.07
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -79.27208 25.70132 10.83 270
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.27235 25.70090 9.90 349.39
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.27154 25.70121 10.54 79.71
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -79.27134 25.70105 9.99 257.91
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -79.27161 25.70085 9.48 179.27
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -79.27226 25.70111 10.36 261.45
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -79.27178 25.70117 10.55 268.12
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.27125 25.70093 9.71 84.5
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.27218 25.70121 10.59 80.01
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.27127 25.70119 10.54 77.81
-OBJECT_SHARED Models/lib/cars2.ac -79.27260 25.70168 12.30 175
-OBJECT_SHARED Models/lib/cars4.ac -79.27247 25.70167 12.37 175
-OBJECT_SHARED Models/Transport/hatchback_green.ac -79.27246 25.70184 12.63 169.92
-OBJECT_SHARED Models/Transport/hatchback_black.ac -79.27239 25.70183 12.70 2.14002
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -79.27242 25.70183 12.70 353.72
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -79.27249 25.70184 12.63 356.26
-OBJECT_SHARED Models/Transport/hatchback_black.ac -79.27253 25.70185 12.63 0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -79.27257 25.70185 12.76 175.56
-OBJECT_SHARED Models/Transport/hatchback_green.ac -79.27262 25.70186 12.76 354.54
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -79.27268 25.70171 12.24 173.52
-OBJECT_SHARED Models/Transport/van_silver.ac -79.27226 25.70153 11.25 160.27
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -79.27230 25.70154 11.25 159.72
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -79.27235 25.70156 12.25 168
-OBJECT_SHARED Models/Transport/van_silver.ac -79.27240 25.70158 12.18 166.91
-OBJECT_SHARED Models/Transport/hatchback_black.ac -79.27243 25.70159 12.18 170.91
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.27288 25.70146 11.32 198.43
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.27268 25.70144 11.13 231.84
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.27254 25.70144 11.10 270
-OBJECT_SHARED Models/lib/luggage-cart-HD.ac -79.27244 25.70143 11.09 322.18
-OBJECT_SHARED Models/lib/luggage-cart-HD.ac -79.27252 25.70142 11.10 354.26
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -79.27245 25.70139 11.10 352.23
-OBJECT_SHARED Models/lib/lamp10m.xml -79.27282 25.70171 12.17 265
-OBJECT_SHARED Models/lib/lamp10m.xml -79.27254 25.70167 12.37 265
-OBJECT_SHARED Models/lib/lamp10m.xml -79.27259 25.70144 11.12 85
-OBJECT_SHARED Models/lib/lamp10m.xml -79.27292 25.70147 11.32 80
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27343 25.70110 0.00 153.64
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27304 25.70110 10.48 207
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27300 25.70139 10.48 258.41
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27297 25.70156 11.14 212.99
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27236 25.70152 11.63 174.86
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27025 25.70131 11.47 178.65
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27067 25.70132 11.98 183.11
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27106 25.70131 11.94 172.98
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27137 25.70135 11.20 171.87
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27172 25.70141 11.39 170.96
+OBJECT_SHARED Models/lib/lamp10m.xml -79.27203 25.70147 11.35 168.06
+OBJECT_SHARED Models/lib/cars4.ac -79.27274 25.70160 11.54 172.34
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.27253 25.70141 11.68 0
 # END dsf2stg

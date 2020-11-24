@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac 42.58270 16.89750 0.00 298.35
+OBJECT_SHARED Models/lib/LongRow.ac 42.58290 16.89759 4.42 299.02
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58197 16.90082 4.42 340
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58217 16.90048 4.35 340
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58234 16.90019 4.37 340
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58254 16.89985 4.38 340
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58272 16.89955 4.39 340
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58290 16.89925 4.40 340
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58305 16.89899 4.41 340
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58323 16.89869 4.42 340
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58339 16.89841 4.42 340
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58359 16.89807 4.43 340
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 42.58378 16.89776 4.44 340
+OBJECT_SHARED Models/lib/caisses_group.ac 42.58219 16.90026 4.44 212.13
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 42.58206 16.90028 4.37 27.1
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 42.58201 16.90035 4.37 28.01
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 42.58248 16.90018 4.37 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 42.58281 16.89962 4.39 244.98
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 42.58321 16.89896 4.41 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 42.58366 16.89819 4.43 315
+OBJECT_SHARED Models/lib/belt_loader.ac 42.58244 16.90024 4.45 205.56
+OBJECT_SHARED Models/lib/belt_loader.ac 42.58251 16.90015 4.38 215.31
+OBJECT_SHARED Models/lib/belt_loader.ac 42.58285 16.89961 4.39 212.28
+OBJECT_SHARED Models/lib/belt_loader.ac 42.58286 16.89954 4.41 213.27
+OBJECT_SHARED Models/lib/belt_loader.ac 42.58323 16.89893 4.41 212.47
+OBJECT_SHARED Models/lib/belt_loader.ac 42.58323 16.89890 4.43 207.65
+OBJECT_SHARED Models/lib/belt_loader.ac 42.58368 16.89816 4.43 223.96
+OBJECT_SHARED Models/lib/MedHangar.ac 42.58186 16.89999 4.45 209.42
+# END dsf2stg

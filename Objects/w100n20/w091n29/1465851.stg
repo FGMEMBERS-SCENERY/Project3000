@@ -1,6 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -90.24799 29.99777 1.01 331.16
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -90.24790 29.99809 1.00 0
+OBJECT_SHARED Models/lib/FireStationLg.ac -90.24940 29.99908 0.99 165.62
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -90.24799 29.99777 1.00 331.16
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -90.24790 29.99809 1.01 0
 # END dsf2stg

@@ -1,9 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office32x25.ac -84.13324 9.43975 23.07 320.527
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -84.13270 9.43941 23.06 252.16
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -84.13263 9.43952 22.89 250.233
-OBJECT_SHARED Models/lib/watertank3x1.ac -84.13314 9.43994 22.88 228.576
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -84.13300 9.43982 22.92 330.751
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.13281 9.43999 0.00 103.91
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.13273 9.44008 22.59 194.56
+OBJECT_SHARED Models/Misc/picnic_table.ac -84.13280 9.43995 22.52 229.68
+OBJECT_SHARED Models/Misc/picnic_table.ac -84.13285 9.43994 22.59 230.36
+OBJECT_SHARED Models/Misc/picnic_table.ac -84.13282 9.43992 22.65 230.23
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -84.13286 9.44001 22.60 49.82
 # END dsf2stg

@@ -1,0 +1,51 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -70.14956 11.77723 0.00 4.04001
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -70.14953 11.77723 20.30 4.04001
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -70.14934 11.77725 20.82 4.04001
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -70.14937 11.77725 21.84 4.04001
+OBJECT_SHARED Models/lib/cars4.ac -70.14900 11.77737 21.33 5.47
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -70.14944 11.77707 23.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -70.15077 11.77680 21.27 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -70.14993 11.77711 21.23 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.15089 11.77694 18.91 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -70.14983 11.77711 21.75 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -70.14882 11.77732 19.21 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -70.15062 11.77679 23.41 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -70.14892 11.77683 20.35 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -70.14927 11.77708 23.05 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -70.15090 11.77714 21.78 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -70.14981 11.77705 21.88 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -70.14894 11.77702 19.15 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -70.14881 11.77719 23.15 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -70.15013 11.77709 23.36 0
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -70.15032 11.77752 19.14 184.95
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -70.15028 11.77739 19.48 260.54
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -70.15024 11.77738 19.43 271.1
+OBJECT_SHARED Models/lib/trailer-fedex.ac -70.15029 11.77734 19.31 270.96
+OBJECT_SHARED Models/lib/trailer-fedex.ac -70.15025 11.77734 19.41 269.53
+OBJECT_SHARED Models/lib/cars10.ac -70.15028 11.77706 19.41 4.74
+OBJECT_SHARED Models/lib/cars14.ac -70.15010 11.77673 19.38 94.43
+OBJECT_SHARED Models/lib/cars14.ac -70.15012 11.77692 19.08 94.43
+OBJECT_SHARED Models/lib/cars14.ac -70.15013 11.77672 19.11 274.68
+OBJECT_SHARED Models/lib/cars14.ac -70.15014 11.77691 19.08 274.68
+OBJECT_SHARED Models/lib/cars10.ac -70.14942 11.77704 19.11 4.06
+OBJECT_SHARED Models/lib/cars10.ac -70.14913 11.77712 21.20 183.53
+OBJECT_SHARED Models/lib/cars10.ac -70.14912 11.77690 22.81 183.53
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -70.14828 11.77735 22.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -70.14809 11.77738 23.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -70.14835 11.77741 24.52 0
+OBJECT_SHARED Models/lib/cube16x10.ac -70.14823 11.77753 24.02 94.83
+OBJECT_SHARED Models/lib/HorizTanks2.ac -70.14785 11.77760 24.28 275.07
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -70.14869 11.77754 25.20 52.66
+OBJECT_SHARED Models/lib/container6-HD.ac -70.14756 11.77768 23.61 6.34
+OBJECT_SHARED Models/Airport/cargoip.xml -70.14765 11.77739 26.12 92.22
+OBJECT_SHARED Models/Airport/cargoip.xml -70.14767 11.77765 25.69 54.29
+OBJECT_SHARED Models/Airport/cargoip.xml -70.14765 11.77767 25.83 0
+OBJECT_SHARED Models/Airport/cargobox.xml -70.14766 11.77771 25.83 5.53
+OBJECT_SHARED Models/Airport/cargobox.xml -70.14768 11.77770 25.83 0
+OBJECT_SHARED Models/lib/trailer-fedex.ac -70.14740 11.77735 25.83 186.82
+OBJECT_SHARED Models/lib/lamp10m.xml -70.15934 11.77694 26.09 183.96
+OBJECT_SHARED Models/lib/lamp10m.xml -70.15935 11.77693 26.50 5.29001
+# END dsf2stg

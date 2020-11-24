@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -75.09409 23.17797 0.00 234.462
+OBJECT_SHARED Models/lib/stack_of_cones.ac -75.09357 23.17797 4.34 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -75.09414 23.17795 4.32 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -75.09356 23.17793 4.20 0
+OBJECT_SHARED Models/lib/cars6.ac -75.09377 23.17779 4.21 178.708
+OBJECT_SHARED Models/lib/cars10.ac -75.09387 23.17792 4.07 358.929
+OBJECT_SHARED Models/lib/cars10.ac -75.09419 23.17792 4.21 359.403
+OBJECT_SHARED Models/lib/cars4.ac -75.09350 23.17815 4.21 88.6543
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -75.09353 23.17812 4.31 267.569
+# END dsf2stg

@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.43615 26.55697 0.00 325.42
+OBJECT_SHARED Models/Transport/hatchback_green.ac -97.43602 26.55689 2.24 325.42
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.43719 26.55769 2.25 185.498
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.43613 26.55696 2.08 325.42
+OBJECT_SHARED Models/Transport/van_silver.ac -97.43600 26.55688 2.24 325.42
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.43607 26.55693 2.25 325.42
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.43633 26.55710 2.24 235.47
+OBJECT_SHARED Models/lib/lamp10m.xml -97.43728 26.55738 2.22 325.91
+OBJECT_SHARED Models/lib/lamp10m.xml -97.43576 26.55682 2.09 57.07
+# END dsf2stg

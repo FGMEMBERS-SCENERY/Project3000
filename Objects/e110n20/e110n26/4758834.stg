@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cube16x10.ac 110.64235 26.80127 0.00 153.04
+OBJECT_SHARED Models/lib/office32x25n.ac 110.64374 26.80086 457.81 243.3
+OBJECT_SHARED Models/lib/office32x25.ac 110.64281 26.80088 455.52 152.24
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 110.64197 26.80047 456.65 333.18
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 110.64264 26.80296 457.54 62.17
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 110.64200 26.80186 457.41 62.43
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 110.64222 26.80225 457.88 62.61
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 110.64245 26.80262 457.91 62.14
+OBJECT_SHARED Models/lib/lamp10m.xml 110.64240 26.80184 457.95 0
+OBJECT_SHARED Models/lib/lamp10m.xml 110.64263 26.80224 457.87 0
+OBJECT_SHARED Models/lib/lamp10m.xml 110.64285 26.80262 457.22 0
+# END dsf2stg

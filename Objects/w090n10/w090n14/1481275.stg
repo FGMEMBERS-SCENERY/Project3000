@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -89.53596 14.95601 0.00 123.18
+OBJECT_SHARED Models/lib/transformer3x3.ac -89.53606 14.95595 193.99 301.44
+OBJECT_SHARED Models/lib/admin31x12.ac -89.53690 14.95806 193.75 73.14
+OBJECT_SHARED Models/lib/hangar81x16.ac -89.53810 14.96007 194.74 344.21
+OBJECT_SHARED Models/lib/hangar81x16.ac -89.53838 14.95990 194.04 299.91
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -89.53857 14.96007 193.21 209.45
+# END dsf2stg

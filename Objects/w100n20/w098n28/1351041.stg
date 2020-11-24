@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.54299 28.04183 0.00 243.28
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.54265 28.04124 14.06 243.28
+OBJECT_SHARED Models/Transport/hatchback_red.ac -97.54221 28.04177 14.08 240.25
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.54194 28.04175 14.02 333.72
+OBJECT_SHARED Models/lib/LongRow.ac -97.54221 28.04186 14.00 63.66
+OBJECT_SHARED Models/lib/LongRow.ac -97.54221 28.04186 14.00 63.66
+OBJECT_SHARED Models/lib/LongRow.ac -97.54252 28.04204 14.02 63.66
+OBJECT_SHARED Models/lib/MedHangar.ac -97.54354 28.04241 14.03 62.87
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54548 28.04360 14.51 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54551 28.04357 13.81 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54552 28.04353 13.81 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54552 28.04350 13.85 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54551 28.04346 13.85 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54391 28.04156 13.85 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54395 28.04154 14.57 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54400 28.04154 14.57 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54404 28.04155 14.57 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54408 28.04157 14.56 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54383 28.04145 14.55 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54386 28.04143 14.58 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54387 28.04140 14.58 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54388 28.04136 14.58 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.54387 28.04132 14.58 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.54154 28.04247 14.09 330.5
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.54198 28.04099 13.94 27.97
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.54219 28.04130 14.04 244.44
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.54217 28.04132 14.05 244.44
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.54373 28.04247 14.05 275.37
+OBJECT_SHARED Models/Transport/hatchback_green.ac -97.54304 28.04219 13.99 10.54
+OBJECT_SHARED Models/lib/garage-small-white.ac -97.54306 28.04227 14.04 152.71
+OBJECT_SHARED Models/lib/lamp10m.xml -97.54365 28.04334 14.03 154.39
+OBJECT_SHARED Models/lib/lamp10m.xml -97.54299 28.04222 13.89 154.39
+OBJECT_SHARED Models/lib/lamp10m.xml -97.54147 28.04091 14.04 -25.76
+OBJECT_SHARED Models/lib/lamp10m.xml -97.54337 28.04265 14.02 64.52
+OBJECT_SHARED Models/lib/lamp10m.xml -97.54216 28.04267 13.98 64.52
+OBJECT_SHARED Models/lib/lamp10m.xml -97.54175 28.04266 13.98 64.52
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.54333 28.04276 13.95 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.54280 28.04261 13.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.54279 28.04248 14.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.54292 28.04223 14.01 0
+OBJECT_SHARED Models/lib/coal_pile.ac -97.54358 28.04276 14.03 90
+# END dsf2stg

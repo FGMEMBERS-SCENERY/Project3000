@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 21.43522 28.64054 -95.00 0
+OBJECT_SHARED Models/lib/cars10.ac 21.43651 28.64114 101.13 180.1
+OBJECT_SHARED Models/lib/office3x10.ac 21.43558 28.63969 98.60 90.34
+OBJECT_SHARED Models/lib/office3x10.ac 21.43555 28.63969 101.56 0
+OBJECT_SHARED Models/lib/office3x10.ac 21.43520 28.64068 101.64 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 21.43519 28.64038 100.84 89.39
+# END dsf2stg

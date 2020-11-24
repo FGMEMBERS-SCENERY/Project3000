@@ -1,9 +1,31 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac 80.58323 28.75305 188.05 270.16
-OBJECT_SHARED Models/lib/citation.ac 80.58287 28.75413 188.11 90.1348
-OBJECT_SHARED Models/lib/lamp10m.xml 80.58296 28.75377 188.16 270
-OBJECT_SHARED Models/lib/lamp10m.xml 80.58215 28.75376 188.07 230.548
-OBJECT_SHARED Models/lib/admin-with-cars.ac 80.58257 28.75272 187.77 270
+OBJECT_SHARED Models/lib/lamp10m.xml 80.58304 28.75354 0.00 -75.07
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58242 28.75326 188.28 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58240 28.75313 188.24 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58223 28.75302 188.12 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58230 28.75298 188.05 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58224 28.75295 188.05 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58230 28.75280 187.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58296 28.75232 187.91 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58270 28.75261 187.60 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58270 28.75258 187.79 26.56
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58276 28.75257 187.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58287 28.75247 187.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58250 28.75273 187.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58265 28.75272 187.85 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58266 28.75295 187.86 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 80.58271 28.75289 188.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 80.58281 28.75291 188.00 175.24
+OBJECT_SHARED Models/lib/lamp10m.xml 80.58281 28.75298 188.00 176.44
+OBJECT_SHARED Models/lib/lamp10m.xml 80.58274 28.75300 188.07 270
+OBJECT_SHARED Models/lib/lamp10m.xml 80.58267 28.75300 188.07 270
+OBJECT_SHARED Models/lib/lamp10m.xml 80.58258 28.75300 188.07 270
+OBJECT_SHARED Models/lib/cars10.ac 80.58337 28.75234 188.06 178.5
+OBJECT_SHARED Models/lib/cars14.ac 80.58326 28.75260 187.62 89.09
+OBJECT_SHARED Models/lib/lamp10m.xml 80.58279 28.75351 187.81 270
+OBJECT_SHARED Models/lib/lamp10m.xml 80.58265 28.75354 188.27 -88.78
+OBJECT_SHARED Models/lib/lamp10m.xml 80.58237 28.75352 188.27 -85.91
+OBJECT_SHARED Models/lib/SmHangar.ac 80.58350 28.75301 188.25 342.01
 # END dsf2stg

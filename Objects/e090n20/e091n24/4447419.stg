@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac 91.86353 24.96140 0.00 67.62
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 91.87643 24.95630 16.68 -89.16
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 91.87666 24.95628 21.62 263.29
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 91.87666 24.95594 -73.30 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 91.87647 24.95594 -72.86 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 91.87207 24.95618 22.09 82.88
+OBJECT_SHARED Models/lib/hangar81x16.ac 91.86938 24.95951 20.56 68.82
+OBJECT_SHARED Models/lib/industrial13x24.ac 91.86940 24.95949 18.22 249.33
+OBJECT_SHARED Models/lib/office32x25.ac 91.86968 24.95894 18.22 66.8
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 91.87081 24.95875 18.43 67.17
+OBJECT_SHARED Models/lib/garages22x9.ac 91.87204 24.95923 18.69 158.78
+OBJECT_SHARED Models/lib/industrial15x22.ac 91.87218 24.95963 18.73 246.88
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 91.87232 24.95958 18.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 91.87232 24.95973 18.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 91.87227 24.95984 18.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 91.87216 24.95983 18.61 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 91.87143 24.95881 18.59 337.2
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 91.87102 24.95895 18.76 338.45
+OBJECT_SHARED Models/lib/RampGroup.xml 91.87026 24.95912 18.65 284.04
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 91.87626 24.95593 -76.56 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 91.87620 24.95632 22.04 -89.16
+OBJECT_SHARED Models/lib/lamp10m.xml 91.87305 24.95674 21.56 247.38
+OBJECT_SHARED Models/lib/lamp10m.xml 91.87248 24.95696 20.23 251.57
+OBJECT_SHARED Models/lib/lamp10m.xml 91.87192 24.95722 19.93 251.57
+OBJECT_SHARED Models/lib/lamp10m.xml 91.87128 24.95748 19.70 251.57
+OBJECT_SHARED Models/lib/RampGroup.xml 91.87129 24.95785 19.38 249.54
+OBJECT_SHARED Models/lib/RampGroup.xml 91.87154 24.95839 19.13 247.37
+OBJECT_SHARED Models/lib/lamp10m.xml 91.87154 24.95852 18.95 0
+OBJECT_SHARED Models/lib/lamp10m.xml 91.87130 24.95801 18.90 0
+# END dsf2stg

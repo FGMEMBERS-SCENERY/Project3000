@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.93168 22.49707 0.00 193.21
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.93011 22.49675 96.19 102.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.92948 22.49708 95.39 192
+OBJECT_SHARED Models/lib/SmHangar.ac -79.93090 22.49744 95.25 198.55
+OBJECT_SHARED Models/lib/SmHangar.ac -79.93129 22.49748 97.08 284.75
+OBJECT_SHARED Models/lib/SmHangar.ac -79.93105 22.49760 97.44 104.83
+OBJECT_SHARED Models/lib/SmHangar.ac -79.93138 22.49761 97.22 106.97
+OBJECT_SHARED Models/lib/lamp10m.xml -79.93223 22.49726 97.63 103.17
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -79.93219 22.49715 97.42 277.45
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -79.93226 22.49714 97.42 277.45
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -79.93222 22.49714 97.38 277.45
+OBJECT_SHARED Models/lib/lamp10m.xml -79.93180 22.49736 97.43 104.14
+OBJECT_SHARED Models/lib/lamp10m.xml -79.93204 22.49730 97.74 103.59
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -79.93106 22.49691 97.60 193.45
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -79.92891 22.49697 95.88 272.67
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -79.92884 22.49702 94.97 282.26
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -79.93120 22.49694 94.93 14.82
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -79.94264 22.48897 95.93 15.02
+OBJECT_SHARED Models/lib/cars7.ac -79.92939 22.49821 100.45 341.67
+OBJECT_SHARED Models/lib/6space_wStop.ac -79.92936 22.49806 94.96 147.88
+OBJECT_SHARED Models/lib/6space_wStop.ac -79.92891 22.49779 94.95 150.1
+OBJECT_SHARED Models/lib/6space_wStop.ac -79.92927 22.49819 93.40 147.88
+OBJECT_SHARED Models/lib/6space_wStop.ac -79.92882 22.49792 94.89 150.1
+OBJECT_SHARED Models/lib/6space_wStop.ac -79.92896 22.49803 93.11 328.48
+OBJECT_SHARED Models/lib/6space_wStop.ac -79.92859 22.49766 93.86 331.76
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -79.92922 22.49799 95.08 327.51
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -79.92876 22.49772 94.58 330.3
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -79.92911 22.49813 95.17 327.19
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -79.92866 22.49787 94.26 329.98
+# END dsf2stg

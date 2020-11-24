@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.62500 0.97709 8.02 87.33
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.62498 0.97743 7.88 87.51
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.62497 0.97775 7.78 87.67
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.62488 0.97293 7.67 279.46
+OBJECT_SHARED Models/lib/FireStationLg.ac -79.62485 0.97232 9.84 180
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -79.62494 0.97417 10.30 358.85
+OBJECT_SHARED Models/lib/shed8x10.ac -79.62456 0.97507 9.13 269.49
+OBJECT_SHARED Models/lib/shed8x10.ac -79.62465 0.97333 8.91 267.89
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -79.62469 0.97294 9.77 88.09
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -79.62454 0.97319 10.03 88.57
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -79.62458 0.97547 -84.96 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -79.62447 0.97572 -86.27 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.62477 0.97473 8.69 89.21
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.62480 0.97547 8.93 359.03
+OBJECT_SHARED Models/lib/cars6.ac -79.62450 0.97590 8.60 358.35
+OBJECT_SHARED Models/lib/cars6.ac -79.62450 0.97609 8.60 358.35
+OBJECT_SHARED Models/lib/cars6.ac -79.62450 0.97629 8.53 358.35
+OBJECT_SHARED Models/lib/cars6.ac -79.62431 0.97590 8.45 178.5
+OBJECT_SHARED Models/lib/cars6.ac -79.62431 0.97609 8.74 178.5
+OBJECT_SHARED Models/lib/cars6.ac -79.62431 0.97629 8.66 178.5
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -79.62460 0.97655 8.58 268.92
+# END dsf2stg

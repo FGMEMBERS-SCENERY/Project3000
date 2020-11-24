@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4container-office.ac -96.80967 28.12782 0.87 304.594
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -96.81076 28.12779 0.74 197.404
+OBJECT_SHARED Models/Transport/van_silver.ac -96.80966 28.12772 0.82 335.835
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -96.80975 28.12785 -0.09 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -96.80972 28.12777 -0.09 33.6901
+# END dsf2stg

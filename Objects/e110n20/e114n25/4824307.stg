@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 114.78022 25.84915 0.00 126.87
+OBJECT_SHARED Models/lib/office16x4n.ac 114.78023 25.84898 127.16 298.67
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77648 25.84831 126.99 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77670 25.84841 125.46 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77692 25.84851 125.77 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77715 25.84861 125.85 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77737 25.84872 125.94 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77759 25.84882 126.03 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77781 25.84892 126.36 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77804 25.84902 126.45 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77828 25.84913 126.54 45
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77848 25.84923 126.63 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77870 25.84933 126.72 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77893 25.84944 127.04 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 114.77915 25.84954 127.13 0
+OBJECT_SHARED Models/lib/jetway_e16m.ac 114.77829 25.84907 127.22 298
+OBJECT_SHARED Models/lib/jetway_e16m.ac 114.77871 25.84925 126.63 298
+OBJECT_SHARED Models/lib/jetway_e16m.ac 114.77863 25.84939 126.95 298
+OBJECT_SHARED Models/lib/jetway_e16m.ac 114.77821 25.84921 127.13 298
+OBJECT_SHARED Models/lib/transformer3x3.ac 114.77810 25.85156 126.72 71.56
+OBJECT_SHARED Models/lib/office32x25.ac 114.77784 25.84851 129.00 28.49
+OBJECT_SHARED Models/lib/FireStationLg.ac 114.77736 25.84851 126.10 117.57
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 114.77676 25.84751 125.85 117.39
+# END dsf2stg

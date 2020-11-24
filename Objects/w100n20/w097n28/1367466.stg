@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/coal_pile.ac -96.25460 28.72560 0.00 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.25053 28.72169 2.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.25200 28.72303 2.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.25290 28.72298 2.40 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25310 28.72503 2.51 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25300 28.72500 2.97 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25290 28.72503 2.97 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25217 28.72567 2.98 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25214 28.72575 3.06 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25218 28.72583 3.07 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25187 28.72555 3.06 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25195 28.72559 3.08 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25204 28.72555 3.08 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25278 28.72491 3.06 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25281 28.72483 2.98 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25278 28.72474 2.97 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25254 28.72535 2.97 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.25241 28.72524 3.02 0
+OBJECT_SHARED Models/lib/LongRow.ac -96.25518 28.72528 2.52 44.94
+OBJECT_SHARED Models/lib/prop_a.ac -96.25412 28.72403 2.38 44.94
+OBJECT_SHARED Models/lib/prop_a.ac -96.25421 28.72412 2.31 44.94
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -96.25338 28.72398 2.31 44.94
+OBJECT_SHARED Models/lib/fboModern1.ac -96.25420 28.72433 2.35 135.06
+OBJECT_SHARED Models/lib/lamp10m.xml -96.25384 28.72473 2.33 135.17
+OBJECT_SHARED Models/lib/lamp10m.xml -96.25338 28.72389 2.40 -45.28
+OBJECT_SHARED Models/Transport/hatchback_red.ac -96.25458 28.72413 2.35 315.2
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.25461 28.72415 2.28 315.2
+OBJECT_SHARED Models/lib/lamp10m.xml -96.25460 28.72578 2.28 132.63
+OBJECT_SHARED Models/lib/lamp10m.xml -96.25526 28.72521 2.46 315.08
+# END dsf2stg

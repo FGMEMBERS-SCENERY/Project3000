@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/chariot3curve.ac 123.25159 11.46199 0.00 77.14
+OBJECT_SHARED Models/lib/cars6.ac 123.25164 11.46217 4.88 213.42
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 123.25173 11.46236 5.30 303.34
+OBJECT_SHARED Models/Transport/hatchback_green.ac 123.25190 11.46246 5.48 302.38
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 123.25134 11.46181 5.67 126.44
+OBJECT_SHARED Models/lib/lamp10m.xml 123.25176 11.46203 4.75 123.91
+OBJECT_SHARED Models/lib/lamp10m.xml 123.25203 11.46220 4.88 123.42
+OBJECT_SHARED Models/lib/lamp10m.xml 123.25231 11.46239 5.30 124.91
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 123.25095 11.46135 5.48 301.61
+# END dsf2stg

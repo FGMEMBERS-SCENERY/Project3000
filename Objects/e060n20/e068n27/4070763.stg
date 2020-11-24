@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 68.79602 27.72110 0.00 42.4502
+OBJECT_SHARED Models/lib/lamp10m.xml 68.79545 27.72289 60.76 38.0249
+OBJECT_SHARED Models/lib/lamp10m.xml 68.79590 27.72240 61.04 2.70703
+OBJECT_SHARED Models/lib/lamp10m.xml 68.79499 27.72340 60.98 40.8424
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 68.79585 27.72124 61.08 215.538
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 68.79518 27.72306 60.77 303.69
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 68.79496 27.72329 61.05 245.556
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 68.79575 27.72239 61.06 182.726
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 68.79608 27.72157 60.97 258.69
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 68.79580 27.72128 60.85 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 68.79577 27.72132 60.78 0
+OBJECT_SHARED Models/lib/shed8x10.ac 68.79520 27.72192 60.78 39.3691
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 68.79544 27.72182 60.85 130.101
+OBJECT_SHARED Models/lib/office8x14.ac 68.79522 27.72176 60.84 38.4536
+OBJECT_SHARED Models/lib/FireStationLg.ac 68.79618 27.72072 60.83 128.823
+# END dsf2stg

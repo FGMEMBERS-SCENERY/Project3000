@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.68790 5.52613 0.00 109.35
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.68841 5.52551 106.88 122.17
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.68825 5.52726 106.85 195.51
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.69003 5.52644 106.92 301.41
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.68931 5.52484 106.88 282.36
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.69030 5.52433 106.82 303.27
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.68979 5.52386 106.80 337.13
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.68956 5.52332 106.79 13.61
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.68736 5.52442 106.05 129.61
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.68768 5.52503 105.85 167.1
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -68.69003 5.52418 106.84 112.83
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -68.69012 5.52382 106.80 203.18
+OBJECT_SHARED Models/lib/LgMaint.ac -68.68898 5.52632 106.78 25.64
+OBJECT_SHARED Models/lib/office8x14.ac -68.68747 5.52540 106.88 24.87
+OBJECT_SHARED Models/lib/office8x14.ac -68.68734 5.52513 106.86 25.22
+OBJECT_SHARED Models/lib/office8x14.ac -68.68721 5.52487 106.85 25.06
+OBJECT_SHARED Models/lib/office8x14.ac -68.68709 5.52460 106.69 24.9
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68978 5.52485 105.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68961 5.52543 106.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68984 5.52590 106.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68999 5.52630 106.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68851 5.52588 106.87 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68816 5.52600 106.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68785 5.52572 106.87 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68751 5.52485 106.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68681 5.52464 106.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68697 5.52491 105.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68712 5.52518 106.53 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.68723 5.52546 106.85 0
+# END dsf2stg

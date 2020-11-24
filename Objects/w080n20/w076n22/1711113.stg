@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -75.72098 22.17663 -0.01 186.52
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -75.72469 22.17594 -0.02 78.3409
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -75.72497 22.17964 3.44 131.112
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -75.72478 22.17954 3.42 316.549
-OBJECT_SHARED Models/lib/garden-shed.ac -75.72550 22.17993 3.52 134.542
-OBJECT_SHARED Models/lib/garden-shed.ac -75.72544 22.17999 3.59 134.542
-OBJECT_SHARED Models/Misc/picnic_table.ac -75.72543 22.17993 3.55 44.9998
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -75.72556 22.17989 3.50 228.013
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -75.72098 22.17663 0.00 186.52
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -75.72469 22.17594 -0.01 78.3409
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -75.72497 22.17964 -0.02 131.112
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -75.72478 22.17954 3.44 316.549
+OBJECT_SHARED Models/lib/garden-shed.ac -75.72550 22.17993 3.42 134.542
+OBJECT_SHARED Models/lib/garden-shed.ac -75.72544 22.17999 3.53 134.542
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.72543 22.17993 3.59 44.9998
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -75.72556 22.17989 3.55 228.013
 OBJECT_SHARED Models/lib/stack_of_cones.ac -75.72505 22.17975 3.50 0
 # END dsf2stg

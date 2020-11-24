@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -55.94647 2.22581 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -55.94706 2.22617 345.27 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -55.94720 2.22609 345.08 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -55.94684 2.22621 345.02 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -55.94691 2.22617 345.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -55.94697 2.22608 345.17 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -55.94372 2.22210 345.12 97.05
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -55.94463 2.22159 342.65 179.6
+OBJECT_SHARED Models/lib/industrial13x24.ac -55.94283 2.22132 342.56 179.36
+OBJECT_SHARED Models/lib/HorizTanks2.ac -55.94277 2.22127 342.11 269.14
+OBJECT_SHARED Models/lib/shed8x10.ac -55.94378 2.22103 342.09 0.82
+OBJECT_SHARED Models/lib/industrial13x24.ac -55.94682 2.22600 342.13 3.88
+OBJECT_SHARED Models/lib/shed8x10.ac -55.94676 2.22613 345.19 182.93
+# END dsf2stg

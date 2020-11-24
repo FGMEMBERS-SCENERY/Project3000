@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -61.34482 12.69875 0.00 235.78
+OBJECT_SHARED Models/lib/lamp10m.xml -61.34446 12.69853 3.77 237.99
+OBJECT_SHARED Models/lib/lamp10m.xml -61.34295 12.69741 4.15 237.53
+OBJECT_SHARED Models/lib/lamp10m.xml -61.34242 12.69710 6.21 237.93
+OBJECT_SHARED Models/lib/cars6.ac -61.34484 12.69812 6.93 148.06
+OBJECT_SHARED Models/lib/cars10.ac -61.34501 12.69823 4.41 148.12
+OBJECT_SHARED Models/lib/cars10.ac -61.34480 12.69830 4.25 328.06
+OBJECT_SHARED Models/lib/cars10.ac -61.34516 12.69852 4.22 327.86
+OBJECT_SHARED Models/lib/HorizTanks2.ac -61.34542 12.69917 3.95 147.81
+OBJECT_SHARED Models/lib/cube16x10.ac -61.34519 12.69896 3.47 58.52
+OBJECT_SHARED Models/lib/SmHangar.ac -61.34584 12.69964 3.60 239.1
+OBJECT_SHARED Models/lib/SmHangar.ac -61.34604 12.69968 3.16 239.1
+OBJECT_SHARED Models/lib/SmHangar.ac -61.34601 12.69973 3.12 239.1
+OBJECT_SHARED Models/lib/stack_of_cones.ac -61.34448 12.69860 3.12 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -61.34449 12.69861 4.04 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -61.34475 12.69871 4.04 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -61.34456 12.69860 3.85 0
+OBJECT_SHARED Models/lib/prop_a.ac -61.34598 12.69990 4.01 330.02
+# END dsf2stg
