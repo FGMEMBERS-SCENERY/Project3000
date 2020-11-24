@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.89979 37.86134 0.00 185
+OBJECT_SHARED Models/Transport/hatchback_black.ac -76.89931 37.86129 41.95 95
+OBJECT_SHARED Models/lib/lamp10m.xml -76.89941 37.86131 38.91 66
+OBJECT_SHARED Models/lib/lamp10m.xml -76.89909 37.86133 39.12 121
+OBJECT_SHARED Models/lib/LongRow.ac -76.89516 37.86085 41.56 184
+OBJECT_SHARED Models/lib/LongRow.ac -76.89688 37.86076 40.84 4
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.89995 37.86150 40.66 94
+OBJECT_SHARED Models/lib/admin-with-cars.ac -76.89930 37.86180 39.91 95
+OBJECT_SHARED Models/lib/LongRow.ac -76.89775 37.86123 38.34 95
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.90036 37.86098 40.94 0
+OBJECT_SHARED Models/lib/prop_a.ac -76.89943 37.86095 41.51 95
+OBJECT_SHARED Models/lib/prop_a.ac -76.89949 37.86085 41.52 275
+OBJECT_SHARED Models/lib/prop_a.ac -76.89928 37.86097 41.60 95
+OBJECT_SHARED Models/lib/prop_a.ac -76.89935 37.86086 41.46 275
+OBJECT_SHARED Models/lib/prop_a.ac -76.89955 37.86049 41.39 95
+OBJECT_SHARED Models/lib/prop_a.ac -76.89939 37.86050 41.24 95
+OBJECT_SHARED Models/lib/prop_a.ac -76.89924 37.86050 41.19 95
+OBJECT_SHARED Models/lib/prop_a.ac -76.89909 37.86051 41.07 95
+OBJECT_SHARED Models/lib/prop_a.ac -76.89890 37.86053 41.02 95
+OBJECT_SHARED Models/lib/prop_a.ac -76.89875 37.86054 40.94 95
+OBJECT_SHARED Models/lib/prop_a.ac -76.89751 37.86062 40.86 95
+OBJECT_SHARED Models/lib/prop_a.ac -76.89521 37.86102 40.67 120
+OBJECT_SHARED Models/lib/prop_a.ac -76.89865 37.86101 40.66 95
+OBJECT_SHARED Models/lib/prop_a.ac -76.89871 37.86090 41.13 275
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.90009 37.86089 41.11 93.15
+# END dsf2stg

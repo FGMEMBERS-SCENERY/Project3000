@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangar81x16.ac -8.82592 39.06012 0.00 264.101
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.82707 39.06004 3.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.82710 39.05997 4.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.82600 39.05917 4.17 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.82593 39.06003 4.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.82638 39.05989 4.06 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.82648 39.05989 4.18 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.82661 39.05991 4.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.82671 39.05995 4.20 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -8.82703 39.05998 4.21 340.754
+OBJECT_SHARED Models/lib/shed8x10.ac -8.82695 39.05996 4.17 161.811
+OBJECT_SHARED Models/Transport/hatchback_black.ac -8.82624 39.05990 4.16 280.84
+# END dsf2stg

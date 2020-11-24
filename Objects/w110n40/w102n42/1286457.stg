@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.69100 42.92090 0.00 258.69
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.68992 42.92129 990.91 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.69035 42.92128 990.97 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -101.69025 42.92139 990.97 288.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.68997 42.92137 991.04 236.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.69007 42.92146 991.04 191.31
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.68626 42.92087 991.10 315
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.68700 42.92142 989.52 126.38
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.68690 42.92147 990.25 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.68683 42.92159 990.39 143.13
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.68674 42.92122 990.53 9.45999
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.68706 42.92124 989.98 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -101.69213 42.92297 989.98 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -101.69283 42.92270 992.26 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -101.69306 42.92315 992.39 234.46
+OBJECT_SHARED Models/lib/shed8x10.ac -101.69904 42.92242 992.67 359.25
+OBJECT_SHARED Models/lib/shed8x10.ac -101.69905 42.92346 993.76 268.81
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.69788 42.92225 993.79 222.51
+OBJECT_SHARED Models/Transport/hatchback_green.ac -101.69873 42.92334 992.58 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.69862 42.92336 993.78 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.69867 42.92335 993.78 176.24
+OBJECT_SHARED Models/Transport/van_red.ac -101.69875 42.92296 993.78 87.14
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.69896 42.92291 993.89 265.21
+OBJECT_SHARED Models/lib/trailer-ups.ac -101.69844 42.92287 993.88 266.22
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.69851 42.92294 993.07 84.61
+OBJECT_SHARED Models/lib/trailer-fedex.ac -101.69858 42.92294 993.88 266.34
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -101.69880 42.92386 993.88 359.17
+OBJECT_SHARED Models/lib/office8x14.ac -101.69873 42.92267 993.80 88.78
+OBJECT_SHARED Models/lib/propane-tank.ac -101.69749 42.92515 993.84 59.52
+OBJECT_SHARED Models/lib/SmHangar.ac -101.69763 42.92522 993.06 241.16
+OBJECT_SHARED Models/lib/SmHangar.ac -101.69775 42.92527 993.15 241.16
+OBJECT_SHARED Models/lib/SmHangar.ac -101.69788 42.92532 993.11 241.16
+OBJECT_SHARED Models/lib/industrial13x24.ac -101.69685 42.92410 993.11 178.36
+OBJECT_SHARED Models/lib/coal_pile.ac -101.69638 42.92393 992.92 90
+OBJECT_SHARED Models/Misc/6barrels.ac -101.69636 42.92344 992.86 0
+OBJECT_SHARED Models/Misc/6barrels.ac -101.69636 42.92350 992.50 0
+OBJECT_SHARED Models/lib/coal_pile.ac -101.69638 42.92377 992.57 90
+OBJECT_SHARED Models/lib/coal_pile.ac -101.69638 42.92406 992.79 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -101.69760 42.92509 993.00 245.3
+OBJECT_SHARED Models/Transport/van_red.ac -101.69762 42.92502 993.20 323.75
+# END dsf2stg

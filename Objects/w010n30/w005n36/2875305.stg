@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/NoParkStripes.xml -4.50002 36.68127 6.06 137.87
+OBJECT_SHARED Models/lib/NoParkStripes.xml -4.50013 36.68135 9.16 137.87
+OBJECT_SHARED Models/lib/NoParkStripes.xml -4.50001 36.68138 9.15 47.2
+OBJECT_SHARED Models/lib/lamp10m.xml -4.50274 36.68326 8.37 2.57001
+OBJECT_SHARED Models/lib/lamp10m.xml -4.50189 36.68265 8.97 2.57001
+OBJECT_SHARED Models/lib/lamp10m.xml -4.50105 36.68205 9.08 2.57001
+OBJECT_SHARED Models/lib/lamp10m.xml -4.50018 36.68144 9.14 2.57001
+OBJECT_SHARED Models/lib/office32x25.ac -4.50316 36.68483 7.85 50.2
+OBJECT_SHARED Models/lib/cars10.ac -4.50241 36.68371 8.38 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50037 36.68317 8.72 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50079 36.68291 8.44 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50089 36.68282 8.68 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50098 36.68273 8.75 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50108 36.68334 8.81 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50105 36.68362 8.58 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50129 36.68364 8.44 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50140 36.68356 8.50 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50222 36.68377 8.52 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50210 36.68387 8.63 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50197 36.68398 8.56 139.9
+OBJECT_SHARED Models/lib/cars10.ac -4.50187 36.68408 8.49 139.9
+OBJECT_SHARED Models/lib/office32x25n.ac -4.50338 36.68466 8.42 229.34
+OBJECT_SHARED Models/lib/office112x50.ac -4.50173 36.68330 8.46 227.83
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.50044 36.68247 15.35 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.50051 36.68241 8.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.50058 36.68235 8.83 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.50071 36.68235 8.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.50083 36.68243 8.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.50091 36.68248 8.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.50100 36.68254 8.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.50108 36.68260 8.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.50116 36.68265 8.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.50124 36.68271 8.86 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -4.50140 36.68248 8.88 319.45
+OBJECT_SHARED Models/lib/HorizTanks2.ac -4.50143 36.68250 9.01 139.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.50250 36.68472 8.54 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.50271 36.68487 8.30 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.50319 36.68522 8.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.50293 36.68503 8.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.50341 36.68537 8.24 0
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -4.51208 36.68529 6.13 224.8
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -4.51217 36.68613 10.24 224.8
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -4.51144 36.68501 9.81 200.4
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -4.51096 36.68469 10.27 259.21
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -4.51181 36.68510 10.34 224.8
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -4.51187 36.68592 10.29 224.8
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -4.50469 36.68034 9.84 291.37
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -4.50511 36.68023 11.64 287.09
+# END dsf2stg

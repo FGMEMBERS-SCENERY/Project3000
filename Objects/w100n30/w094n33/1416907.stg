@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.21463 33.22743 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.21895 33.22758 90.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.21901 33.22645 94.60 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.21917 33.22644 95.41 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.21888 33.22647 95.69 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.21908 33.22645 95.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.21920 33.22663 95.57 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.21893 33.22642 95.56 45
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.21914 33.22652 95.35 0
+OBJECT_SHARED Models/lib/shed8x10.ac -93.21893 33.22752 95.52 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.21867 33.22931 94.66 88.23
+OBJECT_SHARED Models/lib/cars6.ac -93.21840 33.22909 93.32 267.38
+OBJECT_SHARED Models/lib/SmHangar.ac -93.21842 33.22851 93.18 86.78
+OBJECT_SHARED Models/lib/SmHangar.ac -93.21834 33.22871 93.55 266.4
+OBJECT_SHARED Models/lib/SmHangar.ac -93.21847 33.22871 93.33 267.41
+OBJECT_SHARED Models/lib/prop_a.ac -93.21912 33.23034 93.51 357.29
+OBJECT_SHARED Models/lib/prop_a.ac -93.21912 33.23050 92.91 357.29
+# END dsf2stg

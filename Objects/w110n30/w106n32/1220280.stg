@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -105.96758 32.95758 0.00 90.5695
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -105.96773 32.95809 1384.09 0
+OBJECT_SHARED Models/lib/office3x10.ac -105.96767 32.95774 1384.83 91.5688
+OBJECT_SHARED Models/lib/propane-tank.ac -105.96755 32.95755 1384.23 312.534
+OBJECT_SHARED Models/lib/lamp10m.xml -105.96675 32.95815 1384.09 43.603
+OBJECT_SHARED Models/lib/lamp10m.xml -105.96775 32.95746 1385.90 232.001
+# END dsf2stg

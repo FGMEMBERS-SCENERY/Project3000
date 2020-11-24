@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -116.91166 48.18999 0.00 144
+OBJECT_SHARED Models/lib/SmHangar.ac -116.91180 48.18985 664.86 144
+OBJECT_SHARED Models/lib/SmHangar.ac -116.91195 48.18972 664.77 144
+OBJECT_SHARED Models/lib/LongRow.ac -116.91276 48.18912 664.60 54.24
+OBJECT_SHARED Models/lib/LongRow.ac -116.91356 48.18836 664.22 54.24
+OBJECT_SHARED Models/lib/lamp10m.xml -116.91131 48.19040 664.25 233.71
+OBJECT_SHARED Models/lib/lamp10m.xml -116.91118 48.19053 665.32 232.26
+# END dsf2stg

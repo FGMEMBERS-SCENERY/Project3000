@@ -1,26 +1,26 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree.xml -96.71740 35.48457 314.76 61.86
-OBJECT_SHARED Models/lib/deciduous-tree.xml -96.71743 35.48434 314.15 340.02
-OBJECT_SHARED Models/lib/deciduous-tree.xml -96.71726 35.48427 314.28 310.36
-OBJECT_SHARED Models/lib/deciduous-tree.xml -96.71742 35.48428 314.15 46.47
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.72030 35.48226 311.12 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.72084 35.48248 310.84 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -96.72038 35.48236 311.12 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -96.72083 35.48235 310.75 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -96.72084 35.48260 310.93 315
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.71865 35.48755 318.50 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.71849 35.48750 318.55 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.71930 35.48756 318.28 0
-OBJECT_SHARED Models/lib/SmHangar.ac -96.71981 35.48226 311.58 179.341
-OBJECT_SHARED Models/lib/SmHangar.ac -96.71979 35.48255 311.85 90
-OBJECT_SHARED Models/lib/garage-small-white.ac -96.72000 35.48355 312.45 180
-OBJECT_SHARED Models/lib/farm19x12.ac -96.71974 35.48449 313.96 90
-OBJECT_SHARED Models/lib/farm19x12.ac -96.71972 35.48410 313.64 90
-OBJECT_SHARED Models/lib/garage-small-white.ac -96.71709 35.48437 314.79 90
-OBJECT_SHARED Models/lib/garden-shed.ac -96.72002 35.48388 312.80 263.45
-OBJECT_SHARED Models/lib/garden-shed.ac -96.71995 35.48449 313.33 179.35
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -96.71977 35.48166 311.06 180.285
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -96.71989 35.48197 311.23 0.744064
+OBJECT_SHARED Models/lib/deciduous-tree.xml -96.71740 35.48457 0.00 61.86
+OBJECT_SHARED Models/lib/deciduous-tree.xml -96.71743 35.48434 316.60 340.02
+OBJECT_SHARED Models/lib/deciduous-tree.xml -96.71726 35.48427 316.32 310.36
+OBJECT_SHARED Models/lib/deciduous-tree.xml -96.71742 35.48428 316.05 46.47
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.72030 35.48226 316.32 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.72084 35.48248 312.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.72038 35.48236 311.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.72083 35.48235 312.43 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.72084 35.48260 311.89 315
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.71865 35.48755 312.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.71849 35.48750 316.50 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.71930 35.48756 316.19 0
+OBJECT_SHARED Models/lib/SmHangar.ac -96.71981 35.48226 318.53 179.341
+OBJECT_SHARED Models/lib/SmHangar.ac -96.71979 35.48255 313.17 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -96.72000 35.48355 313.48 180
+OBJECT_SHARED Models/lib/farm19x12.ac -96.71974 35.48449 314.73 90
+OBJECT_SHARED Models/lib/farm19x12.ac -96.71972 35.48410 315.14 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -96.71709 35.48437 315.09 90
+OBJECT_SHARED Models/lib/garden-shed.ac -96.72002 35.48388 317.38 263.45
+OBJECT_SHARED Models/lib/garden-shed.ac -96.71995 35.48449 314.63 179.35
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -96.71977 35.48166 314.83 180.285
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -96.71989 35.48197 312.53 0.744064
 # END dsf2stg

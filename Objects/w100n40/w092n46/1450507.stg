@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -91.24586 46.19874 0.00 180.69
+OBJECT_SHARED Models/lib/lamp10m.xml -91.24619 46.19869 405.59 359.81
+OBJECT_SHARED Models/lib/lamp10m.xml -91.24650 46.19859 405.49 249.68
+OBJECT_SHARED Models/lib/lamp10m.xml -91.24460 46.19555 405.40 20.1
+OBJECT_SHARED Models/lib/lamp10m.xml -91.24653 46.19820 407.80 15.52
+OBJECT_SHARED Models/lib/lamp10m.xml -91.24720 46.19807 405.48 195.36
+OBJECT_SHARED Models/lib/lamp10m.xml -91.24693 46.19830 405.15 195.36
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.24547 46.19777 405.26 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.24612 46.19831 406.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.24583 46.19822 405.60 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.24609 46.19883 405.77 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.24632 46.19810 405.50 0
+OBJECT_SHARED Models/lib/garden-shed.ac -91.24559 46.19829 405.58 103.3
+OBJECT_SHARED Models/lib/SmHangar.ac -91.24636 46.19848 405.82 0.900002
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.24566 46.19827 405.46 194.9
+OBJECT_SHARED Models/Transport/van_red.ac -91.24609 46.19796 405.78 281.35
+OBJECT_SHARED Models/Transport/hatchback_green.ac -91.24607 46.19792 405.71 297.21
+OBJECT_SHARED Models/lib/SmHangar.ac -91.24641 46.19877 405.74 90
+OBJECT_SHARED Models/lib/SmHangar.ac -91.24458 46.19557 405.39 17.2948
+# END dsf2stg

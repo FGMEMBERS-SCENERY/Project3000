@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 19.36222 49.08089 490.23 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 19.36188 49.08081 490.29 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 19.36164 49.08075 490.10 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 19.36141 49.08111 489.31 257.47
-OBJECT_SHARED Models/lib/shed8x10.ac 19.36068 49.08121 488.51 19.65
-OBJECT_SHARED Models/lib/cone.ac 19.36136 49.08107 489.31 180
-OBJECT_SHARED Models/lib/cone.ac 19.36139 49.08102 489.51 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 19.36222 49.08089 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 19.36188 49.08081 490.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 19.36164 49.08075 490.29 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 19.36141 49.08111 490.10 257.47
+OBJECT_SHARED Models/lib/shed8x10.ac 19.36068 49.08121 489.31 19.65
+OBJECT_SHARED Models/lib/cone.ac 19.36136 49.08107 488.51 180
+OBJECT_SHARED Models/lib/cone.ac 19.36139 49.08102 489.31 0
 OBJECT_SHARED Models/lib/cone.ac 19.36141 49.08099 489.51 0
 OBJECT_SHARED Models/lib/cone.ac 19.36142 49.08096 489.51 0
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 19.36099 49.08080 489.70 290.56
-OBJECT_SHARED Models/lib/shed8x10.ac 19.36086 49.08094 489.38 16.7
-OBJECT_SHARED Models/lib/shed8x10.ac 19.36091 49.08085 489.63 18.43
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 19.36173 49.08092 489.98 18.56
-OBJECT_SHARED Models/lib/SmHangar.ac 19.36094 49.08113 488.89 199.72
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 19.36231 49.08106 489.78 288.44
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 19.36075 49.08164 487.70 109.8
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 19.36099 49.08080 489.51 290.56
+OBJECT_SHARED Models/lib/shed8x10.ac 19.36086 49.08094 489.70 16.7
+OBJECT_SHARED Models/lib/shed8x10.ac 19.36091 49.08085 489.38 18.43
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 19.36173 49.08092 489.63 18.56
+OBJECT_SHARED Models/lib/SmHangar.ac 19.36094 49.08113 489.98 199.72
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 19.36231 49.08106 488.89 288.44
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 19.36075 49.08164 489.78 109.8
 # END dsf2stg

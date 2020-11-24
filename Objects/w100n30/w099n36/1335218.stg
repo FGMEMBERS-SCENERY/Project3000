@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office4x14.ac -98.35964 36.78731 0.00 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.35941 36.78830 358.59 90
+OBJECT_SHARED Models/lib/hangar81x16.ac -98.35943 36.78608 358.46 89.77
+OBJECT_SHARED Models/lib/prop_a.ac -98.35924 36.78760 358.55 317.97
+OBJECT_SHARED Models/Transport/hatchback_red.ac -98.35951 36.78731 358.29 89.03
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -98.35928 36.78830 358.51 0
+# END dsf2stg

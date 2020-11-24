@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/canopy38x8.ac -93.09752 35.25997 0.00 105.15
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.09752 35.25997 0.00 105.15
+OBJECT_SHARED Models/lib/LongRow.ac -93.09057 35.26124 111.25 15.02
+OBJECT_SHARED Models/lib/LongRow.ac -93.09382 35.26038 115.75 15.02
+OBJECT_SHARED Models/lib/LongRow.ac -93.09444 35.26020 113.44 105.15
+OBJECT_SHARED Models/lib/LongRow.ac -93.09533 35.26000 113.04 105.15
+OBJECT_SHARED Models/lib/LongRow.ac -93.09489 35.26010 112.50 105.15
+OBJECT_SHARED Models/lib/LongRow.ac -93.09570 35.25991 112.73 105.15
+OBJECT_SHARED Models/lib/fboModern1.ac -93.09704 35.26007 112.28 105.15
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -93.09958 35.25900 111.59 105.15
+# END dsf2stg

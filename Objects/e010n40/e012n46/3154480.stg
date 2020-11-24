@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 12.15004 46.76580 0.00 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 12.15045 46.76578 1195.92 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.15049 46.76581 1196.22 358
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 12.14990 46.76593 1196.29 349.51
+OBJECT_SHARED Models/Transport/hatchback_green.ac 12.14984 46.76593 1195.87 349.51
+OBJECT_SHARED Models/lib/transformer3x3.ac 12.15333 46.76602 1195.76 268.98
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.14993 46.76599 1200.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 12.14983 46.76600 1195.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.15654 46.76615 1195.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.15548 46.76609 1200.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.15439 46.76604 1200.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.15405 46.76602 1200.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.15343 46.76600 1200.27 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.15335 46.76592 1200.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.15323 46.76590 1199.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.15319 46.76581 1199.85 0
+# END dsf2stg

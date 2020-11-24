@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -120.05992 47.65517 0.00 90
+OBJECT_SHARED Models/lib/MedHangar.ac -120.06269 47.65489 803.28 90.32
+OBJECT_SHARED Models/lib/MedHangar.ac -120.06116 47.65471 804.64 176.88
+OBJECT_SHARED Models/lib/SmHangar.ac -120.06225 47.65539 802.87 272.11
+OBJECT_SHARED Models/lib/SmHangar.ac -120.06203 47.65536 804.49 273.38
+OBJECT_SHARED Models/lib/SmHangar.ac -120.06141 47.65539 804.49 270
+OBJECT_SHARED Models/lib/SmHangar.ac -120.06115 47.65541 803.88 270
+OBJECT_SHARED Models/lib/SmHangar.ac -120.06093 47.65541 803.88 270
+OBJECT_SHARED Models/lib/SmHangar.ac -120.06066 47.65541 803.88 270
+OBJECT_SHARED Models/lib/SmHangar.ac -120.05976 47.65464 803.88 90
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -120.05139 47.65404 707.40 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -120.05139 47.65393 711.97 0
+OBJECT_SHARED Models/lib/office4x14.ac -120.05413 47.65542 828.44 0
+# END dsf2stg

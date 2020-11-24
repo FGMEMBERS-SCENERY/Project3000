@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -95.36563 40.45176 0.00 180
+OBJECT_SHARED Models/lib/SmHangar.ac -95.36502 40.45057 282.85 0
+OBJECT_SHARED Models/lib/SmHangar.ac -95.36532 40.45078 281.94 180
+OBJECT_SHARED Models/lib/SmHangar.ac -95.36504 40.45110 282.19 0
+OBJECT_SHARED Models/lib/SmHangar.ac -95.36569 40.45094 282.20 0
+OBJECT_SHARED Models/lib/SmHangar.ac -95.36569 40.45075 282.42 0
+OBJECT_SHARED Models/lib/SmHangar.ac -95.36569 40.44999 282.31 0
+OBJECT_SHARED Models/lib/SmHangar.ac -95.36504 40.44986 281.95 90
+# END dsf2stg

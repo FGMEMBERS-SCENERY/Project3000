@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -110.90448 33.04787 560.49 176.98
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -110.90355 33.04778 560.36 310.17
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -110.90343 33.04757 560.48 176.28
-OBJECT_SHARED Models/lib/cars4.ac -110.90451 33.04766 559.46 176.61
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -110.90510 33.04783 559.59 295.02
-OBJECT_SHARED Models/Transport/hatchback_black.ac -110.90510 33.04788 559.70 293.63
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -110.90448 33.04787 0.00 176.98
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -110.90355 33.04778 560.49 310.17
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -110.90343 33.04757 560.36 176.28
+OBJECT_SHARED Models/lib/cars4.ac -110.90451 33.04766 560.48 176.61
+OBJECT_SHARED Models/Transport/hatchback_black.ac -110.90510 33.04783 559.28 295.02
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -110.90510 33.04788 559.52 293.63
 # END dsf2stg

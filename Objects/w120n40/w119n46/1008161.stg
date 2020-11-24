@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_silver.ac -118.59394 46.62135 0.00 254.62
+OBJECT_SHARED Models/Transport/hatchback_black.ac -118.59354 46.62154 456.49 267.65
+OBJECT_SHARED Models/lib/hangar81x16.ac -118.59281 46.62159 457.23 174.09
+OBJECT_SHARED Models/lib/shed8x10.ac -118.59171 46.62146 458.25 52.22
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -118.59209 46.62112 456.66 53.94
+OBJECT_SHARED Models/Transport/Norberttruck.xml -118.59292 46.62162 453.20 264.29
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -118.59256 46.62179 458.25 258.23
+OBJECT_SHARED Models/Transport/hatchback_black.ac -118.59285 46.62195 458.99 263.86
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -118.59244 46.62188 459.36 90
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -118.59233 46.62188 460.02 81.87
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -118.59240 46.62175 460.02 345.96
+OBJECT_SHARED Models/lib/trailer-ups.ac -118.59144 46.62149 459.26 64.48
+OBJECT_SHARED Models/lib/trailer-ups.ac -118.59150 46.62150 454.68 64.2
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -118.59186 46.62138 456.66 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -118.59187 46.62136 455.80 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -118.59166 46.62125 455.80 51.34
+OBJECT_SHARED Models/lib/watertank3x1.ac -118.59187 46.62119 454.07 326.31
+OBJECT_SHARED Models/lib/watertank3x1.ac -118.59284 46.62163 454.07 173.93
+OBJECT_SHARED Models/lib/industrial13x24.ac -118.59475 46.62159 458.25 358.33
+# END dsf2stg

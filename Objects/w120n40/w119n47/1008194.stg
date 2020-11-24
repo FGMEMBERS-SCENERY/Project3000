@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office6x12.ac -118.38828 47.12255 551.52 151.81
+OBJECT_SHARED Models/lib/SmHangar.ac -118.39034 47.12053 549.90 242
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -118.39188 47.11837 546.79 333.44
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -118.39155 47.11871 545.99 235.18
+OBJECT_SHARED Models/Transport/Norberttruck.xml -118.39147 47.11871 545.74 328.85
+OBJECT_SHARED Models/lib/watertank3x1.ac -118.39162 47.11910 546.48 316.15
+OBJECT_SHARED Models/lib/hangar81x16.ac -118.39167 47.11922 545.57 311.5
+# END dsf2stg

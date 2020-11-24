@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.78349 48.39696 0.00 268.75
+OBJECT_SHARED Models/lib/lamp10m.xml -97.78437 48.39753 333.77 -0.390015
+OBJECT_SHARED Models/lib/shed8x10.ac -97.78197 48.39740 334.46 90
+OBJECT_SHARED Models/Transport/Norberttruck.xml -97.78175 48.39750 332.71 89.54
+OBJECT_SHARED Models/lib/SmHangar.ac -97.78229 48.39737 332.57 89.71
+OBJECT_SHARED Models/lib/SmHangar.ac -97.78257 48.39737 332.95 90
+OBJECT_SHARED Models/lib/propane-tank.ac -97.78367 48.39759 333.18 94.16
+OBJECT_SHARED Models/lib/farm19x12.ac -97.78382 48.39769 334.01 91.53
+OBJECT_SHARED Models/Transport/hatchback_red.ac -97.78332 48.39757 334.09 90
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.78332 48.39760 333.73 270
+OBJECT_SHARED Models/lib/watertank3x1.ac -97.78356 48.39687 333.73 268.57
+OBJECT_SHARED Models/lib/watertank3x1.ac -97.78356 48.39689 333.82 269.05
+OBJECT_SHARED Models/lib/watertank3x1.ac -97.78382 48.39697 333.82 91.28
+OBJECT_SHARED Models/lib/propane-tank.ac -97.78143 48.39749 333.98 270
+OBJECT_SHARED Models/lib/prop_a.ac -97.78168 48.39716 332.24 90
+# END dsf2stg

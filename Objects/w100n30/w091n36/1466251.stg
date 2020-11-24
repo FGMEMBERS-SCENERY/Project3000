@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/admin-with-cars.ac -90.03795 36.23148 0.00 162.24
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -90.03699 36.23090 74.15 341.05
+OBJECT_SHARED Models/lib/industrial13x24.ac -90.03571 36.23365 73.90 180.85
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -90.03747 36.23181 74.50 90
+OBJECT_SHARED Models/lib/fboModern1.ac -90.03729 36.23093 74.19 252.2
+# END dsf2stg

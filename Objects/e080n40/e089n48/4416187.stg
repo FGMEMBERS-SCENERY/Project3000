@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/cargobox.xml 89.92044 48.99172 1730.40 330.1
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 89.91957 48.99116 1730.45 194.25
-OBJECT_SHARED Models/lib/admin31x12.ac 89.91962 48.99172 1730.92 225.21
+OBJECT_SHARED Models/Airport/cargobox.xml 89.92044 48.99172 0.00 330.1
+OBJECT_SHARED Models/Transport/hatchback_green.ac 89.91957 48.99116 1730.39 194.25
+OBJECT_SHARED Models/lib/admin31x12.ac 89.91962 48.99172 1730.45 225.21
 # END dsf2stg

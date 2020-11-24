@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -92.69384 37.97459 0.00 293.44
+OBJECT_SHARED Models/lib/industrial15x22.ac -92.69419 37.97437 320.85 22.38
+OBJECT_SHARED Models/lib/office8x14.ac -92.69425 37.97656 320.40 205.89
+OBJECT_SHARED Models/lib/HorizTanks2.ac -92.69356 37.97621 321.28 25.2477
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.69437 37.97454 321.38 108.263
+OBJECT_SHARED Models/lib/cars6.ac -92.69449 37.97501 320.27 114.452
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.69499 37.97621 320.50 0
+OBJECT_SHARED Models/lib/cars4.ac -92.69448 37.97653 320.93 32.7656
+OBJECT_SHARED Models/lib/prop_a.ac -92.69278 37.97197 321.19 58.8152
+OBJECT_SHARED Models/lib/prop_a.ac -92.69387 37.97484 321.00 204.044
+OBJECT_SHARED Models/lib/prop_a.ac -92.69266 37.97472 320.86 25.4893
+OBJECT_SHARED Models/lib/prop_a.ac -92.69325 37.97572 321.53 26.1754
+OBJECT_SHARED Models/Trees/billboard-tree.xml -92.69328 37.97447 321.41 0
+# END dsf2stg

@@ -1,42 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -110.14269 34.93514 1595.65 48.08
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -110.14201 34.93575 1595.78 229.46
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -110.14172 34.93566 1595.78 228.46
-OBJECT_SHARED Models/lib/SmHangar.ac -110.14210 34.93533 1595.92 318.91
-OBJECT_SHARED Models/lib/hangar81x16.ac -110.14158 34.93613 1595.65 52.37
-OBJECT_SHARED Models/lib/MedHangar.ac -110.14256 34.93491 1595.74 319.52
-OBJECT_SHARED Models/lib/SmHangar.ac -110.14193 34.93549 1595.85 319.22
-OBJECT_SHARED Models/lib/lamp10m.xml -110.14184 34.93557 1595.81 -67.13
-OBJECT_SHARED Models/lib/lamp10m.xml -110.14292 34.93455 1595.89 -42.73
-OBJECT_SHARED Models/lib/lamp10m.xml -110.14241 34.93504 1596.07 -39.17
-OBJECT_SHARED Models/lib/4container-office.ac -110.14203 34.93441 1596.76 51.15
-OBJECT_SHARED Models/lib/4container-office.ac -110.14232 34.93368 1596.93 52.35
-OBJECT_SHARED Models/lib/4container-office.ac -110.14223 34.93410 1596.92 53.13
-OBJECT_SHARED Models/lib/office3x10.ac -110.14247 34.93378 1596.90 316.54
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14244 34.93429 1596.99 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14245 34.93436 1596.76 180
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14238 34.93438 1596.76 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14284 34.93451 1595.95 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14216 34.93523 1595.97 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14281 34.93459 1595.89 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14050 34.93681 1597.12 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14051 34.93674 1596.18 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14054 34.93668 1596.18 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14244 34.93458 1596.29 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14274 34.93393 1596.72 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14268 34.93399 1596.60 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14042 34.93392 1597.83 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14045 34.93406 1597.99 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14051 34.93410 1597.17 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14047 34.93694 1597.13 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14216 34.93344 1597.01 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14206 34.93331 1597.03 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14212 34.93335 1597.03 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14200 34.93351 1596.99 270
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14207 34.93343 1597.01 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.14293 34.93429 1596.09 0
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -110.14288 34.93455 1595.95 49.64
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -110.14297 34.93532 1595.55 140.35
+OBJECT_SHARED Models/lib/SmHangar.ac -110.14166 34.93571 0.00 320.2
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -110.14045 34.93697 1595.78 46.5
+OBJECT_SHARED Models/lib/HorizTanks2.ac -110.14200 34.93540 1597.00 321.1
+OBJECT_SHARED Models/lib/LongRow.ac -110.14128 34.93645 1595.88 49.61
+OBJECT_SHARED Models/lib/shed8x10.ac -110.14248 34.93486 1596.23 50.06
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.14256 34.93450 1596.12 247.52
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.14240 34.93418 1595.95 221.82
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.14234 34.93424 1596.95 219.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.14228 34.93431 1596.95 220.73
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.14234 34.93447 1596.99 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.14227 34.93446 1596.51 217.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.14217 34.93446 1596.51 249.86
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.14237 34.93485 1596.51 228.81
 # END dsf2stg

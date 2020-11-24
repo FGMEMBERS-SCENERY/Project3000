@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -72.54204 42.11652 0.00 51
+OBJECT_SHARED Models/lib/NoParkStripes.xml -72.54217 42.11659 56.33 141
+OBJECT_SHARED Models/lib/NoParkStripes.xml -72.54204 42.11651 56.83 141
+OBJECT_SHARED Models/lib/NoParkStripes.xml -72.54192 42.11643 56.33 141
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54168 42.11630 55.99 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54173 42.11625 55.50 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54176 42.11620 55.50 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54174 42.11615 55.50 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54177 42.11609 55.17 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54179 42.11602 55.33 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54180 42.11596 54.90 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54178 42.11589 54.90 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54176 42.11583 53.80 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54176 42.11577 52.96 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54181 42.11573 52.96 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54186 42.11570 52.49 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54190 42.11565 53.04 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54194 42.11560 53.04 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54199 42.11555 52.90 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54204 42.11682 53.39 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54211 42.11681 56.67 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54217 42.11680 56.88 40
+OBJECT_SHARED Models/Trees/billboard-tree.xml -72.54225 42.11678 57.06 40
+# END dsf2stg

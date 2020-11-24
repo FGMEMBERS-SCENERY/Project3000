@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac 27.33906 37.94956 0.00 180
+OBJECT_SHARED Models/lib/prop_a.ac 27.33806 37.95023 4.04 272.86
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 27.33823 37.94973 3.40 93.18
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 27.33744 37.95010 3.70 2.2
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 27.33719 37.94994 3.27 87.4
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 27.33866 37.94956 3.31 270.53
+OBJECT_SHARED Models/lib/LongRow.ac 27.33689 37.94868 3.91 29.07
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 27.33535 37.94967 3.73 -1.35998
+OBJECT_SHARED Models/lib/office16x4n.ac 27.33782 37.94940 2.98 268.41
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33881 37.94919 3.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33874 37.94919 4.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33865 37.94917 4.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33855 37.94916 4.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33847 37.94915 4.09 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33838 37.94916 4.09 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33828 37.94916 4.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33819 37.94915 4.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33808 37.94916 3.99 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33799 37.94913 3.95 243.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33792 37.94908 3.97 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33784 37.94904 3.94 296.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.33778 37.94900 3.95 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33827 37.94934 3.95 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33831 37.94941 3.96 180
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33824 37.94943 3.90 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33820 37.94936 3.87 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33811 37.94938 3.87 270
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33819 37.94945 3.84 135
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33809 37.94946 3.87 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33818 37.94951 3.78 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33806 37.94952 3.81 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33815 37.94959 3.78 90
+OBJECT_SHARED Models/lib/deciduous-tree.xml 27.33805 37.94959 3.72 0
+# END dsf2stg

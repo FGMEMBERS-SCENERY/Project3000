@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/transformer3x3.ac -117.24650 33.88569 456.71 226.45
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -117.24667 33.88564 456.69 134
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -117.24617 33.88530 361.41 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -117.24587 33.88555 361.57 0
-OBJECT_SHARED Models/lib/MedHangar.ac -117.24731 33.88818 457.86 44.53
-OBJECT_SHARED Models/lib/MedHangar.ac -117.24800 33.88885 458.33 45.68
-OBJECT_SHARED Models/lib/lamp10m.xml -117.24718 33.88802 457.77 45
-OBJECT_SHARED Models/lib/lamp10m.xml -117.24785 33.88871 458.24 45
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac -117.24969 33.88773 458.13 284.04
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -117.24969 33.88756 458.08 135
+OBJECT_SHARED Models/lib/transformer3x3.ac -117.24650 33.88569 468.92 226.45
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -117.24667 33.88564 456.77 134
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -117.24617 33.88530 368.66 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -117.24587 33.88555 361.64 0
+OBJECT_SHARED Models/lib/MedHangar.ac -117.24731 33.88818 466.67 44.53
+OBJECT_SHARED Models/lib/MedHangar.ac -117.24800 33.88885 469.20 45.68
+OBJECT_SHARED Models/lib/lamp10m.xml -117.24718 33.88802 452.84 45
+OBJECT_SHARED Models/lib/lamp10m.xml -117.24785 33.88871 457.77 45
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -117.24969 33.88773 452.30 284.04
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -117.24969 33.88756 464.98 135
 # END dsf2stg

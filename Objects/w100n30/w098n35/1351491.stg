@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -97.22824 35.02486 -92.00 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -97.22982 35.02400 331.86 269.85
+OBJECT_SHARED Models/lib/office65x50.ac -97.22943 35.02309 332.56 270
+OBJECT_SHARED Models/lib/office32x25n.ac -97.22873 35.02339 332.05 0
+# END dsf2stg

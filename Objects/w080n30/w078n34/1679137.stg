@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -77.55054 34.50854 0.00 38.7323
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -77.55149 34.50844 17.59 38.7323
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -77.55119 34.50827 17.55 38.7323
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -77.55127 34.50818 17.62 38.7323
+OBJECT_SHARED Models/lib/industrial13x24.ac -77.54849 34.50693 17.66 39.5227
+OBJECT_SHARED Models/lib/industrial13x24.ac -77.54817 34.50716 18.61 39.5227
+OBJECT_SHARED Models/lib/shed8x10.ac -77.54849 34.50717 18.63 129.671
+OBJECT_SHARED Models/lib/shed8x10.ac -77.54754 34.50765 18.52 40.3359
+OBJECT_SHARED Models/lib/transformer3x3.ac -77.54777 34.50765 18.67 308.501
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.54615 34.50858 18.62 128.938
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.54632 34.50846 17.59 128.938
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.55059 34.50607 17.70 128.938
+# END dsf2stg

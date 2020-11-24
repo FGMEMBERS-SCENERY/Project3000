@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -91.81244 37.93631 0.00 288.583
+OBJECT_SHARED Models/lib/SmHangar.ac -91.81405 37.93640 293.21 90
+OBJECT_SHARED Models/lib/SmHangar.ac -91.81377 37.93641 293.10 90
+OBJECT_SHARED Models/lib/SmHangar.ac -91.81434 37.93641 293.15 90
+OBJECT_SHARED Models/lib/SmHangar.ac -91.81526 37.93636 293.06 90
+OBJECT_SHARED Models/lib/SmHangar.ac -91.81555 37.93638 292.76 90
+OBJECT_SHARED Models/lib/propane-tank.ac -91.81247 37.93618 292.65 90
+# END dsf2stg

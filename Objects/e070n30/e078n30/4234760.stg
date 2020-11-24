@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml 78.18332 30.18909 0.00 0
+OBJECT_SHARED Models/Airport/cargobox.xml 78.18335 30.18909 552.92 0
+OBJECT_SHARED Models/Airport/cargobox.xml 78.18338 30.18911 552.92 0
+OBJECT_SHARED Models/Airport/cargoim.xml 78.18324 30.18890 553.07 0
+OBJECT_SHARED Models/Airport/cargoim.xml 78.18335 30.18888 552.66 0
+OBJECT_SHARED Models/lib/container6-HD.ac 78.18344 30.18905 552.82 0
+OBJECT_SHARED Models/lib/container6-HD.ac 78.18324 30.18907 553.07 270
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 78.19337 30.19446 552.75 277.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 78.19334 30.19467 572.11 277.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 78.19331 30.19485 572.09 277.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 78.19328 30.19502 572.24 278.5
+OBJECT_SHARED Models/lib/RampParking.xml 78.19126 30.19450 572.31 187
+OBJECT_SHARED Models/lib/RampParking.xml 78.19167 30.19454 568.62 187.65
+OBJECT_SHARED Models/lib/RampParking.xml 78.19213 30.19460 569.27 187.65
+OBJECT_SHARED Models/lib/admin31x12.ac 78.17900 30.19263 570.00 99
+OBJECT_SHARED Models/lib/large-hangar.ac 78.18333 30.18810 549.80 100.3
+OBJECT_SHARED Models/Airport/cargoip.xml 78.18304 30.18895 552.48 0
+OBJECT_SHARED Models/Airport/cargobox.xml 78.18262 30.18902 552.34 0
+OBJECT_SHARED Models/Airport/cargobox.xml 78.18250 30.18900 551.76 0
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 78.19260 30.19574 551.60 97.94
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 78.19258 30.19590 571.88 97.94
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 78.19256 30.19602 572.11 97.94
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 78.19217 30.19571 572.22 187.43
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 78.19213 30.19595 571.23 187.43
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 78.19192 30.19592 571.29 187.43
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 78.19196 30.19570 570.96 187.43
+OBJECT_SHARED Models/lib/belt_loader.ac 78.19416 30.19498 570.90 270
+OBJECT_SHARED Models/lib/chariot3curve.ac 78.19397 30.19507 573.89 20
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 78.19380 30.19515 573.61 0
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 78.19400 30.19515 573.34 8.62
+OBJECT_SHARED Models/lib/RampGroup.xml 78.19240 30.19475 573.61 186.8
+# END dsf2stg

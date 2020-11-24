@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -121.87946 42.57416 0.50 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -121.87942 42.57448 1274.88 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -121.87951 42.57452 1275.38 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -121.87954 42.57460 1275.55 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -121.87888 42.57928 1275.69 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -121.87886 42.57946 1281.39 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -121.87821 42.58406 1281.62 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -121.87816 42.58409 1287.54 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -121.87805 42.58412 1287.54 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -121.87801 42.58444 1287.54 0
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -121.87924 42.57449 1287.52 172.51
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -121.87929 42.57412 1274.88 354.71
+OBJECT_SHARED Models/Transport/hatchback_green.ac -121.87702 42.58586 1274.22 26.56
+OBJECT_SHARED Models/lib/garden-shed.ac -121.87733 42.58653 1290.37 21.8
+OBJECT_SHARED Models/lib/garage-small-white.ac -121.87725 42.58555 1291.59 11.07
+OBJECT_SHARED Models/lib/garage-small-white.ac -121.87926 42.58744 1289.80 174.81
+OBJECT_SHARED Models/lib/dGreenhse.ac -121.87929 42.58596 1299.07 93.58
+OBJECT_SHARED Models/lib/garden-shed.ac -121.87977 42.58669 1296.10 90
+OBJECT_SHARED Models/lib/farm19x12.ac -121.87936 42.58692 1299.77 204.44
+OBJECT_SHARED Models/lib/dGreenhse.ac -121.87713 42.57234 1298.84 143.47
+OBJECT_SHARED Models/lib/garage-small-white.ac -121.87733 42.57232 1270.64 141.63
+OBJECT_SHARED Models/lib/garden-shed.ac -121.87980 42.57331 1270.64 84.47
+OBJECT_SHARED Models/lib/garden-shed.ac -121.87794 42.57508 1273.64 87.4
+OBJECT_SHARED Models/lib/SmHangar.ac -121.87773 42.57937 1275.80 84.86
+OBJECT_SHARED Models/lib/dGreenhse.ac -121.88047 42.56979 1281.16 270
+OBJECT_SHARED Models/lib/farm19x12.ac -121.88040 42.56995 1268.38 235.58
+OBJECT_SHARED Models/lib/SmHangar.ac -121.87784 42.57970 1268.53 264
+OBJECT_SHARED Models/lib/SmHangar.ac -121.87750 42.57935 1281.49 84.86
+OBJECT_SHARED Models/lib/SmHangar.ac -121.87743 42.57919 1281.16 264.35
+# END dsf2stg

@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -114.03766 46.54026 0.00 6.05668
+OBJECT_SHARED Models/lib/dGreenhse.ac -114.03796 46.54015 1084.21 109.39
+OBJECT_SHARED Models/lib/deciduous-tree.xml -114.03811 46.54002 1084.65 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -114.03813 46.53997 1084.87 270
+OBJECT_SHARED Models/lib/deciduous-tree.xml -114.03805 46.53999 1084.87 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -114.03821 46.53991 1084.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.03859 46.54004 1085.09 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.03861 46.54009 1084.24 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.03857 46.54016 1084.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.03846 46.54024 1083.83 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.03854 46.54031 1084.43 161.565
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.03852 46.54035 1083.63 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.03855 46.54040 1083.43 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.03824 46.54046 1083.43 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.03841 46.54045 1083.78 0
+OBJECT_SHARED Models/lib/propane-tank.ac -114.03830 46.54056 1083.99 3.55114
+OBJECT_SHARED Models/lib/shed8x10.ac -114.03831 46.54061 1083.57 91.4851
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -114.03771 46.54071 1083.57 246.666
+OBJECT_SHARED Models/Transport/van_silver.ac -114.03799 46.54024 1083.36 110.556
+# END dsf2stg

@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.66248 47.43653 113.25 0
-OBJECT_SHARED Models/lib/fboModern1.ac -122.66258 47.43594 112.79 149.41
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -122.66238 47.43621 112.70 121.18
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.66251 47.43639 114.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.66248 47.43653 0.00 0
+OBJECT_SHARED Models/lib/fboModern1.ac -122.66258 47.43594 113.25 149.41
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -122.66238 47.43621 112.79 121.18
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.66251 47.43639 112.70 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.66267 47.43645 114.00 0
-OBJECT_SHARED Models/lib/hangar81x16.ac -122.66417 47.43495 111.90 58.91
-OBJECT_SHARED Models/lib/hangar81x16.ac -122.66451 47.43508 114.52 58.72
+OBJECT_SHARED Models/lib/hangar81x16.ac -122.66417 47.43495 114.00 58.91
+OBJECT_SHARED Models/lib/hangar81x16.ac -122.66451 47.43508 111.90 58.72
 # END dsf2stg

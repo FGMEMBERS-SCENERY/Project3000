@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -95.72788 38.30086 0.00 90
+OBJECT_SHARED Models/lib/LongRow.ac -95.72788 38.30137 357.72 90
+OBJECT_SHARED Models/lib/MedHangar.ac -95.72782 38.30267 357.75 179.57
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.72807 38.30381 358.03 178.75
+OBJECT_SHARED Models/lib/industrial13x24.ac -95.72826 38.30019 357.87 179.64
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -95.72838 38.30234 357.00 90
+OBJECT_SHARED Models/Transport/van_red.ac -95.72781 38.30258 357.41 90
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.72781 38.30254 358.02 90
+# END dsf2stg

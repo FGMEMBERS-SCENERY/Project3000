@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -112.03615 46.74068 0.00 5.79356
+OBJECT_SHARED Models/Transport/van_red.ac -112.03594 46.74078 1219.71 275.274
+OBJECT_SHARED Models/Transport/hatchback_black.ac -112.03572 46.74050 1219.92 229.399
+OBJECT_SHARED Models/Transport/van_red.ac -112.03592 46.74064 1219.29 280.305
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -112.03593 46.74067 1219.50 277.696
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.03572 46.74033 1219.71 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.03554 46.74037 1218.87 270
+OBJECT_SHARED Models/lib/farm19x12.ac -112.03588 46.74054 1219.08 6.0111
+# END dsf2stg

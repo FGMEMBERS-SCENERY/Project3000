@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac 136.63436 36.55483 0.00 84.57
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 136.63442 36.55485 10.84 264.96
+OBJECT_SHARED Models/Transport/hatchback_black.ac 136.63443 36.55493 11.14 266.44
+OBJECT_SHARED Models/Transport/hatchback_red.ac 136.63444 36.55502 11.14 264.7
+OBJECT_SHARED Models/Transport/hatchback_red.ac 136.63486 36.55526 11.45 165.66
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 136.63489 36.55526 12.54 166.23
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 136.63446 36.55517 12.54 266.72
+OBJECT_SHARED Models/Transport/hatchback_black.ac 136.63445 36.55515 11.89 266.74
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 136.63444 36.55505 11.67 265.4
+OBJECT_SHARED Models/Transport/hatchback_red.ac 136.63437 36.55493 11.45 84.84
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 136.63437 36.55496 11.14 85.45
+OBJECT_SHARED Models/Transport/van_silver.ac 136.63439 36.55513 11.45 84.05
+OBJECT_SHARED Models/Transport/hatchback_green.ac 136.63440 36.55518 11.67 84.87
+OBJECT_SHARED Models/lib/watertank3x1.ac 136.63410 36.55513 11.89 355.53
+OBJECT_SHARED Models/Transport/hatchback_green.ac 136.63481 36.55528 11.67 164.71
+OBJECT_SHARED Models/Airport/cargobox.xml 136.63413 36.55525 12.54 265.75
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 136.63440 36.55489 12.10 175.29
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 136.63442 36.55508 11.14 174.92
+# END dsf2stg

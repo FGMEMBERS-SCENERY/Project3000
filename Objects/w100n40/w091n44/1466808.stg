@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -90.91909 44.95295 0.00 270
+OBJECT_SHARED Models/lib/2_spaces_dual.ac -90.91962 44.95313 340.05 90
+OBJECT_SHARED Models/lib/2_spaces_dual.ac -90.91962 44.95308 339.70 90
+OBJECT_SHARED Models/lib/2_spaces_dual.ac -90.91963 44.95303 339.70 90
+OBJECT_SHARED Models/Transport/hatchback_red.ac -90.91944 44.95426 339.85 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.91948 44.95426 338.07 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.92001 44.95387 338.00 183.627
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.92018 44.95382 338.44 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.92004 44.95382 338.54 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.92033 44.95382 338.59 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.91876 44.95292 338.50 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.91905 44.95297 340.13 179.509
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.91901 44.95297 339.90 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.91883 44.95297 339.93 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.91876 44.95297 339.99 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.91959 44.95314 339.99 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.91966 44.95311 339.70 271.45
+OBJECT_SHARED Models/lib/cars4.ac -90.91964 44.95331 339.69 359.201
+OBJECT_SHARED Models/lib/cars4.ac -90.91975 44.95379 339.39 0
+OBJECT_SHARED Models/lib/cars10.ac -90.92044 44.95397 338.59 0.559052
+OBJECT_SHARED Models/lib/cars10.ac -90.92000 44.95372 338.15 184.591
+OBJECT_SHARED Models/lib/cars14.ac -90.91907 44.95278 338.74 269.793
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.91812 44.95371 340.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.91731 44.95269 339.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.91783 44.95251 341.28 262.999
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.91837 44.95250 341.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.91882 44.95246 340.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.91915 44.95246 340.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.91951 44.95246 340.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.91988 44.95247 340.65 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.91865 44.95419 340.61 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.91889 44.95386 338.67 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -90.91893 44.95414 338.79 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -90.91905 44.95400 338.58 333.436
+OBJECT_SHARED Models/lib/deciduous-tree.xml -90.91906 44.95381 338.62 0
+# END dsf2stg

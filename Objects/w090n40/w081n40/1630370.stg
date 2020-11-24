@@ -1,17 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25031 40.50097 350.53 90
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25314 40.50105 350.82 90
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25392 40.50107 350.97 90
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25618 40.50112 351.19 90
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25725 40.50115 351.36 90
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25816 40.50117 351.44 90
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25893 40.50119 351.50 90
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.26366 40.50103 351.78 90
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.26410 40.50105 351.81 90
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.27086 40.50122 352.32 90
-OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.27130 40.50123 352.34 90
-OBJECT_SHARED Models/lib/LgMaint.ac -80.26730 40.50491 353.42 178
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -80.26694 40.50488 353.45 87
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25023 40.50096 343.68 90
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25320 40.50104 351.63 145.78
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25383 40.50106 351.95 90
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25621 40.50111 352.07 87.4
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25720 40.50114 352.26 87.14
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25821 40.50117 352.33 90
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.25884 40.50118 352.45 138.37
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.26369 40.50103 352.48 83.99
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.26407 40.50105 352.46 90
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.27090 40.50122 352.46 90
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -80.27126 40.50123 352.14 90
+OBJECT_SHARED Models/lib/LgMaint.ac -80.26730 40.50491 344.45 178
 # END dsf2stg

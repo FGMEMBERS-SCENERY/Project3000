@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -111.33634 42.25271 0.00 64.95
+OBJECT_SHARED Models/lib/MedHangar.ac -111.33694 42.25289 1806.62 64.41
+OBJECT_SHARED Models/lib/SmHangar.ac -111.33653 42.25277 1806.59 64.67
+OBJECT_SHARED Models/Transport/van_silver.ac -111.33655 42.25317 1806.60 246.3
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.33775 42.25284 1806.56 119.32
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.33656 42.25314 1806.59 249.62
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -111.33723 42.25315 1806.57 0
+OBJECT_SHARED Models/lib/2vending-machines.ac -111.33716 42.25313 1806.57 244.44
+OBJECT_SHARED Models/lib/SmHangar.ac -111.33751 42.25311 1806.57 156.78
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.33738 42.25320 1806.55 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -111.33682 42.25257 1806.56 334.96
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -111.33728 42.25228 1806.62 64.52
+OBJECT_SHARED Models/lib/transformer3x3.ac -111.33726 42.25345 1806.64 335.09
+OBJECT_SHARED Models/lib/transformer3x3.ac -111.33749 42.25319 1806.53 64.87
+# END dsf2stg

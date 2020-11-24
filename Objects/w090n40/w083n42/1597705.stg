@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -82.65341 42.13748 0.00 235.02
+OBJECT_SHARED Models/lib/stack_of_cones.ac -82.65348 42.13759 195.06 235.02
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -82.65342 42.13746 195.07 176.87
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -82.65340 42.13759 195.06 235.02
+OBJECT_SHARED Models/Misc/6barrels.ac -82.65352 42.13749 195.06 235.02
+OBJECT_SHARED Models/Misc/6barrels.ac -82.65353 42.13749 195.06 235.02
+OBJECT_SHARED Models/lib/2vending-machines.ac -82.65342 42.13747 195.06 87.2202
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65338 42.13705 195.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65392 42.13708 195.01 63.4348
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65372 42.13683 195.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65357 42.13674 194.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65372 42.13708 194.96 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65339 42.13689 195.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65401 42.13677 194.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65415 42.13676 194.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65414 42.13689 194.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65385 42.13684 194.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65386 42.13676 194.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65360 42.13682 194.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65373 42.13692 194.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65429 42.13680 194.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65427 42.13698 194.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65429 42.13685 194.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65427 42.13708 194.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65427 42.13690 195.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65426 42.13716 194.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65337 42.13724 195.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65425 42.13722 195.03 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65346 42.13740 195.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.65352 42.13741 195.05 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -82.65369 42.13741 195.05 87.4995
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -82.65321 42.13729 195.05 87.9137
+OBJECT_SHARED Models/lib/farm19x12.ac -82.65355 42.13705 195.03 86.4127
+OBJECT_SHARED Models/lib/farm19x12.ac -82.65386 42.13696 195.01 356.878
+# END dsf2stg

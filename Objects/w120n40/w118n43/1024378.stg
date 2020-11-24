@@ -1,12 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -117.25033 43.96656 0.00 267.25
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -117.25033 43.96642 0.00 271.51
-OBJECT_SHARED Models/lib/SmHangar.ac -117.25051 43.96680 0.00 359.53
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25006 43.96637 0.00 270
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25017 43.96684 0.00 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25058 43.96739 -0.00 0
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -117.25153 43.96703 0.00 -89.76
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -117.25097 43.96718 -95.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25022 43.96791 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25021 43.96782 683.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25048 43.96795 683.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25050 43.96781 683.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25004 43.96752 683.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25032 43.96752 684.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25046 43.96760 684.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25051 43.96771 684.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25073 43.96448 684.37 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25069 43.96465 684.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -117.25002 43.96696 684.34 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -117.25090 43.96739 589.37 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -117.25008 43.96714 684.72 182.49
+OBJECT_SHARED Models/Transport/van_red.ac -117.25013 43.96714 684.37 181.32
+OBJECT_SHARED Models/Transport/hatchback_red.ac -117.25018 43.96714 684.37 179.72
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -117.25024 43.96714 684.37 180.7
+OBJECT_SHARED Models/Transport/hatchback_black.ac -117.25028 43.96714 684.37 180.26
+OBJECT_SHARED Models/Transport/hatchback_green.ac -117.25023 43.96679 684.37 179.54
+OBJECT_SHARED Models/Transport/hatchback_red.ac -117.25029 43.96679 684.37 179.81
+OBJECT_SHARED Models/lib/farm19x12.ac -117.25382 43.96532 684.37 259.91
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -117.25077 43.96714 684.37 90
 # END dsf2stg

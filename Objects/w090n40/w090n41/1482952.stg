@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -89.95974 41.20108 0.00 8.13016
+OBJECT_SHARED Models/lib/lamp10m.xml -89.96023 41.20108 258.18 181.469
+OBJECT_SHARED Models/lib/lamp10m.xml -89.95974 41.20123 258.19 1.73572
+OBJECT_SHARED Models/lib/lamp10m.xml -89.96023 41.20123 258.27 180
+OBJECT_SHARED Models/lib/lamp10m.xml -89.95973 41.20140 258.29 2.12112
+OBJECT_SHARED Models/lib/lamp10m.xml -89.96022 41.20140 258.45 180
+OBJECT_SHARED Models/lib/hangar81x16.ac -89.96092 41.20213 258.47 270
+OBJECT_SHARED Models/lib/admin-with-cars.ac -89.95991 41.20141 259.00 270
+OBJECT_SHARED Models/lib/prop_a.ac -89.95963 41.20244 258.46 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.95973 41.20169 258.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.95980 41.20081 258.67 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.95956 41.20051 257.89 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.95945 41.20058 257.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.95939 41.20067 257.68 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.95952 41.20082 257.78 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.96030 41.20103 257.89 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.95997 41.20118 258.10 0
+OBJECT_SHARED Models/lib/MedHangar.ac -89.95944 41.20184 258.29 0
+OBJECT_SHARED Models/lib/4space_wStop.ac -89.96021 41.20130 258.67 180.73
+OBJECT_SHARED Models/lib/4space_wStop.ac -89.96021 41.20109 258.39 180
+OBJECT_SHARED Models/lib/4space_wStop.ac -89.96021 41.20120 258.19 180
+OBJECT_SHARED Models/lib/4space_wStop.ac -89.96021 41.20141 258.29 180
+OBJECT_SHARED Models/lib/4space_wStop.ac -89.96021 41.20151 258.47 180
+OBJECT_SHARED Models/lib/4space_wStop.ac -89.96021 41.20162 258.55 180.48
+OBJECT_SHARED Models/lib/farm19x12.ac -89.95974 41.20065 258.63 179.31
+OBJECT_SHARED Models/lib/2_spaces_dual.ac -89.95997 41.20127 257.79 90
+OBJECT_SHARED Models/lib/2_spaces_dual.ac -89.95997 41.20132 258.38 90
+OBJECT_SHARED Models/lib/2_spaces_dual.ac -89.95997 41.20136 258.38 90
+OBJECT_SHARED Models/lib/2_spaces_dual.ac -89.95997 41.20141 258.46 90
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -89.95997 41.20156 258.46 180
+OBJECT_SHARED Models/lib/hangar81x16.ac -89.95856 41.20090 258.62 90
+OBJECT_SHARED Models/lib/hangar81x16.ac -89.96051 41.20213 257.95 270.57
+# END dsf2stg

@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -77.60744 34.82978 0.00 315.73
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -77.61067 34.82702 26.30 315.73
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.60980 34.82777 25.60 315.73
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.60987 34.82771 25.80 315.73
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -77.60942 34.82760 25.78 225.73
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -77.60942 34.82760 25.78 225.73
+OBJECT_SHARED Models/lib/fboModern1.ac -77.61015 34.82744 25.81 315.73
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -77.60700 34.82893 26.22 45.24
+# END dsf2stg

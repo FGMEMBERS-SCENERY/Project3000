@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office112x50.ac -77.53738 36.70139 0.00 164.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53686 36.70249 35.82 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53684 36.70254 34.98 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53682 36.70260 35.13 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53680 36.70266 34.75 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53679 36.70272 34.53 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53693 36.70275 34.53 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53700 36.70277 34.54 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53708 36.70278 34.13 26.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53710 36.70272 34.11 26.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53713 36.70261 34.55 26.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53685 36.70273 34.77 26.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53711 36.70267 34.54 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53692 36.70250 34.55 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53697 36.70252 34.98 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53704 36.70253 34.99 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53714 36.70256 34.99 25.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.53709 36.70254 34.77 25.01
+OBJECT_SHARED Models/lib/office8x14.ac -77.53979 36.70106 34.63 255
+OBJECT_SHARED Models/lib/office4x14.ac -77.54017 36.70103 35.00 344
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53683 36.70267 35.47 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53685 36.70263 34.53 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53686 36.70258 34.75 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53688 36.70254 34.77 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53707 36.70268 34.98 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53710 36.70260 34.55 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53705 36.70273 34.77 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53708 36.70264 34.55 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53696 36.70254 34.77 300
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53707 36.70256 34.99 300
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53691 36.70253 34.77 300
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53702 36.70255 34.98 300
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53685 36.70271 34.76 299.8
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53696 36.70273 34.54 299.8
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53691 36.70272 34.55 299.8
+OBJECT_SHARED Models/Effects/taxilampblue.xml -77.53701 36.70274 34.54 299.8
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.53665 36.70151 34.05 43.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.53657 36.70145 35.57 43.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.53642 36.70132 35.63 43.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.53649 36.70138 35.70 43.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.53645 36.70166 35.63 43.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.53622 36.70146 35.49 43.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.53630 36.70153 35.81 43.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.53638 36.70159 35.72 43.01
+OBJECT_SHARED Models/lib/canopy18x8.ac -77.53652 36.70142 35.60 43.01
+OBJECT_SHARED Models/lib/canopy18x8.ac -77.53633 36.70157 35.63 43.01
+# END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -88.53079 30.46141 0.00 107.23
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -88.52614 30.46251 3.14 104.93
+OBJECT_SHARED Models/lib/propane-tank.ac -88.52530 30.46201 2.85 193.82
+OBJECT_SHARED Models/lib/HorizTanks2.ac -88.52568 30.46191 2.79 193.57
+OBJECT_SHARED Models/lib/cube16x10.ac -88.52605 30.46233 2.80 104.88
+OBJECT_SHARED Models/lib/SmHangar.ac -88.52684 30.46511 2.84 14.26
+OBJECT_SHARED Models/lib/MedHangar.ac -88.52620 30.46284 2.97 14.12
+OBJECT_SHARED Models/lib/SmHangar.ac -88.52635 30.46225 2.87 194.32
+OBJECT_SHARED Models/lib/LongRow.ac -88.52668 30.46189 2.85 103.29
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -88.52485 30.46657 2.85 0
+# END dsf2stg

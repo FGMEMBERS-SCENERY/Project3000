@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -8.63902 40.91530 0.00 345.97
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -8.63261 40.91837 19.12 0
+OBJECT_SHARED Models/lib/shed8x10.ac -8.63664 40.90657 26.34 104.4
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -8.63650 40.90640 23.90 285.46
+OBJECT_SHARED Models/lib/6space_wStop.ac -8.63604 40.90639 24.18 15.93
+OBJECT_SHARED Models/lib/6space_wStop.ac -8.63622 40.90632 24.89 195.1
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -8.63511 40.92345 24.65 4.94
+OBJECT_SHARED Models/lib/stack_of_cones.ac -8.63554 40.90668 22.99 0
+OBJECT_SHARED Models/lib/MedHangar.ac -8.63408 40.90595 25.57 352.31
+OBJECT_SHARED Models/lib/HorizTanks2.ac -8.64077 40.91720 28.07 271.46
+OBJECT_SHARED Models/lib/office32x25n.ac -8.64056 40.91706 16.63 3.32
+OBJECT_SHARED Models/lib/office112x50.ac -8.63602 40.91453 16.96 260.46
+OBJECT_SHARED Models/lib/LongRow.ac -8.63794 40.91785 23.23 95.2
+OBJECT_SHARED Models/lib/LongRow.ac -8.63128 40.90688 20.23 91.19
+OBJECT_SHARED Models/lib/LongRow.ac -8.63090 40.90684 31.50 90
+OBJECT_SHARED Models/lib/office32x25.ac -8.63143 40.90514 32.07 90
+OBJECT_SHARED Models/lib/office65x50.ac -8.63083 40.90569 31.98 180.91
+# END dsf2stg

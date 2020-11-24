@@ -1,6 +1,6 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 12.50294 48.04823 539.10 100
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 12.50305 48.04831 539.00 98
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 12.50294 48.04823 0.00 100
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 12.50305 48.04831 539.12 98
 # END dsf2stg

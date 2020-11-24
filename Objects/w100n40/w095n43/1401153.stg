@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed10x50.ac -94.69986 43.10179 0.00 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -94.69897 43.10080 366.91 0
+OBJECT_SHARED Models/lib/prop_a.ac -94.70009 43.10123 366.94 90
+OBJECT_SHARED Models/lib/propane-tank.ac -94.69944 43.10133 366.98 144.689
+OBJECT_SHARED Models/lib/propane-tank.ac -94.69975 43.10073 366.79 90
+OBJECT_SHARED Models/lib/propane-tank.ac -94.70049 43.10074 367.17 180
+# END dsf2stg

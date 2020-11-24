@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 0.01917 45.26892 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 0.01911 45.26890 85.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 0.01903 45.26888 85.31 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 0.01900 45.26893 85.25 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 0.01907 45.26896 85.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01225 45.26680 85.34 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01210 45.26676 85.34 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01206 45.26686 85.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01205 45.26694 85.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01217 45.26418 85.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01213 45.26429 80.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01215 45.26439 80.41 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01211 45.26458 80.81 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01210 45.26466 81.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01209 45.26477 81.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01212 45.26482 81.80 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.01209 45.26490 81.89 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.02162 45.26968 81.83 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 0.01959 45.26917 85.38 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 0.01913 45.26898 85.81 0
+OBJECT_SHARED Models/lib/cars4.ac 0.01901 45.26875 85.38 171.041
+OBJECT_SHARED Models/lib/prop_a.ac 0.01823 45.26853 85.21 294.007
+OBJECT_SHARED Models/lib/cone.ac 0.01930 45.26890 84.48 174.076
+OBJECT_SHARED Models/lib/stack_of_cones.ac 0.01974 45.26903 85.50 217.709
+OBJECT_SHARED Models/lib/stack_of_cones.ac 0.01966 45.26914 85.95 174.076
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 0.01922 45.26893 85.87 115.926
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.01971 45.26904 85.43 174.076
+OBJECT_SHARED Models/Misc/6barrels.ac 0.01926 45.26899 85.92 174.076
+OBJECT_SHARED Models/Misc/6barrels.ac 0.01926 45.26900 85.48 174.076
+OBJECT_SHARED Models/lib/2vending-machines.ac 0.01928 45.26890 85.47 26.2759
+OBJECT_SHARED Models/lib/transformer3x3.ac 0.01927 45.26879 85.48 203.001
+# END dsf2stg

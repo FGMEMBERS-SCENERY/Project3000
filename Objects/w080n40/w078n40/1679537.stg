@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -77.65869 40.81160 0.00 38.88
+OBJECT_SHARED Models/lib/office3x10.ac -77.65881 40.81155 385.31 308.11
+OBJECT_SHARED Models/lib/farm19x12.ac -77.65887 40.81129 386.32 217.71
+OBJECT_SHARED Models/Transport/van_silver.ac -77.65986 40.81078 390.28 126
+OBJECT_SHARED Models/lib/trailer-fedex.ac -77.65876 40.81150 385.61 36
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65910 40.81124 386.32 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65915 40.81144 389.36 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65944 40.81145 383.41 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65948 40.81144 379.47 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65952 40.81141 379.40 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65977 40.81121 379.40 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65972 40.81124 379.19 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65962 40.81135 379.26 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65965 40.81133 379.33 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65969 40.81131 379.27 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65972 40.81130 379.27 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65975 40.81127 379.27 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65979 40.81124 379.20 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65921 40.81114 379.19 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -77.65915 40.81119 390.09 0
+OBJECT_SHARED Models/lib/prop_a.ac -77.66018 40.81052 389.36 306.25
+OBJECT_SHARED Models/lib/prop_a.ac -77.65726 40.81215 388.66 304.52
+# END dsf2stg

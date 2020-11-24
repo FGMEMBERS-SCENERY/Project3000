@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac 138.40946 35.02425 0.00 144.65
+OBJECT_SHARED Models/Transport/hatchback_green.ac 138.40951 35.02422 7.41 144.65
+OBJECT_SHARED Models/Transport/van_red.ac 138.40939 35.02430 9.04 144.65
+OBJECT_SHARED Models/Transport/hatchback_green.ac 138.40936 35.02431 7.41 144.65
+OBJECT_SHARED Models/Transport/hatchback_red.ac 138.40929 35.02435 7.41 144.65
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 138.40924 35.02438 7.26 144.65
+OBJECT_SHARED Models/Transport/hatchback_red.ac 138.40919 35.02441 7.26 144.65
+OBJECT_SHARED Models/Transport/van_red.ac 138.40917 35.02442 7.26 144.65
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 138.40912 35.02432 7.26 324.73
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 138.40910 35.02434 7.41 324.73
+OBJECT_SHARED Models/Transport/hatchback_red.ac 138.40917 35.02430 7.41 324.73
+OBJECT_SHARED Models/Transport/van_red.ac 138.40922 35.02427 7.41 324.73
+OBJECT_SHARED Models/Transport/hatchback_red.ac 138.40925 35.02425 7.41 324.73
+OBJECT_SHARED Models/Transport/van_silver.ac 138.40927 35.02424 7.41 324.73
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 138.40935 35.02419 7.60 324.73
+OBJECT_SHARED Models/Transport/hatchback_red.ac 138.40940 35.02416 7.60 324.73
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 138.40943 35.02415 7.60 324.73
+OBJECT_SHARED Models/Transport/hatchback_black.ac 138.40950 35.02429 7.78 324.73
+OBJECT_SHARED Models/Transport/hatchback_black.ac 138.40945 35.02432 7.41 324.73
+OBJECT_SHARED Models/Transport/hatchback_black.ac 138.40942 35.02434 7.41 324.73
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 138.40937 35.02436 7.41 324.73
+OBJECT_SHARED Models/Transport/van_red.ac 138.40930 35.02440 7.26 324.73
+OBJECT_SHARED Models/Transport/van_red.ac 138.40928 35.02442 7.26 324.73
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 138.40925 35.02443 7.26 324.73
+OBJECT_SHARED Models/Transport/hatchback_red.ac 138.40920 35.02446 7.26 324.73
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 138.40925 35.02441 7.13 234.94
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 138.40945 35.02429 7.26 235.11
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40870 35.02455 7.91 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40858 35.02447 7.63 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40858 35.02438 7.63 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40867 35.02429 7.76 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40878 35.02427 7.91 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40890 35.02435 7.91 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40891 35.02445 7.76 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40881 35.02454 7.76 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40864 35.02451 7.63 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40863 35.02433 7.63 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40884 35.02431 7.91 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40886 35.02449 7.91 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40853 35.02443 7.63 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40873 35.02423 7.76 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40896 35.02440 8.10 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 138.40876 35.02459 7.76 0
+# END dsf2stg

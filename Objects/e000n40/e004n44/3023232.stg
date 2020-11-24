@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial15x22.ac 4.14483 44.07338 0.00 78
+OBJECT_SHARED Models/lib/office4x14.ac 4.14484 44.07317 183.13 168.64
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 4.14466 44.07271 183.20 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 4.14452 44.07272 183.68 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 4.14458 44.07272 183.86 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 4.14473 44.07278 183.78 279.95
+OBJECT_SHARED Models/Transport/hatchback_green.ac 4.14474 44.07284 183.53 279.66
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 4.14476 44.07288 183.52 290.27
+OBJECT_SHARED Models/Transport/van_red.ac 4.14476 44.07291 183.45 280.3
+OBJECT_SHARED Models/Transport/hatchback_black.ac 4.14477 44.07295 183.45 290.56
+OBJECT_SHARED Models/Transport/hatchback_black.ac 4.14479 44.07300 183.43 280.01
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.14480 44.07305 183.36 283.84
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 4.14462 44.07296 183.34 39.69
+OBJECT_SHARED Models/Transport/hatchback_black.ac 4.14464 44.07301 183.59 44.26
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 4.14467 44.07311 183.56 47.35
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.14468 44.07315 183.48 42.88
+OBJECT_SHARED Models/Transport/hatchback_green.ac 4.14470 44.07320 183.46 39.81
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 4.14453 44.07261 183.40 349.12
+OBJECT_SHARED Models/lib/SmHangar.ac 4.14444 44.07244 183.90 349.62
+OBJECT_SHARED Models/lib/cube16x10.ac 4.14439 44.07224 184.14 169.5
+OBJECT_SHARED Models/lib/stack_of_cones.ac 4.14430 44.07160 184.33 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 4.14433 44.07144 184.87 256.7
+OBJECT_SHARED Models/lib/SmHangar.ac 4.14408 44.07110 184.98 346.2
+OBJECT_SHARED Models/lib/SmHangar.ac 4.14412 44.07120 185.56 346.2
+OBJECT_SHARED Models/lib/SmHangar.ac 4.14400 44.07084 185.42 346.55
+OBJECT_SHARED Models/lib/SmHangar.ac 4.14396 44.07073 185.93 346.55
+OBJECT_SHARED Models/Transport/van_red.ac 4.14388 44.07039 186.07 80.48
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.14402 44.07041 186.45 344.74
+OBJECT_SHARED Models/Transport/van_red.ac 4.14395 44.07043 186.26 344.25
+OBJECT_SHARED Models/Transport/van_silver.ac 4.14397 44.07048 186.35 169.82
+OBJECT_SHARED Models/Transport/hatchback_black.ac 4.14394 44.07048 186.23 166.61
+OBJECT_SHARED Models/lib/4_spaces_dual.ac 4.14391 44.07046 186.27 346.34
+OBJECT_SHARED Models/lib/SmHangar.ac 4.14393 44.07063 186.32 346.55
+OBJECT_SHARED Models/lib/LongRow.ac 4.14391 44.07025 186.19 255.78
+OBJECT_SHARED Models/lib/SmHangar.ac 4.14352 44.06949 186.60 344.71
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 4.14349 44.06944 187.83 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 4.14348 44.06942 187.98 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 4.14350 44.06941 187.99 0
+OBJECT_SHARED Models/lib/NoParkStripes.xml 4.14131 44.06407 187.96 347.1
+OBJECT_SHARED Models/lib/NoParkStripes.xml 4.14119 44.06367 196.91 347.1
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 4.14188 44.06386 102.42 0
+# END dsf2stg

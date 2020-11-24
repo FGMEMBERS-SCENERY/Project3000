@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_black.ac -5.63242 34.79001 156.63 277.01
-OBJECT_SHARED Models/lib/fuel-truck.xml -5.63238 34.78997 156.71 95.89
-OBJECT_SHARED Models/lib/SmHangar.ac -5.63236 34.79001 156.75 8.46
+OBJECT_SHARED Models/Transport/hatchback_red.ac -5.63242 34.79001 0.00 277.01
+OBJECT_SHARED Models/lib/fuel-truck.xml -5.63238 34.78997 156.63 95.89
+OBJECT_SHARED Models/lib/SmHangar.ac -5.63236 34.79001 156.71 8.46
 # END dsf2stg

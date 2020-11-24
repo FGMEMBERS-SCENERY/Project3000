@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -96.25773 44.72718 0.00 149.036
+OBJECT_SHARED Models/lib/prop_a.ac -96.25736 44.72692 359.54 148.97
+OBJECT_SHARED Models/lib/SmHangar.ac -96.25902 44.72784 359.61 58.22
+OBJECT_SHARED Models/lib/SmHangar.ac -96.25885 44.72776 359.64 58.22
+OBJECT_SHARED Models/lib/SmHangar.ac -96.25853 44.72788 359.58 237.71
+OBJECT_SHARED Models/lib/SmHangar.ac -96.25870 44.72769 359.45 57.29
+OBJECT_SHARED Models/lib/LongRow.ac -96.25828 44.72877 359.59 57.58
+OBJECT_SHARED Models/lib/MedHangar.ac -96.25788 44.72864 359.11 329.03
+OBJECT_SHARED Models/lib/MedHangar.ac -96.25809 44.72798 359.06 59.22
+OBJECT_SHARED Models/lib/MedHangar.ac -96.25819 44.72745 359.31 59.05
+OBJECT_SHARED Models/lib/vending-machine.ac -96.25794 44.72736 359.54 239.066
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -96.25740 44.72711 359.50 59.28
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.25800 44.72949 359.51 126.928
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.25745 44.72746 358.85 329.347
+OBJECT_SHARED Models/Transport/van_silver.ac -96.25735 44.72742 359.33 329.347
+OBJECT_SHARED Models/Transport/van_silver.ac -96.25749 44.72734 359.38 148.781
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -96.25743 44.72731 359.44 148.781
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.25740 44.72730 359.42 148.781
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.25842 44.72873 359.42 57.3082
+# END dsf2stg

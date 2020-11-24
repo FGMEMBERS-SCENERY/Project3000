@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -79.98933 48.20726 0.00 203.2
+OBJECT_SHARED Models/lib/cars4.ac -79.98981 48.20616 343.39 204.07
+OBJECT_SHARED Models/lib/cars10.ac -79.98942 48.20628 341.54 203.88
+OBJECT_SHARED Models/lib/propane-tank.ac -79.99002 48.20656 342.04 286.36
+OBJECT_SHARED Models/lib/propane-tank.ac -79.98940 48.20676 342.04 20.07
+OBJECT_SHARED Models/lib/propane-tank.ac -79.98868 48.20673 342.64 20.07
+OBJECT_SHARED Models/lib/propane-tank.ac -79.98867 48.20672 342.70 20.07
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.99068 48.20691 342.70 200.42
+OBJECT_SHARED Models/lib/cone.ac -79.98911 48.20688 342.64 348.88
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.98928 48.20669 342.81 348.88
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -79.98908 48.20687 342.56 290.73
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.98936 48.20681 342.81 348.88
+OBJECT_SHARED Models/Misc/6barrels.ac -79.98903 48.20670 342.64 348.88
+OBJECT_SHARED Models/Misc/6barrels.ac -79.98902 48.20667 342.63 348.88
+OBJECT_SHARED Models/lib/2vending-machines.ac -79.98910 48.20686 342.63 201.08
+# END dsf2stg

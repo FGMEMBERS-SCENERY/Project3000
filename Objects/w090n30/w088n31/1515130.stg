@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -87.33873 31.97948 0.00 179.91
+OBJECT_SHARED Models/lib/SmHangar.ac -87.33801 31.97882 42.23 359.82
+OBJECT_SHARED Models/lib/SmHangar.ac -87.33801 31.97892 42.35 359.82
+OBJECT_SHARED Models/lib/office16x4n.ac -87.33753 31.97979 42.35 269.88
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -87.33779 31.97944 42.43 267.09
+OBJECT_SHARED Models/lib/shed8x10.ac -87.33650 31.97938 42.38 180.18
+OBJECT_SHARED Models/lib/shed8x10.ac -87.33637 31.97867 42.59 180.18
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -87.33592 31.97855 42.53 88.63
+OBJECT_SHARED Models/Transport/hatchback_black.ac -87.33658 31.97960 42.59 269.78
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.33553 31.97881 42.59 0
+# END dsf2stg

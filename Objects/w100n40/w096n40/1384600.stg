@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -95.78664 40.39214 0.00 90
+OBJECT_SHARED Models/Transport/van_red.ac -95.78667 40.39223 285.03 180
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.78661 40.39222 285.03 178.36
+OBJECT_SHARED Models/lib/lamp10m.xml -95.78689 40.39221 285.17 0
+OBJECT_SHARED Models/lib/lamp10m.xml -95.78688 40.39207 284.75 1.25
+OBJECT_SHARED Models/lib/lamp10m.xml -95.78689 40.39242 284.62 90
+# END dsf2stg

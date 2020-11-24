@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 24.48881 38.97389 0.00 94.4
+OBJECT_SHARED Models/Transport/hatchback_red.ac 24.48895 38.97470 9.68 218.33
+OBJECT_SHARED Models/Transport/van_silver.ac 24.48899 38.97466 9.39 224.85
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.48908 38.97463 9.51 273.65
+OBJECT_SHARED Models/Transport/hatchback_green.ac 24.48980 38.97419 9.69 181.8
+OBJECT_SHARED Models/Transport/hatchback_green.ac 24.48983 38.97420 10.80 181.8
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 24.48987 38.97420 10.80 181.8
+OBJECT_SHARED Models/lib/MedHangar.ac 24.48451 38.95906 10.94 183.12
+OBJECT_SHARED Models/lib/lamp10m.xml 24.48979 38.97303 18.68 0
+OBJECT_SHARED Models/lib/lamp10m.xml 24.48972 38.97374 11.37 0
+# END dsf2stg

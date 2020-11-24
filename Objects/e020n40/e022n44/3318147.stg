@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac 22.81851 44.02416 0.00 90
+OBJECT_SHARED Models/lib/farm19x12.ac 22.81704 44.02444 43.61 179.82
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 22.81707 44.02513 43.20 0
+OBJECT_SHARED Models/lib/trailer-ups.ac 22.81685 44.02552 44.58 90
+OBJECT_SHARED Models/Airport/cargobox.xml 22.81715 44.02566 44.97 0
+OBJECT_SHARED Models/Airport/cargobox.xml 22.81704 44.02567 46.50 0
+OBJECT_SHARED Models/Airport/cargobox.xml 22.81710 44.02566 46.45 0
+OBJECT_SHARED Models/Airport/cargobox.xml 22.81699 44.02566 46.48 0
+OBJECT_SHARED Models/Airport/cargobox.xml 22.81707 44.02566 46.45 0
+OBJECT_SHARED Models/Airport/cargobox.xml 22.81696 44.02566 46.48 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 22.81732 44.02498 46.45 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 22.81757 44.02526 44.80 90
+OBJECT_SHARED Models/lib/LongRow.ac 22.81667 44.02502 44.88 90
+OBJECT_SHARED Models/lib/LongRow.ac 22.81667 44.02474 44.30 90
+# END dsf2stg

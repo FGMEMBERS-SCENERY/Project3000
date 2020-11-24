@@ -1,24 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -77.48531 36.68281 33.47 180
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -77.48374 36.68320 33.83 266.82
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -77.48359 36.68265 33.37 161.57
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -77.48361 36.68343 33.97 86.57
-OBJECT_SHARED Models/lib/office16x4n.ac -77.48388 36.68255 33.27 359.06
-OBJECT_SHARED Models/Misc/picnic_table.ac -77.48777 36.68463 34.91 0
-OBJECT_SHARED Models/lib/office40x25.ac -77.48337 36.68216 33.04 90.62
-OBJECT_SHARED Models/lib/vending-machine.ac -77.48776 36.68468 34.97 270
-OBJECT_SHARED Models/lib/office16x4n.ac -77.48737 36.68455 34.79 268.52
-OBJECT_SHARED Models/lib/office16x4n.ac -77.48625 36.68287 33.50 268.52
-OBJECT_SHARED Models/Transport/hatchback_red.ac -77.48771 36.68437 34.74 23.2
-OBJECT_SHARED Models/Transport/van_red.ac -77.48767 36.68437 34.74 20.32
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -77.48711 36.68469 34.87 268.73
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -77.48820 36.68436 34.73 268.73
-OBJECT_SHARED Models/lib/2container-office.ac -77.48786 36.68469 34.98 2.96
-OBJECT_SHARED Models/lib/2container-office.ac -77.48767 36.68464 34.90 309.52
-OBJECT_SHARED Models/lib/4container-office.ac -77.48775 36.68445 34.82 190.62
-OBJECT_SHARED Models/lib/hangar81x16.ac -77.48564 36.68264 33.27 0.610001
-OBJECT_SHARED Models/lib/SmHangar.ac -77.48448 36.68233 33.08 270.23
-OBJECT_SHARED Models/lib/HorizTanks2.ac -77.48426 36.68332 33.85 179.28
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -77.48531 36.68281 0.00 180
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -77.48374 36.68320 33.46 266.82
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -77.48359 36.68265 33.83 161.57
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -77.48361 36.68343 33.37 86.57
+OBJECT_SHARED Models/lib/office16x4n.ac -77.48388 36.68255 33.97 359.06
+OBJECT_SHARED Models/Misc/picnic_table.ac -77.48777 36.68463 33.28 0
+OBJECT_SHARED Models/lib/office40x25.ac -77.48337 36.68216 34.84 90.62
+OBJECT_SHARED Models/lib/vending-machine.ac -77.48776 36.68468 33.05 270
+OBJECT_SHARED Models/lib/office16x4n.ac -77.48737 36.68455 34.92 268.52
+OBJECT_SHARED Models/lib/office16x4n.ac -77.48625 36.68287 34.75 268.52
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -77.48771 36.68437 33.49 23.2
+OBJECT_SHARED Models/Transport/hatchback_black.ac -77.48767 36.68437 34.68 20.32
+OBJECT_SHARED Models/Transport/hatchback_red.ac -77.48711 36.68469 34.68 268.73
+OBJECT_SHARED Models/Transport/hatchback_black.ac -77.48820 36.68436 34.83 268.73
+OBJECT_SHARED Models/lib/2container-office.ac -77.48786 36.68469 34.65 2.96
+OBJECT_SHARED Models/lib/2container-office.ac -77.48767 36.68464 34.92 309.52
+OBJECT_SHARED Models/lib/4container-office.ac -77.48775 36.68445 34.84 190.62
+OBJECT_SHARED Models/lib/hangar81x16.ac -77.48564 36.68264 34.76 0.610001
+OBJECT_SHARED Models/lib/SmHangar.ac -77.48448 36.68233 33.26 270.23
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.48426 36.68332 33.08 179.28
 # END dsf2stg

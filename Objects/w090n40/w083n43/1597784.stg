@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -82.83423 43.45595 0.00 1.19
+OBJECT_SHARED Models/lib/admin31x12.ac -82.83474 43.45553 234.23 91.54
+OBJECT_SHARED Models/lib/LongRow.ac -82.83638 43.45500 234.36 91.36
+OBJECT_SHARED Models/lib/LongRow.ac -82.83590 43.45498 234.60 91.68
+OBJECT_SHARED Models/lib/SmHangar.ac -82.83411 43.45620 234.56 1.31
+OBJECT_SHARED Models/lib/propane-tank.ac -82.83485 43.45540 234.19 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -82.83482 43.45540 234.39 270
+OBJECT_SHARED Models/lib/SmHangar.ac -82.83398 43.45656 234.38 271.33
+OBJECT_SHARED Models/lib/SmHangar.ac -82.83414 43.45656 234.12 271.26
+OBJECT_SHARED Models/lib/4space_wStop.ac -82.83429 43.45541 234.13 1.44111
+OBJECT_SHARED Models/Transport/van_red.ac -82.83433 43.45557 234.31 90
+OBJECT_SHARED Models/Transport/van_silver.ac -82.83472 43.45535 234.29 270
+OBJECT_SHARED Models/Transport/van_silver.ac -82.83473 43.45539 234.38 270
+OBJECT_SHARED Models/lib/prop_a.ac -82.83588 43.45668 234.37 90
+OBJECT_SHARED Models/lib/prop_a.ac -82.83608 43.45668 234.19 90
+OBJECT_SHARED Models/lib/prop_a.ac -82.83616 43.45658 234.19 270
+OBJECT_SHARED Models/lib/prop_a.ac -82.83597 43.45658 234.22 271.637
+OBJECT_SHARED Models/lib/prop_a.ac -82.83579 43.45658 234.22 272.203
+OBJECT_SHARED Models/lib/prop_a.ac -82.83420 43.45619 234.22 138.122
+# END dsf2stg

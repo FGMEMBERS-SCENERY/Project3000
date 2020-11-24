@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 109.70512 31.06295 0.00 261.59
+OBJECT_SHARED Models/lib/stack_of_cones.ac 109.70628 31.06359 1790.06 0
+OBJECT_SHARED Models/lib/lamp10m.xml 109.70546 31.06274 1830.82 -52.03
+OBJECT_SHARED Models/lib/lamp10m.xml 109.70614 31.06319 1782.43 -50.93
+OBJECT_SHARED Models/lib/lamp10m.xml 109.70672 31.06359 1814.41 -49.21
+OBJECT_SHARED Models/lib/lamp10m.xml 109.70733 31.06398 1805.06 -49.25
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 109.70788 31.06344 1814.90 129.4
+OBJECT_SHARED Models/lib/transformer3x3.ac 109.69781 31.06372 1787.12 217.51
+# END dsf2stg

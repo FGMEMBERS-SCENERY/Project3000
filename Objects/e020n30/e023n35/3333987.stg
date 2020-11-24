@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 23.83189 35.52887 0.00 243.435
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 23.83195 35.52899 13.02 244.799
+OBJECT_SHARED Models/lib/SmHangar.ac 23.83182 35.52846 12.82 338.744
+OBJECT_SHARED Models/lib/office3x10.ac 23.83258 35.52802 13.91 225
+OBJECT_SHARED Models/Misc/6barrels.ac 23.83171 35.52931 14.77 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 23.83148 35.52786 12.23 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 23.83141 35.52788 15.36 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 23.83148 35.52786 15.40 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 23.83142 35.52788 15.36 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 23.83218 35.52828 15.40 243.435
+OBJECT_SHARED Models/Transport/van_red.ac 23.83205 35.52910 13.98 169.695
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 23.83197 35.52851 12.46 162.255
+OBJECT_SHARED Models/lib/SmHangar.ac 23.83142 35.52848 13.74 253.35
+# END dsf2stg

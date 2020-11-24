@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.23745 44.40430 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.23750 44.40485 120.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -76.23746 44.40477 120.06 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -76.23745 44.40482 120.05 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -76.23750 44.40472 120.07 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -76.23760 44.40475 120.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.23755 44.40479 120.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -76.23763 44.40478 120.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -76.23759 44.40484 120.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.23753 44.40420 120.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -76.23755 44.40429 120.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -76.23751 44.40438 120.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -76.23774 44.40453 120.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -76.23777 44.40442 120.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.23788 44.40442 120.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -76.23802 44.40438 120.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -76.23809 44.40431 119.99 0
+OBJECT_SHARED Models/lib/cone.ac -76.23779 44.40369 119.97 163.94
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.23753 44.40396 119.96 163.94
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.23784 44.40370 120.03 105.79
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -76.23744 44.40377 119.96 163.94
+OBJECT_SHARED Models/Misc/6barrels.ac -76.23787 44.40397 120.02 163.94
+OBJECT_SHARED Models/Misc/6barrels.ac -76.23788 44.40400 119.98 163.94
+OBJECT_SHARED Models/lib/2vending-machines.ac -76.23780 44.40371 119.98 16.14
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.23874 44.40434 119.96 61.5539
+OBJECT_SHARED Models/lib/office3x10.ac -76.23817 44.40398 119.91 196.574
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -76.22991 44.39757 119.95 0.806923
+OBJECT_SHARED Models/lib/shed8x10.ac -76.24951 44.40483 116.38 3.57285
+OBJECT_SHARED Models/lib/shed8x10.ac -76.25000 44.40481 120.61 3.71534
+# END dsf2stg

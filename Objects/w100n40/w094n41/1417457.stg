@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.56546 41.76056 0.00 180
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.56600 41.75931 292.09 359.46
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.56663 41.76053 291.85 90
+# END dsf2stg

@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -81.24723 31.98600 0.00 61.24
+OBJECT_SHARED Models/lib/SmHangar.ac -81.24802 31.98637 2.25 63.32
+OBJECT_SHARED Models/lib/LongRow.ac -81.24835 31.98654 2.37 152.54
+OBJECT_SHARED Models/lib/SmHangar.ac -81.24777 31.98626 2.32 61.41
+OBJECT_SHARED Models/lib/LongRow.ac -81.24823 31.98619 2.36 152.21
+OBJECT_SHARED Models/lib/LongRow.ac -81.24789 31.98604 2.24 152.21
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.24819 31.98643 2.26 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.24828 31.98646 2.32 0
+# END dsf2stg

@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -81.96160 41.31570 0.00 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -81.96160 41.31598 246.06 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -81.96150 41.31473 246.03 90
+OBJECT_SHARED Models/lib/LongRow.ac -81.96227 41.31562 246.10 90
+OBJECT_SHARED Models/lib/LongRow.ac -81.96194 41.31653 245.96 90
+OBJECT_SHARED Models/lib/LongRow.ac -81.96194 41.31561 245.93 90
+OBJECT_SHARED Models/lib/shed8x10.ac -81.96194 41.31524 246.03 0
+# END dsf2stg

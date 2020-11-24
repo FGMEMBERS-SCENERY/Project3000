@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -124.14400 46.99818 0.00 286.165
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -124.14448 46.99884 7.03 115.56
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -124.14422 46.99894 7.09 278
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -124.14427 46.99905 7.11 278.88
+OBJECT_SHARED Models/lib/shed8x10.ac -124.14402 46.99886 7.11 277.31
+OBJECT_SHARED Models/lib/garden-shed.ac -124.14444 46.99874 7.11 106.5
+OBJECT_SHARED Models/lib/SmHangar.ac -124.14399 46.99827 7.08 197.9
+OBJECT_SHARED Models/lib/SmHangar.ac -124.14406 46.99842 7.04 198
+OBJECT_SHARED Models/lib/SmHangar.ac -124.14413 46.99858 7.06 197.23
+OBJECT_SHARED Models/lib/lamp10m.xml -124.14437 46.99915 7.08 189.38
+OBJECT_SHARED Models/lib/lamp10m.xml -124.14448 46.99963 7.12 188.24
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -124.14448 46.99892 6.90 0
+# END dsf2stg

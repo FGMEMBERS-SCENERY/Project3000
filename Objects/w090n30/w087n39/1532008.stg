@@ -1,0 +1,40 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -86.81679 39.63614 0.00 0
+OBJECT_SHARED Models/lib/prop_a.ac -86.81634 39.63615 251.18 39.8057
+OBJECT_SHARED Models/lib/prop_a.ac -86.81633 39.63643 251.62 317.726
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81624 39.63691 252.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81633 39.63691 252.72 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81643 39.63691 252.63 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81653 39.63691 252.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81664 39.63692 252.45 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81675 39.63691 252.36 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81686 39.63691 252.27 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81698 39.63691 252.09 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81710 39.63691 252.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81723 39.63691 251.91 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81733 39.63691 251.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81655 39.63722 251.74 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81654 39.63741 252.83 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81733 39.63654 253.08 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.81686 39.63650 251.23 0
+OBJECT_SHARED Models/lib/cars7.ac -86.81678 39.63666 251.59 0
+OBJECT_SHARED Models/lib/cars7.ac -86.81652 39.63666 251.93 0
+OBJECT_SHARED Models/lib/cars7.ac -86.81630 39.63733 252.20 0
+OBJECT_SHARED Models/lib/cars7.ac -86.81707 39.63665 253.13 180
+OBJECT_SHARED Models/lib/cars7.ac -86.81679 39.63665 251.54 180
+OBJECT_SHARED Models/lib/cars7.ac -86.81653 39.63731 251.81 180
+OBJECT_SHARED Models/lib/prop_a.ac -86.81530 39.63787 252.96 269.14
+OBJECT_SHARED Models/lib/prop_a.ac -86.81539 39.63858 254.00 87.77
+OBJECT_SHARED Models/lib/prop_a.ac -86.81563 39.63827 253.67 269.06
+OBJECT_SHARED Models/lib/prop_a.ac -86.81522 39.63840 253.91 91.88
+OBJECT_SHARED Models/lib/HorizTanks2.ac -86.81553 39.63690 253.69 270
+OBJECT_SHARED Models/lib/LongRow.ac -86.81598 39.63793 253.35 180
+OBJECT_SHARED Models/lib/SmHangar.ac -86.81783 39.62801 253.85 119.07
+OBJECT_SHARED Models/lib/MedHangar.ac -86.81614 39.63574 244.00 180
+OBJECT_SHARED Models/lib/lamp10m.xml -86.81615 39.63558 251.35 180
+OBJECT_SHARED Models/lib/lamp10m.xml -86.81615 39.63594 251.09 180
+OBJECT_SHARED Models/lib/lamp10m.xml -86.81615 39.63609 251.46 180
+OBJECT_SHARED Models/lib/lamp10m.xml -86.81614 39.63653 251.81 180
+# END dsf2stg

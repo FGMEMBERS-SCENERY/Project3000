@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 7.29100 47.09004 0.00 129.7
+OBJECT_SHARED Models/lib/SmHangar.ac 7.29089 47.08997 436.33 129.7
+OBJECT_SHARED Models/lib/SmHangar.ac 7.29077 47.08991 436.35 129.7
+OBJECT_SHARED Models/lib/MedHangar.ac 7.29153 47.09027 436.40 127.22
+OBJECT_SHARED Models/lib/prop_a.ac 7.29117 47.09017 436.21 305.59
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 7.29024 47.08972 436.25 128.19
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.29048 47.08982 436.54 218.83
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.29036 47.08977 436.47 217.43
+OBJECT_SHARED Models/Transport/van_red.ac 7.29052 47.08984 436.49 214.62
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.29137 47.09019 436.46 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.29072 47.08980 436.24 0
+OBJECT_SHARED Models/lib/propane-tank.ac 7.29066 47.08980 436.44 306.54
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 7.29287 47.09113 436.44 0
+# END dsf2stg

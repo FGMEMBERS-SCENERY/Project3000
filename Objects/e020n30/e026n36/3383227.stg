@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 26.98489 36.97451 0.00 90
+OBJECT_SHARED Models/Misc/picnic_table.ac 26.94297 36.96364 545.43 350.67
+OBJECT_SHARED Models/Misc/picnic_table.ac 26.94287 36.96367 221.82 355.49
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 26.94292 36.96365 220.82 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 26.94093 36.96459 220.82 0
+OBJECT_SHARED Models/lib/lamp10m.xml 26.94163 36.96439 223.90 0
+OBJECT_SHARED Models/lib/lamp10m.xml 26.94108 36.96448 224.02 0
+OBJECT_SHARED Models/lib/lamp10m.xml 26.94053 36.96458 224.03 0
+OBJECT_SHARED Models/lib/lamp10m.xml 26.93999 36.96466 224.06 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.93999 36.96472 223.99 206.56
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.93998 36.96477 223.99 354.29
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.94048 36.96484 223.78 88.64
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.94043 36.96484 223.64 77.91
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.94049 36.96486 223.67 80.18
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.94045 36.96487 223.43 90
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.94053 36.96495 223.46 79.38
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.94049 36.96491 223.43 265.82
+OBJECT_SHARED Models/Transport/hatchback_black.ac 26.94166 36.96445 223.43 112.38
+OBJECT_SHARED Models/Transport/hatchback_black.ac 26.94164 36.96448 223.76 116.15
+OBJECT_SHARED Models/Transport/hatchback_black.ac 26.94160 36.96454 223.81 113.57
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 26.94160 36.96457 223.81 113.86
+OBJECT_SHARED Models/Transport/hatchback_black.ac 26.94155 36.96462 223.60 109.13
+OBJECT_SHARED Models/Transport/hatchback_green.ac 26.94153 36.96466 223.60 111.96
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 26.94150 36.96470 223.44 116.57
+OBJECT_SHARED Models/Transport/hatchback_green.ac 26.94148 36.96474 223.44 114.86
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.94130 36.96455 223.44 353.27
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 26.94129 36.96452 223.96 339.03
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 26.94128 36.96449 223.96 260.54
+OBJECT_SHARED Models/lib/stack_of_cones.ac 26.94055 36.96455 223.96 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 26.94140 36.96492 224.02 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 26.90772 36.96097 223.08 171.86
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 26.91543 36.97411 -0.15 134.97
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 26.98215 36.96913 -0.02 321.31
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 26.97184 36.95820 412.08 300.46
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 26.97184 36.96314 45.75 45.01
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 26.91862 36.96627 115.15 73.08
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 26.92717 36.97012 -0.04 353.56
+OBJECT_SHARED Models/lib/watertank3x1.ac 26.94214 36.96476 -0.02 51.41
+OBJECT_SHARED Models/Transport/hatchback_green.ac 26.94177 36.96416 216.15 261.47
+OBJECT_SHARED Models/Transport/hatchback_green.ac 26.94178 36.96421 224.30 261.47
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 26.94179 36.96425 224.30 261.47
+# END dsf2stg

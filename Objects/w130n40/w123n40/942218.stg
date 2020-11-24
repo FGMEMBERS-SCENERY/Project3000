@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -122.25127 40.15561 0.00 100.9
+OBJECT_SHARED Models/lib/SmHangar.ac -122.25113 40.15614 101.05 12.42
+OBJECT_SHARED Models/lib/MedHangar.ac -122.25061 40.15439 102.30 12.53
+OBJECT_SHARED Models/lib/SmHangar.ac -122.25031 40.15337 104.53 12.82
+OBJECT_SHARED Models/lib/SmHangar.ac -122.25038 40.15359 103.64 13.24
+OBJECT_SHARED Models/lib/SmHangar.ac -122.25131 40.15691 103.71 11.84
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.25091 40.15565 103.65 283.14
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.25098 40.15580 104.41 284.39
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.25081 40.15561 104.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.25089 40.15560 104.41 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.25091 40.15569 104.41 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.25081 40.15580 104.38 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.25074 40.15586 104.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -122.25097 40.15589 104.30 0
+OBJECT_SHARED Models/lib/1car-stop.ac -122.25054 40.15511 104.30 190.21
+OBJECT_SHARED Models/lib/6space_wStop.ac -122.25056 40.15519 104.52 191.31
+OBJECT_SHARED Models/lib/6space_wStop.ac -122.25033 40.15515 104.50 11.37
+OBJECT_SHARED Models/lib/6space_wStop.ac -122.25037 40.15533 103.11 11.61
+OBJECT_SHARED Models/lib/6space_wStop.ac -122.25042 40.15550 103.10 11.31
+OBJECT_SHARED Models/lib/6space_wStop.ac -122.25049 40.15576 103.09 11.31
+OBJECT_SHARED Models/lib/1car-stop.ac -122.25054 40.15503 103.08 192.53
+OBJECT_SHARED Models/lib/cars2.ac -122.25054 40.15504 104.53 101.65
+OBJECT_SHARED Models/lib/6space_wStop.ac -122.25054 40.15593 104.53 12.53
+OBJECT_SHARED Models/lib/6space_wStop.ac -122.25074 40.15556 104.30 191.77
+OBJECT_SHARED Models/lib/garage-small-white.ac -122.25101 40.15596 104.41 283.54
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -122.25071 40.15532 104.26 0
+# END dsf2stg

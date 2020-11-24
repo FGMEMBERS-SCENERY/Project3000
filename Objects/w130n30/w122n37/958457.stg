@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -121.64777 37.94791 0.00 14.8488
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -121.64780 37.94801 8.20 14.8488
+OBJECT_SHARED Models/lib/lamp10m.xml -121.64778 37.94731 8.17 235.713
+OBJECT_SHARED Models/lib/lamp10m.xml -121.64825 37.94770 8.36 133.531
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -121.64795 37.94743 8.25 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -121.64823 37.94770 8.33 273.478
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -121.64777 37.94811 8.25 227.031
+OBJECT_SHARED Models/lib/HorizTanks2.ac -121.64822 37.94766 8.14 180
+OBJECT_SHARED Models/lib/fboModern1.ac -121.64813 37.94803 8.25 179
+OBJECT_SHARED Models/lib/SmHangar.ac -121.64779 37.94737 8.17 180
+OBJECT_SHARED Models/lib/SmHangar.ac -121.64779 37.94759 8.33 180
+OBJECT_SHARED Models/lib/SmHangar.ac -121.64779 37.94748 8.28 180
+# END dsf2stg

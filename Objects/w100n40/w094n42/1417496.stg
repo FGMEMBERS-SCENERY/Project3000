@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars7.ac -93.86971 42.44105 0.00 90
+OBJECT_SHARED Models/lib/cars7.ac -93.86968 42.44083 337.02 270
+OBJECT_SHARED Models/lib/cars7.ac -93.86929 42.44094 337.08 0
+OBJECT_SHARED Models/lib/cars7.ac -93.86691 42.44105 337.09 270
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -93.86864 42.44036 337.16 90
+OBJECT_SHARED Models/lib/fboModern1.ac -93.86860 42.44085 337.24 90
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -93.87001 42.44035 337.13 180
+# END dsf2stg

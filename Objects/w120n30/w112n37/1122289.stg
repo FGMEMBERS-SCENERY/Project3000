@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -111.57486 37.75634 1748.68 179.356
+OBJECT_SHARED Models/lib/shed8x10.ac -111.57908 37.75189 1750.44 179.164
+OBJECT_SHARED Models/lib/industrial13x24.ac -111.57939 37.75164 1752.54 358.807
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -111.57643 37.75634 1752.18 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.57730 37.75308 1744.05 0
+# END dsf2stg

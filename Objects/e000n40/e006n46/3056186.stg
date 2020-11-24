@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangar81x16.ac 6.61706 46.91852 0.00 204.81
+OBJECT_SHARED Models/lib/prop_a.ac 6.61615 46.91807 730.62 344.6
+OBJECT_SHARED Models/lib/stack_of_cones.ac 6.61691 46.91837 730.69 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 6.61683 46.91850 730.72 291.96
+OBJECT_SHARED Models/lib/lamp10m.xml 6.61628 46.91818 730.71 111.07
+OBJECT_SHARED Models/lib/lamp10m.xml 6.61665 46.91830 730.74 114
+OBJECT_SHARED Models/lib/lamp10m.xml 6.61706 46.91852 730.77 -69.21
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 6.61701 46.91854 730.62 202.88
+# END dsf2stg

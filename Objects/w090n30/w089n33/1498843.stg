@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -88.00852 33.38273 0.00 82.64
+OBJECT_SHARED Models/lib/lamp10m.xml -88.00870 33.38168 70.21 81.72
+OBJECT_SHARED Models/lib/MedHangar.ac -88.00830 33.38223 69.87 172.59
+OBJECT_SHARED Models/lib/SmHangar.ac -88.00839 33.38187 69.98 172.07
+OBJECT_SHARED Models/lib/LongRow.ac -88.00861 33.38100 69.90 174.5
+OBJECT_SHARED Models/lib/garden-shed.ac -88.01035 33.38035 69.64 254.83
+OBJECT_SHARED Models/lib/office3x10.ac -88.01006 33.37931 69.61 342.98
+OBJECT_SHARED Models/lib/office3x10.ac -88.01016 33.37908 69.72 342.76
+OBJECT_SHARED Models/lib/HorizTanks2.ac -88.00819 33.38268 69.72 353.26
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -88.00844 33.38166 70.12 172.32
+OBJECT_SHARED Models/lib/propane-tank.ac -88.00832 33.38143 69.83 170.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac -88.00868 33.38200 69.70 301.8
+OBJECT_SHARED Models/Transport/van_red.ac -88.00869 33.38191 69.97 287.77
+OBJECT_SHARED Models/Transport/hatchback_black.ac -88.00871 33.38185 69.93 285.87
+# END dsf2stg

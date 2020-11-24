@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/schranke.ac -3.36813 38.51214 0.00 253.514
+OBJECT_SHARED Models/Airport/cargobox.xml -3.36788 38.51235 832.13 338.595
+OBJECT_SHARED Models/Airport/cargobox.xml -3.36789 38.51234 833.95 331.991
+OBJECT_SHARED Models/Airport/cargobox.xml -3.36790 38.51232 834.12 340.346
+OBJECT_SHARED Models/lib/propane-tank.ac -3.36825 38.51224 834.11 71.6356
+# END dsf2stg

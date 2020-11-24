@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -123.42973 46.99138 0.00 272.64
+OBJECT_SHARED Models/lib/prop_a.ac -123.42836 46.99153 7.16 182.73
+OBJECT_SHARED Models/lib/prop_a.ac -123.42841 46.99168 7.41 182.73
+OBJECT_SHARED Models/lib/prop_a.ac -123.42846 46.99182 7.52 182.73
+OBJECT_SHARED Models/lib/SmHangar.ac -123.42908 46.99125 7.57 92.08
+OBJECT_SHARED Models/lib/LongRow.ac -123.43033 46.99121 7.18 91.76
+OBJECT_SHARED Models/lib/LongRow.ac -123.43070 46.99121 7.12 91.5
+OBJECT_SHARED Models/lib/LongRow.ac -123.43108 46.99181 7.07 271.95
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -123.42757 46.99111 7.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -123.42763 46.99111 7.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -123.42770 46.99111 7.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -123.42776 46.99110 7.20 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -123.42827 46.99108 7.20 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -123.42835 46.99108 7.20 0
+# END dsf2stg

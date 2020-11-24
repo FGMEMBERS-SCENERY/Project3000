@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -98.05435 41.72876 0.00 262.27
+OBJECT_SHARED Models/lib/prop_a.ac -98.05408 41.72833 545.64 116.33
+OBJECT_SHARED Models/lib/lamp10m.xml -98.05344 41.72699 545.05 204.67
+OBJECT_SHARED Models/lib/lamp10m.xml -98.05298 41.72693 543.78 26.92
+OBJECT_SHARED Models/lib/lamp10m.xml -98.05363 41.72785 543.86 -13.9
+OBJECT_SHARED Models/lib/lamp10m.xml -98.05388 41.72820 544.83 27.17
+OBJECT_SHARED Models/lib/lamp10m.xml -98.05408 41.72856 545.04 26.75
+OBJECT_SHARED Models/lib/lamp10m.xml -98.05458 41.72878 545.49 116.72
+OBJECT_SHARED Models/lib/SmHangar.ac -98.05427 41.72883 545.42 26.07
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.05316 41.72690 545.64 206.13
+OBJECT_SHARED Models/Transport/van_silver.ac -98.05334 41.72727 543.75 8.97
+OBJECT_SHARED Models/Transport/hatchback_black.ac -98.05389 41.72836 544.23 113.96
+OBJECT_SHARED Models/Transport/van_silver.ac -98.05393 41.72841 545.33 114.52
+OBJECT_SHARED Models/Transport/van_silver.ac -98.05394 41.72844 545.33 113.88
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -98.05372 41.72814 545.33 205.18
+OBJECT_SHARED Models/Transport/hatchback_red.ac -98.05377 41.72813 545.03 203.36
+# END dsf2stg

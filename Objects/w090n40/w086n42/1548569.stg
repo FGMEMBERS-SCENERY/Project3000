@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/2space_wStop.ac -85.64225 42.46690 0.00 270.438
+OBJECT_SHARED Models/lib/2space_wStop.ac -85.64232 42.46690 219.13 270.19
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -85.64227 42.46638 219.13 91.0552
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -85.64227 42.46658 219.16 91.0755
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.64282 42.46626 219.15 242.52
+OBJECT_SHARED Models/lib/SmHangar.ac -85.64345 42.46599 219.30 270.35
+OBJECT_SHARED Models/lib/LongRow.ac -85.64520 42.46627 219.49 0.426193
+OBJECT_SHARED Models/lib/LongRow.ac -85.64492 42.46627 219.82 0.400002
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.64350 42.46644 219.78 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -85.64319 42.46603 219.49 90
+OBJECT_SHARED Models/lib/4space_wStop.ac -85.64322 42.46607 219.41 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.64291 42.46697 219.42 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.64303 42.46622 219.29 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.64303 42.46638 219.36 0
+OBJECT_SHARED Models/lib/prop_a.ac -85.64336 42.46600 219.36 180.773
+OBJECT_SHARED Models/lib/prop_a.ac -85.64436 42.46676 219.46 359.462
+OBJECT_SHARED Models/lib/prop_a.ac -85.64290 42.46688 219.64 180.754
+OBJECT_SHARED Models/lib/prop_a.ac -85.64317 42.46708 219.30 242.114
+OBJECT_SHARED Models/lib/farm19x12.ac -85.64295 42.46688 219.36 0.766243
+OBJECT_SHARED Models/lib/farm19x12.ac -85.64303 42.46660 219.30 1.53437
+OBJECT_SHARED Models/Transport/van_red.ac -85.64319 42.46606 219.35 271.232
+OBJECT_SHARED Models/Transport/hatchback_black.ac -85.64232 42.46636 219.42 181.193
+OBJECT_SHARED Models/Transport/hatchback_black.ac -85.64239 42.46640 219.16 1.54816
+OBJECT_SHARED Models/Transport/hatchback_black.ac -85.64222 42.46636 219.19 180.735
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -85.64235 42.46656 219.12 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -85.64225 42.46656 219.18 1.33221
+OBJECT_SHARED Models/Transport/hatchback_black.ac -85.64222 42.46661 219.15 181.507
+OBJECT_SHARED Models/Transport/van_red.ac -85.64229 42.46660 219.12 180.744
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -85.64224 42.46692 219.15 182.216
+OBJECT_SHARED Models/lib/prop_a.ac -85.64348 42.46669 219.10 181.219
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -85.64231 42.46692 219.47 176.82
+OBJECT_SHARED Models/Transport/van_red.ac -85.64239 42.46660 219.13 3.36642
+OBJECT_SHARED Models/Transport/hatchback_green.ac -85.64216 42.46640 219.18 187.595
+OBJECT_SHARED Models/Transport/hatchback_red.ac -85.64222 42.46640 219.12 356.424
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -85.64225 42.46640 219.12 8.13007
+OBJECT_SHARED Models/Transport/van_silver.ac -85.64222 42.46656 219.16 178.264
+OBJECT_SHARED Models/Transport/van_silver.ac -85.64219 42.46656 219.12 2.72629
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.64410 42.46814 219.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.64483 42.46813 219.37 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.64511 42.46815 219.46 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.64499 42.46815 219.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.64321 42.46591 219.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.64612 42.46545 219.41 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.64655 42.46505 220.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -85.64639 42.46581 220.03 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -85.64666 42.46516 220.00 143.131
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.64679 42.46520 220.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.64649 42.46513 220.00 180
+# END dsf2stg

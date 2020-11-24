@@ -1,18 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -92.48311 30.16570 3.65 315
-OBJECT_SHARED Models/lib/SmHangar.ac -92.48294 30.16585 3.67 315
-OBJECT_SHARED Models/lib/MedHangar.ac -92.48450 30.16704 3.81 44.22
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -92.48410 30.16632 3.77 43.64
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -92.48434 30.16630 3.77 222.14
-OBJECT_SHARED Models/lib/lamp10m.xml -92.48531 30.16741 3.76 222.51
-OBJECT_SHARED Models/lib/lamp10m.xml -92.48484 30.16740 3.76 171.47
-OBJECT_SHARED Models/lib/lamp10m.xml -92.48392 30.16693 3.82 143.13
-OBJECT_SHARED Models/lib/lamp10m.xml -92.48355 30.16663 3.82 137.29
-OBJECT_SHARED Models/lib/lamp10m.xml -92.48280 30.16601 3.71 135
-OBJECT_SHARED Models/lib/lamp10m.xml -92.48277 30.16554 3.62 45
-OBJECT_SHARED Models/lib/lamp10m.xml -92.48324 30.16557 3.64 309.29
-OBJECT_SHARED Models/lib/lamp10m.xml -92.48403 30.16623 3.75 312.88
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -92.48305 30.16606 3.73 96.84
+OBJECT_SHARED Models/lib/industrial13x24.ac -92.48420 30.16598 0.00 45.43
+OBJECT_SHARED Models/lib/SmHangar.ac -92.48139 30.16514 3.42 87.88
+OBJECT_SHARED Models/lib/SmHangar.ac -92.48209 30.16486 3.53 173.53
+OBJECT_SHARED Models/lib/farm19x12.ac -92.48190 30.16471 3.49 177.7
+OBJECT_SHARED Models/lib/SmHangar.ac -92.48440 30.16620 3.48 46.53
+OBJECT_SHARED Models/lib/SmHangar.ac -92.48331 30.16519 3.42 51.47
+OBJECT_SHARED Models/lib/MedHangar.ac -92.48327 30.16573 3.44 50.56
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -92.48208 30.16728 3.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -92.48312 30.16626 3.48 276.34
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -92.48200 30.16570 3.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -92.48214 30.16576 3.52 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -92.48225 30.16571 3.52 0
 # END dsf2stg

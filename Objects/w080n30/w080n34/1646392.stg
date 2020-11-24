@@ -1,0 +1,46 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -79.75771 34.89480 0.00 52.34
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -79.75640 34.89361 105.54 52.34
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -79.75774 34.89475 105.70 52.34
+OBJECT_SHARED Models/Transport/van_red.ac -79.75780 34.89502 105.54 142.28
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -79.75787 34.89507 105.43 322.97
+OBJECT_SHARED Models/lib/prop_a.ac -79.75697 34.89330 105.35 50.8
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.75797 34.89506 105.96 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.75793 34.89513 105.30 289.18
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.75787 34.89517 105.35 53.13
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.75794 34.89502 105.33 77.69
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.75747 34.89488 105.38 197.24
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.75750 34.89502 105.59 356.91
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.75769 34.89523 105.56 151.86
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.75783 34.89543 105.44 323.13
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.75761 34.89510 105.33 350.54
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.75776 34.89533 105.51 231.34
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.75797 34.89563 105.36 344.96
+OBJECT_SHARED Models/lib/4space_wStop.ac -79.75788 34.89504 105.17 232.69
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -79.75785 34.89515 105.38 231.92
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -79.75785 34.89438 105.38 327.07
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -79.75784 34.89437 105.61 325.01
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -79.75780 34.89440 105.64 143.52
+OBJECT_SHARED Models/lib/admin31x12.ac -79.75791 34.89487 105.64 143
+OBJECT_SHARED Models/lib/LongRow.ac -79.75639 34.89372 105.41 54.23
+OBJECT_SHARED Models/lib/LongRow.ac -79.75598 34.89347 105.69 54.1
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -79.75829 34.89496 105.58 142.76
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.75800 34.89509 105.24 110.3
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.75800 34.89505 105.30 183.89
+OBJECT_SHARED Models/lib/prop_a.ac -79.75693 34.89352 105.30 233.5
+OBJECT_SHARED Models/lib/prop_a.ac -79.75716 34.89367 105.85 232.58
+OBJECT_SHARED Models/lib/prop_a.ac -79.75617 34.89305 105.84 233.42
+OBJECT_SHARED Models/lib/lamp10m.xml -79.75800 34.89408 105.80 -36.45
+OBJECT_SHARED Models/lib/lamp10m.xml -79.75828 34.89473 105.70 53.3
+OBJECT_SHARED Models/lib/lamp10m.xml -79.75607 34.89312 105.36 52.88
+OBJECT_SHARED Models/lib/lamp10m.xml -79.75703 34.89371 105.74 52.23
+OBJECT_SHARED Models/lib/lamp10m.xml -79.75711 34.89396 105.81 -36.5
+OBJECT_SHARED Models/lib/lamp10m.xml -79.75753 34.89497 105.75 46.17
+OBJECT_SHARED Models/lib/lamp10m.xml -79.75782 34.89518 105.56 182.51
+OBJECT_SHARED Models/lib/lamp10m.xml -79.75760 34.89466 105.38 145.19
+OBJECT_SHARED Models/lib/lamp10m.xml -79.75678 34.89433 105.61 52.65
+OBJECT_SHARED Models/lib/lamp10m.xml -79.75731 34.89491 105.63 145.01
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.75775 34.89410 105.59 145.4
+# END dsf2stg

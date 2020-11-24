@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 19.60777 46.74857 0.00 46.01
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 19.60664 46.74873 106.23 0
+OBJECT_SHARED Models/Transport/van_silver.ac 19.60635 46.74932 105.85 309.97
+OBJECT_SHARED Models/lib/cars6.ac 19.60698 46.74839 106.12 128.93
+OBJECT_SHARED Models/lib/cars10.ac 19.60573 46.74962 105.89 307.77
+OBJECT_SHARED Models/lib/office40x25.ac 19.60735 46.74775 105.94 308.77
+OBJECT_SHARED Models/lib/farm19x12.ac 19.60558 46.74971 105.91 308
+OBJECT_SHARED Models/lib/farm19x12.ac 19.60528 46.74998 105.95 128.08
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 19.60476 46.74920 106.01 124.36
+OBJECT_SHARED Models/lib/stack_of_cones.ac 19.60540 46.74917 106.02 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 19.60552 46.74924 105.74 38.66
+OBJECT_SHARED Models/Misc/picnic_table.ac 19.60560 46.74967 106.05 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 19.60567 46.74971 105.95 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 19.60567 46.74964 105.97 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 19.60571 46.74967 105.94 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 19.60560 46.74965 105.97 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 19.60569 46.74967 105.95 0
+OBJECT_SHARED Models/Transport/Norberttruck.xml 19.60732 46.74862 105.97 309.18
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 19.60573 46.74934 106.04 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 19.60518 46.74979 105.83 115.65
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 19.60514 46.74982 105.94 132.11
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 19.60604 46.74935 105.92 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 19.60619 46.74937 105.87 0
+# END dsf2stg

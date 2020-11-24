@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/belt_loader.ac -6.06252 36.75043 0.00 64.8
+OBJECT_SHARED Models/lib/belt_loader.ac -6.06253 36.75052 28.59 68.2
+OBJECT_SHARED Models/lib/belt_loader.ac -6.06249 36.75050 28.66 66.19
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -6.06279 36.75054 28.63 339.92
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -6.06284 36.75065 28.81 339.35
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06226 36.75053 28.97 0
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06229 36.75052 28.50 0
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06230 36.75053 28.52 0
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06233 36.75052 28.52 0
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06233 36.75055 28.54 0
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06235 36.75054 28.60 270
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06237 36.75054 28.55 0
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06241 36.75056 28.57 0
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06235 36.75056 28.65 0
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06239 36.75057 28.61 0
+OBJECT_SHARED Models/Airport/cargoip.xml -6.06240 36.75058 28.64 0
+OBJECT_SHARED Models/lib/loader.ac -6.06246 36.75072 28.64 162.26
+OBJECT_SHARED Models/lib/container6-HD.ac -6.06279 36.75074 28.74 0
+OBJECT_SHARED Models/lib/container6-HD.ac -6.06268 36.75078 28.94 0
+OBJECT_SHARED Models/lib/container6-HD.ac -6.06278 36.75081 28.94 0
+OBJECT_SHARED Models/lib/FireStationLg.ac -6.06016 36.75158 28.19 339.6
+OBJECT_SHARED Models/lib/lamp10m.xml -6.06337 36.75038 28.79 0
+OBJECT_SHARED Models/lib/lamp10m.xml -6.06318 36.75077 29.09 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -6.06323 36.75059 28.67 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -6.06318 36.75087 29.14 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -6.06302 36.75111 29.30 0
+# END dsf2stg

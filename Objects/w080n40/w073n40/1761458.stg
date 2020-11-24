@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -72.46607 40.84607 0.00 300
+OBJECT_SHARED Models/lib/cars10.ac -72.46599 40.84506 1.00 113
+OBJECT_SHARED Models/lib/cars10.ac -72.46614 40.84532 3.76 113
+OBJECT_SHARED Models/lib/cars10.ac -72.46594 40.84570 3.03 293
+OBJECT_SHARED Models/lib/cars10.ac -72.46579 40.84544 1.53 293
+OBJECT_SHARED Models/lib/NoParkStripes.xml -72.46634 40.84617 2.82 19
+# END dsf2stg

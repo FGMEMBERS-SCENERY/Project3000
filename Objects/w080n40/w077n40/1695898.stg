@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.43644 40.44331 0.00 95
+OBJECT_SHARED Models/lib/LongRow.ac -76.43879 40.44373 141.77 215
+OBJECT_SHARED Models/lib/LongRow.ac -76.43750 40.44357 145.92 31
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -76.43850 40.44398 144.08 214
+OBJECT_SHARED Models/lib/shed8x10.ac -76.43749 40.44398 146.27 300
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.43733 40.44400 145.00 122
+OBJECT_SHARED Models/lib/SmHangar.ac -76.43844 40.44432 144.72 120
+OBJECT_SHARED Models/lib/SmHangar.ac -76.43826 40.44434 146.79 80
+OBJECT_SHARED Models/lib/SmHangar.ac -76.43675 40.44439 146.66 81
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43761 40.44454 144.68 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43752 40.44452 146.07 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43791 40.44180 145.92 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43800 40.44176 141.90 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43798 40.44183 142.00 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43806 40.44185 142.00 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43801 40.44191 142.11 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43809 40.44196 142.00 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43699 40.44235 142.14 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43697 40.44228 141.01 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43683 40.44235 141.01 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43644 40.44251 140.70 30
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.43630 40.44259 140.27 30
+OBJECT_SHARED Models/lib/prop_a.ac -76.43764 40.44341 140.23 155
+OBJECT_SHARED Models/lib/prop_a.ac -76.43808 40.44213 143.72 85
+OBJECT_SHARED Models/lib/prop_a.ac -76.43788 40.44208 142.21 105
+OBJECT_SHARED Models/lib/prop_a.ac -76.43854 40.44427 141.96 310
+OBJECT_SHARED Models/lib/prop_a.ac -76.43659 40.44354 146.92 205
+OBJECT_SHARED Models/lib/prop_a.ac -76.43741 40.44442 142.54 220
+OBJECT_SHARED Models/lib/prop_a.ac -76.43730 40.44435 145.62 220
+OBJECT_SHARED Models/lib/prop_a.ac -76.43719 40.44424 145.46 220
+OBJECT_SHARED Models/lib/prop_a.ac -76.43687 40.44435 144.98 0
+OBJECT_SHARED Models/lib/shed10x50.ac -76.43790 40.44417 144.66 119
+# END dsf2stg

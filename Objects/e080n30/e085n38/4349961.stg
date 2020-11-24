@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 85.46818 38.23237 0.00 144.205
+OBJECT_SHARED Models/Airport/cargobox.xml 85.47002 38.23306 1216.79 273.945
+OBJECT_SHARED Models/lib/container6-HD.ac 85.46906 38.23178 1216.47 185.964
+OBJECT_SHARED Models/lib/belt_loader.ac 85.46920 38.23256 1216.90 39.1445
+OBJECT_SHARED Models/lib/hangar81x16.ac 85.46754 38.23106 1216.66 226.333
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 85.46912 38.23192 1217.24 45.9224
+OBJECT_SHARED Models/lib/lamp10m.xml 85.46911 38.23233 1216.87 -44.0854
+OBJECT_SHARED Models/lib/lamp10m.xml 85.47000 38.23306 1216.76 -43.4471
+OBJECT_SHARED Models/lib/FireStationLg.ac 85.46789 38.23140 1216.47 133.53
+OBJECT_SHARED Models/lib/transformer3x3.ac 85.47861 38.24398 1217.12 96.1329
+# END dsf2stg

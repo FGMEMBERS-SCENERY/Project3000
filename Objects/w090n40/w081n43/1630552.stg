@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.93989 43.40756 0.00 321.71
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.93995 43.40764 365.51 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94032 43.40769 365.46 167.53
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94030 43.40760 365.30 325.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94060 43.40764 365.30 88.8309
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94084 43.40760 365.14 310.236
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94091 43.40780 365.04 59.421
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94090 43.40788 364.99 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.93996 43.40786 364.99 308.66
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94003 43.40786 365.45 165.466
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94010 43.40787 365.45 311.987
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94018 43.40787 365.40 279.866
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94027 43.40787 365.36 60.9452
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94032 43.40783 365.30 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94067 43.40815 365.30 289.799
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94062 43.40808 365.09 292.166
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.94071 43.40808 365.14 50.5278
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -80.94070 43.40801 365.09 57.529
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -80.94079 43.40806 365.09 284.036
+OBJECT_SHARED Models/lib/SmHangar.ac -80.93801 43.40781 365.04 269.72
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -80.94060 43.40839 366.51 276.84
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -80.94060 43.40837 365.13 274.93
+OBJECT_SHARED Models/lib/LongRow.ac -80.93866 43.40815 365.13 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -80.94055 43.40809 366.14 303.48
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -80.94071 43.40774 365.14 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -80.94063 43.40770 365.09 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -80.94079 43.40778 365.14 0
+OBJECT_SHARED Models/lib/MedHangar.ac -80.93844 43.40789 365.04 270.06
+OBJECT_SHARED Models/lib/SmHangar.ac -80.93773 43.40781 366.30 270.06
+OBJECT_SHARED Models/lib/LongRow.ac -80.93864 43.40847 366.66 358.91
+OBJECT_SHARED Models/lib/industrial13x24.ac -80.94084 43.40831 366.18 268.835
+OBJECT_SHARED Models/lib/LongRow.ac -80.93846 43.40881 365.04 0.07
+# END dsf2stg

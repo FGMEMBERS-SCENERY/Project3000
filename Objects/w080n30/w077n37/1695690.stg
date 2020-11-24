@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -76.49859 37.13797 9.79 128
+OBJECT_SHARED Models/lib/MedHangar.ac -76.49948 37.13566 9.83 168
+OBJECT_SHARED Models/lib/MedHangar.ac -76.49934 37.13617 10.25 168
+OBJECT_SHARED Models/lib/MedHangar.ac -76.49877 37.13710 10.31 167
+OBJECT_SHARED Models/lib/MedHangar.ac -76.49878 37.13811 10.43 169
+OBJECT_SHARED Models/lib/MedHangar.ac -76.49950 37.13768 10.61 30
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -76.49879 37.13878 10.56 33
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.49952 37.13730 10.75 122
+OBJECT_SHARED Models/lib/transformer3x3.ac -76.46966 37.14213 9.25 306
+OBJECT_SHARED Models/lib/transformer3x3.ac -76.46958 37.14206 7.21 306
+OBJECT_SHARED Models/lib/shed8x10.ac -76.46954 37.14199 9.17 126
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.49929 37.13514 9.94 81
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.49928 37.13519 10.16 81
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.49993 37.13225 9.89 169.01
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.49929 37.13503 9.93 79
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.49927 37.13508 10.15 79
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -76.49866 37.13626 9.88 75
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -76.49862 37.13640 10.29 75
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -76.49860 37.13652 10.30 75
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -76.49856 37.13663 10.32 81
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -76.49854 37.13676 10.34 81
+OBJECT_SHARED Models/lib/prop_a.ac -76.49805 37.13795 10.36 350
+OBJECT_SHARED Models/lib/prop_a.ac -76.49817 37.13804 10.53 168
+OBJECT_SHARED Models/lib/prop_a.ac -76.49820 37.13791 10.56 168
+OBJECT_SHARED Models/lib/prop_a.ac -76.49824 37.13779 10.54 168
+OBJECT_SHARED Models/lib/prop_a.ac -76.49822 37.13739 10.52 345
+OBJECT_SHARED Models/lib/prop_a.ac -76.49844 37.13710 10.45 166
+OBJECT_SHARED Models/lib/prop_a.ac -76.49847 37.13697 10.41 171
+OBJECT_SHARED Models/lib/prop_a.ac -76.49824 37.13726 10.39 350
+OBJECT_SHARED Models/lib/prop_a.ac -76.49828 37.13714 10.43 350
+OBJECT_SHARED Models/lib/prop_a.ac -76.49831 37.13701 10.40 345
+OBJECT_SHARED Models/lib/prop_a.ac -76.49836 37.13688 10.39 350
+OBJECT_SHARED Models/lib/prop_a.ac -76.49875 37.13569 10.38 165
+OBJECT_SHARED Models/lib/prop_a.ac -76.49950 37.13409 10.22 78
+OBJECT_SHARED Models/lib/prop_a.ac -76.49955 37.13388 10.06 78
+OBJECT_SHARED Models/lib/prop_a.ac -76.49960 37.13368 10.04 78
+OBJECT_SHARED Models/lib/prop_a.ac -76.49943 37.13365 10.03 78
+OBJECT_SHARED Models/lib/prop_a.ac -76.49977 37.13314 10.02 78
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.49912 37.13329 9.98 347
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.49911 37.13335 9.98 347
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.49927 37.13332 9.98 347
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.49925 37.13337 9.99 347
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.49942 37.13334 9.99 347
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.49955 37.13343 9.99 347
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.49956 37.13337 10.00 347
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.49940 37.13340 10.00 347
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.49971 37.13340 10.00 347
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.49969 37.13345 10.01 347
+# END dsf2stg

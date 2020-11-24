@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -81.11529 46.53397 0.00 17.03
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -81.15797 46.53295 266.96 205.21
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -81.15886 46.52814 266.76 44.56
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -81.18094 46.52240 266.16 14.33
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -81.13960 46.54057 266.99 237.86
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -81.13499 46.52993 266.99 7.13
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -81.11969 46.54375 267.00 39.29
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -81.11003 46.53980 266.98 131.98
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -81.12906 46.53965 267.00 90
+OBJECT_SHARED Models/Transport/hatchback_red.ac -81.13159 46.54183 266.98 90
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.13156 46.54186 267.00 262.41
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -81.13156 46.54188 267.00 270
+OBJECT_SHARED Models/Transport/hatchback_red.ac -81.13157 46.54191 267.00 274.76
+OBJECT_SHARED Models/Transport/van_red.ac -81.13161 46.54194 267.00 88.03
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.13160 46.54203 267.00 92.05
+OBJECT_SHARED Models/Transport/hatchback_green.ac -81.13131 46.54190 267.00 91.36
+OBJECT_SHARED Models/Transport/hatchback_red.ac -81.13131 46.54193 267.00 85.1
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.13131 46.54196 267.00 85.24
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.13132 46.54204 267.00 96.34
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.13118 46.54207 267.00 98.75
+OBJECT_SHARED Models/Transport/hatchback_red.ac -81.13132 46.54208 267.00 99.21
+OBJECT_SHARED Models/Transport/hatchback_green.ac -81.13132 46.54211 267.00 94.9
+OBJECT_SHARED Models/lib/cars6.ac -81.13221 46.54134 267.00 243.11
+OBJECT_SHARED Models/lib/cars4.ac -81.13188 46.54161 267.13 222.67
+OBJECT_SHARED Models/lib/farm19x12.ac -81.13012 46.54313 267.42 13.39
+OBJECT_SHARED Models/lib/farm19x12.ac -81.13111 46.54257 268.04 238.76
+OBJECT_SHARED Models/lib/cone.ac -81.13130 46.54162 267.42 315.67
+OBJECT_SHARED Models/lib/stack_of_cones.ac -81.13149 46.54156 267.00 315.67
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -81.13129 46.54161 267.00 257.52
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -81.13147 46.54164 267.00 315.67
+OBJECT_SHARED Models/Misc/6barrels.ac -81.13135 46.54150 267.00 315.67
+OBJECT_SHARED Models/Misc/6barrels.ac -81.13136 46.54148 267.25 315.67
+OBJECT_SHARED Models/lib/2vending-machines.ac -81.13130 46.54161 267.25 167.87
+OBJECT_SHARED Models/lib/watertank3x1.ac -81.13121 46.54163 267.00 80.76
+OBJECT_SHARED Models/lib/watertank3x1.ac -81.13118 46.54163 267.00 260.9
+# END dsf2stg

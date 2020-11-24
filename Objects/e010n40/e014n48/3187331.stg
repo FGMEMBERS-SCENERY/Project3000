@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac 14.95276 48.10567 0.00 244
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 14.95274 48.10573 249.82 244
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 14.95264 48.10592 249.92 240
+OBJECT_SHARED Models/Transport/hatchback_green.ac 14.95256 48.10606 250.25 192.9
+OBJECT_SHARED Models/lib/1car-stop.ac 14.95265 48.10598 250.52 330
+OBJECT_SHARED Models/lib/1car-stop.ac 14.95266 48.10595 250.28 330
+OBJECT_SHARED Models/lib/1car-stop.ac 14.95267 48.10591 250.14 330
+OBJECT_SHARED Models/lib/1car-stop.ac 14.95268 48.10588 250.14 330
+OBJECT_SHARED Models/lib/1car-stop.ac 14.95278 48.10569 250.14 334
+OBJECT_SHARED Models/lib/1car-stop.ac 14.95277 48.10572 249.82 334
+OBJECT_SHARED Models/lib/1car-stop.ac 14.95279 48.10566 249.82 334
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.95246 48.10615 249.82 334.8
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.95304 48.10621 250.76 280.62
+OBJECT_SHARED Models/lib/prop_a.ac 14.95282 48.10569 250.24 191
+OBJECT_SHARED Models/lib/transformer3x3.ac 14.95252 48.10604 249.82 11
+OBJECT_SHARED Models/Misc/6barrels.ac 14.95376 48.10624 250.49 31.61
+OBJECT_SHARED Models/lib/stack_of_cones.ac 14.95307 48.10591 249.62 319.45
+OBJECT_SHARED Models/lib/schranke.ac 14.95275 48.10563 249.76 104.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 14.95291 48.10547 249.83 197
+# END dsf2stg

@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -119.57960 49.86799 0.00 90.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.57883 49.86725 478.91 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.57882 49.86720 479.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.57884 49.86713 478.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.57882 49.86776 478.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.57882 49.86783 479.25 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.58001 49.86647 479.25 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.58013 49.86648 479.40 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.58017 49.86654 479.40 270
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.58015 49.86662 479.40 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.58016 49.86667 479.38 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.58016 49.86675 479.36 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.58015 49.86683 479.34 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.57882 49.86789 479.34 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.57882 49.86797 479.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.57882 49.86804 479.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.58005 49.86900 479.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.58006 49.86890 485.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.58007 49.86858 484.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.58007 49.86849 482.71 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.57892 49.86804 481.97 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -119.57931 49.86732 479.08 180
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.57946 49.86753 479.28 180
+OBJECT_SHARED Models/lib/container6-HD.ac -119.57947 49.86795 479.36 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.57945 49.86781 479.08 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.57949 49.86781 479.25 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.57922 49.86788 479.25 359.48
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.57903 49.86788 479.20 359.48
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.57923 49.86785 479.20 359.48
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.57904 49.86785 479.20 359.48
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.57906 49.86792 479.20 359.48
+OBJECT_SHARED Models/lib/cars4.ac -119.57987 49.86783 479.20 0
+OBJECT_SHARED Models/lib/cars6.ac -119.57985 49.86797 479.07 270
+OBJECT_SHARED Models/lib/cars6.ac -119.57986 49.86725 478.91 180
+OBJECT_SHARED Models/lib/cars6.ac -119.58014 49.86741 479.29 90
+OBJECT_SHARED Models/lib/cars10.ac -119.58011 49.86773 479.31 90
+OBJECT_SHARED Models/Misc/6barrels.ac -119.57982 49.86731 479.13 270
+OBJECT_SHARED Models/lib/cars4.ac -119.57987 49.86755 479.38 270
+OBJECT_SHARED Models/lib/coal_pile.ac -119.57894 49.86800 479.25 90
+OBJECT_SHARED Models/lib/coal_pile.ac -119.57914 49.86781 479.08 326.01
+OBJECT_SHARED Models/lib/coal_pile.ac -119.57907 49.86781 479.25 286.43
+OBJECT_SHARED Models/lib/container6-HD.ac -119.57957 49.86766 479.25 270.97
+OBJECT_SHARED Models/lib/industrial13x24.ac -119.58005 49.86955 479.13 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -119.57976 49.86875 489.37 0
+OBJECT_SHARED Models/lib/shed10x50.ac -119.57967 49.86849 484.19 0
+OBJECT_SHARED Models/lib/shed10x50.ac -119.57953 49.86810 481.97 0
+# END dsf2stg

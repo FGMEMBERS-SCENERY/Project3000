@@ -1,0 +1,56 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93993 32.60655 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94016 32.60639 156.42 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93999 32.60609 156.55 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94033 32.60603 156.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94054 32.60637 156.41 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94051 32.60684 156.75 135
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94052 32.60709 157.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93966 32.60711 157.12 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93978 32.60712 156.58 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93991 32.60712 156.65 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94009 32.60711 156.72 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93975 32.60651 156.78 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94042 32.60649 156.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94033 32.60652 156.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94034 32.60662 156.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94048 32.60672 156.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94027 32.60696 156.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.94041 32.60696 156.92 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93260 32.60679 157.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.93243 32.60676 152.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.93239 32.60684 152.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.93238 32.60678 152.21 26.56
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93173 32.60657 152.21 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93159 32.60675 151.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93144 32.60690 151.77 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93149 32.60667 151.79 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93147 32.60657 151.58 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93147 32.60640 151.45 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.93156 32.60635 151.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.93286 32.60650 151.11 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.93145 32.60618 152.10 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.93300 32.60656 150.92 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.93303 32.60659 152.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.93383 32.60660 152.29 0
+OBJECT_SHARED Models/lib/shed8x10.ac -95.93161 32.60690 152.73 90
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93558 32.60650 151.90 45
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93573 32.60643 153.87 90
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93569 32.60639 154.69 90
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93575 32.60638 154.69 90
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93616 32.60633 154.82 0
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93622 32.60632 155.62 90
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93626 32.60633 155.62 315
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93630 32.60634 155.66 90
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93634 32.60634 155.66 180
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93639 32.60637 155.66 270
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93630 32.60686 155.56 90
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93630 32.60681 154.53 90
+OBJECT_SHARED Models/lib/coal_pile.ac -95.93627 32.60684 154.40 90
+OBJECT_SHARED Models/lib/propane-tank.ac -95.93240 32.60672 154.40 90
+OBJECT_SHARED Models/lib/office16x4n.ac -95.93217 32.60681 152.08 16.64
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.93257 32.60640 152.10 89.16
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.93263 32.60641 151.80 82.53
+# END dsf2stg

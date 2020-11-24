@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -92.23297 30.95184 0.00 179.93
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -92.23281 30.95321 17.02 88.45
+OBJECT_SHARED Models/lib/propane-tank.ac -92.23280 30.95311 17.02 268.96
+OBJECT_SHARED Models/lib/lamp10m.xml -92.23289 30.95193 17.02 1.70999
+OBJECT_SHARED Models/lib/lamp10m.xml -92.23319 30.95289 17.02 92.04
+OBJECT_SHARED Models/lib/lamp10m.xml -92.23281 30.95322 16.99 88.64
+OBJECT_SHARED Models/lib/lamp10m.xml -92.23291 30.95236 17.02 24.98
+OBJECT_SHARED Models/lib/lamp10m.xml -92.23293 30.95249 17.02 24.67
+OBJECT_SHARED Models/lib/lamp10m.xml -92.23294 30.95289 17.02 49.61
+# END dsf2stg

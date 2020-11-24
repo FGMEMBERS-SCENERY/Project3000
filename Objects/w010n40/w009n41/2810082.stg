@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -8.44303 41.58684 0.00 296.56
+OBJECT_SHARED Models/lib/MedHangar.ac -8.44254 41.58703 71.87 297.41
+OBJECT_SHARED Models/lib/MedHangar.ac -8.44193 41.58727 71.72 298.5
+OBJECT_SHARED Models/lib/MedHangar.ac -8.44146 41.58746 71.43 298.5
+OBJECT_SHARED Models/lib/MedHangar.ac -8.44099 41.58765 71.27 298.61
+OBJECT_SHARED Models/lib/office32x25.ac -8.44383 41.58871 71.12 207.76
+OBJECT_SHARED Models/lib/admin31x12.ac -8.44357 41.58654 68.00 296.41
+OBJECT_SHARED Models/lib/fuel-truck.xml -8.44216 41.58763 72.17 210.964
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -8.44221 41.58757 70.77 118.113
+# END dsf2stg

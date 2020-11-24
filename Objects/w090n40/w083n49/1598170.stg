@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -82.46856 49.41808 0.00 5.39
+OBJECT_SHARED Models/lib/prop_a.ac -82.46879 49.41804 228.62 275.34
+OBJECT_SHARED Models/lib/prop_a.ac -82.46909 49.41806 228.54 359.95
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -82.47081 49.41810 228.39 181.17
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47191 49.41839 227.39 270
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47205 49.41837 226.54 297.62
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47214 49.41844 226.38 273.21
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47199 49.41844 226.38 359.19
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47204 49.41849 226.46 295.02
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47213 49.41849 226.45 304.99
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47161 49.41883 226.37 231.19
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47018 49.41720 226.70 275.56
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47026 49.41720 227.81 215.03
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47034 49.41720 227.75 215.03
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47153 49.41887 227.75 215.03
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47148 49.41879 226.76 279.95
+OBJECT_SHARED Models/lib/coal_pile.ac -82.47159 49.41877 226.78 245.32
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -82.46980 49.41750 226.70 317.27
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -82.46776 49.41803 228.04 242.05
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -82.46773 49.41806 228.90 242.05
+OBJECT_SHARED Models/lib/cars4.ac -82.46741 49.41798 228.93 239.89
+OBJECT_SHARED Models/lib/cars2.ac -82.46738 49.41769 229.01 242.63
+OBJECT_SHARED Models/lib/cars2.ac -82.46713 49.41761 228.99 63.9
+OBJECT_SHARED Models/lib/cars10.ac -82.46949 49.41822 229.03 182.84
+OBJECT_SHARED Models/lib/cars10.ac -82.46999 49.41839 228.17 0.82
+OBJECT_SHARED Models/lib/4space_wStop.ac -82.46970 49.41872 227.86 359.91
+OBJECT_SHARED Models/lib/4space_wStop.ac -82.47048 49.41873 227.97 181.59
+OBJECT_SHARED Models/lib/6space_wStop.ac -82.46970 49.41888 227.48 1.18
+OBJECT_SHARED Models/lib/6space_wStop.ac -82.47048 49.41885 227.94 180.61
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -82.46995 49.41879 227.44 181.16
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -82.47021 49.41879 227.79 180
+OBJECT_SHARED Models/lib/stack_of_cones.ac -82.46760 49.41796 227.66 153.44
+OBJECT_SHARED Models/lib/stack_of_cones.ac -82.46759 49.41797 228.96 156.8
+OBJECT_SHARED Models/lib/stack_of_cones.ac -82.46757 49.41799 228.96 0
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.46739 49.41829 228.96 158.23
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.46662 49.41786 228.99 158.23
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.46790 49.41793 229.13 332.22
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.46793 49.41789 228.87 330.49
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.46744 49.41773 228.87 330.47
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.46742 49.41776 228.99 330.2
+OBJECT_SHARED Models/lib/transformer3x3.ac -82.47036 49.41822 229.00 270.12
+OBJECT_SHARED Models/lib/shed8x10.ac -82.46638 49.41756 227.65 328.95
+OBJECT_SHARED Models/lib/transformer3x3.ac -82.46865 49.41330 229.10 292.06
+# END dsf2stg

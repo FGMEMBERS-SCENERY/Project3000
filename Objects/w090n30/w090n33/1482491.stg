@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -89.01958 33.88845 0.00 330.709
+OBJECT_SHARED Models/lib/SmHangar.ac -89.01965 33.88836 99.27 330.852
+OBJECT_SHARED Models/lib/SmHangar.ac -89.01941 33.88871 99.12 330.664
+OBJECT_SHARED Models/lib/SmHangar.ac -89.01919 33.88905 99.69 331.017
+OBJECT_SHARED Models/lib/6space_wStop.ac -89.01897 33.88932 99.94 66.5143
+OBJECT_SHARED Models/lib/6space_wStop.ac -89.01857 33.88935 100.04 136.857
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -89.02038 33.88806 100.15 239.086
+OBJECT_SHARED Models/lib/office3x10.ac -89.01863 33.88945 98.20 139.74
+OBJECT_SHARED Models/Transport/hatchback_red.ac -89.01847 33.88940 100.23 47.7926
+OBJECT_SHARED Models/Transport/hatchback_black.ac -89.01851 33.88936 100.22 49.74
+OBJECT_SHARED Models/Transport/hatchback_red.ac -89.01856 33.88932 100.22 224.37
+OBJECT_SHARED Models/Transport/hatchback_green.ac -89.01887 33.88926 100.15 341.03
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.01896 33.88929 100.07 335.556
+OBJECT_SHARED Models/Transport/hatchback_black.ac -89.01902 33.88931 100.04 333.435
+OBJECT_SHARED Models/Transport/van_silver.ac -89.01860 33.88929 100.04 225.764
+# END dsf2stg

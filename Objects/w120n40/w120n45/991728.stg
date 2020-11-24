@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_silver.ac -119.81520 45.81487 0.00 111.94
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -119.81510 45.81492 120.01 299.25
+OBJECT_SHARED Models/lib/SmHangar.ac -119.81323 45.81649 120.01 296.72
+OBJECT_SHARED Models/lib/SmHangar.ac -119.81272 45.81667 117.17 297.04
+OBJECT_SHARED Models/lib/watertank3x1.ac -119.81259 45.81695 117.04 300.7
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.81440 45.81487 116.98 359.99
+OBJECT_SHARED Models/Transport/Norberttruck.xml -119.81240 45.81694 119.53 291.99
+OBJECT_SHARED Models/lib/garden-shed.ac -119.81558 45.81470 116.61 29.75
+OBJECT_SHARED Models/Transport/van_red.ac -119.81405 45.81543 121.29 302.62
+OBJECT_SHARED Models/Transport/van_red.ac -119.81403 45.81548 118.34 121.6
+OBJECT_SHARED Models/lib/office4x14.ac -119.81459 45.81482 118.11 115.33
+# END dsf2stg

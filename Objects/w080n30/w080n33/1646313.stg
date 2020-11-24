@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.51857 33.72965 0.00 20
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.51887 33.72971 15.10 30
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.51908 33.72982 15.11 20
+OBJECT_SHARED Models/lib/shed8x10.ac -79.51899 33.72979 15.11 343
+OBJECT_SHARED Models/lib/shed8x10.ac -79.51872 33.72972 15.12 343
+OBJECT_SHARED Models/lib/shed8x10.ac -79.51831 33.72963 15.13 162
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.51788 33.72941 15.12 75
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -79.51935 33.72989 15.07 343
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -79.51422 33.73018 15.10 9
+# END dsf2stg

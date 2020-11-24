@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -81.35030 37.55915 0.00 355.6
+OBJECT_SHARED Models/lib/office3x10.ac -81.35004 37.55944 669.68 178.64
+OBJECT_SHARED Models/lib/4container-office.ac -81.34935 37.55958 669.78 299.05
+OBJECT_SHARED Models/lib/cone.ac -81.34983 37.55931 669.93 144.28
+OBJECT_SHARED Models/lib/stack_of_cones.ac -81.34968 37.55939 669.87 144.28
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -81.34985 37.55932 669.91 86.13
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -81.34968 37.55931 669.87 144.28
+OBJECT_SHARED Models/Misc/6barrels.ac -81.34981 37.55944 669.90 144.28
+OBJECT_SHARED Models/Misc/6barrels.ac -81.34981 37.55945 669.88 144.28
+OBJECT_SHARED Models/lib/2vending-machines.ac -81.34984 37.55932 669.87 356.48
+OBJECT_SHARED Models/lib/cone.ac -81.35040 37.55937 669.87 144.72
+OBJECT_SHARED Models/lib/stack_of_cones.ac -81.35025 37.55946 669.61 144.72
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -81.35042 37.55938 669.63 86.57
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -81.35025 37.55937 669.61 144.72
+OBJECT_SHARED Models/Misc/6barrels.ac -81.35038 37.55950 669.64 144.72
+OBJECT_SHARED Models/Misc/6barrels.ac -81.35038 37.55951 669.59 144.72
+OBJECT_SHARED Models/lib/2vending-machines.ac -81.35040 37.55938 669.59 356.92
+# END dsf2stg

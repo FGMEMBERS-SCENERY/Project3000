@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.93120 36.11891 81.08 135
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.93107 36.11901 80.88 135
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.93094 36.11912 80.88 135
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -90.93125 36.11917 80.89 45
+OBJECT_SHARED Models/lib/fboModern1.ac -90.93041 36.11957 80.87 135
+OBJECT_SHARED Models/lib/office40x25.ac -90.92651 36.12452 81.03 0
+# END dsf2stg

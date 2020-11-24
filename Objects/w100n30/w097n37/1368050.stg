@@ -1,0 +1,56 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.28902 37.85244 0.00 158.2
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.28898 37.85267 366.84 34.64
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.28904 37.85258 366.74 133.53
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.28895 37.85251 366.77 44.06
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29068 37.85124 367.22 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29086 37.85126 367.45 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29104 37.85128 367.37 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29112 37.85127 367.32 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29114 37.85121 367.25 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29116 37.85122 367.23 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29065 37.85137 367.17 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29083 37.85140 367.54 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29102 37.85142 367.44 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29108 37.85145 367.33 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29107 37.85151 367.27 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -96.29109 37.85151 367.27 0
+OBJECT_SHARED Models/lib/shed8x10.ac -96.28817 37.84940 366.77 0.709999
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -96.29048 37.82350 365.05 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.28993 37.85136 326.24 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.29003 37.85120 367.24 61.26
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.29003 37.85124 367.16 82.87
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -96.29010 37.85111 367.16 349.12
+OBJECT_SHARED Models/Misc/6barrels.ac -96.29045 37.85172 367.11 154.26
+OBJECT_SHARED Models/Misc/6barrels.ac -96.29044 37.85173 367.15 312.14
+OBJECT_SHARED Models/Misc/6barrels.ac -96.29044 37.85170 367.15 227.86
+OBJECT_SHARED Models/Misc/6barrels.ac -96.29041 37.85172 367.15 64.8
+OBJECT_SHARED Models/Airport/cargobox.xml -96.29038 37.85175 367.15 348.02
+OBJECT_SHARED Models/Airport/cargobox.xml -96.29045 37.85165 367.15 158.2
+OBJECT_SHARED Models/Airport/cargobox.xml -96.29043 37.85164 367.11 90
+OBJECT_SHARED Models/Airport/cargobox.xml -96.29042 37.85157 367.15 270
+OBJECT_SHARED Models/Airport/cargobox.xml -96.29042 37.85159 367.15 180
+OBJECT_SHARED Models/Airport/cargobox.xml -96.29041 37.85161 367.15 0
+OBJECT_SHARED Models/Airport/cargobox.xml -96.29040 37.85165 367.15 166.76
+OBJECT_SHARED Models/Airport/cargobox.xml -96.29040 37.85167 367.15 263.66
+OBJECT_SHARED Models/Airport/cargobox.xml -96.29039 37.85169 367.15 176.82
+OBJECT_SHARED Models/lib/garden-shed.ac -96.28987 37.85195 367.15 170.02
+OBJECT_SHARED Models/lib/prop_a.ac -96.28972 37.85240 367.29 350.09
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28971 37.85227 367.24 169.45
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28966 37.85252 367.27 170.59
+OBJECT_SHARED Models/lib/SmHangar.ac -96.29002 37.85147 367.21 349.94
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28998 37.84976 367.25 170.33
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28998 37.84976 367.25 170.33
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28990 37.85015 366.13 168.9
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28993 37.85003 366.48 168.9
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28959 37.85022 366.38 80.42
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28959 37.85022 366.38 80.42
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28986 37.85039 366.54 169.18
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28986 37.85039 366.54 169.18
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28985 37.85182 366.73 170.55
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28985 37.85182 366.73 170.55
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28951 37.85219 367.31 350.62
+OBJECT_SHARED Models/lib/SmHangar.ac -96.28951 37.85219 367.31 350.62
+# END dsf2stg

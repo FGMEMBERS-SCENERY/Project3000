@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LgMaint.ac -88.91277 35.59814 0.00 247.24
+OBJECT_SHARED Models/lib/office65x50.ac -88.91152 35.59810 126.27 157.01
+OBJECT_SHARED Models/lib/fboModern1.ac -88.92112 35.60396 125.82 78.57
+OBJECT_SHARED Models/lib/LongRow.ac -88.92163 35.59886 124.39 90
+OBJECT_SHARED Models/lib/MedHangar.ac -88.92154 35.60118 128.47 180
+OBJECT_SHARED Models/lib/MedHangar.ac -88.92146 35.60175 126.71 180
+OBJECT_SHARED Models/lib/MedHangar.ac -88.92142 35.60293 126.34 180
+OBJECT_SHARED Models/lib/MedHangar.ac -88.92134 35.60361 125.37 180
+OBJECT_SHARED Models/lib/MedHangar.ac -88.91527 35.60631 124.78 113.38
+OBJECT_SHARED Models/lib/MedHangar.ac -88.91638 35.60634 123.98 88.7
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -88.91741 35.60615 123.58 266.33
+# END dsf2stg

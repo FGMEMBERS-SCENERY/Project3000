@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -99.19037 30.93467 0.00 90
+OBJECT_SHARED Models/lib/coal_pile.ac -99.19034 30.93474 511.67 90
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -99.19040 30.93459 511.74 348.11
+# END dsf2stg

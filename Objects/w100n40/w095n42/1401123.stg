@@ -1,0 +1,54 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -94.18081 42.55281 0.00 0
+OBJECT_SHARED Models/lib/cars14.ac -94.18200 42.55168 351.31 270
+OBJECT_SHARED Models/lib/cars14.ac -94.18200 42.55188 348.62 270
+OBJECT_SHARED Models/lib/cars14.ac -94.18200 42.55207 348.76 270
+OBJECT_SHARED Models/lib/cars14.ac -94.18201 42.55240 348.91 270
+OBJECT_SHARED Models/lib/cars14.ac -94.18197 42.55207 349.12 90
+OBJECT_SHARED Models/lib/cars14.ac -94.18197 42.55226 348.91 90
+OBJECT_SHARED Models/lib/cars14.ac -94.18198 42.55259 349.05 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.18122 42.55150 349.27 0
+OBJECT_SHARED Models/lib/LongRow.ac -94.18109 42.55012 349.10 90
+OBJECT_SHARED Models/lib/LongRow.ac -94.18040 42.55019 348.03 90
+OBJECT_SHARED Models/lib/LongRow.ac -94.18109 42.54934 348.64 90
+OBJECT_SHARED Models/lib/LongRow.ac -94.18040 42.54944 347.30 90
+OBJECT_SHARED Models/lib/SmHangar.ac -94.18140 42.55144 347.87 90
+OBJECT_SHARED Models/lib/MedHangar.ac -94.18202 42.55132 348.87 90
+OBJECT_SHARED Models/lib/MedHangar.ac -94.18074 42.55125 348.32 90
+OBJECT_SHARED Models/lib/SmHangar.ac -94.18177 42.55024 349.35 0
+OBJECT_SHARED Models/lib/SmHangar.ac -94.18177 42.55044 347.60 0
+OBJECT_SHARED Models/lib/SmHangar.ac -94.18205 42.55024 347.76 180
+OBJECT_SHARED Models/lib/SmHangar.ac -94.18205 42.55044 347.38 180
+OBJECT_SHARED Models/lib/SmHangar.ac -94.18205 42.55064 347.54 180
+OBJECT_SHARED Models/lib/cube16x10.ac -94.18177 42.55067 347.70 180
+OBJECT_SHARED Models/lib/lamp10m.xml -94.18264 42.55161 348.01 149.2
+OBJECT_SHARED Models/lib/lamp10m.xml -94.18307 42.55173 348.07 129.18
+OBJECT_SHARED Models/lib/lamp10m.xml -94.18324 42.55194 347.76 109.72
+OBJECT_SHARED Models/lib/lamp10m.xml -94.18326 42.55219 347.83 89.78
+OBJECT_SHARED Models/lib/lamp10m.xml -94.18313 42.55244 347.97 58.76
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18238 42.55278 348.27 26.56
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18232 42.55280 349.10 206.56
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18233 42.55286 349.18 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18218 42.55291 349.25 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18215 42.55285 349.33 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18207 42.55292 349.26 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18200 42.55296 349.41 116.57
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18123 42.55283 351.60 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18128 42.55275 351.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18126 42.55272 351.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17932 42.55218 349.89 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17925 42.55214 350.57 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17943 42.55217 350.54 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17935 42.55206 350.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17946 42.55204 350.51 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17953 42.55216 350.39 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17957 42.55206 350.56 315
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17962 42.55216 350.46 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17968 42.55206 350.57 315
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17974 42.55215 350.47 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.17978 42.55208 350.58 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18255 42.55202 350.47 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.18248 42.55221 348.37 0
+# END dsf2stg

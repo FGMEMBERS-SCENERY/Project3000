@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 105.59574 38.73842 0.00 38.3129
+OBJECT_SHARED Models/lib/stack_of_cones.ac 105.58926 38.74850 1397.62 91.6023
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 105.58821 38.74907 1398.26 108.646
+OBJECT_SHARED Models/lib/transformer3x3.ac 105.58582 38.74982 1396.37 173.334
+OBJECT_SHARED Models/lib/office40x25.ac 105.58842 38.74997 1396.53 220.429
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 105.59013 38.74887 1398.64 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 105.58973 38.74925 1399.43 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 105.58945 38.74834 1399.74 90
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 105.58891 38.74883 1398.10 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 105.58864 38.74942 1398.50 310.433
+# END dsf2stg

@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59854 36.79273 0.50 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59853 36.79254 2338.49 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59847 36.79261 2338.53 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59767 36.79278 2340.28 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59767 36.79258 2340.24 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59837 36.79262 2340.28 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59837 36.79274 2340.28 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59811 36.79262 2340.26 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59811 36.79274 2340.28 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59779 36.79262 2340.26 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -105.59779 36.79273 2340.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -105.59966 36.79254 2339.76 105.95
+OBJECT_SHARED Models/lib/transformer3x3.ac -105.59969 36.79181 2336.25 180
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -105.60024 36.79603 2336.35 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -105.59972 36.79021 2335.45 270
+OBJECT_SHARED Models/lib/office4x14.ac -105.59959 36.79054 2336.28 352.61
+# END dsf2stg

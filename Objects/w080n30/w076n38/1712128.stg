@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -75.82570 38.01700 0.00 328.7
+OBJECT_SHARED Models/lib/cars4.ac -75.82588 38.01699 0.99 0.739998
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -75.82600 38.01675 1.00 32.23
+OBJECT_SHARED Models/Transport/van_silver.ac -75.82604 38.01674 0.99 215.78
+OBJECT_SHARED Models/Transport/van_red.ac -75.82614 38.01670 0.99 214.32
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.82594 38.01698 1.00 270.75
+OBJECT_SHARED Models/lib/lamp10m.xml -75.82576 38.01679 1.00 6.57001
+OBJECT_SHARED Models/lib/lamp10m.xml -75.82589 38.01705 0.99 0.230011
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -75.82589 38.01701 1.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.82594 38.01703 1.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.82592 38.01703 1.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.82591 38.01703 1.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.82591 38.01702 1.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.82592 38.01702 1.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.82594 38.01702 1.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -75.82590 38.01702 1.00 90
+OBJECT_SHARED Models/lib/propane-tank.ac -75.82592 38.01702 1.00 0.529999
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -75.82606 38.01697 1.00 305.59
+OBJECT_SHARED Models/lib/SmHangar.ac -75.82675 38.01663 1.00 135.32
+OBJECT_SHARED Models/lib/SmHangar.ac -75.82665 38.01671 1.00 135.32
+OBJECT_SHARED Models/lib/SmHangar.ac -75.82656 38.01679 1.00 135.32
+OBJECT_SHARED Models/lib/SmHangar.ac -75.82646 38.01687 1.00 135.32
+# END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -0.59386 35.17401 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -0.59376 35.17392 481.31 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.59370 35.17401 481.36 342.95
+OBJECT_SHARED Models/lib/lamp10m.xml -0.59305 35.17371 481.34 138.43
+OBJECT_SHARED Models/lib/lamp10m.xml -0.59334 35.17395 481.56 73.66
+OBJECT_SHARED Models/lib/lamp10m.xml -0.59359 35.17386 481.41 164.93
+OBJECT_SHARED Models/lib/lamp10m.xml -0.59382 35.17392 481.39 161.15
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -0.59385 35.17390 481.35 160.48
+OBJECT_SHARED Models/lib/SmHangar.ac -0.59369 35.17388 481.34 71.45
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -0.59331 35.17378 481.37 71.1
+# END dsf2stg

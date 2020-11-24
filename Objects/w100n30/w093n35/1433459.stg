@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09680 35.86410 0.00 269.204
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09699 35.86412 241.05 269.751
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09717 35.86412 241.01 269.299
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09731 35.86412 240.97 269.487
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09746 35.86413 240.95 269.721
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09760 35.86413 240.91 269.31
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09778 35.86413 240.89 269.345
+OBJECT_SHARED Models/lib/shed8x10.ac -92.09658 35.86499 240.84 88.2007
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09128 35.86419 241.62 267.816
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09219 35.86414 240.07 269.497
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09528 35.86429 240.45 268.556
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09590 35.86424 241.29 86.6823
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09676 35.86497 241.21 88.5903
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09722 35.86500 241.64 88.4771
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09770 35.86504 241.67 88.838
+OBJECT_SHARED Models/lib/SmHangar.ac -92.09787 35.86504 241.68 88.3839
+OBJECT_SHARED Models/lib/propane-tank.ac -92.09796 35.86412 241.68 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.09170 35.86410 240.78 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.09153 35.86415 240.23 251.565
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.09156 35.86424 240.15 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.09190 35.86415 240.19 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.09192 35.86426 240.32 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.08497 35.86282 240.33 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.08518 35.86327 234.54 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.09705 35.86496 235.20 0
+OBJECT_SHARED Models/Transport/van_silver.ac -92.09879 35.86427 241.66 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -92.09936 35.86459 240.85 0
+OBJECT_SHARED Models/lib/prop_a.ac -92.09685 35.86426 241.05 90
+OBJECT_SHARED Models/lib/prop_a.ac -92.08512 35.86360 241.26 178.506
+# END dsf2stg

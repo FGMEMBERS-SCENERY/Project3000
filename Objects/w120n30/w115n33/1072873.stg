@@ -1,8 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -114.64232 33.68003 123.76 317.162
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -114.64220 33.67968 123.66 0.925209
-OBJECT_SHARED Models/lib/hangar81x16.ac -114.64178 33.67909 123.34 270.605
-OBJECT_SHARED Models/lib/cone.ac -114.64222 33.67944 123.50 130.873
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -114.64129 33.67659 0.00 322.13
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -114.64140 33.67655 123.02 79.38
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -114.64140 33.67666 123.02 304.99
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -114.64153 33.67665 123.02 251.56
+OBJECT_SHARED Models/lib/coal_pile.ac -114.64179 33.67716 123.33 238.24
+OBJECT_SHARED Models/lib/coal_pile.ac -114.64167 33.67746 123.48 231.84
+OBJECT_SHARED Models/lib/coal_pile.ac -114.64179 33.67762 123.56 250.02
+OBJECT_SHARED Models/lib/coal_pile.ac -114.64180 33.67777 123.59 246.8
+OBJECT_SHARED Models/lib/coal_pile.ac -114.64181 33.67792 123.65 222.71
+OBJECT_SHARED Models/lib/coal_pile.ac -114.64203 33.68068 123.68 194.04
+OBJECT_SHARED Models/lib/coal_pile.ac -114.64203 33.67959 123.82 328.57
+OBJECT_SHARED Models/lib/coal_pile.ac -114.64113 33.67810 124.06 347.47
+OBJECT_SHARED Models/lib/coal_pile.ac -114.64180 33.67806 123.91 233.13
+OBJECT_SHARED Models/lib/coal_pile.ac -114.64173 33.67812 123.74 315
 # END dsf2stg

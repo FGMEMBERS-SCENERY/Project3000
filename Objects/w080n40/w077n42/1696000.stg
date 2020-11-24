@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/hangar81x16.ac -76.89954 42.11927 515.57 106
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -76.90031 42.12045 518.96 307.01
-OBJECT_SHARED Models/lib/propane-tank.ac -76.90118 42.12220 508.82 305
-OBJECT_SHARED Models/lib/propane-tank.ac -76.90120 42.12222 508.82 305
-OBJECT_SHARED Models/lib/propane-tank.ac -76.90120 42.12219 508.82 305
-OBJECT_SHARED Models/lib/propane-tank.ac -76.90122 42.12221 508.82 305
-OBJECT_SHARED Models/lib/propane-tank.ac -76.90121 42.12219 508.82 305
-OBJECT_SHARED Models/lib/propane-tank.ac -76.90123 42.12220 508.82 305
-OBJECT_SHARED Models/lib/prop_a.ac -76.90098 42.12085 519.01 215
-OBJECT_SHARED Models/lib/prop_a.ac -76.90113 42.12099 518.93 215
-OBJECT_SHARED Models/lib/prop_a.ac -76.90006 42.12004 519.18 225
-OBJECT_SHARED Models/lib/shed8x10.ac -76.90018 42.12014 519.31 30
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.89954 42.11927 0.00 106
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -76.90031 42.12045 516.60 307.01
+OBJECT_SHARED Models/lib/propane-tank.ac -76.90118 42.12220 518.45 305
+OBJECT_SHARED Models/lib/propane-tank.ac -76.90120 42.12222 509.67 305
+OBJECT_SHARED Models/lib/propane-tank.ac -76.90120 42.12219 509.67 305
+OBJECT_SHARED Models/lib/propane-tank.ac -76.90122 42.12221 509.67 305
+OBJECT_SHARED Models/lib/propane-tank.ac -76.90121 42.12219 509.67 305
+OBJECT_SHARED Models/lib/propane-tank.ac -76.90123 42.12220 509.67 305
+OBJECT_SHARED Models/lib/prop_a.ac -76.90098 42.12085 509.67 215
+OBJECT_SHARED Models/lib/prop_a.ac -76.90113 42.12099 518.72 215
+OBJECT_SHARED Models/lib/prop_a.ac -76.90006 42.12004 518.71 225
+OBJECT_SHARED Models/lib/shed8x10.ac -76.90018 42.12014 518.75 30
 # END dsf2stg

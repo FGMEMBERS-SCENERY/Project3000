@@ -1,21 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -119.48051 35.35244 103.11 139.04
-OBJECT_SHARED Models/Airport/cargobox.xml -119.48097 35.35260 102.80 225.855
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -119.48051 35.35244 0.00 139.04
+OBJECT_SHARED Models/Airport/cargobox.xml -119.48097 35.35260 103.12 225.855
 OBJECT_SHARED Models/Airport/cargobox.xml -119.48099 35.35261 102.80 332.447
 OBJECT_SHARED Models/Airport/cargobox.xml -119.48101 35.35263 102.80 324.605
 OBJECT_SHARED Models/Airport/cargobox.xml -119.48102 35.35264 102.80 233.531
-OBJECT_SHARED Models/Airport/cargobox.xml -119.48104 35.35265 102.65 218.157
-OBJECT_SHARED Models/Airport/cargobox.xml -119.48096 35.35262 102.80 311.82
+OBJECT_SHARED Models/Airport/cargobox.xml -119.48104 35.35265 102.80 218.157
+OBJECT_SHARED Models/Airport/cargobox.xml -119.48096 35.35262 102.65 311.82
 OBJECT_SHARED Models/Airport/cargobox.xml -119.48098 35.35263 102.80 317.49
 OBJECT_SHARED Models/Airport/cargobox.xml -119.48100 35.35264 102.80 224.029
-OBJECT_SHARED Models/Airport/cargobox.xml -119.48102 35.35266 102.65 305.538
+OBJECT_SHARED Models/Airport/cargobox.xml -119.48102 35.35266 102.80 305.538
 OBJECT_SHARED Models/lib/cargo-container1-HD.ac -119.48105 35.35268 102.65 319.254
 OBJECT_SHARED Models/lib/cargo-container1-HD.ac -119.48109 35.35270 102.65 319.086
-OBJECT_SHARED Models/lib/cone.ac -119.48021 35.35239 101.74 331.64
-OBJECT_SHARED Models/lib/cone.ac -119.48026 35.35234 101.89 70.8
-OBJECT_SHARED Models/lib/watertank3x1.ac -119.48011 35.35239 101.74 230.066
-OBJECT_SHARED Models/Misc/6barrels.ac -119.48110 35.35273 102.65 174.74
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -119.48017 35.35233 6.89 182.484
+OBJECT_SHARED Models/lib/cone.ac -119.48021 35.35239 102.65 331.64
+OBJECT_SHARED Models/lib/cone.ac -119.48026 35.35234 101.74 70.8
+OBJECT_SHARED Models/lib/watertank3x1.ac -119.48011 35.35239 101.90 230.066
+OBJECT_SHARED Models/Misc/6barrels.ac -119.48110 35.35273 101.74 174.74
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -119.48017 35.35233 7.65 182.484
 # END dsf2stg

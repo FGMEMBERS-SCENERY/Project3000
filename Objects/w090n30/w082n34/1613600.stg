@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.94864 34.50803 0.00 107
+OBJECT_SHARED Models/lib/LongRow.ac -81.94991 34.50734 211.94 109.07
+OBJECT_SHARED Models/lib/LongRow.ac -81.94955 34.50745 212.03 109.07
+OBJECT_SHARED Models/lib/shed8x10.ac -81.94883 34.50839 212.05 9.97
+OBJECT_SHARED Models/lib/lamp10m.xml -81.95049 34.50797 212.22 258.49
+OBJECT_SHARED Models/lib/lamp10m.xml -81.94892 34.50796 213.03 195.63
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -81.94858 34.50800 212.12 197
+OBJECT_SHARED Models/lib/lamp10m.xml -81.94760 34.50841 211.94 156.4
+OBJECT_SHARED Models/lib/lamp10m.xml -81.94809 34.50823 211.44 198.86
+OBJECT_SHARED Models/lib/lamp10m.xml -81.94855 34.50800 211.71 198.86
+OBJECT_SHARED Models/lib/cars6.ac -81.94814 34.50821 211.86 195.74
+OBJECT_SHARED Models/lib/propane-tank.ac -81.94963 34.50833 211.71 16.21
+OBJECT_SHARED Models/lib/transformer3x3.ac -81.94932 34.50843 212.70 182.7
+OBJECT_SHARED Models/lib/transformer3x3.ac -81.94815 34.50815 212.55 15.49
+# END dsf2stg

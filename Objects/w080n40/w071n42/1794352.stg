@@ -1,26 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -70.84225 42.79604 2.28 68.61
-OBJECT_SHARED Models/lib/lamp10m.xml -70.84197 42.79607 2.25 157.42
-OBJECT_SHARED Models/lib/stack_of_cones.ac -70.83661 42.79555 1.06 0
-OBJECT_SHARED Models/lib/trailer-fedex.ac -70.83479 42.79561 0.97 6.2
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -70.84201 42.79564 2.00 341.83
-OBJECT_SHARED Models/lib/cone.ac -70.84623 42.79799 2.94 0
-OBJECT_SHARED Models/lib/cone.ac -70.84643 42.79783 2.98 0
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -70.84232 42.79571 2.12 160.65
-OBJECT_SHARED Models/lib/lamp10m.xml -70.84162 42.79584 2.02 12.05
-OBJECT_SHARED Models/lib/cone.ac -70.84624 42.79798 2.94 0
-OBJECT_SHARED Models/lib/cone.ac -70.84642 42.79784 2.98 0
-OBJECT_SHARED Models/lib/cone.ac -70.84522 42.79732 2.95 0
-OBJECT_SHARED Models/lib/cone.ac -70.84541 42.79718 2.96 0
-OBJECT_SHARED Models/lib/cone.ac -70.84423 42.79667 2.92 0
-OBJECT_SHARED Models/lib/cone.ac -70.84441 42.79652 2.90 0
-OBJECT_SHARED Models/lib/cone.ac -70.84333 42.79607 2.49 0
-OBJECT_SHARED Models/lib/cone.ac -70.84350 42.79593 2.43 0
-OBJECT_SHARED Models/lib/cone.ac -70.84240 42.79546 2.03 0
-OBJECT_SHARED Models/lib/cone.ac -70.84256 42.79533 1.96 0
-OBJECT_SHARED Models/lib/cone.ac -70.83661 42.79540 1.05 320.36
-OBJECT_SHARED Models/lib/cone.ac -70.83661 42.79547 1.06 334.8
-OBJECT_SHARED Models/lib/cone.ac -70.83661 42.79553 1.06 0
+OBJECT_SHARED Models/lib/trailer-fedex.ac -70.83480 42.79559 0.00 6.2
+OBJECT_SHARED Models/lib/cone.ac -70.84623 42.79799 0.98 0
+OBJECT_SHARED Models/lib/cone.ac -70.84643 42.79783 2.94 0
+OBJECT_SHARED Models/lib/cone.ac -70.84624 42.79798 2.99 0
+OBJECT_SHARED Models/lib/cone.ac -70.84642 42.79784 2.94 0
+OBJECT_SHARED Models/lib/cone.ac -70.84522 42.79732 2.99 0
+OBJECT_SHARED Models/lib/cone.ac -70.84541 42.79718 2.95 0
+OBJECT_SHARED Models/lib/cone.ac -70.84423 42.79667 2.96 0
+OBJECT_SHARED Models/lib/cone.ac -70.84441 42.79652 2.93 0
+OBJECT_SHARED Models/lib/cone.ac -70.84333 42.79607 2.90 0
+OBJECT_SHARED Models/lib/cone.ac -70.84350 42.79593 2.55 0
+OBJECT_SHARED Models/lib/cone.ac -70.84240 42.79546 2.43 0
+OBJECT_SHARED Models/lib/cone.ac -70.84256 42.79533 2.03 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -70.83445 42.79559 1.96 94.29
+OBJECT_SHARED Models/Transport/van_silver.ac -70.83437 42.79564 0.98 101.94
+OBJECT_SHARED Models/lib/prop_a.ac -70.84124 42.79558 0.98 318.18
+OBJECT_SHARED Models/lib/prop_a.ac -70.84266 42.79594 1.83 247.78
+OBJECT_SHARED Models/lib/prop_a.ac -70.84236 42.79569 2.31 76.98
+OBJECT_SHARED Models/lib/prop_a.ac -70.84221 42.79566 2.14 76.98
+OBJECT_SHARED Models/lib/prop_a.ac -70.84206 42.79563 2.10 76.98
 # END dsf2stg

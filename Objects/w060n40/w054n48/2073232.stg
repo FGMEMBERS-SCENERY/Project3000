@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -53.92831 48.27399 0.00 210.457
+OBJECT_SHARED Models/lib/cars4.ac -53.92877 48.27413 63.01 33.3057
+OBJECT_SHARED Models/lib/cars4.ac -53.92864 48.27419 61.21 33.3057
+OBJECT_SHARED Models/Transport/hatchback_black.ac -53.92735 48.27460 61.45 125.312
+OBJECT_SHARED Models/lib/prop_a.ac -53.92801 48.27443 63.85 302.47
+OBJECT_SHARED Models/lib/cone.ac -53.92733 48.27452 62.49 90.3273
+OBJECT_SHARED Models/lib/stack_of_cones.ac -53.92713 48.27447 64.04 90.3273
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -53.92733 48.27453 64.14 32.1773
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -53.92723 48.27442 64.04 90.3273
+OBJECT_SHARED Models/Misc/6barrels.ac -53.92717 48.27458 64.01 90.3273
+OBJECT_SHARED Models/Misc/6barrels.ac -53.92715 48.27458 64.17 90.3273
+OBJECT_SHARED Models/lib/2vending-machines.ac -53.92732 48.27452 64.22 302.527
+# END dsf2stg

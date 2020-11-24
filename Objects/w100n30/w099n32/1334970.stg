@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -98.43795 32.92340 0.00 331.43
+OBJECT_SHARED Models/lib/prop_a.ac -98.43802 32.92329 304.83 325.76
+OBJECT_SHARED Models/lib/shed8x10.ac -98.43838 32.92319 304.84 59.8
+OBJECT_SHARED Models/lib/LongRow.ac -98.43897 32.92153 304.67 60
+OBJECT_SHARED Models/lib/LongRow.ac -98.43853 32.92218 305.44 60
+OBJECT_SHARED Models/lib/SmHangar.ac -98.43816 32.92286 305.28 330
+OBJECT_SHARED Models/lib/SmHangar.ac -98.43843 32.92299 304.99 150
+OBJECT_SHARED Models/lib/cars14.ac -98.43803 32.92344 304.80 328.7
+# END dsf2stg

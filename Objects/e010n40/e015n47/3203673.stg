@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 15.33570 47.45802 0.00 304
+OBJECT_SHARED Models/Transport/van_red.ac 15.33645 47.45839 511.68 212
+OBJECT_SHARED Models/Transport/van_silver.ac 15.33638 47.45836 511.98 212
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 15.33632 47.45844 511.98 32
+OBJECT_SHARED Models/lib/stack_of_cones.ac 15.33615 47.45820 511.89 77.47
+# END dsf2stg

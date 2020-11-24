@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 24.46946 36.69776 0.00 76.09
+OBJECT_SHARED Models/lib/lamp10m.xml 24.46954 36.69802 5.67 76.09
+OBJECT_SHARED Models/lib/lamp10m.xml 24.46936 36.69801 4.98 165.46
+OBJECT_SHARED Models/lib/lamp10m.xml 24.46930 36.69784 5.22 165.46
+OBJECT_SHARED Models/lib/lamp10m.xml 24.46915 36.69805 6.15 165.24
+OBJECT_SHARED Models/lib/lamp10m.xml 24.46940 36.69815 6.03 345.78
+OBJECT_SHARED Models/lib/lamp10m.xml 24.46920 36.69819 4.87 345.56
+OBJECT_SHARED Models/lib/lamp10m.xml 24.46993 36.69793 5.16 256.23
+OBJECT_SHARED Models/lib/lamp10m.xml 24.46985 36.69768 4.34 256.23
+OBJECT_SHARED Models/lib/lamp10m.xml 24.47081 36.69749 4.76 246.53
+OBJECT_SHARED Models/lib/lamp10m.xml 24.47059 36.69716 4.01 244.94
+OBJECT_SHARED Models/lib/prop_a.ac 24.47090 36.69708 5.03 63.52
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 24.46917 36.69812 4.94 165.12
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 24.46938 36.69807 5.44 165.4
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 24.46933 36.69791 4.87 165.4
+OBJECT_SHARED Models/Transport/hatchback_black.ac 24.46937 36.69814 5.80 256.08
+OBJECT_SHARED Models/Transport/hatchback_black.ac 24.46917 36.69821 4.87 255.86
+OBJECT_SHARED Models/Transport/hatchback_black.ac 24.46934 36.69785 5.16 75.44
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.46942 36.69811 6.15 74.91
+OBJECT_SHARED Models/Transport/van_silver.ac 24.46922 36.69817 4.87 74.69
+OBJECT_SHARED Models/Transport/hatchback_black.ac 24.46929 36.69788 5.16 254.27
+OBJECT_SHARED Models/Transport/van_red.ac 24.46941 36.69808 5.80 74.91
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.46921 36.69815 4.87 74.69
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.46930 36.69791 5.44 254.27
+OBJECT_SHARED Models/Transport/hatchback_red.ac 24.46935 36.69807 5.80 256.22
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.46915 36.69814 5.13 256
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 24.46936 36.69792 5.44 75.58
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.46934 36.69805 5.57 256.58
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 24.46914 36.69811 5.46 256.36
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.46937 36.69794 5.75 75.94
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.46912 36.69804 5.57 256.75
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.46939 36.69801 6.03 76.33
+OBJECT_SHARED Models/Transport/van_red.ac 24.46913 36.69807 5.22 256.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac 24.46938 36.69799 5.75 76.33
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.46919 36.69805 5.22 75.52
+OBJECT_SHARED Models/Transport/van_silver.ac 24.46932 36.69800 5.44 255.1
+OBJECT_SHARED Models/lib/chariot3curve.ac 24.47081 36.69733 5.46 90
+OBJECT_SHARED Models/lib/propane-tank.ac 24.47074 36.69741 4.50 66.42
+OBJECT_SHARED Models/lib/stack_of_cones.ac 24.47085 36.69720 4.31 0
+# END dsf2stg

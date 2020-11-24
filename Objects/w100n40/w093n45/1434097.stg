@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -92.68681 45.77525 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.68748 45.77511 286.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.68762 45.77484 287.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -92.68780 45.77518 289.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -92.68627 45.77501 288.32 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.68638 45.77507 286.57 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.68641 45.77493 286.44 0
+OBJECT_SHARED Models/lib/cars4.ac -92.68816 45.77506 286.86 253.24
+OBJECT_SHARED Models/lib/cars4.ac -92.68819 45.77495 288.77 74.32
+OBJECT_SHARED Models/lib/cars6.ac -92.68786 45.77503 289.61 253.72
+OBJECT_SHARED Models/lib/cars10.ac -92.68827 45.77519 289.20 344.32
+OBJECT_SHARED Models/lib/cars10.ac -92.68799 45.77479 288.36 164.71
+OBJECT_SHARED Models/lib/cars10.ac -92.68673 45.77367 290.01 136.29
+OBJECT_SHARED Models/lib/cars10.ac -92.68654 45.77380 291.24 137.29
+OBJECT_SHARED Models/lib/cars6.ac -92.68635 45.77520 290.34 164.17
+OBJECT_SHARED Models/lib/cars6.ac -92.68764 45.77463 286.23 348.64
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.68750 45.77445 289.84 295.5
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.68760 45.77442 289.94 293.13
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.68675 45.77542 290.54 72.78
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -92.68669 45.77520 286.15 342.07
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.68696 45.77519 286.48 11.74
+OBJECT_SHARED Models/lib/cars10.ac -92.68685 45.77398 286.91 317.65
+# END dsf2stg

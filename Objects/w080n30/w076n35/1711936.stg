@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.96147 35.10519 0.00 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.96155 35.10514 1.11 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.96139 35.10512 1.13 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.96182 35.10490 1.16 315
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -75.96169 35.10546 1.66 307
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -75.96173 35.10543 1.47 307
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -75.96177 35.10540 1.51 307
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -75.96181 35.10538 1.51 307
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -75.96185 35.10535 1.51 307
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -75.96223 35.10509 1.51 306
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -75.96230 35.10504 1.58 306
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -75.96234 35.10501 1.59 306
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -75.96219 35.10512 1.59 306
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -75.96226 35.10507 1.58 306
+OBJECT_SHARED Models/lib/transformer3x3.ac -75.96195 35.10470 1.07 309
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.96177 35.10483 1.19 42
+OBJECT_SHARED Models/lib/NoParkStripes.xml -75.96165 35.10490 1.19 39
+OBJECT_SHARED Models/lib/cars6.ac -75.96161 35.10496 1.19 40
+OBJECT_SHARED Models/lib/cars6.ac -75.96139 35.10487 1.16 222
+OBJECT_SHARED Models/lib/lamp10m.xml -75.96170 35.10503 1.22 40
+OBJECT_SHARED Models/lib/prop_a.ac -75.96198 35.10448 1.14 133
+OBJECT_SHARED Models/lib/prop_a.ac -75.96211 35.10441 1.21 143
+OBJECT_SHARED Models/lib/prop_a.ac -75.96221 35.10471 1.20 313
+OBJECT_SHARED Models/lib/prop_a.ac -75.96233 35.10463 1.15 308.01
+OBJECT_SHARED Models/lib/prop_a.ac -75.96245 35.10455 1.15 313
+OBJECT_SHARED Models/lib/watertank3x1.ac -75.96189 35.10471 1.14 219
+OBJECT_SHARED Models/lib/stack_of_cones.ac -75.96194 35.10468 1.20 321
+OBJECT_SHARED Models/lib/propane-tank.ac -75.96197 35.10472 1.20 311
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -75.96191 35.10469 1.19 221
+# END dsf2stg

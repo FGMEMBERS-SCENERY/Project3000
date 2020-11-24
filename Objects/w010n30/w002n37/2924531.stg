@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -1.09744 37.83624 197.05 161.99
-OBJECT_SHARED Models/lib/stack_of_cones.ac -1.09711 37.83576 196.23 57.5308
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -1.09712 37.83567 196.10 332.932
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -1.09747 37.83657 197.62 289.291
-OBJECT_SHARED Models/Transport/van_red.ac -1.09748 37.83660 197.62 283.171
-OBJECT_SHARED Models/lib/SmHangar.ac -1.09750 37.83672 197.76 21.675
-OBJECT_SHARED Models/lib/SmHangar.ac -1.09726 37.83628 197.09 22.043
-OBJECT_SHARED Models/lib/MedHangar.ac -1.09678 37.83513 195.19 20.873
-OBJECT_SHARED Models/lib/MedHangar.ac -1.09704 37.83562 195.94 20.9334
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -1.09744 37.83624 0.00 161.99
+OBJECT_SHARED Models/lib/stack_of_cones.ac -1.09711 37.83576 197.05 57.5308
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -1.09712 37.83567 196.23 332.932
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -1.09747 37.83657 196.10 289.291
+OBJECT_SHARED Models/Transport/hatchback_red.ac -1.09748 37.83660 197.62 283.171
+OBJECT_SHARED Models/lib/SmHangar.ac -1.09750 37.83672 197.62 21.675
+OBJECT_SHARED Models/lib/SmHangar.ac -1.09726 37.83628 197.76 22.043
+OBJECT_SHARED Models/lib/MedHangar.ac -1.09678 37.83513 197.09 20.873
+OBJECT_SHARED Models/lib/MedHangar.ac -1.09704 37.83562 195.19 20.9334
 # END dsf2stg

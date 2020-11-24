@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/handicap-sign.ac -88.12391 30.25762 0.00 126
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -88.12393 30.25759 1.06 90
+OBJECT_SHARED Models/lib/transformer3x3.ac -88.12397 30.25763 1.06 326.05
+OBJECT_SHARED Models/Misc/picnic_table.ac -88.12457 30.25776 1.07 236.889
+OBJECT_SHARED Models/Misc/6barrels.ac -88.12394 30.25763 1.04 0
+OBJECT_SHARED Models/lib/lamp10m.xml -88.12442 30.25767 1.06 238.311
+OBJECT_SHARED Models/lib/lamp10m.xml -88.12482 30.25790 1.05 236.459
+OBJECT_SHARED Models/Transport/hatchback_green.ac -88.12389 30.25757 1.01 54.46
+OBJECT_SHARED Models/Transport/hatchback_black.ac -88.12385 30.25762 1.06 53.97
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -88.12380 30.25768 1.06 58.39
+OBJECT_SHARED Models/Transport/hatchback_black.ac -88.12387 30.25760 1.03 238.28
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -88.13958 30.25989 1.06 123.82
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -88.12282 30.26269 -0.10 90
+# END dsf2stg

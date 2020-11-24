@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -98.80880 38.87504 0.00 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -98.80886 38.87504 568.12 270
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -98.80889 38.87510 568.06 180
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -98.80889 38.87508 568.04 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.80676 38.87525 569.91 225
+OBJECT_SHARED Models/lib/shed8x10.ac -98.80798 38.87595 568.05 90
+OBJECT_SHARED Models/lib/shed8x10.ac -98.80798 38.87590 568.55 270
+OBJECT_SHARED Models/lib/shed8x10.ac -98.80886 38.87524 568.55 90
+OBJECT_SHARED Models/lib/shed8x10.ac -98.80886 38.87521 568.03 270
+OBJECT_SHARED Models/lib/shed8x10.ac -98.80881 38.87522 568.03 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.80932 38.87528 568.10 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.80811 38.87611 567.77 179.2
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.80816 38.87657 568.45 90
+OBJECT_SHARED Models/lib/SmHangar.ac -98.80785 38.87642 568.29 38.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.80816 38.87558 568.53 269.01
+OBJECT_SHARED Models/lib/SmHangar.ac -98.80893 38.87607 568.46 359.18
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.80852 38.87701 567.82 228.18
+OBJECT_SHARED Models/lib/cars4.ac -98.80870 38.87688 567.60 135.47
+# END dsf2stg

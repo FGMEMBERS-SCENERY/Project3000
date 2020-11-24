@@ -1,8 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -90.42716 45.95409 453.92 -77.4698
-OBJECT_SHARED Models/lib/MedHangar.ac -90.42657 45.95262 455.61 179.535
-OBJECT_SHARED Models/lib/SmHangar.ac -90.42693 45.95427 454.12 180.659
-OBJECT_SHARED Models/lib/SmHangar.ac -90.42679 45.95357 454.78 180
+OBJECT_SHARED Models/lib/garden-shed.ac -90.42635 45.95290 0.00 266
+OBJECT_SHARED Models/lib/SmHangar.ac -90.42599 45.95277 455.42 87.07
+OBJECT_SHARED Models/Transport/hatchback_red.ac -90.42630 45.95213 455.56 88.57
+OBJECT_SHARED Models/Transport/van_red.ac -90.42630 45.95215 455.75 88.57
+OBJECT_SHARED Models/lib/SmHangar.ac -90.42604 45.95221 455.71 87.06
+OBJECT_SHARED Models/lib/SmHangar.ac -90.42602 45.95257 455.63 266.9
+OBJECT_SHARED Models/lib/SmHangar.ac -90.42631 45.95258 455.71 266.9
 # END dsf2stg

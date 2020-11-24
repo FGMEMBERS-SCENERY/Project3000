@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -93.26359 42.46942 0.00 59.21
+OBJECT_SHARED Models/lib/prop_a.ac -93.26417 42.46966 343.57 60.52
+OBJECT_SHARED Models/lib/prop_a.ac -93.26434 42.46958 343.54 242.58
+OBJECT_SHARED Models/lib/prop_a.ac -93.26449 42.46964 343.56 242.2
+OBJECT_SHARED Models/lib/garage-small-white.ac -93.26450 42.47041 343.57 270
+OBJECT_SHARED Models/lib/SmHangar.ac -93.26244 42.46964 343.46 59.88
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.26263 42.46979 343.33 150.56
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.26280 42.46986 343.40 150.56
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.26240 42.46944 343.44 150.37
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.26272 42.46957 343.23 150.37
+OBJECT_SHARED Models/lib/lamp10m.xml -93.26396 42.47029 343.33 180
+OBJECT_SHARED Models/lib/lamp10m.xml -93.26387 42.46922 343.48 236.51
+OBJECT_SHARED Models/lib/lamp10m.xml -93.26438 42.46941 343.63 237.06
+OBJECT_SHARED Models/lib/lamp10m.xml -93.26501 42.47018 343.60 178.15
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.26284 42.47010 343.48 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.26291 42.47013 343.49 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.26269 42.46997 343.49 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.26259 42.46993 343.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.26340 42.47006 343.43 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.26332 42.47004 343.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.26309 42.46996 343.48 0
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -93.26231 42.47030 343.48 330.41
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.26396 42.47028 343.51 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -93.26410 42.47028 343.48 179.05
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -93.26336 42.46976 343.48 332.45
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.26347 42.46902 343.50 241.56
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.26454 42.47029 343.59 0
+OBJECT_SHARED Models/lib/cars10.ac -93.26366 42.46992 343.47 150.96
+# END dsf2stg

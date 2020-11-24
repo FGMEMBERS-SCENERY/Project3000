@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -95.02654 44.77785 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -95.02657 44.77799 329.00 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.02638 44.77804 329.16 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.02646 44.77797 329.00 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.02734 44.77837 329.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.02660 44.77772 329.32 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.02760 44.77842 329.03 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -95.02638 44.77768 329.30 0
+OBJECT_SHARED Models/lib/canopy18x10.ac -95.02512 44.77787 329.00 352.405
+OBJECT_SHARED Models/lib/industrial13x24.ac -95.02589 44.77781 329.00 260.199
+OBJECT_SHARED Models/lib/canopy18x10.ac -95.02548 44.77773 329.00 96.71
+OBJECT_SHARED Models/lib/office3x10.ac -95.02640 44.77782 329.00 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.03297 44.78042 329.00 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.03274 44.78039 328.56 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.03227 44.78006 328.70 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.03214 44.78022 328.94 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.03219 44.78029 328.99 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.03236 44.78033 328.96 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.03231 44.78021 328.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.03332 44.78018 328.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.03327 44.78025 328.44 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.03271 44.78049 328.44 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.03290 44.78050 328.66 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -95.03229 44.77994 328.57 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -95.03281 44.78054 328.95 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.02777 44.77800 328.61 60.5729
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.02768 44.77812 329.07 60.5729
+OBJECT_SHARED Models/lib/SmHangar.ac -95.02809 44.77837 329.14 152.614
+OBJECT_SHARED Models/lib/2container-office.ac -95.02839 44.77811 329.25 155.26
+OBJECT_SHARED Models/lib/2container-office.ac -95.02837 44.77814 329.03 152.892
+OBJECT_SHARED Models/lib/2container-office.ac -95.02834 44.77818 329.03 154.592
+OBJECT_SHARED Models/lib/SmHangar.ac -95.02819 44.77823 329.11 152.611
+OBJECT_SHARED Models/lib/MedHangar.ac -95.02863 44.77834 329.12 150.738
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.02510 44.77782 329.11 172.103
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.02508 44.77791 329.00 172.103
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.02513 44.77792 329.00 350.893
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.02514 44.77783 329.00 350.893
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.02543 44.77776 329.00 276.147
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.02555 44.77775 329.00 276.147
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.02542 44.77772 329.00 96.6967
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.02554 44.77771 329.00 96.6967
+# END dsf2stg

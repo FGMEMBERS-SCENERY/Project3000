@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed10x50.ac -94.89027 36.90908 0.00 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.88981 36.90841 242.76 180
+OBJECT_SHARED Models/lib/LongRow.ac -94.89077 36.90950 242.69 270
+OBJECT_SHARED Models/lib/LongRow.ac -94.89077 36.91021 242.81 270
+OBJECT_SHARED Models/lib/MedHangar.ac -94.88960 36.90764 243.19 179.75
+OBJECT_SHARED Models/lib/shed10x50.ac -94.89033 36.90147 242.50 90
+OBJECT_SHARED Models/lib/shed10x50.ac -94.89033 36.90174 240.61 90
+OBJECT_SHARED Models/lib/lamp10m.xml -94.88963 36.90827 240.58 269.86
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.89090 36.91022 242.76 170.25
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -94.88977 36.90277 243.17 90
+# END dsf2stg

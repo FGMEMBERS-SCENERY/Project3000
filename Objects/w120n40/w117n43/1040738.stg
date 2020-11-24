@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -116.25295 43.56269 0.00 269.8
+OBJECT_SHARED Models/lib/trailer-fedex.ac -116.25299 43.56269 851.39 269.8
+OBJECT_SHARED Models/Transport/Norberttruck.xml -116.25288 43.56271 851.39 90.6
+OBJECT_SHARED Models/Transport/Norberttruck.xml -116.25321 43.56285 851.39 0.089996
+OBJECT_SHARED Models/Transport/Norberttruck.xml -116.25321 43.56288 851.40 0.089996
+OBJECT_SHARED Models/lib/industrial13x24.ac -116.25296 43.56309 851.40 270.46
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -116.25321 43.56262 851.44 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -116.25334 43.56304 851.41 90
+OBJECT_SHARED Models/lib/cars4.ac -116.25291 43.56361 851.42 179.83
+OBJECT_SHARED Models/lib/cars4.ac -116.25317 43.56361 851.71 179.83
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -116.25287 43.56333 851.71 88.8356
+# END dsf2stg

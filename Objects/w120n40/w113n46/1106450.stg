@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34119 46.34499 0.00 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34176 46.34564 1911.86 338.199
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34138 46.34527 1912.34 323.131
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34104 46.34485 1912.09 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34094 46.34475 1911.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34084 46.34468 1911.63 53.1296
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34081 46.34459 1911.63 333.435
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34053 46.34455 1911.55 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34054 46.34443 1911.55 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -112.34499 46.34719 1911.55 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -112.34524 46.34730 1914.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34405 46.34724 1914.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34409 46.34736 1914.44 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34394 46.34717 1914.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34383 46.34708 1914.44 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34354 46.34705 1914.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34640 46.34828 1914.21 333.435
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34645 46.34817 1917.07 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34629 46.34820 1916.89 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34609 46.34842 1916.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34625 46.34861 1917.27 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34577 46.34849 1917.73 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34596 46.34868 1917.50 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34560 46.34853 1917.96 315
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34535 46.34857 1917.50 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34545 46.34848 1916.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34534 46.34839 1916.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -112.34519 46.34842 1916.44 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -112.34525 46.34823 1916.44 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34490 46.34820 1916.06 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -112.34507 46.34802 1916.06 0
+OBJECT_SHARED Models/lib/propane-tank.ac -112.34608 46.34816 1915.80 296.895
+OBJECT_SHARED Models/Transport/Norberttruck.xml -112.34224 46.34614 1916.89 320.807
+OBJECT_SHARED Models/Transport/van_red.ac -112.34267 46.34642 1912.72 210.964
+OBJECT_SHARED Models/lib/propane-tank.ac -112.34178 46.34441 1913.09 313.668
+OBJECT_SHARED Models/Transport/hatchback_black.ac -112.34485 46.34810 1912.28 143.127
+OBJECT_SHARED Models/lib/2vending-machines.ac -112.34575 46.34820 1915.92 297.553
+OBJECT_SHARED Models/lib/lamp10m.xml -112.34532 46.34820 1916.89 -6.87003
+OBJECT_SHARED Models/lib/propane-tank.ac -112.34613 46.34823 1916.06 295.289
+OBJECT_SHARED Models/lib/SmHangar.ac -112.34582 46.34808 1916.89 116.565
+# END dsf2stg

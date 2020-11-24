@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -121.35308 38.08810 0.00 277.13
+OBJECT_SHARED Models/lib/cars14.ac -121.35280 38.08794 4.94 285.02
+OBJECT_SHARED Models/lib/cars7.ac -121.35289 38.08817 4.93 101.07
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -121.35411 38.08916 4.95 92.12
+OBJECT_SHARED Models/Airport/cargobox.xml -121.35408 38.08919 4.89 258.86
+OBJECT_SHARED Models/Airport/cargobox.xml -121.35410 38.08919 4.89 94.34
+OBJECT_SHARED Models/Airport/cargobox.xml -121.35414 38.08919 4.89 182.39
+OBJECT_SHARED Models/lib/stack_of_cones.ac -121.35422 38.08915 4.89 18.15
+OBJECT_SHARED Models/lib/stack_of_cones.ac -121.35423 38.08914 4.88 55.81
+OBJECT_SHARED Models/lib/stack_of_cones.ac -121.35421 38.08914 4.88 164.58
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -121.35416 38.08917 4.88 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -121.35415 38.08916 4.89 296.57
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -121.35416 38.08916 4.89 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -121.35335 38.08876 4.89 0.059998
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -121.35258 38.08808 4.98 90
+OBJECT_SHARED Models/lib/prop_a.ac -121.35317 38.08847 4.94 270.29
+OBJECT_SHARED Models/lib/prop_a.ac -121.35259 38.08894 4.97 270.5
+OBJECT_SHARED Models/lib/prop_a.ac -121.35279 38.08901 4.99 91.7
+OBJECT_SHARED Models/lib/lamp10m.xml -121.35396 38.08763 4.99 43.15
+OBJECT_SHARED Models/lib/lamp10m.xml -121.36352 38.09520 4.79 318.53
+OBJECT_SHARED Models/lib/lamp10m.xml -121.36352 38.09549 3.97 226.47
+OBJECT_SHARED Models/lib/lamp10m.xml -121.35238 38.08811 3.97 179.75
+OBJECT_SHARED Models/lib/lamp10m.xml -121.35263 38.08810 5.00 179.75
+OBJECT_SHARED Models/lib/lamp10m.xml -121.35328 38.08881 4.94 -89.53
+OBJECT_SHARED Models/lib/lamp10m.xml -121.35273 38.08882 4.98 -88.69
+OBJECT_SHARED Models/lib/garden-shed.ac -121.35418 38.08915 4.98 308.06
+OBJECT_SHARED Models/lib/office3x10.ac -121.35378 38.08919 4.89 359.74
+OBJECT_SHARED Models/lib/SmHangar.ac -121.35387 38.08910 4.89 90.65
+OBJECT_SHARED Models/lib/SmHangar.ac -121.35369 38.08910 4.88 90.01
+OBJECT_SHARED Models/lib/LongRow.ac -121.35271 38.08921 4.88 180.7
+OBJECT_SHARED Models/lib/LongRow.ac -121.35245 38.08922 5.00 180.7
+OBJECT_SHARED Models/lib/HorizTanks2.ac -121.35416 38.08768 5.00 312.8
+OBJECT_SHARED Models/lib/MedHangar.ac -121.35277 38.08850 4.79 89.45
+OBJECT_SHARED Models/lib/office4x14.ac -121.36360 38.09526 4.97 46.65
+OBJECT_SHARED Models/lib/office4x14.ac -121.36359 38.09544 3.97 315.63
+OBJECT_SHARED Models/lib/office6x12.ac -121.35396 38.08760 3.97 132.98
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -121.35204 38.09036 4.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -121.35181 38.08700 5.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -121.35199 38.08876 5.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -121.35227 38.08772 5.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -121.35273 38.08822 5.00 0
+# END dsf2stg

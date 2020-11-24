@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -77.36577 39.64657 0.00 226.98
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36482 39.64622 134.63 193.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36485 39.64632 131.81 206.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36487 39.64640 132.01 198
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36489 39.64646 132.40 199.65
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36494 39.64653 132.59 211.18
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36503 39.64658 132.59 210.02
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36514 39.64662 132.99 244.29
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36524 39.64667 133.20 243.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36533 39.64671 133.59 237.34
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36540 39.64664 133.80 233.53
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36549 39.64659 133.81 223.18
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.36554 39.64664 134.02 229.99
+OBJECT_SHARED Models/lib/shed8x10.ac -77.36540 39.64689 134.02 145.82
+OBJECT_SHARED Models/lib/garage-small-white.ac -77.36562 39.64692 134.39 320.07
+OBJECT_SHARED Models/lib/garden-shed.ac -77.36570 39.64683 134.80 141.76
+OBJECT_SHARED Models/lib/transformer3x3.ac -77.36570 39.64680 134.81 48.43
+# END dsf2stg

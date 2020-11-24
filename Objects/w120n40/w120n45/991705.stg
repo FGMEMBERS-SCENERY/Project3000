@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garages22x9.ac -119.68333 45.45058 0.00 270.58
+OBJECT_SHARED Models/lib/industrial15x22.ac -119.68347 45.45061 490.93 0.580002
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -119.68363 45.45097 490.93 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -119.68363 45.45096 492.23 310.6
+OBJECT_SHARED Models/lib/propane-tank.ac -119.68358 45.45096 492.23 0
+OBJECT_SHARED Models/lib/LongRow.ac -119.68558 45.45131 492.23 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -119.68600 45.45216 492.78 43.51
+OBJECT_SHARED Models/lib/SmHangar.ac -119.68355 45.45107 494.38 270.21
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -119.68481 45.45092 397.41 323.27
+OBJECT_SHARED Models/lib/prop_a.ac -119.68606 45.45201 492.16 221.98
+# END dsf2stg

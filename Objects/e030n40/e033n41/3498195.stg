@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac 33.80027 41.31788 0.00 170.61
+OBJECT_SHARED Models/lib/admin31x12.ac 33.80020 41.31748 1056.93 171.97
+OBJECT_SHARED Models/lib/office32x25n.ac 33.79931 41.31520 1057.20 263.53
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 33.79949 41.31569 1059.27 174.2
+OBJECT_SHARED Models/lib/lamp10m.xml 33.79988 41.31754 1058.82 0
+OBJECT_SHARED Models/lib/lamp10m.xml 33.80000 41.31716 1057.67 0
+OBJECT_SHARED Models/lib/lamp10m.xml 33.79993 41.31671 1057.60 0
+OBJECT_SHARED Models/lib/lamp10m.xml 33.79989 41.31629 1057.90 0
+# END dsf2stg

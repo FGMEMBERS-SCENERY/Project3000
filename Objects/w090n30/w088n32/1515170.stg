@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -87.38167 32.50515 0.00 20.5
+OBJECT_SHARED Models/Transport/hatchback_green.ac -87.38125 32.50564 61.19 286.875
+OBJECT_SHARED Models/lib/prop_a.ac -87.38149 32.50526 60.64 108.92
+OBJECT_SHARED Models/lib/prop_a.ac -87.38162 32.50522 61.02 109.34
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -87.38184 32.50541 61.12 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -87.38168 32.50502 61.20 109.2
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -87.38180 32.50510 61.20 19.79
+OBJECT_SHARED Models/lib/office6x12.ac -87.38124 32.50570 61.26 287.82
+OBJECT_SHARED Models/lib/garden-shed.ac -87.38112 32.50542 60.61 196.68
+OBJECT_SHARED Models/lib/SmHangar.ac -87.38214 32.50589 60.57 286.85
+OBJECT_SHARED Models/lib/SmHangar.ac -87.38185 32.50581 61.24 106.81
+OBJECT_SHARED Models/lib/SmHangar.ac -87.38190 32.50595 61.17 286.85
+OBJECT_SHARED Models/lib/SmHangar.ac -87.38209 32.50575 61.15 106.81
+OBJECT_SHARED Models/lib/SmHangar.ac -87.38202 32.50592 61.26 286.85
+OBJECT_SHARED Models/lib/SmHangar.ac -87.38197 32.50578 61.20 106.81
+# END dsf2stg

@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -107.89968 38.50169 1744.17 130.31
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -107.89977 38.50164 1739.22 126.07
+OBJECT_SHARED Models/lib/cars6.ac -107.89646 38.51063 1739.24 180
+OBJECT_SHARED Models/lib/cars6.ac -107.89669 38.51079 1741.05 0
+OBJECT_SHARED Models/lib/cars6.ac -107.89670 38.51062 1740.34 0
+OBJECT_SHARED Models/lib/office40x25.ac -107.89662 38.51030 1740.38 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -107.89659 38.50891 1740.43 180
+OBJECT_SHARED Models/lib/HorizTanks2.ac -107.89659 38.50899 1740.76 180
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -107.89831 38.50015 1740.73 310.84
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -107.89865 38.50046 1741.55 310.65
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -107.89899 38.50078 1740.48 310.3
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -107.89967 38.50140 1740.41 309.78
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -107.89933 38.50109 1739.29 310.3
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -107.89907 38.50065 1740.33 223.96
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -107.89887 38.50047 1740.43 222.75
+OBJECT_SHARED Models/lib/belt_loader.ac -107.89859 38.50020 1740.48 223.05
+OBJECT_SHARED Models/lib/belt_loader.ac -107.89857 38.50018 1740.56 221.42
+OBJECT_SHARED Models/lib/belt_loader.ac -107.89855 38.50016 1740.56 216.79
+OBJECT_SHARED Models/lib/belt_loader.ac -107.89851 38.50013 1740.56 221.78
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -107.89858 38.50029 1740.59 221.31
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -107.89870 38.50073 1740.53 3.23001
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -107.89857 38.50073 1740.43 221.21
+OBJECT_SHARED Models/lib/belt_loader.ac -107.89862 38.50076 1740.43 220.68
+OBJECT_SHARED Models/lib/belt_loader.ac -107.89872 38.50070 1740.41 -51.5
+OBJECT_SHARED Models/lib/belt_loader.ac -107.89848 38.50080 1740.43 130.39
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -107.89974 38.50166 1741.40 130.01
+OBJECT_SHARED Models/lib/lamp10m.xml -107.89880 38.50033 1739.22 213.67
+OBJECT_SHARED Models/lib/lamp10m.xml -107.89930 38.50080 1740.53 220.88
+# END dsf2stg

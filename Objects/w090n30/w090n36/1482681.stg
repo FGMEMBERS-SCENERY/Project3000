@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangar81x16.ac -89.56518 36.88775 0.00 105.44
+OBJECT_SHARED Models/lib/HorizTanks2.ac -89.56472 36.88617 94.07 17.16
+OBJECT_SHARED Models/lib/prop_a.ac -89.56629 36.88801 94.08 14.04
+OBJECT_SHARED Models/Transport/van_silver.ac -89.56597 36.88624 93.83 284.42
+OBJECT_SHARED Models/lib/4space_wStop.ac -89.56493 36.88513 93.90 195.78
+OBJECT_SHARED Models/Transport/hatchback_black.ac -89.56484 36.88560 94.06 104.04
+OBJECT_SHARED Models/lib/cars4.ac -89.56495 36.88517 94.07 105.26
+# END dsf2stg

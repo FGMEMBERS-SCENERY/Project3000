@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -4.92114 41.53086 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -4.92119 41.53093 699.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -4.92127 41.53091 699.60 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -4.92123 41.53083 699.60 0
+OBJECT_SHARED Models/lib/cars4.ac -4.92062 41.53090 699.45 199.4
+OBJECT_SHARED Models/lib/HorizTanks2.ac -4.92263 41.53044 699.56 199.65
+OBJECT_SHARED Models/lib/prop_a.ac -4.92259 41.53052 698.93 109.57
+OBJECT_SHARED Models/lib/SmHangar.ac -4.92238 41.53055 699.07 290
+OBJECT_SHARED Models/lib/MedHangar.ac -4.92187 41.53083 699.07 290
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.92570 41.53140 699.48 296.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.92465 41.53158 700.73 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -4.92473 41.53174 700.78 270
+OBJECT_SHARED Models/lib/cars4.ac -4.92434 41.53164 700.94 111.35
+OBJECT_SHARED Models/lib/cars4.ac -4.92445 41.53179 700.74 293.49
+OBJECT_SHARED Models/lib/HorizTanks2.ac -4.92418 41.53159 701.05 290
+OBJECT_SHARED Models/lib/lamp10m.xml -4.92070 41.53106 700.72 116.56
+OBJECT_SHARED Models/lib/lamp10m.xml -4.92089 41.53099 699.86 117.3
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -4.92033 41.53116 699.73 17.68
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -4.92040 41.53113 699.97 110.25
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.92016 41.53100 699.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.92024 41.53098 699.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.92031 41.53096 699.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.92039 41.53094 699.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.92048 41.53091 699.54 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.92059 41.53088 699.54 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.92070 41.53086 699.56 0
+OBJECT_SHARED Models/lib/shed8x10.ac -4.92089 41.53087 699.57 19.65
+# END dsf2stg

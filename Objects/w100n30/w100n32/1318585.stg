@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -99.73796 32.91036 0.00 89.25
+OBJECT_SHARED Models/lib/LongRow.ac -99.73795 32.91021 475.00 270.09
+OBJECT_SHARED Models/lib/LongRow.ac -99.73790 32.91151 475.00 359.53
+OBJECT_SHARED Models/lib/LongRow.ac -99.73790 32.91179 475.00 0.110001
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73715 32.90818 475.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73728 32.90787 474.39 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73727 32.90794 474.36 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73728 32.90800 474.36 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73728 32.90806 474.41 146.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73728 32.90811 474.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73728 32.90817 474.46 315
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73805 32.90782 474.51 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73796 32.90783 474.82 206.56
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73790 32.90781 474.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73779 32.90782 474.68 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73771 32.90782 474.62 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73763 32.90785 474.55 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73760 32.90790 474.48 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73755 32.90795 474.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73753 32.90801 474.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73752 32.90806 474.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73787 32.90819 474.57 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73793 32.90819 474.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.73801 32.90819 474.85 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -99.73684 32.90865 474.90 276.16
+OBJECT_SHARED Models/lib/SmHangar.ac -99.73715 32.91106 474.55 90
+OBJECT_SHARED Models/lib/propane-tank.ac -99.73738 32.90944 475.00 359.18
+OBJECT_SHARED Models/lib/propane-tank.ac -99.73721 32.90920 475.00 0.739998
+OBJECT_SHARED Models/lib/trailer-fedex.ac -99.73721 32.90733 475.00 180
+# END dsf2stg

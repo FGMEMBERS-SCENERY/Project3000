@@ -1,30 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fuel-truck.xml 0.17965 44.85200 78.58 259.78
-OBJECT_SHARED Models/lib/trailer-ups.ac 0.17964 44.85196 78.59 174.29
-OBJECT_SHARED Models/lib/cars6.ac 0.18096 44.85148 76.91 177.58
-OBJECT_SHARED Models/lib/cone.ac 0.18017 44.85244 79.06 0
-OBJECT_SHARED Models/lib/cone.ac 0.18033 44.85243 78.96 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 0.18104 44.85183 77.32 0
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 0.18074 44.85185 77.50 264.57
-OBJECT_SHARED Models/lib/shed8x10.ac 0.18000 44.85179 77.95 83.29
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.18141 44.85182 77.06 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.18123 44.85179 77.19 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 0.18144 44.85182 77.04 81.25
-OBJECT_SHARED Models/Misc/picnic_table.ac 0.18127 44.85181 77.16 342.47
-OBJECT_SHARED Models/Misc/picnic_table.ac 0.18122 44.85181 77.19 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.18004 44.85186 78.14 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.18035 44.85186 77.95 264.6
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml 0.18106 44.85161 77.04 0
-OBJECT_SHARED Models/lib/SmHangar.ac 0.18029 44.85143 77.17 354.655
-OBJECT_SHARED Models/lib/MedHangar.ac 0.17981 44.85190 78.27 264.674
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 0.18097 44.85189 77.54 46.432
-OBJECT_SHARED Models/lib/lamp10m.xml 0.18032 44.85186 77.97 178.617
-OBJECT_SHARED Models/lib/watertank3x1.ac 0.18027 44.85179 77.78 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.18130 44.85181 77.14 0
-OBJECT_SHARED Models/lib/propane-tank.ac 0.18034 44.85177 77.74 354.401
-OBJECT_SHARED Models/lib/lamp10m.xml 0.18105 44.85162 77.04 270
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 0.18233 44.85212 76.56 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 0.17893 44.85212 79.23 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 0.17965 44.85200 0.00 259.78
+OBJECT_SHARED Models/lib/trailer-ups.ac 0.17964 44.85196 80.36 174.29
+OBJECT_SHARED Models/lib/cars6.ac 0.18096 44.85148 80.37 177.58
+OBJECT_SHARED Models/lib/cone.ac 0.18017 44.85244 78.17 0
+OBJECT_SHARED Models/lib/cone.ac 0.18033 44.85243 80.73 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 0.18104 44.85183 80.60 0
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 0.18074 44.85185 78.75 264.57
+OBJECT_SHARED Models/lib/shed8x10.ac 0.18000 44.85179 79.02 83.29
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.18141 44.85182 79.67 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.18123 44.85179 78.36 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 0.18144 44.85182 78.56 81.25
+OBJECT_SHARED Models/Misc/picnic_table.ac 0.18127 44.85181 78.33 342.47
+OBJECT_SHARED Models/Misc/picnic_table.ac 0.18122 44.85181 78.51 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.18004 44.85186 78.56 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.18035 44.85186 79.86 264.6
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 0.18106 44.85161 79.60 0
+OBJECT_SHARED Models/lib/SmHangar.ac 0.18029 44.85143 78.31 354.655
+OBJECT_SHARED Models/lib/MedHangar.ac 0.17981 44.85190 78.55 264.674
+OBJECT_SHARED Models/lib/lamp10m.xml 0.18032 44.85186 80.03 178.617
+OBJECT_SHARED Models/lib/watertank3x1.ac 0.18027 44.85179 79.63 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.18130 44.85181 79.46 0
+OBJECT_SHARED Models/lib/propane-tank.ac 0.18034 44.85177 78.48 354.401
+OBJECT_SHARED Models/lib/lamp10m.xml 0.18105 44.85162 79.39 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 0.18233 44.85212 78.31 0
 # END dsf2stg

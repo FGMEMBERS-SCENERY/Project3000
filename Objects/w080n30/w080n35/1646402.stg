@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.48962 35.03320 108.89 106.7
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.48972 35.03318 99.59 106.7
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -79.48944 35.03350 100.03 16.7
+OBJECT_SHARED Models/lib/admin-with-cars.ac -79.48874 35.03307 98.31 196.95
+OBJECT_SHARED Models/lib/large-hangar.ac -79.48902 35.03253 96.61 105.75
+OBJECT_SHARED Models/lib/large-hangar.ac -79.48861 35.03087 97.84 105.75
+# END dsf2stg

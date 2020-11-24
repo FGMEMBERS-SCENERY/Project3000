@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.11070 40.87106 0.00 265.4
+OBJECT_SHARED Models/lib/trailer-ups.ac -96.11108 40.87105 356.31 90
+OBJECT_SHARED Models/lib/office3x10.ac -96.11238 40.87092 356.75 0
+OBJECT_SHARED Models/lib/office3x10.ac -96.11238 40.87101 356.35 0
+OBJECT_SHARED Models/lib/4container-office.ac -96.11171 40.87083 356.59 90
+OBJECT_SHARED Models/lib/2container-office.ac -96.11040 40.87085 356.36 359.552
+OBJECT_SHARED Models/lib/office16x4n.ac -96.11048 40.87099 355.52 179.512
+OBJECT_SHARED Models/lib/SmHangar.ac -96.11028 40.87052 355.90 2.38913
+# END dsf2stg

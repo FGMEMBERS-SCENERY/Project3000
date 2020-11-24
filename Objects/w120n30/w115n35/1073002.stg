@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -114.48007 35.71907 0.00 0.529999
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -114.48161 35.72001 729.78 270
+OBJECT_SHARED Models/lib/farm19x12.ac -114.48012 35.71436 730.38 0
+OBJECT_SHARED Models/lib/MedHangar.ac -114.48220 35.71794 734.24 179.66
+OBJECT_SHARED Models/lib/SmHangar.ac -114.48279 35.71851 733.02 271.09
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -114.48111 35.72005 733.53 180
+# END dsf2stg

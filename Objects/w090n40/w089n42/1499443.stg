@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -88.06710 42.84167 0.00 235.71
+OBJECT_SHARED Models/Transport/van_red.ac -88.06703 42.84167 248.47 214.38
+OBJECT_SHARED Models/Transport/hatchback_red.ac -88.06695 42.84166 248.38 176.42
+OBJECT_SHARED Models/Transport/hatchback_green.ac -88.06686 42.84148 248.38 124.99
+OBJECT_SHARED Models/Transport/hatchback_green.ac -88.06707 42.84151 248.36 180
+OBJECT_SHARED Models/Transport/hatchback_black.ac -88.06711 42.84151 248.55 176.19
+OBJECT_SHARED Models/lib/farm19x12.ac -88.06834 42.84117 248.55 90
+OBJECT_SHARED Models/lib/shed8x10.ac -88.06899 42.84150 249.77 357.27
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -88.06923 42.84162 250.27 88.04
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -88.06702 42.84158 250.32 359.74
+OBJECT_SHARED Models/lib/SmHangar.ac -88.06749 42.84139 248.42 90.73
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06898 42.84021 248.96 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06927 42.84013 250.46 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06942 42.84021 250.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06964 42.84015 250.67 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06979 42.84016 250.70 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06807 42.84168 250.88 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06895 42.84171 249.41 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06873 42.84164 250.11 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06882 42.84158 250.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06897 42.84164 250.06 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06947 42.84119 250.19 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06965 42.84117 250.83 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06841 42.84126 250.89 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06847 42.84130 249.83 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06844 42.84134 249.92 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06691 42.84135 249.83 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06669 42.84150 248.44 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.06640 42.84170 248.16 0
+# END dsf2stg

@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac 8.45212 45.11548 0.00 90
+OBJECT_SHARED Models/lib/office65x50.ac 8.45193 45.10885 117.26 0.940002
+OBJECT_SHARED Models/lib/SmHangar.ac 8.45235 45.11416 118.40 271.55
+OBJECT_SHARED Models/lib/SmHangar.ac 8.45206 45.11416 117.42 271.55
+OBJECT_SHARED Models/lib/SmHangar.ac 8.45197 45.11461 117.61 182.02
+OBJECT_SHARED Models/lib/transformer3x3.ac 8.45295 45.11385 117.51 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 8.45301 45.11412 117.14 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 8.45266 45.11560 117.02 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 8.45169 45.11517 116.53 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 8.45260 45.11417 118.37 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 8.45200 45.11385 117.26 0
+OBJECT_SHARED Models/lib/farm19x12.ac 8.45263 45.11387 117.78 181.26
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 8.45195 45.11468 117.33 315.79
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 8.45224 45.11494 117.47 227.6
+OBJECT_SHARED Models/lib/prop_a.ac 8.45312 45.11521 117.19 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 8.45347 45.11276 116.46 267.51
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.45204 45.11490 116.90 271.68
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.45212 45.11491 117.33 271.68
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.45176 45.11427 117.27 273.37
+OBJECT_SHARED Models/Transport/van_red.ac 8.45177 45.11424 117.34 273.37
+# END dsf2stg

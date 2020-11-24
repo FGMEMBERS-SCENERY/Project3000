@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/NoParkStripes.xml -75.25267 41.51494 0.00 293
+OBJECT_SHARED Models/lib/NoParkStripes.xml -75.25273 41.51492 410.25 293
+OBJECT_SHARED Models/lib/industrial13x24.ac -75.25271 41.51496 410.25 119.3
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -75.25284 41.51526 410.20 200.79
+OBJECT_SHARED Models/lib/hangar81x16.ac -75.25353 41.51747 410.07 201.26
+OBJECT_SHARED Models/lib/hangar81x16.ac -75.25390 41.51709 407.54 201.78
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.25258 41.51424 408.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25255 41.51391 410.45 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25266 41.51392 410.52 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25259 41.51402 410.67 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25271 41.51406 410.52 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25276 41.51413 410.62 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25279 41.51419 410.74 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25237 41.51353 410.70 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25203 41.51339 410.16 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25269 41.51334 409.46 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25228 41.51334 410.62 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25199 41.51354 409.96 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25249 41.51345 409.49 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25200 41.51367 410.33 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25256 41.51308 409.54 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25286 41.51355 410.42 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25248 41.51331 410.94 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25231 41.51315 410.29 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25244 41.51318 409.94 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25271 41.51307 410.11 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25305 41.51502 410.57 160
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25352 41.51499 410.49 160
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25323 41.51507 410.84 160
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.25340 41.51501 410.56 160
+OBJECT_SHARED Models/lib/LongRow.ac -75.25486 41.51737 410.78 21
+OBJECT_SHARED Models/lib/LongRow.ac -75.25340 41.51779 408.17 201
+# END dsf2stg

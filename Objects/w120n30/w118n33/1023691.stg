@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -117.14558 33.14218 0.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -117.14556 33.14220 190.32 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -117.14553 33.14222 190.32 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -117.14549 33.14220 190.32 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -117.14548 33.14217 188.56 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -117.14549 33.14215 188.56 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -117.14553 33.14213 188.56 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -117.14557 33.14215 190.53 0
+OBJECT_SHARED Models/lib/propane-tank.ac -117.14575 33.14233 189.82 135
+OBJECT_SHARED Models/lib/propane-tank.ac -117.14574 33.14232 189.28 135
+# END dsf2stg

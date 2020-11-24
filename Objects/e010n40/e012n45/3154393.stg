@@ -1,12 +1,44 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.33646 45.49801 -0.36 318.4
-OBJECT_SHARED Models/lib/lamp10m.xml 12.33531 45.49810 -0.50 312.4
-OBJECT_SHARED Models/lib/lamp10m.xml 12.33665 45.49912 -0.31 312.4
-OBJECT_SHARED Models/lib/lamp10m.xml 12.33743 45.49980 -0.23 312.4
-OBJECT_SHARED Models/lib/LongRow.ac 12.33679 45.49967 -0.29 47.86
-OBJECT_SHARED Models/lib/LongRow.ac 12.33651 45.49893 -0.34 227.48
-OBJECT_SHARED Models/lib/SmHangar.ac 12.33529 45.49790 -0.50 229.94
-OBJECT_SHARED Models/lib/SmHangar.ac 12.33564 45.49779 -0.47 229.13
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 12.33719 45.49554 -0.52 318.42
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 12.33681 45.49527 -0.41 316.76
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 12.33659 45.49508 -0.47 317.9
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 12.33614 45.49474 -0.50 316.57
+OBJECT_SHARED Models/lib/lamp10m.xml 12.33540 45.49800 -0.02 0
+OBJECT_SHARED Models/lib/lamp10m.xml 12.33751 45.49935 -0.48 0
+OBJECT_SHARED Models/lib/lamp10m.xml 12.33703 45.49904 -0.23 0
+OBJECT_SHARED Models/lib/lamp10m.xml 12.33595 45.49771 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 12.33568 45.49824 -0.42 0
+OBJECT_SHARED Models/lib/lamp10m.xml 12.33673 45.49912 -0.44 0
+OBJECT_SHARED Models/lib/cars10.ac 12.33665 45.49929 0.10 46.85
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 12.33506 45.49824 -0.32 137.6
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 12.33525 45.49811 -0.51 137.6
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 12.33578 45.49836 -0.49 137.52
+OBJECT_SHARED Models/lib/SmHangar.ac 12.33576 45.49785 -0.42 229.39
+OBJECT_SHARED Models/Transport/Norberttruck.xml 12.33761 45.49987 -0.09 350.36
+OBJECT_SHARED Models/Transport/Norberttruck.xml 12.33754 45.49985 -0.21 350.07
+OBJECT_SHARED Models/lib/trailer-fedex.ac 12.33751 45.49978 -0.22 164.85
+OBJECT_SHARED Models/lib/trailer-fedex.ac 12.33770 45.49992 -0.22 177.23
+OBJECT_SHARED Models/lib/trailer-fedex.ac 12.33775 45.49996 -0.20 186.48
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 12.33731 45.49926 -0.88 184.83
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.33736 45.49930 -0.24 181.54
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.33741 45.49933 -0.23 182.82
+OBJECT_SHARED Models/lib/trailer-fedex.ac 12.33707 45.49910 -0.23 91.65
+OBJECT_SHARED Models/lib/trailer-fedex.ac 12.33714 45.49911 -0.27 91.65
+OBJECT_SHARED Models/Airport/cargobox.xml 12.33610 45.49857 -0.27 0
+OBJECT_SHARED Models/Airport/cargobox.xml 12.33613 45.49859 -0.39 315
+OBJECT_SHARED Models/Airport/cargoip.xml 12.33627 45.49865 -0.39 227.61
+OBJECT_SHARED Models/Airport/cargoip.xml 12.33629 45.49867 -0.36 227.95
+OBJECT_SHARED Models/Airport/cargobox.xml 12.33609 45.49859 -0.36 0
+OBJECT_SHARED Models/Airport/cargobox.xml 12.33606 45.49855 -0.39 0
+OBJECT_SHARED Models/Airport/cargobox.xml 12.33662 45.49899 -0.39 0
+OBJECT_SHARED Models/Airport/cargobox.xml 12.33666 45.49901 -0.32 0
+OBJECT_SHARED Models/Airport/cargobox.xml 12.33668 45.49904 -0.31 0
+OBJECT_SHARED Models/lib/container6-HD.ac 12.33578 45.49755 -0.12 53.75
+OBJECT_SHARED Models/lib/container6-HD.ac 12.33582 45.49761 -0.44 54.27
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 12.33537 45.49789 -0.44 222.88
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 12.33539 45.49795 -0.48 216.87
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 12.33550 45.49803 -0.13 318.86
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 12.33554 45.49797 -0.47 228.55
 # END dsf2stg

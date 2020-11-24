@@ -1,35 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed8x10.ac -6.29250 49.91580 26.50 145.32
-OBJECT_SHARED Models/lib/industrial13x24.ac -6.29234 49.91515 27.32 116.783
-OBJECT_SHARED Models/lib/shed8x10.ac -6.29195 49.91472 27.77 16.365
-OBJECT_SHARED Models/lib/shed8x10.ac -6.29189 49.91460 27.88 16.365
-OBJECT_SHARED Models/lib/shed8x10.ac -6.29180 49.91441 28.09 16.365
-OBJECT_SHARED Models/lib/lamp10m.xml -6.29577 49.91558 21.07 97.4748
-OBJECT_SHARED Models/lib/lamp10m.xml -6.29498 49.91399 27.64 -3.90936
-OBJECT_SHARED Models/lib/lamp10m.xml -6.29499 49.91480 27.29 56.1562
-OBJECT_SHARED Models/lib/lamp10m.xml -6.29490 49.91440 27.61 -48.7347
-OBJECT_SHARED Models/lib/lamp10m.xml -6.29476 49.91413 27.85 177.873
-OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -6.29475 49.91411 27.86 266.131
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -6.29476 49.91414 27.85 266.595
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -6.29476 49.91417 27.82 266.595
-OBJECT_SHARED Models/Misc/picnic_table.ac -6.29529 49.91406 27.25 356.451
-OBJECT_SHARED Models/Misc/picnic_table.ac -6.29531 49.91400 27.22 356.451
-OBJECT_SHARED Models/Misc/picnic_table.ac -6.29524 49.91399 27.32 356.451
-OBJECT_SHARED Models/Misc/picnic_table.ac -6.29524 49.91403 27.32 356.451
-OBJECT_SHARED Models/Misc/picnic_table.ac -6.29523 49.91406 27.33 356.451
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac -6.29459 49.91442 27.88 180
-OBJECT_SHARED Models/lib/luggage-cart-HD.ac -6.29463 49.91421 27.94 265.967
-OBJECT_SHARED Models/lib/luggage-cart-HD.ac -6.29463 49.91425 27.94 234.782
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -6.29462 49.91426 27.91 325.012
-OBJECT_SHARED Models/lib/fuel-truck.xml -6.29454 49.91445 27.87 86.0156
-OBJECT_SHARED Models/lib/cars4.ac -6.29511 49.91443 27.39 266.058
-OBJECT_SHARED Models/lib/cars6.ac -6.29498 49.91477 27.30 268.374
-OBJECT_SHARED Models/lib/cars6.ac -6.29526 49.91449 27.17 84.7172
-OBJECT_SHARED Models/lib/prop_a.ac -6.29479 49.91498 27.32 339.977
-OBJECT_SHARED Models/lib/prop_a.ac -6.29445 49.91471 27.78 301.809
-OBJECT_SHARED Models/lib/prop_a.ac -6.29477 49.91488 27.41 359.438
-OBJECT_SHARED Models/lib/prop_a.ac -6.29473 49.91474 27.58 22.8341
-OBJECT_SHARED Models/lib/prop_a.ac -6.29474 49.91457 27.65 19.3848
+OBJECT_SHARED Models/lib/lamp10m.xml -6.33298 49.94553 0.00 270
+OBJECT_SHARED Models/lib/lamp10m.xml -6.33293 49.94554 5.61 270
+OBJECT_SHARED Models/Misc/picnic_table.ac -6.33259 49.94564 5.52 185.48
+OBJECT_SHARED Models/Misc/picnic_table.ac -6.33266 49.94564 5.47 187.8
+OBJECT_SHARED Models/Misc/picnic_table.ac -6.33274 49.94563 5.53 190.64
+OBJECT_SHARED Models/Misc/picnic_table.ac -6.33280 49.94562 5.61 196.49
+OBJECT_SHARED Models/lib/office8x14.ac -6.33302 49.94556 5.66 287.59
 # END dsf2stg

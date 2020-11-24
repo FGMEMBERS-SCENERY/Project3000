@@ -1,0 +1,51 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -94.79685 47.37004 0.00 100.21
+OBJECT_SHARED Models/Effects/taxilampblue.xml -94.79820 47.37018 417.83 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -94.79809 47.37020 419.59 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -94.79811 47.37037 419.43 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -94.79822 47.37039 419.24 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.80204 47.36730 425.35 350.22
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.80216 47.36702 433.44 243.43
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.80202 47.36710 434.32 216.87
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.80185 47.36700 433.75 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.80130 47.36702 433.62 259.88
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.80154 47.36693 432.75 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.80161 47.36703 433.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.79872 47.36624 433.27 198.43
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.79655 47.36644 427.76 234.46
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.79667 47.36635 424.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.79656 47.36623 424.21 323.13
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.79679 47.36600 423.66 81.03
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.79714 47.36566 423.77 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.79648 47.36579 423.95 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.79663 47.36566 422.91 333.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -94.79685 47.36513 422.97 98.88
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.79901 47.36986 425.37 303.41
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.79828 47.36574 424.16 165.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.79764 47.36574 426.29 327.27
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.79793 47.36565 424.93 240.25
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.79706 47.37024 425.51 95.91
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.79719 47.37029 417.41 208.07
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.79717 47.36999 417.47 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -94.79723 47.37008 417.77 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.79752 47.36994 417.67 357.71
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.79745 47.37008 418.37 116.57
+OBJECT_SHARED Models/lib/shed8x10.ac -94.80169 47.36723 426.10 269.71
+OBJECT_SHARED Models/lib/dGreenhse.ac -94.80143 47.36730 433.00 269.94
+OBJECT_SHARED Models/Airport/cargobox.xml -94.79687 47.37061 432.28 104.04
+OBJECT_SHARED Models/Airport/cargobox.xml -94.79689 47.37059 416.79 288.44
+OBJECT_SHARED Models/Airport/cargobox.xml -94.79690 47.37061 416.79 180
+OBJECT_SHARED Models/Airport/cargobox.xml -94.79689 47.37063 416.79 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -94.79754 47.37154 421.22 1.57001
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.79689 47.36992 417.12 313.59
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.79699 47.37013 417.45 331.93
+OBJECT_SHARED Models/lib/cars6.ac -94.79690 47.37047 417.37 253.82
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.79695 47.37057 416.86 88.03
+OBJECT_SHARED Models/lib/propane-tank.ac -94.79686 47.37013 416.79 314.63
+OBJECT_SHARED Models/lib/propane-tank.ac -94.79712 47.37042 417.22 88.2
+OBJECT_SHARED Models/lib/shed8x10.ac -94.79720 47.37047 417.23 263.89
+OBJECT_SHARED Models/lib/SmHangar.ac -94.79740 47.37033 417.30 84.85
+OBJECT_SHARED Models/lib/LongRow.ac -94.79732 47.37087 417.77 88.89
+# END dsf2stg

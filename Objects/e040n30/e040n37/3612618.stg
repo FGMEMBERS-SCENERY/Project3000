@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 40.63875 37.23224 0.00 322.062
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 40.63815 37.23288 525.55 52
+OBJECT_SHARED Models/lib/FireStationLg.ac 40.63743 37.23238 526.46 322
+OBJECT_SHARED Models/lib/SmHangar.ac 40.63767 37.23266 525.74 141
+OBJECT_SHARED Models/lib/lamp10m.xml 40.63826 37.23280 526.17 0
+OBJECT_SHARED Models/lib/lamp10m.xml 40.63848 37.23303 526.34 0
+OBJECT_SHARED Models/lib/lamp10m.xml 40.63868 37.23323 526.62 0
+OBJECT_SHARED Models/lib/lamp10m.xml 40.63887 37.23343 526.91 0
+OBJECT_SHARED Models/lib/lamp10m.xml 40.63908 37.23365 527.20 0
+OBJECT_SHARED Models/lib/lamp10m.xml 40.63777 37.23271 527.49 149
+OBJECT_SHARED Models/lib/lamp10m.xml 40.63736 37.23207 526.17 334
+OBJECT_SHARED Models/lib/lamp10m.xml 40.63723 37.23215 525.34 327
+# END dsf2stg

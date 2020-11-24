@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/2container-office.ac -85.50766 37.80550 0.00 44.56
+OBJECT_SHARED Models/lib/2container-office.ac -85.50759 37.80556 185.92 136.21
+OBJECT_SHARED Models/lib/2container-office.ac -85.50731 37.80561 185.94 47.6
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -85.50576 37.80546 93.98 0
+OBJECT_SHARED Models/lib/LongRow.ac -85.50038 37.80912 189.48 338.25
+OBJECT_SHARED Models/lib/LongRow.ac -85.50021 37.80946 188.71 338.25
+OBJECT_SHARED Models/lib/prop_a.ac -85.50021 37.81070 189.11 246.57
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -85.50107 37.80794 189.85 209.2
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -85.50012 37.80973 191.06 248.2
+# END dsf2stg

@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -75.76904 39.83254 0.00 147.16
+OBJECT_SHARED Models/lib/LongRow.ac -75.76875 39.83278 127.55 147.16
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -75.76756 39.83404 127.90 224.88
+OBJECT_SHARED Models/Transport/hatchback_black.ac -75.76753 39.83425 129.76 45.9993
+OBJECT_SHARED Models/Transport/hatchback_red.ac -75.76750 39.83408 130.05 229
+OBJECT_SHARED Models/Transport/van_silver.ac -75.76757 39.83422 129.90 53.1893
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.76746 39.83411 129.92 236.19
+OBJECT_SHARED Models/Transport/hatchback_green.ac -75.76761 39.83419 129.90 79.9032
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -75.76742 39.83414 129.92 204.091
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -75.75861 39.83672 129.96 287.554
+OBJECT_SHARED Models/Transport/hatchback_red.ac -75.76763 39.83415 142.24 77.3636
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.76739 39.83416 129.92 236.19
+OBJECT_SHARED Models/lib/SmHangar.ac -75.76843 39.83451 130.03 208.005
+OBJECT_SHARED Models/lib/garages18x9.ac -75.76543 39.83487 129.54 158.912
+OBJECT_SHARED Models/lib/LongRow.ac -75.76544 39.83494 130.90 68.1633
+OBJECT_SHARED Models/lib/LongRow.ac -75.76386 39.83635 130.90 44.5919
+OBJECT_SHARED Models/lib/LongRow.ac -75.76496 39.83597 131.15 44.5919
+OBJECT_SHARED Models/lib/LongRow.ac -75.76466 39.83574 131.78 44.5919
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -75.76821 39.83391 131.30 298.038
+OBJECT_SHARED Models/lib/transformer3x3.ac -75.76705 39.83621 129.25 293.402
+OBJECT_SHARED Models/lib/transformer3x3.ac -75.76760 39.83394 131.89 51.4712
+OBJECT_SHARED Models/lib/MedHangar.ac -75.76698 39.83392 129.69 231.314
+# END dsf2stg

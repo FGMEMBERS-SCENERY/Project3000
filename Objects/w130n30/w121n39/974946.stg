@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -120.35079 39.58278 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -120.35071 39.58264 1510.55 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.35097 39.58290 1510.92 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.34963 39.58404 1510.48 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.34964 39.58414 1509.58 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.34981 39.58369 1509.52 90
+OBJECT_SHARED Models/lib/transformer3x3.ac -120.34979 39.58368 1509.74 351.47
+OBJECT_SHARED Models/lib/coal_pile.ac -120.35044 39.58259 1509.74 310.6
+OBJECT_SHARED Models/lib/coal_pile.ac -120.35044 39.58256 1510.35 90
+OBJECT_SHARED Models/lib/coal_pile.ac -120.35041 39.58260 1510.35 272.6
+OBJECT_SHARED Models/lib/coal_pile.ac -120.35051 39.58259 1510.35 300.96
+OBJECT_SHARED Models/lib/prop_a.ac -120.35013 39.58355 1510.92 100.3
+OBJECT_SHARED Models/lib/shed8x10.ac -120.35052 39.58246 1509.80 130.77
+OBJECT_SHARED Models/lib/transformer3x3.ac -120.35043 39.58241 1511.03 130.26
+OBJECT_SHARED Models/lib/trailer-fedex.ac -120.35027 39.58225 1510.21 320.54
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.35071 39.58280 1510.41 211.55
+OBJECT_SHARED Models/Transport/hatchback_green.ac -120.34985 39.58355 1510.55 263.211
+OBJECT_SHARED Models/lib/coal_pile.ac -120.35144 39.58378 1509.85 123.69
+OBJECT_SHARED Models/lib/coal_pile.ac -120.35141 39.58382 1509.91 90
+# END dsf2stg

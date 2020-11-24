@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/coal_pile.ac -78.82826 33.93796 0.00 320.05
+OBJECT_SHARED Models/lib/prop_a.ac -78.82900 33.93858 10.09 357.76
+OBJECT_SHARED Models/lib/SmHangar.ac -78.82816 33.93712 10.15 1.66
+OBJECT_SHARED Models/lib/SmHangar.ac -78.82819 33.93844 9.84 1.66
+OBJECT_SHARED Models/lib/industrial13x24.ac -78.82911 33.93820 10.12 89.63
+# END dsf2stg

@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed8x10.ac -81.35819 33.76783 130.64 6
-OBJECT_SHARED Models/Trees/billboard-tree.xml -81.35758 33.76932 129.73 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -81.35755 33.77135 130.44 0
-OBJECT_SHARED Models/lib/hangar81x16.ac -81.35792 33.76743 130.52 187.01
-OBJECT_SHARED Models/lib/hangar81x16.ac -81.35781 33.76055 131.76 85
-OBJECT_SHARED Models/lib/hangar81x16.ac -81.35750 33.76052 131.22 85
-OBJECT_SHARED Models/lib/hangar81x16.ac -81.35717 33.76051 130.69 85
-OBJECT_SHARED Models/lib/shed8x10.ac -81.35831 33.76763 130.88 98
+OBJECT_SHARED Models/lib/shed8x10.ac -81.35819 33.76783 0.00 6
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.35758 33.76932 130.23 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.35755 33.77135 129.72 0
+OBJECT_SHARED Models/lib/hangar81x16.ac -81.35792 33.76743 128.81 187.01
+OBJECT_SHARED Models/lib/hangar81x16.ac -81.35781 33.76055 130.15 85
+OBJECT_SHARED Models/lib/hangar81x16.ac -81.35750 33.76052 134.25 85
+OBJECT_SHARED Models/lib/hangar81x16.ac -81.35717 33.76051 133.76 85
+OBJECT_SHARED Models/lib/shed8x10.ac -81.35831 33.76763 133.24 98
 # END dsf2stg

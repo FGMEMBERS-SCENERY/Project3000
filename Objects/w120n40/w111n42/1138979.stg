@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -110.10316 42.57894 0.00 212.19
+OBJECT_SHARED Models/lib/lamp10m.xml -110.10332 42.57912 2115.15 212.19
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -110.10348 42.57851 2115.25 212.19
+OBJECT_SHARED Models/lib/HorizTanks2.ac -110.10357 42.57861 2114.97 32.19
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -110.10355 42.57895 2115.53 32.95
+OBJECT_SHARED Models/lib/fboModern1.ac -110.10320 42.57818 2115.77 32.19
+OBJECT_SHARED Models/lib/MedHangar.ac -110.10507 42.57983 2114.84 122.19
+OBJECT_SHARED Models/lib/MedHangar.ac -110.10450 42.57990 2116.70 32.95
+# END dsf2stg

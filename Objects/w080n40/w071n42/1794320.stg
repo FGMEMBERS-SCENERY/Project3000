@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -70.99121 42.35864 1.56 12.75
+OBJECT_SHARED Models/lib/lamp10m.xml -70.98965 42.35740 2.74 302.07
+OBJECT_SHARED Models/lib/lamp10m.xml -70.98945 42.35751 0.04 131.52
+OBJECT_SHARED Models/lib/lamp10m.xml -70.99306 42.35738 0.04 312.91
+OBJECT_SHARED Models/lib/lamp10m.xml -70.99101 42.35846 2.27 179.44
+OBJECT_SHARED Models/lib/lamp10m.xml -70.99018 42.35713 0.30 25.48
+OBJECT_SHARED Models/lib/lamp10m.xml -70.99254 42.35766 0.06 176.56
+OBJECT_SHARED Models/lib/lamp10m.xml -70.99283 42.35771 0.40 7.73001
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -70.99285 42.35780 2.68 98.6
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -70.99284 42.35776 0.47 97.35
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -70.99284 42.35773 0.46 98.33
+OBJECT_SHARED Models/lib/garage-small-white.ac -70.99015 42.35720 0.45 120.39
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -70.99103 42.35843 0.07 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -70.99098 42.35843 0.29 0.690002
+OBJECT_SHARED Models/lib/garage-small-white.ac -70.99262 42.35762 1.09 265.06
+# END dsf2stg

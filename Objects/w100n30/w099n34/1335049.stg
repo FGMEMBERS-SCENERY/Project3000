@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -98.73709 34.23918 0.00 270
+OBJECT_SHARED Models/lib/prop_a.ac -98.73577 34.24108 340.89 187.99
+OBJECT_SHARED Models/lib/transformer3x3.ac -98.73671 34.23923 341.73 270
+OBJECT_SHARED Models/lib/transformer3x3.ac -98.73735 34.23947 340.84 0
+OBJECT_SHARED Models/lib/SmHangar.ac -98.73567 34.24242 341.06 158
+OBJECT_SHARED Models/lib/SmHangar.ac -98.73560 34.24240 342.33 158
+OBJECT_SHARED Models/lib/propane-tank.ac -98.73670 34.23903 342.32 270
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.73686 34.23922 340.74 181.06
+OBJECT_SHARED Models/Transport/hatchback_green.ac -98.73610 34.24090 340.87 160
+# END dsf2stg

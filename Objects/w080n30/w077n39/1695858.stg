@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.48218 39.85376 0.00 182.761
+OBJECT_SHARED Models/lib/LongRow.ac -76.48333 39.85348 226.57 8.75
+OBJECT_SHARED Models/lib/farm19x12.ac -76.48960 39.85276 226.01 288.644
+OBJECT_SHARED Models/lib/2container-office.ac -76.48203 39.85370 229.57 2.87602
+OBJECT_SHARED Models/lib/SmHangar.ac -76.48155 39.85369 225.65 97.9383
+OBJECT_SHARED Models/lib/SmHangar.ac -76.48176 39.85364 225.00 97.9383
+# END dsf2stg

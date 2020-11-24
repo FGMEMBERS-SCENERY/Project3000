@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -80.11440 34.40883 0.00 247.04
+OBJECT_SHARED Models/lib/cars10.ac -80.11473 34.40871 108.34 66.63
+OBJECT_SHARED Models/lib/NoParkStripes.xml -80.11492 34.40901 108.50 337
+OBJECT_SHARED Models/lib/NoParkStripes.xml -80.11505 34.40906 108.96 337
+OBJECT_SHARED Models/lib/transformer3x3.ac -80.11469 34.40939 109.23 65
+OBJECT_SHARED Models/lib/HorizTanks2.ac -80.11471 34.40919 109.26 155
+OBJECT_SHARED Models/lib/cars6.ac -80.11430 34.40937 109.03 106.32
+OBJECT_SHARED Models/lib/office4x14.ac -80.11412 34.40947 108.94 199.62
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -80.11414 34.40980 108.89 41.95
+OBJECT_SHARED Models/lib/transformer3x3.ac -80.11476 34.40764 109.24 249.47
+OBJECT_SHARED Models/lib/LongRow.ac -80.11569 34.40696 107.57 338.66
+OBJECT_SHARED Models/lib/LongRow.ac -80.11587 34.40662 107.87 337.62
+# END dsf2stg

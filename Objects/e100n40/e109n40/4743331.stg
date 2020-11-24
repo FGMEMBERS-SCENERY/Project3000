@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml 109.99985 40.56164 0.00 210.763
+OBJECT_SHARED Models/Trees/billboard-tree.xml 109.99945 40.56190 1009.57 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 109.99937 40.56194 1009.67 212.211
+OBJECT_SHARED Models/Trees/billboard-tree.xml 109.99915 40.56209 1009.67 99.1074
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 109.99965 40.56173 1009.77 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 109.99888 40.56325 1009.62 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 109.99817 40.56368 1010.36 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 109.99894 40.56217 1010.55 0
+OBJECT_SHARED Models/lib/jetway_e12m.ac 109.99883 40.56328 1009.83 50.9357
+OBJECT_SHARED Models/lib/jetway_e12m.ac 109.99832 40.56360 1010.41 50.717
+OBJECT_SHARED Models/lib/shed10x50.ac 109.99934 40.56233 1009.67 321.667
+OBJECT_SHARED Models/lib/office32x25n.ac 109.99552 40.56583 1009.88 232.104
+OBJECT_SHARED Models/lib/transformer3x3.ac 109.98413 40.56895 1009.89 139.4
+# END dsf2stg

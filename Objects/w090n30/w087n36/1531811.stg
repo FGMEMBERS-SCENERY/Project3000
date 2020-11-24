@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -86.06004 36.51692 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -86.06012 36.51658 291.68 0
+OBJECT_SHARED Models/lib/cone.ac -86.06012 36.51649 291.68 0
+OBJECT_SHARED Models/lib/cone.ac -86.06011 36.51649 291.65 0
+OBJECT_SHARED Models/lib/cone.ac -86.06011 36.51650 291.65 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -86.06026 36.51660 291.65 174.6
+OBJECT_SHARED Models/Transport/van_red.ac -86.06015 36.51647 291.89 84.29
+OBJECT_SHARED Models/Transport/van_silver.ac -86.06016 36.51631 291.65 268.73
+OBJECT_SHARED Models/Transport/van_red.ac -86.06016 36.51634 291.68 264.64
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -86.06016 36.51637 291.68 265.76
+OBJECT_SHARED Models/lib/4space_wStop.ac -86.06013 36.51635 291.73 355.97
+OBJECT_SHARED Models/lib/4space_wStop.ac -86.06012 36.51643 291.62 354.76
+OBJECT_SHARED Models/lib/MedHangar.ac -86.06005 36.51674 291.62 174.83
+OBJECT_SHARED Models/lib/HorizTanks2.ac -86.05992 36.51630 291.71 265.43
+OBJECT_SHARED Models/lib/hangar81x16.ac -86.05981 36.51581 291.45 173.86
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -86.06008 36.51658 291.20 85.53
+OBJECT_SHARED Models/lib/lamp10m.xml -86.06014 36.51658 291.68 84.81
+OBJECT_SHARED Models/lib/lamp10m.xml -86.06039 36.51650 291.68 86.01
+OBJECT_SHARED Models/lib/lamp10m.xml -86.06020 36.51629 291.96 -87.56
+# END dsf2stg

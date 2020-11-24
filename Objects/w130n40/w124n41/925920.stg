@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -123.99485 41.51201 0.00 124.16
+OBJECT_SHARED Models/Misc/picnic_table.ac -123.99469 41.51184 11.51 229.83
+OBJECT_SHARED Models/Misc/picnic_table.ac -123.99447 41.51174 11.40 138.9
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -123.99475 41.51186 12.41 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -123.99459 41.51174 11.46 127.95
+OBJECT_SHARED Models/Transport/hatchback_red.ac -123.99473 41.51190 11.36 115.45
+# END dsf2stg

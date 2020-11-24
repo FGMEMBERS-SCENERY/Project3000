@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -4.84292 37.84531 0.00 329.52
+OBJECT_SHARED Models/lib/lamp10m.xml -4.84505 37.84279 88.76 -29.98
+OBJECT_SHARED Models/lib/lamp10m.xml -4.84422 37.84375 88.62 63.37
+OBJECT_SHARED Models/lib/lamp10m.xml -4.84380 37.84484 88.60 -29.35
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84306 37.84402 88.70 332.24
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84294 37.84400 88.59 18.82
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84274 37.84402 88.59 309.81
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84281 37.84404 88.58 205.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84287 37.84404 88.59 317.2
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84294 37.84405 88.59 213.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84301 37.84403 88.59 332.4
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84306 37.84407 88.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84313 37.84409 88.60 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84318 37.84410 88.61 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -4.84375 37.84433 88.61 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -4.84376 37.84432 88.64 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -4.84377 37.84430 88.64 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -4.84378 37.84429 88.64 0
+OBJECT_SHARED Models/lib/NoParkStripes.xml -4.84374 37.84423 88.64 151.29
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84324 37.84446 88.63 58.39
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84317 37.84435 88.65 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84307 37.84430 88.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84307 37.84435 88.63 321.07
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84303 37.84430 88.64 55.49
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84311 37.84430 88.62 56.77
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84326 37.84436 88.63 332.99
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84336 37.84437 88.64 35.91
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84340 37.84438 88.64 330.52
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84333 37.84442 88.65 337.17
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84341 37.84445 88.64 33.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84337 37.84448 88.66 35.75
+OBJECT_SHARED Models/lib/office32x25n.ac -4.84392 37.84400 88.66 150.71
+OBJECT_SHARED Models/lib/fboModern1.ac -4.84423 37.84284 88.61 330.22
+OBJECT_SHARED Models/lib/cars6.ac -4.84372 37.84436 88.55 61.67
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84488 37.84204 88.65 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84482 37.84232 88.60 237.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84483 37.84208 88.59 305.84
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.84473 37.84222 88.59 0
+OBJECT_SHARED Models/lib/prop_a.ac -4.84465 37.84244 88.58 18.88
+OBJECT_SHARED Models/lib/prop_a.ac -4.84483 37.84252 88.58 19.4
+OBJECT_SHARED Models/lib/prop_a.ac -4.84475 37.84255 88.59 355.08
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -4.84300 37.84520 88.59 150.48
+OBJECT_SHARED Models/lib/office40x25.ac -4.84348 37.84404 88.75 240.33
+# END dsf2stg

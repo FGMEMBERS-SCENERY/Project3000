@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -89.87453 35.34797 0.00 29.05
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -89.87365 35.34837 85.00 29.05
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -89.87277 35.34878 85.54 29.05
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -89.87423 35.34810 86.16 29.05
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -89.87336 35.34851 85.19 29.05
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -89.87247 35.34891 85.74 29.05
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -89.87394 35.34824 86.36 29.05
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -89.87306 35.34864 85.39 29.05
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -89.87218 35.34904 85.95 29.05
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -89.86981 35.34834 86.56 208.67
+OBJECT_SHARED Models/lib/fboModern1.ac -89.86930 35.34789 87.94 208.67
+OBJECT_SHARED Models/lib/SmHangar.ac -89.86557 35.34657 88.17 173.22
+OBJECT_SHARED Models/lib/SmHangar.ac -89.86553 35.34693 89.95 173.22
+OBJECT_SHARED Models/lib/MedHangar.ac -89.86639 35.34653 90.08 353.81
+OBJECT_SHARED Models/lib/MedHangar.ac -89.86865 35.34717 89.54 299.46
+OBJECT_SHARED Models/lib/LongRow.ac -89.86656 35.34947 88.40 30
+OBJECT_SHARED Models/lib/LongRow.ac -89.86679 35.34980 90.14 30
+OBJECT_SHARED Models/lib/LongRow.ac -89.86769 35.34899 90.09 30
+OBJECT_SHARED Models/lib/LongRow.ac -89.86791 35.34931 89.34 30
+OBJECT_SHARED Models/lib/LgMaint.ac -89.87378 35.34786 89.28 299.42
+OBJECT_SHARED Models/lib/SmHangar.ac -89.86530 35.34655 85.40 354.42
+OBJECT_SHARED Models/lib/SmHangar.ac -89.86527 35.34676 90.10 354.42
+OBJECT_SHARED Models/lib/SmHangar.ac -89.86524 35.34696 90.15 354.42
+OBJECT_SHARED Models/lib/SmHangar.ac -89.86532 35.34635 90.26 354.42
+OBJECT_SHARED Models/lib/SmHangar.ac -89.86521 35.34717 90.05 354.42
+OBJECT_SHARED Models/lib/large-hangar.ac -89.87097 35.34646 90.31 83.74
+OBJECT_SHARED Models/lib/large-hangar.ac -89.87257 35.34768 86.39 32.01
+# END dsf2stg

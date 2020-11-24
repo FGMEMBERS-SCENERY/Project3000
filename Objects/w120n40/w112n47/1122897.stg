@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -111.72004 47.26593 0.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -111.72004 47.26589 1081.35 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.72004 47.26591 1081.35 268.363
+OBJECT_SHARED Models/lib/SmHangar.ac -111.72010 47.26641 1081.35 195.821
+OBJECT_SHARED Models/lib/propane-tank.ac -111.72028 47.26624 1082.29 12.0115
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -111.72010 47.26628 1081.94 285.461
+# END dsf2stg

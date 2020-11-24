@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/6space_wStop.ac -87.13158 38.69509 0.00 270
+OBJECT_SHARED Models/lib/2space_wStop.ac -87.13177 38.69509 142.20 270
+OBJECT_SHARED Models/lib/2space_wStop.ac -87.13152 38.69526 142.33 90
+OBJECT_SHARED Models/lib/6space_wStop.ac -87.13171 38.69526 142.09 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -87.13142 38.69602 142.21 44.1
+OBJECT_SHARED Models/lib/shed8x10.ac -87.13207 38.69775 141.87 90
+OBJECT_SHARED Models/lib/LongRow.ac -87.13270 38.69631 141.92 90
+OBJECT_SHARED Models/lib/LongRow.ac -87.13270 38.69686 142.72 90
+OBJECT_SHARED Models/lib/SmHangar.ac -87.13184 38.69789 142.57 90
+OBJECT_SHARED Models/lib/SmHangar.ac -87.13147 38.69788 141.69 90
+OBJECT_SHARED Models/lib/SmHangar.ac -87.13184 38.69789 141.53 270
+OBJECT_SHARED Models/lib/SmHangar.ac -87.13147 38.69789 141.69 270
+OBJECT_SHARED Models/lib/SmHangar.ac -87.13186 38.69740 141.53 270
+OBJECT_SHARED Models/lib/SmHangar.ac -87.13186 38.69738 141.86 90
+OBJECT_SHARED Models/lib/SmHangar.ac -87.13185 38.69710 141.86 270
+OBJECT_SHARED Models/lib/SmHangar.ac -87.13185 38.69709 141.93 90
+OBJECT_SHARED Models/lib/SmHangar.ac -87.13155 38.69699 141.93 90
+OBJECT_SHARED Models/lib/SmHangar.ac -87.13136 38.69699 141.77 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.13168 38.69543 141.66 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -87.13153 38.69512 142.19 0
+OBJECT_SHARED Models/lib/prop_a.ac -87.13122 38.69669 142.14 278.56
+OBJECT_SHARED Models/Transport/hatchback_green.ac -87.13163 38.69524 141.60 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -87.13150 38.69523 142.17 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -87.13198 38.69473 142.11 0
+# END dsf2stg

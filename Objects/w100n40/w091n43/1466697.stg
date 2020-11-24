@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.70774 43.13277 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.70729 43.13267 207.19 154.359
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.70804 43.13276 207.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.70637 43.13309 207.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.70631 43.13373 207.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.70631 43.13353 206.30 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.70597 43.13309 206.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.70631 43.13362 207.22 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.70629 43.13331 206.48 0
+OBJECT_SHARED Models/lib/cars4.ac -90.70680 43.13438 207.00 179.514
+OBJECT_SHARED Models/lib/cars4.ac -90.70660 43.13449 205.53 270.641
+OBJECT_SHARED Models/lib/cars6.ac -90.70738 43.13302 205.06 90
+OBJECT_SHARED Models/lib/cars6.ac -90.70690 43.13357 207.10 90
+OBJECT_SHARED Models/lib/cars6.ac -90.70716 43.13321 206.68 268.727
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -90.70739 43.13451 207.00 90
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -90.70740 43.13436 205.60 90
+OBJECT_SHARED Models/lib/6space_wStop.ac -90.70662 43.13342 205.72 270.164
+OBJECT_SHARED Models/lib/6space_wStop.ac -90.70656 43.13364 206.90 180.392
+OBJECT_SHARED Models/lib/6space_wStop.ac -90.70672 43.13364 206.59 179.519
+OBJECT_SHARED Models/lib/6space_wStop.ac -90.70738 43.13328 206.63 179.999
+OBJECT_SHARED Models/lib/NoParkStripes.xml -90.70710 43.13345 206.96 180.895
+OBJECT_SHARED Models/lib/garden-shed.ac -90.70631 43.13319 206.91 180
+# END dsf2stg

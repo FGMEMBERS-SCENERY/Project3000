@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -89.00501 43.69569 0.00 180
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00440 43.69418 279.80 89.3415
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00446 43.69418 278.92 89.2103
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00457 43.69418 278.92 89.5341
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.00526 43.69450 278.92 173.991
+OBJECT_SHARED Models/Misc/picnic_table.ac -89.00534 43.69447 278.41 136.147
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.00502 43.69667 278.41 149.421
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.00539 43.69502 279.44 102.724
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.00532 43.69436 278.47 149.535
+OBJECT_SHARED Models/lib/propane-tank.ac -89.00546 43.69452 278.31 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -89.00546 43.69453 278.05 270
+OBJECT_SHARED Models/lib/propane-tank.ac -89.00546 43.69454 278.05 180
+OBJECT_SHARED Models/Transport/Norberttruck.xml -89.00515 43.69387 278.05 270
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00564 43.69343 277.85 180.409
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00563 43.69325 276.13 180.409
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00563 43.69330 275.75 180.409
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00563 43.69337 275.93 180.409
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00564 43.69354 276.13 180.409
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00520 43.69344 276.35 359.514
+OBJECT_SHARED Models/Transport/Norberttruck.xml -89.00522 43.69337 276.76 180.198
+OBJECT_SHARED Models/Transport/Norberttruck.xml -89.00561 43.69319 276.76 1.12686
+OBJECT_SHARED Models/Transport/Norberttruck.xml -89.00560 43.69348 275.75 1.12686
+OBJECT_SHARED Models/Transport/Norberttruck.xml -89.00522 43.69352 276.35 180.198
+OBJECT_SHARED Models/Transport/Norberttruck.xml -89.00522 43.69356 276.98 180.198
+OBJECT_SHARED Models/Transport/van_silver.ac -89.00539 43.69298 277.19 359
+OBJECT_SHARED Models/Transport/hatchback_green.ac -89.00547 43.69299 275.64 2
+OBJECT_SHARED Models/Transport/hatchback_black.ac -89.00433 43.69378 275.51 179.605
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.00428 43.69378 278.07 178.949
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -89.00501 43.69385 278.07 178.238
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00452 43.69359 277.94 306.501
+OBJECT_SHARED Models/Transport/Norberttruck.xml -89.00456 43.69380 277.75 270
+OBJECT_SHARED Models/lib/trailer-fedex.ac -89.00434 43.69417 278.14 87.0892
+OBJECT_SHARED Models/Transport/Norberttruck.xml -89.00452 43.69416 278.92 267.879
+OBJECT_SHARED Models/lib/trailer-ups.ac -89.00428 43.69422 278.92 89.2964
+OBJECT_SHARED Models/lib/lamp10m.xml -89.00506 43.69481 278.92 359.597
+OBJECT_SHARED Models/lib/lamp10m.xml -89.00567 43.69481 278.77 359.597
+OBJECT_SHARED Models/lib/lamp10m.xml -89.00539 43.69481 277.98 359.597
+OBJECT_SHARED Models/lib/lamp10m.xml -89.00441 43.69432 278.44 179.381
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -89.00509 43.69405 279.00 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -89.00552 43.69405 278.22 224.761
+# END dsf2stg

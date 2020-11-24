@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 104.01171 30.61064 -92.00 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 104.01125 30.61063 399.93 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 104.01126 30.61009 400.13 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 104.01126 30.61034 400.00 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 104.01084 30.61019 400.05 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 104.01084 30.61045 400.03 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 104.01241 30.59753 492.10 271
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 104.01241 30.59800 488.28 271
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 104.01240 30.59845 488.41 271
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 104.01240 30.59888 488.52 271
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 104.01239 30.59931 488.65 271
+# END dsf2stg

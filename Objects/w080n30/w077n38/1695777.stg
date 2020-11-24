@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25n.ac -76.59770 38.56152 0.00 145
+OBJECT_SHARED Models/lib/office32x25n.ac -76.59711 38.55841 40.57 205
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -76.59780 38.56074 39.58 234.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -76.59610 38.56080 40.62 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -76.59613 38.56078 41.03 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -76.59617 38.56076 41.03 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.59765 38.56084 40.78 165
+OBJECT_SHARED Models/lib/lamp10m.xml -76.59625 38.56078 40.21 125
+OBJECT_SHARED Models/lib/office32x25.ac -76.59566 38.55896 40.78 214.22
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.59601 38.56080 35.22 170.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.59594 38.56081 40.86 170.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.59588 38.56085 40.69 170.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.59608 38.56086 40.62 170.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.59607 38.56090 40.99 170.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.59601 38.56095 40.99 170.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.59594 38.56095 40.75 170.01
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.59588 38.56091 40.56 170.01
+# END dsf2stg

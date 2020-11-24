@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/2container-office.ac -108.76817 48.48089 0.00 61.74
+OBJECT_SHARED Models/lib/2container-office.ac -108.76823 48.48091 723.50 64.8
+OBJECT_SHARED Models/lib/2container-office.ac -108.76829 48.48093 723.50 61.67
+OBJECT_SHARED Models/lib/2container-office.ac -108.76835 48.48095 723.50 62.7
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.76910 48.48220 723.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.76790 48.48191 722.43 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.76833 48.48189 723.18 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.76819 48.48202 723.18 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.76939 48.48172 723.14 0
+OBJECT_SHARED Models/lib/cars10.ac -108.76923 48.48121 722.65 335.3
+OBJECT_SHARED Models/Transport/van_red.ac -108.76803 48.48130 722.85 333.44
+OBJECT_SHARED Models/lib/cars6.ac -108.76912 48.48134 723.40 333.91
+# END dsf2stg

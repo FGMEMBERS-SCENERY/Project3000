@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/canopy18x8.ac -82.39043 31.71319 0.00 285.19
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -82.39046 31.71318 59.42 15.19
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -82.39042 31.71319 59.42 195.19
+OBJECT_SHARED Models/lib/LongRow.ac -82.39265 31.71288 59.42 285.19
+OBJECT_SHARED Models/lib/fboModern1.ac -82.39088 31.71307 59.53 286.18
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -82.39210 31.71294 59.45 285.98
+# END dsf2stg

@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac 13.62749 46.58094 0.00 310
+OBJECT_SHARED Models/lib/cone.ac 13.62698 46.58094 550.30 310
+OBJECT_SHARED Models/lib/cone.ac 13.62723 46.58093 550.34 310
+OBJECT_SHARED Models/lib/prop_a.ac 13.62721 46.58094 550.32 270
+OBJECT_SHARED Models/lib/prop_a.ac 13.62843 46.58100 550.32 0
+OBJECT_SHARED Models/lib/prop_a.ac 13.62898 46.58108 550.38 179
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 13.62808 46.58123 550.27 180
+OBJECT_SHARED Models/Transport/van_silver.ac 13.62798 46.58123 550.63 180
+OBJECT_SHARED Models/Transport/hatchback_red.ac 13.62780 46.58122 550.64 180
+OBJECT_SHARED Models/lib/stack_of_cones.ac 13.62896 46.58114 550.66 0
+OBJECT_SHARED Models/lib/2vending-machines.ac 13.62839 46.58115 550.27 183
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.63004 46.58130 550.60 59.04
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.62816 46.58115 550.45 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.62872 46.58131 550.62 93
+OBJECT_SHARED Models/Misc/6barrels.ac 13.62865 46.58130 550.60 0
+OBJECT_SHARED Models/Misc/6barrels.ac 13.62862 46.58130 550.61 0
+OBJECT_SHARED Models/lib/shed8x10.ac 13.62954 46.58126 550.61 0
+OBJECT_SHARED Models/lib/industrial13x24.ac 13.63184 46.58113 550.49 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.63013 46.58123 550.24 90
+# END dsf2stg

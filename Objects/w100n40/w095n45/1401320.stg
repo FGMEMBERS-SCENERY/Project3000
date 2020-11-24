@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -94.93079 45.70650 0.00 299.1
+OBJECT_SHARED Models/lib/cars6.ac -94.93084 45.70628 378.15 119.1
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -94.93152 45.70666 378.09 29.1
+OBJECT_SHARED Models/lib/LongRow.ac -94.93019 45.70713 378.05 299.1
+OBJECT_SHARED Models/lib/LongRow.ac -94.93062 45.70697 378.43 299.1
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -94.93129 45.70635 378.32 29.36
+# END dsf2stg

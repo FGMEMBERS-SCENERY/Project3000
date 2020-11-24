@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -110.56179 37.44194 0.00 61.6071
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -110.56189 37.44232 1334.89 267.064
+OBJECT_SHARED Models/Transport/van_red.ac -110.56190 37.44229 1334.33 273.094
+OBJECT_SHARED Models/Transport/van_silver.ac -110.56191 37.44226 1334.33 270
+OBJECT_SHARED Models/Transport/van_silver.ac -110.56195 37.44224 1334.33 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -110.56196 37.44221 1334.49 270
+OBJECT_SHARED Models/Transport/hatchback_red.ac -110.56197 37.44218 1334.49 271.193
+OBJECT_SHARED Models/Transport/van_silver.ac -110.56168 37.44232 1334.49 240.255
+OBJECT_SHARED Models/Transport/hatchback_red.ac -110.56180 37.44211 1334.33 242.447
+OBJECT_SHARED Models/Transport/hatchback_black.ac -110.56182 37.44207 1334.64 242.242
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -110.56196 37.44286 1334.64 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -110.56189 37.44201 1333.38 245.898
+OBJECT_SHARED Models/lib/4space_wStop.ac -110.56164 37.44232 1334.77 332.387
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -110.56196 37.44174 1334.33 63.4354
+OBJECT_SHARED Models/lib/lamp10m.xml -110.56188 37.44167 1335.14 242.659
+OBJECT_SHARED Models/lib/lamp10m.xml -110.56226 37.44110 1335.14 242.659
+OBJECT_SHARED Models/lib/lamp10m.xml -110.56161 37.44208 1335.87 242.659
+OBJECT_SHARED Models/lib/shed8x10.ac -110.56168 37.44210 1334.64 152.747
+OBJECT_SHARED Models/lib/propane-tank.ac -110.56254 37.44071 1334.64 154.44
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -110.56234 37.44041 1335.82 152.85
+OBJECT_SHARED Models/lib/HorizTanks2.ac -110.56261 37.44044 1336.56 243.113
+OBJECT_SHARED Models/lib/fuel-truck.xml -110.56134 37.44228 1336.13 333.435
+# END dsf2stg

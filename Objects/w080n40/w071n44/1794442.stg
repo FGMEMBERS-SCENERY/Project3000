@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -70.48140 44.15638 0.00 227.91
+OBJECT_SHARED Models/lib/MedHangar.ac -70.48069 44.15584 103.63 227.79
+OBJECT_SHARED Models/lib/SmHangar.ac -70.47985 44.15523 103.42 317.97
+OBJECT_SHARED Models/lib/watertank3x1.ac -70.48227 44.15642 103.12 317.54
+OBJECT_SHARED Models/lib/watertank3x1.ac -70.48225 44.15641 104.06 316.88
+OBJECT_SHARED Models/lib/propane-tank.ac -70.48229 44.15644 104.01 47.82
+OBJECT_SHARED Models/lib/propane-tank.ac -70.48231 44.15645 104.06 47.95
+OBJECT_SHARED Models/lib/propane-tank.ac -70.48233 44.15646 104.03 47.17
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.48224 44.15659 104.03 136.96
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -70.48226 44.15651 103.97 318.07
+OBJECT_SHARED Models/Transport/hatchback_red.ac -70.48144 44.15598 104.03 318.55
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -70.48139 44.15595 103.72 317.49
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -70.48222 44.15618 103.72 47.58
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -70.48138 44.15562 104.05 48.29
+OBJECT_SHARED Models/Transport/hatchback_black.ac -70.48126 44.15584 103.81 229.91
+OBJECT_SHARED Models/lib/prop_a.ac -70.48256 44.15732 103.71 46.94
+OBJECT_SHARED Models/lib/prop_a.ac -70.48026 44.15579 104.03 48.52
+OBJECT_SHARED Models/lib/prop_a.ac -70.48169 44.15710 103.22 228.95
+# END dsf2stg

@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -109.02502 31.90411 0.00 180.42
+OBJECT_SHARED Models/lib/SmHangar.ac -109.02502 31.90441 1250.77 180.34
+OBJECT_SHARED Models/lib/SmHangar.ac -109.02499 31.90538 1250.79 180.35
+OBJECT_SHARED Models/lib/SmHangar.ac -109.02499 31.90568 1250.88 180.42
+OBJECT_SHARED Models/Transport/van_silver.ac -109.02488 31.90513 1250.91 206.33
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.02522 31.90555 1250.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.02518 31.90552 1250.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.02493 31.90489 1250.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.02556 31.90509 1250.84 0
+OBJECT_SHARED Models/lib/propane-tank.ac -109.02614 31.90446 1251.43 0.18
+OBJECT_SHARED Models/lib/dGreenhse.ac -109.02613 31.90456 1251.37 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -109.02613 31.90461 1251.38 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -109.02613 31.90466 1251.38 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.02566 31.90443 1251.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.02579 31.90443 1251.36 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.02591 31.90443 1251.36 0
+# END dsf2stg

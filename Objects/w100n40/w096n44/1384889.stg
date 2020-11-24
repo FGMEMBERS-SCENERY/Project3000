@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -95.71368 44.96951 0.00 139.96
+OBJECT_SHARED Models/lib/prop_a.ac -95.71379 44.96940 313.77 141.25
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.71359 44.97037 313.85 44.9924
+OBJECT_SHARED Models/lib/shed10x50.ac -95.71504 44.97094 313.33 127.19
+OBJECT_SHARED Models/lib/shed10x50.ac -95.71480 44.97071 313.47 127.19
+OBJECT_SHARED Models/lib/LongRow.ac -95.71500 44.97041 313.51 127.08
+OBJECT_SHARED Models/lib/SmHangar.ac -95.71423 44.96977 313.65 139.62
+OBJECT_SHARED Models/lib/SmHangar.ac -95.71462 44.96943 313.78 143.53
+OBJECT_SHARED Models/lib/cars7.ac -95.71491 44.96982 314.03 218.53
+OBJECT_SHARED Models/lib/cars7.ac -95.71454 44.97004 313.91 37.49
+OBJECT_SHARED Models/lib/stack_of_cones.ac -95.71418 44.96982 313.76 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -95.71373 44.97044 313.78 137.16
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.71583 44.96924 313.37 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.71580 44.96919 313.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.71570 44.96923 313.99 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.71586 44.96908 314.00 116.57
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.71593 44.97033 314.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.71587 44.97025 313.67 0
+OBJECT_SHARED Models/lib/cone.ac -95.71434 44.97038 313.70 180
+OBJECT_SHARED Models/lib/cone.ac -95.71435 44.97038 313.55 0
+OBJECT_SHARED Models/lib/cone.ac -95.71434 44.97038 313.55 0
+OBJECT_SHARED Models/lib/cone.ac -95.71435 44.97038 313.55 0
+OBJECT_SHARED Models/lib/cone.ac -95.71429 44.96974 313.55 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -95.71362 44.97039 313.85 0
+OBJECT_SHARED Models/lib/lamp10m.xml -95.71397 44.97010 313.33 140.39
+OBJECT_SHARED Models/lib/lamp10m.xml -95.71437 44.96968 313.59 136.85
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.71493 44.97035 313.87 127.829
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.71486 44.97087 313.69 36.2448
+# END dsf2stg

@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/Norberttruck.xml -105.46547 45.47164 0.00 333.635
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -105.46503 45.47221 995.30 63.4798
+OBJECT_SHARED Models/lib/stack_of_cones.ac -105.46508 45.47219 996.62 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -105.46544 45.47153 996.62 332.08
+OBJECT_SHARED Models/lib/watertank3x1.ac -105.46549 45.47154 995.09 328.134
+OBJECT_SHARED Models/lib/propane-tank.ac -105.46526 45.47148 995.09 156.615
+OBJECT_SHARED Models/lib/HorizTanks2.ac -105.46508 45.47211 995.09 153.68
+# END dsf2stg

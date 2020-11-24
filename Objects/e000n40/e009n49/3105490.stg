@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 9.66524 49.32168 415.54 197.65
-OBJECT_SHARED Models/lib/SmHangar.ac 9.66519 49.32177 415.51 197.65
-OBJECT_SHARED Models/lib/SmHangar.ac 9.66527 49.32185 415.60 108.66
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 9.66548 49.32201 415.78 108.61
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.66512 49.32182 415.43 16.26
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.66527 49.32157 415.53 0
-OBJECT_SHARED Models/lib/propane-tank.ac 9.66520 49.32159 415.45 16.23
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.66538 49.32193 415.72 286.77
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.66540 49.32191 415.75 285.83
-OBJECT_SHARED Models/Transport/hatchback_green.ac 9.66537 49.32163 415.65 109.26
+OBJECT_SHARED Models/lib/SmHangar.ac 9.66524 49.32168 0.00 197.65
+OBJECT_SHARED Models/lib/SmHangar.ac 9.66519 49.32177 415.47 197.65
+OBJECT_SHARED Models/lib/SmHangar.ac 9.66527 49.32185 415.43 108.66
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 9.66548 49.32201 415.52 108.61
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.66512 49.32182 415.68 16.26
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.66527 49.32157 415.35 0
+OBJECT_SHARED Models/lib/propane-tank.ac 9.66520 49.32159 415.48 16.23
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.66538 49.32193 415.39 286.77
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.66540 49.32191 415.63 285.83
+OBJECT_SHARED Models/Transport/hatchback_black.ac 9.66537 49.32163 415.65 109.26
 # END dsf2stg

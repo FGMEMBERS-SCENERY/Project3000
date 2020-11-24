@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -111.58811 38.35599 0.00 216.358
+OBJECT_SHARED Models/lib/transformer3x3.ac -111.58779 38.35603 2140.87 307.87
+OBJECT_SHARED Models/lib/SmHangar.ac -111.58763 38.35599 2140.87 37.95
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -111.59006 38.35430 2140.87 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.58750 38.35567 2139.32 88.42
+OBJECT_SHARED Models/Transport/van_red.ac -111.58751 38.35551 2140.33 273.28
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.58750 38.35556 2140.48 266.56
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -111.58787 38.35542 2140.56 327.7
+OBJECT_SHARED Models/lib/shed8x10.ac -111.58700 38.35511 2140.40 90
+OBJECT_SHARED Models/lib/transformer3x3.ac -111.58707 38.35514 2138.85 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -111.58723 38.35512 2138.85 270
+OBJECT_SHARED Models/lib/shed8x10.ac -111.58721 38.35498 2138.85 0
+OBJECT_SHARED Models/lib/shed8x10.ac -111.58721 38.35526 2138.61 90
+OBJECT_SHARED Models/lib/shed10x50.ac -111.58695 38.35573 2139.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.58694 38.35467 2140.33 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.58724 38.35467 2138.13 0
+OBJECT_SHARED Models/lib/2container-office.ac -111.58654 38.35487 2138.13 19.44
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -111.58660 38.35503 2138.39 87.34
+# END dsf2stg

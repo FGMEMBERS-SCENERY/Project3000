@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -95.07938 44.54481 0.00 141.2
+OBJECT_SHARED Models/lib/prop_a.ac -95.07949 44.54471 310.48 141.48
+OBJECT_SHARED Models/lib/prop_a.ac -95.08042 44.54499 310.50 317.2
+OBJECT_SHARED Models/lib/LongRow.ac -95.07749 44.54371 310.64 141.89
+OBJECT_SHARED Models/lib/LongRow.ac -95.07776 44.54345 310.49 141.89
+OBJECT_SHARED Models/lib/vending-machine.ac -95.08026 44.54477 310.53 53.04
+OBJECT_SHARED Models/lib/HorizTanks2.ac -95.08008 44.54466 310.62 231.51
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.07985 44.54454 310.59 230.98
+OBJECT_SHARED Models/lib/lamp10m.xml -95.07903 44.54439 310.57 -39.94
+OBJECT_SHARED Models/lib/lamp10m.xml -95.08045 44.54521 310.46 142.23
+OBJECT_SHARED Models/Transport/van_silver.ac -95.07855 44.54388 310.64 322.34
+OBJECT_SHARED Models/Transport/hatchback_red.ac -95.08054 44.54455 310.48 323.39
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.08051 44.54453 310.66 322.85
+OBJECT_SHARED Models/Transport/hatchback_red.ac -95.07978 44.54368 310.65 216.12
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.07984 44.54365 310.55 216.87
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.07982 44.54380 310.55 33.69
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.07988 44.54377 310.57 36.38
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.08005 44.54368 310.56 37.23
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.08000 44.54371 310.56 36.87
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.07997 44.54372 310.55 37.41
+# END dsf2stg

@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -78.62799 44.28448 0.00 108.14
+OBJECT_SHARED Models/lib/industrial13x24.ac -78.62859 44.28398 252.95 285.44
+OBJECT_SHARED Models/lib/office3x10.ac -78.62780 44.28402 253.00 20.87
+OBJECT_SHARED Models/lib/cone.ac -78.62822 44.28394 252.66 76.25
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.62805 44.28386 252.81 76.25
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -78.62822 44.28396 252.72 18.1
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -78.62817 44.28382 252.85 76.25
+OBJECT_SHARED Models/Misc/6barrels.ac -78.62804 44.28397 252.77 76.25
+OBJECT_SHARED Models/Misc/6barrels.ac -78.62802 44.28398 252.75 76.25
+OBJECT_SHARED Models/lib/2vending-machines.ac -78.62821 44.28395 252.75 288.45
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -78.62753 44.28417 252.81 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -78.62767 44.28413 252.59 0
+OBJECT_SHARED Models/lib/prop_a.ac -78.62743 44.28417 252.65 117.7
+OBJECT_SHARED Models/Transport/van_silver.ac -78.62908 44.28380 252.52 202.07
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -78.62912 44.28377 253.23 354.81
+OBJECT_SHARED Models/Transport/hatchback_black.ac -78.62918 44.28378 253.23 212.74
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.63046 44.28578 253.30 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -78.62558 44.28554 258.69 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.62556 44.28565 253.05 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.62698 44.28465 253.26 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.62907 44.28371 252.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.62950 44.28390 253.18 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -78.62956 44.28381 253.47 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.62957 44.28399 253.42 0
+# END dsf2stg

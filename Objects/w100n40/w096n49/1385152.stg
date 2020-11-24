@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.97982 49.00153 325.99 0
+OBJECT_SHARED Models/lib/farm19x12.ac -95.97986 49.00162 326.00 269.8
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -95.97944 49.00022 326.01 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.97917 49.00020 325.96 181.48
+OBJECT_SHARED Models/lib/SmHangar.ac -95.97932 49.00024 325.95 269.69
+# END dsf2stg

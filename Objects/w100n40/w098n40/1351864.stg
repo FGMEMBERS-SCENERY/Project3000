@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -97.99743 40.88785 0.00 358.61
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.99747 40.88776 549.12 180.84
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.99747 40.88771 549.07 180
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.99741 40.88771 549.01 179.25
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.99738 40.88779 549.04 276.56
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.99742 40.88790 549.08 265.09
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99619 40.89963 549.62 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99617 40.89963 548.32 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99330 40.88861 548.32 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99329 40.88861 546.29 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99426 40.89226 546.29 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99424 40.89227 547.74 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99439 40.89275 547.65 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99437 40.89275 547.88 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99479 40.89428 547.89 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99477 40.89428 548.28 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99466 40.89379 548.28 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.99464 40.89380 548.20 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.99688 40.89482 547.64 16.24
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.99608 40.89274 548.46 110.81
+OBJECT_SHARED Models/lib/cars6.ac -97.99663 40.89256 548.71 101.83
+OBJECT_SHARED Models/Airport/cargobox.xml -97.99722 40.89398 548.99 270
+OBJECT_SHARED Models/Airport/cargobox.xml -97.99724 40.89398 548.77 154.54
+OBJECT_SHARED Models/Airport/cargobox.xml -97.99727 40.89399 548.77 310.6
+OBJECT_SHARED Models/Airport/cargobox.xml -97.99703 40.89398 548.79 293.96
+OBJECT_SHARED Models/Airport/cargobox.xml -97.99703 40.89400 548.73 270
+OBJECT_SHARED Models/Airport/cargobox.xml -97.99703 40.89401 548.73 103.24
+OBJECT_SHARED Models/Airport/cargobox.xml -97.99704 40.89404 548.73 97.88
+OBJECT_SHARED Models/lib/LongRow.ac -97.99594 40.89159 548.73 281.15
+OBJECT_SHARED Models/lib/LongRow.ac -97.99606 40.89207 548.76 281.15
+OBJECT_SHARED Models/lib/SmHangar.ac -97.99640 40.89159 548.82 191.19
+OBJECT_SHARED Models/lib/MedHangar.ac -97.99649 40.89202 549.09 190.94
+OBJECT_SHARED Models/lib/SmHangar.ac -97.99690 40.89355 549.08 191.62
+OBJECT_SHARED Models/lib/garages22x9.ac -97.99730 40.89380 548.84 191.15
+OBJECT_SHARED Models/lib/hangar81x16.ac -97.99674 40.89478 548.86 281.25
+OBJECT_SHARED Models/lib/shed10x50.ac -97.99697 40.89412 548.42 281.21
+OBJECT_SHARED Models/lib/LongRow.ac -97.99688 40.89535 548.70 281.03
+OBJECT_SHARED Models/lib/watertank3x1.ac -97.99714 40.89450 548.28 279.81
+OBJECT_SHARED Models/lib/SmHangar.ac -97.99702 40.89466 548.59 191.43
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -97.99644 40.89315 548.51 149
+OBJECT_SHARED Models/lib/MedHangar.ac -97.99606 40.89261 548.78 191.38
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.99530 40.89315 547.90 7.64999
+OBJECT_SHARED Models/lib/prop_a.ac -97.99539 40.89320 548.12 102.09
+OBJECT_SHARED Models/lib/lamp10m.xml -97.99667 40.89557 548.18 165.52
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.99675 40.89280 548.20 228.37
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.99693 40.89281 548.99 23.2
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.99702 40.89281 549.04 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.99712 40.89281 549.06 151.39
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.99723 40.89281 549.08 3.95001
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.99731 40.89280 549.11 326.31
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.99738 40.89281 549.13 268.77
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.99746 40.89280 549.15 30.17
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.99755 40.89279 549.17 217.87
+# END dsf2stg

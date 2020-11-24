@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/2container-office.ac -96.35073 46.87916 0.00 288.88
+OBJECT_SHARED Models/lib/shed10x50.ac -96.35210 46.87839 363.00 108.75
+OBJECT_SHARED Models/lib/shed10x50.ac -96.35161 46.87849 362.94 108.75
+OBJECT_SHARED Models/lib/shed10x50.ac -96.35113 46.87861 362.94 108.75
+OBJECT_SHARED Models/lib/propane-tank.ac -96.35009 46.87845 362.95 108.84
+OBJECT_SHARED Models/lib/industrial13x24.ac -96.35370 46.87741 363.39 93.01
+OBJECT_SHARED Models/lib/industrial13x24.ac -96.35279 46.87742 363.14 90
+# END dsf2stg

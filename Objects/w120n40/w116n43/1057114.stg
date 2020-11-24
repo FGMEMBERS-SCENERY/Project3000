@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -115.30909 43.46681 0.00 270
+OBJECT_SHARED Models/Transport/van_red.ac -115.30906 43.46665 1282.47 271.34
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.30880 43.46773 1282.45 298.24
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.30915 43.46850 1282.42 301.64
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.30967 43.46844 1282.31 291.57
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.30971 43.46855 1283.80 278.37
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -115.31041 43.47082 1283.75 280.12
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -115.31079 43.47075 1283.11 109.08
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -115.31081 43.47062 1292.33 104.85
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.31098 43.46425 1292.11 150.56
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.31057 43.46427 1284.61 207.86
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.30915 43.46435 1284.69 279.46
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -115.30889 43.46309 1281.58 269.45
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -115.30880 43.46658 1280.76 279.93
+# END dsf2stg

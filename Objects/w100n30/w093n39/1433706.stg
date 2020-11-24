@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml -92.45950 39.72788 0.00 189.462
+OBJECT_SHARED Models/Airport/cargobox.xml -92.45950 39.72791 263.45 187.125
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -92.45893 39.72815 263.45 187.125
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -92.45894 39.72885 263.67 90
+OBJECT_SHARED Models/lib/prop_a.ac -92.45942 39.72681 263.24 90
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -92.45975 39.72643 264.27 69.2274
+OBJECT_SHARED Models/lib/SmHangar.ac -92.45967 39.72812 264.16 179.809
+OBJECT_SHARED Models/lib/fboModern1.ac -92.45934 39.72758 263.08 180
+OBJECT_SHARED Models/lib/SmHangar.ac -92.45908 39.72805 263.84 0
+OBJECT_SHARED Models/lib/LongRow.ac -92.45942 39.72833 263.62 90
+OBJECT_SHARED Models/lib/SmHangar.ac -92.45908 39.72877 263.17 0
+OBJECT_SHARED Models/lib/SmHangar.ac -92.45908 39.72857 263.07 0.830338
+OBJECT_SHARED Models/lib/SmHangar.ac -92.45908 39.72836 263.20 0.881424
+# END dsf2stg

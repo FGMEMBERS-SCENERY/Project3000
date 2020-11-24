@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -117.19455 39.46926 0.00 339.47
+OBJECT_SHARED Models/lib/SmHangar.ac -117.19449 39.46939 1745.77 339.47
+OBJECT_SHARED Models/lib/transformer3x3.ac -117.19360 39.46899 1745.71 0
+OBJECT_SHARED Models/lib/shed8x10.ac -117.19283 39.46914 1745.80 90
+OBJECT_SHARED Models/Airport/cargobox.xml -117.19409 39.46844 1745.73 121.33
+OBJECT_SHARED Models/lib/lamp10m.xml -117.19443 39.46913 1745.92 159.12
+OBJECT_SHARED Models/lib/lamp10m.xml -117.19441 39.46951 1745.77 68.68
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -117.19414 39.46864 1745.69 219.4
+OBJECT_SHARED Models/lib/shed8x10.ac -117.19424 39.46887 1745.88 125
+OBJECT_SHARED Models/lib/shed8x10.ac -117.19418 39.46881 1745.82 125
+# END dsf2stg

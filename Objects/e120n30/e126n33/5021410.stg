@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 126.50007 33.50582 0.00 323.81
+OBJECT_SHARED Models/lib/caisses_group.ac 126.50032 33.50569 26.56 184.7
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 126.50332 33.50721 22.61 141.63
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 126.50336 33.50718 31.39 141.63
+OBJECT_SHARED Models/Transport/Norberttruck.xml 126.50314 33.50721 31.39 233.13
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 126.50384 33.50678 31.39 49.62
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 126.50381 33.50680 32.83 49.62
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 126.50378 33.50682 32.83 49.62
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 126.50376 33.50684 32.83 49.62
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 126.50368 33.50689 32.83 49.62
+OBJECT_SHARED Models/Transport/Norberttruck.xml 126.50405 33.50666 32.67 232.97
+OBJECT_SHARED Models/Transport/Norberttruck.xml 126.50410 33.50663 33.00 232.97
+OBJECT_SHARED Models/Transport/Norberttruck.xml 126.50414 33.50661 33.17 232.97
+OBJECT_SHARED Models/Transport/Norberttruck.xml 126.50420 33.50657 33.17 232.97
+OBJECT_SHARED Models/lib/transformer3x3.ac 126.50645 33.50521 15.26 278.13
+OBJECT_SHARED Models/lib/transformer3x3.ac 126.50620 33.50535 37.45 326.31
+OBJECT_SHARED Models/lib/transformer3x3.ac 126.50471 33.50643 37.26 327.53
+OBJECT_SHARED Models/lib/transformer3x3.ac 126.50193 33.50802 34.36 320.71
+OBJECT_SHARED Models/lib/transformer3x3.ac 126.50041 33.51518 15.74 215.54
+OBJECT_SHARED Models/lib/transformer3x3.ac 126.50120 33.51597 17.16 292.93
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50002 33.51719 14.85 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50005 33.51717 13.77 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50045 33.51705 13.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50044 33.51706 13.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50044 33.51707 13.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50040 33.51709 13.94 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50033 33.51712 13.94 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50029 33.51715 13.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50027 33.51716 13.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50021 33.51717 13.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50016 33.51718 13.77 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50014 33.51719 13.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.50006 33.51719 13.77 270
+# END dsf2stg

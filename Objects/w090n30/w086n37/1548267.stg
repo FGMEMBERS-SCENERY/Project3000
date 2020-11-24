@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -85.24308 37.63507 0.00 165.17
+OBJECT_SHARED Models/lib/prop_a.ac -85.24233 37.63480 254.76 79.11
+OBJECT_SHARED Models/lib/SmHangar.ac -85.24031 37.63463 255.72 75.89
+OBJECT_SHARED Models/lib/MedHangar.ac -85.24219 37.63493 257.24 75.61
+OBJECT_SHARED Models/lib/NoParkStripes.xml -85.24324 37.63493 255.74 75.45
+OBJECT_SHARED Models/lib/cars4.ac -85.24265 37.63525 254.85 255.53
+OBJECT_SHARED Models/lib/cars2.ac -85.24368 37.63520 254.99 67.38
+OBJECT_SHARED Models/lib/farm19x12.ac -85.24387 37.63530 253.94 158.48
+# END dsf2stg

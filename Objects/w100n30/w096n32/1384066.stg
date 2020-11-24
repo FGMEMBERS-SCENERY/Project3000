@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree.xml -95.44305 32.08290 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.44290 32.08272 109.78 341.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.44296 32.08268 109.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.44309 32.08266 109.66 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.44266 32.08293 109.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.44275 32.08292 109.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.44284 32.08290 109.29 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.44292 32.08258 109.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.44282 32.08230 109.52 347.47
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.43988 32.08328 109.34 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.43982 32.08281 105.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.43995 32.08286 105.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.43974 32.08290 105.00 63.43
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.43986 32.08291 105.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.43968 32.08324 105.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.43934 32.08305 105.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.43943 32.08308 105.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.43936 32.08316 105.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.43941 32.08319 105.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.44059 32.08321 105.00 0
+OBJECT_SHARED Models/lib/farm19x12.ac -95.44584 32.08288 105.61 88.81
+OBJECT_SHARED Models/lib/SmHangar.ac -95.44587 32.08257 113.04 90
+OBJECT_SHARED Models/lib/industrial13x24.ac -95.44587 32.08259 114.30 89.27
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.44285 32.08262 114.30 292.62
+OBJECT_SHARED Models/Transport/van_silver.ac -95.44434 32.08283 109.35 233.13
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.44444 32.08298 111.78 0
+OBJECT_SHARED Models/Transport/van_red.ac -95.44426 32.08282 111.80 291.04
+OBJECT_SHARED Models/lib/SmHangar.ac -95.44385 32.08255 111.78 90
+OBJECT_SHARED Models/lib/industrial13x24.ac -95.44385 32.08278 111.17 270
+OBJECT_SHARED Models/lib/SmHangar.ac -95.44498 32.08253 111.12 87.91
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.44279 32.08352 112.85 200.4
+OBJECT_SHARED Models/Misc/picnic_table.ac -95.43926 32.08342 109.16 90
+OBJECT_SHARED Models/lib/SmHangar.ac -95.44321 32.08242 105.00 359.13
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -95.42664 32.08237 110.01 108.43
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -95.42673 32.08178 104.99 67.17
+OBJECT_SHARED Models/lib/prop_a.ac -95.44384 32.08250 104.99 305.71
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -95.42669 32.08217 111.00 80.54
+# END dsf2stg

@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -93.75293 36.07865 0.00 145.713
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.75314 36.07858 527.63 235.491
+OBJECT_SHARED Models/Transport/hatchback_green.ac -93.75242 36.07960 527.80 234.583
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.75472 36.08066 526.73 324.689
+OBJECT_SHARED Models/lib/LongRow.ac -93.75492 36.07926 527.53 56.31
+OBJECT_SHARED Models/lib/LongRow.ac -93.75527 36.07943 528.65 55.28
+OBJECT_SHARED Models/lib/LongRow.ac -93.75561 36.07960 528.72 55.85
+OBJECT_SHARED Models/lib/SmHangar.ac -93.75554 36.08051 528.74 142.96
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.75308 36.07858 528.15 325.611
+# END dsf2stg

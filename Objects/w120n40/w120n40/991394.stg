@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -119.34668 40.57980 0.00 -4.12
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34655 40.57980 1218.91 267.28
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.34694 40.57948 1218.91 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.34651 40.57953 1219.20 0
+OBJECT_SHARED Models/lib/SmHangar.ac -119.34683 40.57981 1219.20 267.28
+# END dsf2stg

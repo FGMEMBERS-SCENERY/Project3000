@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -92.44420 31.33920 0.00 359.13
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -92.44440 31.34077 23.82 180.44
+OBJECT_SHARED Models/lib/hangar81x16.ac -92.44431 31.34268 24.76 269.5
+OBJECT_SHARED Models/lib/hangar81x16.ac -92.44430 31.34334 26.00 269.13
+OBJECT_SHARED Models/lib/SmHangar.ac -92.44450 31.34017 26.40 91.35
+OBJECT_SHARED Models/lib/SmHangar.ac -92.44428 31.34029 24.39 181.08
+OBJECT_SHARED Models/lib/SmHangar.ac -92.44428 31.34047 24.45 181.26
+OBJECT_SHARED Models/lib/SmHangar.ac -92.44485 31.33978 24.57 176.23
+OBJECT_SHARED Models/lib/SmHangar.ac -92.44430 31.33913 24.18 179.32
+OBJECT_SHARED Models/lib/MedHangar.ac -92.44425 31.33984 23.77 180.66
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.44448 31.33951 24.16 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -92.44448 31.33956 23.99 267.88
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.44447 31.33961 24.04 267.84
+# END dsf2stg

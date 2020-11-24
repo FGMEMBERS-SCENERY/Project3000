@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.24880 42.59935 0.50 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.24891 42.59929 422.48 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.24627 42.61088 421.96 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.24619 42.61095 411.81 137.73
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.24638 42.61094 411.74 310.03
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.24657 42.61100 411.82 192.53
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.24651 42.61062 411.78 321.95
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.24666 42.61060 412.00 321.95
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.24669 42.61100 412.02 321.95
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.24686 42.61092 411.79 233.13
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.24661 42.61092 411.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.24607 42.61093 411.84 107.74
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.24649 42.61092 411.79 302.47
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.24674 42.61092 411.83 102.99
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.24676 42.61082 411.85 8.75
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.24685 42.61077 411.92 65.74
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.24687 42.61066 411.92 326.89
+OBJECT_SHARED Models/lib/propane-tank.ac -97.24936 42.60847 422.23 225.93
+OBJECT_SHARED Models/lib/transformer3x3.ac -97.24969 42.60940 413.46 91.45
+OBJECT_SHARED Models/lib/coal_pile.ac -97.24713 42.61004 412.98 356.68
+OBJECT_SHARED Models/lib/coal_pile.ac -97.24690 42.61009 412.40 320.49
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.24725 42.61020 317.33 230.53
+OBJECT_SHARED Models/lib/watertank3x1.ac -97.24694 42.61019 412.30 266.33
+OBJECT_SHARED Models/Transport/van_silver.ac -97.24664 42.61055 412.27 282.01
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.24656 42.61055 412.01 273.37
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.24625 42.61062 412.01 346.76
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.24631 42.61066 411.97 351.66
+OBJECT_SHARED Models/Transport/hatchback_green.ac -97.24638 42.61072 411.92 351.47
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.24639 42.61065 411.93 347.16
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.24635 42.61062 411.93 355.07
+OBJECT_SHARED Models/Transport/Norberttruck.xml -97.24700 42.61062 411.99 262.28
+OBJECT_SHARED Models/lib/trailer-fedex.ac -97.24619 42.61045 412.05 2.54
+OBJECT_SHARED Models/lib/trailer-fedex.ac -97.24707 42.61065 412.08 73.25
+OBJECT_SHARED Models/Transport/Norberttruck.xml -97.24716 42.61062 412.00 254.48
+OBJECT_SHARED Models/lib/shed8x10.ac -97.24614 42.61068 412.07 89.06
+OBJECT_SHARED Models/lib/shed8x10.ac -97.24583 42.61078 411.90 359.58
+OBJECT_SHARED Models/lib/shed8x10.ac -97.24684 42.61057 411.82 4.4
+OBJECT_SHARED Models/lib/shed8x10.ac -97.24612 42.61038 412.03 179.42
+OBJECT_SHARED Models/lib/shed8x10.ac -97.24697 42.61026 412.08 2.25
+OBJECT_SHARED Models/lib/shed8x10.ac -97.24755 42.60996 412.22 175.41
+OBJECT_SHARED Models/lib/shed8x10.ac -97.24732 42.60990 412.44 270
+OBJECT_SHARED Models/lib/shed10x50.ac -97.24789 42.60976 412.48 44.61
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -97.24642 42.60983 412.59 73.92
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -97.24927 42.60840 412.45 48.51
+OBJECT_SHARED Models/Airport/cargoip.xml -97.24996 42.60243 418.42 43.83
+# END dsf2stg

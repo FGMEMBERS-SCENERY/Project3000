@@ -1,5 +1,32 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 14.17184 46.36033 504.91 39.7461
+OBJECT_SHARED Models/lib/prop_a.ac 14.17276 46.36035 0.00 309
+OBJECT_SHARED Models/lib/prop_a.ac 14.17190 46.36095 506.34 313
+OBJECT_SHARED Models/lib/prop_a.ac 14.17137 46.36135 506.23 161.075
+OBJECT_SHARED Models/lib/prop_a.ac 14.16984 46.36159 506.41 309
+OBJECT_SHARED Models/lib/prop_a.ac 14.17217 46.36075 505.46 132
+OBJECT_SHARED Models/lib/prop_a.ac 14.17259 46.36026 506.35 309.5
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17187 46.36144 506.04 298.301
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17180 46.36149 506.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17174 46.36155 506.85 145.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17211 46.36152 506.76 288.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17203 46.36157 507.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17179 46.36182 507.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17346 46.36143 507.19 46.98
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17343 46.36131 508.25 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17273 46.36085 508.04 349.32
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17264 46.36091 506.89 49.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17273 46.36145 506.81 49.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17265 46.36153 507.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.17332 46.36140 507.64 0
+OBJECT_SHARED Models/lib/cars4.ac 14.17122 46.36171 508.06 37
+OBJECT_SHARED Models/lib/cars6.ac 14.17159 46.36156 506.58 127
+OBJECT_SHARED Models/lib/cars4.ac 14.17338 46.36068 506.80 136
+OBJECT_SHARED Models/lib/industrial13x24.ac 14.17154 46.36149 507.25 127
+OBJECT_SHARED Models/lib/industrial13x24.ac 14.17216 46.36165 506.61 125
+OBJECT_SHARED Models/lib/shed8x10.ac 14.17326 46.36156 507.31 48
+OBJECT_SHARED Models/lib/shed8x10.ac 14.17354 46.36121 508.31 48
+OBJECT_SHARED Models/lib/MedHangar.ac 14.17293 46.36055 508.00 46
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 14.17184 46.36033 506.55 39.75
 # END dsf2stg

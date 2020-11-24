@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -78.47845 37.53696 0.00 144.7
+OBJECT_SHARED Models/lib/cars10.ac -78.47831 37.53732 193.05 323.94
+OBJECT_SHARED Models/lib/cars10.ac -78.47807 37.53699 192.84 144.81
+OBJECT_SHARED Models/lib/cars2.ac -78.47836 37.53716 192.35 144.88
+OBJECT_SHARED Models/lib/cars2.ac -78.47856 37.53717 192.96 324.46
+OBJECT_SHARED Models/lib/cars4.ac -78.47802 37.53716 193.31 324.83
+OBJECT_SHARED Models/lib/shed8x10.ac -78.47814 37.53696 192.07 323.83
+# END dsf2stg

@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -100.74330 46.76241 501.51 52.78
+OBJECT_SHARED Models/lib/trailer-fedex.ac -100.74332 46.76266 500.23 57.42
+OBJECT_SHARED Models/lib/trailer-fedex.ac -100.74293 46.76260 500.01 52.11
+OBJECT_SHARED Models/lib/trailer-fedex.ac -100.74290 46.76259 500.08 51.1
+OBJECT_SHARED Models/lib/trailer-fedex.ac -100.74287 46.76256 500.08 49.62
+OBJECT_SHARED Models/lib/trailer-fedex.ac -100.74344 46.76183 500.08 230.83
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -100.74327 46.76239 500.59 48.67
+OBJECT_SHARED Models/Airport/cargoip.xml -100.74317 46.76231 500.23 220.46
+OBJECT_SHARED Models/Airport/cargoip.xml -100.74315 46.76232 500.29 41.19
+OBJECT_SHARED Models/Airport/cargoip.xml -100.74313 46.76234 500.29 316.27
+OBJECT_SHARED Models/Airport/cargoip.xml -100.74319 46.76235 500.29 217.48
+OBJECT_SHARED Models/Airport/cargoip.xml -100.74317 46.76236 500.29 131.19
+OBJECT_SHARED Models/Airport/cargoip.xml -100.74305 46.76225 500.23 141.07
+OBJECT_SHARED Models/Airport/cargoip.xml -100.74304 46.76226 500.35 239.04
+OBJECT_SHARED Models/Airport/cargoip.xml -100.74301 46.76224 500.29 132.46
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -100.74311 46.76232 500.35 47.83
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -100.74308 46.76230 500.29 50.66
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -100.74306 46.76228 500.29 138.76
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -100.74297 46.76223 500.29 226.97
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -100.74294 46.76221 500.35 230.44
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -100.74291 46.76220 500.35 231.01
+OBJECT_SHARED Models/Airport/cargobox.xml -100.74153 46.76460 500.35 76.33
+OBJECT_SHARED Models/Airport/cargobox.xml -100.74151 46.76462 498.80 267.84
+OBJECT_SHARED Models/Airport/cargobox.xml -100.74154 46.76462 498.80 129.09
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -100.74107 46.76293 498.80 141.95
+OBJECT_SHARED Models/lib/trailer-fedex.ac -100.74037 46.76255 498.77 320.26
+OBJECT_SHARED Models/lib/trailer-fedex.ac -100.74034 46.76257 498.50 321.71
+OBJECT_SHARED Models/lib/propane-tank.ac -100.74014 46.76247 498.50 141.98
+OBJECT_SHARED Models/lib/office32x25.ac -100.74270 46.76136 501.19 320.84
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.74208 46.76231 503.67 354.81
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.74198 46.76259 499.76 115.87
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.74243 46.76282 499.56 214.51
+# END dsf2stg

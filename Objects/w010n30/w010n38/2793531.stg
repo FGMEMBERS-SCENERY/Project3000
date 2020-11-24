@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -9.02667 38.89364 0.00 0
+OBJECT_SHARED Models/lib/FireStationLg.ac -9.02835 38.88885 4.60 118.15
+OBJECT_SHARED Models/lib/office112x50.ac -9.02958 38.89084 4.02 309.33
+OBJECT_SHARED Models/lib/LgMaint.ac -9.02791 38.89163 4.91 147.32
+OBJECT_SHARED Models/lib/LgMaint.ac -9.02697 38.89283 4.61 149.42
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -9.02985 38.88727 4.56 239.47
+OBJECT_SHARED Models/lib/MedHangar.ac -9.02435 38.89428 3.90 58.12
+OBJECT_SHARED Models/lib/office32x25.ac -9.02625 38.89394 4.16 326.69
+OBJECT_SHARED Models/lib/SmHangar.ac -9.02597 38.89196 4.54 328.1
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -9.02972 38.88825 4.17 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -9.02919 38.88838 4.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -9.02931 38.88826 4.12 296.57
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -9.02948 38.88823 4.12 0
+OBJECT_SHARED Models/lib/fboModern1.ac -9.02947 38.88881 4.13 179.91
+OBJECT_SHARED Models/lib/office3x10.ac -9.02025 38.89133 4.33 57.72
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -9.02004 38.89159 1.61 61.29
+OBJECT_SHARED Models/lib/shed8x10.ac -9.02573 38.88416 1.39 313.25
+OBJECT_SHARED Models/lib/shed8x10.ac -9.02549 38.88452 2.39 313.25
+OBJECT_SHARED Models/lib/shed8x10.ac -9.02539 38.88458 2.41 313.25
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -9.02902 38.88774 2.43 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -9.02915 38.88757 3.83 0
+OBJECT_SHARED Models/lib/cars4.ac -9.02929 38.88773 3.83 237.45
+OBJECT_SHARED Models/lib/cars4.ac -9.02919 38.88784 3.90 237.45
+OBJECT_SHARED Models/lib/admin31x12.ac -9.02916 38.88768 3.91 147.99
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -9.02857 38.88906 3.87 0
+# END dsf2stg

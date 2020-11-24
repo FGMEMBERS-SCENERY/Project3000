@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.33327 44.63613 0.00 12.8476
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.33322 44.63584 2012.83 189.782
+OBJECT_SHARED Models/lib/lamp10m.xml -111.33325 44.63596 2012.76 17.0785
+OBJECT_SHARED Models/lib/garage-small-white.ac -111.33360 44.63580 2012.81 20.4151
+OBJECT_SHARED Models/lib/office6x12.ac -111.33330 44.63601 2011.44 196.463
+OBJECT_SHARED Models/lib/prop_a.ac -111.33414 44.63598 2012.81 104.902
+# END dsf2stg

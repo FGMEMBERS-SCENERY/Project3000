@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.22428 47.14569 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.22441 47.14571 1313.15 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.22457 47.14578 1313.15 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.22448 47.14595 1313.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.22433 47.14606 1313.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.22416 47.14600 1312.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.22398 47.14593 1312.96 0
+OBJECT_SHARED Models/lib/lamp10m.xml -110.22384 47.14548 1313.03 144.462
+OBJECT_SHARED Models/lib/lamp10m.xml -110.22418 47.14531 1313.28 143.531
+OBJECT_SHARED Models/lib/lamp10m.xml -110.22329 47.14572 1313.37 131.906
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -110.22404 47.14536 1312.57 233.616
+OBJECT_SHARED Models/lib/fuel-truck.xml -110.22376 47.14560 1313.33 143.531
+OBJECT_SHARED Models/lib/shed8x10.ac -110.22426 47.14530 1313.21 143.31
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -110.22411 47.14546 1313.37 53.4888
+# END dsf2stg

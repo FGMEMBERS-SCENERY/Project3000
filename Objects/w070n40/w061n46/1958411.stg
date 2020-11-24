@@ -1,8 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac -60.04676 46.16764 57.34 134.013
-OBJECT_SHARED Models/lib/MedHangar.ac -60.05139 46.16624 59.68 156.369
-OBJECT_SHARED Models/lib/MedHangar.ac -60.05043 46.16581 59.53 67.5582
-OBJECT_SHARED Models/lib/SmHangar.ac -60.05086 46.16596 59.61 64.9799
+OBJECT_SHARED Models/lib/lamp10m.xml -60.04591 46.16791 0.00 136.272
+OBJECT_SHARED Models/lib/lamp10m.xml -60.04663 46.16740 56.87 135.135
+OBJECT_SHARED Models/lib/lamp10m.xml -60.04725 46.16699 57.46 135.062
+OBJECT_SHARED Models/lib/lamp10m.xml -60.04775 46.16666 57.92 134.643
+OBJECT_SHARED Models/lib/lamp10m.xml -60.04451 46.16766 58.27 -42.9248
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -60.04700 46.16708 56.18 257.471
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -60.04640 46.16752 57.79 219.806
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -60.04782 46.16658 57.31 315.707
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -60.04685 46.16713 58.35 237.094
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -60.04763 46.16662 57.74 239.534
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -60.04445 46.16863 58.27 197.928
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -60.04438 46.16860 55.74 192.381
+OBJECT_SHARED Models/lib/container6-HD.ac -60.04468 46.16873 55.68 0
+OBJECT_SHARED Models/lib/belt_loader.ac -60.04725 46.16691 55.81 132.878
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -60.04520 46.16794 58.01 131.152
+OBJECT_SHARED Models/lib/HorizTanks2.ac -60.04498 46.16798 56.49 133.86
+OBJECT_SHARED Models/lib/MedHangar.ac -60.04615 46.16774 56.33 134.01
+OBJECT_SHARED Models/lib/MedHangar.ac -60.05067 46.16642 57.07 156.37
+OBJECT_SHARED Models/lib/MedHangar.ac -60.04971 46.16598 59.43 67.56
+OBJECT_SHARED Models/lib/SmHangar.ac -60.05015 46.16613 59.29 64.98
 # END dsf2stg

@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -102.51927 34.05453 0.00 328.15
+OBJECT_SHARED Models/lib/stack_of_cones.ac -102.51955 34.05446 1144.91 328.15
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -102.51956 34.05453 1145.51 328.15
+OBJECT_SHARED Models/Misc/6barrels.ac -102.51929 34.05443 1145.51 328.15
+OBJECT_SHARED Models/Misc/6barrels.ac -102.51929 34.05441 1144.80 328.15
+OBJECT_SHARED Models/lib/2vending-machines.ac -102.51926 34.05453 1144.80 180.35
+OBJECT_SHARED Models/lib/SmHangar.ac -102.51879 34.05461 1144.91 0
+OBJECT_SHARED Models/lib/SmHangar.ac -102.51879 34.05476 1145.03 0
+OBJECT_SHARED Models/lib/SmHangar.ac -102.51879 34.05489 1144.97 0
+OBJECT_SHARED Models/lib/coal_pile.ac -102.51961 34.05445 1144.92 90
+OBJECT_SHARED Models/lib/lamp10m.xml -102.51916 34.05495 1145.51 135.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac -102.51922 34.05443 1144.92 358.06
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -102.51919 34.05443 1144.80 16.83
+OBJECT_SHARED Models/Transport/van_silver.ac -102.51862 34.05487 1144.80 61.235
+OBJECT_SHARED Models/Transport/van_red.ac -102.51862 34.05470 1144.92 90.61
+OBJECT_SHARED Models/Transport/hatchback_green.ac -102.51862 34.05474 1145.02 90.61
+# END dsf2stg

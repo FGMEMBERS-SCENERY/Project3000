@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -91.17869 35.64078 0.00 180
+OBJECT_SHARED Models/lib/shed10x50.ac -91.17844 35.64230 70.56 134.19
+OBJECT_SHARED Models/lib/shed10x50.ac -91.17882 35.64262 70.58 133.59
+OBJECT_SHARED Models/lib/industrial13x24.ac -91.17904 35.64281 70.56 135.19
+OBJECT_SHARED Models/lib/SmHangar.ac -91.17881 35.64186 70.55 110.61
+OBJECT_SHARED Models/lib/office8x14.ac -91.17783 35.63930 70.55 90.03
+OBJECT_SHARED Models/lib/HorizTanks2.ac -91.17866 35.64095 70.56 178.89
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -91.17827 35.64236 70.56 45
+OBJECT_SHARED Models/lib/prop_a.ac -91.17774 35.64091 70.58 183.18
+OBJECT_SHARED Models/lib/prop_a.ac -91.17798 35.64129 70.58 182.2
+OBJECT_SHARED Models/lib/prop_a.ac -91.17798 35.64143 70.58 180
+OBJECT_SHARED Models/Transport/hatchback_green.ac -91.17868 35.64272 70.58 46.33
+OBJECT_SHARED Models/Transport/van_red.ac -91.17884 35.64114 70.56 358.54
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.17879 35.64114 70.55 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.17874 35.64113 70.55 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -91.17850 35.63999 70.56 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.17862 35.64090 70.56 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -91.17783 35.63937 70.56 180.69
+OBJECT_SHARED Models/lib/cars2.ac -91.17867 35.64061 70.56 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.17861 35.63891 70.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.17865 35.63899 70.54 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.17866 35.63910 70.55 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.17858 35.63914 70.54 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.17861 35.63775 70.55 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.17994 35.64300 70.53 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.18007 35.64306 70.50 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.17907 35.64146 70.48 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.17903 35.64158 70.54 0
+# END dsf2stg

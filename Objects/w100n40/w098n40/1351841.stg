@@ -1,0 +1,51 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -97.58219 40.59351 0.00 47.2992
+OBJECT_SHARED Models/lib/cars4.ac -97.58174 40.59408 498.48 43.4525
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.56712 40.59409 498.55 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.56640 40.59692 497.31 0
+OBJECT_SHARED Models/lib/cars2.ac -97.56752 40.59825 497.36 0
+OBJECT_SHARED Models/lib/shed10x50.ac -97.57886 40.59624 497.39 45.0007
+OBJECT_SHARED Models/lib/lamp10m.xml -97.56692 40.59522 498.52 1.31
+OBJECT_SHARED Models/lib/lamp10m.xml -97.56692 40.59552 497.36 1.31
+OBJECT_SHARED Models/lib/lamp10m.xml -97.56633 40.60050 497.37 90.62
+OBJECT_SHARED Models/lib/lamp10m.xml -97.56681 40.60050 497.07 90.62
+OBJECT_SHARED Models/lib/lamp10m.xml -97.56819 40.59568 497.07 -0.059998
+OBJECT_SHARED Models/lib/lamp10m.xml -97.56818 40.59589 497.54 -0.059998
+OBJECT_SHARED Models/lib/lamp10m.xml -97.56836 40.59258 497.54 -0.059998
+OBJECT_SHARED Models/lib/lamp10m.xml -97.56836 40.59282 497.40 -0.059998
+OBJECT_SHARED Models/lib/industrial13x24.ac -97.56614 40.59707 497.42 179.48
+OBJECT_SHARED Models/lib/lamp10m.xml -97.56690 40.59828 497.34 -0.293976
+OBJECT_SHARED Models/lib/lamp10m.xml -97.56690 40.59781 497.35 -0.043976
+OBJECT_SHARED Models/lib/shed8x10.ac -97.58187 40.59394 497.38 44.7315
+OBJECT_SHARED Models/lib/shed8x10.ac -97.58233 40.59342 498.52 45.5167
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.56670 40.59061 403.46 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.56671 40.59072 401.81 0
+OBJECT_SHARED Models/lib/coal_pile.ac -97.57666 40.60027 496.82 131.677
+OBJECT_SHARED Models/lib/coal_pile.ac -97.57639 40.60047 497.36 132.203
+OBJECT_SHARED Models/lib/coal_pile.ac -97.57610 40.60066 497.27 133.278
+OBJECT_SHARED Models/lib/coal_pile.ac -97.57426 40.59967 497.19 133.788
+OBJECT_SHARED Models/lib/coal_pile.ac -97.57339 40.60031 497.49 135.516
+OBJECT_SHARED Models/lib/coal_pile.ac -97.57324 40.60041 497.25 138.367
+OBJECT_SHARED Models/lib/coal_pile.ac -97.57257 40.60094 497.21 135.507
+OBJECT_SHARED Models/lib/coal_pile.ac -97.57246 40.60103 497.02 139.351
+OBJECT_SHARED Models/Transport/hatchback_green.ac -97.58010 40.59560 496.98 226.237
+OBJECT_SHARED Models/Transport/hatchback_red.ac -97.57974 40.59588 498.58 225.775
+OBJECT_SHARED Models/lib/prop_a.ac -97.56841 40.59576 498.56 270
+OBJECT_SHARED Models/lib/prop_a.ac -97.56864 40.59269 497.57 90
+OBJECT_SHARED Models/lib/cars2.ac -97.57949 40.59583 497.44 139.635
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56673 40.59866 498.57 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56696 40.59859 497.29 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56707 40.59868 497.32 203.962
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56692 40.59689 497.31 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56706 40.59691 497.40 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56627 40.59723 497.42 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56636 40.59723 497.35 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56697 40.59722 497.36 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56664 40.59621 497.41 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56685 40.59609 497.36 288.436
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56624 40.59555 497.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56624 40.59537 497.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.56625 40.59516 497.28 0
+# END dsf2stg

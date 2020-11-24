@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -109.39579 40.92166 0.00 0
+OBJECT_SHARED Models/lib/coal_pile.ac -109.39461 40.92169 1994.80 1.41
+OBJECT_SHARED Models/Misc/6barrels.ac -109.39491 40.92154 1994.62 326.31
+OBJECT_SHARED Models/Misc/6barrels.ac -109.39489 40.92156 1994.97 45
+OBJECT_SHARED Models/Misc/6barrels.ac -109.39487 40.92152 1994.79 284.04
+OBJECT_SHARED Models/lib/SmHangar.ac -109.39511 40.92150 1994.97 91.83
+OBJECT_SHARED Models/lib/coal_pile.ac -109.39429 40.92143 1994.97 152.78
+OBJECT_SHARED Models/lib/coal_pile.ac -109.39486 40.92115 1994.90 344.25
+OBJECT_SHARED Models/lib/coal_pile.ac -109.39489 40.92162 1995.48 90
+OBJECT_SHARED Models/lib/coal_pile.ac -109.39487 40.92168 1994.79 10.12
+# END dsf2stg

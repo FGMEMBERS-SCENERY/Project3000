@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -77.64009 36.32736 0.00 265.66
+OBJECT_SHARED Models/lib/lamp10m.xml -77.64005 36.32761 41.19 262.57
+OBJECT_SHARED Models/lib/lamp10m.xml -77.63998 36.32789 41.33 260.33
+OBJECT_SHARED Models/lib/lamp10m.xml -77.63809 36.32905 41.54 170.48
+OBJECT_SHARED Models/lib/lamp10m.xml -77.63763 36.32737 42.53 -65.71
+OBJECT_SHARED Models/lib/lamp10m.xml -77.63941 36.32787 41.34 78.07
+OBJECT_SHARED Models/lib/lamp10m.xml -77.63841 36.32798 41.59 169.93
+OBJECT_SHARED Models/lib/lamp10m.xml -77.63823 36.32869 41.74 173.04
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.63780 36.32738 42.24 264.03
+OBJECT_SHARED Models/lib/LongRow.ac -77.63840 36.32680 41.29 171.33
+OBJECT_SHARED Models/lib/admin-with-cars.ac -77.63874 36.32838 40.90 171.33
+# END dsf2stg

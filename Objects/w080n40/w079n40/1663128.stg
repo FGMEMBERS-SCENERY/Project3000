@@ -1,12 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.77518 40.45915 636.45 122.05
-OBJECT_SHARED Models/lib/SmHangar.ac -78.77588 40.45889 635.49 305.14
-OBJECT_SHARED Models/lib/SmHangar.ac -78.77557 40.45873 635.96 213.37
-OBJECT_SHARED Models/lib/shed10x50.ac -78.77428 40.45987 637.04 32.64
-OBJECT_SHARED Models/lib/HorizTanks2.ac -78.77466 40.45888 637.25 70.82
-OBJECT_SHARED Models/lib/garage-small-white.ac -78.77572 40.45860 635.81 123.03
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -78.77501 40.45897 636.77 211.57
-OBJECT_SHARED Models/Transport/hatchback_green.ac -78.77544 40.45884 636.25 32
+OBJECT_SHARED Models/lib/NoParkStripes.xml -78.77506 40.45895 0.00 213.87
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.77502 40.45894 636.91 302.77
+OBJECT_SHARED Models/lib/office40x25.ac -78.77621 40.45808 637.09 33.89
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -78.77476 40.45914 635.25 302.9
+OBJECT_SHARED Models/lib/industrial13x24.ac -78.77558 40.45873 637.28 210.2
 # END dsf2stg

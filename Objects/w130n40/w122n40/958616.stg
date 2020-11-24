@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -121.88950 40.44675 0.00 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -121.88955 40.44675 599.21 176.82
+OBJECT_SHARED Models/lib/garage-small-white.ac -121.88903 40.44691 599.21 183.59
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -121.88987 40.44593 601.86 187.43
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -121.88957 40.44576 600.71 351.09
+OBJECT_SHARED Models/Transport/hatchback_green.ac -121.88977 40.44573 600.47 92.86
+OBJECT_SHARED Models/lib/farm19x12.ac -121.88985 40.44580 595.09 183.29
+OBJECT_SHARED Models/lib/propane-tank.ac -121.88961 40.44664 600.47 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -121.87738 40.44768 598.84 81.7
+OBJECT_SHARED Models/Airport/cargoip.xml -121.87745 40.44754 617.89 310.1
+OBJECT_SHARED Models/Airport/cargoip.xml -121.87748 40.44754 617.25 355.76
+OBJECT_SHARED Models/Airport/cargobox.xml -121.87750 40.44756 617.25 276.12
+OBJECT_SHARED Models/Misc/6barrels.ac -121.87751 40.44761 617.57 132.95
+OBJECT_SHARED Models/lib/stack_of_cones.ac -121.87746 40.44752 617.59 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -121.87676 40.44778 617.25 291.8
+OBJECT_SHARED Models/lib/cone.ac -121.87739 40.44759 618.21 0
+OBJECT_SHARED Models/lib/cone.ac -121.87739 40.44755 617.57 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -121.87747 40.44763 617.25 179.43
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -121.87738 40.44771 617.57 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -121.87737 40.44771 617.89 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -121.87740 40.44756 617.89 272.65
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -121.87685 40.44782 617.57 104.04
+OBJECT_SHARED Models/lib/dGreenhse.ac -121.88253 40.44952 618.21 86.37
+OBJECT_SHARED Models/lib/dGreenhse.ac -121.88239 40.44943 619.21 1.64
+OBJECT_SHARED Models/lib/dGreenhse.ac -121.88082 40.44906 619.32 187.67
+OBJECT_SHARED Models/lib/dGreenhse.ac -121.88096 40.44915 618.95 56.69
+OBJECT_SHARED Models/Transport/van_silver.ac -121.87948 40.44939 618.95 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -121.87958 40.44948 621.11 173.29
+OBJECT_SHARED Models/Transport/van_silver.ac -121.88086 40.44920 620.42 287.1
+OBJECT_SHARED Models/Transport/hatchback_black.ac -121.88078 40.44932 619.19 168.11
+OBJECT_SHARED Models/Transport/van_red.ac -121.88266 40.44954 619.43 169.22
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -121.88008 40.44940 619.21 180
+OBJECT_SHARED Models/lib/dGreenhse.ac -121.88004 40.44916 620.17 90.82
+OBJECT_SHARED Models/lib/garage-small-white.ac -121.87975 40.44911 619.67 87.95
+OBJECT_SHARED Models/lib/garden-shed.ac -121.88022 40.44957 619.42 0
+OBJECT_SHARED Models/lib/garden-shed.ac -121.87990 40.44945 620.68 178.36
+OBJECT_SHARED Models/lib/garden-shed.ac -121.87994 40.44945 620.17 178.36
+OBJECT_SHARED Models/lib/office3x10.ac -121.87947 40.44931 620.17 0
+OBJECT_SHARED Models/lib/garden-shed.ac -121.87930 40.44945 620.80 90.97
+OBJECT_SHARED Models/lib/garden-shed.ac -121.87930 40.44948 621.42 90.97
+OBJECT_SHARED Models/lib/propane-tank.ac -121.87897 40.44939 621.42 272.6
+# END dsf2stg

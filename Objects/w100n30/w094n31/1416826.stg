@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30779 31.99686 0.50 322.91
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30788 31.99693 52.73 305.48
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30792 31.99702 52.69 270.45
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30788 31.99712 52.68 230.5
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30779 31.99717 52.68 195.69
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30743 31.98338 52.72 16.72
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30734 31.98344 51.34 49.57
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30731 31.98354 51.28 88.99
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30735 31.98363 51.30 127.14
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30744 31.98369 51.33 138.09
+OBJECT_SHARED Models/lib/prop_a.ac -93.30880 31.98350 50.92 88.69
+OBJECT_SHARED Models/lib/prop_a.ac -93.30870 31.98327 51.83 90
+OBJECT_SHARED Models/lib/prop_a.ac -93.30848 31.98350 51.71 180.35
+OBJECT_SHARED Models/lib/prop_a.ac -93.30848 31.98363 51.62 181.1
+OBJECT_SHARED Models/lib/SmHangar.ac -93.30889 31.98328 51.65 180.82
+OBJECT_SHARED Models/lib/SmHangar.ac -93.30890 31.98364 51.84 180.81
+OBJECT_SHARED Models/lib/SmHangar.ac -93.30890 31.98378 51.92 180.87
+OBJECT_SHARED Models/lib/SmHangar.ac -93.30891 31.98393 51.97 180.78
+OBJECT_SHARED Models/lib/SmHangar.ac -93.30880 31.98401 51.99 89.62
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30776 31.98413 52.45 269.51
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30780 31.98408 51.79 222.94
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30787 31.98404 51.79 179.51
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30776 31.98377 51.83 269.63
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30780 31.98383 51.72 311.72
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.30786 31.98385 51.72 331.42
+# END dsf2stg

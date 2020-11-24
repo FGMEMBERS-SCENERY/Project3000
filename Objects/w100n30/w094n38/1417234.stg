@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.34233 38.34755 284.05 0
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -93.34291 38.34727 284.06 178.11
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.34372 38.34767 284.38 87.25
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.34233 38.34755 0.00 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -93.34291 38.34727 284.05 178.11
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.34372 38.34767 284.06 87.25
 # END dsf2stg

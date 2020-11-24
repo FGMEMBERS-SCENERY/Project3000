@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.77349 34.94226 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.77361 34.94226 74.98 0
+OBJECT_SHARED Models/lib/office4x14.ac -90.77376 34.94425 74.94 179.533
+OBJECT_SHARED Models/lib/office4x14.ac -90.77368 34.94425 75.06 0
+OBJECT_SHARED Models/lib/office3x10.ac -90.77355 34.94427 75.10 0
+OBJECT_SHARED Models/lib/office3x10.ac -90.77349 34.94427 75.19 0
+OBJECT_SHARED Models/lib/cone.ac -90.77362 34.94352 75.19 57.6375
+OBJECT_SHARED Models/lib/stack_of_cones.ac -90.77352 34.94340 75.07 57.6375
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -90.77361 34.94354 75.10 359.487
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -90.77361 34.94340 75.07 57.6375
+OBJECT_SHARED Models/Misc/6barrels.ac -90.77349 34.94352 75.06 57.6375
+OBJECT_SHARED Models/Misc/6barrels.ac -90.77347 34.94351 75.11 57.6375
+OBJECT_SHARED Models/lib/2vending-machines.ac -90.77361 34.94353 75.11 269.838
+OBJECT_SHARED Models/lib/SmHangar.ac -90.77363 34.94254 75.07 0
+OBJECT_SHARED Models/lib/SmHangar.ac -90.77364 34.94271 74.96 0
+OBJECT_SHARED Models/lib/SmHangar.ac -90.77364 34.94288 74.98 0
+OBJECT_SHARED Models/lib/SmHangar.ac -90.77364 34.94305 75.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac -90.77364 34.94321 75.01 0
+OBJECT_SHARED Models/Transport/van_silver.ac -90.77382 34.94440 75.03 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -90.77382 34.94446 75.08 0
+OBJECT_SHARED Models/Transport/van_silver.ac -90.77355 34.94484 75.09 0
+OBJECT_SHARED Models/lib/cars2.ac -90.77389 34.94217 75.25 90
+OBJECT_SHARED Models/lib/prop_a.ac -90.77442 34.94165 74.81 0.584641
+OBJECT_SHARED Models/lib/prop_a.ac -90.77410 34.94268 74.66 179.405
+# END dsf2stg

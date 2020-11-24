@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars2.ac -99.40484 37.91092 0.00 270
+OBJECT_SHARED Models/lib/cars4.ac -99.40482 37.91073 661.00 270
+OBJECT_SHARED Models/lib/propane-tank.ac -99.40482 37.91109 661.00 272.49
+OBJECT_SHARED Models/lib/HorizTanks2.ac -99.40400 37.91079 661.00 90
+OBJECT_SHARED Models/lib/SmHangar.ac -99.40474 37.91239 661.00 90
+OBJECT_SHARED Models/lib/SmHangar.ac -99.40462 37.91259 660.44 180
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -99.40467 37.91207 660.27 0
+# END dsf2stg

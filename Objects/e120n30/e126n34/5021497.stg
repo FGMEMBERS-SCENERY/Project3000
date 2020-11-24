@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 126.38708 34.99738 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 126.38708 34.99653 14.23 0
+OBJECT_SHARED Models/lib/lamp10m.xml 126.38707 34.99600 13.71 0
+OBJECT_SHARED Models/lib/lamp10m.xml 126.38707 34.99546 13.41 0
+OBJECT_SHARED Models/lib/lamp10m.xml 126.38709 34.99481 13.10 0
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 126.38728 34.99293 12.65 180
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 126.38728 34.99358 11.33 180
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 126.38727 34.99423 11.82 180
+OBJECT_SHARED Models/lib/jetway_e16m.ac 126.38708 34.99293 12.24 1.28
+OBJECT_SHARED Models/lib/jetway_e16m.ac 126.38707 34.99358 11.33 1.28
+OBJECT_SHARED Models/lib/jetway_e16m.ac 126.38706 34.99423 11.82 1.28
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 126.38701 34.99267 12.24 89.55
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 126.38701 34.99333 11.19 89.55
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 126.38696 34.99458 11.61 89.55
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 126.38700 34.99399 12.51 89.55
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 126.38753 34.99104 12.11 0
+OBJECT_SHARED Models/lib/lamp10m.xml 126.38706 34.99280 8.80 0
+OBJECT_SHARED Models/lib/lamp10m.xml 126.38706 34.99345 11.26 0
+OBJECT_SHARED Models/lib/lamp10m.xml 126.38707 34.99409 11.75 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 126.38786 34.98883 12.17 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac 126.38833 34.98888 7.15 90
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 126.38762 34.98900 -87.78 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 126.38762 34.98912 -87.70 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 126.38762 34.98925 -87.63 0
+# END dsf2stg

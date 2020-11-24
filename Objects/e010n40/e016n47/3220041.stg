@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.31415 47.14902 0.00 306
+OBJECT_SHARED Models/lib/prop_a.ac 16.31377 47.14975 287.62 213
+OBJECT_SHARED Models/lib/prop_a.ac 16.31453 47.14856 287.80 32.0053
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31516 47.14757 287.63 350.54
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31508 47.14764 287.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31499 47.14772 288.00 161.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31494 47.14780 287.96 31.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31440 47.14838 287.93 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31449 47.14830 287.71 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31436 47.14845 287.74 12.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31430 47.14853 287.71 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31885 47.14680 287.69 219.81
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31874 47.14675 286.76 219.81
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31259 47.14991 286.82 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31270 47.14999 287.62 222.14
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31285 47.15007 287.70 190.78
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31322 47.15013 287.78 71.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31337 47.15020 287.92 327.72
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31317 47.15025 288.00 226.98
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.31410 47.14904 288.00 0
+OBJECT_SHARED Models/lib/shed8x10.ac 16.31918 47.14735 287.63 304.5
+OBJECT_SHARED Models/Misc/6barrels.ac 16.31878 47.14705 286.51 28.01
+OBJECT_SHARED Models/lib/cone.ac 16.31429 47.14867 286.74 345.5
+OBJECT_SHARED Models/lib/cone.ac 16.31432 47.14869 287.64 345.5
+OBJECT_SHARED Models/lib/cone.ac 16.31436 47.14871 287.64 345.5
+OBJECT_SHARED Models/lib/shed8x10.ac 16.31399 47.14913 287.63 124.5
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 16.31361 47.14979 287.64 214.99
+OBJECT_SHARED Models/lib/SmHangar.ac 16.31351 47.14978 287.83 214.5
+OBJECT_SHARED Models/lib/industrial13x24.ac 16.31552 47.14735 287.82 122.5
+# END dsf2stg

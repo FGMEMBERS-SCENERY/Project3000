@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -123.46648 40.62374 0.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -123.46651 40.62379 387.87 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -123.46656 40.62377 385.41 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -123.46653 40.62372 385.41 0
+OBJECT_SHARED Models/lib/prop_a.ac -123.46825 40.62423 390.37 204.95
+OBJECT_SHARED Models/lib/prop_a.ac -123.46815 40.62368 383.95 27.44
+OBJECT_SHARED Models/lib/SmHangar.ac -123.46598 40.62325 384.01 28.13
+OBJECT_SHARED Models/Transport/hatchback_red.ac -123.46598 40.62335 388.08 115.13
+# END dsf2stg

@@ -1,9 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 6.24439 48.59235 288.70 29.7446
-OBJECT_SHARED Models/Aircraft/Cessna172.xml 6.24501 48.59254 288.36 211.139
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 6.24424 48.59215 288.82 28.61
-OBJECT_SHARED Models/lib/fboModern1.ac 6.24483 48.59247 288.38 298.13
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 6.24294 48.59196 288.48 298.65
+OBJECT_SHARED Models/lib/hangar81x16.ac 6.08557 48.59551 0.00 196.5
+OBJECT_SHARED Models/lib/hangar81x16.ac 6.08401 48.59536 402.50 16.5
+OBJECT_SHARED Models/lib/cars10.ac 6.05820 48.60221 398.56 298.51
+OBJECT_SHARED Models/lib/cars10.ac 6.05890 48.60282 388.13 207.69
+OBJECT_SHARED Models/lib/cars10.ac 6.05825 48.60189 386.75 118.96
+OBJECT_SHARED Models/lib/cars2.ac 6.05809 48.60239 388.53 117.15
+OBJECT_SHARED Models/lib/cars6.ac 6.05247 48.60192 387.99 224.563
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 6.06048 48.60334 396.08 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 6.06082 48.60335 386.94 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 6.06122 48.60334 387.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 6.06176 48.60336 387.07 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 6.06017 48.60326 387.35 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 6.05904 48.60292 386.89 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 6.05913 48.60348 386.76 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 6.05913 48.60348 386.76 0
 # END dsf2stg

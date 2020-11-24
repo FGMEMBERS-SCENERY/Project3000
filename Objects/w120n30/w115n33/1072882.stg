@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -114.46063 33.76641 0.00 270
+OBJECT_SHARED Models/Transport/hatchback_red.ac -114.46053 33.76671 89.01 176.99
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -114.46068 33.76670 89.02 17.1
+OBJECT_SHARED Models/Airport/cargobox.xml -114.46003 33.76533 89.02 130.24
+OBJECT_SHARED Models/Airport/cargobox.xml -114.46000 33.76536 89.02 0
+OBJECT_SHARED Models/Airport/cargobox.xml -114.46006 33.76538 89.03 188.13
+OBJECT_SHARED Models/Airport/cargobox.xml -114.46004 33.76538 89.03 73.3
+OBJECT_SHARED Models/Airport/cargobox.xml -114.46002 33.76540 89.03 180
+OBJECT_SHARED Models/Airport/cargobox.xml -114.46001 33.76542 89.03 333.44
+OBJECT_SHARED Models/Airport/cargobox.xml -114.46002 33.76542 89.03 350.54
+OBJECT_SHARED Models/Airport/cargobox.xml -114.46005 33.76540 89.03 0
+OBJECT_SHARED Models/Airport/cargobox.xml -114.46004 33.76542 89.03 350.54
+OBJECT_SHARED Models/Airport/cargobox.xml -114.46007 33.76542 89.03 261.87
+OBJECT_SHARED Models/lib/shed8x10.ac -114.46113 33.76649 89.03 270
+OBJECT_SHARED Models/Transport/Norberttruck.xml -114.46018 33.76515 89.02 91.19
+OBJECT_SHARED Models/lib/trailer-fedex.ac -114.46066 33.76592 89.00 180.27
+OBJECT_SHARED Models/lib/trailer-fedex.ac -114.46064 33.76589 88.97 180
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -114.46024 33.76638 88.97 270
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -114.46076 33.76649 89.10 180.29
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -114.45923 33.76643 89.02 273.58
+OBJECT_SHARED Models/lib/watertank3x1.ac -114.45944 33.76637 89.62 89.48
+OBJECT_SHARED Models/lib/watertank3x1.ac -114.45944 33.76635 89.62 89.52
+OBJECT_SHARED Models/lib/office3x10.ac -114.45927 33.76664 89.62 90.56
+OBJECT_SHARED Models/lib/office8x14.ac -114.45938 33.76671 89.72 89.7
+# END dsf2stg

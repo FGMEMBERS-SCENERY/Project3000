@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fuel-truck.xml 25.36943 37.08092 3.52 178.83
-OBJECT_SHARED Models/Transport/van_silver.ac 25.36986 37.08071 3.69 180
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 25.37011 37.08120 3.70 263.66
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac 25.36953 37.08123 3.52 270
-OBJECT_SHARED Models/Transport/hatchback_black.ac 25.37008 37.08071 3.69 188.97
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 25.36946 37.08108 3.53 129.29
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 25.36979 37.08125 3.62 180
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 25.36987 37.08095 3.68 186.58
-OBJECT_SHARED Models/Transport/hatchback_green.ac 25.36982 37.08070 3.69 180
-OBJECT_SHARED Models/lib/lamp10m.xml 25.36947 37.08096 3.55 0
-OBJECT_SHARED Models/lib/lamp10m.xml 25.36947 37.08138 3.48 2.12
-OBJECT_SHARED Models/lib/deciduous-tree.xml 25.36973 37.08146 3.55 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 25.36973 37.08111 3.61 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 25.36974 37.08121 3.60 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 25.36974 37.08135 3.56 0
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 25.36933 37.08144 3.37 358.76
+OBJECT_SHARED Models/lib/fuel-truck.xml 25.36943 37.08092 0.00 178.83
+OBJECT_SHARED Models/Transport/hatchback_green.ac 25.36986 37.08071 3.52 180
+OBJECT_SHARED Models/Transport/hatchback_green.ac 25.37011 37.08120 3.69 263.66
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 25.36953 37.08123 3.70 270
+OBJECT_SHARED Models/Transport/van_red.ac 25.37008 37.08071 3.51 188.97
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 25.36946 37.08108 3.69 129.29
+OBJECT_SHARED Models/Transport/van_silver.ac 25.36979 37.08125 3.53 180
+OBJECT_SHARED Models/Transport/van_red.ac 25.36987 37.08095 3.62 186.58
+OBJECT_SHARED Models/Transport/hatchback_red.ac 25.36982 37.08070 3.68 180
+OBJECT_SHARED Models/lib/lamp10m.xml 25.36947 37.08096 3.68 0
+OBJECT_SHARED Models/lib/lamp10m.xml 25.36947 37.08138 3.54 2.12
+OBJECT_SHARED Models/lib/deciduous-tree.xml 25.36973 37.08146 3.48 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 25.36973 37.08111 3.55 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 25.36974 37.08121 3.61 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 25.36974 37.08135 3.60 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 25.36933 37.08144 3.56 358.76
 # END dsf2stg

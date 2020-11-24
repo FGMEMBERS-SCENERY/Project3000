@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -84.12907 44.67576 0.00 91.7509
+OBJECT_SHARED Models/Transport/hatchback_black.ac -84.12934 44.67600 312.97 61.5466
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -84.12938 44.67587 312.99 89.1118
+OBJECT_SHARED Models/Transport/van_red.ac -84.12961 44.67574 313.01 180.3
+OBJECT_SHARED Models/Transport/hatchback_red.ac -84.12964 44.67574 313.07 180.339
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -84.12791 44.67580 313.07 180.95
+OBJECT_SHARED Models/lib/propane-tank.ac -84.12796 44.67580 312.82 0.451141
+OBJECT_SHARED Models/lib/2_spaces_dual.ac -84.12976 44.67571 312.82 0.23774
+OBJECT_SHARED Models/lib/6space_wStop.ac -84.12974 44.67552 313.10 270
+OBJECT_SHARED Models/lib/6space_wStop.ac -84.12952 44.67552 313.11 270
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -84.12956 44.67571 313.07 89.7813
+OBJECT_SHARED Models/lib/cars6.ac -84.12849 44.67563 313.07 89.7894
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.12677 44.67388 312.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.12709 44.67387 313.07 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.12781 44.67757 313.07 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.12773 44.67714 313.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.12802 44.67724 313.12 224.999
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.12801 44.67699 313.13 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.12848 44.67625 313.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.12950 44.67592 312.91 225
+OBJECT_SHARED Models/lib/transformer3x3.ac -84.12838 44.67583 313.03 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -84.12783 44.67564 312.85 180.737
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -84.12910 44.67606 312.78 180.23
+OBJECT_SHARED Models/lib/LongRow.ac -84.12795 44.67649 312.94 271.259
+OBJECT_SHARED Models/lib/SmHangar.ac -84.12912 44.67564 312.99 179.747
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.12785 44.67499 313.49 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.12785 44.67507 313.20 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.12766 44.67516 313.21 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.12787 44.67516 313.20 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.12788 44.67526 313.22 180
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.12766 44.67526 313.23 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.12757 44.67495 313.22 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.12764 44.67500 313.17 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.12766 44.67506 313.17 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11673 44.67534 313.19 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11672 44.67525 313.25 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11657 44.67543 313.36 180
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11641 44.67543 313.07 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11626 44.67543 312.96 180
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11626 44.67531 312.90 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11625 44.67518 313.03 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11626 44.67509 313.15 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11656 44.67507 313.27 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11649 44.67511 313.43 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11647 44.67518 313.38 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11649 44.67523 313.27 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11656 44.67525 313.27 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -84.11672 44.67543 313.20 0
+# END dsf2stg

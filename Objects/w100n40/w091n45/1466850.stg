@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.27910 45.53897 475.51 88.29
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.27908 45.53919 475.43 91.75
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -90.27940 45.53896 475.35 90.8
-OBJECT_SHARED Models/lib/cone.ac -90.27920 45.53938 475.29 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.27910 45.53897 0.00 88.29
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.27908 45.53919 475.51 91.75
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -90.27940 45.53896 475.43 90.8
+OBJECT_SHARED Models/lib/cone.ac -90.27920 45.53938 475.35 0
 OBJECT_SHARED Models/lib/cone.ac -90.27921 45.53938 475.29 0
 OBJECT_SHARED Models/lib/cone.ac -90.27924 45.53938 475.29 0
-OBJECT_SHARED Models/lib/cone.ac -90.27926 45.53938 475.25 0
+OBJECT_SHARED Models/lib/cone.ac -90.27926 45.53938 475.29 0
 OBJECT_SHARED Models/lib/cone.ac -90.27930 45.53938 475.25 0
-OBJECT_SHARED Models/Aircraft/Cessna172.ac -90.27939 45.53914 475.32 88.78
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -90.27939 45.53914 475.25 88.78
 # END dsf2stg

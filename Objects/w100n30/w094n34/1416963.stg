@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office6x12.ac -93.06340 34.10361 0.00 137.15
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.06216 34.10512 53.70 316.81
+OBJECT_SHARED Models/lib/shed10x50.ac -93.06111 34.10583 53.86 48.76
+OBJECT_SHARED Models/lib/shed10x50.ac -93.06068 34.10624 53.87 48.76
+OBJECT_SHARED Models/lib/shed10x50.ac -93.06011 34.10674 53.89 48.76
+OBJECT_SHARED Models/lib/shed8x10.ac -93.05969 34.10719 53.92 139.69
+OBJECT_SHARED Models/lib/shed8x10.ac -93.05957 34.10731 54.15 139.69
+OBJECT_SHARED Models/lib/shed8x10.ac -93.05944 34.10744 54.35 139.69
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.06423 34.10330 55.02 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.06428 34.10328 53.82 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.06432 34.10332 53.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.06426 34.10335 53.76 0
+OBJECT_SHARED Models/lib/lamp10m.xml -93.06337 34.10372 53.76 136.6
+OBJECT_SHARED Models/lib/lamp10m.xml -93.06346 34.10378 53.74 139.15
+OBJECT_SHARED Models/lib/lamp10m.xml -93.06354 34.10384 53.81 136.59
+OBJECT_SHARED Models/lib/lamp10m.xml -93.06133 34.10570 53.81 -44.12
+OBJECT_SHARED Models/lib/lamp10m.xml -93.06123 34.10580 53.90 -44.12
+OBJECT_SHARED Models/lib/lamp10m.xml -93.06113 34.10588 53.89 -44.12
+OBJECT_SHARED Models/lib/lamp10m.xml -93.06106 34.10596 53.89 -44.12
+OBJECT_SHARED Models/lib/lamp10m.xml -93.06099 34.10602 53.92 -44.12
+# END dsf2stg

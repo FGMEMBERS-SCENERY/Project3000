@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.07636 47.77965 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.07658 47.77971 939.54 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -109.07811 47.77965 942.75 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -109.07812 47.77961 943.88 78.3105
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.07708 47.77895 942.63 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.07647 47.77991 941.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.07637 47.77950 940.03 3.81412
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.07615 47.77952 939.33 321.633
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.07624 47.77948 939.33 349.114
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.07669 47.77885 939.33 171.119
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.07631 47.77898 941.43 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.07642 47.77898 938.37 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -109.07617 47.77900 938.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -109.07643 47.77889 938.37 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -109.07615 47.77887 938.20 0
+# END dsf2stg

@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -75.23484 41.37989 0.00 265
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23274 41.37961 439.55 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23270 41.37947 446.08 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23264 41.37958 446.17 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23282 41.37952 443.13 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23311 41.37971 446.44 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23305 41.37955 442.31 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23306 41.37965 446.05 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23315 41.37960 442.31 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23342 41.37976 445.97 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23322 41.37966 440.08 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23343 41.37964 445.64 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23327 41.37960 445.80 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23363 41.37974 445.88 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23364 41.37957 445.27 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23354 41.37962 445.64 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23375 41.37971 445.72 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23382 41.37952 444.76 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23388 41.37963 445.50 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23381 41.37967 444.87 140
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.23375 41.37957 444.76 140
+OBJECT_SHARED Models/lib/LongRow.ac -75.23558 41.38000 445.38 191
+OBJECT_SHARED Models/lib/industrial13x24.ac -75.23613 41.37968 438.56 190
+OBJECT_SHARED Models/lib/lamp10m.xml -75.23426 41.37990 438.14 258
+OBJECT_SHARED Models/lib/propane-tank.ac -75.23498 41.37991 442.99 90
+OBJECT_SHARED Models/lib/coal_pile.ac -75.23487 41.38019 439.40 340
+OBJECT_SHARED Models/lib/coal_pile.ac -75.23494 41.38016 438.98 340
+OBJECT_SHARED Models/lib/coal_pile.ac -75.23500 41.38014 438.98 340
+OBJECT_SHARED Models/lib/container6-HD.ac -75.23575 41.38017 439.08 10
+OBJECT_SHARED Models/lib/container6-HD.ac -75.23336 41.38086 438.03 305
+OBJECT_SHARED Models/lib/container6-HD.ac -75.23332 41.38081 438.20 305
+OBJECT_SHARED Models/lib/container6-HD.ac -75.23328 41.38076 438.84 305
+OBJECT_SHARED Models/lib/container6-HD.ac -75.23409 41.37994 438.84 80
+OBJECT_SHARED Models/lib/shed8x10.ac -75.23640 41.38008 440.82 245
+OBJECT_SHARED Models/Transport/van_silver.ac -75.23370 41.37986 437.22 75
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.23390 41.37993 439.91 346
+OBJECT_SHARED Models/Transport/van_red.ac -75.23387 41.37992 439.89 346
+OBJECT_SHARED Models/Transport/hatchback_red.ac -75.23393 41.37994 439.89 346
+# END dsf2stg

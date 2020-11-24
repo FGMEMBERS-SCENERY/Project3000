@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -96.51369 31.63875 0.00 352.18
+OBJECT_SHARED Models/lib/SmHangar.ac -96.51313 31.64085 161.67 79.79
+OBJECT_SHARED Models/lib/SmHangar.ac -96.51301 31.64084 161.91 79.79
+OBJECT_SHARED Models/lib/SmHangar.ac -96.51289 31.64082 161.77 79.79
+OBJECT_SHARED Models/lib/SmHangar.ac -96.51277 31.64080 161.66 79.79
+OBJECT_SHARED Models/lib/SmHangar.ac -96.51266 31.64078 161.55 79.99
+OBJECT_SHARED Models/lib/industrial13x24.ac -96.51334 31.63890 161.43 350.99
+OBJECT_SHARED Models/lib/prop_a.ac -96.51280 31.64035 161.37 259.38
+OBJECT_SHARED Models/lib/prop_a.ac -96.51296 31.64060 161.38 85.91
+OBJECT_SHARED Models/lib/prop_a.ac -96.51309 31.64061 161.72 81.87
+OBJECT_SHARED Models/lib/prop_a.ac -96.51323 31.64063 161.83 83.66
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.51302 31.63874 161.93 74.68
+OBJECT_SHARED Models/lib/prop_a.ac -96.51311 31.63941 160.97 261.579
+OBJECT_SHARED Models/lib/prop_a.ac -96.51301 31.63912 161.37 80.86
+OBJECT_SHARED Models/lib/cars6.ac -96.51246 31.63988 161.15 78.19
+OBJECT_SHARED Models/lib/cars10.ac -96.51255 31.63956 160.91 77.47
+OBJECT_SHARED Models/Transport/van_silver.ac -96.51268 31.64005 160.82 83.09
+OBJECT_SHARED Models/Transport/van_silver.ac -96.51269 31.64000 161.16 83.29
+OBJECT_SHARED Models/Transport/van_red.ac -96.51269 31.63997 161.16 82.61
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.51271 31.63995 161.16 259
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.51271 31.63986 161.16 263.85
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.51272 31.63979 161.13 76.24
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.51272 31.63976 161.10 258.85
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -96.51247 31.64044 161.10 180
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -96.51197 31.64035 161.10 120.96
+OBJECT_SHARED Models/lib/trailer-fedex.ac -96.51224 31.64068 160.54 75.49
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.51308 31.64018 160.84 350.11
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.51320 31.64022 161.66 121.37
+OBJECT_SHARED Models/lib/2container-office.ac -96.51206 31.63980 161.77 343.49
+OBJECT_SHARED Models/lib/2container-office.ac -96.51187 31.64038 160.45 238.7
+OBJECT_SHARED Models/lib/shed8x10.ac -96.51229 31.64077 160.43 168.23
+OBJECT_SHARED Models/lib/garden-shed.ac -96.51189 31.63980 160.98 355.83
+OBJECT_SHARED Models/lib/transformer3x3.ac -96.51269 31.63917 160.23 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.51157 31.63946 160.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.51188 31.64020 159.82 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.51200 31.64025 160.37 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.51192 31.64047 160.48 90
+OBJECT_SHARED Models/Airport/cargobox.xml -96.51315 31.64018 160.45 349.47
+OBJECT_SHARED Models/lib/container6-HD.ac -96.51227 31.64041 161.77 64.54
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -96.51293 31.64012 160.88 80.74
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -96.51320 31.63898 161.41 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -96.51238 31.64014 161.31 51.95
+OBJECT_SHARED Models/lib/HorizTanks2.ac -96.51362 31.63910 160.87 305.57
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -96.51365 31.63909 161.76 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -96.51366 31.63908 161.76 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -96.51359 31.63912 161.86 0
+# END dsf2stg

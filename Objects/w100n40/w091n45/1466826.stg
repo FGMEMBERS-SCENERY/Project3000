@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.35670 45.13442 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.35731 45.13428 437.33 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.35443 45.13496 434.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.35458 45.13498 436.46 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.35460 45.13485 438.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.35474 45.13487 437.14 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.35471 45.13476 438.35 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.35680 45.13434 437.88 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.35751 45.13430 436.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.35655 45.13496 433.89 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.35671 45.13500 436.82 0
+OBJECT_SHARED Models/lib/cars6.ac -90.35456 45.13552 436.37 176.36
+OBJECT_SHARED Models/lib/cars10.ac -90.35422 45.13526 436.55 190.27
+OBJECT_SHARED Models/lib/cars10.ac -90.35724 45.13452 434.50 183.94
+OBJECT_SHARED Models/lib/cars10.ac -90.35568 45.13447 434.92 191.75
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.35539 45.13555 441.02 339.15
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.35544 45.13561 439.12 338.39
+OBJECT_SHARED Models/lib/cars10.ac -90.35463 45.13648 439.12 358.8
+OBJECT_SHARED Models/lib/cars10.ac -90.35496 45.13541 433.47 7.98
+OBJECT_SHARED Models/lib/cars10.ac -90.35464 45.13521 438.92 191.06
+OBJECT_SHARED Models/lib/cars10.ac -90.35709 45.13581 437.24 98.78
+OBJECT_SHARED Models/lib/cars10.ac -90.35559 45.13620 433.24 281.85
+OBJECT_SHARED Models/lib/cars10.ac -90.35589 45.13617 437.09 280.83
+OBJECT_SHARED Models/lib/cars10.ac -90.35618 45.13584 436.59 102.22
+OBJECT_SHARED Models/lib/cars10.ac -90.35647 45.13580 436.78 102.53
+OBJECT_SHARED Models/lib/cars10.ac -90.35681 45.13602 435.80 281.63
+OBJECT_SHARED Models/lib/cars10.ac -90.35670 45.13576 434.24 101.89
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.35501 45.13639 435.05 325.07
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.35589 45.13457 434.72 280.52
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.35694 45.13533 440.43 281.65
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.35690 45.13520 434.97 282.54
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.35747 45.13471 435.13 278.7
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.35751 45.13483 433.23 278.7
+# END dsf2stg

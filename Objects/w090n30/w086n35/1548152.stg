@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -85.80558 35.98617 0.00 33.3265
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -85.80735 35.99056 324.44 0
+OBJECT_SHARED Models/lib/fboModern1.ac -85.80648 35.98536 325.88 301.654
+OBJECT_SHARED Models/lib/LongRow.ac -85.80765 35.98466 324.54 302.941
+OBJECT_SHARED Models/lib/LongRow.ac -85.80727 35.98485 325.20 301.263
+# END dsf2stg

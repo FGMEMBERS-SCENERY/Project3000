@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac 35.20220 30.62176 0.00 255.225
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 35.20074 30.61590 -57.89 352.01
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 35.20070 30.61590 -51.16 352.01
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 35.20065 30.61591 -51.16 352.14
+OBJECT_SHARED Models/Misc/picnic_table.ac 35.20083 30.61612 -51.16 259.18
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 35.20076 30.61701 -51.46 256.5
+OBJECT_SHARED Models/lib/canopy18x8.ac 35.20050 30.61608 -52.16 351.59
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 35.20066 30.61657 -51.02 268.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac 35.20067 30.61665 -51.70 265.24
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 35.20067 30.61661 -51.70 262.65
+# END dsf2stg

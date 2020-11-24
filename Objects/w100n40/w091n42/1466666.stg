@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.43979 42.69032 0.00 200.98
+OBJECT_SHARED Models/lib/LongRow.ac -90.44011 42.69172 310.97 34.59
+OBJECT_SHARED Models/lib/LongRow.ac -90.43980 42.69144 310.87 34.59
+OBJECT_SHARED Models/lib/fboModern1.ac -90.43905 42.69084 311.03 29.36
+# END dsf2stg

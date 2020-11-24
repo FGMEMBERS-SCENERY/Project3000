@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -6.74646 34.03764 0.00 -24.03
+OBJECT_SHARED Models/lib/MedHangar.ac -6.74638 34.03784 77.72 338.5
+OBJECT_SHARED Models/lib/FireStationLg.ac -6.74941 34.03677 76.99 96.93
+OBJECT_SHARED Models/lib/jetway_e4m.ac -6.74883 34.03718 78.45 270.73
+OBJECT_SHARED Models/lib/jetway_e4m.ac -6.74775 34.03729 93.08 270.73
+OBJECT_SHARED Models/lib/jetway_e4m.ac -6.74782 34.03722 93.63 1.32
+OBJECT_SHARED Models/lib/jetway_e4m.ac -6.74890 34.03711 93.69 1.32
+OBJECT_SHARED Models/lib/lamp10m.xml -6.74960 34.03931 90.43 0
+OBJECT_SHARED Models/lib/lamp10m.xml -6.74799 34.03947 90.38 0
+OBJECT_SHARED Models/lib/lamp10m.xml -6.74620 34.03822 91.30 0
+OBJECT_SHARED Models/lib/lamp10m.xml -6.74719 34.03759 93.66 0
+OBJECT_SHARED Models/lib/lamp10m.xml -6.74840 34.03714 93.64 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -6.74791 34.03718 93.44 218.31
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -6.74788 34.03720 93.64 233.28
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -6.74794 34.03717 93.65 205.15
+OBJECT_SHARED Models/lib/caisses_group.ac -6.74680 34.03716 93.62 90
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -6.74672 34.03714 94.26 93.15
+OBJECT_SHARED Models/lib/container6-HD.ac -6.74659 34.03697 94.40 70.4
+OBJECT_SHARED Models/lib/container6-HD.ac -6.74665 34.03699 94.57 70.4
+OBJECT_SHARED Models/lib/belt_loader.ac -6.74705 34.03721 94.54 91.13
+OBJECT_SHARED Models/lib/belt_loader.ac -6.74711 34.03720 94.12 91.13
+OBJECT_SHARED Models/lib/loader.ac -6.74695 34.03718 94.09 -84.94
+OBJECT_SHARED Models/lib/loader.ac -6.74726 34.03715 94.18 262.45
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -6.74790 34.03742 94.10 88
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -6.74802 34.03758 93.43 271.47
+OBJECT_SHARED Models/lib/RampParking.xml -6.74783 34.03750 93.15 2.34
+OBJECT_SHARED Models/lib/RampParking.xml -6.74820 34.03733 93.37 18.66
+OBJECT_SHARED Models/lib/RampParking.xml -6.74895 34.03738 93.36 358.95
+OBJECT_SHARED Models/lib/RampParking.xml -6.74924 34.03708 92.79 19.46
+# END dsf2stg

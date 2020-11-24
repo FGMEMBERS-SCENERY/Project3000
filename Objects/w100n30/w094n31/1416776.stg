@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.98202 31.23166 0.50 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -93.98202 31.23190 68.98 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.98245 31.23152 68.68 269.83
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.98277 31.23228 67.96 84.64
+OBJECT_SHARED Models/lib/propane-tank.ac -93.98274 31.23176 68.48 180
+OBJECT_SHARED Models/lib/propane-tank.ac -93.98283 31.23191 68.08 1.1
+OBJECT_SHARED Models/lib/cars6.ac -93.98297 31.23123 68.16 86.2
+OBJECT_SHARED Models/lib/garden-shed.ac -93.98265 31.23141 67.70 180.49
+OBJECT_SHARED Models/lib/lamp10m.xml -93.98278 31.23144 67.80 10.34
+OBJECT_SHARED Models/lib/transformer3x3.ac -93.98277 31.23117 67.79 268.57
+OBJECT_SHARED Models/lib/shed8x10.ac -93.98268 31.23120 67.71 89.84
+OBJECT_SHARED Models/lib/shed8x10.ac -93.98285 31.23265 67.75 359.49
+OBJECT_SHARED Models/lib/SmHangar.ac -93.98267 31.23237 68.81 179.81
+OBJECT_SHARED Models/lib/SmHangar.ac -93.98268 31.23183 68.59 179.71
+OBJECT_SHARED Models/lib/SmHangar.ac -93.98268 31.23199 68.08 180.08
+OBJECT_SHARED Models/lib/SmHangar.ac -93.98267 31.23217 68.25 178.45
+# END dsf2stg

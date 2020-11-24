@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.43884 33.90606 0.00 304
+OBJECT_SHARED Models/lib/NoParkStripes.xml -78.43885 33.90604 9.75 304
+OBJECT_SHARED Models/lib/NoParkStripes.xml -78.43880 33.90606 9.70 304
+OBJECT_SHARED Models/lib/SmHangar.ac -78.44021 33.90537 9.75 305
+OBJECT_SHARED Models/lib/SmHangar.ac -78.44041 33.90526 9.28 305
+OBJECT_SHARED Models/lib/SmHangar.ac -78.44074 33.90506 9.19 305
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.44019 33.90519 9.00 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.44024 33.90525 9.05 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.44028 33.90530 9.16 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.44034 33.90535 9.18 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.44006 33.90497 9.29 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.44017 33.90496 8.81 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.44045 33.90489 8.82 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.44042 33.90482 8.73 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.44060 33.90475 8.61 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43822 33.90609 8.63 343.875
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43817 33.90604 9.70 350.477
+OBJECT_SHARED Models/lib/cars10.ac -78.43855 33.90594 9.23 35
+OBJECT_SHARED Models/lib/cars4.ac -78.43865 33.90588 9.64 34
+OBJECT_SHARED Models/lib/cars4.ac -78.43814 33.90605 9.66 126
+OBJECT_SHARED Models/lib/cars4.ac -78.43834 33.90627 9.68 125
+OBJECT_SHARED Models/lib/lamp10m.xml -78.43969 33.90512 9.72 -51
+OBJECT_SHARED Models/lib/lamp10m.xml -78.43940 33.90529 8.93 -51
+OBJECT_SHARED Models/lib/lamp10m.xml -78.43911 33.90546 9.15 -51
+OBJECT_SHARED Models/lib/lamp10m.xml -78.43881 33.90563 9.37 -51
+OBJECT_SHARED Models/lib/lamp10m.xml -78.43781 33.90622 9.21 -51
+OBJECT_SHARED Models/lib/lamp10m.xml -78.43752 33.90639 9.64 -51
+OBJECT_SHARED Models/lib/lamp10m.xml -78.43693 33.90673 9.64 -51
+OBJECT_SHARED Models/lib/lamp10m.xml -78.43723 33.90656 9.09 -51
+OBJECT_SHARED Models/lib/prop_a.ac -78.43889 33.90570 9.54 125
+OBJECT_SHARED Models/lib/prop_a.ac -78.43796 33.90649 9.52 306
+OBJECT_SHARED Models/lib/prop_a.ac -78.43784 33.90656 9.64 306
+OBJECT_SHARED Models/lib/prop_a.ac -78.43771 33.90664 9.62 306
+OBJECT_SHARED Models/lib/prop_a.ac -78.43758 33.90671 9.62 306
+OBJECT_SHARED Models/lib/prop_a.ac -78.43744 33.90679 9.56 306
+OBJECT_SHARED Models/lib/prop_a.ac -78.43707 33.90676 9.48 125
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -78.43990 33.90511 9.46 120
+# END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -97.57167 31.81874 0.00 121.08
+OBJECT_SHARED Models/lib/prop_a.ac -97.57152 31.81848 229.99 122.31
+OBJECT_SHARED Models/lib/cars6.ac -97.56934 31.81572 230.26 121.34
+OBJECT_SHARED Models/lib/cars10.ac -97.56916 31.81547 232.11 121.27
+OBJECT_SHARED Models/lib/cars6.ac -97.57040 31.81596 231.31 31.835
+OBJECT_SHARED Models/lib/cars10.ac -97.57013 31.81560 233.16 123.05
+OBJECT_SHARED Models/lib/prop_a.ac -97.56874 31.81498 232.32 119.982
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.56884 31.81503 229.00 207.553
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.56971 31.81600 229.13 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.56974 31.81598 233.44 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.56975 31.81600 233.44 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.56972 31.81601 233.44 0
+# END dsf2stg

@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47458 43.28010 0.00 328.57
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47426 43.28015 385.61 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47484 43.28009 385.38 21.8
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47489 43.28015 385.74 286.56
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47498 43.28008 385.80 257.2
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47501 43.28015 385.86 28.81
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47510 43.28009 385.83 228.47
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47510 43.28018 385.93 315
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47518 43.28012 385.86 345.07
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47527 43.28016 385.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47537 43.28016 385.94 47.12
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47530 43.28003 385.98 38.66
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47537 43.27999 386.26 320.19
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -91.47537 43.27987 386.34 0
+OBJECT_SHARED Models/lib/SmHangar.ac -91.47459 43.27985 386.56 106.26
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -91.47430 43.27996 386.01 16.57
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -91.47394 43.28004 385.62 16.57
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -91.47479 43.27972 385.38 270.27
+OBJECT_SHARED Models/lib/propane-tank.ac -91.47483 43.27972 386.52 359.9
+OBJECT_SHARED Models/lib/lamp10m.xml -91.47468 43.27985 386.52 194.35
+OBJECT_SHARED Models/lib/lamp10m.xml -91.47481 43.27975 386.26 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.47472 43.27986 386.52 350.78
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.47486 43.27992 386.07 343.89
+OBJECT_SHARED Models/Effects/taxilampblue.xml -91.47365 43.27962 386.70 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -91.47373 43.27974 386.29 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -91.47377 43.27989 386.16 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -91.47390 43.27971 385.98 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -91.47398 43.27985 386.32 0
+# END dsf2stg

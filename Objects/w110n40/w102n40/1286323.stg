@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.16908 40.79043 0.00 203.2
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.16833 40.79034 942.69 156.04
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.16997 40.79151 942.61 210.96
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.16843 40.79094 943.71 330.95
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.16932 40.79108 942.90 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.16906 40.79109 943.28 139.76
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.16934 40.79119 943.28 275.19
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.16968 40.79123 943.33 129.29
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.16986 40.79124 943.57 288.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.17093 40.79108 943.57 40.98
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.17068 40.79094 943.86 296.56
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.17009 40.79077 943.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.17015 40.79008 943.37 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.17016 40.79027 943.61 15.26
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.17005 40.79055 943.53 225
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.16993 40.79052 943.29 3.57999
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.16986 40.79042 943.46 308.66
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.16973 40.79033 943.49 113.2
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.16950 40.79012 943.53 290.56
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -101.16996 40.79022 943.61 180
+OBJECT_SHARED Models/Transport/van_red.ac -101.16971 40.78992 943.56 75.26
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -101.16917 40.79004 943.72 267.78
+OBJECT_SHARED Models/lib/shed8x10.ac -101.16916 40.79022 942.93 357.98
+OBJECT_SHARED Models/lib/transformer3x3.ac -101.16959 40.79060 942.81 88.99
+OBJECT_SHARED Models/lib/transformer3x3.ac -101.16974 40.79020 943.29 270.1
+OBJECT_SHARED Models/lib/garden-shed.ac -101.16997 40.78970 943.56 88.63
+OBJECT_SHARED Models/lib/garden-shed.ac -101.16957 40.79007 943.83 88.86
+OBJECT_SHARED Models/lib/garden-shed.ac -101.16960 40.79068 943.61 0.519997
+OBJECT_SHARED Models/lib/shed8x10.ac -101.16956 40.79042 943.33 178.04
+OBJECT_SHARED Models/lib/shed8x10.ac -101.16950 40.79003 943.49 267.68
+OBJECT_SHARED Models/lib/shed8x10.ac -101.16944 40.78983 943.67 176.72
+OBJECT_SHARED Models/lib/industrial13x24.ac -101.16977 40.78987 943.07 177.95
+OBJECT_SHARED Models/lib/SmHangar.ac -101.16929 40.78960 943.72 90.75
+# END dsf2stg

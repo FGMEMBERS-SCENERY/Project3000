@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -86.50484 37.61294 0.00 71.92
+OBJECT_SHARED Models/lib/cars4.ac -86.50481 37.61280 171.40 73.75
+OBJECT_SHARED Models/lib/cars4.ac -86.50478 37.61290 171.39 73.75
+OBJECT_SHARED Models/lib/prop_a.ac -86.50528 37.61224 171.40 146.04
+OBJECT_SHARED Models/lib/lamp10m.xml -86.50460 37.61278 172.20 66.25
+OBJECT_SHARED Models/lib/lamp10m.xml -86.50496 37.61255 171.04 72.12
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -86.50565 37.60786 76.71 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.50477 37.61308 156.40 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.50400 37.61384 171.42 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.50371 37.61305 171.24 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.50452 37.61183 171.26 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.50574 37.61159 167.28 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.50788 37.61222 172.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.50617 37.61466 174.83 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.50547 37.61279 173.37 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.50554 37.61261 173.04 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.50596 37.61273 173.04 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.50590 37.61289 173.71 0
+# END dsf2stg

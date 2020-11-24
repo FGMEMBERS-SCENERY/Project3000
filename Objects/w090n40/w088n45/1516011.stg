@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -87.08922 45.71852 0.00 270
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -87.09273 45.71844 178.87 281.31
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -87.09443 45.71829 179.09 267.21
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -87.09636 45.71880 179.21 178.74
+OBJECT_SHARED Models/Airport/cargoim.xml -87.09476 45.71823 179.51 0
+OBJECT_SHARED Models/Airport/cargoip.xml -87.09519 45.71816 179.23 0
+OBJECT_SHARED Models/Airport/cargoip.xml -87.09597 45.71830 179.27 0
+OBJECT_SHARED Models/lib/loader.ac -87.09591 45.71832 179.37 182.76
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -87.09508 45.71820 179.36 231.2
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -87.09512 45.71824 179.26 7.72
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -87.09519 45.71820 179.26 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -87.09519 45.71825 179.27 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -87.09426 45.71824 179.27 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -87.09431 45.71826 179.18 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -87.09430 45.71822 179.20 0
+OBJECT_SHARED Models/lib/belt_loader.ac -87.09418 45.71816 179.18 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -87.09602 45.71873 179.17 89.01
+OBJECT_SHARED Models/lib/SmHangar.ac -87.08379 45.72348 179.45 0
+OBJECT_SHARED Models/lib/SmHangar.ac -87.09194 45.71840 179.81 90
+OBJECT_SHARED Models/lib/SmHangar.ac -87.09165 45.71847 179.02 178.83
+OBJECT_SHARED Models/lib/LongRow.ac -87.09129 45.71846 179.03 359.14
+OBJECT_SHARED Models/lib/MedHangar.ac -87.08991 45.71855 179.00 269.38
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -87.08857 45.71835 178.91 179.71
+OBJECT_SHARED Models/lib/lamp10m.xml -87.09592 45.71828 178.83 263.82
+OBJECT_SHARED Models/lib/lamp10m.xml -87.09522 45.71829 179.36 269.5
+OBJECT_SHARED Models/lib/lamp10m.xml -87.09472 45.71826 179.29 -85.07
+OBJECT_SHARED Models/lib/lamp10m.xml -87.09435 45.71826 179.24 270
+OBJECT_SHARED Models/lib/lamp10m.xml -87.09369 45.71825 179.20 -36.69
+OBJECT_SHARED Models/lib/lamp10m.xml -87.09272 45.71815 179.13 -37.34
+OBJECT_SHARED Models/lib/lamp10m.xml -87.09083 45.71821 179.04 -89.38
+OBJECT_SHARED Models/lib/lamp10m.xml -87.09214 45.71838 178.91 88.52
+# END dsf2stg

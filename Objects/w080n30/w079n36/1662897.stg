@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangar81x16.ac -78.50297 36.79162 0.00 71.85
+OBJECT_SHARED Models/lib/SmHangar.ac -78.50295 36.79147 152.73 161.94
+OBJECT_SHARED Models/lib/SmHangar.ac -78.50268 36.79130 152.56 271.78
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.50244 36.79200 152.12 181.56
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.50244 36.79206 152.37 90.67
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.50244 36.79203 152.47 277.13
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.50244 36.79198 152.37 0
+# END dsf2stg

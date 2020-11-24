@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28701 34.23596 0.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28698 34.23596 47.80 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28698 34.23594 47.80 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28698 34.23590 47.82 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28699 34.23590 47.82 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28699 34.23592 47.82 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28698 34.23591 47.82 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28697 34.23593 47.82 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28697 34.23594 47.82 180
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28696 34.23595 47.82 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28703 34.23589 47.80 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28702 34.23591 47.82 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28702 34.23592 47.82 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28702 34.23592 47.82 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28701 34.23593 47.82 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.28701 34.23594 47.82 0
+OBJECT_SHARED Models/lib/propane-tank.ac -90.28707 34.23554 47.82 349.47
+OBJECT_SHARED Models/Transport/van_red.ac -90.28703 34.23566 47.89 248.2
+OBJECT_SHARED Models/lib/trailer-fedex.ac -90.28672 34.23618 47.86 74.74
+OBJECT_SHARED Models/Transport/Norberttruck.xml -90.28675 34.23621 47.80 258.43
+OBJECT_SHARED Models/Transport/Norberttruck.xml -90.28680 34.23622 47.81 256
+OBJECT_SHARED Models/Transport/Norberttruck.xml -90.28685 34.23623 47.81 254.39
+OBJECT_SHARED Models/Transport/Norberttruck.xml -90.28624 34.23545 47.81 254.3
+OBJECT_SHARED Models/Transport/Norberttruck.xml -90.28633 34.23542 47.82 254.04
+OBJECT_SHARED Models/lib/cars6.ac -90.28664 34.23573 47.84 251.67
+OBJECT_SHARED Models/lib/trailer-fedex.ac -90.28673 34.23582 47.83 344.38
+OBJECT_SHARED Models/lib/coal_pile.ac -90.28673 34.23533 47.81 329.74
+OBJECT_SHARED Models/lib/coal_pile.ac -90.28679 34.23532 47.89 321.34
+OBJECT_SHARED Models/lib/coal_pile.ac -90.28685 34.23531 47.90 253.3
+OBJECT_SHARED Models/lib/container6-HD.ac -90.29007 34.23385 47.90 180
+OBJECT_SHARED Models/Airport/cargobox.xml -90.29019 34.23382 47.95 161.57
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -90.29028 34.23356 47.97 355.52
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.29061 34.23366 48.02 4.47
+OBJECT_SHARED Models/Airport/cargobox.xml -90.29032 34.23399 47.97 257.87
+OBJECT_SHARED Models/Airport/cargobox.xml -90.29030 34.23399 47.89 351.38
+OBJECT_SHARED Models/Airport/cargobox.xml -90.29016 34.23384 47.89 311.19
+OBJECT_SHARED Models/Airport/cargobox.xml -90.29018 34.23384 47.97 180
+OBJECT_SHARED Models/lib/propane-tank.ac -90.29040 34.23359 47.97 357.4
+OBJECT_SHARED Models/lib/hangar81x16.ac -90.29100 34.23230 48.00 72.63
+# END dsf2stg

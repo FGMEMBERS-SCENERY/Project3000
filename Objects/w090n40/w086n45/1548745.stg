@@ -1,9 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed8x10.ac -85.58293 45.16218 184.65 90
-OBJECT_SHARED Models/lib/SmHangar.ac -85.58396 45.16218 184.57 271.13
-OBJECT_SHARED Models/lib/SmHangar.ac -85.58342 45.16220 184.61 271.13
-OBJECT_SHARED Models/lib/transformer3x3.ac -85.57028 45.16268 186.48 289.44
-OBJECT_SHARED Models/lib/transformer3x3.ac -85.57025 45.16263 186.51 289.34
+OBJECT_SHARED Models/Misc/picnic_table.ac -85.57084 45.16257 0.00 311.99
+OBJECT_SHARED Models/Misc/picnic_table.ac -85.57099 45.16259 186.80 5.78
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -85.57090 45.16244 186.86 0
+OBJECT_SHARED Models/lib/shed8x10.ac -85.57334 45.16230 186.74 101.74
+OBJECT_SHARED Models/lib/shed8x10.ac -85.58288 45.16225 186.53 95.71
+OBJECT_SHARED Models/lib/SmHangar.ac -85.58397 45.16224 184.28 271.13
+OBJECT_SHARED Models/lib/SmHangar.ac -85.58341 45.16226 184.90 273.25
+OBJECT_SHARED Models/lib/transformer3x3.ac -85.57028 45.16268 184.70 289.44
+OBJECT_SHARED Models/lib/transformer3x3.ac -85.57025 45.16263 186.65 289.34
 # END dsf2stg

@@ -1,0 +1,56 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangar81x16.ac -82.55707 41.24631 0.00 359.74
+OBJECT_SHARED Models/lib/SmHangar.ac -82.55619 41.24586 253.49 89.95
+OBJECT_SHARED Models/lib/SmHangar.ac -82.55619 41.24577 254.05 90
+OBJECT_SHARED Models/Misc/picnic_table.ac -82.55518 41.24557 254.07 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56513 41.24429 254.63 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55771 41.24546 248.34 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56509 41.24427 253.20 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55516 41.24574 248.34 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55516 41.24598 254.61 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55533 41.24600 254.56 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56533 41.24427 254.50 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55506 41.24584 248.17 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55514 41.24583 254.65 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55510 41.24592 254.65 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56520 41.24426 254.63 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56546 41.24425 248.26 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55785 41.24544 248.00 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56567 41.24423 253.15 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56555 41.24424 247.88 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56624 41.24420 247.97 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55509 41.24577 247.45 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55523 41.24591 254.65 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55522 41.24597 254.57 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56621 41.24421 254.56 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55542 41.24598 247.45 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56604 41.24421 254.45 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.55535 41.24592 247.62 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.56584 41.24421 254.47 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree.xml -82.56528 41.24426 247.79 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree.xml -82.56592 41.24424 248.17 90.09
+OBJECT_SHARED Models/lib/deciduous-tree.xml -82.56525 41.24428 247.71 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree.xml -82.56614 41.24420 248.17 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree.xml -82.56614 41.24427 247.53 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree.xml -82.56595 41.24422 247.47 68.29
+OBJECT_SHARED Models/lib/deciduous-tree.xml -82.56580 41.24423 247.71 270.09
+OBJECT_SHARED Models/lib/deciduous-tree.xml -82.56574 41.24425 247.79 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree.xml -82.56550 41.24424 247.88 0.089996
+OBJECT_SHARED Models/lib/deciduous-tree.xml -82.56538 41.24426 248.06 0.089996
+OBJECT_SHARED Models/lib/farm19x12.ac -82.55543 41.24581 248.08 179.16
+OBJECT_SHARED Models/lib/MedHangar.ac -82.55441 41.24592 254.49 90
+OBJECT_SHARED Models/lib/LongRow.ac -82.55683 41.24664 254.98 0
+OBJECT_SHARED Models/lib/prop_a.ac -82.55586 41.24569 253.59 270
+OBJECT_SHARED Models/lib/prop_a.ac -82.55366 41.24586 254.25 272
+OBJECT_SHARED Models/lib/prop_a.ac -82.55388 41.24587 255.32 270.86
+OBJECT_SHARED Models/Transport/van_red.ac -82.55483 41.24595 255.22 115.35
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.55484 41.24600 254.78 118.82
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -82.55600 41.24643 254.77 124.99
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.55568 41.24586 254.07 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.55552 41.24595 254.32 230.19
+OBJECT_SHARED Models/Transport/hatchback_green.ac -82.55553 41.24589 254.40 245.15
+OBJECT_SHARED Models/lib/SmHangar.ac -82.55731 41.24664 254.42 90.62
+OBJECT_SHARED Models/lib/SmHangar.ac -82.55730 41.24656 253.31 90.62
+# END dsf2stg

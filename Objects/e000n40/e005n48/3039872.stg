@@ -1,8 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 5.04650 48.09270 290.86 0
-OBJECT_SHARED Models/lib/MedHangar.ac 5.04418 48.09329 289.68 179.684
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.04474 48.09251 291.00 271.014
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 5.04430 48.09341 289.55 79.0906
+OBJECT_SHARED Models/lib/SmHangar.ac 5.20260 48.09138 0.00 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 5.20394 48.09186 371.39 109.49
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20278 48.09175 375.65 180
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20281 48.09108 372.05 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20281 48.09129 372.36 312.14
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20268 48.09168 372.48 316.74
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20280 48.09148 371.86 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20281 48.09156 372.55 48.92
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20267 48.09158 372.65 270
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20280 48.09136 371.90 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20280 48.09142 372.49 317.86
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20258 48.09162 372.49 327.26
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20281 48.09119 371.40 233.13
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20247 48.09166 372.42 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20248 48.09173 370.86 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20258 48.09176 370.91 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20264 48.09099 371.18 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20260 48.09092 371.38 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20258 48.09084 371.10 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20258 48.09078 370.93 311.63
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20251 48.09079 370.93 33.69
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20253 48.09088 370.55 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20255 48.09099 370.72 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 5.20260 48.09104 370.89 308.93
 # END dsf2stg

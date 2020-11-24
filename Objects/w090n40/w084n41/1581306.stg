@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -83.43572 41.93262 0.00 35.47
+OBJECT_SHARED Models/lib/lamp10m.xml -83.43618 41.93276 185.06 68.52
+OBJECT_SHARED Models/lib/lamp10m.xml -83.43636 41.93243 185.17 247.73
+OBJECT_SHARED Models/lib/lamp10m.xml -83.43574 41.93308 185.12 338.2
+OBJECT_SHARED Models/lib/lamp10m.xml -83.43591 41.93314 185.15 336.23
+OBJECT_SHARED Models/lib/lamp10m.xml -83.43686 41.93236 185.18 68.42
+OBJECT_SHARED Models/lib/lamp10m.xml -83.43690 41.93229 185.20 67.17
+OBJECT_SHARED Models/lib/lamp10m.xml -83.43705 41.93202 185.17 68.33
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -83.43596 41.93313 185.14 248.33
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -83.43634 41.93326 185.20 247.04
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -83.43728 41.93280 185.28 247.83
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -83.43730 41.93275 185.33 248.78
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -83.43593 41.93207 185.33 336.63
+OBJECT_SHARED Models/lib/transformer3x3.ac -83.43480 41.93559 185.00 64.28
+OBJECT_SHARED Models/lib/transformer3x3.ac -83.43599 41.93324 185.40 247.52
+OBJECT_SHARED Models/lib/transformer3x3.ac -83.43725 41.93264 185.22 339.72
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -83.43579 41.93313 185.28 157.78
+OBJECT_SHARED Models/Transport/hatchback_black.ac -83.43585 41.93316 185.17 156.7
+OBJECT_SHARED Models/lib/industrial13x24.ac -83.43729 41.93137 185.20 337.77
+OBJECT_SHARED Models/lib/HorizTanks2.ac -83.43635 41.93244 185.00 247.51
+OBJECT_SHARED Models/lib/SmHangar.ac -83.43756 41.93175 185.12 248.36
+OBJECT_SHARED Models/lib/SmHangar.ac -83.43769 41.93179 185.15 248.36
+OBJECT_SHARED Models/lib/LongRow.ac -83.43538 41.93359 185.16 158.1
+OBJECT_SHARED Models/lib/LongRow.ac -83.43523 41.93395 185.19 158.1
+OBJECT_SHARED Models/lib/LongRow.ac -83.43504 41.93461 185.20 67.88
+OBJECT_SHARED Models/lib/LongRow.ac -83.43517 41.93439 185.28 67.88
+OBJECT_SHARED Models/lib/lamp10m.xml -83.43632 41.93329 185.28 157.95
+# END dsf2stg

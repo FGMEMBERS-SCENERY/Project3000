@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -7.68890 40.45288 0.00 1.59
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -7.68885 40.45292 437.80 1.59
+OBJECT_SHARED Models/lib/cone.ac -7.68837 40.45380 437.82 0
+OBJECT_SHARED Models/lib/cone.ac -7.68847 40.45391 437.18 0
+OBJECT_SHARED Models/lib/cone.ac -7.68831 40.45376 437.02 0
+OBJECT_SHARED Models/lib/cone.ac -7.68842 40.45386 437.22 0
+OBJECT_SHARED Models/lib/cone.ac -7.68813 40.45384 437.05 0
+OBJECT_SHARED Models/lib/cone.ac -7.68814 40.45389 437.32 0
+OBJECT_SHARED Models/lib/cone.ac -7.68815 40.45395 437.21 0
+OBJECT_SHARED Models/lib/cone.ac -7.68816 40.45401 437.20 0
+OBJECT_SHARED Models/lib/cone.ac -7.68816 40.45405 437.09 0
+OBJECT_SHARED Models/lib/cone.ac -7.68852 40.45395 436.98 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -7.68842 40.45337 436.89 39.18
+OBJECT_SHARED Models/lib/fuel-truck.xml -7.68798 40.45230 437.56 237.13
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.68824 40.45348 438.88 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.68799 40.45310 437.56 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.68772 40.45347 438.08 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.68768 40.45335 437.87 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.68800 40.45311 438.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.68829 40.45351 438.07 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.68823 40.45354 437.53 0
+OBJECT_SHARED Models/lib/shed8x10.ac -7.68458 40.45449 437.56 16.62
+OBJECT_SHARED Models/lib/prop_a.ac -7.68728 40.45367 439.47 205.82
+OBJECT_SHARED Models/lib/prop_a.ac -7.68756 40.45384 437.95 213.69
+OBJECT_SHARED Models/lib/SmHangar.ac -7.68878 40.45328 437.67 155.91
+OBJECT_SHARED Models/lib/SmHangar.ac -7.68893 40.45308 437.48 233.46
+OBJECT_SHARED Models/lib/cars6.ac -7.68738 40.45256 437.61 327.17
+OBJECT_SHARED Models/lib/cars6.ac -7.68707 40.45261 439.01 59.04
+# END dsf2stg

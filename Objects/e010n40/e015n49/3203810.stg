@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 15.54933 49.59974 0.00 51.79
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 15.54931 49.59972 452.44 51.79
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 15.54923 49.59965 452.44 51.79
+OBJECT_SHARED Models/Transport/van_silver.ac 15.54924 49.59967 452.71 51.79
+OBJECT_SHARED Models/Transport/hatchback_green.ac 15.54929 49.59971 452.47 51.79
+OBJECT_SHARED Models/Transport/van_silver.ac 15.54927 49.59969 452.44 51.79
+OBJECT_SHARED Models/Transport/hatchback_green.ac 15.54921 49.59963 452.44 51.79
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 15.54919 49.60044 452.71 144.41
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 15.54946 49.60030 450.88 146.02
+OBJECT_SHARED Models/Misc/6barrels.ac 15.54847 49.60051 451.01 302.01
+OBJECT_SHARED Models/Misc/6barrels.ac 15.54842 49.60055 450.87 64.54
+OBJECT_SHARED Models/Misc/6barrels.ac 15.54844 49.60052 450.89 210.96
+OBJECT_SHARED Models/Misc/6barrels.ac 15.54844 49.60056 450.89 303.69
+OBJECT_SHARED Models/Misc/6barrels.ac 15.54845 49.60059 450.71 0
+OBJECT_SHARED Models/lib/coal_pile.ac 15.54850 49.60054 450.71 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.55159 49.59946 450.87 172.41
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.55151 49.59950 451.08 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.55147 49.59952 451.20 198.43
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.55136 49.59957 451.20 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.55131 49.59958 451.06 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.55126 49.59962 451.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.54864 49.60086 451.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.54870 49.60083 450.09 24.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.54955 49.60009 450.23 255.96
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.54949 49.60013 451.46 193.24
+OBJECT_SHARED Models/lib/cars10.ac 15.54893 49.60055 451.46 142.54
+OBJECT_SHARED Models/lib/cars10.ac 15.54876 49.60084 450.55 323.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac 15.55035 49.59955 450.20 129.09
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 15.55041 49.59951 452.64 146.31
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 15.54990 49.59980 452.64 39.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac 15.55002 49.59990 452.06 53.13
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 15.55007 49.59993 451.80 65.56
+OBJECT_SHARED Models/Transport/hatchback_green.ac 15.55011 49.59995 451.77 62.59
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 15.55013 49.59998 451.54 46.74
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 15.55016 49.60001 451.54 45
+OBJECT_SHARED Models/Transport/hatchback_red.ac 15.55018 49.60005 451.52 58.67
+OBJECT_SHARED Models/lib/office3x10.ac 15.54924 49.59881 451.29 326.31
+OBJECT_SHARED Models/lib/office3x10.ac 15.54830 49.60046 454.62 318.95
+OBJECT_SHARED Models/lib/industrial13x24.ac 15.54869 49.60058 450.93 143.97
+# END dsf2stg

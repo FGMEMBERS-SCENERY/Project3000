@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -98.04126 37.27895 0.00 90
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.04039 37.27495 434.60 89.3
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.04039 37.27516 434.00 90
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.04039 37.27537 434.00 90
+OBJECT_SHARED Models/lib/SmHangar.ac -98.04154 37.27553 434.00 179.45
+OBJECT_SHARED Models/lib/SmHangar.ac -98.04162 37.27938 433.93 90.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.04171 37.27965 434.68 1.13
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.04083 37.27881 434.74 93.52
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.04083 37.27890 434.55 93.78
+OBJECT_SHARED Models/lib/shed8x10.ac -98.04081 37.27858 434.57 1.7
+OBJECT_SHARED Models/lib/propane-tank.ac -98.04205 37.27959 434.50 357.71
+# END dsf2stg

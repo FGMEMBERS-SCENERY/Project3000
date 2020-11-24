@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -85.18369 35.18343 0.00 130.87
+OBJECT_SHARED Models/Transport/hatchback_black.ac -85.17367 35.19044 206.55 218.83
+OBJECT_SHARED Models/Transport/van_silver.ac -85.17364 35.19046 210.61 218.83
+OBJECT_SHARED Models/Transport/hatchback_red.ac -85.17360 35.19048 210.72 218.83
+OBJECT_SHARED Models/Transport/van_red.ac -85.17299 35.19100 210.72 218.83
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -85.17296 35.19101 211.42 218.83
+# END dsf2stg

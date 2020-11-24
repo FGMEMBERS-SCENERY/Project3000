@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -91.26983 35.27061 0.00 270.66
+OBJECT_SHARED Models/lib/2container-office.ac -91.26976 35.27023 57.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.26952 35.27082 56.99 333.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.26953 35.27076 57.00 333.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.26951 35.27043 57.00 333.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.26953 35.27058 56.99 284.04
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.26952 35.27061 56.99 333.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.26953 35.27067 56.99 270
+# END dsf2stg

@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -110.45730 34.00401 0.00 90.07
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -110.45700 34.00404 1513.63 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.45671 34.00484 1513.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -110.45767 34.00454 1512.67 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -110.45728 34.00464 1511.18 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.45666 34.00453 1512.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -110.45764 34.00419 1513.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -110.45762 34.00391 1512.01 180
+OBJECT_SHARED Models/lib/deciduous-tree.xml -110.45716 34.00434 1512.84 0
+# END dsf2stg

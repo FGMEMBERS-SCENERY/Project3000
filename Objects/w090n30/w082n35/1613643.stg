@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -81.15327 35.20043 0.00 151.91
+OBJECT_SHARED Models/lib/office8x14.ac -81.15346 35.20024 240.63 329.92
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.15382 35.20037 240.82 245.1
+OBJECT_SHARED Models/lib/prop_a.ac -81.15547 35.19963 240.93 132.09
+OBJECT_SHARED Models/lib/prop_a.ac -81.15473 35.20026 242.02 241.37
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.15399 35.20039 241.44 244.54
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.15394 35.20049 241.03 244.13
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.15397 35.20044 240.92 63.43
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.15378 35.20042 241.03 240.95
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.15387 35.20029 240.93 244.2
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.15380 35.20039 241.04 244.18
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15397 35.19970 240.93 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15411 35.19965 241.16 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15276 35.20196 241.21 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15292 35.20189 239.35 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15309 35.20181 239.45 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15320 35.20177 239.58 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15469 35.20050 239.62 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15629 35.19909 241.31 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15623 35.19915 242.53 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15633 35.19920 242.48 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -81.15628 35.19927 242.52 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15361 35.20037 242.52 62.66
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15401 35.20054 240.80 -29.42
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15435 35.20069 240.98 -29.43
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15163 35.20206 240.98 151.53
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15215 35.20216 239.05 152.59
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15233 35.20131 239.08 26.25
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15274 35.20147 239.60 62.9
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15295 35.20096 239.62 151.02
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15308 35.20075 240.06 151.76
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15330 35.20038 240.31 11.53
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15340 35.20029 240.63 150.71
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15348 35.20018 240.71 151.63
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15407 35.19975 240.82 240.95
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15554 35.19937 241.20 3.54001
+OBJECT_SHARED Models/lib/lamp10m.xml -81.15459 35.19889 242.04 95.5
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.15300 35.20179 241.54 243.44
+OBJECT_SHARED Models/lib/LongRow.ac -81.15211 35.20149 239.54 61.8
+OBJECT_SHARED Models/lib/LongRow.ac -81.15221 35.20134 239.46 62.07
+OBJECT_SHARED Models/lib/LongRow.ac -81.15262 35.20150 239.59 63.04
+# END dsf2stg

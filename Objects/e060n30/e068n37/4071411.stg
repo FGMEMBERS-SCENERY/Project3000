@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cube16x10.ac 68.86653 37.86451 0.00 195.85
+OBJECT_SHARED Models/lib/HorizTanks2.ac 68.85905 37.86182 448.51 294.03
+OBJECT_SHARED Models/lib/HorizTanks2.ac 68.85919 37.86188 446.76 294.03
+OBJECT_SHARED Models/lib/HorizTanks2.ac 68.85932 37.86193 446.84 294.03
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 68.85961 37.86171 351.90 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 68.85957 37.86185 352.03 0
+OBJECT_SHARED Models/lib/industrial13x24.ac 68.86160 37.86310 447.06 279.7
+OBJECT_SHARED Models/lib/SmHangar.ac 68.86204 37.86289 448.02 190.66
+OBJECT_SHARED Models/Transport/Norberttruck.xml 68.86137 37.86148 448.02 0
+OBJECT_SHARED Models/lib/cars10.ac 68.86140 37.86106 447.59 102.09
+OBJECT_SHARED Models/lib/admin-with-cars.ac 68.86157 37.85977 447.53 194
+# END dsf2stg

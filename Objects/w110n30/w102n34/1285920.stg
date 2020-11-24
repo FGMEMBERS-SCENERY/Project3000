@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -101.78003 34.56607 0.00 346.63
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.77964 34.56671 1064.66 154.48
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.77969 34.56672 1064.71 178.96
+OBJECT_SHARED Models/lib/coal_pile.ac -101.77906 34.56677 1064.71 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.77921 34.56602 1063.91 149.74
+OBJECT_SHARED Models/lib/lamp10m.xml -101.77804 34.56760 1064.10 166.55
+OBJECT_SHARED Models/lib/lamp10m.xml -101.77809 34.56752 1063.46 345.34
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.77990 34.56633 1063.48 0
+# END dsf2stg

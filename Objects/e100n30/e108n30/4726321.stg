@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac 108.43091 30.80384 0.00 313.09
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 108.42727 30.80055 561.19 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 108.42669 30.80073 561.03 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 108.42609 30.80090 561.13 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 108.42836 30.80208 561.45 296.57
+OBJECT_SHARED Models/lib/office32x25.ac 108.42628 30.80026 562.09 68.76
+OBJECT_SHARED Models/lib/admin31x12.ac 108.42576 30.80038 560.77 160.3
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 108.42850 30.79905 560.89 68.91
+# END dsf2stg

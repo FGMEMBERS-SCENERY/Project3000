@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44721 39.11392 0.00 180
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44682 39.11406 163.06 90
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44705 39.11362 163.08 -0.869995
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44708 39.11416 162.97 52.85
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44707 39.11153 163.15 -86.19
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44707 39.11078 162.18 88.45
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44709 39.10987 161.86 90
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44711 39.11203 161.44 -1.19
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44709 39.11280 162.40 1.67999
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44710 39.11250 162.71 -1.39999
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44740 39.11413 162.60 0
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44722 39.11432 163.10 -78.62
+OBJECT_SHARED Models/lib/2vending-machines.ac -87.44724 39.11414 163.18 1.06
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -87.44712 39.11200 163.12 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -87.44709 39.11281 162.40 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -87.44712 39.11420 162.71 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -87.44726 39.11418 163.15 270
+OBJECT_SHARED Models/lib/propane-tank.ac -87.44735 39.11400 163.14 180
+OBJECT_SHARED Models/Misc/picnic_table.ac -87.44695 39.11422 163.08 325.05
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -87.44731 39.11420 163.13 0
+OBJECT_SHARED Models/lib/cars2.ac -87.44723 39.11383 163.14 90
+OBJECT_SHARED Models/lib/cars6.ac -87.44723 39.11396 163.03 90
+OBJECT_SHARED Models/lib/shed8x10.ac -87.44717 39.11424 163.09 180.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.44733 39.11393 163.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -87.44705 39.11445 163.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -87.44684 39.11427 163.19 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.44705 39.11439 163.13 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.44691 39.11423 163.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.44679 39.11433 163.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.44697 39.11426 163.13 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -87.44705 39.11358 163.16 0.120003
+OBJECT_SHARED Models/lib/LongRow.ac -87.44709 39.10994 162.97 89.62
+OBJECT_SHARED Models/lib/LongRow.ac -87.44707 39.11085 161.44 89.85
+OBJECT_SHARED Models/lib/LongRow.ac -87.44741 39.11246 161.86 89.4
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44610 39.11363 162.53 303.69
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44605 39.11391 162.70 183.43
+OBJECT_SHARED Models/lib/propane-tank.ac -87.44625 39.11365 162.78 180.52
+OBJECT_SHARED Models/Trees/billboard-tree.xml -87.44644 39.11382 162.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.44644 39.11369 162.88 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.44647 39.11387 162.85 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.44646 39.11392 162.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.44640 39.11395 162.95 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -87.44604 39.11352 162.90 0
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44600 39.11350 162.62 208.22
+OBJECT_SHARED Models/lib/lamp10m.xml -87.44588 39.11389 162.62 90
+OBJECT_SHARED Models/lib/MedHangar.ac -87.44587 39.11374 162.64 0
+# END dsf2stg

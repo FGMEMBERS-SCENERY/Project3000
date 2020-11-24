@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -78.50444 38.66367 272.65 35
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50473 38.66373 273.85 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50480 38.66363 273.48 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50476 38.66387 273.36 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50483 38.66380 272.20 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50500 38.66347 272.59 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50510 38.66341 272.72 315
+# END dsf2stg

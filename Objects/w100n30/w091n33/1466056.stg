@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml -90.82810 33.18333 0.00 0
+OBJECT_SHARED Models/Airport/cargobox.xml -90.82848 33.18347 32.79 0
+OBJECT_SHARED Models/Airport/cargobox.xml -90.82839 33.18352 32.63 0
+OBJECT_SHARED Models/Airport/cargobox.xml -90.82842 33.18337 32.62 0
+OBJECT_SHARED Models/Airport/cargobox.xml -90.82832 33.18334 32.59 0
+OBJECT_SHARED Models/Airport/cargobox.xml -90.82824 33.18335 32.71 0
+OBJECT_SHARED Models/Airport/cargobox.xml -90.82810 33.18337 32.56 0
+OBJECT_SHARED Models/Airport/cargobox.xml -90.82811 33.18344 32.54 0
+OBJECT_SHARED Models/lib/office16x4n.ac -90.82831 33.18354 32.54 90
+OBJECT_SHARED Models/lib/container6-HD.ac -90.82829 33.18329 32.60 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.82798 33.18368 32.71 179.826
+OBJECT_SHARED Models/Transport/Norberttruck.xml -90.82809 33.18352 32.54 153.027
+OBJECT_SHARED Models/lib/trailer-fedex.ac -90.82857 33.18327 32.57 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -90.82820 33.18347 32.59 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -90.82850 33.18326 32.60 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -90.82854 33.18327 32.58 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -90.82824 33.18351 32.58 90
+OBJECT_SHARED Models/lib/shed8x10.ac -90.82888 33.18369 32.60 358.423
+OBJECT_SHARED Models/lib/SmHangar.ac -90.82929 33.18341 32.66 87.977
+# END dsf2stg

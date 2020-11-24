@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -97.67371 42.58145 0.00 111.987
+OBJECT_SHARED Models/lib/SmHangar.ac -97.67392 42.58220 508.21 20.377
+OBJECT_SHARED Models/lib/HorizTanks2.ac -97.67378 42.58064 508.72 289.654
+OBJECT_SHARED Models/lib/cars4.ac -97.67355 42.58158 507.79 92.0382
+OBJECT_SHARED Models/lib/propane-tank.ac -97.67348 42.58118 508.19 17.475
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.67345 42.58143 507.97 198.478
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.67348 42.58084 508.02 200.674
+OBJECT_SHARED Models/lib/propane-tank.ac -97.67360 42.58146 507.74 292.068
+# END dsf2stg

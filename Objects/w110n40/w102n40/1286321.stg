@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -101.73127 40.87033 0.00 122.735
+OBJECT_SHARED Models/lib/lamp10m.xml -101.73039 40.86974 1041.99 -20.0563
+OBJECT_SHARED Models/lib/lamp10m.xml -101.72937 40.86889 1041.97 120.65
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -101.72928 40.86875 1041.92 304.38
+OBJECT_SHARED Models/lib/HorizTanks2.ac -101.73078 40.86925 1041.93 301.742
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.73017 40.87001 1042.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.72998 40.86979 1041.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.73020 40.86953 1041.96 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.73038 40.86945 1041.98 0
+OBJECT_SHARED Models/Transport/van_silver.ac -101.73071 40.87015 1041.99 32.9051
+OBJECT_SHARED Models/Transport/van_red.ac -101.73077 40.87012 1042.01 35.2175
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.72982 40.86928 1042.01 215.197
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.72778 40.86619 1042.00 14.2812
+OBJECT_SHARED Models/Transport/van_silver.ac -101.72784 40.86618 1041.93 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -101.72793 40.86616 1041.93 16.9274
+# END dsf2stg

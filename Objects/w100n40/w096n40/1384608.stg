@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -95.86205 40.60577 0.00 254.75
+OBJECT_SHARED Models/lib/propane-tank.ac -95.86118 40.60496 350.02 250.43
+OBJECT_SHARED Models/lib/propane-tank.ac -95.86144 40.60500 349.86 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.86283 40.60481 350.02 254.5
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.86150 40.60484 350.60 343.66
+OBJECT_SHARED Models/Transport/van_red.ac -95.86158 40.60484 350.13 346.26
+# END dsf2stg

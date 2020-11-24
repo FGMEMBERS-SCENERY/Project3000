@@ -1,23 +1,23 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_red.ac -92.85715 48.01961 402.54 38.8407
-OBJECT_SHARED Models/Transport/hatchback_black.ac -92.85723 48.01956 402.54 51.7661
-OBJECT_SHARED Models/Transport/hatchback_black.ac -92.85735 48.01948 402.32 38.2109
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.85742 48.01944 402.10 44.1806
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -92.86025 48.02097 401.08 311.9
-OBJECT_SHARED Models/lib/fuel-truck.xml -92.85699 48.01898 402.12 313.336
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -92.85756 48.01888 401.35 313.727
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.85712 48.01963 402.65 44.9999
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -92.85719 48.01959 402.54 42.3574
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -92.85728 48.01953 402.32 46.888
-OBJECT_SHARED Models/Transport/hatchback_red.ac -92.85739 48.01946 402.20 44.9998
-OBJECT_SHARED Models/lib/office32x25n.ac -92.85682 48.01946 402.89 224.04
-OBJECT_SHARED Models/lib/MedHangar.ac -92.85657 48.01884 402.36 45.3229
-OBJECT_SHARED Models/lib/LongRow.ac -92.85882 48.02043 401.72 314.126
-OBJECT_SHARED Models/lib/HorizTanks2.ac -92.85874 48.01970 400.99 133.314
-OBJECT_SHARED Models/lib/SmHangar.ac -92.86020 48.02101 401.17 44.83
-OBJECT_SHARED Models/lib/SmHangar.ac -92.85998 48.02118 401.64 225
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -92.85791 48.01906 401.22 132.222
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -92.85808 48.01906 401.00 312.243
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.85715 48.01961 0.00 38.8407
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.85723 48.01956 402.54 51.7661
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.85735 48.01948 402.54 38.2109
+OBJECT_SHARED Models/Transport/van_silver.ac -92.85742 48.01944 402.32 44.1806
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -92.86025 48.02097 402.10 311.9
+OBJECT_SHARED Models/lib/fuel-truck.xml -92.85699 48.01898 401.08 313.336
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -92.85756 48.01888 402.12 313.727
+OBJECT_SHARED Models/Transport/van_red.ac -92.85712 48.01963 401.35 44.9999
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.85719 48.01959 402.65 42.3574
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.85728 48.01953 402.54 46.888
+OBJECT_SHARED Models/Transport/hatchback_red.ac -92.85739 48.01946 402.32 44.9998
+OBJECT_SHARED Models/lib/office32x25n.ac -92.85682 48.01946 402.21 224.04
+OBJECT_SHARED Models/lib/MedHangar.ac -92.85657 48.01884 402.89 45.3229
+OBJECT_SHARED Models/lib/LongRow.ac -92.85882 48.02043 402.35 314.126
+OBJECT_SHARED Models/lib/HorizTanks2.ac -92.85874 48.01970 401.72 133.314
+OBJECT_SHARED Models/lib/SmHangar.ac -92.86020 48.02101 400.99 44.83
+OBJECT_SHARED Models/lib/SmHangar.ac -92.85998 48.02118 401.17 225
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -92.85791 48.01906 401.64 132.222
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -92.85808 48.01906 401.22 312.243
 # END dsf2stg

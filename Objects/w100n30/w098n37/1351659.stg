@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/Norberttruck.xml -97.24867 37.64901 0.00 270
+OBJECT_SHARED Models/Transport/Norberttruck.xml -97.24878 37.64950 418.98 179.14
+OBJECT_SHARED Models/lib/cars2.ac -97.24768 37.64843 418.83 90
+OBJECT_SHARED Models/lib/cars4.ac -97.24920 37.64941 419.07 90
+OBJECT_SHARED Models/lib/prop_a.ac -97.24820 37.64786 418.88 181.47
+OBJECT_SHARED Models/lib/coal_pile.ac -97.24938 37.64888 419.21 54.29
+OBJECT_SHARED Models/Misc/6barrels.ac -97.24919 37.64883 418.93 0
+OBJECT_SHARED Models/lib/coal_pile.ac -97.24928 37.64885 418.96 90
+# END dsf2stg

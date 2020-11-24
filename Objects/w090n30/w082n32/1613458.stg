@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -81.32160 32.36252 0.00 43.01
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.32139 32.36215 23.78 43.01
+OBJECT_SHARED Models/lib/cars2.ac -81.32148 32.36240 23.70 133
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -81.32142 32.36220 23.81 42
+# END dsf2stg

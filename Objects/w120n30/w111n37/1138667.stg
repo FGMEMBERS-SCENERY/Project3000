@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.16950 37.64988 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.16843 37.64889 1639.50 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -110.16299 37.64443 1634.10 109.73
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.16791 37.64827 1616.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.16648 37.64679 1635.74 0
+OBJECT_SHARED Models/Transport/van_silver.ac -110.16305 37.64455 1630.89 0
+# END dsf2stg

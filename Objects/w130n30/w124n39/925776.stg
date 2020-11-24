@@ -1,0 +1,55 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75333 39.26340 0.00 142.59
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75322 39.26351 168.32 142.59
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75393 39.26357 168.26 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75380 39.26350 167.77 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75466 39.26401 167.88 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75515 39.26431 167.17 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75504 39.26424 167.01 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75492 39.26417 167.10 51.66
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75478 39.26409 167.10 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75453 39.26394 167.11 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75439 39.26385 167.19 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75428 39.26379 167.64 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75406 39.26365 167.69 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75366 39.26341 167.76 52
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75313 39.26360 167.92 142.59
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75304 39.26369 168.20 142.59
+OBJECT_SHARED Models/lib/SmHangar.ac -123.75294 39.26379 168.14 142.59
+OBJECT_SHARED Models/lib/farm19x12.ac -123.75122 39.26341 168.08 317.68
+OBJECT_SHARED Models/lib/prop_a.ac -123.75260 39.26354 169.10 217.32
+OBJECT_SHARED Models/lib/prop_a.ac -123.75193 39.26294 168.26 143.97
+OBJECT_SHARED Models/lib/prop_a.ac -123.75222 39.26265 169.02 144.25
+OBJECT_SHARED Models/Misc/picnic_table.ac -123.75218 39.26334 169.21 53
+OBJECT_SHARED Models/Misc/picnic_table.ac -123.75215 39.26384 168.76 323
+OBJECT_SHARED Models/Misc/picnic_table.ac -123.75217 39.26382 168.46 323
+OBJECT_SHARED Models/Misc/picnic_table.ac -123.75233 39.26354 168.46 53
+OBJECT_SHARED Models/Misc/picnic_table.ac -123.75223 39.26337 168.64 53
+OBJECT_SHARED Models/Misc/picnic_table.ac -123.75215 39.26332 168.70 53
+OBJECT_SHARED Models/lib/stack_of_cones.ac -123.75292 39.26338 168.76 311.19
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -123.75237 39.26384 168.32 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -123.75193 39.26322 168.46 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -123.75227 39.26338 168.83 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -123.75233 39.26356 168.70 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -123.75293 39.26339 168.58 217.79
+OBJECT_SHARED Models/Transport/hatchback_green.ac -123.75254 39.26389 168.32 233.13
+OBJECT_SHARED Models/Transport/van_silver.ac -123.75131 39.26337 168.02 223.33
+OBJECT_SHARED Models/lib/cars10.ac -123.75191 39.26362 169.10 310.59
+OBJECT_SHARED Models/lib/cars10.ac -123.75180 39.26321 168.58 142.4
+OBJECT_SHARED Models/lib/cars10.ac -123.75151 39.26304 168.83 142.4
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -123.75186 39.26317 168.96 142.72
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75334 39.26393 168.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75238 39.26421 168.02 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75260 39.26423 168.21 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75097 39.26361 167.83 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75138 39.26383 168.97 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75153 39.26338 168.84 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75157 39.26349 168.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75171 39.26366 168.64 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75153 39.26369 168.51 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75161 39.26377 168.51 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75182 39.26380 168.46 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -123.75188 39.26372 168.46 0
+# END dsf2stg

@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac 115.94009 40.37608 0.00 232.91
+OBJECT_SHARED Models/Transport/hatchback_black.ac 115.94078 40.37576 529.05 152.39
+OBJECT_SHARED Models/lib/prop_a.ac 115.94019 40.37636 529.23 236.31
+OBJECT_SHARED Models/lib/prop_a.ac 115.94006 40.37642 528.74 236.49
+OBJECT_SHARED Models/lib/prop_a.ac 115.93928 40.37669 528.74 235.56
+OBJECT_SHARED Models/lib/prop_a.ac 115.93913 40.37676 528.57 237.58
+OBJECT_SHARED Models/lib/cars4.ac 115.94098 40.37692 528.46 237.19
+OBJECT_SHARED Models/lib/cars10.ac 115.94090 40.37683 528.10 237.3
+# END dsf2stg

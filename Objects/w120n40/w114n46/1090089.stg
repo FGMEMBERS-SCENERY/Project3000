@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -113.65515 46.72652 0.00 171.87
+OBJECT_SHARED Models/lib/garden-shed.ac -113.65717 46.72655 1079.75 267.255
+OBJECT_SHARED Models/Transport/hatchback_black.ac -113.66154 46.72680 1079.76 299.249
+OBJECT_SHARED Models/lib/prop_a.ac -113.66161 46.72677 1079.00 81.4954
+OBJECT_SHARED Models/Transport/Norberttruck.xml -113.65789 46.72666 1079.00 88.4997
+OBJECT_SHARED Models/lib/trailer-fedex.ac -113.66296 46.72664 1079.76 4.96977
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -113.65623 46.72643 1078.83 357.221
+OBJECT_SHARED Models/lib/2container-office.ac -113.65725 46.72644 1079.89 175.815
+OBJECT_SHARED Models/lib/SmHangar.ac -113.66542 46.72675 1079.95 266.186
+OBJECT_SHARED Models/lib/lamp10m.xml -113.66183 46.72654 1077.93 267.064
+OBJECT_SHARED Models/lib/SmHangar.ac -113.66170 46.72653 1079.36 268.919
+# END dsf2stg

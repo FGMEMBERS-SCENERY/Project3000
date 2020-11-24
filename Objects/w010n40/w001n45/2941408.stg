@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84885 45.62264 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84890 45.62256 24.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84897 45.62246 24.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84903 45.62235 24.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84911 45.62224 24.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84917 45.62214 25.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84921 45.62206 25.09 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84925 45.62198 25.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84929 45.62194 25.18 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84933 45.62188 25.24 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84937 45.62182 25.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84940 45.62175 25.33 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84944 45.62171 25.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84947 45.62164 25.42 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84951 45.62159 25.48 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84955 45.62151 25.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84963 45.62139 25.56 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84959 45.62144 25.65 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84966 45.62135 25.63 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84970 45.62129 25.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84972 45.62125 25.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84976 45.62121 25.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84980 45.62115 25.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84982 45.62110 25.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84986 45.62105 25.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84989 45.62099 25.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84992 45.62094 25.73 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84995 45.62089 25.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.84998 45.62084 25.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.85002 45.62078 25.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.85000 45.62080 25.80 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -0.85128 45.62125 25.79 309.788
+OBJECT_SHARED Models/lib/stack_of_cones.ac -0.85109 45.62147 25.67 224.744
+OBJECT_SHARED Models/lib/cars4.ac -0.85192 45.62180 25.86 338.814
+# END dsf2stg

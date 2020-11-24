@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 38.10975 45.37346 -95.00 135
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 38.10949 45.37346 -94.03 131.27
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 38.10922 45.37346 -94.00 135
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 38.10895 45.37346 -93.97 139.09
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 38.10975 45.37364 -93.95 127.07
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 38.10949 45.37364 -94.00 139.15
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 38.10922 45.37364 -93.98 141.34
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 38.10895 45.37364 -93.94 139.59
+OBJECT_SHARED Models/Transport/van_red.ac 38.11076 45.37327 1.09 271.49
+OBJECT_SHARED Models/Transport/van_silver.ac 38.11076 45.37331 0.59 271.49
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 38.11165 45.37335 0.59 91.07
+OBJECT_SHARED Models/Transport/hatchback_green.ac 38.11102 45.37394 0.26 91.07
+OBJECT_SHARED Models/Transport/van_silver.ac 38.11050 45.37393 0.93 91.07
+OBJECT_SHARED Models/Transport/hatchback_green.ac 38.11068 45.37401 0.99 91.07
+OBJECT_SHARED Models/Transport/hatchback_red.ac 38.10940 45.37403 0.99 91.07
+OBJECT_SHARED Models/Transport/hatchback_black.ac 38.10829 45.37402 1.13 270.87
+# END dsf2stg

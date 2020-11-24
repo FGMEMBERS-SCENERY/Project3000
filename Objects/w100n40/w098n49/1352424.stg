@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac -97.79886 49.72808 0.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -97.79887 49.72809 242.33 0
+OBJECT_SHARED Models/Misc/6barrels.ac -97.79887 49.72805 242.33 0
+OBJECT_SHARED Models/lib/trailer-fedex.ac -97.79891 49.72825 242.33 190.22
+OBJECT_SHARED Models/lib/trailer-fedex.ac -97.79891 49.72822 242.34 190.22
+OBJECT_SHARED Models/lib/trailer-fedex.ac -97.79757 49.72803 242.34 298.37
+OBJECT_SHARED Models/lib/SmHangar.ac -97.79814 49.72877 242.33 180.64
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.79817 49.72891 242.39 181.11
+OBJECT_SHARED Models/lib/shed8x10.ac -97.79820 49.72756 242.37 16.46
+OBJECT_SHARED Models/lib/dGreenhse.ac -97.79910 49.72796 242.31 27.62
+# END dsf2stg

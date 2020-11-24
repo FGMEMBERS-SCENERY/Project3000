@@ -1,8 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/HorizTanks2.ac -79.39279 43.62391 71.31 0.5
-OBJECT_SHARED Models/lib/HorizTanks2.ac -79.39280 43.62400 71.29 0.5
-OBJECT_SHARED Models/lib/HorizTanks2.ac -79.39280 43.62409 71.26 0.5
-OBJECT_SHARED Models/lib/fuel-truck.xml -79.39288 43.62403 71.26 322.69
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.39286 43.62385 71.77 358.51
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.39286 43.62394 71.29 358.51
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.39286 43.62402 71.29 358.51
 # END dsf2stg

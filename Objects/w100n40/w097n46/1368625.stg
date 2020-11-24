@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -96.65676 46.83777 0.00 242.904
+OBJECT_SHARED Models/lib/prop_a.ac -96.65738 46.83819 278.38 63.7495
+OBJECT_SHARED Models/lib/prop_a.ac -96.65688 46.83802 278.19 64.24
+OBJECT_SHARED Models/lib/LongRow.ac -96.65449 46.83767 278.32 153.38
+OBJECT_SHARED Models/lib/LongRow.ac -96.65397 46.83838 278.99 153.38
+OBJECT_SHARED Models/lib/MedHangar.ac -96.65849 46.83886 279.05 63.95
+OBJECT_SHARED Models/lib/shed10x50.ac -96.65389 46.83878 277.87 154.32
+OBJECT_SHARED Models/lib/LongRow.ac -96.65423 46.83804 279.04 153.38
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -96.65583 46.83797 279.04 154.236
+OBJECT_SHARED Models/lib/vending-machine.ac -96.65822 46.83878 278.59 243.838
+OBJECT_SHARED Models/lib/stack_of_cones.ac -96.65817 46.83874 277.94 0
+OBJECT_SHARED Models/lib/lamp10m.xml -96.65881 46.83885 277.95 153.436
+OBJECT_SHARED Models/lib/lamp10m.xml -96.65596 46.83802 277.82 63.2966
+OBJECT_SHARED Models/lib/lamp10m.xml -96.65678 46.83830 278.54 63.6386
+OBJECT_SHARED Models/lib/lamp10m.xml -96.65744 46.83852 278.31 63.6221
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -96.65606 46.83768 278.14 63.5526
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.65554 46.83821 278.56 243.555
+OBJECT_SHARED Models/Transport/van_red.ac -96.65551 46.83826 278.64 243.555
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.65549 46.83828 278.63 243.555
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.65548 46.83830 278.63 243.555
+OBJECT_SHARED Models/Transport/hatchback_red.ac -96.65544 46.83834 278.63 243.555
+OBJECT_SHARED Models/Transport/van_red.ac -96.65543 46.83837 278.66 243.555
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.65460 46.83760 278.65 62.4473
+# END dsf2stg

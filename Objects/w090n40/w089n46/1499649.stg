@@ -1,0 +1,54 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.63497 46.08150 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.63468 46.08228 494.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.63536 46.08216 492.62 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.63544 46.08199 491.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.63477 46.08160 491.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.63461 46.08168 494.24 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.63461 46.08180 494.42 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.63456 46.08189 494.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.63460 46.08198 493.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.63460 46.08208 493.63 0
+OBJECT_SHARED Models/lib/cars10.ac -88.63432 46.08048 493.37 90
+OBJECT_SHARED Models/lib/cars10.ac -88.63435 46.08077 497.34 269.72
+OBJECT_SHARED Models/lib/cars10.ac -88.63405 46.08076 497.46 269.72
+OBJECT_SHARED Models/lib/cars10.ac -88.63401 46.08047 497.45 90
+OBJECT_SHARED Models/lib/office32x25.ac -88.63308 46.08055 496.65 270.27
+OBJECT_SHARED Models/lib/cube16x10.ac -88.63364 46.08051 494.58 179.23
+OBJECT_SHARED Models/lib/office112x50.ac -88.63431 46.08167 495.73 1.31
+OBJECT_SHARED Models/lib/shed8x10.ac -88.63391 46.07806 495.09 128.58
+OBJECT_SHARED Models/lib/prop_a.ac -88.63530 46.07929 493.03 188.32
+OBJECT_SHARED Models/lib/industrial13x24.ac -88.63485 46.08259 497.16 0
+OBJECT_SHARED Models/lib/prop_a.ac -88.63496 46.08177 491.61 180.24
+OBJECT_SHARED Models/lib/SmHangar.ac -88.63485 46.08208 493.26 358.51
+OBJECT_SHARED Models/lib/SmHangar.ac -88.63486 46.08193 492.92 358.51
+OBJECT_SHARED Models/lib/SmHangar.ac -88.63486 46.08178 493.22 0
+OBJECT_SHARED Models/lib/MedHangar.ac -88.63438 46.07842 493.49 45
+OBJECT_SHARED Models/lib/SmHangar.ac -88.63435 46.07764 494.62 100.22
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63613 46.08107 493.43 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63589 46.08109 489.84 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63603 46.08066 490.90 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63580 46.08067 491.22 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63594 46.08024 492.28 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63570 46.08025 492.86 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63584 46.07982 493.66 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63561 46.07984 494.42 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63575 46.07940 495.45 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63551 46.07942 495.98 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63542 46.07900 497.01 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63566 46.07898 496.75 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63556 46.07857 497.03 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63533 46.07859 496.32 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63524 46.07820 495.87 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63548 46.07819 495.15 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63515 46.07779 495.38 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63538 46.07777 494.43 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63505 46.07737 494.61 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63529 46.07735 493.77 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63496 46.07696 493.89 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63520 46.07694 493.05 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63487 46.07654 493.00 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -88.63510 46.07652 492.14 90
+# END dsf2stg

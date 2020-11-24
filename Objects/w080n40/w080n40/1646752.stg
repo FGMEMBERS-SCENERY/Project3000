@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -79.82628 40.60825 0.00 14.4704
+OBJECT_SHARED Models/lib/prop_a.ac -79.82648 40.60877 312.80 17.3541
+OBJECT_SHARED Models/lib/prop_a.ac -79.82549 40.60392 314.80 196.39
+OBJECT_SHARED Models/lib/prop_a.ac -79.82480 40.60361 309.75 195.751
+OBJECT_SHARED Models/lib/garden-shed.ac -79.82450 40.60374 322.56 16.69
+OBJECT_SHARED Models/lib/garden-shed.ac -79.82447 40.60374 321.03 16.69
+OBJECT_SHARED Models/lib/garden-shed.ac -79.82443 40.60375 321.03 16.69
+OBJECT_SHARED Models/lib/garden-shed.ac -79.82440 40.60376 316.87 16.48
+OBJECT_SHARED Models/lib/prop_a.ac -79.82485 40.60377 316.87 196.7
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -79.82447 40.60420 312.43 195.732
+OBJECT_SHARED Models/Transport/hatchback_red.ac -79.82461 40.60406 309.96 157.126
+OBJECT_SHARED Models/Transport/van_silver.ac -79.82459 40.60403 309.93 154.503
+OBJECT_SHARED Models/lib/cars10.ac -79.82413 40.60410 309.94 286.528
+# END dsf2stg

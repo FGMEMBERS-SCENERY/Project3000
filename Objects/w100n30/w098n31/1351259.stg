@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -97.14761 31.44049 0.00 179.436
+OBJECT_SHARED Models/lib/garage-small-white.ac -97.14754 31.44054 155.88 178.387
+OBJECT_SHARED Models/lib/prop_a.ac -97.14727 31.43996 155.31 114.008
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.14727 31.44001 155.73 18.9999
+OBJECT_SHARED Models/Transport/van_red.ac -97.14680 31.43946 155.73 210.379
+OBJECT_SHARED Models/lib/coal_pile.ac -97.14660 31.43898 155.22 90
+OBJECT_SHARED Models/lib/shed8x10.ac -97.14750 31.44025 155.23 125.538
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.14660 31.43907 155.75 298.257
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.14746 31.44042 155.25 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.14756 31.44046 155.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.14762 31.44061 155.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.14755 31.44065 155.49 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.14745 31.44066 154.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.14747 31.44174 154.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.14735 31.44069 152.91 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.14721 31.44020 153.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.14728 31.44016 154.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.14868 31.44085 155.34 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.14869 31.44067 156.92 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.14873 31.44094 157.34 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.14884 31.44106 156.92 270
+# END dsf2stg

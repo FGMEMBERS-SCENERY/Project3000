@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -115.97853 46.13512 0.00 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -115.97862 46.13512 382.79 90
+OBJECT_SHARED Models/lib/office8x14.ac -115.97935 46.13194 382.79 90.65
+OBJECT_SHARED Models/lib/coal_pile.ac -115.97815 46.13201 383.31 270
+OBJECT_SHARED Models/lib/coal_pile.ac -115.97819 46.13221 382.78 90
+OBJECT_SHARED Models/lib/coal_pile.ac -115.97816 46.13211 382.68 90
+OBJECT_SHARED Models/lib/garden-shed.ac -115.97920 46.13228 382.73 104.04
+OBJECT_SHARED Models/lib/coal_pile.ac -115.97828 46.13258 383.12 90
+OBJECT_SHARED Models/lib/coal_pile.ac -115.97838 46.13259 382.58 90
+OBJECT_SHARED Models/Airport/cargoip.xml -115.97858 46.13345 382.58 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97903 46.13076 383.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97913 46.13085 383.47 0
+OBJECT_SHARED Models/lib/canopy18x8.ac -115.97858 46.13513 383.47 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -115.97919 46.13490 382.79 193.54
+OBJECT_SHARED Models/Transport/hatchback_black.ac -115.97852 46.13323 382.58 276.71
+OBJECT_SHARED Models/lib/dGreenhse.ac -115.97929 46.13216 383.27 192.2
+OBJECT_SHARED Models/lib/transformer3x3.ac -115.98015 46.13419 383.20 104.45
+OBJECT_SHARED Models/lib/office16x4n.ac -115.97820 46.13275 384.68 7.5
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97850 46.13033 382.56 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97785 46.13114 383.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97750 46.13029 382.90 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.97857 46.13039 383.86 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.97754 46.13046 383.15 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -115.97855 46.13464 382.46 187.5
+OBJECT_SHARED Models/lib/coal_pile.ac -115.97818 46.13216 382.91 270
+OBJECT_SHARED Models/lib/coal_pile.ac -115.97826 46.13251 382.68 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97753 46.13014 382.65 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -115.97866 46.13380 382.43 290.56
+OBJECT_SHARED Models/lib/garages18x9.ac -115.97882 46.13497 383.55 183.91
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -115.97898 46.13457 382.65 290.22
+OBJECT_SHARED Models/lib/SmHangar.ac -115.97880 46.13432 382.91 4.39
+OBJECT_SHARED Models/lib/prop_a.ac -115.97889 46.13416 383.28 181.08
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97749 46.13020 383.40 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.98026 46.13479 383.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97783 46.13103 384.57 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97935 46.13112 382.91 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.97751 46.13035 383.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97757 46.13052 382.18 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.97863 46.13044 382.46 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -115.97842 46.13348 383.15 190.66
+OBJECT_SHARED Models/Transport/hatchback_black.ac -115.97844 46.13297 382.02 10.2
+# END dsf2stg

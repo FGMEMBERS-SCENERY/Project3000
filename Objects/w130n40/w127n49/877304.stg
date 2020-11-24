@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -126.84422 49.97979 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -126.84524 49.98046 1.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -126.84502 49.98043 0.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -126.84497 49.97966 0.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -126.84467 49.98021 0.14 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -126.85192 49.95490 0.40 331.6
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -126.85072 49.98087 -0.02 33.96
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -126.84477 49.97857 0.00 268.84
+OBJECT_SHARED Models/lib/shed8x10.ac -126.84446 49.97838 -0.00 254.05
+OBJECT_SHARED Models/lib/shed8x10.ac -126.84455 49.97925 -0.00 261.91
+OBJECT_SHARED Models/lib/trailer-ups.ac -126.84463 49.97854 0.00 95.1021
+OBJECT_SHARED Models/Transport/hatchback_green.ac -126.84494 49.97884 0.00 339.677
+OBJECT_SHARED Models/Transport/van_red.ac -126.84453 49.97902 -0.00 80.4068
+OBJECT_SHARED Models/Transport/van_red.ac -126.84457 49.97935 -0.00 261.104
+# END dsf2stg

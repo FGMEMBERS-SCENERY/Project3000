@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -92.91489 35.13221 0.00 270
+OBJECT_SHARED Models/lib/lamp10m.xml -92.91500 35.13252 266.11 270
+OBJECT_SHARED Models/lib/lamp10m.xml -92.91486 35.13278 267.61 270
+OBJECT_SHARED Models/lib/lamp10m.xml -92.91470 35.13299 268.34 270
+OBJECT_SHARED Models/lib/lamp10m.xml -92.91458 35.13314 268.61 270
+OBJECT_SHARED Models/lib/lamp10m.xml -92.91442 35.13334 268.74 270
+OBJECT_SHARED Models/lib/lamp10m.xml -92.90574 35.14523 268.02 -89.78
+OBJECT_SHARED Models/lib/lamp10m.xml -92.90574 35.14566 277.71 -89.78
+OBJECT_SHARED Models/lib/lamp10m.xml -92.90574 35.14544 278.82 -89.78
+OBJECT_SHARED Models/lib/lamp10m.xml -92.90606 35.14577 278.13 270
+OBJECT_SHARED Models/lib/lamp10m.xml -92.90605 35.14606 280.50 269.55
+OBJECT_SHARED Models/lib/lamp10m.xml -92.90554 35.14639 281.29 110.43
+OBJECT_SHARED Models/lib/lamp10m.xml -92.90579 35.14639 280.48 236.14
+OBJECT_SHARED Models/lib/transformer3x3.ac -92.90535 35.14637 280.77 90
+OBJECT_SHARED Models/lib/prop_a.ac -92.91467 35.13238 280.26 21.3
+OBJECT_SHARED Models/lib/prop_a.ac -92.91464 35.13291 266.15 329.77
+OBJECT_SHARED Models/Misc/picnic_table.ac -92.91477 35.13286 266.35 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -92.91440 35.13332 268.48 180
+OBJECT_SHARED Models/Misc/picnic_table.ac -92.91476 35.13253 268.02 285.64
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.91447 35.13323 266.18 287.53
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.91472 35.13283 268.88 244.54
+OBJECT_SHARED Models/lib/propane-tank.ac -92.90605 35.14561 267.64 88.44
+OBJECT_SHARED Models/lib/cars4.ac -92.90591 35.14566 278.85 179.14
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -92.90606 35.14544 279.00 269.75
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -92.90569 35.14640 279.17 0
+OBJECT_SHARED Models/lib/garden-shed.ac -92.90564 35.14640 280.67 0
+# END dsf2stg

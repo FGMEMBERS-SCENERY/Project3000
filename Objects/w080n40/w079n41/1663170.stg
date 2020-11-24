@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -78.41582 41.04821 0.00 246.66
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -78.41584 41.04818 451.19 246.66
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -78.41586 41.04814 451.19 246.66
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -78.41412 41.04758 451.09 71.53
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.41497 41.04779 452.76 70.31
+OBJECT_SHARED Models/lib/shed10x50.ac -78.41488 41.04724 451.89 160.75
+OBJECT_SHARED Models/lib/MedHangar.ac -78.41363 41.04709 452.02 249.47
+# END dsf2stg

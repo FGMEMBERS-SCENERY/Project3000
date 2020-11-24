@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -90.93855 30.17374 0.00 98.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.93835 30.17370 2.41 10.1
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -90.93854 30.17365 2.37 8.86
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -90.93863 30.17459 2.39 0
+OBJECT_SHARED Models/lib/fboModern1.ac -90.93866 30.17412 2.40 9.26
+OBJECT_SHARED Models/lib/LongRow.ac -90.93839 30.17527 2.43 98.57
+OBJECT_SHARED Models/lib/LongRow.ac -90.93863 30.17648 2.34 98.45
+OBJECT_SHARED Models/lib/LongRow.ac -90.93904 30.17642 2.32 98.19
+OBJECT_SHARED Models/lib/LongRow.ac -90.93951 30.17635 2.38 98.65
+OBJECT_SHARED Models/lib/LongRow.ac -90.93871 30.17523 2.45 98.47
+OBJECT_SHARED Models/Misc/picnic_table.ac -90.93869 30.17461 2.40 195.95
+OBJECT_SHARED Models/lib/stack_of_cones.ac -90.93858 30.17399 2.42 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -90.93843 30.17453 2.41 281.98
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -90.93849 30.17393 2.35 99.35
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -90.93833 30.17484 2.39 98.99
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -90.93878 30.17503 2.32 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -90.93869 30.17496 2.43 0
+# END dsf2stg

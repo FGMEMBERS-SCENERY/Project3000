@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -0.19709 49.01898 0.00 75.17
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20062 49.01740 105.64 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20072 49.01740 108.14 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20079 49.01739 108.12 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20088 49.01738 108.10 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20100 49.01738 108.07 267.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20112 49.01737 108.04 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20127 49.01737 107.94 177.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20140 49.01736 107.64 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20155 49.01736 107.37 267.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20166 49.01735 107.07 267.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20177 49.01734 107.11 267.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20192 49.01733 106.90 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20202 49.01733 106.60 267.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20217 49.01731 106.14 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20230 49.01731 105.44 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20246 49.01731 104.84 241.35
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20254 49.01730 104.13 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20266 49.01729 103.76 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20204 49.01746 103.19 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20193 49.01746 105.51 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20183 49.01747 106.03 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20170 49.01747 106.25 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20158 49.01747 106.48 87.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20143 49.01747 106.73 87.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20111 49.01749 107.01 357.92
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.20101 49.01750 107.64 357.92
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19916 49.01729 107.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19923 49.01734 109.39 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19912 49.01735 109.34 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -0.19912 49.01746 109.40 315
+OBJECT_SHARED Models/lib/deciduous-tree.xml -0.19925 49.01746 108.88 315
+# END dsf2stg

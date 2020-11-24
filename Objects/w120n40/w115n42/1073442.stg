@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -114.49632 42.59136 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -114.49632 42.59118 1107.00 0
+OBJECT_SHARED Models/lib/office32x25n.ac -114.49842 42.59105 1107.00 90
+OBJECT_SHARED Models/lib/lamp10m.xml -114.49644 42.59110 1107.12 90
+OBJECT_SHARED Models/lib/lamp10m.xml -114.49644 42.59107 1107.00 90
+# END dsf2stg

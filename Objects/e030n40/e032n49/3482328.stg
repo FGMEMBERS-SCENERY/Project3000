@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 32.01104 49.40497 0.00 52.7
+OBJECT_SHARED Models/lib/SmHangar.ac 32.00959 49.40695 103.17 28.93
+OBJECT_SHARED Models/lib/SmHangar.ac 32.00883 49.40748 103.60 51.69
+OBJECT_SHARED Models/lib/SmHangar.ac 32.00845 49.40767 103.76 51.03
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 32.01509 49.40322 103.83 52.09
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 32.01512 49.40325 106.36 53.75
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 32.01501 49.40326 106.16 49.33
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 32.01505 49.40329 105.94 49.85
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 32.01494 49.40330 106.16 51.89
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 32.01161 49.40236 105.68 323.53
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 32.01165 49.40239 102.68 326.5
+OBJECT_SHARED Models/lib/office3x10.ac 32.01229 49.40150 102.67 231.29
+OBJECT_SHARED Models/lib/trailer-fedex.ac 32.01196 49.40116 102.43 233.8
+OBJECT_SHARED Models/lib/trailer-fedex.ac 32.01205 49.40112 102.41 231.63
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 32.01358 49.40313 102.38 49.89
+# END dsf2stg

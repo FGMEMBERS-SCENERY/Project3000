@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.24893 41.20890 0.00 333.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.24890 41.20881 363.59 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.24946 41.20897 364.78 273.814
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.24945 41.20899 364.09 270
+OBJECT_SHARED Models/Transport/van_red.ac -81.24945 41.20902 364.09 96.4551
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.24802 41.21264 365.63 102.529
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.24741 41.21200 365.55 350.538
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.24686 41.21212 365.15 10.3048
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.24654 41.21257 365.18 158.199
+OBJECT_SHARED Models/Transport/van_red.ac -81.24519 41.21211 365.68 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.24518 41.21206 364.78 86.9872
+OBJECT_SHARED Models/Transport/van_silver.ac -81.24518 41.21203 364.78 95.1945
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -81.24866 41.21275 364.58 180
+OBJECT_SHARED Models/lib/cars6.ac -81.24928 41.20893 365.46 273.61
+OBJECT_SHARED Models/lib/cars10.ac -81.24964 41.20880 363.88 93.01
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -81.24653 41.21195 364.06 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -81.24633 41.21208 364.88 0
+OBJECT_SHARED Models/lib/prop_a.ac -81.24808 41.21193 365.07 97.0298
+OBJECT_SHARED Models/lib/LongRow.ac -81.24759 41.21233 365.23 96.01
+OBJECT_SHARED Models/lib/LongRow.ac -81.24638 41.21241 365.40 95.57
+OBJECT_SHARED Models/lib/LongRow.ac -81.24601 41.21244 365.45 95.57
+OBJECT_SHARED Models/lib/LongRow.ac -81.24678 41.21238 365.42 95.57
+OBJECT_SHARED Models/lib/LongRow.ac -81.24719 41.21234 365.48 95.57
+OBJECT_SHARED Models/lib/prop_a.ac -81.24567 41.21158 364.75 3.37
+OBJECT_SHARED Models/lib/MedHangar.ac -81.24891 41.20935 365.19 274.09
+OBJECT_SHARED Models/lib/SmHangar.ac -81.24686 41.21209 363.88 183.24
+OBJECT_SHARED Models/lib/prop_a.ac -81.24873 41.20958 365.18 275.258
+OBJECT_SHARED Models/lib/prop_a.ac -81.24904 41.20955 363.86 272.998
+OBJECT_SHARED Models/lib/prop_a.ac -81.24889 41.20956 364.06 272.726
+# END dsf2stg

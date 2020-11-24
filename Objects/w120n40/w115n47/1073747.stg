@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -114.08248 47.32633 0.00 160.19
+OBJECT_SHARED Models/lib/shed8x10.ac -114.08054 47.32569 908.82 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -114.08198 47.32594 910.21 178.91
+OBJECT_SHARED Models/lib/dGreenhse.ac -114.08192 47.32593 909.02 178.91
+OBJECT_SHARED Models/lib/SmHangar.ac -114.08257 47.32590 909.02 70.58
+OBJECT_SHARED Models/lib/SmHangar.ac -114.08283 47.32596 907.76 70.39
+OBJECT_SHARED Models/lib/SmHangar.ac -114.08310 47.32602 907.78 70.39
+OBJECT_SHARED Models/lib/SmHangar.ac -114.08337 47.32609 907.78 70.39
+OBJECT_SHARED Models/lib/SmHangar.ac -114.08363 47.32615 907.80 70.39
+OBJECT_SHARED Models/lib/SmHangar.ac -114.08185 47.32578 906.59 178.28
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.07899 47.32620 909.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.07897 47.32636 911.67 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.08148 47.32606 911.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -114.08189 47.32600 909.80 0
+OBJECT_SHARED Models/lib/prop_a.ac -114.08079 47.32558 909.00 270
+OBJECT_SHARED Models/lib/prop_a.ac -114.08261 47.32581 910.21 251.57
+OBJECT_SHARED Models/Transport/hatchback_red.ac -114.08064 47.32565 907.74 155.77
+OBJECT_SHARED Models/Transport/hatchback_green.ac -114.08184 47.32624 910.21 151.7
+OBJECT_SHARED Models/Transport/hatchback_black.ac -114.08188 47.32625 908.89 151.56
+OBJECT_SHARED Models/lib/propane-tank.ac -114.08440 47.32652 908.89 71.18
+# END dsf2stg

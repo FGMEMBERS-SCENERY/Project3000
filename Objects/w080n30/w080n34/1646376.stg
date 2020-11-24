@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/6space_wStop.ac -79.96103 34.71039 0.00 109.431
+OBJECT_SHARED Models/lib/SmHangar.ac -79.96157 34.70834 65.94 20.54
+OBJECT_SHARED Models/lib/SmHangar.ac -79.96169 34.70853 65.78 21.22
+OBJECT_SHARED Models/lib/SmHangar.ac -79.96419 34.70945 66.14 290.44
+OBJECT_SHARED Models/lib/SmHangar.ac -79.96176 34.70874 70.47 21.62
+OBJECT_SHARED Models/lib/SmHangar.ac -79.96186 34.70895 66.51 22.04
+OBJECT_SHARED Models/lib/SmHangar.ac -79.96195 34.70911 66.82 22.27
+OBJECT_SHARED Models/lib/SmHangar.ac -79.96220 34.70992 66.96 111.21
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.96054 34.71052 67.66 309.805
+OBJECT_SHARED Models/lib/office8x14.ac -79.96322 34.70838 65.23 64.5543
+OBJECT_SHARED Models/lib/shed8x10.ac -79.96261 34.70850 68.12 65.7725
+OBJECT_SHARED Models/lib/prop_a.ac -79.96147 34.71054 67.40 106.389
+OBJECT_SHARED Models/Transport/hatchback_black.ac -79.96100 34.71037 66.62 23.1985
+OBJECT_SHARED Models/lib/prop_a.ac -79.96104 34.71108 65.94 290.879
+OBJECT_SHARED Models/Transport/van_red.ac -79.96308 34.70838 65.71 64.2306
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.96119 34.71013 67.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.96085 34.71025 66.27 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.96068 34.71035 65.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.96024 34.71048 65.53 0
+# END dsf2stg

@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -6.70530 41.85490 0.00 -11
+OBJECT_SHARED Models/Transport/van_silver.ac -6.70518 41.85569 681.58 74.05
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -6.70515 41.85607 682.61 184.09
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -6.70511 41.85588 683.16 76.43
+OBJECT_SHARED Models/Transport/van_silver.ac -6.70513 41.85584 682.88 73.61
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -6.70510 41.85535 682.74 75.43
+OBJECT_SHARED Models/Transport/hatchback_green.ac -6.70551 41.85571 682.22 255.96
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -6.70523 41.85511 682.66 167.02
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -6.70552 41.85610 681.85 76.55
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -6.70555 41.85642 683.19 77.49
+OBJECT_SHARED Models/lib/fuel-truck.xml -6.70554 41.85622 683.48 261.12
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -6.70545 41.85665 683.30 213.35
+OBJECT_SHARED Models/lib/HorizTanks2.ac -6.70567 41.85654 683.74 77.39
+OBJECT_SHARED Models/lib/lamp10m.xml -6.70568 41.85576 683.53 -13.57
+OBJECT_SHARED Models/lib/lamp10m.xml -6.70561 41.85604 682.82 -14.53
+OBJECT_SHARED Models/lib/lamp10m.xml -6.70518 41.85528 683.06 -11.98
+OBJECT_SHARED Models/lib/SmHangar.ac -6.70575 41.85500 682.11 347.23
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70909 41.84925 681.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70905 41.84938 670.53 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70905 41.84956 670.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70853 41.84979 671.34 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70910 41.84976 672.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70560 41.85569 671.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70570 41.85571 682.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70509 41.85495 682.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70512 41.86052 681.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70524 41.86057 686.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.70511 41.86140 686.03 0
+# END dsf2stg

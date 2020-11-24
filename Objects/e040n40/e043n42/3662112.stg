@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 43.13423 42.52840 0.00 335.31
+OBJECT_SHARED Models/Transport/hatchback_black.ac 43.13420 42.52841 545.17 156
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 43.13406 42.52846 545.17 336
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 43.13399 42.52849 545.42 332.99
+OBJECT_SHARED Models/Transport/van_silver.ac 43.13786 42.52685 545.38 181.3
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 43.13789 42.52684 546.89 181.3
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 43.13798 42.52681 546.49 181.3
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 43.13807 42.52678 546.58 181.3
+OBJECT_SHARED Models/Transport/hatchback_black.ac 43.13811 42.52676 546.64 181.3
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 43.13812 42.52695 546.64 3.91
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 43.13774 42.52704 547.00 65.44
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 43.13803 42.52698 547.00 0.519989
+OBJECT_SHARED Models/Transport/hatchback_red.ac 43.13776 42.52708 547.31 65.44
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 43.13769 42.52711 547.56 247
+OBJECT_SHARED Models/Transport/hatchback_green.ac 43.13767 42.52708 547.42 247
+OBJECT_SHARED Models/Transport/hatchback_red.ac 43.13766 42.52706 547.42 247
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 43.13764 42.52704 547.42 247
+OBJECT_SHARED Models/Transport/van_silver.ac 43.13769 42.52697 546.83 65.75
+OBJECT_SHARED Models/Transport/van_silver.ac 43.13770 42.52699 547.00 65.5
+OBJECT_SHARED Models/Transport/hatchback_black.ac 43.13779 42.52688 547.00 180.63
+OBJECT_SHARED Models/Transport/van_silver.ac 43.13792 42.52683 546.74 177.65
+OBJECT_SHARED Models/Transport/hatchback_black.ac 43.13749 42.52698 546.49 154.93
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 43.13721 42.52747 546.65 242.04
+OBJECT_SHARED Models/Transport/hatchback_black.ac 43.13715 42.52750 549.03 242.04
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 43.13697 42.52756 549.00 242.04
+OBJECT_SHARED Models/Transport/hatchback_black.ac 43.13727 42.52733 549.67 242.04
+OBJECT_SHARED Models/Transport/hatchback_black.ac 43.13720 42.52735 547.67 242.04
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 43.13684 42.52761 548.34 242.04
+OBJECT_SHARED Models/Transport/van_red.ac 43.13686 42.52748 549.60 242.8
+OBJECT_SHARED Models/lib/cube16x10.ac 43.13469 42.52801 548.94 243.18
+# END dsf2stg

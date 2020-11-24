@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -0.32197 42.08250 0.00 279.9
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -0.32249 42.08191 535.05 279.9
+OBJECT_SHARED Models/lib/SmHangar.ac -0.32573 42.08325 535.25 59.71
+OBJECT_SHARED Models/lib/MedHangar.ac -0.32444 42.08251 533.48 57.42
+OBJECT_SHARED Models/lib/SmHangar.ac -0.32515 42.08296 534.66 58.3
+OBJECT_SHARED Models/lib/admin-with-cars.ac -0.32227 42.08224 534.06 327.09
+OBJECT_SHARED Models/lib/fuel-truck.xml -0.32349 42.08193 535.15 325.72
+OBJECT_SHARED Models/lib/fuel-truck.xml -0.32345 42.08191 535.17 323.58
+OBJECT_SHARED Models/lib/HorizTanks2.ac -0.32362 42.08200 535.17 148.89
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -0.32325 42.08180 535.11 235.95
+OBJECT_SHARED Models/lib/cube16x10.ac -0.31780 42.07965 535.24 146.49
+OBJECT_SHARED Models/lib/watertank3x1.ac -0.31797 42.07970 533.23 322.72
+OBJECT_SHARED Models/lib/watertank3x1.ac -0.31798 42.07971 533.36 322.72
+OBJECT_SHARED Models/lib/watertank3x1.ac -0.31800 42.07972 533.37 322.72
+OBJECT_SHARED Models/lib/watertank3x1.ac -0.31802 42.07973 533.38 322.72
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31773 42.07921 533.39 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31775 42.07919 533.21 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31777 42.07918 533.23 315
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31766 42.07943 533.25 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31768 42.07945 533.10 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31770 42.07945 533.13 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31837 42.07969 533.14 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31840 42.07971 533.66 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31838 42.07972 533.69 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31819 42.07990 533.67 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31822 42.07991 533.48 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.31820 42.07991 533.50 0
+# END dsf2stg

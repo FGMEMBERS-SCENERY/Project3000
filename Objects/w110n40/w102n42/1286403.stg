@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -101.06021 42.04420 0.00 352.61
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.06115 42.04367 983.12 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.06120 42.04366 981.05 158.96
+OBJECT_SHARED Models/Transport/hatchback_green.ac -101.06134 42.04365 981.05 284.47
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.06127 42.04365 981.05 352.65
+OBJECT_SHARED Models/lib/shed8x10.ac -101.06234 42.04330 981.05 93.12
+OBJECT_SHARED Models/lib/shed8x10.ac -101.06212 42.04346 980.70 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -101.06138 42.04347 983.68 90.26
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.05687 42.04255 980.24 147.53
+OBJECT_SHARED Models/Airport/cargobox.xml -101.05713 42.04255 979.41 36.87
+OBJECT_SHARED Models/Airport/cargobox.xml -101.05711 42.04253 979.41 180
+OBJECT_SHARED Models/lib/SmHangar.ac -101.05650 42.04246 979.37 82.25
+OBJECT_SHARED Models/lib/SmHangar.ac -101.05700 42.04252 979.37 81.39
+OBJECT_SHARED Models/lib/SmHangar.ac -101.05748 42.04258 979.37 80.88
+# END dsf2stg

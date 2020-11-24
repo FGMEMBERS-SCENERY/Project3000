@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -101.93878 33.41757 0.00 90
+OBJECT_SHARED Models/lib/shed8x10.ac -101.93944 33.42328 993.50 90
+OBJECT_SHARED Models/lib/shed8x10.ac -101.93944 33.42330 993.37 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -101.93887 33.42372 993.37 270.25
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -101.93894 33.42388 993.35 0.429993
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.93903 33.42388 993.35 0.429993
+OBJECT_SHARED Models/Airport/cargobox.xml -101.93887 33.42407 993.35 216.19
+OBJECT_SHARED Models/Airport/cargobox.xml -101.93888 33.42404 993.34 310.36
+OBJECT_SHARED Models/Airport/cargobox.xml -101.93889 33.42405 993.34 232.43
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -101.93890 33.42392 993.34 315.64
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.93876 33.42396 993.35 0
+OBJECT_SHARED Models/lib/trailer-fedex.ac -101.93878 33.42418 993.34 180
+OBJECT_SHARED Models/lib/coal_pile.ac -101.93932 33.42328 993.34 90
+OBJECT_SHARED Models/lib/lamp10m.xml -101.93894 33.42406 993.37 180.53
+OBJECT_SHARED Models/lib/lamp10m.xml -101.93893 33.42344 993.34 180.53
+OBJECT_SHARED Models/lib/MedHangar.ac -101.93889 33.42344 993.37 180.25
+# END dsf2stg

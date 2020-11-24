@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -89.18644 42.91671 0.00 358.97
+OBJECT_SHARED Models/lib/cone.ac -89.18697 42.91657 278.56 237.67
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.18705 42.91667 275.03 237.67
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.18697 42.91668 274.81 237.67
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18708 42.91658 275.09 237.67
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18710 42.91658 274.75 237.67
+OBJECT_SHARED Models/lib/2vending-machines.ac -89.18698 42.91656 274.75 89.87
+OBJECT_SHARED Models/lib/cone.ac -89.18697 42.91738 275.03 237.67
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.18705 42.91749 275.50 237.67
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.18697 42.91749 275.28 237.67
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18708 42.91739 275.56 237.67
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18710 42.91739 275.22 237.67
+OBJECT_SHARED Models/lib/2vending-machines.ac -89.18698 42.91738 275.22 89.87
+OBJECT_SHARED Models/lib/cone.ac -89.18651 42.91688 275.50 57.39
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.18642 42.91677 278.52 57.39
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -89.18650 42.91689 278.58 359.24
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.18650 42.91676 278.52 57.39
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18639 42.91687 278.50 57.39
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18637 42.91687 278.61 57.39
+OBJECT_SHARED Models/lib/2vending-machines.ac -89.18650 42.91688 278.61 269.59
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18707 42.91652 278.52 90
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18706 42.91654 274.69 90
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18700 42.91655 274.69 356.63
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18636 42.91669 275.03 93.81
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18636 42.91671 278.56 273.81
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18643 42.91717 278.56 357.71
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18640 42.91772 278.64 173.66
+OBJECT_SHARED Models/Misc/6barrels.ac -89.18699 42.91770 278.66 254.05
+OBJECT_SHARED Models/lib/shed8x10.ac -89.18702 42.91731 275.68 268.17
+OBJECT_SHARED Models/Transport/hatchback_green.ac -89.18705 42.91771 275.45 274.18
+OBJECT_SHARED Models/Transport/hatchback_black.ac -89.18647 42.91773 275.68 111.8
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.18649 42.91756 278.42 272.73
+OBJECT_SHARED Models/Transport/hatchback_green.ac -89.18647 42.91737 278.53 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.18650 42.91719 278.56 266.42
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -89.18659 42.91698 278.54 216.61
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.18656 42.91699 278.42 228.81
+OBJECT_SHARED Models/Transport/hatchback_green.ac -89.18712 42.91776 278.42 270.71
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -89.18710 42.91774 275.46 270.71
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.18708 42.91649 275.40 270.71
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.18648 42.91693 274.69 270.71
+OBJECT_SHARED Models/Transport/hatchback_green.ac -89.18653 42.91705 278.52 235.01
+OBJECT_SHARED Models/Transport/hatchback_black.ac -89.18655 42.91702 278.54 235.01
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -89.18699 42.91651 278.54 87.34
+# END dsf2stg

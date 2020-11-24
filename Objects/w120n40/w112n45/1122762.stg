@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.32828 45.24694 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.32862 45.24647 1997.42 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.32802 45.24667 1997.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -111.32876 45.24676 1996.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -111.33102 45.24606 1998.60 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -111.33108 45.24598 1999.83 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -111.33070 45.24575 1999.74 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -111.33052 45.24582 1999.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -111.33089 45.24595 1999.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -111.33064 45.24607 1999.68 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -111.33076 45.24610 1999.83 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -111.33084 45.24584 1999.83 0
+OBJECT_SHARED Models/Transport/Norberttruck.xml -111.33090 45.24573 1999.61 307.937
+OBJECT_SHARED Models/lib/SmHangar.ac -111.33042 45.24628 1999.51 204.811
+OBJECT_SHARED Models/lib/industrial13x24.ac -111.33096 45.24644 1998.82 294.628
+# END dsf2stg

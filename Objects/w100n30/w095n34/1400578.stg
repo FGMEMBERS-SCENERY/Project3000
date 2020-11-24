@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -94.40149 34.04589 0.00 186.98
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -94.40037 34.04586 106.23 96.32
+OBJECT_SHARED Models/lib/SmHangar.ac -94.40118 34.04591 106.33 186.05
+OBJECT_SHARED Models/lib/2container-office.ac -94.40101 34.04566 106.25 275.57
+OBJECT_SHARED Models/lib/shed8x10.ac -94.40059 34.04574 106.50 6.82023
+OBJECT_SHARED Models/lib/office3x10.ac -94.40193 34.04550 106.55 89.8372
+OBJECT_SHARED Models/lib/cars4.ac -94.40066 34.04569 106.66 7.24293
+OBJECT_SHARED Models/lib/propane-tank.ac -94.40101 34.04552 106.53 5.22221
+OBJECT_SHARED Models/lib/propane-tank.ac -94.40101 34.04551 106.76 5.22221
+# END dsf2stg

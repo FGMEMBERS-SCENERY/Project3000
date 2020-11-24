@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -97.04908 39.73222 0.00 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac -97.04840 39.73246 434.12 359.79
+OBJECT_SHARED Models/lib/SmHangar.ac -97.04865 39.73267 434.32 179.77
+OBJECT_SHARED Models/lib/SmHangar.ac -97.04865 39.73257 434.41 179.77
+OBJECT_SHARED Models/lib/SmHangar.ac -97.04865 39.73257 434.41 179.77
+OBJECT_SHARED Models/lib/SmHangar.ac -97.04865 39.73246 434.36 179.77
+OBJECT_SHARED Models/lib/SmHangar.ac -97.04889 39.73252 434.31 359.77
+OBJECT_SHARED Models/lib/SmHangar.ac -97.04889 39.73262 434.29 359.77
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -97.04920 39.73235 434.34 235.408
+# END dsf2stg

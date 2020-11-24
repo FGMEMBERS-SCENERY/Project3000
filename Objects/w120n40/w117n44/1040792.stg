@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -116.75988 44.46179 0.00 358.03
+OBJECT_SHARED Models/lib/prop_a.ac -116.75987 44.46193 793.24 356.42
+OBJECT_SHARED Models/lib/SmHangar.ac -116.75945 44.46196 793.22 89.5
+OBJECT_SHARED Models/lib/fuel-truck.xml -116.75924 44.46171 792.03 90.23
+OBJECT_SHARED Models/Transport/hatchback_green.ac -116.76082 44.46205 792.02 178.9
+# END dsf2stg

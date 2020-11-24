@@ -1,36 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -75.76118 37.64252 12.85 -5.01001
-OBJECT_SHARED Models/lib/lamp10m.xml -75.76094 37.64295 12.91 -74.01
-OBJECT_SHARED Models/lib/lamp10m.xml -75.76105 37.64277 12.88 70
-OBJECT_SHARED Models/lib/lamp10m.xml -75.76055 37.64322 12.92 0
-OBJECT_SHARED Models/lib/lamp10m.xml -75.76048 37.64335 12.94 125
-OBJECT_SHARED Models/lib/HorizTanks2.ac -75.76053 37.64328 12.93 338
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -75.76160 37.64261 12.86 245
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -75.76129 37.64320 12.93 245
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -75.76124 37.64332 12.93 245
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -75.76116 37.64345 12.95 245
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -75.76107 37.64335 12.95 245
-OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -75.76105 37.64242 12.84 315
-OBJECT_SHARED Models/lib/fuel-truck.xml -75.76133 37.64231 12.83 155
-OBJECT_SHARED Models/lib/LongRow.ac -75.76081 37.64390 12.99 338
-OBJECT_SHARED Models/lib/LongRow.ac -75.76066 37.64420 13.01 338
-OBJECT_SHARED Models/lib/admin31x12.ac -75.76102 37.64269 12.88 156.5
-OBJECT_SHARED Models/Trees/billboard-tree.xml -75.76055 37.64260 12.85 320
-OBJECT_SHARED Models/Trees/billboard-tree.xml -75.76062 37.64251 12.84 320
-OBJECT_SHARED Models/Trees/billboard-tree.xml -75.76080 37.64279 12.89 320
-OBJECT_SHARED Models/Trees/billboard-tree.xml -75.76083 37.64274 12.87 320
-OBJECT_SHARED Models/Trees/billboard-tree.xml -75.76066 37.64266 12.87 320
-OBJECT_SHARED Models/Trees/billboard-tree.xml -75.76085 37.64269 12.87 320
-OBJECT_SHARED Models/Trees/billboard-tree.xml -75.76090 37.64259 12.86 283.9
-OBJECT_SHARED Models/Trees/billboard-tree.xml -75.76091 37.64255 12.85 279.93
-OBJECT_SHARED Models/Trees/billboard-tree.xml -75.76087 37.64244 12.84 290.08
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -75.76227 37.64730 13.03 65
-OBJECT_SHARED Models/lib/shed8x10.ac -75.76234 37.64706 13.04 247
-OBJECT_SHARED Models/lib/transformer3x3.ac -75.76243 37.64678 13.04 66
-OBJECT_SHARED Models/lib/transformer3x3.ac -75.75704 37.65619 13.08 65
-OBJECT_SHARED Models/lib/cars14.ac -75.76068 37.64227 12.82 337.6
-OBJECT_SHARED Models/lib/cars10.ac -75.76095 37.64221 12.81 68.01
-OBJECT_SHARED Models/lib/cars2.ac -75.76097 37.64216 12.81 68.01
+OBJECT_SHARED Models/lib/SmHangar.ac -75.78759 37.72372 0.00 104.84
+OBJECT_SHARED Models/lib/shed8x10.ac -75.78713 37.72329 -0.00 14.84
+OBJECT_SHARED Models/lib/shed8x10.ac -75.78593 37.72357 -0.00 16.26
 # END dsf2stg

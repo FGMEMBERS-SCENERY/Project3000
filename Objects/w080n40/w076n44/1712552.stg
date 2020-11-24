@@ -1,11 +1,30 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -75.75092 44.63518 120.71 332.862
-OBJECT_SHARED Models/lib/SmHangar.ac -75.75099 44.63654 121.01 329.352
-OBJECT_SHARED Models/lib/SmHangar.ac -75.75086 44.63468 120.58 239.762
-OBJECT_SHARED Models/lib/SmHangar.ac -75.75111 44.63479 120.65 239.213
-OBJECT_SHARED Models/lib/SmHangar.ac -75.75141 44.63441 120.61 329.462
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.75122 44.63598 25.95 0
-OBJECT_SHARED Models/lib/MedHangar.ac -75.75030 44.63450 120.38 60.4848
+OBJECT_SHARED Models/lib/lamp10m.xml -75.75124 44.63590 0.00 86.55
+OBJECT_SHARED Models/lib/lamp10m.xml -75.75130 44.63593 120.93 39.37
+OBJECT_SHARED Models/lib/lamp10m.xml -75.75132 44.63597 120.95 -9.14002
+OBJECT_SHARED Models/lib/lamp10m.xml -75.75118 44.63592 120.97 128.7
+OBJECT_SHARED Models/lib/lamp10m.xml -75.75115 44.63596 120.93 173.12
+OBJECT_SHARED Models/lib/lamp10m.xml -75.75117 44.63600 120.93 219.14
+OBJECT_SHARED Models/lib/lamp10m.xml -75.75122 44.63603 120.95 261.85
+OBJECT_SHARED Models/lib/lamp10m.xml -75.75129 44.63601 120.95 -51.29
+OBJECT_SHARED Models/lib/prop_a.ac -75.75160 44.63458 120.97 57.17
+OBJECT_SHARED Models/lib/prop_a.ac -75.75116 44.63688 120.71 238.24
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -75.75075 44.63596 121.12 36.7
+OBJECT_SHARED Models/Transport/hatchback_black.ac -75.75107 44.63610 120.88 217.18
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -75.75487 44.63798 120.95 169.51
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.75492 44.63801 121.67 170.54
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.75496 44.63802 121.67 145.62
+OBJECT_SHARED Models/lib/2container-office.ac -75.75524 44.63804 121.67 318.12
+OBJECT_SHARED Models/lib/2container-office.ac -75.75542 44.63817 121.66 320.39
+OBJECT_SHARED Models/lib/2container-office.ac -75.75539 44.63792 121.72 33.06
+OBJECT_SHARED Models/lib/SmHangar.ac -75.75086 44.63468 121.61 239.76
+OBJECT_SHARED Models/lib/SmHangar.ac -75.75111 44.63479 120.58 239.21
+OBJECT_SHARED Models/lib/SmHangar.ac -75.75141 44.63441 120.65 329.46
+OBJECT_SHARED Models/lib/garden-shed.ac -75.75138 44.63618 120.31 228.01
+OBJECT_SHARED Models/lib/garden-shed.ac -75.75158 44.63556 121.03 308.66
+OBJECT_SHARED Models/Transport/hatchback_black.ac -75.75034 44.63449 120.94 158.84
+OBJECT_SHARED Models/Transport/hatchback_green.ac -75.75053 44.63441 120.37 62.02
+OBJECT_SHARED Models/lib/2container-office.ac -75.75069 44.63621 120.36 313.48
 # END dsf2stg

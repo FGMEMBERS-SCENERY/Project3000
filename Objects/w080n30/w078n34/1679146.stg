@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office112x50.ac -77.44470 34.71789 0.00 271.98
+OBJECT_SHARED Models/lib/office112x50.ac -77.45088 34.71331 4.21 3.27
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44371 34.71266 6.17 45.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44434 34.71213 5.10 45.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44400 34.71238 5.25 45.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44415 34.71266 5.18 224.59
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44384 34.71291 5.21 224.59
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44446 34.71238 5.11 224.59
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44478 34.71212 5.28 224.59
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44389 34.71280 5.34 45.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44452 34.71227 5.14 45.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44418 34.71253 5.28 45.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44384 34.71240 5.22 224.59
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44352 34.71265 5.14 224.59
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44415 34.71212 5.07 224.59
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.44447 34.71186 5.21 224.59
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.44493 34.71122 5.29 43.43
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.44528 34.71094 5.32 43.43
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.44537 34.71159 5.35 43.43
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.44572 34.71131 5.42 43.43
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -77.44624 34.71775 5.44 181.63
+OBJECT_SHARED Models/lib/office65x50.ac -77.43347 34.71011 4.63 0
+OBJECT_SHARED Models/lib/admin-with-cars.ac -77.44697 34.71773 2.73 91.84
+OBJECT_SHARED Models/lib/admin-with-cars.ac -77.43292 34.70906 4.82 270.03
+OBJECT_SHARED Models/Airport/cargoip.xml -77.45201 34.70578 2.78 210.65
+OBJECT_SHARED Models/Airport/cargoip.xml -77.45156 34.70634 3.34 135
+OBJECT_SHARED Models/Airport/cargobox.xml -77.45043 34.70566 3.63 272.73
+OBJECT_SHARED Models/Airport/cargobox.xml -77.45067 34.70537 3.51 233.13
+OBJECT_SHARED Models/Airport/cargobox.xml -77.45196 34.70550 3.32 88.03
+OBJECT_SHARED Models/Airport/cargobox.xml -77.45195 34.70583 3.19 149.04
+OBJECT_SHARED Models/lib/container6-HD.ac -77.45023 34.70592 3.35 215.75
+OBJECT_SHARED Models/lib/container6-HD.ac -77.45188 34.70612 3.64 153.44
+OBJECT_SHARED Models/lib/container6-HD.ac -77.45144 34.70612 3.50 76.43
+OBJECT_SHARED Models/lib/container6-HD.ac -77.45155 34.70551 3.55 158.2
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -77.45132 34.70581 3.23 327.59
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -77.45186 34.70533 3.42 320.67
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -77.45091 34.70616 3.10 244.16
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -77.45128 34.70642 3.67 175.71
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -77.45053 34.70588 3.72 256.22
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -77.45096 34.70549 3.59 214.7
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -77.45171 34.70606 3.32 90
+# END dsf2stg

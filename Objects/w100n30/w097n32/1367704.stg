@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -96.91536 32.45303 0.00 -2.10001
+OBJECT_SHARED Models/lib/MedHangar.ac -96.91561 32.45221 209.17 177.36
+OBJECT_SHARED Models/lib/MedHangar.ac -96.91535 32.45439 208.46 266.71
+OBJECT_SHARED Models/lib/MedHangar.ac -96.91646 32.45207 209.89 176.1
+OBJECT_SHARED Models/lib/LongRow.ac -96.91585 32.45431 207.07 176.71
+OBJECT_SHARED Models/lib/fboModern1.ac -96.91525 32.45342 209.34 177.9
+# END dsf2stg

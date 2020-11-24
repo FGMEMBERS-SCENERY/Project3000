@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -84.24389 32.56247 0.00 89.01
+OBJECT_SHARED Models/lib/LongRow.ac -84.24413 32.56409 195.89 91.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24359 32.56230 195.61 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24379 32.56231 195.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24342 32.56343 195.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24354 32.56341 195.12 315
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24383 32.56341 195.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24415 32.56264 195.52 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24420 32.56281 196.06 315
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24408 32.56288 196.10 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24382 32.56317 195.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24398 32.56384 195.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.24354 32.56381 195.60 180
+OBJECT_SHARED Models/lib/2container-office.ac -84.24397 32.56368 195.10 271.25
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -84.24669 32.56855 195.63 179.59
+OBJECT_SHARED Models/lib/propane-tank.ac -84.24389 32.56260 198.35 181.251
+OBJECT_SHARED Models/lib/propane-tank.ac -84.24400 32.56466 195.86 90.7629
+# END dsf2stg

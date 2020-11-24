@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -80.70349 41.77868 0.00 101.13
+OBJECT_SHARED Models/lib/LongRow.ac -80.70302 41.77875 275.12 101.94
+OBJECT_SHARED Models/Airport/cargoip.xml -80.70261 41.77965 275.35 0
+OBJECT_SHARED Models/lib/prop_a.ac -80.70155 41.77927 275.29 99.821
+OBJECT_SHARED Models/lib/lamp10m.xml -80.70212 41.77973 275.85 100.933
+OBJECT_SHARED Models/lib/lamp10m.xml -80.70232 41.77971 275.52 100.933
+OBJECT_SHARED Models/lib/cars7.ac -80.70074 41.78001 275.42 281.34
+OBJECT_SHARED Models/lib/prop_a.ac -80.70223 41.77977 276.11 280.373
+OBJECT_SHARED Models/lib/MedHangar.ac -80.70135 41.77983 275.45 101.31
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -80.70124 41.78075 275.81 100.01
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.70013 41.78052 275.66 94.0857
+OBJECT_SHARED Models/Transport/van_red.ac -80.70173 41.77998 276.27 278.112
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -80.70196 41.78007 275.62 108.435
+OBJECT_SHARED Models/Transport/hatchback_red.ac -80.70195 41.78004 275.46 106.699
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.70197 41.78012 275.48 104.744
+OBJECT_SHARED Models/Transport/van_silver.ac -80.70198 41.78017 275.46 100.171
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -80.70075 41.77995 275.43 0
+# END dsf2stg

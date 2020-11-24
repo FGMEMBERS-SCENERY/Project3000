@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -81.72579 33.28438 0.00 158.78
+OBJECT_SHARED Models/lib/shed8x10.ac -81.72589 33.28456 87.23 159.13
+OBJECT_SHARED Models/lib/4container-office.ac -81.72654 33.28452 87.61 69.44
+OBJECT_SHARED Models/lib/cars4.ac -81.72642 33.28443 88.20 66.2
+OBJECT_SHARED Models/lib/lamp10m.xml -81.72593 33.28424 87.96 160.27
+OBJECT_SHARED Models/lib/lamp10m.xml -81.72612 33.28431 87.16 160.27
+OBJECT_SHARED Models/lib/NoParkStripes.xml -81.72611 33.28453 87.50 338.46
+# END dsf2stg

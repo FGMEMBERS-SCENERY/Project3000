@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -97.21433 46.85654 0.00 224.9
+OBJECT_SHARED Models/lib/LongRow.ac -97.20947 46.85326 283.07 314.75
+OBJECT_SHARED Models/lib/LongRow.ac -97.21411 46.85627 282.59 315
+OBJECT_SHARED Models/lib/MedHangar.ac -97.21580 46.85761 283.06 225.65
+OBJECT_SHARED Models/lib/fboModern1.ac -97.21501 46.85738 283.08 225.65
+# END dsf2stg

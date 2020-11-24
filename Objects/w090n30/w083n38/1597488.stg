@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/admin31x12.ac -82.84996 38.84012 0.00 182.92
+OBJECT_SHARED Models/lib/prop_a.ac -82.84976 38.84074 198.43 20.56
+OBJECT_SHARED Models/lib/prop_a.ac -82.84958 38.84142 199.03 0.830002
+OBJECT_SHARED Models/lib/prop_a.ac -82.84934 38.84164 199.61 180.35
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.85011 38.84010 199.85 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.85072 38.83965 198.42 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.85075 38.83988 197.92 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.85039 38.84016 198.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.85005 38.84025 198.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.85004 38.83990 198.53 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.84985 38.83985 198.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.84988 38.83993 198.33 0
+OBJECT_SHARED Models/lib/MedHangar.ac -82.84991 38.84054 198.29 181.45
+OBJECT_SHARED Models/lib/propane-tank.ac -82.84993 38.83984 198.83 5.44
+OBJECT_SHARED Models/lib/propane-tank.ac -82.84998 38.83984 198.20 5.36
+OBJECT_SHARED Models/lib/SmHangar.ac -82.84994 38.84135 198.16 181.85
+OBJECT_SHARED Models/lib/SmHangar.ac -82.84995 38.84094 199.44 181.19
+OBJECT_SHARED Models/lib/lamp10m.xml -82.85054 38.83946 199.15 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.85012 38.84018 197.73 273.99
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.85011 38.84013 198.51 268.03
+OBJECT_SHARED Models/Transport/van_silver.ac -82.85008 38.83951 198.42 315
+OBJECT_SHARED Models/Transport/hatchback_red.ac -82.84999 38.84029 197.84 229.76
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.85009 38.83957 198.63 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.85010 38.83961 197.93 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.85009 38.83964 197.93 267.88
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.85010 38.83967 197.93 270
+OBJECT_SHARED Models/Transport/van_silver.ac -82.85013 38.84000 198.03 258.11
+OBJECT_SHARED Models/Transport/van_silver.ac -82.85013 38.84004 198.32 264.81
+OBJECT_SHARED Models/Transport/van_red.ac -82.85012 38.84006 198.32 277.77
+OBJECT_SHARED Models/lib/hangar81x16.ac -82.85115 38.84256 198.42 2.63
+OBJECT_SHARED Models/lib/LongRow.ac -82.85006 38.84147 200.23 92.39
+OBJECT_SHARED Models/lib/SmHangar.ac -82.85042 38.84159 199.53 181.86
+# END dsf2stg

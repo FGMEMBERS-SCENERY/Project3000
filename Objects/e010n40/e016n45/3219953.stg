@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 16.49919 45.82130 0.00 356.42
+OBJECT_SHARED Models/Transport/hatchback_black.ac 16.49896 45.82154 111.70 137.41
+OBJECT_SHARED Models/Transport/van_red.ac 16.49892 45.82156 111.97 314.14
+OBJECT_SHARED Models/Transport/van_silver.ac 16.49888 45.82159 112.11 318.18
+OBJECT_SHARED Models/lib/cone.ac 16.49862 45.82163 112.11 351.03
+OBJECT_SHARED Models/lib/cone.ac 16.49853 45.82156 110.95 351.03
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49834 45.82090 110.69 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49836 45.82081 110.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49848 45.82084 110.27 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49852 45.82073 110.66 153.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49863 45.82076 110.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49857 45.82088 111.06 213.69
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49848 45.82094 111.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49835 45.82098 110.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49829 45.82106 110.45 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49849 45.82102 110.51 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49862 45.82099 110.63 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49869 45.82091 111.03 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49876 45.82083 111.44 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49887 45.82092 111.86 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49877 45.82100 112.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49864 45.82107 111.83 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49838 45.82126 111.02 45
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.49852 45.82114 110.57 45
+OBJECT_SHARED Models/lib/transformer3x3.ac 16.49884 45.82163 112.17 315
+# END dsf2stg

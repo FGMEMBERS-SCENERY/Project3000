@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00315 32.50505 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00195 32.51103 125.63 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00226 32.51040 129.03 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00220 32.51056 130.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00211 32.51065 130.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.00139 32.51283 129.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.00137 32.51233 129.85 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.00131 32.51244 129.37 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.00127 32.51254 129.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.00120 32.51262 129.38 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00095 32.51279 129.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00104 32.51284 128.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00102 32.51291 128.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00056 32.51274 128.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00058 32.51265 127.56 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00060 32.51257 127.56 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.00079 32.51249 127.52 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.00120 32.51282 127.98 131.63
+OBJECT_SHARED Models/Transport/hatchback_red.ac -96.00120 32.51277 129.49 111.8
+OBJECT_SHARED Models/lib/4container-office.ac -96.00127 32.51282 129.49 90
+OBJECT_SHARED Models/lib/industrial13x24.ac -96.00197 32.51219 129.67 349.06
+OBJECT_SHARED Models/lib/shed8x10.ac -96.00426 32.51127 131.42 0
+OBJECT_SHARED Models/lib/shed8x10.ac -96.00437 32.51127 133.97 0
+OBJECT_SHARED Models/lib/shed8x10.ac -96.00448 32.51127 133.99 0
+OBJECT_SHARED Models/lib/shed8x10.ac -96.00482 32.51126 133.99 0
+OBJECT_SHARED Models/lib/prop_a.ac -96.00173 32.51239 133.99 225.49
+OBJECT_SHARED Models/lib/shed8x10.ac -96.00471 32.51126 130.01 0
+OBJECT_SHARED Models/lib/shed8x10.ac -96.00459 32.51127 133.99 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.00194 32.51259 133.99 172.591
+# END dsf2stg

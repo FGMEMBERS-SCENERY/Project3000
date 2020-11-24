@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.86153 38.96670 0.00 279
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.86529 38.96735 160.70 279
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.86547 38.96739 161.42 279
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.86552 38.96748 161.44 279
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.86543 38.96762 161.34 279
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.86531 38.96773 161.19 279
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.86718 38.96957 161.03 279
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.86765 38.96972 161.10 279
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.86763 38.96989 161.53 279
+OBJECT_SHARED Models/lib/cars6.ac -77.86765 38.96984 161.24 329
+OBJECT_SHARED Models/lib/cars2.ac -77.86745 38.96975 161.33 329
+OBJECT_SHARED Models/lib/cars4.ac -77.86731 38.96969 161.21 328
+OBJECT_SHARED Models/Misc/picnic_table.ac -77.86716 38.96963 161.11 334
+OBJECT_SHARED Models/Misc/picnic_table.ac -77.86711 38.96961 161.10 334
+OBJECT_SHARED Models/Misc/picnic_table.ac -77.86764 38.96986 161.00 239
+# END dsf2stg

@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office4x14.ac -101.35654 38.45758 0.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -101.35651 38.45745 911.36 0
+OBJECT_SHARED Models/lib/SmHangar.ac -101.35767 38.45661 1006.36 180.75
+OBJECT_SHARED Models/lib/SmHangar.ac -101.35767 38.45628 1006.62 180.26
+OBJECT_SHARED Models/lib/propane-tank.ac -101.35708 38.45622 1006.63 90
+OBJECT_SHARED Models/lib/office40x25.ac -101.35706 38.45761 1006.33 180.63
+OBJECT_SHARED Models/lib/SmHangar.ac -101.35766 38.45603 1006.36 180.39
+OBJECT_SHARED Models/lib/SmHangar.ac -101.34834 38.46036 1006.62 88.46
+OBJECT_SHARED Models/lib/industrial13x24.ac -101.35697 38.45887 1004.79 181.66
+OBJECT_SHARED Models/lib/prop_a.ac -101.35759 38.45643 1006.29 90
+OBJECT_SHARED Models/lib/trailer-ups.ac -101.35723 38.45739 1006.63 90
+# END dsf2stg

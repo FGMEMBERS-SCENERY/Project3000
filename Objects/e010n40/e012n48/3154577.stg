@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.41341 48.26228 414.59 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.41349 48.26228 414.62 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.41340 48.26237 414.51 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.41348 48.26237 414.51 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.41340 48.26234 414.59 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.41348 48.26234 414.62 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.41341 48.26231 414.59 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.41349 48.26231 414.62 0
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 12.41310 48.26296 413.83 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.41198 48.26290 414.07 0
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 12.41290 48.26296 413.87 180
-OBJECT_SHARED Models/lib/LongRow.ac 12.41267 48.26244 414.40 180
-OBJECT_SHARED Models/lib/office3x10.ac 12.41203 48.26288 414.07 270
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.41341 48.26228 0.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.41349 48.26228 415.22 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.41340 48.26237 415.18 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.41348 48.26237 415.04 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.41340 48.26234 414.99 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.41348 48.26234 415.22 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.41341 48.26231 415.18 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.41349 48.26231 415.22 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 12.41310 48.26296 415.18 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.41198 48.26290 413.83 0
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 12.41290 48.26296 414.07 180
+OBJECT_SHARED Models/lib/LongRow.ac 12.41267 48.26244 413.87 180
+OBJECT_SHARED Models/lib/office3x10.ac 12.41203 48.26288 414.81 270
 # END dsf2stg

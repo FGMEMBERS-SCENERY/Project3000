@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac 76.26190 32.16488 0.00 298.3
+OBJECT_SHARED Models/lib/HorizTanks2.ac 76.25957 32.16590 760.44 123.12
+OBJECT_SHARED Models/lib/industrial13x24.ac 76.26181 32.16484 760.01 302.35
+OBJECT_SHARED Models/lib/industrial13x24.ac 76.26149 32.16486 760.17 302.91
+OBJECT_SHARED Models/Effects/taxilampblue.xml 76.26714 32.15978 760.56 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 76.26721 32.15984 756.87 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 76.26726 32.15994 756.84 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 76.26725 32.16003 757.01 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 76.26720 32.16013 757.27 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 76.26711 32.16021 757.48 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 76.26699 32.16026 757.71 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 76.26681 32.16027 757.91 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 76.26665 32.16030 757.90 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 76.26053 32.16392 757.40 206.565
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 76.25988 32.16579 757.26 31.4298
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 76.25979 32.16575 760.13 28.4433
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 76.26074 32.16406 759.88 32.947
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 76.26091 32.16385 757.83 33.0029
+# END dsf2stg

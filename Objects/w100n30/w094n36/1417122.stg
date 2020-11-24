@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -93.44732 36.61140 0.00 317.59
+OBJECT_SHARED Models/lib/SmHangar.ac -93.44631 36.61158 304.21 48.81
+OBJECT_SHARED Models/lib/shed10x50.ac -93.44773 36.61129 303.67 137.24
+OBJECT_SHARED Models/lib/shed8x10.ac -93.44251 36.60910 304.27 51.05
+OBJECT_SHARED Models/lib/SmHangar.ac -93.44299 36.60934 303.90 50.1
+OBJECT_SHARED Models/lib/shed10x50.ac -93.44379 36.61003 303.90 137.6
+OBJECT_SHARED Models/lib/SmHangar.ac -93.44480 36.60968 303.31 140.19
+OBJECT_SHARED Models/lib/SmHangar.ac -93.44492 36.61067 302.97 52.63
+OBJECT_SHARED Models/lib/SmHangar.ac -93.44573 36.61118 303.22 50.41
+OBJECT_SHARED Models/lib/SmHangar.ac -93.44593 36.61131 303.53 50.83
+OBJECT_SHARED Models/lib/SmHangar.ac -93.44613 36.61145 303.62 49.14
+OBJECT_SHARED Models/lib/SmHangar.ac -93.44342 36.60960 303.63 51.8
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.44738 36.61142 303.62 50.19
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.44735 36.61146 304.23 49.4
+OBJECT_SHARED Models/lib/prop_a.ac -93.44307 36.60928 304.21 232.18
+OBJECT_SHARED Models/lib/trailer-fedex.ac -93.44740 36.61123 303.88 138.01
+OBJECT_SHARED Models/Transport/hatchback_green.ac -93.44781 36.61150 304.24 316.736
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.44640 36.61159 304.30 319.399
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -93.44469 36.60948 303.73 0
+# END dsf2stg

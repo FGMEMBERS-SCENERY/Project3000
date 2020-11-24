@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -89.93961 36.78392 0.00 268.23
+OBJECT_SHARED Models/lib/LongRow.ac -89.93830 36.78286 91.13 86.62
+OBJECT_SHARED Models/lib/hangar81x16.ac -89.93780 36.78437 90.50 267.07
+OBJECT_SHARED Models/lib/LongRow.ac -89.93824 36.78372 90.64 86.96
+OBJECT_SHARED Models/lib/SmHangar.ac -89.93852 36.78404 90.63 177.68
+OBJECT_SHARED Models/lib/HorizTanks2.ac -89.93878 36.78296 90.78 358.64
+OBJECT_SHARED Models/lib/SmHangar.ac -89.93791 36.78290 90.67 358.23
+OBJECT_SHARED Models/lib/SmHangar.ac -89.93791 36.78307 90.38 358.32
+OBJECT_SHARED Models/lib/SmHangar.ac -89.93789 36.78324 90.42 358.25
+OBJECT_SHARED Models/lib/SmHangar.ac -89.93886 36.78251 90.44 358.68
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.93914 36.78425 90.59 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.93919 36.78414 91.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.93907 36.78416 91.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.93934 36.78417 91.03 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -89.93868 36.78321 91.09 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -89.93951 36.78389 90.68 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -89.93960 36.78394 91.09 179.19
+OBJECT_SHARED Models/Transport/hatchback_black.ac -89.93969 36.78394 91.13 177.09
+OBJECT_SHARED Models/lib/prop_a.ac -89.93931 36.77600 91.17 90
+OBJECT_SHARED Models/lib/prop_a.ac -89.93909 36.78223 89.39 180
+OBJECT_SHARED Models/Transport/van_red.ac -89.93912 36.78370 90.58 21.24
+OBJECT_SHARED Models/Transport/van_silver.ac -89.93924 36.78371 90.91 24.27
+OBJECT_SHARED Models/lib/prop_a.ac -89.93958 36.78314 90.95 180
+# END dsf2stg

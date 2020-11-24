@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -115.03071 36.25050 569.16 357.92
+OBJECT_SHARED Models/lib/lamp10m.xml -115.03074 36.25001 574.91 358
+OBJECT_SHARED Models/lib/lamp10m.xml -115.03073 36.25020 574.43 178
+OBJECT_SHARED Models/lib/lamp10m.xml -115.03072 36.25026 574.63 358
+OBJECT_SHARED Models/lib/lamp10m.xml -115.03072 36.25045 574.72 178
+OBJECT_SHARED Models/lib/lamp10m.xml -115.03070 36.25068 574.82 178
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -115.03184 36.25058 556.70 42.39
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -115.03186 36.25235 575.46 223
+OBJECT_SHARED Models/lib/MedHangar.ac -115.03132 36.25229 569.73 88
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -115.03037 36.25247 481.63 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -115.03037 36.25258 481.33 0
+OBJECT_SHARED Models/lib/garden-shed.ac -115.03472 36.25076 573.55 328
+OBJECT_SHARED Models/lib/garden-shed.ac -115.03475 36.25071 577.02 328
+OBJECT_SHARED Models/lib/garden-shed.ac -115.03478 36.25068 576.92 328
+OBJECT_SHARED Models/lib/garden-shed.ac -115.03480 36.25065 576.92 328
+OBJECT_SHARED Models/lib/garden-shed.ac -115.03583 36.25037 576.82 298.03
+OBJECT_SHARED Models/lib/garden-shed.ac -115.03588 36.25035 577.05 298.03
+OBJECT_SHARED Models/lib/garden-shed.ac -115.03592 36.25033 576.95 298.03
+# END dsf2stg

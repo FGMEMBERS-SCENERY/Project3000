@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -93.68201 38.36042 0.00 182.161
+OBJECT_SHARED Models/lib/garages18x9.ac -93.68290 38.35934 246.32 345.688
+OBJECT_SHARED Models/lib/shed10x50.ac -93.68350 38.35908 246.88 45.094
+OBJECT_SHARED Models/lib/shed10x50.ac -93.68323 38.35884 246.73 45.094
+OBJECT_SHARED Models/lib/shed10x50.ac -93.68313 38.35893 247.21 45.094
+OBJECT_SHARED Models/lib/cone.ac -93.68434 38.35806 247.17 192.352
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.68432 38.35823 247.13 192.352
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -93.68437 38.35805 247.01 134.202
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -93.68422 38.35816 247.01 192.352
+OBJECT_SHARED Models/Misc/6barrels.ac -93.68448 38.35817 247.13 192.352
+OBJECT_SHARED Models/Misc/6barrels.ac -93.68449 38.35819 246.77 192.352
+OBJECT_SHARED Models/lib/2vending-machines.ac -93.68436 38.35806 246.77 44.5521
+OBJECT_SHARED Models/lib/propane-tank.ac -93.68217 38.36014 247.01 43.3636
+OBJECT_SHARED Models/lib/cars4.ac -93.68266 38.35972 246.50 249.176
+OBJECT_SHARED Models/lib/prop_a.ac -93.68206 38.35972 246.60 42.6141
+OBJECT_SHARED Models/lib/prop_a.ac -93.68166 38.36013 246.98 312.58
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.68314 38.35949 246.82 0
+# END dsf2stg

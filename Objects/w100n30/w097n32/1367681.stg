@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53465 32.03749 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53459 32.03745 127.03 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53478 32.03759 127.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.53435 32.03761 126.35 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.53439 32.03767 127.53 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53307 32.03714 127.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53318 32.03709 131.83 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53297 32.03699 131.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53099 32.03449 132.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53446 32.03906 131.44 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53446 32.03911 125.84 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53453 32.03904 125.84 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.53457 32.03893 125.93 45
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.53452 32.03886 125.73 45
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.53448 32.03882 126.03 63.43
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53421 32.03647 126.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.53410 32.03632 129.14 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.53399 32.03634 129.62 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.53415 32.03659 129.91 0
+OBJECT_SHARED Models/Transport/van_red.ac -96.53481 32.03762 129.04 303.11
+OBJECT_SHARED Models/lib/shed8x10.ac -96.53411 32.03792 126.35 183.27
+OBJECT_SHARED Models/lib/farm19x12.ac -96.53435 32.03883 128.13 296.56
+OBJECT_SHARED Models/Misc/picnic_table.ac -96.53178 32.03474 126.71 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.53261 32.03676 131.07 131.779
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.53437 32.03875 133.58 358.96
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.53112 32.03476 126.41 135
+OBJECT_SHARED Models/lib/shed8x10.ac -96.53256 32.03668 130.64 129.4
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -96.53275 32.03639 133.67 30.37
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.53471 32.03763 132.96 308.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.53300 32.03643 126.64 228.81
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.53291 32.03678 132.64 300.07
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.53262 32.03671 132.69 125.909
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.53258 32.03674 133.67 127.741
+OBJECT_SHARED Models/Transport/hatchback_red.ac -96.53260 32.03675 133.67 307.695
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.53264 32.03672 133.58 124.402
+OBJECT_SHARED Models/Transport/van_red.ac -96.53265 32.03674 133.67 307.93
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.53426 32.03882 133.67 232.594
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -96.53173 32.03488 126.71 207.408
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.53170 32.03488 131.65 204.775
+OBJECT_SHARED Models/lib/office3x10.ac -96.53422 32.03782 131.65 271.975
+OBJECT_SHARED Models/lib/prop_a.ac -96.53423 32.03897 127.93 30.42
+# END dsf2stg

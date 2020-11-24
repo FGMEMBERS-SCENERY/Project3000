@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -74.02036 45.68251 0.00 224.64
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -74.02217 45.68127 77.99 224.64
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -74.02342 45.68038 78.42 224.64
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -74.02481 45.67941 78.73 224.64
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -74.02577 45.67874 79.03 224.64
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -74.02750 45.67755 79.23 224.64
+OBJECT_SHARED Models/lib/office65x50.ac -74.03773 45.67418 79.53 81.97
+OBJECT_SHARED Models/lib/office65x50.ac -74.05073 45.67552 80.15 172.08
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -74.03506 45.67575 79.64 171.42
+OBJECT_SHARED Models/lib/fboModern1.ac -74.03293 45.67638 79.97 260.01
+OBJECT_SHARED Models/lib/large-hangar.ac -74.03179 45.67715 79.87 171.32
+OBJECT_SHARED Models/lib/large-hangar.ac -74.03158 45.67795 79.74 171.32
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.03226 45.67578 79.60 79.51
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.03213 45.67577 79.96 79.51
+OBJECT_SHARED Models/Airport/egkk_oil.xml -74.03052 45.67571 79.96 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -74.03095 45.67576 79.96 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -74.03010 45.67566 79.94 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -74.02968 45.67561 79.95 0
+OBJECT_SHARED Models/lib/LgMaint.ac -74.05272 45.67581 79.96 352.49
+OBJECT_SHARED Models/lib/office32x25.ac -74.02680 45.67233 79.55 109.4
+OBJECT_SHARED Models/lib/office32x25.ac -74.02150 45.68216 80.44 135
+OBJECT_SHARED Models/lib/office32x25.ac -74.02429 45.68025 78.16 135
+OBJECT_SHARED Models/lib/office32x25.ac -74.02795 45.67890 78.81 135
+OBJECT_SHARED Models/lib/office32x25n.ac -74.02215 45.68266 79.29 135
+OBJECT_SHARED Models/lib/office32x25n.ac -74.02470 45.68064 78.09 135
+OBJECT_SHARED Models/lib/office40x25.ac -74.02714 45.67830 78.77 135
+OBJECT_SHARED Models/lib/LongRow.ac -74.03738 45.67359 79.38 289.86
+# END dsf2stg

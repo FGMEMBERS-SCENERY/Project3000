@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.86926 30.34723 0.00 68.2
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.86966 30.34721 26.03 270
+OBJECT_SHARED Models/lib/cars2.ac -81.86935 30.34728 26.02 340.02
+OBJECT_SHARED Models/lib/cars6.ac -81.86955 30.34734 26.06 339.89
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87770 30.34987 26.04 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87768 30.34988 25.74 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87768 30.34989 25.74 180
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87771 30.34988 25.74 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87771 30.34989 25.74 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87770 30.34990 25.74 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87769 30.34990 25.74 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87768 30.34989 25.74 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87771 30.34987 25.74 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87772 30.34988 25.74 0
+OBJECT_SHARED Models/lib/propane-tank.ac -81.87755 30.34941 25.74 304.09
+OBJECT_SHARED Models/lib/trailer-fedex.ac -81.87734 30.35014 25.55 299.08
+OBJECT_SHARED Models/lib/trailer-fedex.ac -81.87740 30.35012 26.08 298.11
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87734 30.34911 26.01 296.35
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87656 30.34948 25.50 115.11
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87720 30.34917 25.86 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87713 30.34903 25.62 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.87709 30.34913 25.57 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -81.87743 30.34981 25.62 342.31
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87584 30.35444 25.84 161.83
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.85813 30.34438 29.27 343.07
+OBJECT_SHARED Models/lib/transformer3x3.ac -81.87723 30.35296 25.59 339.87
+OBJECT_SHARED Models/lib/transformer3x3.ac -81.85675 30.34602 27.99 339.17
+OBJECT_SHARED Models/lib/cars6.ac -81.87348 30.34603 26.51 90.51
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87347 30.34588 25.89 180.53
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -81.87402 30.34592 25.85 1.28
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87007 30.34799 25.61 346.35
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87005 30.34800 26.70 346.35
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87006 30.34802 26.70 346.35
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87008 30.34801 26.70 166.5
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87094 30.34813 26.70 71.16
+# END dsf2stg

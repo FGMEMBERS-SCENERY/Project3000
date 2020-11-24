@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -103.30431 46.17049 0.00 308.51
+OBJECT_SHARED Models/lib/prop_a.ac -103.30452 46.17057 895.69 129.63
+OBJECT_SHARED Models/lib/prop_a.ac -103.30464 46.17087 896.02 308.8
+OBJECT_SHARED Models/lib/prop_a.ac -103.30479 46.17079 895.87 308.69
+OBJECT_SHARED Models/lib/SmHangar.ac -103.30245 46.17099 895.91 129.9
+OBJECT_SHARED Models/lib/SmHangar.ac -103.30185 46.17029 894.71 311.28
+OBJECT_SHARED Models/lib/SmHangar.ac -103.30166 46.17041 895.12 311.28
+OBJECT_SHARED Models/lib/LongRow.ac -103.30276 46.17034 895.05 39.95
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -103.30213 46.17011 895.44 0
+OBJECT_SHARED Models/Transport/van_silver.ac -103.30288 46.17098 895.25 130
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -103.30290 46.17100 895.04 130
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -103.30279 46.17090 895.04 130
+OBJECT_SHARED Models/Transport/van_silver.ac -103.30283 46.17094 895.09 310.6
+OBJECT_SHARED Models/lib/stack_of_cones.ac -103.30386 46.17126 895.09 234.78
+OBJECT_SHARED Models/lib/HorizTanks2.ac -103.30341 46.17146 895.27 219.53
+OBJECT_SHARED Models/lib/lamp10m.xml -103.30365 46.17113 894.86 42.15
+OBJECT_SHARED Models/lib/lamp10m.xml -103.30303 46.17061 895.37 40.18
+OBJECT_SHARED Models/lib/lamp10m.xml -103.30271 46.17146 895.26 130.48
+OBJECT_SHARED Models/lib/lamp10m.xml -103.30354 46.17174 894.86 39.14
+OBJECT_SHARED Models/lib/propane-tank.ac -103.30121 46.17064 895.15 40
+OBJECT_SHARED Models/lib/propane-tank.ac -103.30123 46.17066 894.64 40
+# END dsf2stg

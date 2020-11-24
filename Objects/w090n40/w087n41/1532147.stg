@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -86.22584 41.84060 0.00 179.47
+OBJECT_SHARED Models/lib/SmHangar.ac -86.22715 41.84045 224.96 89.49
+OBJECT_SHARED Models/lib/SmHangar.ac -86.22507 41.84095 224.98 179.87
+OBJECT_SHARED Models/lib/SmHangar.ac -86.22349 41.84087 225.00 359.85
+OBJECT_SHARED Models/lib/SmHangar.ac -86.22349 41.84069 224.91 359.89
+OBJECT_SHARED Models/lib/SmHangar.ac -86.23150 41.84024 224.89 92.15
+OBJECT_SHARED Models/lib/SmHangar.ac -86.23100 41.84026 224.63 91.29
+OBJECT_SHARED Models/lib/SmHangar.ac -86.22727 41.84100 224.77 358.94
+OBJECT_SHARED Models/lib/SmHangar.ac -86.22765 41.84066 225.15 179.63
+OBJECT_SHARED Models/lib/SmHangar.ac -86.22764 41.84095 225.08 180
+OBJECT_SHARED Models/lib/SmHangar.ac -86.22728 41.84080 225.14 358.94
+OBJECT_SHARED Models/lib/office65x50.ac -86.23125 41.83445 225.09 89.43
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -86.23129 41.83621 223.73 0
+OBJECT_SHARED Models/lib/lamp10m.xml -86.22637 41.83977 223.65 218.86
+OBJECT_SHARED Models/lib/lamp10m.xml -86.23137 41.83599 224.81 358.96
+OBJECT_SHARED Models/lib/lamp10m.xml -86.23162 41.83599 223.59 1.07999
+OBJECT_SHARED Models/lib/HorizTanks2.ac -86.22624 41.83977 223.65 269.72
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.23098 41.83668 224.80 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.23089 41.83668 223.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.23075 41.83668 224.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.23062 41.83667 224.05 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.23059 41.83656 224.07 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.23056 41.83636 224.00 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -86.23147 41.83628 224.00 90
+# END dsf2stg

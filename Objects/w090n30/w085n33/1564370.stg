@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -84.49445 33.26968 0.00 100.66
+OBJECT_SHARED Models/lib/shed8x10.ac -84.49701 33.27092 229.81 211.34
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.49358 33.27102 230.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.49354 33.27108 234.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.49364 33.27106 234.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.49359 33.27116 234.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.49366 33.27121 234.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.49758 33.26998 235.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.49624 33.26760 228.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.49581 33.26841 224.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.49569 33.26856 226.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.49557 33.26850 227.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.49545 33.26864 227.07 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.49541 33.26877 227.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.49551 33.26886 227.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.49507 33.26993 227.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.49500 33.26986 230.35 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.49494 33.27001 230.35 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.49497 33.26996 230.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.49494 33.27007 230.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.49485 33.27001 230.86 0
+# END dsf2stg

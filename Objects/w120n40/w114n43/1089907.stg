@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -113.05436 43.84590 0.00 38
+OBJECT_SHARED Models/lib/SmHangar.ac -113.05503 43.84646 1507.12 304
+OBJECT_SHARED Models/Transport/hatchback_green.ac -113.05491 43.84596 1507.64 113.88
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -113.05488 43.84592 1507.22 311.76
+OBJECT_SHARED Models/Transport/hatchback_black.ac -113.05481 43.84589 1507.13 137.73
+# END dsf2stg

@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -6.68355 41.39373 0.00 247.71
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -6.68345 41.39372 710.97 67.29
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.68343 41.39378 710.91 67.29
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -6.68330 41.39366 710.96 60.64
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -6.68329 41.39368 710.78 60.64
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -6.68327 41.39370 710.77 60.64
+OBJECT_SHARED Models/Transport/Norberttruck.xml -6.68316 41.39388 710.75 59.32
+# END dsf2stg

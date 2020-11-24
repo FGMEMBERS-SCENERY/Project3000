@@ -1,30 +1,30 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office32x25n.ac -77.30807 38.50664 4.14 329.23
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -77.30654 38.50696 3.75 150.74
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -77.30908 38.50220 -93.52 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -77.30902 38.50236 -93.43 0
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.30766 38.50483 3.00 254.73
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.30748 38.50534 3.24 255.29
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.30732 38.50588 3.54 254.02
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.30715 38.50640 3.77 254.02
-OBJECT_SHARED Models/lib/MedHangar.ac -77.30901 38.50041 1.48 165.4
-OBJECT_SHARED Models/lib/MedHangar.ac -77.30884 38.50092 1.45 165.4
-OBJECT_SHARED Models/lib/MedHangar.ac -77.30866 38.50144 1.52 165.4
-OBJECT_SHARED Models/lib/MedHangar.ac -77.30849 38.50195 1.68 165.4
-OBJECT_SHARED Models/lib/MedHangar.ac -77.30847 38.50257 1.84 165.4
-OBJECT_SHARED Models/lib/MedHangar.ac -77.30830 38.50309 2.08 165.4
-OBJECT_SHARED Models/lib/MedHangar.ac -77.30813 38.50360 2.35 165.4
-OBJECT_SHARED Models/lib/admin-with-cars.ac -77.30559 38.51043 4.66 150.69
-OBJECT_SHARED Models/lib/admin-with-cars.ac -77.30523 38.51093 4.43 150.69
-OBJECT_SHARED Models/lib/office65x50.ac -77.30742 38.50834 5.12 330.66
-OBJECT_SHARED Models/lib/fuel-truck.xml -77.30288 38.50247 1.40 340.56
-OBJECT_SHARED Models/lib/fuel-truck.xml -77.30310 38.50291 1.46 341.22
-OBJECT_SHARED Models/lib/fuel-truck.xml -77.30304 38.50283 1.44 340.82
-OBJECT_SHARED Models/lib/fuel-truck.xml -77.30292 38.50256 1.40 341.2
-OBJECT_SHARED Models/lib/fuel-truck.xml -77.30311 38.50245 1.49 341.18
-OBJECT_SHARED Models/lib/fuel-truck.xml -77.30315 38.50254 1.53 344.75
-OBJECT_SHARED Models/lib/fuel-truck.xml -77.30320 38.50264 1.52 339.72
+OBJECT_SHARED Models/lib/office32x25n.ac -77.30807 38.50664 0.00 329.23
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -77.30654 38.50696 4.14 150.74
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -77.30908 38.50220 -91.25 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -77.30902 38.50236 -93.52 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.30766 38.50483 1.57 254.73
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.30748 38.50534 3.00 255.29
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.30732 38.50588 3.24 254.02
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.30715 38.50640 3.54 254.02
+OBJECT_SHARED Models/lib/MedHangar.ac -77.30901 38.50041 1.61 165.4
+OBJECT_SHARED Models/lib/MedHangar.ac -77.30884 38.50092 1.48 165.4
+OBJECT_SHARED Models/lib/MedHangar.ac -77.30866 38.50144 1.45 165.4
+OBJECT_SHARED Models/lib/MedHangar.ac -77.30849 38.50195 1.52 165.4
+OBJECT_SHARED Models/lib/MedHangar.ac -77.30847 38.50257 1.68 165.4
+OBJECT_SHARED Models/lib/MedHangar.ac -77.30830 38.50309 1.84 165.4
+OBJECT_SHARED Models/lib/MedHangar.ac -77.30813 38.50360 2.08 165.4
+OBJECT_SHARED Models/lib/admin-with-cars.ac -77.30559 38.51043 2.35 150.69
+OBJECT_SHARED Models/lib/admin-with-cars.ac -77.30523 38.51093 4.65 150.69
+OBJECT_SHARED Models/lib/office65x50.ac -77.30742 38.50834 4.43 330.66
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.30288 38.50247 5.12 340.56
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.30310 38.50291 1.40 341.22
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.30304 38.50283 1.46 340.82
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.30292 38.50256 1.43 341.2
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.30311 38.50245 1.40 341.18
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.30315 38.50254 1.49 344.75
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.30320 38.50264 1.53 339.72
 OBJECT_SHARED Models/lib/fuel-truck.xml -77.30323 38.50273 1.52 340.15
 # END dsf2stg

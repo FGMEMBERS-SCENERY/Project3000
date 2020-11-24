@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial15x22.ac -89.85680 37.87607 112.08 268.24
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.85636 37.87534 17.07 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.85636 37.87545 16.80 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.85636 37.87555 16.81 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.85636 37.87565 16.81 0
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85695 37.87580 111.81 180.58
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85709 37.87589 111.87 87.84
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85691 37.87596 111.89 176.7
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85701 37.87631 111.87 87.12
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85674 37.87630 111.89 87.23
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85652 37.87630 111.86 90
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85638 37.87630 111.84 88.49
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85646 37.87540 111.83 179.66
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85646 37.87560 111.82 181.25
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85649 37.87578 111.82 -89.78
+OBJECT_SHARED Models/lib/lamp10m.xml -89.85665 37.87582 111.82 -89.62
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -89.85652 37.87596 112.20 178.95
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -89.85653 37.87616 111.83 359.48
+# END dsf2stg

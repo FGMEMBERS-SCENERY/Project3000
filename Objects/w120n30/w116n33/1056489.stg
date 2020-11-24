@@ -1,12 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -115.71868 33.66200 518.41 188.047
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -115.71856 33.66218 518.70 282.527
-OBJECT_SHARED Models/lib/stack_of_cones.ac -115.71838 33.66221 518.30 357.007
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71839 33.66228 518.43 357.007
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71842 33.66226 518.43 357.007
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71844 33.66227 518.43 357.007
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71842 33.66229 518.43 267.007
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.71844 33.66229 518.43 357.007
+OBJECT_SHARED Models/lib/cone.ac -115.71949 33.66162 0.00 270
+OBJECT_SHARED Models/lib/cone.ac -115.71953 33.66163 518.10 180
+OBJECT_SHARED Models/lib/cone.ac -115.71840 33.66187 518.51 0
+OBJECT_SHARED Models/lib/cone.ac -115.71842 33.66188 517.98 315
+OBJECT_SHARED Models/lib/cone.ac -115.71843 33.66186 517.98 315
+OBJECT_SHARED Models/lib/prop_a.ac -115.71838 33.66187 517.98 101.31
+OBJECT_SHARED Models/lib/coal_pile.ac -115.71799 33.66192 517.98 90
+OBJECT_SHARED Models/Misc/6barrels.ac -115.71810 33.66194 517.98 0
+OBJECT_SHARED Models/Misc/6barrels.ac -115.71804 33.66195 517.98 0
+OBJECT_SHARED Models/Misc/6barrels.ac -115.71807 33.66192 517.98 243.43
+OBJECT_SHARED Models/lib/stack_of_cones.ac -115.71843 33.66181 517.98 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -115.71954 33.66164 517.91 0
+OBJECT_SHARED Models/lib/cone.ac -115.71944 33.66163 518.51 180
 # END dsf2stg

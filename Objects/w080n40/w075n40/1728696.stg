@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -74.77917 40.96714 0.00 230.39
+OBJECT_SHARED Models/lib/SmHangar.ac -74.77964 40.96720 180.28 231.6
+OBJECT_SHARED Models/lib/cars4.ac -74.77904 40.96724 180.02 319.29
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.77906 40.96742 180.36 230.71
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.77909 40.96737 180.21 229.24
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.77934 40.96711 180.21 224.49
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.77933 40.96715 180.22 234.81
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.77637 40.96883 180.17 144.87
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.77658 40.96898 180.14 316.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.77646 40.96892 180.08 316.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml -74.77863 40.96696 180.10 235.22
+# END dsf2stg

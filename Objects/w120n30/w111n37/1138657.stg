@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -110.71332 37.54358 0.00 65.56
+OBJECT_SHARED Models/Transport/hatchback_red.ac -110.71333 37.54362 1263.69 65.74
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -110.71332 37.54365 1263.69 70.56
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -110.71330 37.54368 1263.74 65.48
+OBJECT_SHARED Models/lib/transformer3x3.ac -110.71407 37.54310 1263.74 158.17
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -110.70414 37.54273 1264.21 48.77
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -110.70416 37.54274 1273.03 49.11
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -110.70426 37.54275 1273.03 319.4
+OBJECT_SHARED Models/lib/shed8x10.ac -110.70403 37.54281 1272.53 139.42
+OBJECT_SHARED Models/lib/propane-tank.ac -110.70409 37.54289 1272.53 49.76
+OBJECT_SHARED Models/lib/propane-tank.ac -110.70412 37.54290 1272.03 47.49
+# END dsf2stg

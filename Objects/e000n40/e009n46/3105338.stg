@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 9.55079 46.91298 0.00 165.66
+OBJECT_SHARED Models/lib/propane-tank.ac 9.55075 46.91298 539.78 254.93
+OBJECT_SHARED Models/lib/4space_wStop.ac 9.55115 46.91303 539.79 165.97
+OBJECT_SHARED Models/lib/4space_wStop.ac 9.55112 46.91295 539.50 166.12
+OBJECT_SHARED Models/lib/4space_wStop.ac 9.55133 46.91276 539.38 253.92
+OBJECT_SHARED Models/lib/4space_wStop.ac 9.55122 46.91278 538.94 254.49
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 9.55129 46.91280 539.08 345.67
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 9.55136 46.91278 538.99 159.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac 9.55141 46.91277 538.91 337.52
+OBJECT_SHARED Models/Transport/hatchback_black.ac 9.55133 46.91279 538.84 163.42
+OBJECT_SHARED Models/Transport/van_silver.ac 9.55122 46.91281 538.94 162.65
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 9.55115 46.91290 539.08 84.35
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 9.55119 46.91303 539.35 261.87
+OBJECT_SHARED Models/Transport/van_red.ac 9.55118 46.91301 539.46 74.98
+OBJECT_SHARED Models/Transport/hatchback_green.ac 9.55117 46.91298 539.47 75.08
+OBJECT_SHARED Models/Transport/hatchback_green.ac 9.55116 46.91296 539.48 74.13
+OBJECT_SHARED Models/lib/lamp10m.xml 9.55116 46.91312 539.49 254.85
+OBJECT_SHARED Models/lib/lamp10m.xml 9.55107 46.91291 539.64 254.5
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.55141 46.91292 539.42 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.55144 46.91299 539.05 0
+# END dsf2stg

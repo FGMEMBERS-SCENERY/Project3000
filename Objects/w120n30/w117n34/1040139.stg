@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -116.24789 34.15451 0.00 103.12
+OBJECT_SHARED Models/lib/prop_a.ac -116.24828 34.15442 741.88 281.59
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24946 34.15396 745.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24932 34.15390 743.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24908 34.15405 743.28 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24906 34.15382 743.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24876 34.15386 743.31 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24869 34.15383 743.28 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24840 34.15396 743.31 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24808 34.15393 742.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24797 34.15393 742.10 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24786 34.15394 742.10 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24809 34.15416 742.10 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.24789 34.15415 741.99 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.24895 34.15428 742.02 218.81
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -116.24911 34.15391 743.13 270
+OBJECT_SHARED Models/Transport/hatchback_green.ac -116.24833 34.15402 743.28 86.96
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.24794 34.15444 742.06 182.49
+OBJECT_SHARED Models/lib/lamp10m.xml -116.24944 34.15411 741.92 270
+OBJECT_SHARED Models/lib/lamp10m.xml -116.24850 34.15369 743.20 270
+OBJECT_SHARED Models/lib/lamp10m.xml -116.24884 34.15373 743.35 270
+OBJECT_SHARED Models/lib/lamp10m.xml -116.24843 34.15405 743.35 270
+# END dsf2stg

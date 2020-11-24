@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_silver.ac -108.54445 31.93535 0.00 279.89
+OBJECT_SHARED Models/lib/schranke.ac -108.54525 31.93551 1355.44 191.77
+OBJECT_SHARED Models/lib/lamp10m.xml -108.54493 31.93527 1353.75 10.78
+OBJECT_SHARED Models/lib/SmHangar.ac -108.54488 31.93538 1353.87 191.02
+# END dsf2stg

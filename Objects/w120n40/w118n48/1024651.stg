@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.04856 48.18260 0.00 55
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.04862 48.18252 658.83 55
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.04869 48.18248 658.83 55
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.04888 48.18260 658.83 55
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.04884 48.18250 658.83 55
+OBJECT_SHARED Models/lib/industrial13x24.ac -117.04946 48.18262 658.83 0
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -117.04857 48.18232 658.83 90
+OBJECT_SHARED Models/lib/cars6.ac -117.04869 48.18246 658.77 0
+# END dsf2stg

@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial15x22.ac -2.73254 42.88128 0.00 321.66
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -2.73244 42.88136 503.25 55.66
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -2.73189 42.88194 503.30 145.44
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -2.73143 42.88260 503.55 327.28
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73826 42.87703 503.90 143.79
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73680 42.87597 501.42 234.7
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73754 42.87776 501.25 142.09
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73681 42.87849 501.69 233.44
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73738 42.87929 501.95 143.88
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73673 42.87994 502.23 143.83
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73609 42.88060 502.49 144.3
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73544 42.88126 502.80 144.31
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73478 42.88191 503.13 143.38
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73118 42.88263 503.43 232.65
+OBJECT_SHARED Models/lib/lamp10m.xml -2.73045 42.88393 503.92 143.34
+OBJECT_SHARED Models/lib/lamp10m.xml -2.72970 42.88470 504.61 144.97
+OBJECT_SHARED Models/lib/lamp10m.xml -2.72814 42.88535 505.09 54.27
+OBJECT_SHARED Models/lib/MedHangar.ac -2.73310 42.88183 505.57 54.51
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -2.73606 42.88151 503.44 234.84
+OBJECT_SHARED Models/lib/office32x25n.ac -2.72978 42.88507 506.68 323.52
+OBJECT_SHARED Models/lib/SmHangar.ac -2.72917 42.88516 505.31 144.17
+OBJECT_SHARED Models/lib/SmHangar.ac -2.72897 42.88536 505.39 144.17
+OBJECT_SHARED Models/lib/SmHangar.ac -2.72880 42.88554 505.52 144.17
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -2.73318 42.88168 505.58 239.26
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -2.73307 42.88162 503.39 232.71
+OBJECT_SHARED Models/lib/container6-HD.ac -2.73282 42.88162 503.35 58.3
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -2.73290 42.88157 503.36 235.76
+OBJECT_SHARED Models/lib/trailer-fedex.ac -2.73176 42.88213 503.36 326.86
+OBJECT_SHARED Models/lib/trailer-fedex.ac -2.73174 42.88216 503.65 326.86
+OBJECT_SHARED Models/lib/trailer-fedex.ac -2.73172 42.88218 503.70 326.86
+OBJECT_SHARED Models/lib/trailer-fedex.ac -2.73170 42.88221 503.70 326.86
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -2.73146 42.88248 503.70 323.54
+OBJECT_SHARED Models/lib/container6-HD.ac -2.73785 42.87897 503.85 0
+OBJECT_SHARED Models/lib/container6-HD.ac -2.73793 42.87901 502.10 0
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -2.73774 42.87905 502.10 330.52
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -2.73717 42.87956 502.14 324.07
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -2.73748 42.87936 502.35 332.58
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -2.73767 42.87917 502.27 327.15
+OBJECT_SHARED Models/lib/office8x14.ac -2.73235 42.88235 502.18 231.5
+OBJECT_SHARED Models/lib/office4x14.ac -2.73146 42.88237 503.71 54.25
+OBJECT_SHARED Models/lib/office112x50.ac -2.73904 42.87723 503.81 54.03
+OBJECT_SHARED Models/lib/cars10.ac -2.73819 42.87871 501.45 235.94
+OBJECT_SHARED Models/lib/cars10.ac -2.73851 42.87819 501.98 235.94
+OBJECT_SHARED Models/lib/cars10.ac -2.73863 42.87825 501.80 235.94
+OBJECT_SHARED Models/lib/FireStationLg.ac -2.72825 42.88357 501.79 144.11
+OBJECT_SHARED Models/lib/NoParkStripes.xml -2.73626 42.88039 504.62 53.88
+OBJECT_SHARED Models/lib/NoParkStripes.xml -2.73636 42.88029 502.71 53.88
+OBJECT_SHARED Models/lib/NoParkStripes.xml -2.73646 42.88019 502.66 53.88
+OBJECT_SHARED Models/lib/NoParkStripes.xml -2.73655 42.88009 502.62 53.88
+# END dsf2stg

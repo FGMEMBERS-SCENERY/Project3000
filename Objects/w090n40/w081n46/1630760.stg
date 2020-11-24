@@ -1,5 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed10x50.ac -80.78802 46.62723 346.85 73.69
+OBJECT_SHARED Models/lib/lamp10m.xml -80.79217 46.62834 0.00 101.25
+OBJECT_SHARED Models/lib/lamp10m.xml -80.79057 46.62807 349.32 76.18
+OBJECT_SHARED Models/lib/fboModern1.ac -80.79150 46.62814 348.84 75.72
+OBJECT_SHARED Models/lib/shed10x50.ac -80.78793 46.62722 347.61 73.69
 # END dsf2stg

@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.41710 44.27979 0.00 359.81
+OBJECT_SHARED Models/lib/HorizTanks2.ac -85.41708 44.27984 398.16 90.09
+OBJECT_SHARED Models/Transport/van_silver.ac -85.41642 44.28020 398.16 208.66
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -85.41629 44.28020 397.85 208.48
+OBJECT_SHARED Models/Transport/van_red.ac -85.41625 44.28020 397.81 206.14
+OBJECT_SHARED Models/Transport/hatchback_red.ac -85.41664 44.28014 397.77 339.72
+OBJECT_SHARED Models/Transport/hatchback_black.ac -85.41634 44.28014 397.93 339.3
+OBJECT_SHARED Models/Transport/van_red.ac -85.41647 44.28014 397.81 335.17
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -85.41651 44.28014 397.89 338.96
+OBJECT_SHARED Models/Transport/hatchback_red.ac -85.41655 44.28015 397.89 157.62
+OBJECT_SHARED Models/lib/lamp10m.xml -85.41619 44.27984 397.89 90
+OBJECT_SHARED Models/lib/lamp10m.xml -85.41667 44.27984 397.78 90
+OBJECT_SHARED Models/lib/SmHangar.ac -85.41746 44.28057 397.99 0.589996
+OBJECT_SHARED Models/lib/SmHangar.ac -85.41731 44.28032 398.29 90.58
+OBJECT_SHARED Models/lib/SmHangar.ac -85.41741 44.28001 398.22 0.720001
+OBJECT_SHARED Models/lib/SmHangar.ac -85.41483 44.28073 398.28 90
+OBJECT_SHARED Models/lib/SmHangar.ac -85.41456 44.28073 397.27 90
+OBJECT_SHARED Models/lib/SmHangar.ac -85.41398 44.28072 397.21 90.27
+OBJECT_SHARED Models/lib/SmHangar.ac -85.41332 44.28072 397.03 89.82
+OBJECT_SHARED Models/lib/LongRow.ac -85.41542 44.28008 396.86 113.49
+OBJECT_SHARED Models/lib/LongRow.ac -85.41796 44.27998 397.46 90.17
+OBJECT_SHARED Models/lib/LongRow.ac -85.41864 44.28002 398.55 90.17
+# END dsf2stg

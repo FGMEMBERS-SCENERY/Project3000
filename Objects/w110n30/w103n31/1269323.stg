@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac -102.22707 31.12539 739.21 347.503
+OBJECT_SHARED Models/Transport/hatchback_black.ac -102.22753 31.12544 739.86 49.1206
+OBJECT_SHARED Models/Transport/hatchback_red.ac -102.22724 31.12545 739.96 325.041
+OBJECT_SHARED Models/Transport/van_silver.ac -102.22721 31.12544 739.99 336.571
+OBJECT_SHARED Models/Transport/hatchback_black.ac -102.22619 31.12587 739.86 287
+OBJECT_SHARED Models/lib/coal_pile.ac -102.22506 31.12504 740.51 90
+OBJECT_SHARED Models/lib/watertank3x1.ac -102.22490 31.12533 739.48 288.813
+OBJECT_SHARED Models/Transport/hatchback_red.ac -102.22476 31.12510 739.35 167.473
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -102.22625 31.12564 739.09 199.625
+OBJECT_SHARED Models/lib/container6-HD.ac -102.22612 31.12542 740.12 198.905
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -102.22603 31.12544 739.86 200.101
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -102.22615 31.12577 739.86 165.632
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -102.22618 31.12576 740.38 198.433
+OBJECT_SHARED Models/lib/SmHangar.ac -102.22607 31.12582 740.38 109.051
+OBJECT_SHARED Models/lib/office8x14.ac -102.22757 31.12551 740.38 336.341
+OBJECT_SHARED Models/lib/lamp10m.xml -102.22761 31.12553 740.09 247.504
+OBJECT_SHARED Models/lib/lamp10m.xml -102.22729 31.12524 740.09 156.865
+OBJECT_SHARED Models/lib/lamp10m.xml -102.22747 31.12565 739.60 66.4752
+# END dsf2stg

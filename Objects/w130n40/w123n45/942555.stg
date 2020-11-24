@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -122.24230 45.43095 0.00 91.15
+OBJECT_SHARED Models/Transport/van_silver.ac -122.24230 45.43099 193.11 91.15
+OBJECT_SHARED Models/Transport/hatchback_red.ac -122.24231 45.43104 193.10 91.15
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -122.24231 45.43107 193.10 91.15
+OBJECT_SHARED Models/Transport/hatchback_red.ac -122.24232 45.43109 193.09 91.15
+OBJECT_SHARED Models/Transport/hatchback_black.ac -122.24232 45.43112 193.09 91.15
+OBJECT_SHARED Models/lib/industrial13x24.ac -122.24328 45.43007 193.09 108.85
+OBJECT_SHARED Models/lib/MedHangar.ac -122.24212 45.43116 193.53 93.77
+OBJECT_SHARED Models/lib/farm19x12.ac -122.24365 45.42950 193.10 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -122.24457 45.43019 193.33 356.55
+OBJECT_SHARED Models/lib/farm19x12.ac -122.24931 45.42843 179.97 182.41
+OBJECT_SHARED Models/lib/garage-small-white.ac -122.24563 45.43455 180.17 63.44
+OBJECT_SHARED Models/lib/garage-small-white.ac -122.24568 45.43451 171.26 62.45
+OBJECT_SHARED Models/lib/dGreenhse.ac -122.24496 45.43390 171.74 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -122.24487 45.43390 179.71 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -122.24492 45.43393 179.71 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -122.24491 45.43390 179.71 90
+OBJECT_SHARED Models/lib/farm19x12.ac -122.24581 45.43455 179.71 240.35
+OBJECT_SHARED Models/lib/farm19x12.ac -122.24601 45.43358 171.26 293.89
+OBJECT_SHARED Models/lib/garden-shed.ac -122.24942 45.43246 176.04 44.38
+# END dsf2stg

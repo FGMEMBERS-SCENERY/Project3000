@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -1.42664 43.33454 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -1.42462 43.33512 179.27 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -1.42087 43.33579 176.60 0
+OBJECT_SHARED Models/lib/cars10.ac -1.42074 43.33605 166.62 29.3089
+OBJECT_SHARED Models/lib/farm19x12.ac -1.41994 43.33628 167.91 22.4953
+OBJECT_SHARED Models/lib/cone.ac -1.41954 43.33661 169.47 136.081
+OBJECT_SHARED Models/lib/cone.ac -1.41953 43.33661 171.15 0
+OBJECT_SHARED Models/lib/cone.ac -1.42619 43.33550 171.14 0
+OBJECT_SHARED Models/lib/cone.ac -1.42573 43.33570 167.15 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -1.42639 43.33553 173.52 0
+# END dsf2stg

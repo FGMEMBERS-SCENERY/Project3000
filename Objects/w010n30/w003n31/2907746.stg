@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -2.25257 31.62429 805.55 296.09
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -2.25244 31.62434 805.82 296.09
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -2.25263 31.62426 805.80 296.09
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -2.25219 31.62480 713.82 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -2.25321 31.62462 713.38 0
+# END dsf2stg

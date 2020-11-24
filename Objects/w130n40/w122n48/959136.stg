@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -121.75630 48.52952 0.00 90.81
+OBJECT_SHARED Models/lib/prop_a.ac -121.75890 48.53066 82.80 354.37
+OBJECT_SHARED Models/lib/farm19x12.ac -121.75819 48.53072 81.51 179.16
+OBJECT_SHARED Models/lib/industrial15x22.ac -121.75669 48.53065 81.36 359.87
+OBJECT_SHARED Models/lib/industrial15x22.ac -121.75700 48.53066 80.99 180
+OBJECT_SHARED Models/lib/industrial13x24.ac -121.75777 48.53059 80.99 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -121.75741 48.53074 81.59 359.81
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -121.75802 48.53081 80.99 84.69
+OBJECT_SHARED Models/Transport/van_red.ac -121.75790 48.53099 81.13 270
+OBJECT_SHARED Models/lib/farm19x12.ac -121.75833 48.53054 80.69 89.34
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -121.75791 48.53042 81.82 178.47
+OBJECT_SHARED Models/lib/industrial13x24.ac -121.75612 48.53069 82.06 359.71
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -121.75645 48.53076 80.43 95.95
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.75643 48.53059 80.19 129.03
+OBJECT_SHARED Models/lib/lamp10m.xml -121.75789 48.53120 80.67 90.59
+OBJECT_SHARED Models/lib/lamp10m.xml -121.75851 48.53120 80.28 89.2
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.75888 48.53122 80.46 9.95999
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.75888 48.53117 80.46 103.24
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.75885 48.53112 80.46 52
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.75887 48.53106 80.67 329.33
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.75887 48.53100 80.67 37.13
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.75887 48.53095 80.88 332.82
+OBJECT_SHARED Models/Trees/billboard-tree.xml -121.75888 48.53084 80.88 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -121.75886 48.53032 81.30 180
+OBJECT_SHARED Models/Transport/van_silver.ac -121.75805 48.53117 82.41 357.397
+OBJECT_SHARED Models/lib/trailer-fedex.ac -121.75786 48.53108 80.28 86.4238
+OBJECT_SHARED Models/lib/trailer-fedex.ac -121.75783 48.53098 80.49 85.1037
+# END dsf2stg

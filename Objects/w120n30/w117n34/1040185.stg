@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4container-office.ac -116.67171 34.96246 0.00 88.22
+OBJECT_SHARED Models/lib/deciduous-tree.xml -116.67045 34.96142 553.69 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -116.66987 34.96101 553.69 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -116.66986 34.96123 553.88 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -116.67013 34.96089 553.79 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -116.67029 34.96089 553.93 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -116.67036 34.96090 553.93 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -116.66991 34.96096 553.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.66992 34.96137 553.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.67047 34.96090 553.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.67021 34.96089 553.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.67000 34.96094 553.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.66989 34.96128 553.93 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.67000 34.96116 553.74 0.127014
+OBJECT_SHARED Models/lib/office3x10.ac -116.67017 34.96142 553.79 87.0762
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -116.66998 34.96111 553.69 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -116.67007 34.96089 553.83 270.83
+OBJECT_SHARED Models/lib/cube16x10.ac -116.67028 34.96121 553.93 90
+OBJECT_SHARED Models/lib/cars6.ac -116.67048 34.96139 553.79 0.0112
+# END dsf2stg

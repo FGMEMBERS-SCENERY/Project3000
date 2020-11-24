@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.21178 44.57768 0.00 0.658531
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.21178 44.57758 298.38 0.291809
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.21209 44.57729 298.11 269.306
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.21267 44.57729 297.23 270
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.21321 44.57729 296.68 270
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.21307 44.57729 296.00 270
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.21224 44.57729 296.15 270.562
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21372 44.57836 297.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21416 44.57835 297.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21400 44.57846 296.76 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21381 44.57850 297.69 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21310 44.57843 298.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21221 44.57834 299.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21173 44.57846 300.04 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21327 44.57852 301.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21214 44.57843 298.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21162 44.57834 300.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.21151 44.57846 300.96 0
+OBJECT_SHARED Models/lib/cars6.ac -91.21234 44.57729 301.90 178.772
+OBJECT_SHARED Models/lib/cars6.ac -91.21322 44.57747 297.01 359.05
+OBJECT_SHARED Models/lib/cars6.ac -91.21294 44.57747 296.43 359.518
+OBJECT_SHARED Models/lib/cars10.ac -91.21200 44.57752 297.13 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.21327 44.57732 297.71 178.772
+OBJECT_SHARED Models/Transport/van_red.ac -91.21228 44.57743 295.84 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -91.21240 44.57743 297.21 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -91.21262 44.57743 297.15 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.21320 44.57732 297.03 180.526
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.21181 44.57754 296.00 269.655
+# END dsf2stg

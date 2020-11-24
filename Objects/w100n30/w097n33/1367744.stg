@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -96.83629 33.02593 0.00 272.68
+OBJECT_SHARED Models/lib/prop_a.ac -96.83628 33.02566 210.66 270
+OBJECT_SHARED Models/Misc/6barrels.ac -96.83686 33.02613 210.68 0
+OBJECT_SHARED Models/lib/prop_a.ac -96.83655 33.02597 211.21 88.9
+OBJECT_SHARED Models/lib/prop_a.ac -96.83578 33.02444 210.90 90
+OBJECT_SHARED Models/lib/lamp10m.xml -96.83684 33.02613 210.06 193.81
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.83709 33.02716 211.11 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.83634 33.02710 211.22 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.83639 33.02721 210.53 324.16
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.83713 33.02737 210.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.83687 33.02670 211.10 0
+OBJECT_SHARED Models/lib/LongRow.ac -96.83591 33.02536 211.16 270
+OBJECT_SHARED Models/lib/LongRow.ac -96.83634 33.02536 210.38 270
+OBJECT_SHARED Models/lib/hangar81x16.ac -96.83583 33.02639 210.66 192.62
+OBJECT_SHARED Models/lib/SmHangar.ac -96.83631 33.02428 210.32 275.03
+OBJECT_SHARED Models/lib/deciduous-tree.xml -96.83907 33.02656 210.43 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -96.83856 33.02645 213.27 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.83880 33.02686 212.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.83895 33.02610 212.86 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.83911 33.02610 213.22 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.83869 33.02603 213.41 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.83900 33.02742 213.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.83882 33.02668 212.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.83567 33.02426 212.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.83623 33.02463 209.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.83613 33.02358 210.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.83583 33.02193 209.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.83573 33.02253 209.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.83600 33.02259 209.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.83610 33.02259 209.51 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -96.83838 33.02609 209.60 180
+# END dsf2stg

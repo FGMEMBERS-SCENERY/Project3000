@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/stack_of_cones.ac -80.94178 34.00847 66.47 0
-OBJECT_SHARED Models/lib/cone.ac -80.94185 34.00846 66.47 15
-OBJECT_SHARED Models/lib/cone.ac -80.94184 34.00848 66.47 15
-OBJECT_SHARED Models/lib/cone.ac -80.94183 34.00850 66.47 15
-OBJECT_SHARED Models/lib/cone.ac -80.94182 34.00851 66.47 15
-OBJECT_SHARED Models/lib/cone.ac -80.94180 34.00854 66.47 15
-OBJECT_SHARED Models/lib/cone.ac -80.94179 34.00858 66.79 15
-OBJECT_SHARED Models/lib/cone.ac -80.94180 34.00856 66.79 15
-OBJECT_SHARED Models/lib/cone.ac -80.94181 34.00853 66.47 15
-OBJECT_SHARED Models/lib/transformer3x3.ac -80.94111 34.00894 66.07 335
-OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94128 34.00817 64.65 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94152 34.00774 63.77 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94157 34.00766 63.91 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94094 34.00895 65.50 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94098 34.00887 65.78 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94109 34.00891 66.07 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -80.94178 34.00847 0.00 0
+OBJECT_SHARED Models/lib/cone.ac -80.94185 34.00846 66.29 15
+OBJECT_SHARED Models/lib/cone.ac -80.94184 34.00848 66.29 15
+OBJECT_SHARED Models/lib/cone.ac -80.94183 34.00850 66.29 15
+OBJECT_SHARED Models/lib/cone.ac -80.94182 34.00851 66.29 15
+OBJECT_SHARED Models/lib/cone.ac -80.94180 34.00854 66.29 15
+OBJECT_SHARED Models/lib/cone.ac -80.94179 34.00858 66.29 15
+OBJECT_SHARED Models/lib/cone.ac -80.94180 34.00856 66.37 15
+OBJECT_SHARED Models/lib/cone.ac -80.94181 34.00853 66.37 15
+OBJECT_SHARED Models/lib/transformer3x3.ac -80.94111 34.00894 66.29 335
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94128 34.00817 65.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94152 34.00774 65.33 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94157 34.00766 63.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94094 34.00895 63.40 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94098 34.00887 65.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.94109 34.00891 65.63 0
 # END dsf2stg

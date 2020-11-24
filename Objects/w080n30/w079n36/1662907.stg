@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.18430 36.95968 0.00 258.05
+OBJECT_SHARED Models/lib/cars4.ac -78.18356 36.96020 156.29 165.01
+OBJECT_SHARED Models/lib/cars2.ac -78.18343 36.96004 156.17 256.67
+OBJECT_SHARED Models/lib/cars4.ac -78.18340 36.96014 155.54 256.47
+OBJECT_SHARED Models/lib/cars4.ac -78.18366 36.95999 155.68 78.59
+OBJECT_SHARED Models/lib/shed10x50.ac -78.18351 36.96066 156.05 344.2
+OBJECT_SHARED Models/lib/lamp10m.xml -78.18344 36.96016 156.61 -12.24
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -78.18354 36.96023 155.83 0
+# END dsf2stg

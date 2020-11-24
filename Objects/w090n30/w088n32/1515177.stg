@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -87.66121 32.68549 0.00 179.83
+OBJECT_SHARED Models/lib/farm19x12.ac -87.66121 32.68525 51.84 90
+OBJECT_SHARED Models/lib/SmHangar.ac -87.66128 32.68465 51.69 0
+OBJECT_SHARED Models/lib/lamp10m.xml -87.66109 32.68347 51.27 89.86
+OBJECT_SHARED Models/lib/lamp10m.xml -87.66109 32.68434 50.78 90
+OBJECT_SHARED Models/lib/lamp10m.xml -87.66109 32.68516 51.29 90
+OBJECT_SHARED Models/lib/prop_a.ac -87.66145 32.68515 51.82 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -87.66124 32.68495 51.36 89.82
+# END dsf2stg

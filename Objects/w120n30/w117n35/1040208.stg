@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -116.87716 35.36186 0.00 175.601
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -116.87721 35.36194 928.05 310.815
+OBJECT_SHARED Models/lib/office16x4n.ac -116.87744 35.36166 928.05 40.3927
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.87732 35.36172 928.05 147.265
+OBJECT_SHARED Models/Transport/van_silver.ac -116.87735 35.36174 928.05 137.863
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -116.87739 35.36178 928.05 141.71
+OBJECT_SHARED Models/Transport/hatchback_green.ac -116.87690 35.36188 928.05 319.764
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.87719 35.36170 928.05 138.652
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.87713 35.36196 928.05 314.586
+OBJECT_SHARED Models/Transport/Norberttruck.xml -116.87707 35.36196 928.06 43.2051
+OBJECT_SHARED Models/Transport/Norberttruck.xml -116.87697 35.36188 928.06 43.8189
+OBJECT_SHARED Models/lib/trailer-ups.ac -116.87979 35.36080 928.05 45.0001
+OBJECT_SHARED Models/lib/office4x14.ac -116.87897 35.36102 925.40 130.331
+OBJECT_SHARED Models/lib/office4x14.ac -116.87943 35.36046 926.25 131.987
+OBJECT_SHARED Models/lib/office4x14.ac -116.87938 35.36040 926.22 131.077
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -116.87878 35.36067 926.21 192.265
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -116.87878 35.36068 926.23 208.301
+OBJECT_SHARED Models/lib/office4x14.ac -116.87872 35.36089 926.23 130.06
+OBJECT_SHARED Models/Misc/6barrels.ac -116.87779 35.36115 926.24 220.486
+OBJECT_SHARED Models/lib/coal_pile.ac -116.87944 35.36064 927.14 311.099
+OBJECT_SHARED Models/lib/coal_pile.ac -116.87940 35.36027 926.23 276.203
+OBJECT_SHARED Models/lib/office4x14.ac -116.87929 35.36033 926.20 132.672
+OBJECT_SHARED Models/lib/office4x14.ac -116.87949 35.36053 926.20 132.106
+OBJECT_SHARED Models/lib/office8x14.ac -116.87961 35.36064 926.22 129.994
+OBJECT_SHARED Models/lib/office6x12.ac -116.87974 35.36077 925.38 311.878
+OBJECT_SHARED Models/lib/office4x14.ac -116.87906 35.36111 925.40 129.326
+OBJECT_SHARED Models/lib/large-hangar.ac -116.87962 35.36031 926.25 40.78
+# END dsf2stg

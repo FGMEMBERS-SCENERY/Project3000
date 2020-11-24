@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -104.06678 47.86310 0.00 87.2008
+OBJECT_SHARED Models/lib/lamp10m.xml -104.06627 47.86293 652.20 0
+OBJECT_SHARED Models/lib/SmHangar.ac -104.06703 47.86310 652.12 87.1782
+OBJECT_SHARED Models/lib/trailer-fedex.ac -104.06637 47.86283 652.20 354.388
+OBJECT_SHARED Models/Transport/Norberttruck.xml -104.06600 47.86307 652.03 87.4552
+OBJECT_SHARED Models/lib/propane-tank.ac -104.06641 47.86333 652.29 355.914
+# END dsf2stg

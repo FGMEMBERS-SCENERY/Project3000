@@ -1,0 +1,56 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/belt_loader.ac 21.32203 45.81171 0.00 -21.66
+OBJECT_SHARED Models/lib/belt_loader.ac 21.32311 45.81144 103.07 -20.47
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32411 45.81129 103.18 68.12
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32329 45.81150 103.32 68.12
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32114 45.81014 103.25 0
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32204 45.80988 102.31 249.57
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32295 45.80966 102.42 249.57
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32372 45.80945 102.53 249.57
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32285 45.81161 102.81 68.12
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32242 45.81172 103.21 68.12
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32199 45.81183 103.15 68.12
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32155 45.81194 103.10 68.12
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 21.31953 45.81017 103.04 340.36
+OBJECT_SHARED Models/lib/MedHangar.ac 21.31877 45.81121 101.93 160.04
+OBJECT_SHARED Models/lib/large-hangar.ac 21.33128 45.80821 102.27 159.34
+OBJECT_SHARED Models/lib/office32x25.ac 21.31887 45.81045 103.21 249.78
+OBJECT_SHARED Models/lib/office32x25.ac 21.32103 45.81001 101.88 69.91
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32372 45.80945 102.24 0
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32295 45.80965 102.81 0
+OBJECT_SHARED Models/lib/lamp10m.xml 21.32204 45.80988 102.51 0
+OBJECT_SHARED Models/lib/lamp10m.xml 21.31890 45.81100 102.42 0
+OBJECT_SHARED Models/lib/lamp10m.xml 21.31993 45.81039 102.06 0
+OBJECT_SHARED Models/lib/cars6.ac 21.31799 45.81092 102.11 249.5
+OBJECT_SHARED Models/lib/cars6.ac 21.31790 45.81074 101.77 70.18
+OBJECT_SHARED Models/Transport/hatchback_green.ac 21.31695 45.81119 101.67 247.68
+OBJECT_SHARED Models/Transport/van_red.ac 21.31683 45.81142 101.56 163.48
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 21.31679 45.81143 101.56 159.29
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 21.31729 45.81125 101.56 337.5
+OBJECT_SHARED Models/Transport/van_red.ac 21.31702 45.81107 101.67 145.46
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 21.31711 45.81103 101.53 146.55
+OBJECT_SHARED Models/Transport/hatchback_red.ac 21.31714 45.81101 101.53 144.41
+OBJECT_SHARED Models/Transport/van_red.ac 21.31714 45.81113 101.53 144.98
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 21.31717 45.81111 101.56 144.89
+OBJECT_SHARED Models/Transport/hatchback_green.ac 21.31720 45.81109 101.60 148.94
+OBJECT_SHARED Models/Transport/hatchback_green.ac 21.31757 45.81105 101.60 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 21.31761 45.81104 101.72 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 21.31764 45.81103 101.68 0
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 21.31898 45.81136 101.68 340.18
+OBJECT_SHARED Models/Transport/hatchback_green.ac 21.31905 45.81121 102.24 69.5
+OBJECT_SHARED Models/Transport/van_red.ac 21.31899 45.81113 102.19 249.13
+OBJECT_SHARED Models/Transport/van_red.ac 21.31904 45.81117 102.13 71.56
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 21.31923 45.81114 102.17 67.18
+OBJECT_SHARED Models/Transport/hatchback_green.ac 21.31923 45.81111 102.18 70.16
+OBJECT_SHARED Models/Transport/hatchback_black.ac 21.31922 45.81109 102.18 69.98
+OBJECT_SHARED Models/Transport/hatchback_black.ac 21.31922 45.81106 102.18 71.45
+OBJECT_SHARED Models/lib/fboModern1.ac 21.33115 45.80768 102.18 70.46
+OBJECT_SHARED Models/lib/SmHangar.ac 21.32423 45.80934 102.85 249.93
+OBJECT_SHARED Models/lib/SmHangar.ac 21.32396 45.80941 102.17 248.95
+OBJECT_SHARED Models/lib/lamp10m.xml 21.31637 45.81136 102.33 0
+OBJECT_SHARED Models/lib/office3x10.ac 21.31748 45.81090 101.43 244.96
+OBJECT_SHARED Models/lib/office8x14.ac 21.31732 45.81103 101.62 65.03
+OBJECT_SHARED Models/Trees/billboard-tree.xml 21.32408 45.80942 101.59 0
+# END dsf2stg

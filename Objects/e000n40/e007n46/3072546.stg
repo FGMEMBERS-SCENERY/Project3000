@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.67425 46.60971 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.67494 46.60976 729.41 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.67450 46.60962 728.47 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.68232 46.61470 729.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.68226 46.61457 717.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.68216 46.61453 717.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.68310 46.61740 717.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.68294 46.61718 712.63 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.68290 46.61704 713.08 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.68298 46.61724 714.22 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.68325 46.61720 713.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.68320 46.61714 712.48 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.68315 46.61697 712.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.68319 46.61705 713.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.67450 46.61212 713.64 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.67458 46.61205 726.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.67385 46.61139 726.97 0
+OBJECT_SHARED Models/Transport/van_red.ac 7.68294 46.61696 728.72 61.26
+OBJECT_SHARED Models/lib/cars6.ac 7.68295 46.61702 714.17 73.4086
+OBJECT_SHARED Models/lib/prop_a.ac 7.68141 46.61494 714.16 147.665
+OBJECT_SHARED Models/lib/SmHangar.ac 7.68248 46.61587 717.40 325.872
+OBJECT_SHARED Models/lib/MedHangar.ac 7.68184 46.61535 715.68 326.019
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.68209 46.61564 716.69 56.1395
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.68204 46.61561 716.31 52.2112
+# END dsf2stg

@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -92.68581 38.94111 0.00 85.61
+OBJECT_SHARED Models/lib/LongRow.ac -92.68524 38.94194 214.09 85.38
+OBJECT_SHARED Models/lib/hangar81x16.ac -92.68467 38.94150 215.42 85.14
+OBJECT_SHARED Models/lib/LongRow.ac -92.68484 38.94175 215.54 84.46
+OBJECT_SHARED Models/lib/LongRow.ac -92.68573 38.94198 215.64 85.43
+OBJECT_SHARED Models/lib/LongRow.ac -92.68534 38.94108 214.89 85.76
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.68471 38.94258 214.61 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -92.68577 38.94317 216.11 324.78
+OBJECT_SHARED Models/lib/HorizTanks2.ac -92.68524 38.94318 214.88 174.62
+OBJECT_SHARED Models/lib/6space_wStop.ac -92.68573 38.94296 215.59 175.02
+OBJECT_SHARED Models/lib/4space_wStop.ac -92.68570 38.94320 215.06 174.37
+OBJECT_SHARED Models/lib/4space_wStop.ac -92.68547 38.94317 215.01 355.65
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.68569 38.94294 215.27 86.05
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.68553 38.94300 215.07 272.57
+OBJECT_SHARED Models/Transport/hatchback_red.ac -92.68554 38.94289 215.31 264.34
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.68551 38.94316 215.32 266.91
+OBJECT_SHARED Models/Transport/van_silver.ac -92.68550 38.94313 215.27 264.8
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.68568 38.94304 215.29 85.71
+OBJECT_SHARED Models/lib/prop_a.ac -92.68448 38.94231 215.06 177.05
+OBJECT_SHARED Models/lib/prop_a.ac -92.68452 38.94319 216.18 180.81
+OBJECT_SHARED Models/lib/prop_a.ac -92.68449 38.94344 216.24 178.93
+OBJECT_SHARED Models/lib/prop_a.ac -92.68448 38.94357 216.21 178.14
+OBJECT_SHARED Models/lib/industrial13x24.ac -92.68454 38.94267 216.18 265.34
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.68483 38.94163 216.28 262.97
+# END dsf2stg

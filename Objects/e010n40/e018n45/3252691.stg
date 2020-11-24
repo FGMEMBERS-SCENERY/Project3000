@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 18.75931 45.25039 0.00 46.52
+OBJECT_SHARED Models/lib/prop_a.ac 18.75987 45.25110 79.24 318.84
+OBJECT_SHARED Models/lib/transformer3x3.ac 18.75938 45.25071 79.81 140
+OBJECT_SHARED Models/Misc/6barrels.ac 18.75959 45.25084 79.48 222.34
+OBJECT_SHARED Models/lib/stack_of_cones.ac 18.75962 45.25086 79.60 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 18.76005 45.25087 79.65 225.56
+OBJECT_SHARED Models/Transport/van_silver.ac 18.76009 45.25090 80.05 49.33
+OBJECT_SHARED Models/Transport/hatchback_green.ac 18.76012 45.25092 80.05 48.7
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 18.76015 45.25094 80.05 41.82
+OBJECT_SHARED Models/Misc/picnic_table.ac 18.75997 45.25092 80.05 316.59
+OBJECT_SHARED Models/Misc/picnic_table.ac 18.75994 45.25095 79.88 316.59
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75969 45.25083 79.71 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75981 45.25075 79.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75975 45.25071 79.59 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75960 45.25078 79.57 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75951 45.25071 79.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75942 45.25065 79.53 315
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75917 45.25045 79.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75908 45.25040 79.16 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75892 45.25025 79.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75884 45.25019 78.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.75865 45.25003 78.62 0
+OBJECT_SHARED Models/lib/shed8x10.ac 18.75898 45.25017 78.48 46
+OBJECT_SHARED Models/lib/shed8x10.ac 18.75969 45.25049 78.81 46
+OBJECT_SHARED Models/lib/shed8x10.ac 18.75935 45.25022 79.47 46
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 18.75927 45.25045 79.16 283.94
+OBJECT_SHARED Models/Misc/6barrels.ac 18.75926 45.25028 79.24 283.94
+OBJECT_SHARED Models/Misc/6barrels.ac 18.75925 45.25027 79.18 283.94
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 18.75961 45.25052 79.09 104.31
+OBJECT_SHARED Models/Misc/6barrels.ac 18.75962 45.25069 79.44 104.31
+OBJECT_SHARED Models/Misc/6barrels.ac 18.75963 45.25070 79.55 104.31
+OBJECT_SHARED Models/lib/industrial13x24.ac 18.75999 45.25095 79.55 45
+OBJECT_SHARED Models/lib/office6x12.ac 18.76024 45.25101 79.88 315
+# END dsf2stg

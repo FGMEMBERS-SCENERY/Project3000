@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -91.57549 34.59532 0.00 358.59
+OBJECT_SHARED Models/lib/fboModern1.ac -91.57540 34.59729 65.41 359.39
+OBJECT_SHARED Models/lib/MedHangar.ac -91.56831 34.60064 65.59 267.62
+OBJECT_SHARED Models/lib/LongRow.ac -91.57442 34.59873 66.50 42.88
+OBJECT_SHARED Models/lib/SmHangar.ac -91.57549 34.59552 65.83 359.59
+OBJECT_SHARED Models/lib/propane-tank.ac -91.57535 34.59531 65.42 96.34
+OBJECT_SHARED Models/lib/propane-tank.ac -91.57535 34.59552 65.41 92.05
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -91.57548 34.59565 65.42 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -91.57547 34.59616 65.44 359.23
+OBJECT_SHARED Models/lib/LgMaint.ac -91.57025 34.60133 65.48 268.87
+OBJECT_SHARED Models/lib/prop_a.ac -91.57600 34.59688 66.50 88.85
+OBJECT_SHARED Models/lib/prop_a.ac -91.57602 34.59656 65.52 91.67
+OBJECT_SHARED Models/lib/prop_a.ac -91.57630 34.59705 65.50 88.99
+OBJECT_SHARED Models/lib/prop_a.ac -91.57601 34.59705 65.52 90
+OBJECT_SHARED Models/lib/lamp10m.xml -91.57098 34.60099 65.54 269.88
+OBJECT_SHARED Models/lib/lamp10m.xml -91.57154 34.60100 66.41 270
+OBJECT_SHARED Models/lib/lamp10m.xml -91.57122 34.60099 66.38 270
+# END dsf2stg

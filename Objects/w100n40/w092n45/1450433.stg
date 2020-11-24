@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -91.50105 45.10245 0.00 180
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.50128 45.10241 307.06 178.67
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.50128 45.10251 307.34 178.37
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.50085 45.10239 307.27 0.480003
+OBJECT_SHARED Models/lib/6space_wStop.ac -91.50263 45.10145 307.06 180.96
+OBJECT_SHARED Models/lib/6space_wStop.ac -91.50263 45.10126 309.50 180.72
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.50154 45.10217 309.64 90
+OBJECT_SHARED Models/lib/4space_wStop.ac -91.50085 45.10250 307.72 0.519997
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -91.50238 45.10130 306.99 180
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -91.50239 45.10150 309.46 180
+OBJECT_SHARED Models/lib/6space_wStop.ac -91.50072 45.10148 309.23 0
+OBJECT_SHARED Models/lib/6space_wStop.ac -91.50072 45.10130 307.94 0.529999
+OBJECT_SHARED Models/lib/6space_wStop.ac -91.50101 45.10112 308.18 269.49
+OBJECT_SHARED Models/lib/6space_wStop.ac -91.50108 45.10142 308.64 90
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -91.50088 45.10127 308.36 179.47
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -91.50102 45.10127 308.33 179.63
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -91.50116 45.10127 308.41 180.54
+OBJECT_SHARED Models/lib/cars10.ac -91.50261 45.10169 308.56 0.620003
+OBJECT_SHARED Models/lib/cars10.ac -91.50220 45.10171 309.15 180.53
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.50109 45.10237 308.85 269.52
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.50102 45.10292 307.20 269.05
+OBJECT_SHARED Models/Transport/hatchback_green.ac -91.50117 45.10294 306.71 91.52
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -91.50101 45.10240 306.90 89.02
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.50124 45.10252 307.13 87.9
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.50117 45.10304 307.20 90.5
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.50101 45.10290 306.82 270.46
+OBJECT_SHARED Models/Transport/hatchback_green.ac -91.50117 45.10311 306.71 91.32
+OBJECT_SHARED Models/lib/cars6.ac -91.50167 45.10233 306.70 359.74
+OBJECT_SHARED Models/lib/cars4.ac -91.50146 45.10217 307.76 179.21
+OBJECT_SHARED Models/lib/cars4.ac -91.50072 45.10167 307.72 270
+OBJECT_SHARED Models/lib/cars4.ac -91.50116 45.10112 307.70 180.66
+OBJECT_SHARED Models/lib/cars4.ac -91.50135 45.10142 308.80 359.89
+# END dsf2stg

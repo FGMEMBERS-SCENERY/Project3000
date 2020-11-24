@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12471 37.66673 0.00 351.79
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12469 37.66691 485.47 353.66
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12465 37.66712 485.53 353.88
+OBJECT_SHARED Models/lib/office40x25.ac -98.12589 37.66420 485.58 180
+OBJECT_SHARED Models/lib/office8x14.ac -98.12565 37.66427 483.84 0
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12491 37.66610 484.01 170.54
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12222 37.66104 485.25 0
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12223 37.66148 482.32 0
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12222 37.66120 482.82 1.39
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.12176 37.66206 482.54 0
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12245 37.66135 483.14 179.15
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12245 37.66105 482.73 179.45
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.12474 37.66588 482.43 171.54
+OBJECT_SHARED Models/Transport/hatchback_black.ac -98.12591 37.66415 485.20 91.74
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.12591 37.66410 483.84 91.47
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.12590 37.66434 483.78 88.32
+OBJECT_SHARED Models/Transport/hatchback_green.ac -98.12590 37.66432 483.91 88.73
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.12597 37.66590 483.91 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -98.12604 37.66590 484.90 0
+OBJECT_SHARED Models/lib/prop_a.ac -98.12478 37.66695 484.90 172.23
+OBJECT_SHARED Models/lib/prop_a.ac -98.12403 37.66632 485.53 82.88
+OBJECT_SHARED Models/lib/prop_a.ac -98.12473 37.66552 485.35 33.69
+# END dsf2stg

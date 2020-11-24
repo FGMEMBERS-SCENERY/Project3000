@@ -1,27 +1,27 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 13.34705 48.21106 416.85 239.5
-OBJECT_SHARED Models/Transport/van_silver.ac 13.34716 48.21106 416.95 327.97
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 13.34720 48.21104 417.06 329.52
-OBJECT_SHARED Models/Transport/van_red.ac 13.34724 48.21103 417.06 331.08
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.34700 48.21101 416.95 332.73
-OBJECT_SHARED Models/Transport/hatchback_red.ac 13.34736 48.21098 417.17 332.65
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.34728 48.21100 417.11 331.59
-OBJECT_SHARED Models/Transport/van_silver.ac 13.34666 48.21114 416.72 327.97
-OBJECT_SHARED Models/Transport/hatchback_red.ac 13.34670 48.21113 416.72 329.52
-OBJECT_SHARED Models/Transport/van_silver.ac 13.34674 48.21111 416.72 331.08
-OBJECT_SHARED Models/Transport/hatchback_green.ac 13.34695 48.21102 416.95 332.73
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 13.34686 48.21106 416.81 332.65
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.34678 48.21109 416.76 331.59
-OBJECT_SHARED Models/lib/lamp10m.xml 13.34644 48.21126 416.37 149.43
-OBJECT_SHARED Models/lib/lamp10m.xml 13.34616 48.21158 415.96 240
-OBJECT_SHARED Models/lib/lamp10m.xml 13.34644 48.21147 416.16 240
-OBJECT_SHARED Models/lib/lamp10m.xml 13.34698 48.21126 416.63 240
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.34687 48.21115 416.70 149.5
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.34694 48.21123 416.70 149.5
-OBJECT_SHARED Models/lib/SmHangar.ac 13.34699 48.21128 416.63 239.5
-OBJECT_SHARED Models/lib/shed10x50.ac 13.34622 48.21143 416.18 149.5
-OBJECT_SHARED Models/lib/shed10x50.ac 13.34628 48.21150 416.12 149.5
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.34733 48.21109 417.00 149.5
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 13.34705 48.21106 0.00 239.5
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.34716 48.21106 418.12 327.97
+OBJECT_SHARED Models/Transport/van_silver.ac 13.34720 48.21104 418.19 329.52
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.34724 48.21103 418.27 331.08
+OBJECT_SHARED Models/Transport/van_silver.ac 13.34700 48.21101 418.27 332.73
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.34736 48.21098 418.20 332.65
+OBJECT_SHARED Models/Transport/van_red.ac 13.34728 48.21100 418.34 331.59
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.34666 48.21114 418.31 327.97
+OBJECT_SHARED Models/Transport/van_silver.ac 13.34670 48.21113 418.02 329.52
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.34674 48.21111 418.02 331.08
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.34695 48.21102 418.02 332.73
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.34686 48.21106 418.20 332.65
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.34678 48.21109 418.09 331.59
+OBJECT_SHARED Models/lib/lamp10m.xml 13.34644 48.21126 418.05 149.43
+OBJECT_SHARED Models/lib/lamp10m.xml 13.34616 48.21158 417.70 240
+OBJECT_SHARED Models/lib/lamp10m.xml 13.34644 48.21147 417.29 240
+OBJECT_SHARED Models/lib/lamp10m.xml 13.34698 48.21126 417.48 240
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.34687 48.21115 417.92 149.5
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.34694 48.21123 417.99 149.5
+OBJECT_SHARED Models/lib/SmHangar.ac 13.34699 48.21128 417.99 239.5
+OBJECT_SHARED Models/lib/shed10x50.ac 13.34622 48.21143 417.92 149.5
+OBJECT_SHARED Models/lib/shed10x50.ac 13.34628 48.21150 417.51 149.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.34733 48.21109 417.44 149.5
 # END dsf2stg

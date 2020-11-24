@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -99.97299 31.67973 0.00 90
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -99.97246 31.67960 528.21 90
+OBJECT_SHARED Models/lib/LongRow.ac -99.97242 31.67905 528.22 0
+OBJECT_SHARED Models/lib/lamp10m.xml -99.97798 31.67985 528.29 180
+OBJECT_SHARED Models/lib/lamp10m.xml -99.97800 31.67922 527.99 180
+OBJECT_SHARED Models/lib/lamp10m.xml -99.97801 31.67863 527.99 180
+OBJECT_SHARED Models/lib/lamp10m.xml -99.97798 31.67998 528.00 180
+OBJECT_SHARED Models/lib/lamp10m.xml -99.97800 31.67935 527.99 180
+OBJECT_SHARED Models/lib/lamp10m.xml -99.97801 31.67876 527.99 180
+# END dsf2stg

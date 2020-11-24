@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.61919 30.87892 84.19 231.55
+OBJECT_SHARED Models/lib/lamp10m.xml -96.61906 30.87881 83.94 -0.679993
+OBJECT_SHARED Models/lib/garage-small-white.ac -96.61910 30.87887 84.28 89.51
+OBJECT_SHARED Models/lib/SmHangar.ac -96.61931 30.87871 86.38 358.51
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -96.62214 30.87747 86.30 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -96.62216 30.87696 84.86 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -96.62221 30.87531 84.72 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -96.62217 30.87641 84.52 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -96.62219 30.87587 84.50 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -96.62186 30.87747 84.46 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -96.62188 30.87696 84.97 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -96.62193 30.87531 84.87 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -96.62189 30.87641 84.65 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -96.62191 30.87586 84.61 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.61902 30.87528 84.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.61897 30.87601 84.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.61894 30.87622 85.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.61893 30.87634 85.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.61891 30.87737 85.18 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.61891 30.87756 85.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.61887 30.87815 85.71 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.61886 30.87861 85.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.61885 30.87888 86.19 0
+# END dsf2stg

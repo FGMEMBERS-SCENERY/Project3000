@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars7.ac -75.41429 42.30469 0.00 30
+OBJECT_SHARED Models/lib/cars7.ac -75.41459 42.30456 310.48 207
+OBJECT_SHARED Models/lib/MedHangar.ac -75.41492 42.30428 310.43 117.2
+OBJECT_SHARED Models/lib/office8x14.ac -75.41527 42.30421 310.38 299
+OBJECT_SHARED Models/lib/hangar81x16.ac -75.41322 42.30509 310.25 209
+OBJECT_SHARED Models/lib/LongRow.ac -75.41787 42.30307 310.38 212.01
+OBJECT_SHARED Models/lib/propane-tank.ac -75.41696 42.30347 309.35 125
+OBJECT_SHARED Models/lib/propane-tank.ac -75.41533 42.30442 309.63 205
+OBJECT_SHARED Models/lib/propane-tank.ac -75.41532 42.30441 310.19 205
+OBJECT_SHARED Models/lib/propane-tank.ac -75.41533 42.30443 310.19 205
+OBJECT_SHARED Models/lib/transformer3x3.ac -75.41703 42.30342 310.19 33
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -75.41706 42.30346 309.68 215
+OBJECT_SHARED Models/lib/garden-shed.ac -75.41541 42.30420 309.58 120
+OBJECT_SHARED Models/lib/garden-shed.ac -75.41545 42.30427 310.20 120
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.42380 42.29959 310.13 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41296 42.30309 307.01 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41302 42.30303 308.88 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41308 42.30296 308.72 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41315 42.30288 308.77 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41292 42.30297 308.68 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41296 42.30292 308.68 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41305 42.30287 308.57 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41244 42.30365 308.57 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41238 42.30370 309.16 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41229 42.30370 309.29 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.40812 42.30688 309.22 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.40802 42.30691 303.58 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.40794 42.30606 303.33 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41880 42.30304 302.16 275
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.41779 42.30348 308.87 275
+OBJECT_SHARED Models/lib/stack_of_cones.ac -75.41692 42.30366 309.14 230
+OBJECT_SHARED Models/lib/stack_of_cones.ac -75.41631 42.30383 309.60 230
+OBJECT_SHARED Models/lib/cone.ac -75.41539 42.30405 309.88 250
+OBJECT_SHARED Models/lib/cone.ac -75.41551 42.30400 310.23 250
+# END dsf2stg

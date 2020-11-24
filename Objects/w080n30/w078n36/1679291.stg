@@ -1,11 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -77.00208 36.98211 30.01 249.3
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -77.00192 36.98244 30.00 253.14
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -77.00372 36.98344 30.64 101.31
-OBJECT_SHARED Models/lib/SmHangar.ac -77.00174 36.98304 30.00 342
-OBJECT_SHARED Models/lib/LongRow.ac -77.00411 36.98288 30.91 256.2
-OBJECT_SHARED Models/lib/LongRow.ac -77.00394 36.98343 30.78 256.2
-OBJECT_SHARED Models/lib/office32x25.ac -77.00227 36.98131 30.02 71.48
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -77.00385 36.98265 0.00 249.3
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -77.00378 36.98290 30.70 253.14
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -77.00396 36.98231 30.66 252.07
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -77.00249 36.98135 30.75 339.018
+OBJECT_SHARED Models/lib/vending-machine.ac -77.00231 36.98135 30.03 252.475
+OBJECT_SHARED Models/Misc/picnic_table.ac -77.00245 36.98150 30.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -77.00217 36.98134 30.02 339.373
+OBJECT_SHARED Models/lib/stack_of_cones.ac -77.00270 36.98124 29.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -77.00244 36.98147 30.06 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -77.00237 36.98148 30.02 71.8473
+OBJECT_SHARED Models/Misc/picnic_table.ac -77.00240 36.98149 30.02 71.8473
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -77.00229 36.98133 30.02 0
+OBJECT_SHARED Models/lib/office16x4n.ac -77.00156 36.98330 30.00 341.964
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -77.00285 36.98129 30.01 316.637
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -77.00205 36.98141 30.09 65.3002
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -77.00276 36.98126 29.97 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -77.00274 36.98125 30.09 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -77.00225 36.98139 30.07 160.821
+OBJECT_SHARED Models/lib/fuel-truck.xml -77.00267 36.98128 29.99 182.203
+OBJECT_SHARED Models/Transport/hatchback_red.ac -77.00246 36.98134 30.07 341.144
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -77.00234 36.98131 30.03 162.838
+OBJECT_SHARED Models/lib/SmHangar.ac -77.00177 36.98308 30.00 342
+OBJECT_SHARED Models/lib/LongRow.ac -77.00411 36.98288 30.02 256.2
+OBJECT_SHARED Models/lib/LongRow.ac -77.00394 36.98343 30.90 256.2
 # END dsf2stg

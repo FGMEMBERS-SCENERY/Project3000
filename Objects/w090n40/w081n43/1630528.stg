@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -80.82174 43.10696 0.00 113.63
+OBJECT_SHARED Models/lib/industrial13x24.ac -80.82170 43.10691 305.95 113.63
+OBJECT_SHARED Models/lib/prop_a.ac -80.82191 43.10688 305.78 205.87
+OBJECT_SHARED Models/lib/prop_a.ac -80.82202 43.10705 305.98 210.96
+OBJECT_SHARED Models/lib/industrial13x24.ac -80.82196 43.11181 306.25 202.77
+OBJECT_SHARED Models/lib/industrial13x24.ac -80.82208 43.11171 311.23 292.33
+OBJECT_SHARED Models/lib/prop_a.ac -80.82363 43.11068 311.19 18.44
+OBJECT_SHARED Models/lib/prop_a.ac -80.82368 43.11083 310.56 195.12
+OBJECT_SHARED Models/lib/prop_a.ac -80.82376 43.11026 310.58 41.42
+OBJECT_SHARED Models/Transport/van_red.ac -80.82189 43.11165 310.40 123.69
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -80.82214 43.11159 311.22 292.38
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -80.82218 43.11166 311.16 291.8
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -80.82207 43.11128 311.17 203.2
+OBJECT_SHARED Models/lib/cars10.ac -80.82437 43.11149 311.07 24.14
+OBJECT_SHARED Models/lib/cars10.ac -80.82390 43.11143 310.52 206.7
+OBJECT_SHARED Models/lib/cars6.ac -80.82440 43.11127 310.67 111.64
+OBJECT_SHARED Models/lib/LongRow.ac -80.82431 43.11099 310.51 294.26
+OBJECT_SHARED Models/lib/LongRow.ac -80.82437 43.11107 310.48 294.26
+# END dsf2stg

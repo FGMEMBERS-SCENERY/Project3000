@@ -1,15 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -79.32271 42.97483 178.06 168.83
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -79.32498 42.97512 178.51 167.71
-OBJECT_SHARED Models/Aircraft/Cessna172.ac -79.32368 42.97497 178.31 351.08
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -79.32305 42.97488 178.15 351.08
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -79.32238 42.97480 178.00 351.08
-OBJECT_SHARED Models/lib/industrial13x24.ac -79.32323 42.97436 177.99 262.7
-OBJECT_SHARED Models/lib/SmHangar.ac -79.32368 42.97442 178.07 260.69
-OBJECT_SHARED Models/lib/SmHangar.ac -79.32281 42.97431 177.88 262.9
-OBJECT_SHARED Models/lib/SmHangar.ac -79.32198 42.97436 177.77 301.84
-OBJECT_SHARED Models/lib/shed8x10.ac -79.32584 42.97336 177.62 173.52
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.32513 42.97478 178.40 260.84
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.35608 42.87705 0.00 269.802
+OBJECT_SHARED Models/lib/garden-shed.ac -79.35402 42.87659 179.63 248.839
+OBJECT_SHARED Models/lib/shed8x10.ac -79.35584 42.87603 182.16 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -79.35594 42.87558 179.78 270.637
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -79.35607 42.87567 179.60 86.9872
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -79.35608 42.87570 179.38 91.9749
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -79.35608 42.87578 179.38 88.698
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -79.35607 42.87584 179.40 97.1251
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -79.35595 42.87615 179.40 112.036
+OBJECT_SHARED Models/Transport/van_silver.ac -79.35595 42.87634 179.58 99.6889
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -79.35596 42.87644 179.73 88.3634
+OBJECT_SHARED Models/lib/office4x14.ac -79.35594 42.87591 179.63 0
+OBJECT_SHARED Models/lib/office4x14.ac -79.35596 42.87591 179.65 0
+OBJECT_SHARED Models/lib/office4x14.ac -79.35600 42.87591 179.53 0
+OBJECT_SHARED Models/lib/farm19x12.ac -79.35596 42.87651 179.53 271.302
+OBJECT_SHARED Models/lib/garage-small-white.ac -79.35543 42.87889 179.64 179.17
+OBJECT_SHARED Models/lib/farm19x12.ac -79.35557 42.88029 180.65 181.005
 # END dsf2stg

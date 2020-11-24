@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -113.71927 47.53594 0.00 29.2487
+OBJECT_SHARED Models/Transport/hatchback_black.ac -113.71916 47.53498 1122.19 304.593
+OBJECT_SHARED Models/lib/shed8x10.ac -113.71836 47.53496 1122.53 126.87
+OBJECT_SHARED Models/Transport/hatchback_red.ac -113.71918 47.53566 1123.48 128.047
+OBJECT_SHARED Models/Transport/hatchback_black.ac -113.71827 47.53582 1122.26 32.0054
+OBJECT_SHARED Models/Transport/hatchback_black.ac -113.71920 47.53569 1123.12 129.289
+OBJECT_SHARED Models/lib/farm19x12.ac -113.71910 47.53578 1122.26 301.661
+OBJECT_SHARED Models/lib/farm19x12.ac -113.71907 47.53579 1122.23 122.856
+# END dsf2stg

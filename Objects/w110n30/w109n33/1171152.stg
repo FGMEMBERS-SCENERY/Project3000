@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_silver.ac -108.86081 33.36353 0.00 90.16
+OBJECT_SHARED Models/lib/garden-shed.ac -108.86132 33.36355 1666.48 181.14
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -108.86094 33.36469 1666.65 91.79
+OBJECT_SHARED Models/Transport/hatchback_black.ac -108.86098 33.36329 1668.21 158.05
+OBJECT_SHARED Models/Airport/cargoip.xml -108.86132 33.36303 1666.14 180
+OBJECT_SHARED Models/Airport/cargoim.xml -108.86133 33.36306 1665.62 0
+OBJECT_SHARED Models/lib/SmHangar.ac -108.86129 33.36340 1665.79 1.71
+OBJECT_SHARED Models/lib/SmHangar.ac -108.86128 33.36395 1666.31 1.9
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -108.86110 33.36439 1667.17 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.86106 33.36481 1667.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.86113 33.36483 1668.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.86102 33.36312 1668.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.86124 33.36409 1665.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -108.86109 33.36413 1667.51 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.86091 33.36389 1667.51 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -108.86082 33.36363 1667.17 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.86104 33.36369 1666.65 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.86096 33.36367 1666.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.86108 33.36383 1666.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.86117 33.36362 1667.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -108.86127 33.36362 1666.65 0
+# END dsf2stg

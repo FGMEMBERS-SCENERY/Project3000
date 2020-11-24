@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -118.10306 46.28834 0.00 197.969
+OBJECT_SHARED Models/lib/propane-tank.ac -118.10290 46.28831 414.02 109.359
+OBJECT_SHARED Models/lib/propane-tank.ac -118.10288 46.28826 414.02 284.931
+OBJECT_SHARED Models/lib/propane-tank.ac -118.10283 46.28822 414.02 293.629
+OBJECT_SHARED Models/lib/propane-tank.ac -118.10285 46.28826 414.05 292.813
+OBJECT_SHARED Models/lib/propane-tank.ac -118.10287 46.28832 414.02 112.446
+OBJECT_SHARED Models/lib/trailer-ups.ac -118.10518 46.28742 414.02 21.9489
+OBJECT_SHARED Models/lib/4container-office.ac -118.10448 46.28759 414.05 26.0253
+OBJECT_SHARED Models/lib/shed8x10.ac -118.10489 46.28771 414.22 27.3808
+OBJECT_SHARED Models/lib/industrial13x24.ac -118.10419 46.28787 413.81 23.7025
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -118.09973 46.28901 413.99 110.072
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -118.09960 46.28897 414.00 188.88
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -118.10008 46.28879 414.00 201.299
+OBJECT_SHARED Models/lib/prop_a.ac -118.10052 46.28872 413.97 109.44
+OBJECT_SHARED Models/lib/SmHangar.ac -118.10087 46.28864 413.96 290.63
+OBJECT_SHARED Models/lib/SmHangar.ac -118.10109 46.28858 413.96 290.924
+OBJECT_SHARED Models/lib/SmHangar.ac -118.10132 46.28852 413.96 291.306
+OBJECT_SHARED Models/lib/trailer-fedex.ac -118.10482 46.28787 413.95 302.005
+OBJECT_SHARED Models/lib/trailer-ups.ac -118.10522 46.28766 413.67 210.736
+# END dsf2stg

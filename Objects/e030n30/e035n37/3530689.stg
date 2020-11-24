@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 35.43297 37.00047 0.00 100
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 35.43293 37.00039 63.05 100
+OBJECT_SHARED Models/Transport/hatchback_red.ac 35.43131 37.00019 62.98 153.08
+OBJECT_SHARED Models/Transport/hatchback_black.ac 35.43138 37.00015 62.47 153.08
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 35.43301 37.00055 62.46 100
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 35.43307 37.00065 63.05 100
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 35.43284 37.00025 63.17 100
+OBJECT_SHARED Models/Transport/hatchback_black.ac 35.43295 37.00044 62.92 100
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 35.43310 37.00069 63.00 100
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 35.43315 37.00060 63.17 266.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac 35.43318 37.00066 63.14 266.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac 35.43322 37.00071 63.20 266.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac 35.43311 37.00050 63.20 266.09
+OBJECT_SHARED Models/Transport/van_red.ac 35.43287 37.00029 63.06 100
+OBJECT_SHARED Models/lib/office65x50.ac 35.43193 37.00071 62.93 127.26
+OBJECT_SHARED Models/lib/office32x25n.ac 35.43232 37.00082 62.85 307.09
+OBJECT_SHARED Models/lib/office32x25n.ac 35.43176 37.00030 63.01 306.45
+OBJECT_SHARED Models/lib/office65x50.ac 35.43827 37.00300 61.42 306.47
+OBJECT_SHARED Models/lib/office32x25.ac 35.43959 37.00341 65.54 125.43
+OBJECT_SHARED Models/lib/LongRow.ac 35.44575 37.00715 66.03 125
+OBJECT_SHARED Models/lib/LongRow.ac 35.44648 37.00964 69.23 141.72
+OBJECT_SHARED Models/lib/LongRow.ac 35.44502 37.00673 71.25 125
+OBJECT_SHARED Models/lib/LongRow.ac 35.44631 37.00947 68.80 141.72
+OBJECT_SHARED Models/lib/LongRow.ac 35.44480 37.00661 71.08 125
+OBJECT_SHARED Models/lib/LongRow.ac 35.44576 37.00888 68.69 300.99
+OBJECT_SHARED Models/lib/LongRow.ac 35.44506 37.00852 70.50 300.99
+OBJECT_SHARED Models/lib/LongRow.ac 35.44358 37.00581 70.14 125
+OBJECT_SHARED Models/lib/LongRow.ac 35.44599 37.00899 68.00 300.99
+OBJECT_SHARED Models/lib/LongRow.ac 35.44529 37.00863 70.60 300.99
+OBJECT_SHARED Models/lib/LongRow.ac 35.44336 37.00569 70.23 125
+OBJECT_SHARED Models/lib/LongRow.ac 35.44621 37.00911 67.91 300.99
+OBJECT_SHARED Models/lib/LongRow.ac 35.44551 37.00875 70.71 300.99
+OBJECT_SHARED Models/lib/LongRow.ac 35.44315 37.00556 70.33 125
+OBJECT_SHARED Models/lib/office112x50.ac 35.43796 37.00094 67.81 127.9
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 35.43258 37.00158 64.29 127.85
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43122 37.00098 63.44 82.45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43256 37.00220 62.77 82.45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43423 37.00321 63.69 82.45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43178 37.00132 64.60 83.16
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43837 37.00528 63.08 173.15
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43777 37.00554 66.78 173.15
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43825 37.00492 66.72 83.16
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43761 37.00457 66.51 83.16
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43680 37.00391 66.20 83.16
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43313 37.00254 65.65 83.16
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43479 37.00355 63.97 83.16
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43069 37.00072 64.95 83.16
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43192 37.00180 62.50 83.16
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 35.43359 37.00282 63.31 83.16
+# END dsf2stg

@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -94.03638 30.89361 0.00 269.47
+OBJECT_SHARED Models/lib/lamp10m.xml -94.03631 30.89339 62.41 270.24
+OBJECT_SHARED Models/lib/lamp10m.xml -94.03670 30.89291 62.34 179.89
+OBJECT_SHARED Models/lib/lamp10m.xml -94.03629 30.89294 61.69 270.69
+OBJECT_SHARED Models/lib/fboModern1.ac -94.03621 30.89324 61.98 180
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.03648 30.88922 62.26 180
+OBJECT_SHARED Models/lib/MedHangar.ac -94.03639 30.89207 59.19 180
+OBJECT_SHARED Models/lib/MedHangar.ac -94.03217 30.89373 61.34 88.72
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -94.03752 30.89411 64.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -94.03747 30.89394 61.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.03707 30.89357 61.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.03767 30.89333 61.85 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.03701 30.89328 61.19 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.03704 30.89402 61.74 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.03767 30.89160 62.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.03783 30.89154 60.10 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.03780 30.89168 59.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -94.03719 30.89365 60.09 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.03088 30.89331 61.77 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.03743 30.89407 64.17 0
+OBJECT_SHARED Models/lib/MedHangar.ac -94.03646 30.89009 61.95 180
+OBJECT_SHARED Models/lib/office16x4n.ac -94.03732 30.89209 59.80 48
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -94.03629 30.89488 60.69 178.77
+OBJECT_SHARED Models/lib/shed8x10.ac -94.03757 30.89207 63.39 137.1
+OBJECT_SHARED Models/lib/office3x10.ac -94.03685 30.89210 60.47 177.1
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -94.03640 30.89458 61.06 359.12
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.03729 30.89184 63.11 305.12
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.03714 30.89166 60.49 305.12
+OBJECT_SHARED Models/lib/4container-office.ac -94.03684 30.89223 60.57 267.17
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -94.03641 30.89364 61.13 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -94.03643 30.89242 62.41 290.85
+OBJECT_SHARED Models/lib/prop_a.ac -94.03620 30.88954 61.55 272.72
+OBJECT_SHARED Models/lib/prop_a.ac -94.03635 30.88998 59.55 73
+OBJECT_SHARED Models/lib/prop_a.ac -94.03617 30.89457 59.85 265.64
+OBJECT_SHARED Models/lib/prop_a.ac -94.03635 30.88954 63.27 265.64
+OBJECT_SHARED Models/Transport/van_silver.ac -94.03637 30.89102 59.48 8.82001
+OBJECT_SHARED Models/Transport/hatchback_red.ac -94.03638 30.89191 60.53 177.4
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.03638 30.89407 61.19 333.44
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.03635 30.89377 62.77 174.81
+# END dsf2stg

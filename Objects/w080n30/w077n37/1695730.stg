@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.27210 37.83057 0.00 239.19
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.27199 37.83075 2.06 245.07
+OBJECT_SHARED Models/lib/transformer3x3.ac -76.27169 37.83130 2.07 335.18
+OBJECT_SHARED Models/lib/transformer3x3.ac -76.27174 37.83129 2.08 65.06
+OBJECT_SHARED Models/lib/shed8x10.ac -76.27188 37.83123 2.08 244.83
+# END dsf2stg

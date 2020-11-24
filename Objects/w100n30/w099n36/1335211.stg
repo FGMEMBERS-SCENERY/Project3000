@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -98.12601 36.73726 0.00 178.26
+OBJECT_SHARED Models/lib/prop_a.ac -98.12579 36.73791 365.77 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.12603 36.73830 365.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.12650 36.73761 366.16 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.12706 36.73764 366.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.12721 36.73776 366.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.12741 36.73792 366.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.12755 36.73810 367.03 0
+# END dsf2stg

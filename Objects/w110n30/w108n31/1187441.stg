@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -107.63404 31.82375 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -107.63412 31.82368 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -107.63396 31.82368 -1000.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -107.63396 31.82373 -1000.00 0
+OBJECT_SHARED Models/lib/propane-tank.ac -107.63427 31.82385 -1000.00 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -107.63414 31.82385 -1000.00 90
+# END dsf2stg

@@ -1,8 +1,5 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/garden-shed.ac -31.11367 39.67071 -0.57 282.53
-OBJECT_SHARED Models/lib/SmHangar.ac -31.11321 39.67062 -0.58 265
-OBJECT_SHARED Models/lib/SmHangar.ac -31.11335 39.67063 -0.58 265
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -31.11356 39.67053 -0.57 353.04
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -31.11356 39.67053 0.00 85.2249
 # END dsf2stg

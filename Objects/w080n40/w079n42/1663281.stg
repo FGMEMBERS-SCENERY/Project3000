@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -78.71706 42.85996 0.00 134.32
+OBJECT_SHARED Models/lib/office4x14.ac -78.72046 42.85878 200.50 22.21
+OBJECT_SHARED Models/lib/SmHangar.ac -78.71963 42.85818 199.02 271
+OBJECT_SHARED Models/lib/SmHangar.ac -78.71963 42.85827 198.27 271
+OBJECT_SHARED Models/lib/MedHangar.ac -78.71993 42.85852 198.41 269.45
+OBJECT_SHARED Models/lib/hangar81x16.ac -78.71845 42.85940 198.61 222
+OBJECT_SHARED Models/lib/LongRow.ac -78.71790 42.85979 199.90 222
+OBJECT_SHARED Models/lib/LongRow.ac -78.71651 42.86104 200.29 222.5
+OBJECT_SHARED Models/lib/HorizTanks2.ac -78.71943 42.85843 201.03 271
+# END dsf2stg

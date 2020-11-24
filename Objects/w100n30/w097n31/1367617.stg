@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -96.54356 31.01015 0.00 325.61
+OBJECT_SHARED Models/lib/SmHangar.ac -96.54200 31.01080 130.56 136.67
+OBJECT_SHARED Models/lib/SmHangar.ac -96.54212 31.01069 131.56 136.67
+OBJECT_SHARED Models/Transport/van_silver.ac -96.54342 31.01018 131.54 143.5
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.54369 31.01005 130.79 143.5
+OBJECT_SHARED Models/lib/coal_pile.ac -96.54221 31.01086 130.49 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54336 31.01094 131.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54333 31.01090 130.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54342 31.00978 130.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54390 31.01006 130.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54398 31.00997 130.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54362 31.00999 130.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54375 31.00983 130.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54405 31.01007 130.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54403 31.01022 130.11 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54393 31.01021 130.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54380 31.01015 130.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.54377 31.01007 130.33 0
+# END dsf2stg

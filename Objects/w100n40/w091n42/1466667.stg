@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4space_wStop.ac -90.11005 42.68294 0.00 180
+OBJECT_SHARED Models/lib/2space_wStop.ac -90.11029 42.68304 262.48 180.988
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.11012 42.68444 263.39 90.7639
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.10975 42.68452 271.27 179.473
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.10979 42.68452 271.33 358.378
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.10986 42.68452 271.33 180.945
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.11011 42.68441 271.41 89.0245
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.11011 42.68437 271.27 92.1211
+OBJECT_SHARED Models/lib/cars4.ac -90.10950 42.68455 271.27 271.762
+OBJECT_SHARED Models/lib/cars4.ac -90.10982 42.68353 271.34 90
+OBJECT_SHARED Models/lib/cars4.ac -90.10965 42.68438 265.75 179.484
+OBJECT_SHARED Models/Transport/hatchback_red.ac -90.11032 42.68402 270.77 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.11032 42.68397 269.39 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.11034 42.68378 269.39 0
+OBJECT_SHARED Models/Transport/van_silver.ac -90.11034 42.68369 268.19 178.251
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.11034 42.68363 267.59 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.11034 42.68336 266.99 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.11034 42.68330 265.79 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.10958 42.68316 265.19 269.198
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.10958 42.68314 263.49 270.868
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.10958 42.68302 262.94 268.806
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.11026 42.68347 262.39 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.10958 42.68296 266.39 272.77
+OBJECT_SHARED Models/lib/cars4.ac -90.11029 42.68307 262.39 90
+OBJECT_SHARED Models/lib/cars6.ac -90.11006 42.68299 263.99 90
+OBJECT_SHARED Models/lib/cars10.ac -90.11007 42.68318 263.08 269.661
+OBJECT_SHARED Models/lib/cars6.ac -90.10980 42.68313 264.28 269.512
+OBJECT_SHARED Models/lib/cars10.ac -90.10941 42.68360 263.47 269.595
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.10945 42.68325 265.21 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.10947 42.68383 263.49 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.11026 42.68361 266.67 0
+# END dsf2stg

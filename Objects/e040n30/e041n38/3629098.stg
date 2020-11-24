@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 41.65768 38.74359 1269.30 63.35
+OBJECT_SHARED Models/lib/office32x25n.ac 41.64451 38.74962 1265.42 153
+OBJECT_SHARED Models/lib/office32x25.ac 41.65771 38.74170 1265.53 65.7
+OBJECT_SHARED Models/lib/office40x25.ac 41.66140 38.73686 1269.51 153.15
+OBJECT_SHARED Models/lib/office32x25.ac 41.66413 38.73635 1264.13 245.73
+OBJECT_SHARED Models/lib/office32x25n.ac 41.66348 38.73725 1264.38 243.38
+OBJECT_SHARED Models/lib/office40x25.ac 41.65688 38.74032 1264.56 243.37
+# END dsf2stg

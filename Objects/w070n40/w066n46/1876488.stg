@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -65.89757 46.15053 0.00 202.166
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -65.89775 46.15048 17.07 198.435
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -65.89780 46.15047 16.10 18.0341
+OBJECT_SHARED Models/lib/office3x10.ac -65.89771 46.15049 16.10 198.328
+# END dsf2stg

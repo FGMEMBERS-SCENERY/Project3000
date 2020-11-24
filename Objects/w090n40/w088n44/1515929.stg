@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac -87.50979 44.44980 0.00 59.59
+OBJECT_SHARED Models/lib/cars6.ac -87.51110 44.45006 210.32 174.81
+OBJECT_SHARED Models/lib/cars6.ac -87.50956 44.45042 212.05 239.19
+OBJECT_SHARED Models/lib/cars10.ac -87.51057 44.45061 210.23 235.82
+OBJECT_SHARED Models/lib/cars10.ac -87.50934 44.45069 211.76 240.3
+OBJECT_SHARED Models/lib/cars10.ac -87.50990 44.45062 209.93 60.99
+OBJECT_SHARED Models/lib/cars10.ac -87.51012 44.45035 210.73 60.64
+OBJECT_SHARED Models/lib/cars10.ac -87.51116 44.45050 210.93 58.17
+OBJECT_SHARED Models/lib/cars4.ac -87.51090 44.45000 212.16 153.43
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.50918 44.45089 212.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.50936 44.45003 209.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.51140 44.45061 209.78 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.50931 44.45050 212.18 288.44
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.50939 44.45034 209.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.51120 44.45076 209.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.51140 44.45085 212.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.50947 44.45024 212.27 0
+# END dsf2stg

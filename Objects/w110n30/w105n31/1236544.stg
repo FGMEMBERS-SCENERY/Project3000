@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -104.78697 31.06056 0.00 136.37
+OBJECT_SHARED Models/lib/SmHangar.ac -104.78675 31.06076 1200.49 136.37
+OBJECT_SHARED Models/lib/garage-small-white.ac -104.78654 31.06123 1200.48 226.1
+OBJECT_SHARED Models/lib/lamp10m.xml -104.78658 31.06126 1200.47 225.98
+OBJECT_SHARED Models/lib/lamp10m.xml -104.78649 31.06142 1200.46 133.84
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78379 31.05615 1199.61 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78345 31.05728 1197.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78294 31.05657 1197.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78306 31.05585 1197.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78678 31.05989 1197.08 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78635 31.05978 1200.50 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78578 31.05990 1199.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78596 31.05996 1199.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78595 31.06019 1199.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78631 31.06024 1199.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78668 31.06025 1199.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78665 31.06116 1200.50 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78375 31.06855 1200.47 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78355 31.06732 1196.68 341.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78374 31.06663 1197.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78362 31.06550 1197.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78398 31.06420 1197.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78405 31.06473 1197.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78331 31.06369 1197.59 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78346 31.06326 1196.93 341.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.78389 31.06282 1196.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.77790 31.05827 1197.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.77622 31.05681 1193.59 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.77670 31.05691 1192.15 0
+OBJECT_SHARED Models/lib/coal_pile.ac -104.78669 31.06114 1192.84 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -104.78603 31.06144 1200.47 135.5
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -104.78713 31.06053 1199.61 274.12
+OBJECT_SHARED Models/Transport/van_red.ac -104.78651 31.06116 1200.49 15.56
+OBJECT_SHARED Models/Transport/hatchback_black.ac -104.78623 31.06136 1200.47 102.36
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -104.78619 31.06134 1199.61 102.36
+OBJECT_SHARED Models/lib/prop_a.ac -104.78551 31.06138 1199.61 135.81
+OBJECT_SHARED Models/lib/prop_a.ac -104.78561 31.06129 1199.61 135.81
+OBJECT_SHARED Models/lib/prop_a.ac -104.78581 31.06111 1199.61 135.81
+OBJECT_SHARED Models/lib/prop_a.ac -104.78621 31.06076 1199.63 135.81
+# END dsf2stg

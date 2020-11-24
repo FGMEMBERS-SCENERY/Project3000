@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LgMaint.ac -5.50164 40.94159 789.33 332.68
+OBJECT_SHARED Models/lib/LgMaint.ac -5.50061 40.94308 789.67 332.5
+OBJECT_SHARED Models/lib/lamp10m.xml -5.50086 40.94269 789.95 61.61
+OBJECT_SHARED Models/lib/lamp10m.xml -5.50137 40.94196 789.55 63.67
+OBJECT_SHARED Models/lib/lamp10m.xml -5.50188 40.94123 789.62 62.89
+OBJECT_SHARED Models/lib/lamp10m.xml -5.50228 40.94067 789.73 62.5
+OBJECT_SHARED Models/lib/FireStationLg.ac -5.50145 40.94433 789.97 286.03
+OBJECT_SHARED Models/lib/SmHangar.ac -5.50510 40.94029 789.11 241.31
+OBJECT_SHARED Models/lib/MedHangar.ac -5.50292 40.93984 789.61 240.72
+OBJECT_SHARED Models/lib/industrial13x24.ac -5.50332 40.93929 789.98 240.89
+OBJECT_SHARED Models/lib/fuel-truck.xml -5.50352 40.93871 790.11 148.67
+OBJECT_SHARED Models/lib/fuel-truck.xml -5.50356 40.93872 790.30 148.67
+OBJECT_SHARED Models/lib/HorizTanks2.ac -5.50389 40.93893 790.29 333.04
+OBJECT_SHARED Models/lib/HorizTanks2.ac -5.50382 40.93902 790.19 333.04
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -5.50539 40.94053 695.16 0
+# END dsf2stg

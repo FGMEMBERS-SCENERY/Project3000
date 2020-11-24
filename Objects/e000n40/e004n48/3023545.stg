@@ -1,21 +1,5 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 4.34453 48.90183 88.36 139.87
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.34396 48.90167 88.11 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.34386 48.90172 88.05 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.34362 48.90181 87.79 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.34376 48.90213 87.53 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.34383 48.90219 87.47 0
-OBJECT_SHARED Models/lib/office4x14.ac 4.34359 48.90169 87.89 140.923
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 4.34465 48.90258 87.56 51.546
-OBJECT_SHARED Models/lib/SmHangar.ac 4.34351 48.90158 87.96 141.519
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 4.34571 48.90258 88.39 241.553
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 4.34757 48.90426 88.50 140.711
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 4.34458 48.90231 87.84 70.7213
-OBJECT_SHARED Models/lib/office6x12.ac 4.34748 48.90438 88.33 139.667
-OBJECT_SHARED Models/lib/MedHangar.ac 4.34441 48.90227 87.72 142.08
-OBJECT_SHARED Models/lib/SmHangar.ac 4.34515 48.90292 87.63 141.474
-OBJECT_SHARED Models/lib/SmHangar.ac 4.34492 48.90273 87.66 141.474
-OBJECT_SHARED Models/lib/SmHangar.ac 4.34737 48.90425 88.31 140.26
+OBJECT_SHARED Models/lib/cars4.ac 4.49644 48.99494 0.00 355.03
 # END dsf2stg

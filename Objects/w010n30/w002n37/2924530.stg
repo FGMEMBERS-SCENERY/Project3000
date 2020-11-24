@@ -1,22 +1,22 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -1.29850 37.75100 205.62 8.89999
-OBJECT_SHARED Models/lib/SmHangar.ac -1.29483 37.75269 207.96 219.45
-OBJECT_SHARED Models/lib/SmHangar.ac -1.29510 37.75290 208.63 269.75
-OBJECT_SHARED Models/lib/cone.ac -1.29989 37.75049 204.98 0
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -1.29850 37.75100 0.00 8.89999
+OBJECT_SHARED Models/lib/SmHangar.ac -1.29483 37.75269 205.62 219.45
+OBJECT_SHARED Models/lib/SmHangar.ac -1.29510 37.75290 207.96 269.75
+OBJECT_SHARED Models/lib/cone.ac -1.29989 37.75049 208.63 0
 OBJECT_SHARED Models/lib/cone.ac -1.29988 37.75053 204.98 0
-OBJECT_SHARED Models/lib/cone.ac -1.29988 37.75059 205.16 0
+OBJECT_SHARED Models/lib/cone.ac -1.29988 37.75059 204.98 0
 OBJECT_SHARED Models/lib/cone.ac -1.29987 37.75055 205.16 0
-OBJECT_SHARED Models/lib/cone.ac -1.29991 37.75060 205.17 0
+OBJECT_SHARED Models/lib/cone.ac -1.29991 37.75060 205.16 0
 OBJECT_SHARED Models/lib/cone.ac -1.29994 37.75062 205.17 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.29993 37.75059 205.17 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.29991 37.75056 205.17 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.29991 37.75054 204.99 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.29991 37.75054 205.17 180
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.29991 37.75052 204.99 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.29993 37.75055 204.99 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.29992 37.75057 205.17 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.29992 37.75057 204.99 0
 OBJECT_SHARED Models/lib/stack_of_cones.ac -1.29994 37.75065 205.17 243.78
-OBJECT_SHARED Models/lib/NoParkStripes.xml -1.29974 37.75047 204.95 8.35
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -1.29983 37.75046 204.97 188.04
+OBJECT_SHARED Models/lib/NoParkStripes.xml -1.29974 37.75047 205.17 8.35
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -1.29983 37.75046 204.95 188.04
 # END dsf2stg

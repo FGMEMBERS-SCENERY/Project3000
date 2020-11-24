@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -78.88370 44.06028 0.00 142.786
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.88349 44.06036 281.57 142.786
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -78.88372 44.06029 282.20 84.6355
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -78.88350 44.06027 281.57 142.786
+OBJECT_SHARED Models/Misc/6barrels.ac -78.88367 44.06041 282.13 142.786
+OBJECT_SHARED Models/Misc/6barrels.ac -78.88367 44.06042 281.63 142.786
+OBJECT_SHARED Models/lib/2vending-machines.ac -78.88370 44.06029 281.63 354.986
+OBJECT_SHARED Models/lib/cone.ac -78.88405 44.06063 281.57 138.652
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.88387 44.06070 280.64 138.652
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -78.88407 44.06064 281.26 80.5024
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -78.88388 44.06061 280.64 138.652
+OBJECT_SHARED Models/Misc/6barrels.ac -78.88402 44.06075 281.20 138.652
+OBJECT_SHARED Models/Misc/6barrels.ac -78.88401 44.06077 281.03 138.652
+OBJECT_SHARED Models/lib/2vending-machines.ac -78.88406 44.06064 281.03 350.852
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -78.88327 44.06081 280.64 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -78.88405 44.06036 283.02 8.8009
+OBJECT_SHARED Models/lib/garage-small-white.ac -78.88373 44.05985 280.51 12.8628
+OBJECT_SHARED Models/lib/shed8x10.ac -78.88370 44.05996 281.26 8.39578
+OBJECT_SHARED Models/lib/shed8x10.ac -78.88371 44.06002 281.38 8.39578
+OBJECT_SHARED Models/lib/shed8x10.ac -78.88326 44.06021 281.38 258.111
+OBJECT_SHARED Models/lib/shed8x10.ac -78.88322 44.06031 282.63 182.337
+OBJECT_SHARED Models/lib/shed8x10.ac -78.88311 44.06040 282.98 90
+OBJECT_SHARED Models/lib/shed10x50.ac -78.88348 44.06062 283.32 355.236
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.88398 44.05905 282.32 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -78.88418 44.05900 280.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.88424 44.05909 280.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.88442 44.05904 280.34 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -78.88451 44.05914 279.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.88453 44.05925 279.61 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.88403 44.06440 279.54 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.88391 44.06389 279.63 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.88365 44.06398 280.86 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -78.88293 44.06410 281.85 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -78.88277 44.06416 284.40 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -78.88290 44.06441 284.62 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -78.88300 44.06445 283.89 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -78.88312 44.06440 283.50 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.88314 44.06457 283.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.88331 44.06450 282.78 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -78.88345 44.06445 282.18 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.88359 44.06441 281.96 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -78.88281 44.06415 281.18 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -78.88323 44.06452 284.78 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -78.88336 44.06447 282.56 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -78.88351 44.06442 281.79 0
+# END dsf2stg

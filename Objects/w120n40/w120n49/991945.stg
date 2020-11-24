@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55193 49.17419 0.00 251.13
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55187 49.17427 306.97 236.63
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55184 49.17432 306.90 248.75
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55179 49.17439 306.90 246.31
+OBJECT_SHARED Models/lib/container6-HD.ac -119.55119 49.17585 306.82 68.45
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.55104 49.17586 306.06 158.96
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.55103 49.17588 305.93 158.96
+OBJECT_SHARED Models/lib/trailer-fedex.ac -119.55101 49.17591 305.93 158.96
+OBJECT_SHARED Models/lib/transformer3x3.ac -119.55458 49.16953 305.93 249.43
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.55187 49.17416 311.24 246.64
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.55190 49.17413 306.97 336.64
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.55198 49.17400 307.05 248.19
+OBJECT_SHARED Models/lib/LongRow.ac -119.55199 49.17246 307.12 161.69
+OBJECT_SHARED Models/lib/LongRow.ac -119.55087 49.17475 307.77 69.72
+OBJECT_SHARED Models/lib/LongRow.ac -119.55167 49.17481 307.06 69.72
+OBJECT_SHARED Models/lib/LongRow.ac -119.55122 49.17468 307.25 69.72
+OBJECT_SHARED Models/lib/MedHangar.ac -119.55011 49.17641 307.13 160.34
+OBJECT_SHARED Models/lib/MedHangar.ac -119.55050 49.17564 305.75 159.57
+OBJECT_SHARED Models/lib/HorizTanks2.ac -119.55140 49.17404 306.93 158.26
+OBJECT_SHARED Models/lib/HorizTanks2.ac -119.55012 49.17591 307.49 160.07
+# END dsf2stg

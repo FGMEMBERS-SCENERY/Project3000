@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars2.ac -101.02835 48.91024 0.00 111.6
+OBJECT_SHARED Models/lib/lamp10m.xml -101.02833 48.91023 454.04 217.32
+OBJECT_SHARED Models/lib/cars2.ac -101.02824 48.91018 454.04 156.48
+OBJECT_SHARED Models/lib/transformer3x3.ac -101.02617 48.90948 454.04 178.72
+OBJECT_SHARED Models/lib/transformer3x3.ac -101.03029 48.90645 454.23 90
+OBJECT_SHARED Models/lib/office3x10.ac -101.03125 48.90624 454.70 0
+OBJECT_SHARED Models/lib/dGreenhse.ac -101.02993 48.90651 454.87 180
+OBJECT_SHARED Models/lib/farm19x12.ac -101.03012 48.90661 454.70 179.51
+OBJECT_SHARED Models/lib/industrial13x24.ac -101.03034 48.90634 454.71 270.02
+OBJECT_SHARED Models/lib/coal_pile.ac -101.03086 48.90619 454.70 269.96
+OBJECT_SHARED Models/Misc/6barrels.ac -101.02596 48.90968 454.87 0
+OBJECT_SHARED Models/Misc/6barrels.ac -101.02601 48.90965 454.19 0
+OBJECT_SHARED Models/Misc/6barrels.ac -101.02597 48.90960 454.19 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -101.02648 48.90987 359.21 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -101.02661 48.90987 359.13 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -101.02676 48.90987 359.00 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -101.03108 48.90624 454.00 359.18
+# END dsf2stg

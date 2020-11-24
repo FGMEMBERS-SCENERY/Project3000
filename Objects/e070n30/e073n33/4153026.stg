@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac 73.63427 33.05533 0.00 229.653
+OBJECT_SHARED Models/lib/trailer-fedex.ac 73.63424 33.05536 266.89 229.653
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 73.63217 33.05444 266.80 143.366
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 73.63221 33.05440 267.80 131.682
+OBJECT_SHARED Models/lib/transformer3x3.ac 73.63317 33.05573 267.80 314.43
+OBJECT_SHARED Models/lib/transformer3x3.ac 73.63315 33.05575 266.94 314.43
+OBJECT_SHARED Models/lib/office8x14.ac 73.63326 33.05550 266.96 313.867
+OBJECT_SHARED Models/lib/office8x14.ac 73.63309 33.05553 266.71 223.206
+OBJECT_SHARED Models/lib/transformer3x3.ac 73.63679 33.05068 266.18 186.483
+OBJECT_SHARED Models/lib/transformer3x3.ac 73.64050 33.04749 266.36 136.839
+# END dsf2stg

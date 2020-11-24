@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -97.22202 34.70678 0.00 179.64
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.22166 34.70745 288.40 137.87
+OBJECT_SHARED Models/lib/HorizTanks2.ac -97.22218 34.70855 288.74 270
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -97.22211 34.70560 289.91 90
+OBJECT_SHARED Models/lib/SmHangar.ac -97.22207 34.70669 287.63 270
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -97.22088 34.70771 288.38 89.36
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -97.22023 34.70855 288.62 89.36
+OBJECT_SHARED Models/lib/LongRow.ac -97.21980 34.70901 289.17 268.97
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.22028 34.70764 289.59 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.22087 34.70710 288.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.22085 34.70730 288.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.22071 34.70710 288.17 0
+# END dsf2stg

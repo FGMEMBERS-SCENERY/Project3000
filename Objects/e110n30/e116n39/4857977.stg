@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25993 39.96363 0.00 94.52
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25995 39.96340 55.29 94.4
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25996 39.96317 55.32 95.53
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25971 39.96397 55.32 2.73001
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.26042 39.96271 55.26 4.89999
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25996 39.96270 55.28 5.70999
+OBJECT_SHARED Models/lib/RampGroup.xml 116.26000 39.96540 55.28 185.76
+OBJECT_SHARED Models/lib/RampGroup.xml 116.25945 39.96535 54.98 186.71
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25185 39.96398 54.54 229.47
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25220 39.96429 56.29 227.54
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25253 39.96460 56.27 228.69
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25087 39.95920 55.92 227.15
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25120 39.95949 56.70 227.15
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25156 39.95981 56.69 227.15
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25233 39.96049 56.50 227.15
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25267 39.96081 56.49 227.15
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25304 39.96112 56.17 227.15
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25195 39.96015 56.15 227.15
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.26048 39.96465 56.49 95.12
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.26015 39.96405 55.17 2.73001
+OBJECT_SHARED Models/lib/jetway_e16m.ac 116.26072 39.96441 55.24 180.64
+OBJECT_SHARED Models/lib/jetway_e16m.ac 116.26092 39.96442 55.94 182.27
+OBJECT_SHARED Models/lib/LgMaint.ac 116.25126 39.96069 55.94 138.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25424 39.95784 56.15 184.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25390 39.95782 56.01 184.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25355 39.95780 56.01 184.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25320 39.95777 56.01 184.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.25284 39.95775 56.38 184.93
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 116.26226 39.96714 -38.62 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 116.26225 39.96742 -39.24 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 116.26165 39.96772 -40.00 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 116.26164 39.96743 -37.36 0
+# END dsf2stg

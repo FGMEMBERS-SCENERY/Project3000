@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/admin31x12.ac -79.33507 34.18339 0.00 145
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.33479 34.18354 26.73 145
+OBJECT_SHARED Models/lib/LongRow.ac -79.33450 34.18389 26.65 145
+OBJECT_SHARED Models/lib/LongRow.ac -79.33413 34.18413 26.49 145
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.33502 34.18364 26.36 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.33506 34.18360 26.66 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.33509 34.18355 26.68 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.33522 34.18341 26.68 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.33526 34.18337 27.00 355
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.33530 34.18333 27.00 355
+OBJECT_SHARED Models/lib/lamp10m.xml -79.33530 34.18294 27.00 140
+OBJECT_SHARED Models/lib/lamp10m.xml -79.33506 34.18321 26.87 140
+OBJECT_SHARED Models/lib/lamp10m.xml -79.33473 34.18360 26.77 140
+OBJECT_SHARED Models/lib/prop_a.ac -79.33510 34.18311 26.60 50
+OBJECT_SHARED Models/lib/prop_a.ac -79.33499 34.18306 26.79 53
+OBJECT_SHARED Models/lib/prop_a.ac -79.33505 34.18281 26.77 235.01
+OBJECT_SHARED Models/lib/prop_a.ac -79.33509 34.18403 26.83 320
+OBJECT_SHARED Models/lib/prop_a.ac -79.33472 34.18428 26.59 259.01
+OBJECT_SHARED Models/lib/transformer3x3.ac -79.33410 34.18517 26.43 325
+OBJECT_SHARED Models/lib/propane-tank.ac -79.33483 34.18352 26.04 325.43
+OBJECT_SHARED Models/lib/propane-tank.ac -79.33486 34.18353 26.65 325.43
+OBJECT_SHARED Models/lib/propane-tank.ac -79.33533 34.18419 26.67 302.47
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.33527 34.18423 26.58 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.33492 34.18339 26.58 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.33530 34.18419 26.69 300.92
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.33494 34.18336 26.58 238.16
+OBJECT_SHARED Models/lib/office8x14.ac -79.33529 34.18427 26.69 304.48
+# END dsf2stg

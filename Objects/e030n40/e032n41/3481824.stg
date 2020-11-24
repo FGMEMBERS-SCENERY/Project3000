@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 32.09049 41.50575 0.00 129.66
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 32.09052 41.50602 14.11 129.66
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 32.09056 41.50627 14.06 129.66
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 32.09024 41.50635 14.06 309.14
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 32.09020 41.50607 13.78 309.29
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 32.09016 41.50575 13.84 309.05
+OBJECT_SHARED Models/lib/caisses_group.ac 32.09034 41.50745 13.90 262.86
+OBJECT_SHARED Models/lib/belt_loader.ac 32.09040 41.50737 13.70 259.098
+OBJECT_SHARED Models/lib/belt_loader.ac 32.09043 41.50736 13.74 258.491
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 32.09047 41.50739 13.74 267.8
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 32.09047 41.50735 13.79 265.511
+OBJECT_SHARED Models/lib/schranke.ac 32.09013 41.50284 13.79 259.94
+OBJECT_SHARED Models/lib/schranke.ac 32.09005 41.50285 14.69 80.54
+OBJECT_SHARED Models/lib/office3x10.ac 32.09015 41.50517 14.69 81.5
+OBJECT_SHARED Models/lib/transformer3x3.ac 32.09009 41.50284 13.98 352.45
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 32.09004 41.50461 14.69 84.17
+OBJECT_SHARED Models/lib/lamp10m.xml 32.08927 41.50525 14.04 173.42
+OBJECT_SHARED Models/lib/lamp10m.xml 32.08930 41.50559 13.52 174.29
+OBJECT_SHARED Models/lib/industrial15x22.ac 32.09035 41.50538 13.47 83.16
+OBJECT_SHARED Models/lib/transformer3x3.ac 32.09035 41.50508 14.13 350.727
+OBJECT_SHARED Models/lib/lamp10m.xml 32.09028 41.50745 14.21 261.87
+OBJECT_SHARED Models/lib/lamp10m.xml 32.09032 41.50773 13.70 262.235
+OBJECT_SHARED Models/lib/lamp10m.xml 32.09057 41.50784 13.70 173.66
+OBJECT_SHARED Models/lib/lamp10m.xml 32.09047 41.50731 13.84 351.028
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 32.09082 41.50648 13.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 32.09042 41.50577 14.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 32.09052 41.50627 14.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 32.09028 41.50564 14.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 32.09015 41.50566 14.01 0
+# END dsf2stg

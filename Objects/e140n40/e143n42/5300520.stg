@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 143.21065 42.73699 0.00 199.1
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 143.21076 42.73379 48.42 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 143.21082 42.73368 50.14 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 143.21554 42.72825 145.18 109.34
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 143.21339 42.73205 149.14 244.3
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 143.21307 42.73268 146.34 243.43
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 143.21227 42.73303 146.04 290.12
+OBJECT_SHARED Models/lib/SmHangar.ac 143.21131 42.73361 145.64 290.29
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 143.21351 42.73145 145.22 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 143.21247 42.73349 147.07 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 143.21302 42.73240 145.39 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 143.21331 42.73182 146.19 0
+OBJECT_SHARED Models/lib/lamp10m.xml 143.21325 42.73156 146.49 263.61
+OBJECT_SHARED Models/lib/lamp10m.xml 143.21329 42.73149 146.59 199.93
+OBJECT_SHARED Models/lib/lamp10m.xml 143.21339 42.73130 146.64 200.56
+OBJECT_SHARED Models/lib/lamp10m.xml 143.21345 42.73118 146.74 110.61
+OBJECT_SHARED Models/lib/lamp10m.xml 143.21357 42.73094 146.79 200.63
+OBJECT_SHARED Models/lib/lamp10m.xml 143.21347 42.73113 147.30 201.07
+OBJECT_SHARED Models/lib/lamp10m.xml 143.21544 42.72814 146.84 -68.15
+OBJECT_SHARED Models/lib/lamp10m.xml 143.21572 42.72822 149.05 203.84
+OBJECT_SHARED Models/lib/lamp10m.xml 143.21557 42.72826 149.17 19.51
+OBJECT_SHARED Models/lib/container6-HD.ac 143.21323 42.73074 149.14 202.24
+OBJECT_SHARED Models/lib/container6-HD.ac 143.21330 42.73076 147.04 202.24
+OBJECT_SHARED Models/lib/container6-HD.ac 143.21338 42.73078 146.99 202.24
+OBJECT_SHARED Models/lib/loader.ac 143.21378 42.73133 146.99 21.16
+OBJECT_SHARED Models/lib/loader.ac 143.21372 42.73135 147.11 200.29
+OBJECT_SHARED Models/lib/loader.ac 143.21380 42.73129 147.11 214.76
+OBJECT_SHARED Models/lib/belt_loader.ac 143.21380 42.73147 147.11 270
+OBJECT_SHARED Models/lib/belt_loader.ac 143.21384 42.73148 147.02 270
+OBJECT_SHARED Models/lib/belt_loader.ac 143.21386 42.73149 147.02 270
+OBJECT_SHARED Models/lib/belt_loader.ac 143.21390 42.73150 147.02 270
+OBJECT_SHARED Models/lib/chariot3curve.ac 143.21372 42.73095 147.02 166.58
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 143.21380 42.73095 147.25 200.93
+OBJECT_SHARED Models/lib/caisses_group.ac 143.21366 42.73115 147.30 290
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 143.21413 42.73147 147.16 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 143.21412 42.73149 147.02 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 143.21410 42.73152 147.02 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 143.21409 42.73155 147.02 0
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 143.21403 42.73104 147.02 201.1
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac 143.21396 42.73120 147.25 19.88
+# END dsf2stg

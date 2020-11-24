@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -122.43773 48.25554 0.00 209.75
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -122.43837 48.25515 45.15 148.74
+OBJECT_SHARED Models/lib/container6-HD.ac -122.43691 48.25838 44.92 229.97
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -122.43849 48.25827 41.95 89.93
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -122.43828 48.25915 43.50 182.2
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.43834 48.25915 42.10 180
+OBJECT_SHARED Models/lib/SmHangar.ac -122.43817 48.25685 42.27 1.4
+OBJECT_SHARED Models/lib/SmHangar.ac -122.43816 48.25720 45.09 358.45
+OBJECT_SHARED Models/lib/SmHangar.ac -122.43861 48.25651 44.76 0.68
+OBJECT_SHARED Models/lib/SmHangar.ac -122.43861 48.25685 46.15 359.23
+OBJECT_SHARED Models/lib/SmHangar.ac -122.43861 48.25719 46.07 359.12
+OBJECT_SHARED Models/lib/SmHangar.ac -122.43817 48.25651 46.00 358.99
+OBJECT_SHARED Models/lib/shed8x10.ac -122.43710 48.25615 45.21 271.53
+# END dsf2stg

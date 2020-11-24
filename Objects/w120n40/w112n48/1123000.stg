@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -111.92225 48.88579 0.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac -111.92226 48.88572 1029.73 197.24
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.91597 48.88516 1029.86 183.18
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -111.91668 48.88504 1027.64 0
+OBJECT_SHARED Models/lib/shed8x10.ac -111.91775 48.88573 1027.74 0
+OBJECT_SHARED Models/lib/shed8x10.ac -111.91758 48.88588 1026.77 270.3
+# END dsf2stg

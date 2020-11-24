@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -78.86971 34.08770 0.00 105
+OBJECT_SHARED Models/lib/prop_a.ac -78.86998 34.08764 29.18 105
+OBJECT_SHARED Models/lib/prop_a.ac -78.87011 34.08761 29.27 105
+OBJECT_SHARED Models/lib/prop_a.ac -78.87067 34.08748 29.29 105
+OBJECT_SHARED Models/lib/prop_a.ac -78.87107 34.08732 29.47 105
+OBJECT_SHARED Models/lib/prop_a.ac -78.87027 34.08794 29.66 290
+OBJECT_SHARED Models/lib/prop_a.ac -78.86981 34.08813 29.28 90
+OBJECT_SHARED Models/lib/SmHangar.ac -78.86879 34.08826 29.16 105
+OBJECT_SHARED Models/lib/SmHangar.ac -78.86838 34.08837 29.03 105
+OBJECT_SHARED Models/lib/MedHangar.ac -78.86729 34.08853 29.00 106
+OBJECT_SHARED Models/lib/LongRow.ac -78.87046 34.08793 28.95 196
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.86954 34.08815 29.32 195
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.87004 34.08804 29.11 16
+OBJECT_SHARED Models/lib/NoParkStripes.xml -78.86725 34.08853 29.20 15.72
+OBJECT_SHARED Models/lib/NoParkStripes.xml -78.86739 34.08850 28.94 15.72
+# END dsf2stg

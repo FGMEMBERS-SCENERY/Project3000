@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac -119.91252 47.22998 0.00 47.77
+OBJECT_SHARED Models/lib/MedHangar.ac -119.91230 47.22959 387.55 139
+OBJECT_SHARED Models/lib/SmHangar.ac -119.91187 47.22936 387.93 139.58
+OBJECT_SHARED Models/lib/SmHangar.ac -119.91215 47.22953 388.04 319
+OBJECT_SHARED Models/lib/SmHangar.ac -119.91165 47.22910 387.98 234
+OBJECT_SHARED Models/lib/HorizTanks2.ac -119.91156 47.22876 388.25 138.56
+# END dsf2stg

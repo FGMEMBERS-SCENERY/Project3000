@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -90.28154 36.48655 0.00 90
+OBJECT_SHARED Models/lib/shed8x10.ac -90.28142 36.48652 91.64 90
+OBJECT_SHARED Models/lib/propane-tank.ac -90.28111 36.48658 91.63 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.27833 36.48680 91.63 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.27820 36.48678 91.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.27818 36.48670 91.18 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.27800 36.48677 91.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.27802 36.48688 91.17 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.27806 36.48708 91.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.27831 36.48701 91.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.28130 36.48691 91.17 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.28130 36.48702 91.46 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.28160 36.48703 91.38 0
+# END dsf2stg

@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office65x50.ac -93.24408 37.22455 0.00 267.69
+OBJECT_SHARED Models/Transport/van_red.ac -93.24383 37.22465 417.50 0
+OBJECT_SHARED Models/Transport/van_silver.ac -93.24431 37.22468 417.78 0
+OBJECT_SHARED Models/lib/prop_a.ac -93.24360 37.22275 417.26 267.02
+OBJECT_SHARED Models/lib/prop_a.ac -93.24410 37.22392 418.22 178.75
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -93.24356 37.22443 417.85 48.45
+OBJECT_SHARED Models/lib/hangar81x16.ac -93.24285 37.22404 418.07 267.17
+OBJECT_SHARED Models/lib/hangar81x16.ac -93.24299 37.22213 418.95 86.27
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.24382 37.22375 418.01 356.74
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.24383 37.22367 418.19 357.52
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -93.24405 37.22469 418.19 265.4
+# END dsf2stg

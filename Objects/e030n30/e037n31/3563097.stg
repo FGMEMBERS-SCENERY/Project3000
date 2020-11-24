@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 37.27429 31.41057 0.00 30.79
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 37.27484 31.41043 511.88 27.9
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 37.27536 31.41030 511.02 30.79
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 37.27591 31.41017 510.34 27.9
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 37.27443 31.41084 510.51 343.48
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 37.27606 31.41049 511.86 343.61
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 37.27521 31.41070 510.63 344.06
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 37.27532 31.41048 510.61 72.28
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 37.27447 31.41071 510.38 72.69
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 37.27458 31.41067 511.65 344.36
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 37.27544 31.41047 511.50 346.62
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 37.27539 31.41045 510.37 344.69
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 37.27538 31.41048 510.37 349.45
+OBJECT_SHARED Models/lib/loader.ac 37.27586 31.41034 510.37 162.92
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 37.27455 31.41072 510.53 170.24
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 37.27454 31.41067 511.65 117.4
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 37.27526 31.41048 511.65 112.68
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 37.27530 31.41051 510.38 103.5
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 37.27605 31.41030 510.38 124.76
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 37.27607 31.41032 510.57 94.76
+OBJECT_SHARED Models/lib/belt_loader.ac 37.27630 31.40985 510.60 -20.19
+OBJECT_SHARED Models/lib/belt_loader.ac 37.27631 31.40990 510.80 -18.56
+OBJECT_SHARED Models/lib/belt_loader.ac 37.27633 31.40993 510.80 -16.41
+# END dsf2stg

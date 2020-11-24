@@ -1,25 +1,33 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac 11.06758 42.74915 3.80 328.6
-OBJECT_SHARED Models/lib/farm19x12.ac 11.06829 42.74964 3.73 57.88
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 11.06792 42.74926 3.77 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 11.06803 42.74923 3.78 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 11.06701 42.74823 3.87 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 11.06681 42.74814 3.89 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.06727 42.74822 3.86 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.06831 42.74906 3.76 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.06822 42.74914 3.77 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.06784 42.74865 3.81 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06459 42.74987 4.32 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06427 42.74948 4.35 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06405 42.74921 4.36 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06399 42.74912 4.37 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06393 42.74905 4.37 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06423 42.74892 4.44 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06429 42.74900 4.38 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06436 42.74908 4.38 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06463 42.74941 4.36 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06489 42.74974 4.33 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml 11.06504 42.74992 4.32 0
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 11.06616 42.74815 3.09 12.89
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 11.06737 42.74870 3.91 70.38
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 11.06775 42.74902 3.59 60.18
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 11.06785 42.74914 3.79 60.18
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06716 42.74799 3.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06723 42.74808 3.87 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06735 42.74823 3.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.06753 42.74879 3.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.06763 42.74877 3.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06785 42.74860 3.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06794 42.74863 3.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06776 42.74870 3.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06786 42.74868 3.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06834 42.74906 3.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06798 42.74926 3.76 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06809 42.74922 3.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 11.06827 42.74913 3.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.06858 42.74941 3.76 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 11.06824 42.74939 3.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 11.06810 42.74943 3.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.06842 42.74970 3.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.06834 42.74973 3.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.06825 42.74976 3.73 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 11.06729 42.74775 3.73 59.77
+OBJECT_SHARED Models/lib/transformer3x3.ac 11.06758 42.74831 3.87 147.33
+OBJECT_SHARED Models/lib/transformer3x3.ac 11.06755 42.74833 3.84 147.33
+OBJECT_SHARED Models/lib/office8x14.ac 11.06746 42.74847 3.84 339.97
+OBJECT_SHARED Models/lib/office8x14.ac 11.06755 42.74826 3.83 238.05
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 11.06736 42.74808 3.84 239.45
 # END dsf2stg

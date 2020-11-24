@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -98.95197 31.79178 0.00 0.379997
+OBJECT_SHARED Models/lib/cars10.ac -98.95159 31.79148 420.09 180.15
+OBJECT_SHARED Models/lib/cars6.ac -98.95128 31.79143 420.09 180.35
+OBJECT_SHARED Models/lib/cars6.ac -98.95124 31.79166 420.15 270.36
+OBJECT_SHARED Models/lib/cars4.ac -98.95141 31.79175 420.31 350.27
+OBJECT_SHARED Models/lib/cars4.ac -98.95150 31.79159 420.24 80.96
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -98.95177 31.79162 420.17 90
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -98.95129 31.79194 420.06 226.28
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.95258 31.79366 420.37 0.290001
+OBJECT_SHARED Models/Transport/hatchback_green.ac -98.95211 31.79321 420.56 88.92
+OBJECT_SHARED Models/Transport/van_silver.ac -98.95212 31.79325 420.59 88.92
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.95212 31.79328 420.59 88.92
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.95200 31.79315 420.62 187.12
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.95195 31.79316 420.62 188.88
+OBJECT_SHARED Models/Transport/van_silver.ac -98.95191 31.79316 420.62 357.66
+OBJECT_SHARED Models/Transport/hatchback_green.ac -98.95208 31.79190 420.66 346.61
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.95193 31.79190 420.10 8.34
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.95184 31.79190 420.17 1.32999
+OBJECT_SHARED Models/lib/cars4.ac -98.95230 31.79147 420.20 0.940002
+OBJECT_SHARED Models/lib/LongRow.ac -98.95176 31.79801 419.86 179.07
+OBJECT_SHARED Models/lib/LongRow.ac -98.95086 31.79799 421.28 179.07
+OBJECT_SHARED Models/lib/LongRow.ac -98.95161 31.79111 421.67 272.18
+# END dsf2stg

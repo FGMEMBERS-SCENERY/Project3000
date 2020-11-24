@@ -1,32 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -79.20217 37.32913 282.27 60.42
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac -79.19393 37.33009 282.80 64.44
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -79.19388 37.33007 282.80 237.89
-OBJECT_SHARED Models/Aircraft/ATR42.xml -79.19370 37.32984 282.72 -40.21
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.20131 37.32964 282.44 289.98
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.20119 37.32969 282.47 287.1
-OBJECT_SHARED Models/Misc/picnic_table.ac -79.20104 37.32972 282.48 292.17
-OBJECT_SHARED Models/lib/fuel-truck.xml -79.20074 37.32986 282.54 199.6
-OBJECT_SHARED Models/lib/fuel-truck.xml -79.20068 37.32973 282.49 201.29
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -79.20087 37.33067 282.62 200.28
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -79.20073 37.33070 282.61 199.23
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -79.20072 37.33030 282.62 200.14
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -79.20056 37.33033 282.63 200.85
-OBJECT_SHARED Models/lib/admin31x12.ac -79.20104 37.33022 282.61 197.93
-OBJECT_SHARED Models/lib/large-hangar.ac -79.20119 37.33031 282.62 109.02
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -79.20169 37.33239 281.94 19.29
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.20155 37.33260 281.77 199.36
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -79.20144 37.33235 282.01 22.33
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -79.20159 37.33231 282.01 16.8
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -79.20144 37.33215 282.15 203.75
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -79.20173 37.33207 282.15 202.25
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -79.20188 37.33203 282.22 198.78
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -79.20106 37.33162 282.42 200.6
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -79.20388 37.32738 281.32 117.41
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -79.20499 37.32615 280.48 23.63
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -79.20413 37.32675 280.84 209.57
-OBJECT_SHARED Models/lib/MedHangar.ac -79.20486 37.32554 279.87 298.93
-OBJECT_SHARED Models/lib/fboModern1.ac -79.20429 37.32586 280.03 297.68
+OBJECT_SHARED Models/lib/garden-shed.ac -79.04048 37.26698 0.00 311.79
+OBJECT_SHARED Models/lib/garden-shed.ac -79.04087 37.26657 237.25 311.79
+OBJECT_SHARED Models/lib/SmHangar.ac -79.04110 37.26648 239.20 311.79
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -79.04000 37.26689 235.87 54.5
 # END dsf2stg

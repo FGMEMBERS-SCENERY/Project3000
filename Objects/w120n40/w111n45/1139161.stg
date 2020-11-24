@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -110.65335 45.42970 0.00 313.295
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -110.65455 45.42897 1480.09 221.424
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -110.65423 45.42909 1481.17 210.964
+OBJECT_SHARED Models/lib/garden-shed.ac -110.65323 45.43000 1480.38 350.91
+OBJECT_SHARED Models/lib/garden-shed.ac -110.65369 45.42977 1480.36 47.4896
+OBJECT_SHARED Models/lib/garden-shed.ac -110.65351 45.42980 1481.01 228.013
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.65989 45.42539 1481.01 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.65981 45.42510 1483.48 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.65968 45.42528 1483.22 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -110.66307 45.42304 1483.39 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -110.66343 45.42305 1483.13 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -110.66331 45.42302 1483.13 0
+OBJECT_SHARED Models/lib/propane-tank.ac -110.66342 45.42323 1483.13 12.0949
+OBJECT_SHARED Models/lib/dGreenhse.ac -110.66345 45.42310 1483.51 102.095
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -110.65991 45.42454 1483.32 313.854
+OBJECT_SHARED Models/lib/SmHangar.ac -110.66041 45.42483 1482.63 134.931
+OBJECT_SHARED Models/lib/farm19x12.ac -110.65977 45.42533 1482.92 43.7784
+OBJECT_SHARED Models/lib/propane-tank.ac -110.66036 45.42528 1483.39 49.6357
+OBJECT_SHARED Models/lib/propane-tank.ac -110.65972 45.42541 1483.39 322.125
+OBJECT_SHARED Models/lib/SmHangar.ac -110.65490 45.42880 1483.48 225.593
+OBJECT_SHARED Models/lib/farm19x12.ac -110.65357 45.42953 1481.02 224.985
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -110.66317 45.42151 1480.74 0
+# END dsf2stg

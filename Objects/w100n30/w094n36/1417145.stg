@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -93.69428 36.96421 0.00 357.85
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.69419 36.96363 434.20 88.01
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.69420 36.96327 433.86 88.2
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.69421 36.96297 433.73 88.19
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.69405 36.96455 433.58 88.57
+OBJECT_SHARED Models/lib/prop_a.ac -93.69444 36.96435 434.18 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.69405 36.96458 434.32 88.78
+# END dsf2stg

@@ -1,11 +1,6 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -9.37946 39.12667 39.10 88.5
-OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -9.37908 39.12670 39.39 195
-OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -9.37902 39.12653 39.37 194.97
-OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -9.37933 39.12655 39.14 97.33
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -9.37892 39.12612 39.80 100.8
-OBJECT_SHARED Models/lib/NoParkStripes.xml -9.37898 39.12617 39.65 280.26
-OBJECT_SHARED Models/lib/NoParkStripes.xml -9.37888 39.12618 39.73 280.2
+OBJECT_SHARED Models/lib/prop_a.ac -9.37920 39.12612 0.00 96.7661
+OBJECT_SHARED Models/lib/prop_a.ac -9.37945 39.12605 40.20 93.2519
 # END dsf2stg

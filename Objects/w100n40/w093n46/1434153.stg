@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -92.50407 46.70407 0.00 180.6
+OBJECT_SHARED Models/lib/prop_a.ac -92.50407 46.70357 387.66 180
+OBJECT_SHARED Models/lib/prop_a.ac -92.50407 46.70370 387.83 180.76
+OBJECT_SHARED Models/lib/prop_a.ac -92.50390 46.70376 387.81 359.17
+OBJECT_SHARED Models/lib/SmHangar.ac -92.50204 46.70324 387.75 106.62
+OBJECT_SHARED Models/lib/SmHangar.ac -92.50230 46.70319 387.22 106.62
+OBJECT_SHARED Models/lib/SmHangar.ac -92.50260 46.70313 387.35 106.62
+OBJECT_SHARED Models/lib/SmHangar.ac -92.50264 46.70396 387.46 223.53
+OBJECT_SHARED Models/lib/SmHangar.ac -92.50263 46.70534 387.43 45.12
+OBJECT_SHARED Models/lib/SmHangar.ac -92.50281 46.70547 387.07 45.12
+OBJECT_SHARED Models/lib/LongRow.ac -92.50355 46.70624 386.98 89.97
+OBJECT_SHARED Models/lib/LongRow.ac -92.50315 46.70528 386.50 134.95
+OBJECT_SHARED Models/lib/LongRow.ac -92.50216 46.70460 387.08 134.95
+OBJECT_SHARED Models/lib/cars14.ac -92.50246 46.70338 387.24 286.88
+OBJECT_SHARED Models/lib/2vending-machines.ac -92.50268 46.70312 387.43 196.97
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -92.50335 46.70300 387.51 16.26
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.50266 46.70352 387.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.50316 46.70364 387.49 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.50332 46.70359 387.63 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.50294 46.70363 387.65 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.50283 46.70356 387.54 0
+OBJECT_SHARED Models/lib/lamp10m.xml -92.50184 46.70316 387.51 17.62
+OBJECT_SHARED Models/lib/lamp10m.xml -92.50291 46.70307 387.13 107.45
+OBJECT_SHARED Models/Transport/van_red.ac -92.50262 46.70416 387.58 41.85
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.50253 46.70530 387.39 314.62
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.50296 46.70341 387.07 65.82
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.50292 46.70344 387.59 32.54
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.50331 46.70523 387.56 43.21
+# END dsf2stg

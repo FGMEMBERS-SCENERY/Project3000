@@ -1,31 +1,31 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/caisses_group.ac -90.67561 33.48405 36.05 270
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -90.67569 33.48300 36.04 270
-OBJECT_SHARED Models/lib/fuel-truck.xml -90.67559 33.48371 36.05 319.76
+OBJECT_SHARED Models/lib/caisses_group.ac -90.67561 33.48405 0.00 270
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -90.67569 33.48300 36.05 270
+OBJECT_SHARED Models/lib/fuel-truck.xml -90.67559 33.48371 36.04 319.76
 OBJECT_SHARED Models/lib/fuel-truck.xml -90.67561 33.48345 36.05 319.4
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.67657 33.48293 36.07 270
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.67657 33.48309 36.06 270
-OBJECT_SHARED Models/Aircraft/D328_services.xml -90.67590 33.48226 36.03 121.87
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -90.67562 33.48236 36.02 40.81
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -90.67661 33.48276 36.06 90
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -90.67663 33.48360 36.07 90
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -90.67663 33.48376 36.07 90
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -90.67663 33.48390 36.07 90
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -90.67559 33.48425 36.06 153.44
-OBJECT_SHARED Models/lib/lamp10m.xml -90.67545 33.48283 36.02 90
-OBJECT_SHARED Models/lib/lamp10m.xml -90.67544 33.48391 36.04 90
-OBJECT_SHARED Models/lib/SmHangar.ac -90.67552 33.48243 36.02 0
-OBJECT_SHARED Models/lib/SmHangar.ac -90.67552 33.48299 36.03 0
-OBJECT_SHARED Models/lib/SmHangar.ac -90.67551 33.48321 36.04 0
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.67657 33.48293 36.05 270
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -90.67657 33.48309 36.07 270
+OBJECT_SHARED Models/Aircraft/D328_services.xml -90.67590 33.48226 36.06 121.87
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -90.67562 33.48236 36.03 40.81
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -90.67661 33.48276 36.02 90
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -90.67663 33.48360 36.06 90
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -90.67663 33.48376 36.07 90
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -90.67663 33.48390 36.07 90
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -90.67559 33.48425 36.07 153.44
+OBJECT_SHARED Models/lib/lamp10m.xml -90.67545 33.48283 36.06 90
+OBJECT_SHARED Models/lib/lamp10m.xml -90.67544 33.48391 36.02 90
+OBJECT_SHARED Models/lib/SmHangar.ac -90.67552 33.48243 36.04 0
+OBJECT_SHARED Models/lib/SmHangar.ac -90.67552 33.48299 36.02 0
+OBJECT_SHARED Models/lib/SmHangar.ac -90.67551 33.48321 36.03 0
 OBJECT_SHARED Models/lib/SmHangar.ac -90.67551 33.48350 36.04 0
-OBJECT_SHARED Models/lib/SmHangar.ac -90.67551 33.48374 36.05 0
+OBJECT_SHARED Models/lib/SmHangar.ac -90.67551 33.48374 36.04 0
 OBJECT_SHARED Models/lib/SmHangar.ac -90.67550 33.48410 36.05 0
 OBJECT_SHARED Models/lib/SmHangar.ac -90.67551 33.48430 36.05 0
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -90.67552 33.48272 36.02 180
-OBJECT_SHARED Models/lib/lamp10m.xml -90.67607 33.48482 36.07 161.57
-OBJECT_SHARED Models/lib/lamp10m.xml -90.67555 33.48456 36.06 151.93
-OBJECT_SHARED Models/lib/lamp10m.xml -90.67559 33.48228 36.02 32.47
-OBJECT_SHARED Models/lib/lamp10m.xml -90.67600 33.48196 36.03 26.56
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -90.67552 33.48272 36.05 180
+OBJECT_SHARED Models/lib/lamp10m.xml -90.67607 33.48482 36.02 161.57
+OBJECT_SHARED Models/lib/lamp10m.xml -90.67555 33.48456 36.07 151.93
+OBJECT_SHARED Models/lib/lamp10m.xml -90.67559 33.48228 36.06 32.47
+OBJECT_SHARED Models/lib/lamp10m.xml -90.67600 33.48196 36.02 26.56
 # END dsf2stg

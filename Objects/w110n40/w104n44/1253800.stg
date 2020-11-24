@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac -103.85867 44.73323 0.00 27.66
+OBJECT_SHARED Models/lib/prop_a.ac -103.85914 44.73244 968.26 298.89
+OBJECT_SHARED Models/Transport/Norberttruck.xml -103.85816 44.73268 967.76 122.22
+OBJECT_SHARED Models/Transport/hatchback_black.ac -103.85838 44.73288 968.80 25.35
+OBJECT_SHARED Models/lib/trailer-ups.ac -103.85818 44.73261 968.92 300.14
+OBJECT_SHARED Models/lib/SmHangar.ac -103.85891 44.73333 968.73 28.86
+OBJECT_SHARED Models/lib/farm19x12.ac -103.85766 44.73303 968.32 209.97
+OBJECT_SHARED Models/lib/SmHangar.ac -103.85862 44.73251 968.99 27.34
+OBJECT_SHARED Models/lib/SmHangar.ac -103.86007 44.73398 967.82 28.86
+OBJECT_SHARED Models/lib/SmHangar.ac -103.85916 44.73362 968.21 28.86
+OBJECT_SHARED Models/lib/SmHangar.ac -103.85967 44.73343 968.51 28.86
+OBJECT_SHARED Models/lib/SmHangar.ac -103.85945 44.73314 967.87 28.86
+OBJECT_SHARED Models/lib/SmHangar.ac -103.85956 44.73330 968.19 28.86
+OBJECT_SHARED Models/lib/prop_a.ac -103.85930 44.73253 967.82 117.17
+OBJECT_SHARED Models/lib/prop_a.ac -103.85897 44.73231 967.82 116.87
+OBJECT_SHARED Models/Transport/Norberttruck.xml -103.85440 44.72944 967.70 272.07
+OBJECT_SHARED Models/Transport/Norberttruck.xml -103.85449 44.72944 965.72 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -103.85412 44.73006 965.72 269.08
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -103.85409 44.72997 966.18 270.74
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -103.85390 44.72985 966.11 0
+# END dsf2stg

@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -82.16203 38.83365 0.00 315.16
+OBJECT_SHARED Models/Transport/hatchback_green.ac -82.16219 38.83360 169.64 293.11
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.16232 38.83352 169.62 231.34
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -82.16235 38.83366 169.60 31.7
+OBJECT_SHARED Models/lib/prop_a.ac -82.16264 38.83381 169.59 129.8
+OBJECT_SHARED Models/lib/prop_a.ac -82.16312 38.83277 169.56 130.12
+OBJECT_SHARED Models/lib/prop_a.ac -82.16227 38.83273 169.55 48.99
+OBJECT_SHARED Models/lib/1car-stop.ac -82.16237 38.83368 169.64 313.02
+OBJECT_SHARED Models/lib/LongRow.ac -82.16219 38.83297 169.59 313.09
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.16266 38.83348 169.62 312.27
+OBJECT_SHARED Models/lib/LongRow.ac -82.16256 38.83271 169.54 311.53
+OBJECT_SHARED Models/lib/LongRow.ac -82.16301 38.83307 169.61 221.58
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -82.16224 38.83386 169.53 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -82.16220 38.83389 169.62 130.2
+OBJECT_SHARED Models/Misc/picnic_table.ac -82.16222 38.83387 169.62 311.38
+OBJECT_SHARED Models/lib/farm19x12.ac -82.16235 38.83378 169.62 41.7
+# END dsf2stg

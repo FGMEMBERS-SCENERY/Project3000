@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -97.90050 42.87769 0.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.90061 42.87777 397.41 130.36
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -97.90052 42.87773 397.52 126.59
+OBJECT_SHARED Models/Transport/van_red.ac -97.90073 42.87784 397.41 313.3
+OBJECT_SHARED Models/lib/office6x12.ac -97.90068 42.87779 397.50 310.45
+OBJECT_SHARED Models/lib/propane-tank.ac -97.90116 42.87779 397.50 214.59
+OBJECT_SHARED Models/lib/SmHangar.ac -97.89923 42.87657 398.04 218.86
+OBJECT_SHARED Models/lib/SmHangar.ac -97.89905 42.87641 396.12 218.66
+OBJECT_SHARED Models/lib/SmHangar.ac -97.89957 42.87686 395.89 220.65
+OBJECT_SHARED Models/lib/SmHangar.ac -97.89993 42.87719 396.47 219.4
+OBJECT_SHARED Models/lib/SmHangar.ac -97.90022 42.87733 396.83 219.8
+OBJECT_SHARED Models/lib/shed8x10.ac -97.90113 42.87749 396.93 40.47
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.90101 42.87738 397.49 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.90093 42.87735 397.57 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.90096 42.87719 397.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.90098 42.87697 397.14 341.57
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.90094 42.87691 396.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.90092 42.87673 396.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.90095 42.87662 396.41 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.90094 42.87646 395.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.90094 42.87624 396.02 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.90138 42.87709 396.15 93.68
+OBJECT_SHARED Models/lib/lamp10m.xml -97.90081 42.87649 395.49 267.27
+OBJECT_SHARED Models/lib/lamp10m.xml -97.89972 42.87707 396.55 307.19
+OBJECT_SHARED Models/lib/lamp10m.xml -97.90076 42.87703 396.72 266.88
+OBJECT_SHARED Models/lib/lamp10m.xml -97.90091 42.87747 397.42 315
+OBJECT_SHARED Models/lib/lamp10m.xml -97.90076 42.87793 397.98 313.32
+OBJECT_SHARED Models/lib/lamp10m.xml -97.90033 42.87754 397.60 307.12
+OBJECT_SHARED Models/lib/dGreenhse.ac -97.90145 42.87654 397.18 90
+# END dsf2stg

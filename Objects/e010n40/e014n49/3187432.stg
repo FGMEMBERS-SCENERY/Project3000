@@ -1,11 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_black.ac 14.09544 49.71602 454.56 32.6186
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 14.09505 49.71585 454.80 38.2896
-OBJECT_SHARED Models/Transport/van_red.ac 14.09400 49.71543 455.52 33.4075
-OBJECT_SHARED Models/Transport/hatchback_black.ac 14.09361 49.71524 455.74 32.2285
-OBJECT_SHARED Models/Transport/van_red.ac 14.09418 49.71550 455.40 27.3135
-OBJECT_SHARED Models/Transport/van_red.ac 14.09315 49.71506 456.11 38.1578
-OBJECT_SHARED Models/Transport/hatchback_black.ac 14.09350 49.71521 455.84 35.3938
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 14.09544 49.71602 0.00 32.6186
+OBJECT_SHARED Models/Transport/van_red.ac 14.09505 49.71585 454.54 38.2896
+OBJECT_SHARED Models/Transport/hatchback_black.ac 14.09400 49.71543 454.81 33.4075
+OBJECT_SHARED Models/Transport/hatchback_black.ac 14.09361 49.71524 455.49 32.2285
+OBJECT_SHARED Models/Transport/hatchback_green.ac 14.09418 49.71550 455.68 27.3135
+OBJECT_SHARED Models/Transport/van_silver.ac 14.09315 49.71506 455.39 38.1578
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 14.09350 49.71521 456.06 35.3938
 # END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.55819 45.22927 0.00 339.444
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.55826 45.22929 337.56 180
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.55834 45.22927 337.61 320.711
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -96.55839 45.22924 337.61 16.699
+OBJECT_SHARED Models/lib/cars7.ac -96.55807 45.22905 337.67 359.532
+OBJECT_SHARED Models/lib/SmHangar.ac -96.55959 45.22973 337.54 108.75
+OBJECT_SHARED Models/lib/SmHangar.ac -96.55940 45.22978 338.18 108.75
+OBJECT_SHARED Models/lib/shed8x10.ac -96.55878 45.22929 338.08 311.82
+OBJECT_SHARED Models/lib/shed8x10.ac -96.55817 45.22869 337.85 0
+OBJECT_SHARED Models/lib/shed8x10.ac -96.55817 45.22888 337.65 0
+OBJECT_SHARED Models/lib/shed10x50.ac -96.55900 45.22993 337.62 18.5305
+OBJECT_SHARED Models/lib/LongRow.ac -96.55816 45.22803 337.90 133.51
+# END dsf2stg

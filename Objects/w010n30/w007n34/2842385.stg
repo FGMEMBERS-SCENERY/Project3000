@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac -6.59568 34.29824 0.00 180
+OBJECT_SHARED Models/lib/office6x12.ac -6.59554 34.29842 6.86 270
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -6.60191 34.29687 -88.32 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -6.60192 34.29709 -85.57 0
+OBJECT_SHARED Models/lib/fboModern1.ac -6.59475 34.29438 8.97 300.12
+OBJECT_SHARED Models/lib/fboModern1.ac -6.59434 34.29794 9.19 269.26
+OBJECT_SHARED Models/lib/office32x25.ac -6.59634 34.29631 6.83 342.55
+OBJECT_SHARED Models/lib/office32x25.ac -6.59609 34.29681 8.61 341.88
+OBJECT_SHARED Models/lib/office32x25.ac -6.59663 34.29698 8.12 160.2
+OBJECT_SHARED Models/lib/office32x25.ac -6.59692 34.29650 8.09 161.87
+OBJECT_SHARED Models/lib/LgMaint.ac -6.59831 34.29722 8.61 342.48
+OBJECT_SHARED Models/lib/LgMaint.ac -6.59464 34.29614 8.22 160.97
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -6.59792 34.29773 8.03 341.09
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -6.59776 34.29774 7.63 336.09
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -6.59763 34.29774 7.61 339.67
+# END dsf2stg

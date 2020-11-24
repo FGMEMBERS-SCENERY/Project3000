@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac 17.61094 46.24177 0.00 181.521
+OBJECT_SHARED Models/lib/watertank3x1.ac 17.61105 46.24177 182.72 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 17.60992 46.24145 182.85 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 17.61046 46.24146 181.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 17.61087 46.24173 182.51 180
+OBJECT_SHARED Models/Misc/picnic_table.ac 17.61093 46.24166 182.82 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 17.61089 46.24170 182.82 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 17.61095 46.24170 182.82 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 17.61079 46.24176 183.42 0
+OBJECT_SHARED Models/Transport/van_silver.ac 17.61048 46.24149 182.59 0
+OBJECT_SHARED Models/lib/cars10.ac 17.61063 46.24139 182.51 244.081
+OBJECT_SHARED Models/Transport/van_red.ac 17.60989 46.24067 182.73 228.743
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 17.61010 46.24067 182.83 340.017
+# END dsf2stg

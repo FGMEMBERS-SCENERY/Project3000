@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/egkk_oil.xml -112.00196 41.11337 1439.61 270
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -112.00040 41.11256 1346.39 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -112.00103 41.11289 1347.04 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -112.00676 41.11727 1438.57 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -112.00607 41.11684 1437.35 0
+# END dsf2stg
