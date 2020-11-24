@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -163.40896 64.68850 0.00 193.45
+OBJECT_SHARED Models/lib/industrial13x24.ac -163.40904 64.68835 74.22 105.73
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -163.41372 64.68371 74.78 324.73
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -163.41399 64.68379 43.02 324.73
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -163.41346 64.68364 44.72 324.73
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -163.41321 64.68356 49.10 324.73
+OBJECT_SHARED Models/Transport/van_silver.ac -163.40882 64.68838 49.10 189.46
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -163.40725 64.68566 74.78 195.94
+OBJECT_SHARED Models/lib/transformer3x3.ac -163.40709 64.68565 76.46 101.31
+OBJECT_SHARED Models/lib/stack_of_cones.ac -163.40919 64.68793 76.26 180
+OBJECT_SHARED Models/lib/shed8x10.ac -163.40865 64.68840 76.49 193.78
+OBJECT_SHARED Models/lib/shed8x10.ac -163.41044 64.68351 74.78 334.44
+OBJECT_SHARED Models/lib/farm19x12.ac -163.41296 64.68301 57.92 143.48
+OBJECT_SHARED Models/lib/prop_a.ac -163.40885 64.68710 38.66 196.19
+# END dsf2stg

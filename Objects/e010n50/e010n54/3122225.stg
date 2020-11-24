@@ -1,30 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/watertank3x1.ac 10.45580 54.85443 -3.82 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 10.45616 54.85416 -3.75 117.256
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 10.45569 54.85425 -3.88 226.636
-OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45660 54.85438 -3.59 0
-OBJECT_SHARED Models/lib/cone.ac 10.45611 54.85422 -3.78 0
-OBJECT_SHARED Models/lib/cone.ac 10.45622 54.85410 -3.78 0
-OBJECT_SHARED Models/lib/cone.ac 10.45701 54.85402 -3.54 0
-OBJECT_SHARED Models/lib/cone.ac 10.45699 54.85402 -3.54 0
-OBJECT_SHARED Models/lib/cone.ac 10.45697 54.85401 -3.54 0
-OBJECT_SHARED Models/lib/cone.ac 10.45692 54.85409 -3.56 0
-OBJECT_SHARED Models/lib/cone.ac 10.45691 54.85409 -3.56 0
-OBJECT_SHARED Models/lib/cone.ac 10.45689 54.85408 -3.56 0
-OBJECT_SHARED Models/lib/cone.ac 10.45572 54.85429 -3.88 0
-OBJECT_SHARED Models/lib/cone.ac 10.45572 54.85423 -3.90 0
-OBJECT_SHARED Models/lib/cone.ac 10.45563 54.85423 -3.92 0
-OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 10.45594 54.85428 -3.82 119.738
-OBJECT_SHARED Models/lib/MedHangar.ac 10.45629 54.85428 -3.70 119.577
-OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45651 54.85352 -3.81 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45678 54.85361 -3.69 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45708 54.85371 -3.56 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 10.45702 54.85401 -3.54 0
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.45674 54.85428 -3.58 123.489
-OBJECT_SHARED Models/lib/propane-tank.ac 10.45663 54.85440 -3.59 305.789
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.45607 54.85422 -3.78 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.45659 54.85440 -3.59 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.45697 54.85406 -3.52 33.367
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 10.45665 54.85362 0.00 119.13
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 10.45662 54.85365 -3.72 122.37
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.45659 54.85368 -3.73 123.69
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 10.45656 54.85370 -3.73 296.57
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 10.45656 54.85376 -3.73 35.54
+OBJECT_SHARED Models/Transport/van_red.ac 10.45661 54.85379 -3.71 29.74
+OBJECT_SHARED Models/Transport/van_red.ac 10.45667 54.85380 -3.71 26.56
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 10.45673 54.85383 -3.67 210.61
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.45657 54.85401 -3.67 123.28
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.45666 54.85402 -3.65 25.28
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.45663 54.85401 -3.61 30.26
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.45659 54.85398 -3.65 128.33
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.45662 54.85395 -3.65 121.61
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.45665 54.85393 -3.65 113.75
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.45667 54.85391 -3.68 126.87
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.45660 54.85414 -3.64 31.37
 # END dsf2stg

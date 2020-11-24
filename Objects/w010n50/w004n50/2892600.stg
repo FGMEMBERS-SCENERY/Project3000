@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98392 50.92921 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98398 50.92913 198.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98417 50.92889 198.16 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98435 50.92861 197.57 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98464 50.92823 196.80 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98476 50.92807 195.79 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98500 50.92774 195.50 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98495 50.92781 194.60 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98506 50.92766 194.82 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98534 50.92729 194.58 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98550 50.92710 193.68 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98571 50.92683 193.27 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98579 50.92669 192.67 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.98586 50.92659 192.47 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -3.98467 50.92849 192.27 247.62
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -3.98470 50.92844 196.36 64.33
+OBJECT_SHARED Models/lib/prop_a.ac -3.98546 50.92789 196.14 158.79
+OBJECT_SHARED Models/lib/prop_a.ac -3.98556 50.92817 194.72 270
+OBJECT_SHARED Models/lib/cars4.ac -3.98497 50.92813 195.17 66.3298
+OBJECT_SHARED Models/lib/cars2.ac -3.98847 50.92667 195.38 271.325
+OBJECT_SHARED Models/lib/cars2.ac -3.98848 50.92678 191.31 269.662
+OBJECT_SHARED Models/lib/cars6.ac -3.98870 50.92661 191.39 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -3.98617 50.92809 191.09 120.6
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.98804 50.92662 194.56 271.083
+OBJECT_SHARED Models/lib/office16x4n.ac -3.98550 50.92742 191.47 245.171
+# END dsf2stg

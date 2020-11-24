@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -51.06756 69.24044 0.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -51.06488 69.24176 21.16 158.46
+OBJECT_SHARED Models/Misc/6barrels.ac -51.06497 69.24174 22.04 274.84
+OBJECT_SHARED Models/Misc/6barrels.ac -51.06494 69.24173 22.07 186.95
+OBJECT_SHARED Models/Misc/6barrels.ac -51.06490 69.24175 22.14 145.08
+OBJECT_SHARED Models/Misc/6barrels.ac -51.06487 69.24174 22.14 224.29
+OBJECT_SHARED Models/lib/coal_pile.ac -51.05941 69.24331 22.14 239.39
+OBJECT_SHARED Models/lib/coal_pile.ac -51.05976 69.24333 24.69 296.56
+OBJECT_SHARED Models/lib/coal_pile.ac -51.05891 69.24321 24.36 244.06
+OBJECT_SHARED Models/lib/coal_pile.ac -51.05908 69.24323 25.23 250.5
+OBJECT_SHARED Models/lib/coal_pile.ac -51.05927 69.24328 25.06 248.2
+OBJECT_SHARED Models/lib/coal_pile.ac -51.05956 69.24333 24.77 300.34
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06540 69.24019 24.52 111.59
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06555 69.24017 23.09 111.59
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06569 69.24016 23.01 111.59
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06593 69.24014 22.85 111.59
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06607 69.24011 22.77 111.59
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06624 69.24009 22.60 111.59
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06639 69.24008 22.52 111.59
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06655 69.24006 22.35 111.59
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06671 69.24005 22.18 111.59
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06815 69.24045 22.18 33.69
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06827 69.24049 20.77 276.09
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06837 69.24054 20.53 248.4
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06850 69.24059 20.45 316.82
+OBJECT_SHARED Models/lib/coal_pile.ac -51.06860 69.24064 20.29 216.03
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -51.06523 69.24124 20.21 128.21
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -51.06556 69.24110 22.40 130.71
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -51.06562 69.24112 22.17 134.55
+OBJECT_SHARED Models/lib/container6-HD.ac -51.06436 69.24189 22.17 129.9
+OBJECT_SHARED Models/lib/container6-HD.ac -51.06424 69.24192 22.34 129.9
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -51.06502 69.24167 22.49 125.43
+OBJECT_SHARED Models/lib/4space_wStop.ac -51.06661 69.24031 22.07 39.78
+OBJECT_SHARED Models/lib/6space_wStop.ac -51.06726 69.24035 22.03 220.63
+OBJECT_SHARED Models/lib/6space_wStop.ac -51.06694 69.24021 21.49 220.63
+OBJECT_SHARED Models/lib/cars10.ac -51.06722 69.24057 21.88 310.19
+OBJECT_SHARED Models/lib/transformer3x3.ac -51.06308 69.24167 21.33 324.24
+OBJECT_SHARED Models/lib/transformer3x3.ac -51.06074 69.24034 23.57 237.64
+OBJECT_SHARED Models/lib/transformer3x3.ac -51.06315 69.24168 26.70 324.24
+OBJECT_SHARED Models/lib/transformer3x3.ac -51.06069 69.24036 23.57 237.64
+# END dsf2stg

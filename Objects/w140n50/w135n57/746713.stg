@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -134.56886 57.49678 0.00 193.57
+OBJECT_SHARED Models/lib/cars6.ac -134.57011 57.49649 -1000.00 214.06
+OBJECT_SHARED Models/lib/cars4.ac -134.57035 57.49672 -1000.00 319.24
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -134.56521 57.49360 -1000.00 127.69
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -134.56490 57.49386 -1000.00 313.15
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -134.56548 57.49406 -1000.00 128.6
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -134.56590 57.49388 -1000.00 134.09
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -134.56575 57.49395 -1000.00 312.14
+# END dsf2stg

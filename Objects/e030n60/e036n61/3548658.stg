@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fuel-truck.xml 36.57953 61.82252 47.05 319.648
-OBJECT_SHARED Models/lib/garden-shed.ac 36.57927 61.82187 47.23 48.4111
-OBJECT_SHARED Models/lib/lamp10m.xml 36.57951 61.82242 47.04 -43.8772
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 36.57941 61.82252 47.16 217.875
+OBJECT_SHARED Models/lib/fuel-truck.xml 36.57953 61.82252 0.00 319.648
+OBJECT_SHARED Models/lib/garden-shed.ac 36.57927 61.82187 47.05 48.4111
+OBJECT_SHARED Models/lib/lamp10m.xml 36.57951 61.82242 47.23 -43.8772
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 36.57941 61.82252 47.04 217.875
 OBJECT_SHARED Models/Transport/hatchback_black.ac 36.57937 61.82250 47.16 226.613
-OBJECT_SHARED Models/lib/shed8x10.ac 36.57917 61.82246 47.38 318.041
-OBJECT_SHARED Models/lib/transformer3x3.ac 36.57909 61.82238 47.48 47.5674
-OBJECT_SHARED Models/lib/garages18x9.ac 36.57981 61.82252 46.72 138.53
+OBJECT_SHARED Models/lib/shed8x10.ac 36.57917 61.82246 47.16 318.041
+OBJECT_SHARED Models/lib/transformer3x3.ac 36.57909 61.82238 47.38 47.5674
+OBJECT_SHARED Models/lib/garages18x9.ac 36.57981 61.82252 47.48 138.53
 # END dsf2stg

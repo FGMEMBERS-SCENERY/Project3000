@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 10.06350 55.82988 0.00 -6.34
+OBJECT_SHARED Models/lib/lamp10m.xml 10.06320 55.82999 4.33 263.99
+OBJECT_SHARED Models/lib/lamp10m.xml 10.06296 55.82992 3.96 -45.64
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 10.06345 55.82986 4.03 84.81
+OBJECT_SHARED Models/Transport/hatchback_green.ac 10.06350 55.83017 4.27 85.76
+OBJECT_SHARED Models/Transport/van_red.ac 10.06349 55.83014 3.74 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.06314 55.83004 3.90 76.48
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.06323 55.82984 3.95 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.06343 55.83003 4.38 0
+OBJECT_SHARED Models/lib/SmHangar.ac 10.06298 55.82998 4.06 346.19
+# END dsf2stg

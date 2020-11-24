@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36831 53.99430 0.50 90
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36732 53.99422 650.23 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36742 53.99380 649.82 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36803 53.99385 649.83 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36855 53.99389 650.14 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36899 53.99394 650.43 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36883 53.99384 650.43 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36934 53.99356 650.39 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36983 53.99328 650.44 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36984 53.99325 650.56 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.36949 53.99366 650.56 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.37000 53.99338 650.41 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -111.37032 53.99330 650.59 0
+OBJECT_SHARED Models/lib/SmHangar.ac -111.36715 53.99407 650.06 359.79
+OBJECT_SHARED Models/lib/SmHangar.ac -111.37235 53.99468 649.31 90
+OBJECT_SHARED Models/lib/SmHangar.ac -111.37188 53.99465 651.78 90
+OBJECT_SHARED Models/lib/SmHangar.ac -111.37142 53.99462 651.78 90
+OBJECT_SHARED Models/lib/SmHangar.ac -111.37095 53.99456 651.22 90
+OBJECT_SHARED Models/lib/SmHangar.ac -111.37048 53.99453 651.22 90
+OBJECT_SHARED Models/lib/SmHangar.ac -111.37003 53.99453 650.69 90
+OBJECT_SHARED Models/lib/SmHangar.ac -111.36957 53.99453 650.69 90
+OBJECT_SHARED Models/lib/SmHangar.ac -111.36863 53.99454 650.69 90
+OBJECT_SHARED Models/lib/SmHangar.ac -111.36817 53.99454 650.26 89.65
+OBJECT_SHARED Models/lib/SmHangar.ac -111.36719 53.99455 649.83 179.7
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -111.36632 53.99363 649.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -111.36643 53.99363 649.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -111.36654 53.99363 649.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -111.36665 53.99364 649.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -111.36678 53.99364 649.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -111.36689 53.99364 649.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -111.36703 53.99366 649.39 90
+# END dsf2stg

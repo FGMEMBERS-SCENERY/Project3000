@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -149.70405 61.61510 0.00 135.07
+OBJECT_SHARED Models/lib/lamp10m.xml -149.70402 61.61538 100.15 325.62
+OBJECT_SHARED Models/Transport/van_red.ac -149.70395 61.61541 100.33 252.93
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -149.70395 61.61545 100.33 92.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.70417 61.61534 100.39 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.70414 61.61539 100.27 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -149.70416 61.61543 100.33 1.54
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -149.70403 61.61524 100.33 90.96
+# END dsf2stg

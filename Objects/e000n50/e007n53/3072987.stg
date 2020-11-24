@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 7.91078 53.42047 0.00 218.37
+OBJECT_SHARED Models/Transport/van_red.ac 7.89845 53.41527 4.99 219.29
+OBJECT_SHARED Models/Transport/hatchback_red.ac 7.89830 53.41514 6.74 310.91
+OBJECT_SHARED Models/Transport/hatchback_red.ac 7.89745 53.41562 7.08 120.07
+OBJECT_SHARED Models/Transport/van_red.ac 7.89760 53.41565 8.01 284.74
+OBJECT_SHARED Models/Transport/van_red.ac 7.89762 53.41562 7.72 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 7.89748 53.41557 7.80 132.27
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 7.89751 53.41555 7.97 156.04
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.89754 53.41552 8.04 145.01
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.89734 53.41547 8.00 122.91
+OBJECT_SHARED Models/lib/lamp10m.xml 7.89738 53.41564 8.25 308.37
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.89731 53.41546 8.09 303.69
+OBJECT_SHARED Models/lib/deciduous-tree.xml 7.89727 53.41540 8.28 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 7.89743 53.41555 8.43 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 7.89739 53.41558 8.03 0
+# END dsf2stg

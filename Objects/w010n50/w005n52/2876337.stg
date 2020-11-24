@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -4.68215 52.84751 0.00 41.19
+OBJECT_SHARED Models/Airport/cargoip.xml -4.68244 52.84767 72.45 134.59
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -4.68217 52.84749 71.59 220.76
+OBJECT_SHARED Models/Transport/van_red.ac -4.68228 52.84748 72.42 187.7
+OBJECT_SHARED Models/Transport/hatchback_black.ac -4.68212 52.84753 72.23 229.22
+OBJECT_SHARED Models/lib/industrial13x24.ac -4.68237 52.84750 72.50 226.3
+# END dsf2stg

@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -96.07392 64.30474 0.00 107.74
+OBJECT_SHARED Models/lib/industrial15x22.ac -96.07250 64.30218 8.23 102.26
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -96.07523 64.30459 5.43 17.28
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -96.07527 64.30361 9.41 274.97
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -96.07684 64.30599 -86.20 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -96.07692 64.30627 -82.87 0
+# END dsf2stg

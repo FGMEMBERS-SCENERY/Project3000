@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -163.68704 62.09472 0.00 144.24
+OBJECT_SHARED Models/lib/transformer3x3.ac -163.68733 62.09450 88.05 55.35
+OBJECT_SHARED Models/lib/office3x10.ac -163.68515 62.09524 88.11 52.79
+OBJECT_SHARED Models/lib/industrial13x24.ac -163.68697 62.09444 88.65 236.04
+# END dsf2stg

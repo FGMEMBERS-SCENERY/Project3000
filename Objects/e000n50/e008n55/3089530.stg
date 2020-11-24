@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.71610 55.95693 0.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.71610 55.95700 9.98 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.71611 55.95697 9.99 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.71638 55.95686 9.99 341.57
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.71632 55.95688 9.98 345.07
+OBJECT_SHARED Models/Transport/van_red.ac 8.71619 55.95690 9.98 70.56
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.71621 55.95693 9.98 67.83
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.71621 55.95698 9.98 59.74
+OBJECT_SHARED Models/lib/lamp10m.xml 8.71599 55.95687 9.99 270
+OBJECT_SHARED Models/lib/lamp10m.xml 8.71572 55.95689 9.97 -59.04
+OBJECT_SHARED Models/lib/lamp10m.xml 8.71525 55.95685 9.92 250.56
+OBJECT_SHARED Models/lib/lamp10m.xml 8.70855 55.95782 9.87 258.69
+OBJECT_SHARED Models/lib/lamp10m.xml 8.70823 55.95798 9.65 226.85
+OBJECT_SHARED Models/lib/lamp10m.xml 8.70782 55.95803 9.53 94.9
+# END dsf2stg

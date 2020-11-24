@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -2.32342 57.11956 0.00 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -2.32337 57.11953 93.17 180
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -2.32250 57.11954 93.36 176.89
+OBJECT_SHARED Models/lib/trailer-fedex.ac -2.32348 57.11962 92.89 266
+OBJECT_SHARED Models/lib/SmHangar.ac -2.32316 57.11962 93.20 266.3
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -2.32035 57.11944 93.04 85.83
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.31959 57.11954 92.75 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.31952 57.11981 92.14 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.32004 57.11957 91.46 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.31996 57.11984 92.16 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.32048 57.11961 91.69 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.32040 57.11988 92.38 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.32136 57.11968 91.70 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.32129 57.11995 92.55 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.32224 57.11975 92.10 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.32217 57.12001 92.91 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.32180 57.11971 92.25 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.32173 57.11998 92.73 0
+# END dsf2stg

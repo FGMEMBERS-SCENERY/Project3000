@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac 13.51095 52.62986 0.00 221.31
+OBJECT_SHARED Models/lib/cars10.ac 13.51168 52.63055 67.94 224.32
+OBJECT_SHARED Models/Transport/hatchback_red.ac 13.50741 52.62967 69.27 277.94
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.51080 52.62954 67.88 135
+OBJECT_SHARED Models/Transport/hatchback_green.ac 13.51061 52.62959 68.43 311.19
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.51141 52.63189 68.35 38.66
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.51153 52.63193 66.47 197.59
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.51146 52.63191 66.64 212.38
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.51130 52.63177 66.64 69.62
+OBJECT_SHARED Models/Transport/hatchback_green.ac 13.51128 52.63172 66.15 263.23
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.51167 52.63143 66.21 351.87
+OBJECT_SHARED Models/Transport/hatchback_red.ac 13.51177 52.63143 67.51 4.97
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.51190 52.63145 67.99 15.1
+OBJECT_SHARED Models/Transport/hatchback_red.ac 13.51245 52.63187 68.25 314.09
+OBJECT_SHARED Models/Transport/hatchback_red.ac 13.51267 52.63200 68.93 315
+OBJECT_SHARED Models/Transport/hatchback_green.ac 13.51206 52.63211 69.95 136.04
+OBJECT_SHARED Models/Transport/van_red.ac 13.51194 52.63204 67.41 135
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.51210 52.63153 67.26 45
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.51213 52.63157 68.61 57.91
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.51216 52.63161 68.38 71.88
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.51216 52.63164 68.72 77.47
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 13.51055 52.62964 68.72 307.88
+OBJECT_SHARED Models/lib/cars10.ac 13.50740 52.62973 68.38 39.21
+OBJECT_SHARED Models/lib/cars7.ac 13.50776 52.62969 67.88 130.74
+OBJECT_SHARED Models/lib/cars10.ac 13.50851 52.62941 67.51 221.53
+OBJECT_SHARED Models/lib/cars7.ac 13.50815 52.62944 66.67 130.74
+OBJECT_SHARED Models/lib/cars7.ac 13.50779 52.62969 67.03 310.36
+OBJECT_SHARED Models/lib/cars7.ac 13.50818 52.62945 67.51 310.36
+OBJECT_SHARED Models/lib/cars10.ac 13.51025 52.62916 66.94 134.74
+OBJECT_SHARED Models/lib/cars10.ac 13.51115 52.63046 68.02 44.1
+# END dsf2stg

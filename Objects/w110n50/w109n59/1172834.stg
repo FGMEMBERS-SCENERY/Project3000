@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -108.48516 59.55676 -95.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -108.48496 59.55684 223.57 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -108.48455 59.55689 223.57 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -108.48542 59.55847 318.57 16.05
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -108.48892 59.55892 317.28 286.7
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -108.48807 59.55894 309.18 15.83
+OBJECT_SHARED Models/lib/industrial13x24.ac -108.48443 59.55941 309.85 16.21
+OBJECT_SHARED Models/lib/industrial13x24.ac -108.48575 59.55924 311.44 196.09
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -108.48706 59.55916 310.70 60.25
+# END dsf2stg

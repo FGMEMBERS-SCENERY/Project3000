@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -145.50339 64.00165 376.07 311.81
+OBJECT_SHARED Models/lib/propane-tank.ac -145.50305 64.00154 368.68 129.19
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -145.50306 64.00172 368.82 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -145.50300 64.00171 368.68 40.9398
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -145.50328 64.00180 368.68 39.45
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -145.50312 64.00167 368.60 310.352
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -145.50342 64.00175 368.68 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -145.50342 64.00174 368.68 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -145.50341 64.00175 368.68 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -145.50340 64.00175 368.68 0
+# END dsf2stg

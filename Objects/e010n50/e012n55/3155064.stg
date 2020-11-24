@@ -1,13 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml 12.21050 55.98591 -0.00 -8.13031
-OBJECT_SHARED Models/lib/lamp10m.xml 12.21167 55.98604 0.00 85.9144
-OBJECT_SHARED Models/lib/lamp10m.xml 12.21196 55.98601 0.00 84.2894
-OBJECT_SHARED Models/lib/lamp10m.xml 12.21148 55.98605 0.00 86.6336
-OBJECT_SHARED Models/lib/hangar81x16.ac 12.21049 55.98620 0.00 352.483
-OBJECT_SHARED Models/lib/watertank3x1.ac 12.21057 55.98595 -0.00 350.538
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 12.21157 55.98598 0.00 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.21157 55.98596 0.00 0
-OBJECT_SHARED Models/lib/office16x4n.ac 12.21028 55.98603 -0.00 172.213
+OBJECT_SHARED Models/Transport/hatchback_green.ac 12.21220 55.98621 0.00 192.79
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 12.21151 55.98623 10.53 269.17
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.21183 55.98630 10.59 87.7
+OBJECT_SHARED Models/Transport/hatchback_green.ac 12.21205 55.98628 10.53 87.53
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 12.21164 55.98632 10.34 87.2
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.21227 55.98621 10.55 358.41
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.21102 55.98628 10.51 356.63
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 12.21096 55.98629 10.68 0
+OBJECT_SHARED Models/lib/garage-small-white.ac 12.21192 55.98547 10.68 355.07
+OBJECT_SHARED Models/lib/garage-small-white.ac 12.21065 55.98610 10.43 90
 # END dsf2stg

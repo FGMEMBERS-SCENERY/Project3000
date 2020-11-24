@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -52.79392 68.71988 0.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -52.79380 68.71998 1.03 121.14
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -52.79177 68.71991 1.03 282.44
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -52.79179 68.71994 1.04 281.31
+OBJECT_SHARED Models/lib/HorizTanks2.ac -52.79138 68.71999 1.04 12.49
+OBJECT_SHARED Models/lib/lamp10m.xml -52.79244 68.71967 1.05 -77.32
+OBJECT_SHARED Models/lib/lamp10m.xml -52.79271 68.71965 1.01 -87.26
+OBJECT_SHARED Models/lib/lamp10m.xml -52.79298 68.71964 1.00 -87.27
+OBJECT_SHARED Models/lib/lamp10m.xml -52.79326 68.71964 1.00 -87.3
+OBJECT_SHARED Models/lib/lamp10m.xml -52.79355 68.71963 1.00 -87.51
+OBJECT_SHARED Models/lib/lamp10m.xml -52.79382 68.71963 1.00 -87.35
+OBJECT_SHARED Models/lib/lamp10m.xml -52.79361 68.72000 1.00 146.41
+OBJECT_SHARED Models/lib/lamp10m.xml -52.79376 68.71992 1.05 147.62
+OBJECT_SHARED Models/lib/lamp10m.xml -52.79392 68.71983 1.03 146.17
+OBJECT_SHARED Models/lib/2space_wStop.ac -52.79360 68.72000 1.02 146.99
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -52.79356 68.71998 1.05 56.98
+OBJECT_SHARED Models/Transport/van_silver.ac -52.79257 68.71969 1.05 11.82
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -52.79221 68.71998 1.01 13
+OBJECT_SHARED Models/Misc/picnic_table.ac -52.79306 68.71986 1.04 187.27
+OBJECT_SHARED Models/Misc/picnic_table.ac -52.79312 68.71992 1.04 200.73
+OBJECT_SHARED Models/Misc/picnic_table.ac -52.79315 68.71995 1.04 183.81
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.79306 68.71996 1.04 0
+OBJECT_SHARED Models/lib/cars10.ac -52.79275 68.71965 1.05 182.84
+OBJECT_SHARED Models/lib/cars6.ac -52.79391 68.71983 1.01 56.89
+# END dsf2stg

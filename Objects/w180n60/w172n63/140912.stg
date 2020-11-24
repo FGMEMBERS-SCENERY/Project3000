@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -171.73099 63.77537 0.00 5.92
+OBJECT_SHARED Models/Misc/picnic_table.ac -171.73092 63.77546 17.44 6.16
+OBJECT_SHARED Models/lib/6space_wStop.ac -171.73104 63.77561 17.38 5.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac -171.73107 63.77552 17.32 94.77
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -171.73108 63.77557 17.38 277.41
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -171.73102 63.77529 17.32 96.08
+OBJECT_SHARED Models/Airport/cargobox.xml -171.73102 63.77526 17.51 187.14
+# END dsf2stg

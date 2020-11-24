@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -147.40174 66.36145 0.00 292.83
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -147.40100 66.36131 107.02 192.44
+OBJECT_SHARED Models/lib/watertank3x1.ac -147.40127 66.36137 107.06 12.38
+# END dsf2stg

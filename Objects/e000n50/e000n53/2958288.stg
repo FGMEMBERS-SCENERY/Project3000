@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 0.16823 53.30339 0.00 322.334
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 0.16839 53.30353 12.45 322.334
+OBJECT_SHARED Models/lib/industrial13x24.ac 0.16822 53.30539 12.39 63.25
+OBJECT_SHARED Models/lib/shed8x10.ac 0.16852 53.30533 11.82 61.31
+OBJECT_SHARED Models/lib/large-hangar.ac 0.16629 53.30368 11.79 49.13
+OBJECT_SHARED Models/Transport/van_silver.ac 0.17906 53.31157 11.98 102.38
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 0.17905 53.31162 7.90 99.66
+OBJECT_SHARED Models/lib/cars4.ac 0.17931 53.31173 7.90 272.86
+OBJECT_SHARED Models/lib/office16x4n.ac 0.17260 53.30907 7.95 188.53
+OBJECT_SHARED Models/lib/lamp10m.xml 0.17797 53.31202 9.71 157.15
+OBJECT_SHARED Models/Transport/hatchback_green.ac 0.17718 53.31208 7.65 0
+OBJECT_SHARED Models/lib/cars7.ac 0.17789 53.31220 7.66 189.94
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.17950 53.31230 7.70 145.66
+OBJECT_SHARED Models/lib/prop_a.ac 0.17155 53.30890 7.85 239.53
+OBJECT_SHARED Models/lib/prop_a.ac 0.17929 53.31222 9.95 239.53
+OBJECT_SHARED Models/lib/prop_a.ac 0.17866 53.31219 7.83 239.53
+OBJECT_SHARED Models/lib/prop_a.ac 0.17721 53.31136 7.75 136.33
+OBJECT_SHARED Models/lib/stack_of_cones.ac 0.17804 53.31204 7.61 0
+OBJECT_SHARED Models/lib/propane-tank.ac 0.17712 53.31176 7.66 107.88
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.17797 53.31201 7.58 90
+OBJECT_SHARED Models/Misc/picnic_table.ac 0.17739 53.31205 7.64 17.1
+OBJECT_SHARED Models/lib/cone.ac 0.17808 53.31203 7.63 0
+OBJECT_SHARED Models/lib/cone.ac 0.17799 53.31204 7.66 0
+OBJECT_SHARED Models/lib/cone.ac 0.17795 53.31201 7.65 270
+OBJECT_SHARED Models/lib/cone.ac 0.17801 53.31203 7.64 191.31
+OBJECT_SHARED Models/lib/cone.ac 0.17801 53.31205 7.66 0
+OBJECT_SHARED Models/lib/cone.ac 0.17715 53.31170 7.66 0
+OBJECT_SHARED Models/lib/cone.ac 0.17719 53.31169 7.57 90
+OBJECT_SHARED Models/lib/cone.ac 0.17720 53.31172 7.57 0
+OBJECT_SHARED Models/lib/cone.ac 0.17714 53.31173 7.57 225
+OBJECT_SHARED Models/lib/cone.ac 0.17716 53.31171 7.57 0
+OBJECT_SHARED Models/lib/cone.ac 0.17717 53.31172 7.57 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.17750 53.31195 7.57 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.17747 53.31196 7.63 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.17748 53.31196 7.63 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.17748 53.31197 7.63 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 0.17746 53.31196 7.63 0
+# END dsf2stg

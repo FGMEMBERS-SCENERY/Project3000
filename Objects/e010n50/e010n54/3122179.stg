@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/picnic_table.ac 10.82843 54.09120 9.16 338.2
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.82843 54.09120 0.00 338.2
 OBJECT_SHARED Models/Misc/picnic_table.ac 10.82837 54.09121 9.16 342.35
-OBJECT_SHARED Models/Misc/picnic_table.ac 10.82840 54.09115 8.95 339.78
-OBJECT_SHARED Models/Misc/picnic_table.ac 10.82834 54.09116 9.12 333.44
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82792 54.09121 8.85 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82814 54.09151 9.53 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82821 54.09172 9.88 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82990 54.09144 9.15 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82947 54.09152 9.01 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82903 54.09115 8.99 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.82840 54.09115 9.16 339.78
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.82834 54.09116 8.96 333.44
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82792 54.09121 9.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82814 54.09151 8.87 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82821 54.09172 9.54 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82990 54.09144 9.88 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82947 54.09152 9.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.82903 54.09115 9.01 0
 # END dsf2stg

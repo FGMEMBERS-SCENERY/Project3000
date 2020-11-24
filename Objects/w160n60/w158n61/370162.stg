@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -157.33982 61.78542 0.00 187.83
+OBJECT_SHARED Models/lib/large-hangar.ac -157.33893 61.78389 59.76 113.48
+OBJECT_SHARED Models/lib/lamp10m.xml -157.33964 61.78486 60.84 270
+OBJECT_SHARED Models/lib/lamp10m.xml -157.34014 61.78473 60.41 270
+OBJECT_SHARED Models/lib/lamp10m.xml -157.34209 61.78570 60.67 270
+OBJECT_SHARED Models/lib/lamp10m.xml -157.34108 61.78551 60.62 270
+OBJECT_SHARED Models/lib/prop_a.ac -157.34018 61.78460 60.26 24.23
+OBJECT_SHARED Models/lib/prop_a.ac -157.34173 61.78571 60.80 67.62
+OBJECT_SHARED Models/Transport/hatchback_black.ac -157.33379 61.78418 60.62 240.42
+OBJECT_SHARED Models/lib/trailer-fedex.ac -157.34004 61.78421 56.94 292.38
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -157.33401 61.78402 61.31 188.75
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -157.33890 61.78412 56.94 202.53
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -157.33709 61.78431 60.64 158.46
+OBJECT_SHARED Models/Transport/hatchback_green.ac -157.33513 61.78365 58.92 55.38
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -157.33861 61.78389 57.73 312.96
+OBJECT_SHARED Models/lib/coal_pile.ac -157.33920 61.78486 60.84 90
+OBJECT_SHARED Models/lib/coal_pile.ac -157.33943 61.78484 59.73 90
+OBJECT_SHARED Models/lib/coal_pile.ac -157.33903 61.78487 59.85 22.26
+OBJECT_SHARED Models/Misc/6barrels.ac -157.33933 61.78487 59.73 233.57
+OBJECT_SHARED Models/Misc/6barrels.ac -157.33950 61.78483 59.73 244.89
+OBJECT_SHARED Models/Misc/6barrels.ac -157.33931 61.78485 60.54 0
+OBJECT_SHARED Models/Airport/cargobox.xml -157.33936 61.78464 59.73 0
+OBJECT_SHARED Models/Airport/cargoim.xml -157.33984 61.78456 60.08 0
+OBJECT_SHARED Models/Airport/cargoim.xml -157.33991 61.78454 60.80 0
+OBJECT_SHARED Models/Airport/cargobox.xml -157.33926 61.78466 60.93 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -157.33554 61.78356 59.96 99.46
+OBJECT_SHARED Models/lib/garden-shed.ac -157.33561 61.78343 58.60 99.46
+OBJECT_SHARED Models/lib/dGreenhse.ac -157.33572 61.78342 58.71 280.01
+OBJECT_SHARED Models/lib/office4x14.ac -157.33367 61.78408 58.71 152.34
+OBJECT_SHARED Models/lib/office3x10.ac -157.33394 61.78395 56.94 282.84
+# END dsf2stg

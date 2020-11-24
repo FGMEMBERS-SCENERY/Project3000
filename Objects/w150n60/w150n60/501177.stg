@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.62217 60.90472 0.00 346.91
+OBJECT_SHARED Models/Airport/cargoip.xml -149.62171 60.90479 51.45 259.99
+OBJECT_SHARED Models/Airport/cargoip.xml -149.62175 60.90480 51.23 255.07
+OBJECT_SHARED Models/Airport/cargobox.xml -149.62178 60.90482 51.23 261.87
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -149.62170 60.90486 51.23 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.62152 60.90488 51.02 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.62151 60.90496 51.02 0
+OBJECT_SHARED Models/lib/shed8x10.ac -149.62195 60.90477 50.81 348.2
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.62180 60.90896 51.23 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.62184 60.90880 44.30 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.62265 60.90552 44.53 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.62292 60.90457 49.49 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.62294 60.90447 51.35 0
+OBJECT_SHARED Models/lib/cone.ac -149.62414 60.90301 51.57 0
+OBJECT_SHARED Models/lib/cone.ac -149.62412 60.90301 55.01 0
+OBJECT_SHARED Models/lib/cone.ac -149.62409 60.90301 55.01 0
+OBJECT_SHARED Models/lib/cone.ac -149.62407 60.90300 55.01 0
+OBJECT_SHARED Models/lib/cone.ac -149.62366 60.90298 55.01 0
+OBJECT_SHARED Models/lib/cone.ac -149.62369 60.90298 55.01 0
+OBJECT_SHARED Models/lib/cone.ac -149.62371 60.90298 55.01 0
+OBJECT_SHARED Models/lib/cone.ac -149.62372 60.90298 55.01 0
+OBJECT_SHARED Models/lib/cone.ac -149.62201 60.91004 55.01 180
+OBJECT_SHARED Models/lib/cone.ac -149.62202 60.91004 43.43 0
+OBJECT_SHARED Models/lib/cone.ac -149.62204 60.91004 43.43 270
+OBJECT_SHARED Models/lib/cone.ac -149.62205 60.91004 43.43 0
+OBJECT_SHARED Models/lib/cone.ac -149.62246 60.91007 43.43 90
+OBJECT_SHARED Models/lib/cone.ac -149.62244 60.91007 43.37 90
+OBJECT_SHARED Models/lib/cone.ac -149.62242 60.91006 43.37 0
+OBJECT_SHARED Models/lib/cone.ac -149.62241 60.91006 43.37 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.62271 60.91001 43.37 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.62350 60.90927 42.59 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.62273 60.90922 42.65 352.87
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.62248 60.90477 43.44 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.62205 60.90481 51.23 0
+OBJECT_SHARED Models/lib/coal_pile.ac -149.62246 60.90475 51.23 90
+OBJECT_SHARED Models/Misc/6barrels.ac -149.62252 60.90474 51.45 0
+OBJECT_SHARED Models/Misc/6barrels.ac -149.62206 60.90480 51.13 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.62167 60.90499 51.23 178.7
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -149.62167 60.90501 50.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -149.62246 60.90456 50.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -149.62254 60.90466 51.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -149.62220 60.90462 51.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -149.62261 60.90458 51.67 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.62231 60.90454 51.35 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.62240 60.90463 51.90 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.62268 60.90467 51.67 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.62349 60.90935 51.13 359.09
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.62349 60.90931 43.24 359.8
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -149.62314 60.90924 43.34 0
+# END dsf2stg

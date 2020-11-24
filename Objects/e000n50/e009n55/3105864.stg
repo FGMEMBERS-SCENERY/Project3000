@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.24587 55.22694 0.00 67.25
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.24790 55.22735 36.76 8.53
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.24822 55.22805 38.06 185.76
+OBJECT_SHARED Models/lib/fboModern1.ac 9.24738 55.21642 41.51 260.83
+OBJECT_SHARED Models/lib/lamp10m.xml 9.24693 55.21656 39.19 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.24777 55.21647 37.93 0
+# END dsf2stg

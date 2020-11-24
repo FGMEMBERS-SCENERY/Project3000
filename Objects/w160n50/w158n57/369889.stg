@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargoim.xml -157.57108 57.57944 0.00 87.56
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -157.56975 57.57937 -76.66 90.64
+OBJECT_SHARED Models/Airport/cargobox.xml -157.57115 57.57945 18.94 0
+OBJECT_SHARED Models/lib/container6-HD.ac -157.57113 57.57950 18.34 0.980011
+OBJECT_SHARED Models/lib/office16x4n.ac -157.57051 57.57918 18.35 268.58
+OBJECT_SHARED Models/lib/trailer-fedex.ac -157.57113 57.57937 18.32 267.38
+OBJECT_SHARED Models/Airport/cargoip.xml -157.57107 57.57941 18.34 83.54
+OBJECT_SHARED Models/Airport/cargoip.xml -157.57112 57.57941 18.34 84.92
+OBJECT_SHARED Models/lib/prop_a.ac -157.57253 57.57942 18.34 91.78
+OBJECT_SHARED Models/Transport/hatchback_green.ac -157.57282 57.57959 17.05 90
+OBJECT_SHARED Models/Transport/hatchback_red.ac -157.57283 57.57953 17.09 92.12
+OBJECT_SHARED Models/Transport/hatchback_black.ac -157.57175 57.57923 17.07 269.02
+# END dsf2stg

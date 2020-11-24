@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/coal_pile.ac -148.99598 61.34051 0.00 90
+OBJECT_SHARED Models/lib/coal_pile.ac -148.99679 61.34007 275.20 90
+OBJECT_SHARED Models/lib/stack_of_cones.ac -148.99661 61.34018 276.06 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -148.99682 61.34005 275.76 0
+OBJECT_SHARED Models/Airport/cargoip.xml -148.99666 61.34017 276.06 239.53
+OBJECT_SHARED Models/lib/garden-shed.ac -148.99671 61.34014 275.76 323.84
+OBJECT_SHARED Models/Transport/hatchback_green.ac -148.99676 61.34012 276.06 226.55
+# END dsf2stg

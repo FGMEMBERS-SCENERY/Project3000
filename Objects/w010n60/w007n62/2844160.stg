@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -6.75784 62.02168 0.00 288.72
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -6.75752 62.02178 19.87 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -6.75738 62.02179 19.46 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -6.75728 62.02177 19.30 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -6.75721 62.02173 19.20 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -6.75719 62.02166 19.20 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -6.75724 62.02161 19.18 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -6.75739 62.02158 19.30 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -6.75753 62.02160 19.44 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -6.75762 62.02164 19.56 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -6.75763 62.02170 19.65 0
+OBJECT_SHARED Models/lib/garden-shed.ac -6.75792 62.02145 19.12 107.8
+OBJECT_SHARED Models/lib/transformer3x3.ac -6.75784 62.02146 19.53 196.86
+OBJECT_SHARED Models/lib/cars6.ac -6.75810 62.02141 19.39 107.43
+OBJECT_SHARED Models/Misc/picnic_table.ac -6.75797 62.02143 19.72 292.05
+# END dsf2stg

@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -149.58191 68.07691 0.00 48.0132
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.58229 68.07825 989.45 129.621
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.58235 68.07824 998.65 129.459
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.58246 68.07821 997.94 127.689
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.58252 68.07819 997.94 125.599
+OBJECT_SHARED Models/lib/propane-tank.ac -149.58032 68.07845 1001.52 42.6578
+OBJECT_SHARED Models/lib/propane-tank.ac -149.58004 68.07837 992.82 317.1
+OBJECT_SHARED Models/lib/propane-tank.ac -149.58279 68.07732 992.82 144.137
+OBJECT_SHARED Models/Transport/hatchback_black.ac -149.58183 68.07845 995.22 268.363
+OBJECT_SHARED Models/Transport/van_red.ac -149.58096 68.07856 1000.07 120.58
+OBJECT_SHARED Models/lib/2container-office.ac -149.58615 68.07637 997.12 54.4631
+OBJECT_SHARED Models/lib/2container-office.ac -149.58648 68.07680 996.62 50.6007
+OBJECT_SHARED Models/lib/2container-office.ac -149.58613 68.07691 1000.20 223.027
+OBJECT_SHARED Models/lib/2container-office.ac -149.58528 68.07705 1001.04 40.6029
+OBJECT_SHARED Models/lib/office16x4n.ac -149.58057 68.07828 999.28 225.837
+OBJECT_SHARED Models/lib/2container-office.ac -149.57901 68.07815 994.99 47.7277
+OBJECT_SHARED Models/lib/4container-office.ac -149.58040 68.07851 991.85 45.7752
+OBJECT_SHARED Models/lib/MedHangar.ac -149.58458 68.07625 993.10 133.103
+OBJECT_SHARED Models/lib/SmHangar.ac -149.58225 68.07750 991.96 150.724
+OBJECT_SHARED Models/lib/SmHangar.ac -149.58356 68.07755 992.98 132.074
+# END dsf2stg

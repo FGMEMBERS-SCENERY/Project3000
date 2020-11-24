@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 28.89431 61.24627 0.00 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 28.89427 61.24625 102.72 33.34
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 28.89403 61.24618 102.72 90
+OBJECT_SHARED Models/lib/MedHangar.ac 28.89396 61.24673 102.49 215.62
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 28.89469 61.24722 102.54 215.76
+OBJECT_SHARED Models/lib/prop_a.ac 28.89406 61.24632 102.48 33.21
+# END dsf2stg

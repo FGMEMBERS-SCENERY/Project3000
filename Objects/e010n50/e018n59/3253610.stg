@@ -1,23 +1,22 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.70225 59.73505 12.22 96.98
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.70207 59.73504 12.30 96.98
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.70188 59.73503 12.44 96.98
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.70170 59.73501 12.52 96.98
-OBJECT_SHARED Models/lib/SmHangar.ac 18.69793 59.73387 14.05 289.16
-OBJECT_SHARED Models/lib/SmHangar.ac 18.69810 59.73365 13.69 108.43
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.70304 59.73457 11.30 272.79
-OBJECT_SHARED Models/lib/farm19x12.ac 18.69709 59.73348 14.21 257.56
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69714 59.73404 14.86 171.12
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69713 59.73391 14.73 171.12
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69679 59.73389 15.00 171.12
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69684 59.73403 15.66 171.12
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69703 59.73413 16.43 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69703 59.73413 16.43 0
-OBJECT_SHARED Models/lib/garden-shed.ac 18.69637 59.73422 17.24 173.54
-OBJECT_SHARED Models/lib/garden-shed.ac 18.69636 59.73419 17.24 173.54
-OBJECT_SHARED Models/lib/garden-shed.ac 18.69635 59.73416 17.24 173.54
-OBJECT_SHARED Models/Aircraft/Cessna172.xml 18.69846 59.73373 13.41 329.14
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.69802 59.73359 13.66 288.97
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.70232 59.73507 0.00 96.98
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.70214 59.73506 12.13 96.98
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.70195 59.73505 12.18 96.98
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.70177 59.73504 11.84 96.98
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.70304 59.73457 11.92 272.79
+OBJECT_SHARED Models/lib/farm19x12.ac 18.69711 59.73349 10.57 257.56
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69714 59.73404 13.64 171.12
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69713 59.73391 14.43 171.12
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69679 59.73389 14.27 171.12
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69684 59.73403 14.56 171.12
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69703 59.73413 14.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.69703 59.73413 14.72 0
+OBJECT_SHARED Models/lib/prop_a.ac 18.69883 59.73398 14.69 199.95
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.69804 59.73349 12.87 15.92
+OBJECT_SHARED Models/lib/hangar81x16.ac 18.69744 59.73408 12.91 5.19
+OBJECT_SHARED Models/lib/MedHangar.ac 18.70127 59.73460 14.27 146.71
+OBJECT_SHARED Models/lib/office65x50.ac 18.70008 59.73476 11.63 144.78
+OBJECT_SHARED Models/lib/office32x25.ac 18.69784 59.73514 12.77 332.66
 # END dsf2stg

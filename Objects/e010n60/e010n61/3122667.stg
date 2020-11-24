@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 10.83974 61.72712 0.00 322
+OBJECT_SHARED Models/lib/cone.ac 10.83826 61.72701 338.48 330.121
+OBJECT_SHARED Models/lib/cone.ac 10.83821 61.72700 338.62 333.435
+OBJECT_SHARED Models/Transport/van_red.ac 10.83809 61.72701 338.64 221.048
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.83867 61.72725 338.65 189.379
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.83968 61.72693 338.54 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.83953 61.72698 338.48 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.83935 61.72703 338.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.83920 61.72708 338.54 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.83906 61.72713 338.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.83892 61.72717 338.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.83880 61.72724 338.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.83874 61.72733 338.50 0
+# END dsf2stg

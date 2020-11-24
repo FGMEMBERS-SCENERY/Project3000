@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 13.11081 59.85813 120.20 192.375
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.11060 59.85835 120.57 102.285
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.11110 59.85872 121.16 102.285
-OBJECT_SHARED Models/lib/SmHangar.ac 13.11085 59.85855 121.05 101.687
-OBJECT_SHARED Models/Misc/picnic_table.ac 13.11181 59.85883 120.74 0
-OBJECT_SHARED Models/lib/garden-shed.ac 13.11056 59.85745 118.86 99.2725
-OBJECT_SHARED Models/lib/propane-tank.ac 13.11141 59.85868 120.98 104.036
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.11040 59.85813 120.20 278.584
-OBJECT_SHARED Models/Transport/hatchback_red.ac 13.11039 59.85816 120.40 278.584
-OBJECT_SHARED Models/Transport/hatchback_green.ac 13.11038 59.85820 120.40 278.584
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 13.11038 59.85820 120.40 278.584
-OBJECT_SHARED Models/Transport/hatchback_black.ac 13.11036 59.85827 120.59 278.584
-OBJECT_SHARED Models/Transport/van_silver.ac 13.11033 59.85840 120.74 278.584
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.11032 59.85844 120.74 278.584
+OBJECT_SHARED Models/lib/SmHangar.ac 13.11081 59.85813 0.00 192.375
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.11060 59.85835 120.20 102.285
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.11110 59.85872 120.57 102.285
+OBJECT_SHARED Models/lib/SmHangar.ac 13.11085 59.85855 121.16 101.687
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.11181 59.85883 121.05 0
+OBJECT_SHARED Models/lib/garden-shed.ac 13.11056 59.85745 120.74 99.2725
+OBJECT_SHARED Models/lib/propane-tank.ac 13.11141 59.85868 118.86 104.036
+OBJECT_SHARED Models/Transport/van_silver.ac 13.11040 59.85813 120.98 278.584
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 13.11039 59.85816 120.20 278.584
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.11038 59.85820 120.40 278.584
+OBJECT_SHARED Models/Transport/van_red.ac 13.11038 59.85820 120.40 278.584
+OBJECT_SHARED Models/Transport/van_silver.ac 13.11036 59.85827 120.40 278.584
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.11033 59.85840 120.59 278.584
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.11032 59.85844 120.74 278.584
 # END dsf2stg

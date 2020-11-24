@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac 26.67127 57.63373 0.00 0
+OBJECT_SHARED Models/lib/cone.ac 26.67111 57.63364 83.77 0
+OBJECT_SHARED Models/Transport/van_silver.ac 26.67012 57.63442 83.64 319.377
+OBJECT_SHARED Models/Transport/hatchback_red.ac 26.67034 57.63446 84.11 226.848
+OBJECT_SHARED Models/Misc/6barrels.ac 26.67036 57.63440 84.25 134.642
+OBJECT_SHARED Models/Misc/6barrels.ac 26.67127 57.63386 84.18 51.3404
+OBJECT_SHARED Models/lib/stack_of_cones.ac 26.67062 57.63416 83.95 81.8699
+OBJECT_SHARED Models/Trees/billboard-tree.xml 26.67050 57.63468 84.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 26.67043 57.63466 84.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 26.67001 57.63443 84.49 0
+OBJECT_SHARED Models/lib/shed8x10.ac 26.67025 57.63438 84.09 226
+# END dsf2stg

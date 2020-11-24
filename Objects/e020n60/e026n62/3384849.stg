@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 26.99790 62.26612 0.00 292.905
+OBJECT_SHARED Models/Transport/van_red.ac 26.99793 62.26609 119.23 113.059
+OBJECT_SHARED Models/Transport/hatchback_black.ac 26.99796 62.26605 119.23 117.553
+OBJECT_SHARED Models/lib/stack_of_cones.ac 26.99811 62.26576 116.57 233.746
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99846 62.26488 119.17 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99846 62.26501 118.94 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99842 62.26513 118.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99847 62.26525 119.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99853 62.26532 119.06 153.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99857 62.26539 119.06 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99866 62.26549 119.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99838 62.26546 119.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99805 62.26544 119.10 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99813 62.26559 119.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99792 62.26559 119.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99791 62.26581 119.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99765 62.26589 119.19 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99778 62.26599 119.21 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99764 62.26603 119.22 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99767 62.26620 119.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99768 62.26628 119.26 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99723 62.26643 119.28 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99746 62.26686 119.32 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99768 62.26686 119.28 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 26.99758 62.26692 119.36 0
+OBJECT_SHARED Models/lib/shed8x10.ac 26.99734 62.26617 119.31 11
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 26.99848 62.26556 119.29 209
+# END dsf2stg

@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -78.75203 51.47447 0.00 219.13
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -78.75205 51.47446 27.11 220.44
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -78.75207 51.47445 27.11 220.65
+OBJECT_SHARED Models/lib/cars6.ac -78.75165 51.47444 27.04 310.179
+OBJECT_SHARED Models/Transport/van_silver.ac -78.75178 51.47431 27.23 136.219
+OBJECT_SHARED Models/Transport/hatchback_green.ac -78.75210 51.47404 27.13 304.509
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -78.75213 51.47407 26.94 304.509
+OBJECT_SHARED Models/Transport/hatchback_green.ac -78.75180 51.47423 26.97 304.509
+OBJECT_SHARED Models/Transport/van_silver.ac -78.75216 51.47408 27.10 315
+OBJECT_SHARED Models/Transport/van_red.ac -78.75183 51.47425 26.93 315
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -78.75218 51.47411 27.10 311.309
+OBJECT_SHARED Models/Transport/van_red.ac -78.75177 51.47420 26.93 311.309
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -78.75186 51.47427 27.10 311.309
+OBJECT_SHARED Models/lib/lamp10m.xml -78.75178 51.47426 27.09 218
+OBJECT_SHARED Models/lib/lamp10m.xml -78.75210 51.47410 27.13 216.61
+OBJECT_SHARED Models/Transport/hatchback_black.ac -78.75204 51.47410 26.97 125.838
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -78.75172 51.47426 27.01 125.838
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -78.75207 51.47413 27.16 132.185
+OBJECT_SHARED Models/Transport/van_red.ac -78.75175 51.47429 26.97 132.185
+OBJECT_SHARED Models/Transport/hatchback_black.ac -78.75169 51.47424 27.13 136.219
+OBJECT_SHARED Models/Transport/van_red.ac -78.75201 51.47408 27.14 136.219
+OBJECT_SHARED Models/Transport/hatchback_black.ac -78.75210 51.47415 27.01 136.219
+OBJECT_SHARED Models/lib/lamp10m.xml -78.75264 51.47437 26.97 -78.59
+OBJECT_SHARED Models/lib/lamp10m.xml -78.75204 51.47467 26.86 -51.26
+OBJECT_SHARED Models/lib/lamp10m.xml -78.75290 51.47450 27.16 -49.56
+OBJECT_SHARED Models/lib/lamp10m.xml -78.75208 51.47521 26.76 43.67
+# END dsf2stg

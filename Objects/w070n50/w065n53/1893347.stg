@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargoip.xml -64.09094 53.55825 0.00 0
+OBJECT_SHARED Models/Airport/cargoip.xml -64.09090 53.55827 428.19 0
+OBJECT_SHARED Models/Airport/cargoip.xml -64.09087 53.55832 428.19 0
+OBJECT_SHARED Models/Airport/cargoip.xml -64.09087 53.55829 428.19 0
+OBJECT_SHARED Models/Airport/cargobox.xml -64.09091 53.55813 428.19 0
+OBJECT_SHARED Models/Airport/cargobox.xml -64.09087 53.55817 427.76 0
+OBJECT_SHARED Models/Airport/cargobox.xml -64.09088 53.55823 427.98 0
+OBJECT_SHARED Models/Airport/cargobox.xml -64.09091 53.55820 427.98 321.34
+OBJECT_SHARED Models/Airport/cargobox.xml -64.09094 53.55818 427.98 0
+OBJECT_SHARED Models/Airport/cargobox.xml -64.09094 53.55816 427.98 0
+OBJECT_SHARED Models/Airport/cargobox.xml -64.09095 53.55814 427.98 0
+OBJECT_SHARED Models/lib/cars4.ac -64.09290 53.55767 427.76 173.23
+OBJECT_SHARED Models/Airport/cargoim.xml -64.09398 53.55815 426.63 315
+OBJECT_SHARED Models/Airport/cargoim.xml -64.09390 53.55825 427.46 0
+OBJECT_SHARED Models/Airport/cargoim.xml -64.09391 53.55823 427.70 0
+OBJECT_SHARED Models/Airport/cargoim.xml -64.09391 53.55819 427.49 0
+OBJECT_SHARED Models/Airport/cargoim.xml -64.09390 53.55816 427.49 0
+OBJECT_SHARED Models/Airport/cargoim.xml -64.09382 53.55815 427.49 0
+OBJECT_SHARED Models/lib/container6-HD.ac -64.09370 53.55813 427.30 0
+OBJECT_SHARED Models/lib/office3x10.ac -64.09405 53.55833 427.31 250.97
+OBJECT_SHARED Models/lib/office3x10.ac -64.09407 53.55828 427.65 252.65
+OBJECT_SHARED Models/lib/SmHangar.ac -64.09108 53.55779 427.65 256.73
+OBJECT_SHARED Models/lib/SmHangar.ac -64.09129 53.55782 427.09 256.2
+OBJECT_SHARED Models/lib/MedHangar.ac -64.09172 53.55791 427.07 256.5
+OBJECT_SHARED Models/lib/office40x25.ac -64.09289 53.55778 427.24 72.9
+# END dsf2stg

@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -160.52187 55.31786 0.00 213.46
+OBJECT_SHARED Models/Airport/cargoip.xml -160.52276 55.31865 4.25 0
+OBJECT_SHARED Models/Airport/cargoip.xml -160.52119 55.31721 3.36 0
+OBJECT_SHARED Models/Airport/cargobox.xml -160.52112 55.31717 5.14 0
+OBJECT_SHARED Models/Airport/cargobox.xml -160.52116 55.31718 5.14 0
+OBJECT_SHARED Models/Airport/cargobox.xml -160.52115 55.31714 5.14 0
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -160.52103 55.31705 5.13 134.29
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -160.52100 55.31701 5.13 291.8
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -160.52176 55.31775 5.12 146.31
+OBJECT_SHARED Models/lib/container6-HD.ac -160.52268 55.31860 4.26 210.91
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -160.52278 55.31869 3.36 210.79
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -160.52283 55.31875 3.34 209.52
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -160.52186 55.31834 3.33 118.74
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -160.52169 55.31817 4.14 210.72
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -160.52116 55.31795 4.18 119.86
+OBJECT_SHARED Models/Transport/hatchback_green.ac -160.52049 55.31729 5.01 116.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac -160.52068 55.31751 6.08 122.47
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -160.52062 55.31747 5.10 121.76
+OBJECT_SHARED Models/Transport/hatchback_black.ac -160.52057 55.31739 5.10 120.32
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -160.52115 55.31738 5.14 123.18
+OBJECT_SHARED Models/Transport/hatchback_green.ac -160.52106 55.31726 5.14 121.89
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -160.52096 55.31712 5.14 301.35
+OBJECT_SHARED Models/lib/trailer-fedex.ac -160.52045 55.31694 5.13 120.47
+OBJECT_SHARED Models/lib/SmHangar.ac -160.52225 55.31824 6.11 31.11
+OBJECT_SHARED Models/lib/SmHangar.ac -160.52207 55.31807 4.18 31.11
+OBJECT_SHARED Models/lib/admin31x12.ac -160.52150 55.31763 4.22 31.95
+# END dsf2stg

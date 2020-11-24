@@ -1,6 +1,26 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -14.05489 64.93338 1.90 72.86
-OBJECT_SHARED Models/Misc/picnic_table.ac -14.05479 64.93340 1.87 341.24
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04755 64.93147 0.00 0
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04760 64.93148 0.24 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04769 64.93150 0.24 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04044 64.93019 0.26 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04050 64.93019 0.03 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04046 64.93013 0.04 314.999
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04119 64.93031 0.04 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04097 64.93025 0.06 45.0013
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04038 64.93019 0.05 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04039 64.93012 0.03 45.0011
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04003 64.93010 0.04 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.03973 64.93009 0.02 45.0011
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04339 64.93063 0.01 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04356 64.93069 0.11 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04524 64.93097 0.12 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04568 64.93111 0.16 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04762 64.93141 0.17 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04772 64.93145 0.21 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04774 64.93150 0.26 90
+OBJECT_SHARED Models/lib/coal_pile.ac -14.04833 64.93153 0.26 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -14.05489 64.93338 0.33 72.86
+OBJECT_SHARED Models/Misc/picnic_table.ac -14.05479 64.93340 1.90 341.24
 # END dsf2stg

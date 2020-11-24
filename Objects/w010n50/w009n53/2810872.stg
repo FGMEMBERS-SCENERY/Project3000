@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -8.81054 53.91345 0.00 275.856
+OBJECT_SHARED Models/Transport/van_silver.ac -8.81053 53.91419 198.68 280.654
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -8.81108 53.91331 198.28 10.5393
+OBJECT_SHARED Models/lib/fboModern1.ac -8.82470 53.91204 198.55 11.4334
+# END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac 29.43226 64.11527 0.00 94.0446
+OBJECT_SHARED Models/lib/cone.ac 29.43197 64.11536 170.30 94.0446
+OBJECT_SHARED Models/lib/cone.ac 29.43169 64.11545 170.28 94.0446
+OBJECT_SHARED Models/lib/cone.ac 29.43203 64.11534 170.30 94.0446
+OBJECT_SHARED Models/lib/cone.ac 29.43174 64.11543 170.33 94.0446
+OBJECT_SHARED Models/lib/cone.ac 29.43146 64.11552 170.30 94.0446
+OBJECT_SHARED Models/lib/stack_of_cones.ac 29.43049 64.11593 170.27 0
+OBJECT_SHARED Models/lib/coal_pile.ac 29.43115 64.11627 170.16 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 29.43135 64.11615 169.89 319.747
+OBJECT_SHARED Models/Transport/hatchback_red.ac 29.43153 64.11610 169.93 320.194
+OBJECT_SHARED Models/lib/office3x10.ac 29.43039 64.11596 169.97 54.5
+OBJECT_SHARED Models/Transport/hatchback_black.ac 29.43160 64.11607 170.13 312.785
+# END dsf2stg

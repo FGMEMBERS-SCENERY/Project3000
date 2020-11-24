@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac 162.69519 56.23866 0.00 87.9545
+OBJECT_SHARED Models/lib/watertank3x1.ac 162.69516 56.23856 18.78 84.2891
+OBJECT_SHARED Models/lib/stack_of_cones.ac 162.69430 56.23717 18.84 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 162.69469 56.23752 19.01 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 162.69470 56.23756 19.46 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 162.69477 56.23745 19.41 92.4896
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 162.69475 56.23774 19.51 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 162.69481 56.23774 19.36 0
+OBJECT_SHARED Models/lib/cars4.ac 162.69437 56.23691 19.36 89.0452
+OBJECT_SHARED Models/lib/shed8x10.ac 162.69728 56.23914 19.14 89.5069
+OBJECT_SHARED Models/lib/transformer3x3.ac 162.69700 56.23910 19.43 0
+OBJECT_SHARED Models/lib/coal_pile.ac 162.69532 56.23793 19.43 354.685
+OBJECT_SHARED Models/Misc/6barrels.ac 162.69576 56.23838 19.26 135.001
+OBJECT_SHARED Models/Misc/6barrels.ac 162.69568 56.23844 19.43 0
+OBJECT_SHARED Models/lib/shed8x10.ac 162.69581 56.23843 19.43 357.861
+OBJECT_SHARED Models/lib/HorizTanks2.ac 162.69791 56.23946 19.43 356
+OBJECT_SHARED Models/lib/HorizTanks2.ac 162.69792 56.23954 19.63 356
+OBJECT_SHARED Models/lib/HorizTanks2.ac 162.69793 56.23963 19.63 356
+OBJECT_SHARED Models/lib/industrial13x24.ac 162.69592 56.23885 19.56 177.709
+# END dsf2stg

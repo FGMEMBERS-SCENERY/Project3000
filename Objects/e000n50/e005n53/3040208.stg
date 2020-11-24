@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/garage-small-white.ac 5.08559 53.29717 2.25 270
-OBJECT_SHARED Models/Transport/hatchback_black.ac 5.08519 53.29705 2.15 179.25
-OBJECT_SHARED Models/Transport/hatchback_black.ac 5.08514 53.29705 2.16 180.6
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 5.08510 53.29678 1.50 180
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 5.08516 53.29678 1.49 180
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml 5.08487 53.29677 1.56 0
+OBJECT_SHARED Models/lib/garage-small-white.ac 5.08559 53.29717 0.00 270
+OBJECT_SHARED Models/Transport/hatchback_red.ac 5.08519 53.29705 2.25 179.25
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 5.08514 53.29705 2.19 180.6
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 5.08510 53.29678 2.21 180
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 5.08516 53.29678 1.56 180
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 5.08487 53.29677 1.53 0
 # END dsf2stg

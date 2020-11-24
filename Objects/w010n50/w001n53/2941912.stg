@@ -1,25 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/FireStationLg.ac -0.99861 53.47872 8.75 163.59
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -0.99593 53.48163 8.25 161.97
-OBJECT_SHARED Models/lib/lamp10m.xml -0.99605 53.48179 8.22 359.14
-OBJECT_SHARED Models/lib/lamp10m.xml -0.99589 53.48129 8.30 218.84
-OBJECT_SHARED Models/lib/lamp10m.xml -0.99848 53.47899 8.71 295.18
-OBJECT_SHARED Models/lib/lamp10m.xml -0.99792 53.47888 8.64 19.72
-OBJECT_SHARED Models/lib/lamp10m.xml -0.99849 53.47859 8.74 209.36
-OBJECT_SHARED Models/lib/lamp10m.xml -0.99855 53.47886 8.73 117.32
-OBJECT_SHARED Models/lib/lamp10m.xml -0.99866 53.47863 8.77 13.88
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.99571 53.48189 8.19 342.1
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.99578 53.48190 8.19 347.69
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.99583 53.48191 8.19 342.58
-OBJECT_SHARED Models/lib/propane-tank.ac -0.99645 53.48191 8.23 24.86
-OBJECT_SHARED Models/lib/propane-tank.ac -0.99646 53.48192 8.23 24.86
-OBJECT_SHARED Models/lib/propane-tank.ac -0.99647 53.48193 8.23 24.86
-OBJECT_SHARED Models/lib/propane-tank.ac -0.99648 53.48194 8.23 24.86
+OBJECT_SHARED Models/lib/FireStationLg.ac -0.99861 53.47872 12.75 163.59
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -0.99593 53.48163 8.75 161.97
+OBJECT_SHARED Models/lib/lamp10m.xml -0.99605 53.48179 8.67 359.14
+OBJECT_SHARED Models/lib/lamp10m.xml -0.99589 53.48129 8.21 218.84
+OBJECT_SHARED Models/lib/lamp10m.xml -0.99848 53.47899 8.27 295.18
+OBJECT_SHARED Models/lib/lamp10m.xml -0.99792 53.47888 8.71 19.72
+OBJECT_SHARED Models/lib/lamp10m.xml -0.99849 53.47859 8.64 209.36
+OBJECT_SHARED Models/lib/lamp10m.xml -0.99855 53.47886 8.74 117.32
+OBJECT_SHARED Models/lib/lamp10m.xml -0.99866 53.47863 8.73 13.88
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.99571 53.48189 8.57 342.1
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.99578 53.48190 8.17 347.69
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.99583 53.48191 8.17 342.58
+OBJECT_SHARED Models/lib/propane-tank.ac -0.99645 53.48191 8.18 24.86
+OBJECT_SHARED Models/lib/propane-tank.ac -0.99646 53.48192 8.22 24.86
+OBJECT_SHARED Models/lib/propane-tank.ac -0.99647 53.48193 8.22 24.86
+OBJECT_SHARED Models/lib/propane-tank.ac -0.99648 53.48194 8.22 24.86
 OBJECT_SHARED Models/lib/propane-tank.ac -0.99649 53.48195 8.22 24.86
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -0.99924 53.47813 8.88 334.92
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -0.99911 53.47830 8.85 334.92
-OBJECT_SHARED Models/lib/cars10.ac -0.99799 53.47895 8.65 161.56
-OBJECT_SHARED Models/lib/cars4.ac -0.99599 53.48193 8.20 251.73
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -0.99924 53.47813 13.78 334.92
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.99911 53.47830 8.88 334.92
+OBJECT_SHARED Models/lib/cars10.ac -0.99799 53.47895 8.85 161.56
+OBJECT_SHARED Models/lib/cars4.ac -0.99599 53.48193 13.11 251.73
 # END dsf2stg

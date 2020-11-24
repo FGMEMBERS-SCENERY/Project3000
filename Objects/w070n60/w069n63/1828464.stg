@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -68.53452 63.75184 0.00 58.7819
+OBJECT_SHARED Models/lib/FireStationLg.ac -68.53709 63.75153 20.08 191.933
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.53697 63.75081 19.99 253.711
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -68.53603 63.75093 19.39 253.365
+OBJECT_SHARED Models/lib/industrial13x24.ac -68.53333 63.75085 19.31 77.415
+OBJECT_SHARED Models/lib/industrial13x24.ac -68.53707 63.75233 18.80 332.703
+OBJECT_SHARED Models/lib/industrial13x24.ac -68.54052 63.75534 20.67 44.3017
+OBJECT_SHARED Models/lib/industrial13x24.ac -68.54712 63.75835 22.67 354.511
+OBJECT_SHARED Models/lib/cars10.ac -68.53619 63.75182 24.09 193.575
+OBJECT_SHARED Models/lib/cars10.ac -68.53679 63.75174 20.18 13.8801
+OBJECT_SHARED Models/lib/MedHangar.ac -68.53818 63.75598 20.14 133.655
+OBJECT_SHARED Models/lib/MedHangar.ac -68.54663 63.75951 23.59 353
+OBJECT_SHARED Models/lib/MedHangar.ac -68.54713 63.75886 25.00 354.862
+OBJECT_SHARED Models/lib/MedHangar.ac -68.53838 63.75419 24.47 43.8238
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -68.53642 63.75123 22.11 103.673
+# END dsf2stg

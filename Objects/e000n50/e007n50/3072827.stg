@@ -1,25 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.89508 50.92750 403.90 203.2
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.89514 50.92751 403.92 202.3
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.89519 50.92752 403.93 202.11
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 7.89308 50.92804 402.75 139.64
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 7.89541 50.92761 403.77 199.54
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89552 50.92741 407.48 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89183 50.92810 402.67 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89327 50.92727 404.09 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89387 50.92709 404.61 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 7.89393 50.92728 404.16 0
-OBJECT_SHARED Models/lib/propane-tank.ac 7.89507 50.92739 404.12 106.7
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.89346 50.92755 403.50 223.03
-OBJECT_SHARED Models/lib/lamp10m.xml 7.89505 50.92743 404.11 23.2
-OBJECT_SHARED Models/lib/lamp10m.xml 7.89351 50.92747 403.69 49.9
-OBJECT_SHARED Models/lib/lamp10m.xml 7.89278 50.92784 403.12 307.3
-OBJECT_SHARED Models/lib/lamp10m.xml 7.89174 50.92821 402.53 315
-OBJECT_SHARED Models/lib/MedHangar.ac 7.89471 50.92740 404.05 293.55
-OBJECT_SHARED Models/lib/MedHangar.ac 7.89256 50.92800 402.76 224.22
-OBJECT_SHARED Models/lib/MedHangar.ac 7.89326 50.92761 403.51 223.97
-OBJECT_SHARED Models/lib/SmHangar.ac 7.89403 50.92728 404.17 291.98
-OBJECT_SHARED Models/lib/SmHangar.ac 7.89514 50.92747 403.92 292.99
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.89508 50.92750 0.00 203.2
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.89514 50.92751 403.89 202.3
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.89519 50.92752 403.90 202.11
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 7.89308 50.92804 403.91 139.64
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 7.89541 50.92761 402.95 199.54
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89552 50.92741 403.75 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89183 50.92810 406.81 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89327 50.92727 403.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.89387 50.92709 404.08 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.89393 50.92728 404.60 0
+OBJECT_SHARED Models/lib/propane-tank.ac 7.89507 50.92739 404.15 106.7
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.89346 50.92755 404.11 223.03
+OBJECT_SHARED Models/lib/lamp10m.xml 7.89505 50.92743 403.54 23.2
+OBJECT_SHARED Models/lib/lamp10m.xml 7.89351 50.92747 404.10 49.9
+OBJECT_SHARED Models/lib/lamp10m.xml 7.89278 50.92784 403.70 307.3
+OBJECT_SHARED Models/lib/lamp10m.xml 7.89174 50.92821 403.30 315
+OBJECT_SHARED Models/lib/MedHangar.ac 7.89471 50.92740 403.22 293.55
+OBJECT_SHARED Models/lib/MedHangar.ac 7.89256 50.92800 404.04 224.22
+OBJECT_SHARED Models/lib/MedHangar.ac 7.89326 50.92761 403.06 223.97
+OBJECT_SHARED Models/lib/SmHangar.ac 7.89403 50.92728 403.57 291.98
+OBJECT_SHARED Models/lib/SmHangar.ac 7.89514 50.92747 404.17 292.99
 # END dsf2stg

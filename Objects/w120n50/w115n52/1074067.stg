@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -114.09838 52.27825 0.00 1.17
+OBJECT_SHARED Models/lib/shed8x10.ac -114.09479 52.27962 979.70 359.82
+OBJECT_SHARED Models/lib/cone.ac -114.09513 52.27968 979.02 58.25
+OBJECT_SHARED Models/lib/stack_of_cones.ac -114.09498 52.27957 979.17 58.25
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -114.09511 52.27970 979.02 0.100006
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -114.09512 52.27957 979.17 58.25
+OBJECT_SHARED Models/Misc/6barrels.ac -114.09492 52.27968 979.02 58.25
+OBJECT_SHARED Models/Misc/6barrels.ac -114.09490 52.27968 979.17 58.25
+OBJECT_SHARED Models/lib/2vending-machines.ac -114.09511 52.27969 979.17 270.45
+OBJECT_SHARED Models/lib/farm19x12.ac -114.09851 52.27766 979.17 0.330002
+OBJECT_SHARED Models/Transport/van_red.ac -114.09482 52.27955 981.40 181.91
+OBJECT_SHARED Models/Transport/hatchback_black.ac -114.09538 52.27932 978.87 239.83
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -114.09545 52.27934 978.57 237.99
+OBJECT_SHARED Models/Transport/Norberttruck.xml -114.09551 52.27955 978.57 222.07
+# END dsf2stg

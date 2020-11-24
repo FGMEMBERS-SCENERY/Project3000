@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -131.62961 55.60047 0.00 335.18
+OBJECT_SHARED Models/lib/shed8x10.ac -131.62928 55.60040 -0.00 62.4263
+OBJECT_SHARED Models/lib/farm19x12.ac -131.62983 55.60019 0.00 101.981
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -131.63000 55.60016 -0.00 191.5
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -131.63011 55.60014 -0.00 307.6
+OBJECT_SHARED Models/lib/dGreenhse.ac -131.62939 55.60004 -0.00 64.4863
+OBJECT_SHARED Models/lib/dGreenhse.ac -131.62936 55.60008 0.00 64.4863
+OBJECT_SHARED Models/lib/office3x10.ac -131.63592 55.60194 0.00 62.7776
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -131.63411 55.60156 0.00 245.87
+OBJECT_SHARED Models/lib/transformer3x3.ac -131.64052 55.60335 0.00 250.325
+# END dsf2stg

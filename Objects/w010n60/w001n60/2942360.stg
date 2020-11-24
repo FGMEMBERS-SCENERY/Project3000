@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -0.92659 60.37901 0.00 174.981
+OBJECT_SHARED Models/lib/stack_of_cones.ac -0.92662 60.37897 20.76 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.92669 60.37896 20.77 82
+OBJECT_SHARED Models/lib/prop_a.ac -0.92673 60.37879 20.79 173
+OBJECT_SHARED Models/lib/garage-small-white.ac -0.92669 60.37901 21.20 172
+# END dsf2stg

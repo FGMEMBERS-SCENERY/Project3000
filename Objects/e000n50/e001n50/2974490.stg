@@ -1,0 +1,40 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 1.59658 50.42087 0.00 243.43
+OBJECT_SHARED Models/Transport/van_red.ac 1.59428 50.42035 8.37 357.51
+OBJECT_SHARED Models/Transport/hatchback_black.ac 1.59434 50.42038 7.37 358.38
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 1.59418 50.42037 7.40 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 1.59423 50.42038 7.33 358.78
+OBJECT_SHARED Models/lib/shed8x10.ac 1.59717 50.42066 7.35 140.19
+OBJECT_SHARED Models/Misc/6barrels.ac 1.59518 50.42041 8.87 0
+OBJECT_SHARED Models/lib/office3x10.ac 1.59448 50.42035 7.83 0
+OBJECT_SHARED Models/lib/industrial15x22.ac 1.59540 50.42040 7.46 90
+OBJECT_SHARED Models/lib/transformer3x3.ac 1.59635 50.42030 7.94 180.5
+OBJECT_SHARED Models/lib/prop_a.ac 1.59631 50.42086 8.55 152.82
+OBJECT_SHARED Models/lib/prop_a.ac 1.59502 50.42075 8.22 278.38
+OBJECT_SHARED Models/lib/prop_a.ac 1.59483 50.42075 7.64 277.85
+OBJECT_SHARED Models/lib/prop_a.ac 1.59459 50.42071 7.51 313.96
+OBJECT_SHARED Models/lib/lamp10m.xml 1.59529 50.42031 7.44 0.919983
+OBJECT_SHARED Models/lib/lamp10m.xml 1.59529 50.42048 7.91 0
+OBJECT_SHARED Models/lib/lamp10m.xml 1.59590 50.42050 7.85 270
+OBJECT_SHARED Models/lib/lamp10m.xml 1.59552 50.42050 8.19 270
+OBJECT_SHARED Models/lib/lamp10m.xml 1.59495 50.42041 7.97 270
+OBJECT_SHARED Models/lib/lamp10m.xml 1.59474 50.42041 7.71 270
+OBJECT_SHARED Models/lib/lamp10m.xml 1.59516 50.42041 7.60 270
+OBJECT_SHARED Models/lib/lamp10m.xml 1.59453 50.42040 7.81 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 1.59757 50.42791 7.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 1.59729 50.42801 9.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 1.59865 50.42748 9.27 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 1.59903 50.42749 8.37 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 1.59855 50.42763 8.45 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 1.59865 50.42753 8.47 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 1.59848 50.42756 8.37 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 1.59827 50.42760 8.49 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.60027 50.42705 8.55 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.59917 50.42743 8.64 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.59830 50.42770 8.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.59812 50.42766 8.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.59812 50.42777 8.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 1.59648 50.42031 8.82 0
+# END dsf2stg

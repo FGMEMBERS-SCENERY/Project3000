@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -124.98448 50.01918 0.00 324.82
+OBJECT_SHARED Models/lib/stack_of_cones.ac -124.98468 50.01905 41.39 324.82
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -124.98445 50.01917 50.16 266.67
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -124.98467 50.01919 41.39 324.82
+OBJECT_SHARED Models/Misc/6barrels.ac -124.98451 50.01899 50.47 324.82
+OBJECT_SHARED Models/Misc/6barrels.ac -124.98451 50.01897 50.16 324.82
+OBJECT_SHARED Models/lib/2vending-machines.ac -124.98447 50.01917 50.16 177.02
+OBJECT_SHARED Models/lib/industrial13x24.ac -124.98517 50.02900 41.39 82.47
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -124.98429 50.02910 -30.07 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -124.98478 50.02903 -35.02 180
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -124.98439 50.02889 -30.07 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -124.98423 50.02898 -35.31 180
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -124.98448 50.02917 -35.16 0
+# END dsf2stg

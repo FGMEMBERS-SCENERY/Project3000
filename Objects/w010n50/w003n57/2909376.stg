@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -2.84424 57.07508 0.00 94.33
+OBJECT_SHARED Models/lib/office3x10.ac -2.84305 57.07346 142.74 329.48
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -2.84431 57.07403 142.07 197.56
+OBJECT_SHARED Models/Transport/hatchback_black.ac -2.84428 57.07406 142.21 200.92
+OBJECT_SHARED Models/Transport/hatchback_red.ac -2.84311 57.07537 142.23 268.49
+OBJECT_SHARED Models/Transport/van_red.ac -2.84359 57.07541 142.55 200.56
+OBJECT_SHARED Models/Transport/hatchback_black.ac -2.84350 57.07541 142.75 214.16
+OBJECT_SHARED Models/Transport/hatchback_black.ac -2.84338 57.07545 142.71 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -2.84337 57.07551 142.75 287.1
+OBJECT_SHARED Models/Transport/van_red.ac -2.84342 57.07554 142.75 344.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac -2.84349 57.07553 142.77 181.74
+OBJECT_SHARED Models/lib/MedHangar.ac -2.84439 57.07391 142.81 300.9
+OBJECT_SHARED Models/lib/shed8x10.ac -2.84368 57.07391 142.18 300.96
+OBJECT_SHARED Models/lib/shed8x10.ac -2.84380 57.07402 142.21 300.65
+# END dsf2stg

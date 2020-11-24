@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -125.13767 50.41008 0.00 202.67
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -125.13995 50.41094 74.22 250.74
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -125.13990 50.41186 8.32 353
+OBJECT_SHARED Models/lib/cone.ac -125.13516 50.40972 0.00 310.89
+OBJECT_SHARED Models/lib/stack_of_cones.ac -125.13553 50.40967 101.96 310.89
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -125.13512 50.40970 98.67 252.74
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -125.13549 50.40978 101.96 310.89
+OBJECT_SHARED Models/Misc/6barrels.ac -125.13525 50.40957 100.27 310.89
+OBJECT_SHARED Models/Misc/6barrels.ac -125.13526 50.40955 103.64 310.89
+OBJECT_SHARED Models/lib/2vending-machines.ac -125.13515 50.40971 103.64 163.09
+# END dsf2stg

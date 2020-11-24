@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -0.36661 53.89894 0.00 153.68
+OBJECT_SHARED Models/lib/prop_a.ac -0.36711 53.89909 -0.17 153.68
+OBJECT_SHARED Models/lib/prop_a.ac -0.36603 53.89871 -0.09 243.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.36194 53.89712 -0.19 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.36234 53.89720 -0.94 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.36284 53.89730 -0.85 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.36491 53.89773 -0.73 0
+OBJECT_SHARED Models/lib/schranke.ac -0.36551 53.89823 -0.37 63.82
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.36604 53.89812 -0.27 338.89
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.36579 53.89829 -0.30 333.43
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.36583 53.89830 -0.25 333.43
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.36587 53.89831 -0.25 333.43
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.36595 53.89814 -0.25 333.43
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.36597 53.89812 -0.30 333.43
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.36598 53.89815 -0.30 333.43
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.36601 53.89813 -0.28 333.43
+OBJECT_SHARED Models/lib/cars2.ac -0.36556 53.89794 -0.30 243.94
+OBJECT_SHARED Models/lib/cars10.ac -0.36592 53.89797 -0.32 66.77
+OBJECT_SHARED Models/lib/cars10.ac -0.36535 53.89819 -0.32 244.47
+OBJECT_SHARED Models/lib/HorizTanks2.ac -0.36603 53.89838 -0.27 243.42
+# END dsf2stg

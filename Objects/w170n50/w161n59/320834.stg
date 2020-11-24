@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -160.39301 59.05281 0.00 317.4
+OBJECT_SHARED Models/lib/shed8x10.ac -160.39472 59.05164 0.75 319.46
+OBJECT_SHARED Models/lib/industrial13x24.ac -160.39500 59.05145 0.70 232.6
+OBJECT_SHARED Models/lib/container6-HD.ac -160.39334 59.05185 0.68 323.13
+OBJECT_SHARED Models/lib/container6-HD.ac -160.39343 59.05179 0.64 323.13
+OBJECT_SHARED Models/lib/container6-HD.ac -160.39352 59.05175 0.64 307.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac -160.39403 59.05318 0.66 265.91
+OBJECT_SHARED Models/Transport/hatchback_black.ac -160.39376 59.05226 0.85 42.27
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -160.39335 59.05247 0.73 322.43
+OBJECT_SHARED Models/Transport/van_red.ac -160.39340 59.05249 0.70 319.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac -160.39350 59.05252 0.70 317.49
+OBJECT_SHARED Models/Transport/van_silver.ac -160.39358 59.05261 0.70 315
+OBJECT_SHARED Models/lib/office4x14.ac -160.39530 59.05140 0.77 322.52
+OBJECT_SHARED Models/Misc/6barrels.ac -160.39369 59.05199 0.66 0
+OBJECT_SHARED Models/Misc/6barrels.ac -160.39366 59.05197 0.69 291.8
+OBJECT_SHARED Models/Misc/6barrels.ac -160.39370 59.05196 0.69 333.44
+OBJECT_SHARED Models/Misc/6barrels.ac -160.39366 59.05194 0.69 69.44
+OBJECT_SHARED Models/Misc/6barrels.ac -160.39365 59.05199 0.68 158.2
+OBJECT_SHARED Models/lib/watertank3x1.ac -160.39527 59.05147 0.69 315
+OBJECT_SHARED Models/lib/propane-tank.ac -160.39415 59.05173 0.68 53.47
+OBJECT_SHARED Models/lib/propane-tank.ac -160.39408 59.05160 0.65 290.85
+OBJECT_SHARED Models/lib/propane-tank.ac -160.39415 59.05158 0.79 291.8
+OBJECT_SHARED Models/lib/propane-tank.ac -160.39455 59.05161 0.79 46.98
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -160.39392 59.05182 0.70 232.43
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -160.39346 59.05257 0.66 120.96
+OBJECT_SHARED Models/lib/trailer-fedex.ac -160.39301 59.05205 0.71 229.09
+OBJECT_SHARED Models/lib/prop_a.ac -160.39343 59.05273 0.65 177.09
+OBJECT_SHARED Models/lib/prop_a.ac -160.39436 59.05313 0.73 77.74
+OBJECT_SHARED Models/lib/prop_a.ac -160.39478 59.05280 0.83 320.19
+OBJECT_SHARED Models/lib/prop_a.ac -160.39488 59.05186 0.85 90
+OBJECT_SHARED Models/lib/shed8x10.ac -160.39239 59.05215 0.74 308.16
+OBJECT_SHARED Models/lib/shed8x10.ac -160.39144 59.05251 0.50 47.05
+OBJECT_SHARED Models/Airport/cargoip.xml -160.39302 59.05242 0.18 26.5641
+OBJECT_SHARED Models/Airport/cargoip.xml -160.39296 59.05241 0.69 315.001
+OBJECT_SHARED Models/Airport/cargoip.xml -160.39298 59.05238 0.69 206.564
+OBJECT_SHARED Models/Airport/cargoip.xml -160.39301 59.05240 0.69 0
+OBJECT_SHARED Models/Airport/cargoip.xml -160.39304 59.05238 0.69 321.341
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -160.39347 59.05259 0.69 341.566
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -160.39473 59.05171 0.71 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -160.39453 59.05195 0.72 108.435
+# END dsf2stg

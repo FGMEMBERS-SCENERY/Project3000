@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -70.00334 60.02378 0.00 259.46
+OBJECT_SHARED Models/Transport/van_silver.ac -70.00333 60.02380 110.41 260.79
+OBJECT_SHARED Models/Transport/van_silver.ac -70.00332 60.02383 110.41 258.37
+OBJECT_SHARED Models/lib/lamp10m.xml -70.00311 60.02363 110.41 168.33
+OBJECT_SHARED Models/lib/lamp10m.xml -70.00320 60.02338 110.62 210.86
+# END dsf2stg

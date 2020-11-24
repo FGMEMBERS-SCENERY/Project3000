@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office40x25.ac 12.15395 57.98250 36.46 133.27
-OBJECT_SHARED Models/lib/LongRow.ac 12.15241 57.98036 29.99 74.47
-OBJECT_SHARED Models/lib/MedHangar.ac 12.14709 57.98090 49.80 285.13
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 12.14705 57.98094 49.84 159.445
+OBJECT_SHARED Models/lib/office40x25.ac 12.15395 57.98250 0.00 133.27
+OBJECT_SHARED Models/lib/LongRow.ac 12.15241 57.98036 36.46 74.47
+OBJECT_SHARED Models/lib/MedHangar.ac 12.14709 57.98090 29.56 285.13
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 12.14705 57.98094 49.80 159.445
 # END dsf2stg

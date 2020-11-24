@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac 12.30433 55.26091 0.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac 12.30425 55.26089 10.90 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.30422 55.26094 10.90 22.69
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.30397 55.26068 10.91 116.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.30384 55.26065 10.81 293.03
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 12.30392 55.26074 10.77 114.96
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 12.30382 55.26068 10.82 287.65
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 12.30390 55.26078 10.81 113.84
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 12.30375 55.26077 10.86 290.85
+OBJECT_SHARED Models/Transport/van_red.ac 12.30387 55.26082 10.85 290.14
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 12.30385 55.26085 10.86 112.57
+# END dsf2stg

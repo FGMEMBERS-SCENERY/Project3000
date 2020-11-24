@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -58.45194 54.17882 0.00 356.19
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -58.45184 54.17881 56.01 7.12
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -58.45125 54.17890 56.02 9.37
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -58.45139 54.17881 55.87 136.03
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -58.45160 54.17876 56.04 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -58.45164 54.17876 56.02 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -58.45107 54.17880 56.02 204.51
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -58.45114 54.17877 56.02 116.75
+OBJECT_SHARED Models/lib/cone.ac -58.45160 54.17917 56.02 0
+# END dsf2stg

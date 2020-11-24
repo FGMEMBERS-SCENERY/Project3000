@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml -151.18446 61.96494 0.00 0
+OBJECT_SHARED Models/Airport/cargobox.xml -151.18449 61.96495 46.07 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -151.18411 61.96498 46.07 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -151.18450 61.96501 46.06 0
+OBJECT_SHARED Models/lib/prop_a.ac -151.18370 61.96482 46.07 239.54
+OBJECT_SHARED Models/lib/prop_a.ac -151.18348 61.96469 46.07 199.44
+OBJECT_SHARED Models/lib/prop_a.ac -151.18519 61.96510 46.07 311.42
+OBJECT_SHARED Models/lib/industrial13x24.ac -151.18439 61.96493 46.07 59.41
+# END dsf2stg

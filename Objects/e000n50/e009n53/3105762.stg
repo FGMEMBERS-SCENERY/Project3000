@@ -1,19 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.50246 53.55961 19.43 341.57
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.50237 53.55963 19.39 340.15
-OBJECT_SHARED Models/lib/lamp10m.xml 9.50255 53.55959 19.46 71.92
-OBJECT_SHARED Models/lib/lamp10m.xml 9.50064 53.55996 18.93 163.91
-OBJECT_SHARED Models/lib/lamp10m.xml 9.50176 53.55939 19.02 72.03
-OBJECT_SHARED Models/lib/lamp10m.xml 9.50188 53.55960 19.19 70.5
-OBJECT_SHARED Models/lib/cars4.ac 9.50211 53.55943 19.18 74.05
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.50216 53.55911 19.11 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.50294 53.55941 19.96 0
-OBJECT_SHARED Models/lib/propane-tank.ac 9.50195 53.55939 19.11 343.74
-OBJECT_SHARED Models/Misc/picnic_table.ac 9.50230 53.55964 19.36 339.44
-OBJECT_SHARED Models/lib/large-hangar.ac 9.50096 53.55910 18.46 73.68
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.50059 53.55989 18.83 157.93
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 9.50036 53.56007 18.88 158.46
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 9.50009 53.56014 18.76 157.48
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.50246 53.55961 0.00 341.57
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.50237 53.55963 19.44 340.15
+OBJECT_SHARED Models/lib/lamp10m.xml 9.50255 53.55959 19.41 71.92
+OBJECT_SHARED Models/lib/lamp10m.xml 9.50064 53.55996 18.44 163.91
+OBJECT_SHARED Models/lib/lamp10m.xml 9.50176 53.55939 18.93 72.03
+OBJECT_SHARED Models/lib/lamp10m.xml 9.50188 53.55960 19.04 70.5
+OBJECT_SHARED Models/lib/cars4.ac 9.50211 53.55943 19.21 74.05
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.50216 53.55911 19.24 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 9.50294 53.55941 19.13 0
+OBJECT_SHARED Models/lib/propane-tank.ac 9.50195 53.55939 19.99 343.74
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.50230 53.55964 19.15 339.44
+OBJECT_SHARED Models/lib/large-hangar.ac 9.50096 53.55910 19.39 73.68
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 9.50059 53.55989 18.41 157.93
+OBJECT_SHARED Models/Aircraft/Cessna172.ac 9.50036 53.56007 18.83 158.46
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 9.50009 53.56014 18.88 157.48
 # END dsf2stg

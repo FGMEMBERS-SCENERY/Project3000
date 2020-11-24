@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -60.66952 50.25784 0.00 177.337
+OBJECT_SHARED Models/Transport/van_red.ac -60.66948 50.25784 16.78 356.074
+OBJECT_SHARED Models/Transport/hatchback_black.ac -60.66944 50.25784 16.78 357.483
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -60.66940 50.25784 16.80 356.634
+OBJECT_SHARED Models/lib/6space_wStop.ac -60.66954 50.25787 16.80 86.8934
+OBJECT_SHARED Models/lib/lamp10m.xml -60.66843 50.25771 16.91 72.3322
+OBJECT_SHARED Models/lib/lamp10m.xml -60.66936 50.25773 16.83 328.8
+OBJECT_SHARED Models/lib/lamp10m.xml -60.66984 50.25775 16.67 358.29
+OBJECT_SHARED Models/lib/lamp10m.xml -60.66819 50.25786 16.73 267.791
+OBJECT_SHARED Models/lib/lamp10m.xml -60.66864 50.25799 17.12 -60.7248
+OBJECT_SHARED Models/lib/lamp10m.xml -60.66964 50.25804 17.18 214.796
+# END dsf2stg

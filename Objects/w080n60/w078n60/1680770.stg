@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -77.27781 60.04340 0.00 100.62
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -77.27782 60.04342 9.12 100.71
+OBJECT_SHARED Models/Transport/hatchback_black.ac -77.27784 60.04345 9.12 278.46
+OBJECT_SHARED Models/Transport/hatchback_green.ac -77.27790 60.04360 9.12 104.47
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -77.27794 60.04368 9.06 110.07
+OBJECT_SHARED Models/Transport/van_silver.ac -77.27790 60.04365 9.02 100.01
+OBJECT_SHARED Models/Transport/van_silver.ac -77.27801 60.04364 9.02 278.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac -77.27791 60.04341 9.06 282.72
+OBJECT_SHARED Models/Transport/hatchback_red.ac -77.27792 60.04344 9.13 277.25
+OBJECT_SHARED Models/Transport/hatchback_black.ac -77.27799 60.04359 9.13 281.98
+OBJECT_SHARED Models/Transport/van_silver.ac -77.27784 60.04347 9.06 98.43
+OBJECT_SHARED Models/Transport/van_red.ac -77.27786 60.04350 9.09 279.82
+OBJECT_SHARED Models/Transport/van_silver.ac -77.27787 60.04352 9.10 102.99
+OBJECT_SHARED Models/Transport/hatchback_black.ac -77.27787 60.04355 9.10 100.69
+OBJECT_SHARED Models/Transport/hatchback_red.ac -77.27794 60.04349 9.06 280.44
+OBJECT_SHARED Models/Transport/hatchback_black.ac -77.27796 60.04351 9.10 280.71
+OBJECT_SHARED Models/Transport/van_red.ac -77.27796 60.04354 9.11 281.69
+OBJECT_SHARED Models/Transport/van_red.ac -77.27797 60.04356 9.11 277.7
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -77.27791 60.04352 9.06 12.15
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.27835 60.04407 9.10 186.06
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.27919 60.04431 8.90 205.5
+OBJECT_SHARED Models/lib/MedHangar.ac -77.28055 60.04403 8.85 101.83
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.27870 60.04217 8.83 279.78
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -77.27794 60.04347 9.65 282.8
+OBJECT_SHARED Models/lib/lamp10m.xml -77.27779 60.04326 9.10 -77.98
+OBJECT_SHARED Models/lib/lamp10m.xml -77.27802 60.04378 9.16 103.13
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.27839 60.04218 8.98 88.71
+OBJECT_SHARED Models/lib/lamp10m.xml -77.27841 60.04367 9.64 0.299988
+# END dsf2stg

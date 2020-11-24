@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 14.08283 55.92647 0.00 30.6505
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 14.08337 55.92458 0.00 221.422
-OBJECT_SHARED Models/Aircraft/B1900_services.xml 14.08227 55.92311 0.24 137.118
-OBJECT_SHARED Models/lib/industrial13x24.ac 14.08258 55.92645 0.00 270
-OBJECT_SHARED Models/lib/MedHangar.ac 14.08284 55.92652 0.00 90
-OBJECT_SHARED Models/lib/cube16x10.ac 14.08052 55.92320 0.00 359.384
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 14.08185 55.92433 0.00 180
-OBJECT_SHARED Models/lib/SmHangar.ac 14.08083 55.92318 0.00 90
-OBJECT_SHARED Models/lib/office32x25n.ac 14.08275 55.92531 0.00 90
-OBJECT_SHARED Models/lib/office65x50.ac 14.08088 55.92374 -0.00 0
-OBJECT_SHARED Models/lib/fboModern1.ac 14.08286 55.92470 -0.00 90
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 14.08283 55.92647 0.00 30.6505
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 14.08337 55.92458 22.73 221.422
+OBJECT_SHARED Models/Aircraft/B1900_services.xml 14.08227 55.92311 22.19 137.118
+OBJECT_SHARED Models/lib/industrial13x24.ac 14.08258 55.92645 22.86 270
+OBJECT_SHARED Models/lib/MedHangar.ac 14.08284 55.92652 22.86 90
+OBJECT_SHARED Models/lib/cube16x10.ac 14.08052 55.92320 22.73 359.384
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 14.08185 55.92433 23.68 180
+OBJECT_SHARED Models/lib/SmHangar.ac 14.08083 55.92318 23.23 90
+OBJECT_SHARED Models/lib/office32x25n.ac 14.08275 55.92531 23.58 90
+OBJECT_SHARED Models/lib/office65x50.ac 14.08088 55.92374 22.72 0
+OBJECT_SHARED Models/lib/fboModern1.ac 14.08286 55.92470 23.59 90
 # END dsf2stg

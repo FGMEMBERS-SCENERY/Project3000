@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -98.91454 56.78600 0.00 270
+OBJECT_SHARED Models/lib/garage-small-white.ac -98.91786 56.78552 265.24 282.72
+OBJECT_SHARED Models/lib/farm19x12.ac -98.91790 56.78396 264.24 45
+OBJECT_SHARED Models/lib/farm19x12.ac -98.91754 56.78415 258.99 45
+OBJECT_SHARED Models/lib/farm19x12.ac -98.91704 56.78442 259.74 42.8
+OBJECT_SHARED Models/lib/farm19x12.ac -98.91649 56.78465 260.72 38.48
+OBJECT_SHARED Models/lib/shed8x10.ac -98.90830 56.79514 261.70 330.96
+OBJECT_SHARED Models/lib/shed8x10.ac -98.90857 56.79475 270.69 346.76
+OBJECT_SHARED Models/lib/admin31x12.ac -98.90874 56.79446 270.29 167.91
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.90840 56.79507 270.07 244.95
+# END dsf2stg

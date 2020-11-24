@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac 124.76055 55.28245 0.00 202.93
+OBJECT_SHARED Models/Transport/hatchback_black.ac 124.76718 55.28366 607.74 284.38
+OBJECT_SHARED Models/lib/office4x14.ac 124.76684 55.28360 599.23 296.57
+OBJECT_SHARED Models/lib/shed8x10.ac 124.76692 55.28349 599.82 26.84
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 124.77296 55.28421 505.41 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 124.77335 55.28429 505.62 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac 124.77267 55.28466 600.54 210
+OBJECT_SHARED Models/lib/HorizTanks2.ac 124.77274 55.28458 600.19 210
+OBJECT_SHARED Models/lib/HorizTanks2.ac 124.77282 55.28450 600.31 210
+OBJECT_SHARED Models/lib/HorizTanks2.ac 124.77291 55.28442 600.40 210
+OBJECT_SHARED Models/lib/HorizTanks2.ac 124.77291 55.28461 600.47 29.3
+OBJECT_SHARED Models/lib/HorizTanks2.ac 124.77300 55.28454 600.31 29.3
+OBJECT_SHARED Models/lib/HorizTanks2.ac 124.77307 55.28447 600.40 29.3
+# END dsf2stg

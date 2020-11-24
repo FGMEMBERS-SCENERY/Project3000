@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -6.20758 54.84800 0.00 226.26
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.20808 54.84797 151.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.20942 54.84879 148.41 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.20810 54.84810 142.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.20868 54.84842 148.34 0
+OBJECT_SHARED Models/lib/shed8x10.ac -6.20791 54.84818 145.15 45.76
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.20889 54.84836 149.46 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.20949 54.84871 143.95 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -6.20737 54.84830 142.41 0
+OBJECT_SHARED Models/lib/prop_a.ac -6.20737 54.84857 152.58 311.63
+OBJECT_SHARED Models/lib/shed8x10.ac -6.20772 54.84809 152.69 134.47
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.20929 54.84839 150.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -6.20910 54.84905 142.57 0
+OBJECT_SHARED Models/lib/cone.ac -6.20741 54.84829 143.03 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -6.20780 54.84830 152.35 331.75
+OBJECT_SHARED Models/lib/shed8x10.ac -6.20750 54.84805 150.12 226.26
+# END dsf2stg

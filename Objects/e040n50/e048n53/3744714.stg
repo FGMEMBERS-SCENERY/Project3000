@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 48.54957 53.22379 0.00 181.63
+OBJECT_SHARED Models/lib/transformer3x3.ac 48.54680 53.22370 104.06 91.44
+OBJECT_SHARED Models/lib/lamp10m.xml 48.53476 53.21791 101.06 333.44
+OBJECT_SHARED Models/lib/lamp10m.xml 48.53972 53.21824 104.74 333.44
+OBJECT_SHARED Models/lib/lamp10m.xml 48.54415 53.22204 104.42 333.44
+OBJECT_SHARED Models/lib/lamp10m.xml 48.54974 53.22216 102.96 333.44
+OBJECT_SHARED Models/lib/lamp10m.xml 48.54071 53.21834 103.05 333.44
+OBJECT_SHARED Models/lib/stack_of_cones.ac 48.53879 53.21991 104.45 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 48.53866 53.21991 107.99 267.8
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 48.53883 53.21974 107.99 268.63
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 48.53892 53.21975 107.57 183.18
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 48.54931 53.22405 107.79 270.61
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 48.54957 53.22394 103.95 181.12
+OBJECT_SHARED Models/lib/transformer3x3.ac 48.54583 53.22185 104.13 2.70001
+OBJECT_SHARED Models/lib/transformer3x3.ac 48.54624 53.22174 100.88 271.09
+OBJECT_SHARED Models/lib/cars10.ac 48.54578 53.22150 100.21 91.86
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 48.53542 53.21787 100.83 1.26
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 48.53446 53.21860 104.13 89.92
+OBJECT_SHARED Models/lib/MedHangar.ac 48.53440 53.21826 105.48 184.12
+# END dsf2stg

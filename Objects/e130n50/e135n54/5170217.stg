@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 135.28470 54.69755 0.00 217.45
+OBJECT_SHARED Models/lib/stack_of_cones.ac 135.28399 54.69713 2.63 185.711
+OBJECT_SHARED Models/lib/stack_of_cones.ac 135.28381 54.69705 2.74 172.405
+OBJECT_SHARED Models/lib/coal_pile.ac 135.28462 54.69748 2.77 90
+OBJECT_SHARED Models/lib/coal_pile.ac 135.28451 54.69745 2.63 90
+OBJECT_SHARED Models/lib/coal_pile.ac 135.28443 54.69742 2.63 90
+OBJECT_SHARED Models/lib/coal_pile.ac 135.28450 54.69738 2.65 90
+OBJECT_SHARED Models/lib/coal_pile.ac 135.28460 54.69745 2.65 90
+OBJECT_SHARED Models/lib/coal_pile.ac 135.28454 54.69742 2.67 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 135.28280 54.69651 2.67 129.235
+OBJECT_SHARED Models/lib/transformer3x3.ac 135.28315 54.69681 2.74 131.82
+OBJECT_SHARED Models/lib/cars2.ac 135.28340 54.69700 2.65 129.58
+OBJECT_SHARED Models/lib/cars4.ac 135.28325 54.69673 2.58 310.17
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 135.28351 54.69731 2.68 205.28
+OBJECT_SHARED Models/Transport/van_red.ac 135.28401 54.69739 2.68 110.294
+OBJECT_SHARED Models/Transport/hatchback_black.ac 135.28354 54.69701 2.65 210.62
+OBJECT_SHARED Models/lib/office4x14.ac 135.28290 54.69694 2.77 215.99
+OBJECT_SHARED Models/lib/office3x10.ac 135.28274 54.69689 2.62 124.51
+OBJECT_SHARED Models/lib/shed8x10.ac 135.28355 54.69737 2.62 313.51
+# END dsf2stg

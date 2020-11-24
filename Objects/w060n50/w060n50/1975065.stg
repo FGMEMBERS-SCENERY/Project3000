@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -59.64246 50.46335 0.00 216.05
+OBJECT_SHARED Models/lib/SmHangar.ac -59.64330 50.46338 0.29 296.71
+OBJECT_SHARED Models/lib/HorizTanks2.ac -59.64411 50.46396 0.32 120.59
+OBJECT_SHARED Models/Airport/cargoip.xml -59.64430 50.46347 0.56 288.44
+OBJECT_SHARED Models/Airport/cargobox.xml -59.64428 50.46345 0.34 294.44
+OBJECT_SHARED Models/Airport/cargobox.xml -59.64430 50.46344 0.31 289.98
+OBJECT_SHARED Models/lib/container6-HD.ac -59.64424 50.46341 0.31 290.56
+OBJECT_SHARED Models/lib/propane-tank.ac -59.64381 50.46439 0.31 354.51
+OBJECT_SHARED Models/lib/lamp10m.xml -59.64183 50.46380 0.76 218.33
+OBJECT_SHARED Models/lib/lamp10m.xml -59.64244 50.46352 0.56 218.78
+OBJECT_SHARED Models/lib/lamp10m.xml -59.64295 50.46328 0.39 214.69
+OBJECT_SHARED Models/lib/lamp10m.xml -59.64284 50.46353 0.29 -60.11
+OBJECT_SHARED Models/lib/lamp10m.xml -59.64308 50.46341 0.38 -45.9
+OBJECT_SHARED Models/lib/trailer-fedex.ac -59.64284 50.46403 0.33 35.13
+OBJECT_SHARED Models/lib/trailer-fedex.ac -59.64288 50.46406 0.63 35.13
+OBJECT_SHARED Models/lib/trailer-fedex.ac -59.64291 50.46409 0.67 35.13
+OBJECT_SHARED Models/lib/office6x12.ac -59.64348 50.46332 0.67 26.16
+# END dsf2stg

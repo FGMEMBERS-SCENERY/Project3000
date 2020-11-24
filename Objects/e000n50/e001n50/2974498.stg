@@ -1,0 +1,55 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac 1.62155 50.51463 0.00 94.9026
+OBJECT_SHARED Models/lib/4_spaces_dual.ac 1.61735 50.51443 3.97 185.403
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 1.61777 50.51445 7.78 95.1526
+OBJECT_SHARED Models/lib/1space_dual.ac 1.61817 50.51429 7.39 5.05263
+OBJECT_SHARED Models/lib/4_spaces_dual.ac 1.61817 50.51429 7.11 185.283
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 1.61760 50.51426 7.11 94.8926
+OBJECT_SHARED Models/lib/1space_dual.ac 1.61734 50.51393 7.63 185.023
+OBJECT_SHARED Models/lib/2_spaces_dual.ac 1.61734 50.51393 8.20 4.85263
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 1.61784 50.51396 8.20 274.863
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 1.61931 50.51361 7.65 359.913
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 1.61925 50.51335 6.66 359.913
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 1.61923 50.51348 6.96 359.913
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 1.61920 50.51360 6.82 359.913
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 1.61918 50.51372 6.76 359.913
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 1.61916 50.51384 6.69 359.913
+OBJECT_SHARED Models/Transport/hatchback_black.ac 1.61871 50.51488 6.63 359.133
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 1.61858 50.51488 6.14 9.04263
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 1.61845 50.51487 6.25 358.383
+OBJECT_SHARED Models/Transport/hatchback_red.ac 1.61838 50.51487 6.37 15.2626
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 1.61805 50.51670 6.43 264.383
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 1.61805 50.51674 5.27 263.683
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 1.61805 50.51676 5.27 269.913
+OBJECT_SHARED Models/Transport/van_red.ac 1.61806 50.51678 5.18 272.823
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 1.61765 50.51693 5.18 193.543
+OBJECT_SHARED Models/Transport/van_silver.ac 1.61760 50.51693 5.41 188.613
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 1.61755 50.51694 5.45 185.103
+OBJECT_SHARED Models/Transport/hatchback_red.ac 1.61750 50.51695 5.49 178.083
+OBJECT_SHARED Models/Transport/hatchback_green.ac 1.61744 50.51694 5.45 179.913
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 1.61780 50.51655 5.58 60.2626
+OBJECT_SHARED Models/Transport/hatchback_black.ac 1.61779 50.51657 5.63 242.713
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 1.61779 50.51662 5.56 246.713
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 1.61778 50.51673 5.56 64.3126
+OBJECT_SHARED Models/lib/prop_a.ac 1.61949 50.51550 5.48 276.674
+OBJECT_SHARED Models/lib/prop_a.ac 1.62003 50.51482 5.02 276.674
+OBJECT_SHARED Models/lib/prop_a.ac 1.61979 50.51504 5.09 276.674
+OBJECT_SHARED Models/lib/prop_a.ac 1.62020 50.51530 5.15 276.674
+OBJECT_SHARED Models/Transport/Norberttruck.xml 1.62224 50.51099 4.58 74.176
+OBJECT_SHARED Models/Transport/Norberttruck.xml 1.61968 50.51081 7.06 201.079
+OBJECT_SHARED Models/Transport/Norberttruck.xml 1.62096 50.51152 6.55 19.4917
+OBJECT_SHARED Models/Transport/Norberttruck.xml 1.62428 50.51248 3.21 62.2483
+OBJECT_SHARED Models/Transport/Norberttruck.xml 1.62591 50.51161 3.73 29.5563
+OBJECT_SHARED Models/Transport/Norberttruck.xml 1.62425 50.51159 4.62 171.205
+OBJECT_SHARED Models/Transport/Norberttruck.xml 1.62254 50.51207 5.05 84.931
+OBJECT_SHARED Models/Transport/Norberttruck.xml 1.62345 50.51237 4.90 165.876
+OBJECT_SHARED Models/Transport/Norberttruck.xml 1.62319 50.51254 4.27 31.9645
+OBJECT_SHARED Models/lib/cars10.ac 1.62162 50.51187 4.73 25.0601
+OBJECT_SHARED Models/lib/cars10.ac 1.62393 50.51229 3.33 252.644
+OBJECT_SHARED Models/lib/cars10.ac 1.62366 50.51267 4.06 346.746
+OBJECT_SHARED Models/lib/cars10.ac 1.62202 50.51199 3.96 25.2833
+OBJECT_SHARED Models/lib/cars10.ac 1.62264 50.51125 4.05 345.503
+OBJECT_SHARED Models/lib/cars10.ac 1.62087 50.51104 6.78 23.3093
+# END dsf2stg

@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -126.60976 50.71238 0.00 201.045
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -126.60185 50.69464 -0.00 154.397
+OBJECT_SHARED Models/lib/shed8x10.ac -126.60055 50.69672 0.00 229.529
+OBJECT_SHARED Models/lib/shed8x10.ac -126.60114 50.69617 0.00 288.435
+OBJECT_SHARED Models/lib/farm19x12.ac -126.59996 50.69479 0.00 90
+OBJECT_SHARED Models/lib/farm19x12.ac -126.59990 50.69505 2.93 283.298
+OBJECT_SHARED Models/lib/2container-office.ac -126.60018 50.69553 4.32 245.273
+OBJECT_SHARED Models/lib/2container-office.ac -126.60026 50.69563 6.67 245.739
+OBJECT_SHARED Models/lib/industrial13x24.ac -126.60041 50.69626 7.24 277.471
+OBJECT_SHARED Models/lib/shed8x10.ac -126.60063 50.69557 8.88 358.409
+OBJECT_SHARED Models/lib/shed8x10.ac -126.60042 50.69655 0.00 243.594
+# END dsf2stg

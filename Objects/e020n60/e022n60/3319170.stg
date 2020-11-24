@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 22.51701 60.08691 15.14 226.27
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 22.51701 60.08669 15.50 133.99
-OBJECT_SHARED Models/lib/industrial13x24.ac 22.51703 60.08697 15.47 134.55
-OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51678 60.08684 15.14 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51725 60.08656 16.01 75.96
-OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51731 60.08653 16.17 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51738 60.08650 16.17 320.53
-OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51674 60.08716 16.76 279.46
-OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51678 60.08720 16.60 42.51
-OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51686 60.08717 16.37 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51662 60.08711 16.54 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 22.51732 60.08695 15.07 282.8
-OBJECT_SHARED Models/lib/deciduous-tree.xml 22.51722 60.08700 15.00 333.43
+OBJECT_SHARED Models/Transport/van_red.ac 22.51701 60.08691 0.00 226.27
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 22.51701 60.08669 16.02 133.99
+OBJECT_SHARED Models/lib/industrial13x24.ac 22.51703 60.08697 16.21 134.55
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51678 60.08684 15.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51725 60.08656 16.14 75.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51731 60.08653 16.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51738 60.08650 16.57 320.53
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51674 60.08716 16.51 279.46
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51678 60.08720 15.06 42.51
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51686 60.08717 15.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.51662 60.08711 15.06 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 22.51732 60.08695 15.10 282.8
+OBJECT_SHARED Models/lib/deciduous-tree.xml 22.51722 60.08700 15.93 333.43
 # END dsf2stg

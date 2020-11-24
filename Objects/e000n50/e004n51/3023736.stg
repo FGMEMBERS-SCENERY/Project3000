@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 4.09089 51.95932 0.00 318.01
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 4.09083 51.95933 4.52 318.01
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 4.09077 51.95934 4.51 318.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml 4.09054 51.95931 5.00 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 4.09043 51.95935 4.86 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 4.09032 51.95938 4.76 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 4.09046 51.95921 4.48 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 4.09034 51.95925 4.97 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 4.09023 51.95928 4.86 0
+OBJECT_SHARED Models/lib/SmHangar.ac 4.09067 51.95908 4.08 258.28
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 4.08983 51.95957 5.27 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 4.09003 51.95951 3.48 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 4.09023 51.95945 3.95 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 4.09021 51.95942 4.40 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 4.09012 51.95932 4.38 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 4.09004 51.95921 4.47 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 4.08984 51.95928 4.57 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 4.08964 51.95934 4.11 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 4.08973 51.95946 3.84 0
+OBJECT_SHARED Models/lib/cars6.ac 4.09088 51.95844 2.97 257.95
+OBJECT_SHARED Models/lib/cars10.ac 4.09098 51.95872 5.09 257.95
+# END dsf2stg

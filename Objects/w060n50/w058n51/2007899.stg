@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -57.18936 51.44410 0.00 61.1573
+OBJECT_SHARED Models/Transport/hatchback_green.ac -57.18935 51.44412 35.32 59.1842
+OBJECT_SHARED Models/Transport/van_red.ac -57.18932 51.44415 35.35 65.4098
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -57.18885 51.44434 35.35 330.255
+OBJECT_SHARED Models/Transport/hatchback_black.ac -57.18879 51.44437 35.82 153.886
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -57.18888 51.44441 35.99 159.102
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -57.18896 51.44439 35.96 327.681
+OBJECT_SHARED Models/Transport/van_red.ac -57.18889 51.44436 35.92 328.627
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -57.18892 51.44440 35.96 63.5582
+OBJECT_SHARED Models/lib/6space_wStop.ac -57.18939 51.44412 35.96 153.106
+OBJECT_SHARED Models/lib/lamp10m.xml -57.18914 51.44397 35.32 63.8385
+OBJECT_SHARED Models/lib/lamp10m.xml -57.18899 51.44415 35.29 244.511
+OBJECT_SHARED Models/Transport/hatchback_red.ac -57.18913 51.44404 35.63 245.623
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -57.18906 51.44413 35.29 242.289
+OBJECT_SHARED Models/Transport/hatchback_black.ac -57.18908 51.44411 35.44 243.712
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -57.18909 51.44409 35.44 244.558
+OBJECT_SHARED Models/Transport/van_silver.ac -57.18901 51.44409 35.44 62.8648
+OBJECT_SHARED Models/Transport/hatchback_black.ac -57.18903 51.44406 35.48 66.1757
+OBJECT_SHARED Models/Transport/hatchback_green.ac -57.18904 51.44404 35.48 63.768
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -57.18907 51.44402 35.34 62.7341
+OBJECT_SHARED Models/Transport/hatchback_red.ac -57.18908 51.44400 35.29 66.9649
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -57.18907 51.44407 35.29 332.975
+OBJECT_SHARED Models/lib/lamp10m.xml -57.18845 51.44407 35.44 154.323
+OBJECT_SHARED Models/lib/HorizTanks2.ac -57.18745 51.44350 35.66 331.516
+OBJECT_SHARED Models/lib/MedHangar.ac -57.18786 51.44340 35.06 240.796
+OBJECT_SHARED Models/lib/MedHangar.ac -57.18792 51.44461 34.83 151.403
+# END dsf2stg

@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargoip.xml -104.16985 51.80927 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -104.16939 51.80946 527.66 -85.6
+OBJECT_SHARED Models/lib/lamp10m.xml -104.16978 51.80941 527.85 -76.76
+OBJECT_SHARED Models/lib/lamp10m.xml -104.17012 51.80941 527.67 -84.81
+OBJECT_SHARED Models/lib/cars4.ac -104.17032 51.80941 527.67 0.699997
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -104.16936 51.80943 527.67 296.57
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -104.17009 51.80957 527.85 179.01
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -104.16994 51.80927 527.67 0
+OBJECT_SHARED Models/Airport/cargoip.xml -104.16980 51.80925 527.66 251.56
+OBJECT_SHARED Models/Airport/cargoip.xml -104.16950 51.80902 527.66 354.92
+OBJECT_SHARED Models/Airport/cargoip.xml -104.16951 51.80899 527.65 354.92
+OBJECT_SHARED Models/Airport/cargoip.xml -104.16955 51.80902 527.65 322.43
+OBJECT_SHARED Models/Airport/cargoip.xml -104.16960 51.80902 527.65 0
+OBJECT_SHARED Models/Airport/cargoip.xml -104.16987 51.80925 527.65 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -104.16997 51.80940 527.66 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -104.16982 51.80940 527.67 206.56
+OBJECT_SHARED Models/Misc/6barrels.ac -104.16951 51.80905 527.67 0
+OBJECT_SHARED Models/Misc/6barrels.ac -104.16948 51.80909 527.65 90
+OBJECT_SHARED Models/Misc/6barrels.ac -104.16953 51.80909 527.84 315
+OBJECT_SHARED Models/Misc/6barrels.ac -104.16954 51.80907 527.65 0
+OBJECT_SHARED Models/Misc/6barrels.ac -104.16949 51.80906 527.65 0
+OBJECT_SHARED Models/Misc/6barrels.ac -104.16946 51.80908 527.84 0
+OBJECT_SHARED Models/Misc/6barrels.ac -104.16951 51.80907 527.84 0
+OBJECT_SHARED Models/Misc/6barrels.ac -104.16951 51.80909 527.65 225
+OBJECT_SHARED Models/Misc/6barrels.ac -104.16955 51.80908 527.65 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -104.16988 51.80940 527.65 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -104.16940 51.80907 527.67 270
+OBJECT_SHARED Models/lib/stack_of_cones.ac -104.16934 51.80908 527.84 0
+OBJECT_SHARED Models/lib/shed8x10.ac -104.16931 51.80914 527.84 90
+OBJECT_SHARED Models/lib/SmHangar.ac -104.16927 51.80901 527.84 182.61
+# END dsf2stg

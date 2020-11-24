@@ -1,29 +1,29 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/stack_of_cones.ac -0.85009 60.74710 20.49 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.85025 60.74711 20.54 0
-OBJECT_SHARED Models/lib/propane-tank.ac -0.85019 60.74710 20.52 337.167
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.85030 60.74714 20.56 154.76
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.85059 60.74718 20.43 336.874
-OBJECT_SHARED Models/lib/lamp10m.xml -0.84976 60.74724 20.17 136.779
-OBJECT_SHARED Models/lib/lamp10m.xml -0.85050 60.74740 19.96 134.649
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85830 60.74915 18.73 39.8061
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85814 60.74914 18.88 343.757
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85806 60.74918 18.63 142.125
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85819 60.74919 18.69 90
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85782 60.74906 18.74 282.225
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85794 60.74903 19.01 46.637
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85809 60.74902 19.08 0
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85811 60.74897 19.09 90
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85800 60.74898 19.04 205.201
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85785 60.74898 18.98 139.085
-OBJECT_SHARED Models/lib/coal_pile.ac -0.85775 60.74899 18.93 90
-OBJECT_SHARED Models/lib/lamp10m.xml -0.85610 60.74850 19.37 74.6498
-OBJECT_SHARED Models/lib/lamp10m.xml -0.85629 60.74836 19.66 0
-OBJECT_SHARED Models/lib/HorizTanks2.ac -0.85625 60.74855 19.43 239.66
-OBJECT_SHARED Models/lib/transformer3x3.ac -0.85140 60.74756 19.80 336.757
-OBJECT_SHARED Models/lib/office4x14.ac -0.85155 60.74759 19.85 247.249
-OBJECT_SHARED Models/lib/office6x12.ac -0.85069 60.74748 19.80 336.339
-OBJECT_SHARED Models/lib/MedHangar.ac -0.85016 60.74731 20.08 67.1506
+OBJECT_SHARED Models/lib/stack_of_cones.ac -0.85009 60.74710 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.85025 60.74711 20.49 0
+OBJECT_SHARED Models/lib/propane-tank.ac -0.85019 60.74710 20.55 337.167
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.85030 60.74714 20.52 154.76
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.85059 60.74718 20.56 336.874
+OBJECT_SHARED Models/lib/lamp10m.xml -0.84976 60.74724 20.43 136.779
+OBJECT_SHARED Models/lib/lamp10m.xml -0.85050 60.74740 20.17 134.649
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85830 60.74915 19.96 39.8061
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85814 60.74914 18.73 343.757
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85806 60.74918 18.88 142.125
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85819 60.74919 18.63 90
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85782 60.74906 18.69 282.225
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85794 60.74903 18.74 46.637
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85809 60.74902 19.01 0
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85811 60.74897 19.08 90
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85800 60.74898 19.09 205.201
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85785 60.74898 19.04 139.085
+OBJECT_SHARED Models/lib/coal_pile.ac -0.85775 60.74899 18.97 90
+OBJECT_SHARED Models/lib/lamp10m.xml -0.85610 60.74850 18.93 74.6498
+OBJECT_SHARED Models/lib/lamp10m.xml -0.85629 60.74836 19.36 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -0.85625 60.74855 19.65 239.66
+OBJECT_SHARED Models/lib/transformer3x3.ac -0.85140 60.74756 19.42 336.757
+OBJECT_SHARED Models/lib/office4x14.ac -0.85155 60.74759 19.80 247.249
+OBJECT_SHARED Models/lib/office6x12.ac -0.85069 60.74748 19.85 336.339
+OBJECT_SHARED Models/lib/MedHangar.ac -0.85016 60.74731 19.80 67.1506
 # END dsf2stg

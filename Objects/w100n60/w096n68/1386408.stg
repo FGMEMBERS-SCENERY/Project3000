@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -95.84748 68.63283 0.00 323.233
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.86948 68.64435 45.01 76.9461
+OBJECT_SHARED Models/lib/office8x14.ac -95.86987 68.64440 51.48 165.966
+OBJECT_SHARED Models/lib/office8x14.ac -95.86995 68.64428 52.92 165.966
+OBJECT_SHARED Models/lib/office3x10.ac -95.85118 68.63302 53.05 51.842
+OBJECT_SHARED Models/lib/cars2.ac -95.84866 68.63280 44.17 232.697
+OBJECT_SHARED Models/lib/HorizTanks2.ac -95.84704 68.63282 44.73 322.148
+OBJECT_SHARED Models/lib/garden-shed.ac -95.84742 68.63285 45.08 53.7459
+OBJECT_SHARED Models/lib/garden-shed.ac -95.84783 68.63255 45.06 53.7459
+OBJECT_SHARED Models/lib/garden-shed.ac -95.84815 68.63263 44.83 53.7459
+OBJECT_SHARED Models/lib/shed8x10.ac -95.84800 68.63258 44.75 55.0086
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.84955 68.63338 44.78 247.671
+OBJECT_SHARED Models/lib/cars4.ac -95.84871 68.63225 44.92 139.019
+# END dsf2stg

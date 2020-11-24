@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 17.95867 53.94691 0.00 168.793
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 17.95774 53.94712 138.80 145.529
+OBJECT_SHARED Models/Transport/van_silver.ac 17.95781 53.94711 138.68 163.856
+OBJECT_SHARED Models/lib/propane-tank.ac 17.95814 53.94703 138.66 341.358
+OBJECT_SHARED Models/lib/cone.ac 17.95833 53.94712 138.77 215.538
+OBJECT_SHARED Models/lib/cone.ac 17.95833 53.94712 138.54 126.87
+OBJECT_SHARED Models/lib/cone.ac 17.95834 53.94712 138.54 217.304
+OBJECT_SHARED Models/lib/lamp10m.xml 17.95807 53.94704 138.54 249.874
+OBJECT_SHARED Models/lib/lamp10m.xml 17.95840 53.94711 138.77 -20.5894
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 17.95825 53.94709 138.52 340.78
+# END dsf2stg

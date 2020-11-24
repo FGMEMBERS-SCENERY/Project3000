@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4container-office.ac -115.07224 57.13510 0.00 120.196
+OBJECT_SHARED Models/lib/2container-office.ac -115.07281 57.13487 458.73 23.4592
+OBJECT_SHARED Models/lib/2container-office.ac -115.07302 57.13505 458.85 110.225
+OBJECT_SHARED Models/lib/2container-office.ac -115.07304 57.13534 458.92 28.9803
+OBJECT_SHARED Models/lib/office3x10.ac -115.07299 57.13684 459.03 30.7617
+OBJECT_SHARED Models/lib/2container-office.ac -115.07299 57.13676 457.97 32.1967
+OBJECT_SHARED Models/lib/office3x10.ac -115.07235 57.13582 457.97 297.802
+OBJECT_SHARED Models/lib/garden-shed.ac -115.07260 57.13657 457.83 299.577
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -115.07324 57.13715 458.02 206.566
+OBJECT_SHARED Models/lib/HorizTanks2.ac -115.07240 57.13654 457.88 119.185
+OBJECT_SHARED Models/lib/4container-office.ac -115.07212 57.13545 457.70 118.851
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -115.07182 57.13522 362.87 0
+# END dsf2stg

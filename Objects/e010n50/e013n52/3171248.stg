@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree.xml 13.09901 52.79810 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.09901 52.79837 36.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.09913 52.79845 36.32 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.09906 52.79765 36.35 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.09921 52.79765 35.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.09936 52.79765 35.58 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.10070 52.79771 35.50 39.58
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.10054 52.79781 35.15 346.23
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.09894 52.79709 35.26 63.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.09893 52.79702 35.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.09893 52.79722 35.24 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.09895 52.79742 35.39 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 13.09985 52.79824 35.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.09945 52.79847 35.79 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.09913 52.79775 36.10 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.09974 52.79816 35.76 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.09911 52.79786 35.82 0
+OBJECT_SHARED Models/lib/prop_a.ac 13.10000 52.79769 35.83 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.09945 52.79789 35.36 223.36
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.09922 52.79837 35.72 313.45
+OBJECT_SHARED Models/Transport/hatchback_green.ac 13.09937 52.79830 36.19 270
+OBJECT_SHARED Models/lib/shed8x10.ac 13.09889 52.79774 36.00 90
+OBJECT_SHARED Models/lib/transformer3x3.ac 13.09898 52.79774 35.76 270
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.09966 52.79761 35.72 270
+OBJECT_SHARED Models/lib/stack_of_cones.ac 13.09968 52.79803 35.40 36.87
+OBJECT_SHARED Models/lib/propane-tank.ac 13.09974 52.79805 35.68 90
+OBJECT_SHARED Models/lib/industrial13x24.ac 13.09922 52.79803 35.75 90
+OBJECT_SHARED Models/lib/transformer3x3.ac 13.09948 52.79806 35.86 180
+OBJECT_SHARED Models/lib/transformer3x3.ac 13.09952 52.79786 35.82 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 13.09957 52.79773 35.68 180
+OBJECT_SHARED Models/Misc/6barrels.ac 13.10015 52.79760 35.50 270
+OBJECT_SHARED Models/Misc/6barrels.ac 13.10016 52.79760 35.24 270
+# END dsf2stg

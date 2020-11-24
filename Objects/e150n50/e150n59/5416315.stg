@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac 150.76445 59.90998 183.36 269.4
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 150.76766 59.90950 91.09 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 150.76824 59.90955 70.64 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 150.75191 59.91384 86.90 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 150.75199 59.91401 88.09 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 150.75207 59.91419 88.57 0
+OBJECT_SHARED Models/lib/lamp10m.xml 150.75137 59.91382 184.05 -7.67999
+OBJECT_SHARED Models/lib/lamp10m.xml 150.75155 59.91427 183.18 -12.62
+# END dsf2stg

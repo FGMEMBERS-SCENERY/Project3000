@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -111.69776 57.37699 0.00 172.763
+OBJECT_SHARED Models/lib/container6-HD.ac -111.69771 57.37736 277.18 173.66
+OBJECT_SHARED Models/lib/propane-tank.ac -111.69698 57.37772 277.26 353.379
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.69661 57.37910 276.45 262.46
+OBJECT_SHARED Models/Transport/van_silver.ac -111.69674 57.37797 276.81 262.164
+OBJECT_SHARED Models/Transport/hatchback_green.ac -111.69677 57.37784 276.53 263.211
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -111.69606 57.37831 276.48 175.314
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.69624 57.37833 275.58 177.797
+OBJECT_SHARED Models/Transport/hatchback_green.ac -111.69645 57.37831 275.58 355.914
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.69634 57.37831 275.58 357.064
+OBJECT_SHARED Models/Airport/cargoip.xml -111.69806 57.37729 275.58 0
+OBJECT_SHARED Models/Airport/cargoip.xml -111.69806 57.37726 277.23 0
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -111.69808 57.37719 277.23 78.1115
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -111.69808 57.37714 277.21 242.103
+OBJECT_SHARED Models/Transport/Norberttruck.xml -111.69820 57.37628 277.20 265.03
+OBJECT_SHARED Models/Transport/Norberttruck.xml -111.69693 57.37927 277.00 171.254
+OBJECT_SHARED Models/lib/2container-office.ac -111.69712 57.37814 276.82 173.019
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -111.69825 57.37843 276.56 36.5707
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -111.69755 57.37840 277.48 36.5707
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -111.69786 57.37784 277.48 36.5707
+OBJECT_SHARED Models/lib/HorizTanks2.ac -111.69722 57.37841 277.35 350.819
+OBJECT_SHARED Models/lib/lamp10m.xml -111.69734 57.37850 276.65 -7.67001
+OBJECT_SHARED Models/lib/lamp10m.xml -111.69744 57.37806 276.67 -8.29001
+OBJECT_SHARED Models/lib/lamp10m.xml -111.69752 57.37780 276.56 -7.97
+OBJECT_SHARED Models/lib/lamp10m.xml -111.69801 57.37732 277.35 -8.82001
+OBJECT_SHARED Models/lib/lamp10m.xml -111.69808 57.37707 277.23 -8.04001
+OBJECT_SHARED Models/lib/lamp10m.xml -111.69772 57.37688 277.20 -6.85998
+# END dsf2stg

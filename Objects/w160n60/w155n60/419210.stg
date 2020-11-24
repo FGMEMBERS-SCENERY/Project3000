@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -154.32403 60.20184 0.00 286.7
+OBJECT_SHARED Models/lib/prop_a.ac -154.32389 60.20195 86.68 281.56
+OBJECT_SHARED Models/lib/prop_a.ac -154.32338 60.20215 86.53 9.87
+OBJECT_SHARED Models/lib/prop_a.ac -154.32335 60.20195 86.68 191
+OBJECT_SHARED Models/lib/prop_a.ac -154.32357 60.20192 86.90 302.46
+OBJECT_SHARED Models/lib/prop_a.ac -154.31822 60.19758 86.61 76.46
+OBJECT_SHARED Models/lib/prop_a.ac -154.31742 60.19842 93.99 16.22
+OBJECT_SHARED Models/lib/prop_a.ac -154.31909 60.19821 91.64 8.97
+OBJECT_SHARED Models/lib/prop_a.ac -154.33490 60.19557 92.62 143.13
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -154.31733 60.20135 87.88 285
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -154.31653 60.20064 84.84 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -154.31831 60.20186 87.61 90
+OBJECT_SHARED Models/lib/transformer3x3.ac -154.32024 60.20260 86.80 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -154.32063 60.20281 87.06 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -154.32080 60.20266 86.95 0
+OBJECT_SHARED Models/lib/MedHangar.ac -154.32320 60.20225 87.00 106.7
+OBJECT_SHARED Models/lib/SmHangar.ac -154.33261 60.19640 86.68 283.46
+OBJECT_SHARED Models/lib/MedHangar.ac -154.32004 60.19790 88.89 286.14
+OBJECT_SHARED Models/lib/SmHangar.ac -154.33546 60.19553 93.07 281.5
+OBJECT_SHARED Models/lib/SmHangar.ac -154.32116 60.19782 87.97 285.05
+OBJECT_SHARED Models/lib/MedHangar.ac -154.33217 60.19513 93.21 13.83
+# END dsf2stg

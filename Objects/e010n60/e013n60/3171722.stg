@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree.xml 13.52874 60.15585 144.08 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.52885 60.15582 143.98 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 13.52914 60.15580 143.82 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 13.52931 60.15520 143.81 265.81
-OBJECT_SHARED Models/lib/propane-tank.ac 13.52901 60.15515 144.01 115.72
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.52959 60.15520 143.59 109.765
-OBJECT_SHARED Models/lib/SmHangar.ac 13.52934 60.15540 143.78 20.45
-OBJECT_SHARED Models/lib/SmHangar.ac 13.52926 60.15560 143.74 19.07
-OBJECT_SHARED Models/lib/deciduous-tree.xml 13.52893 60.15575 143.98 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 13.52874 60.15585 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 13.52885 60.15582 144.08 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.52914 60.15580 143.98 0
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 13.52931 60.15520 143.82 265.81
+OBJECT_SHARED Models/lib/propane-tank.ac 13.52901 60.15515 143.81 115.72
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.52959 60.15520 144.01 109.765
+OBJECT_SHARED Models/lib/SmHangar.ac 13.52934 60.15540 143.59 20.45
+OBJECT_SHARED Models/lib/SmHangar.ac 13.52926 60.15560 143.78 19.07
+OBJECT_SHARED Models/lib/deciduous-tree.xml 13.52893 60.15575 143.74 0
 # END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 10.36702 59.30182 0.00 181.99
+OBJECT_SHARED Models/lib/SmHangar.ac 10.36672 59.29910 21.16 179.33
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 10.36777 59.30115 17.66 183.22
+OBJECT_SHARED Models/lib/HorizTanks2.ac 10.36736 59.30190 19.94 182.54
+OBJECT_SHARED Models/lib/HorizTanks2.ac 10.36724 59.29885 21.06 348.84
+OBJECT_SHARED Models/lib/4space_wStop.ac 10.36678 59.30066 17.12 91.43
+OBJECT_SHARED Models/lib/prop_a.ac 10.36735 59.30128 19.77 346.68
+OBJECT_SHARED Models/Transport/van_silver.ac 10.36701 59.29959 20.32 264.47
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 10.36701 59.29955 18.21 260.54
+OBJECT_SHARED Models/Transport/van_silver.ac 10.36686 59.29967 18.08 262.88
+# END dsf2stg

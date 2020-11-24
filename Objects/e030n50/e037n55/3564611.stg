@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac 37.88672 55.06761 0.00 161.9
+OBJECT_SHARED Models/lib/hangar81x16.ac 37.88576 55.06582 179.11 130.3
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 37.88536 55.06657 175.89 221.05
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 37.88728 55.06621 177.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 37.88802 55.06779 178.50 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 37.88791 55.06749 180.81 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 37.88741 55.06646 180.89 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 37.88715 55.06596 179.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 37.88701 55.06571 177.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 37.88688 55.06547 177.16 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 37.88674 55.06521 176.83 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 37.88661 55.06497 176.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 37.88647 55.06472 176.08 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88719 55.06734 176.03 72.6
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88727 55.06733 179.14 72.6
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88722 55.06739 179.22 72.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88729 55.06737 179.28 72.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88722 55.06739 179.22 72.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88729 55.06737 179.28 72.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88724 55.06743 179.36 72.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88731 55.06741 179.28 72.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88724 55.06743 179.36 72.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88731 55.06741 179.28 72.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88735 55.06732 179.36 72.6
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88735 55.06732 179.36 72.6
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88737 55.06736 179.22 72.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 37.88739 55.06740 179.45 72.31
+OBJECT_SHARED Models/lib/lamp10m.xml 37.88737 55.06729 179.45 270
+OBJECT_SHARED Models/lib/lamp10m.xml 37.88714 55.06733 179.31 270
+OBJECT_SHARED Models/lib/lamp10m.xml 37.88743 55.06741 179.05 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 37.88601 55.06618 179.45 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 37.88526 55.06674 176.58 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 37.88677 55.06695 177.33 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 37.88714 55.06756 178.39 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 37.88700 55.06750 179.41 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 37.88715 55.06748 179.25 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 37.88762 55.06741 179.32 76.47
+OBJECT_SHARED Models/lib/4space_wStop.ac 37.88648 55.06719 179.67 162.64
+OBJECT_SHARED Models/lib/watertank3x1.ac 37.88751 55.06746 178.45 163.56
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 37.88766 55.06751 179.64 256.06
+# END dsf2stg

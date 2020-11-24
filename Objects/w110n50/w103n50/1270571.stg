@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -102.09957 50.64346 0.00 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -102.09894 50.64297 512.51 270.68
+OBJECT_SHARED Models/lib/4container-office.ac -102.09891 50.64306 512.74 272.37
+OBJECT_SHARED Models/lib/SmHangar.ac -102.09940 50.64346 512.69 90.71
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -102.09928 50.64338 512.50 183.58
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -102.09902 50.64295 512.55 1.94
+OBJECT_SHARED Models/lib/watertank3x1.ac -102.09904 50.64324 512.78 0
+OBJECT_SHARED Models/lib/shed8x10.ac -102.10028 50.64339 512.64 91.35
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -102.09947 50.64378 512.56 179.59
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -102.09917 50.64345 512.28 181.21
+# END dsf2stg

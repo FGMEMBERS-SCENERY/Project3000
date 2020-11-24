@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 8.84371 54.92663 0.00 94.0856
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.84357 54.92680 0.04 63.4346
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.84352 54.92674 0.02 59.4204
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.84334 54.92669 0.04 249.863
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.84338 54.92675 0.04 241.927
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.84343 54.92681 0.04 231.34
+OBJECT_SHARED Models/Transport/van_red.ac 8.84346 54.92684 0.02 244.885
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.84360 54.92684 0.03 64.1786
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.84362 54.92686 0.02 66.801
+OBJECT_SHARED Models/Transport/van_silver.ac 8.84363 54.92689 0.01 242.85
+OBJECT_SHARED Models/lib/stack_of_cones.ac 8.84383 54.92722 0.01 50.49
+OBJECT_SHARED Models/lib/shed8x10.ac 8.84334 54.92686 -0.04 65.45
+OBJECT_SHARED Models/lib/shed8x10.ac 8.84340 54.92694 0.02 65.45
+OBJECT_SHARED Models/lib/SmHangar.ac 8.84367 54.92705 0.02 154.63
+OBJECT_SHARED Models/lib/SmHangar.ac 8.84378 54.92719 -0.02 154.63
+OBJECT_SHARED Models/lib/LongRow.ac 8.84485 54.92685 -0.04 18.2
+OBJECT_SHARED Models/lib/office8x14.ac 8.84390 54.92683 -0.12 245.229
+OBJECT_SHARED Models/lib/office8x14.ac 8.84409 54.92675 -0.00 65.43
+# END dsf2stg

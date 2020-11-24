@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -149.72713 60.48214 0.00 281.31
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -149.72755 60.48218 138.36 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.72859 60.47957 137.98 64.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.72856 60.47799 136.13 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.72887 60.47996 133.54 324.16
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.73392 60.48162 136.91 298.07
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.73187 60.48146 133.05 322.12
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.72946 60.48035 133.84 324.16
+OBJECT_SHARED Models/Transport/hatchback_black.ac -149.72626 60.48149 138.25 311.5
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.72622 60.48229 138.72 302.47
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.72611 60.48232 138.12 304.29
+OBJECT_SHARED Models/lib/SmHangar.ac -149.72592 60.48191 138.12 135.95
+OBJECT_SHARED Models/lib/prop_a.ac -149.72832 60.48225 138.42 122.62
+OBJECT_SHARED Models/lib/prop_a.ac -149.72948 60.48279 137.88 300.97
+OBJECT_SHARED Models/lib/SmHangar.ac -149.72780 60.48144 137.28 222.28
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -149.72738 60.48217 138.65 18.8
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -149.72706 60.48225 138.26 18.44
+# END dsf2stg

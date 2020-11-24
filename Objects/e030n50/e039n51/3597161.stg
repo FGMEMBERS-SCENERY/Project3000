@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 39.26317 51.65350 -92.00 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 39.26289 51.65290 18.20 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 39.26303 51.65319 18.80 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 39.26122 51.64887 110.45 345.068
+OBJECT_SHARED Models/lib/industrial13x24.ac 39.26073 51.64716 113.64 253.114
+OBJECT_SHARED Models/lib/industrial13x24.ac 39.26063 51.64692 116.08 253.255
+# END dsf2stg

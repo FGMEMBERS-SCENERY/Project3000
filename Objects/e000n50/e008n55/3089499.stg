@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac 8.91057 55.49722 0.00 86.5492
+OBJECT_SHARED Models/Transport/van_red.ac 8.91214 55.49716 41.26 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.91209 55.49711 42.48 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.91200 55.49708 42.48 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.91191 55.49713 42.45 0
+OBJECT_SHARED Models/Transport/van_silver.ac 8.91179 55.49715 42.42 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.91130 55.49734 42.38 43.025
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.91136 55.49738 42.23 39.0938
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.91139 55.49739 42.32 43.1523
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.91142 55.49741 42.32 38.29
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.91145 55.49742 42.32 35.2175
+OBJECT_SHARED Models/Transport/van_red.ac 8.91148 55.49743 42.32 31.4294
+OBJECT_SHARED Models/lib/cars10.ac 8.91102 55.49757 42.32 358.327
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91157 55.49625 42.09 2.1409
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91154 55.49645 42.55 3.16391
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91152 55.49666 42.42 1.78064
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91149 55.49694 42.37 10.188
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91141 55.49719 42.31 -17.7448
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91154 55.49732 42.23 -58.4561
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91191 55.49731 42.26 138.215
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91063 55.49723 42.39 123.527
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91093 55.49723 41.38 85.7532
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91112 55.49723 41.78 137.332
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91116 55.49748 42.01 270
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91098 55.49756 42.25 270
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91157 55.49753 42.04 270
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91164 55.49745 42.41 270
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91196 55.49706 42.32 243.682
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91182 55.49709 42.44 242.526
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91222 55.49715 42.39 -4.76367
+OBJECT_SHARED Models/lib/lamp10m.xml 8.91175 55.49719 42.51 150.101
+# END dsf2stg

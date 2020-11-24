@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml 1.05360 52.49670 53.73 130.9
-OBJECT_SHARED Models/Misc/picnic_table.ac 1.05385 52.49695 54.13 91.27
-OBJECT_SHARED Models/Misc/picnic_table.ac 1.05373 52.49694 53.99 94.65
-OBJECT_SHARED Models/Misc/picnic_table.ac 1.05355 52.49694 53.87 183.77
-OBJECT_SHARED Models/Misc/picnic_table.ac 1.05343 52.49694 53.79 183.13
-OBJECT_SHARED Models/Misc/picnic_table.ac 1.05330 52.49693 53.71 181.05
-OBJECT_SHARED Models/Misc/picnic_table.ac 1.05291 52.49689 53.45 271.36
-OBJECT_SHARED Models/Misc/picnic_table.ac 1.05292 52.49686 53.46 273.58
-OBJECT_SHARED Models/Misc/picnic_table.ac 1.05293 52.49681 53.39 183.92
-OBJECT_SHARED Models/lib/cars6.ac 1.05314 52.49678 53.52 273.12
-OBJECT_SHARED Models/lib/office3x10.ac 1.05367 52.49675 53.86 1.32999
-OBJECT_SHARED Models/lib/shed8x10.ac 1.05350 52.49676 53.76 91.62
-OBJECT_SHARED Models/lib/shed8x10.ac 1.05351 52.49671 53.68 91.62
+OBJECT_SHARED Models/lib/lamp10m.xml 1.05360 52.49670 0.00 130.9
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.05385 52.49695 53.71 91.27
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.05373 52.49694 54.14 94.65
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.05355 52.49694 53.98 183.77
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.05343 52.49694 53.87 183.13
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.05330 52.49693 53.79 181.05
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.05291 52.49689 53.71 271.36
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.05292 52.49686 53.45 273.58
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.05293 52.49681 53.46 183.92
+OBJECT_SHARED Models/lib/cars6.ac 1.05314 52.49678 53.39 273.12
+OBJECT_SHARED Models/lib/office3x10.ac 1.05367 52.49675 54.81 1.32999
+OBJECT_SHARED Models/lib/shed8x10.ac 1.05350 52.49676 53.85 91.62
+OBJECT_SHARED Models/lib/shed8x10.ac 1.05351 52.49671 53.74 91.62
 # END dsf2stg

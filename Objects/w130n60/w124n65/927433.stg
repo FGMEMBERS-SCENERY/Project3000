@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -123.43474 65.20927 0.00 266.855
+OBJECT_SHARED Models/lib/stack_of_cones.ac -123.43603 65.20928 209.29 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -123.43606 65.20929 209.46 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -123.43631 65.20931 209.46 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -123.43634 65.20930 209.46 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -123.43446 65.20909 209.46 270.673
+OBJECT_SHARED Models/lib/shed8x10.ac -123.43619 65.20925 208.79 352.866
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -123.43505 65.20915 209.46 265.896
+OBJECT_SHARED Models/Airport/cargobox.xml -123.43468 65.20931 209.13 0
+OBJECT_SHARED Models/Airport/cargobox.xml -123.43472 65.20931 209.29 0
+OBJECT_SHARED Models/Airport/cargobox.xml -123.43476 65.20931 209.29 0
+OBJECT_SHARED Models/Airport/cargobox.xml -123.43479 65.20931 209.29 0
+# END dsf2stg

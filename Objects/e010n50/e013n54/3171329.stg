@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.40859 54.08946 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.40868 54.08940 4.42 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.40878 54.08935 4.40 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.40868 54.08928 4.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.40866 54.08921 4.42 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.40853 54.08901 4.44 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.40847 54.08895 4.55 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.40831 54.08954 4.55 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 13.40847 54.08950 4.48 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.40792 54.08928 4.46 326.75
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 13.40768 54.08907 4.39 320.71
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 13.40784 54.08806 4.39 137.58
+OBJECT_SHARED Models/lib/6space_wStop.ac 13.40836 54.08814 4.83 319.85
+OBJECT_SHARED Models/lib/cars10.ac 13.40761 54.08817 4.59 47.49
+OBJECT_SHARED Models/lib/cars2.ac 13.40825 54.08806 4.67 227.15
+OBJECT_SHARED Models/lib/cars4.ac 13.40809 54.08822 4.71 46.77
+OBJECT_SHARED Models/lib/cars4.ac 13.40809 54.08822 4.79 226.85
+# END dsf2stg

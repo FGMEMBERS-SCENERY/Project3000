@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac 22.82440 58.99295 7.48 343.92
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 22.82413 58.99300 7.59 349.51
-OBJECT_SHARED Models/lib/container6-HD.ac 22.82469 58.99307 7.31 349.64
-OBJECT_SHARED Models/lib/cars4.ac 22.82241 58.99404 7.41 301.17
-OBJECT_SHARED Models/lib/fuel-truck.xml 22.82302 58.99474 6.35 32.59
-OBJECT_SHARED Models/lib/MedHangar.ac 22.82426 58.99279 7.69 211.33
-OBJECT_SHARED Models/lib/SmHangar.ac 22.82377 58.99317 7.53 212.08
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 22.82293 58.99466 6.40 211.84
-OBJECT_SHARED Models/lib/admin31x12.ac 22.82269 58.99424 7.05 31.56
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 22.82250 58.99393 7.44 300.68
-OBJECT_SHARED Models/lib/citation.ac 22.82388 58.99404 6.71 32.65
-OBJECT_SHARED Models/lib/lamp10m.xml 22.82332 58.99415 6.87 0
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 22.82440 58.99295 0.00 343.92
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 22.82413 58.99300 7.48 349.51
+OBJECT_SHARED Models/lib/container6-HD.ac 22.82469 58.99307 7.59 349.64
+OBJECT_SHARED Models/lib/cars4.ac 22.82241 58.99404 7.31 301.17
+OBJECT_SHARED Models/lib/fuel-truck.xml 22.82302 58.99474 7.41 32.59
+OBJECT_SHARED Models/lib/MedHangar.ac 22.82426 58.99279 6.35 211.33
+OBJECT_SHARED Models/lib/SmHangar.ac 22.82377 58.99317 7.69 212.08
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 22.82293 58.99466 7.53 211.84
+OBJECT_SHARED Models/lib/admin31x12.ac 22.82269 58.99424 6.40 31.56
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 22.82250 58.99393 7.05 300.68
+OBJECT_SHARED Models/lib/citation.ac 22.82388 58.99404 7.44 32.65
+OBJECT_SHARED Models/lib/lamp10m.xml 22.82332 58.99415 6.72 0
 # END dsf2stg

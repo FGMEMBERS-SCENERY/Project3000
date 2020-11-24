@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 20.09184 51.58095 0.00 147.14
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 20.09183 51.58094 180.02 152.74
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 20.09182 51.58097 180.04 178.74
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 20.09181 51.58091 180.02 332.74
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 20.09181 51.58093 180.04 320.71
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 20.09152 51.58054 180.04 63.88
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 20.08963 51.58159 180.18 242.93
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 20.08960 51.58160 180.49 247.69
+OBJECT_SHARED Models/Airport/cargoip.xml 20.08974 51.58170 180.49 246.8
+OBJECT_SHARED Models/Airport/cargoip.xml 20.08971 51.58171 180.44 244.18
+OBJECT_SHARED Models/Airport/cargobox.xml 20.08969 51.58172 180.44 239.04
+OBJECT_SHARED Models/Airport/cargobox.xml 20.08967 51.58172 180.44 252.18
+OBJECT_SHARED Models/Airport/cargobox.xml 20.08969 51.58164 180.44 241.39
+OBJECT_SHARED Models/Airport/cargobox.xml 20.08967 51.58165 180.46 233.84
+OBJECT_SHARED Models/Airport/cargobox.xml 20.08965 51.58164 180.44 232.93
+OBJECT_SHARED Models/Airport/cargobox.xml 20.08962 51.58165 180.49 238.67
+OBJECT_SHARED Models/Airport/cargobox.xml 20.08964 51.58166 180.49 247.38
+OBJECT_SHARED Models/lib/belt_loader.ac 20.09047 51.58122 180.47 59.04
+OBJECT_SHARED Models/lib/office6x12.ac 20.09252 51.58115 180.31 242.7
+OBJECT_SHARED Models/lib/office3x10.ac 20.09437 51.58009 179.85 154.68
+OBJECT_SHARED Models/lib/industrial13x24.ac 20.08743 51.58147 179.65 301.13
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 20.09476 51.58003 181.19 245.14
+OBJECT_SHARED Models/lib/industrial15x22.ac 20.09255 51.58073 179.61 334.49
+# END dsf2stg

@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -125.02460 52.97382 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -125.02458 52.97383 1078.67 0
+OBJECT_SHARED Models/lib/propane-tank.ac -125.02459 52.97344 1078.67 135
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -125.02337 52.97352 1079.04 47.87
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -125.02334 52.97354 1078.44 46.47
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -125.02340 52.97350 1078.44 48.01
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -125.04989 52.96334 1078.44 236.31
+OBJECT_SHARED Models/lib/prop_a.ac -125.02288 52.97411 1082.43 144.69
+OBJECT_SHARED Models/lib/prop_a.ac -125.02370 52.97366 1078.02 153.44
+OBJECT_SHARED Models/lib/prop_a.ac -125.02373 52.97353 1078.69 162.9
+OBJECT_SHARED Models/lib/farm19x12.ac -125.02412 52.97283 1078.88 189.35
+OBJECT_SHARED Models/lib/office6x12.ac -125.02317 52.97239 1079.54 291.61
+OBJECT_SHARED Models/lib/office8x14.ac -125.02470 52.97338 1079.22 315
+OBJECT_SHARED Models/lib/garage-small-white.ac -125.02417 52.97252 1079.04 144.32
+OBJECT_SHARED Models/lib/shed8x10.ac -125.02372 52.97301 1079.82 333.43
+OBJECT_SHARED Models/lib/garage-small-white.ac -125.02329 52.97293 1079.35 158.74
+OBJECT_SHARED Models/lib/shed8x10.ac -125.02351 52.97325 1078.87 334.26
+OBJECT_SHARED Models/lib/garage-small-white.ac -125.02429 52.97237 1079.16 149.15
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02277 52.97311 1079.91 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02447 52.97253 1078.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02398 52.97229 1079.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02423 52.97262 1080.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02446 52.97277 1079.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02473 52.97301 1079.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02460 52.97328 1079.42 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02436 52.97333 1079.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02435 52.97317 1079.06 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02428 52.97321 1079.16 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -125.02438 52.97323 1079.16 0
+# END dsf2stg

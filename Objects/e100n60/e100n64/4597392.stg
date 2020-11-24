@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac 100.43150 64.32897 0.00 107.31
+OBJECT_SHARED Models/lib/cars10.ac 100.43124 64.32956 609.40 188.71
+OBJECT_SHARED Models/lib/cars4.ac 100.43051 64.32969 609.50 7.42
+OBJECT_SHARED Models/lib/cars4.ac 100.43085 64.32970 609.50 8.12
+OBJECT_SHARED Models/lib/garage-small-white.ac 100.43905 64.32767 609.50 98.26
+OBJECT_SHARED Models/lib/stack_of_cones.ac 100.43045 64.33107 604.48 116.56
+OBJECT_SHARED Models/lib/stack_of_cones.ac 100.43071 64.33068 609.26 168.9
+OBJECT_SHARED Models/lib/stack_of_cones.ac 100.43079 64.33031 609.40 275.62
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 100.43040 64.33108 609.47 323.21
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 100.43053 64.33065 609.26 323.21
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 100.43064 64.33028 609.40 323.21
+OBJECT_SHARED Models/lib/SmHangar.ac 100.43025 64.33127 609.47 97.8
+OBJECT_SHARED Models/lib/shed8x10.ac 100.43032 64.33015 609.26 277.8
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 100.42770 64.33016 514.38 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 100.42817 64.32996 507.36 225
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 100.42704 64.33014 507.18 237.99
+# END dsf2stg

@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_black.ac -22.75548 65.05987 2.00 43.19
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -22.75562 65.05984 1.94 137.49
-OBJECT_SHARED Models/Transport/hatchback_red.ac -22.75560 65.05977 1.94 138.7
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -22.75498 65.06004 2.20 36.8873
-OBJECT_SHARED Models/lib/stack_of_cones.ac -22.75559 65.05998 1.96 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -22.75538 65.06063 2.06 36.44
-OBJECT_SHARED Models/lib/lamp10m.xml -22.75654 65.06012 1.65 -54.2
-OBJECT_SHARED Models/Airport/cargobox.xml -22.75584 65.05986 1.88 0
-OBJECT_SHARED Models/Airport/cargoip.xml -22.75586 65.05985 1.89 0
-OBJECT_SHARED Models/Airport/cargoip.xml -22.75581 65.05985 1.88 0
-OBJECT_SHARED Models/lib/SmHangar.ac -22.75477 65.06026 2.31 306.99
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -22.75548 65.05987 0.00 43.19
+OBJECT_SHARED Models/Transport/van_red.ac -22.75562 65.05984 2.00 137.49
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -22.75560 65.05977 1.94 138.7
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -22.75498 65.06004 1.94 36.8873
+OBJECT_SHARED Models/lib/stack_of_cones.ac -22.75559 65.05998 2.20 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -22.75538 65.06063 1.96 36.44
+OBJECT_SHARED Models/lib/lamp10m.xml -22.75654 65.06012 2.05 -54.2
+OBJECT_SHARED Models/Airport/cargobox.xml -22.75584 65.05986 1.65 0
+OBJECT_SHARED Models/Airport/cargoip.xml -22.75586 65.05985 1.88 0
+OBJECT_SHARED Models/Airport/cargoip.xml -22.75581 65.05985 1.85 0
+OBJECT_SHARED Models/lib/SmHangar.ac -22.75477 65.06026 1.88 306.99
 # END dsf2stg

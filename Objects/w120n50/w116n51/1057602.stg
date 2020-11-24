@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -115.33820 51.07883 0.00 120
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -115.33808 51.07870 1318.38 120
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -115.33782 51.07852 1318.21 210
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -115.33783 51.07840 1317.87 160.98
+OBJECT_SHARED Models/Misc/picnic_table.ac -115.33819 51.07848 1317.70 300
+OBJECT_SHARED Models/Misc/picnic_table.ac -115.33813 51.07850 1317.87 300
+OBJECT_SHARED Models/Misc/picnic_table.ac -115.33808 51.07852 1317.87 300
+OBJECT_SHARED Models/lib/HorizTanks2.ac -115.33820 51.07876 1317.87 210
+OBJECT_SHARED Models/lib/fuel-truck.xml -115.33846 51.07867 1318.38 209
+OBJECT_SHARED Models/lib/cars6.ac -115.33890 51.07891 1318.21 298
+OBJECT_SHARED Models/lib/cars10.ac -115.33867 51.07859 1317.74 298
+OBJECT_SHARED Models/lib/garden-shed.ac -115.33828 51.07864 1317.28 120
+OBJECT_SHARED Models/lib/garden-shed.ac -115.33824 51.07865 1318.04 120
+OBJECT_SHARED Models/lib/garden-shed.ac -115.33820 51.07867 1318.21 120
+OBJECT_SHARED Models/lib/garden-shed.ac -115.33816 51.07868 1318.21 120
+# END dsf2stg

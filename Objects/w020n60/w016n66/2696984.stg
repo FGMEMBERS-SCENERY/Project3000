@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_red.ac -15.91633 66.40813 15.95 132.42
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -15.91633 66.40813 0.00 132.42
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac -15.91767 66.40807 15.95 125.81
-OBJECT_SHARED Models/lib/SmHangar.ac -15.91736 66.40815 15.93 125.816
+OBJECT_SHARED Models/lib/SmHangar.ac -15.91736 66.40815 15.95 125.816
 # END dsf2stg

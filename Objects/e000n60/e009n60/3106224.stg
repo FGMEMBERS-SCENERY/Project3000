@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 9.05650 60.78880 0.00 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 9.05659 60.78883 847.27 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.05672 60.78878 847.32 340.56
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.05661 60.78880 847.39 334.8
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.05671 60.78882 847.33 337.75
+OBJECT_SHARED Models/lib/prop_a.ac 9.05539 60.78917 847.38 90
+OBJECT_SHARED Models/Transport/van_red.ac 9.05719 60.78890 847.47 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 9.05711 60.78893 847.84 357.14
+OBJECT_SHARED Models/lib/HorizTanks2.ac 9.05462 60.78923 847.80 158.46
+OBJECT_SHARED Models/lib/farm19x12.ac 9.05683 60.78880 847.05 160.56
+OBJECT_SHARED Models/lib/SmHangar.ac 9.05524 60.78877 847.45 159.74
+# END dsf2stg

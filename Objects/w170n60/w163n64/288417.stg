@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -162.27079 64.61905 0.00 96.81
+OBJECT_SHARED Models/lib/lamp10m.xml -162.27029 64.61907 55.13 94.24
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -162.27008 64.61911 50.70 5.25
+OBJECT_SHARED Models/Transport/van_silver.ac -162.27086 64.61914 50.70 177.95
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -162.27014 64.61908 54.69 268.03
+OBJECT_SHARED Models/lib/industrial13x24.ac -162.26325 64.61851 50.70 54.76
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -162.26997 64.61905 23.18 95.88
+OBJECT_SHARED Models/lib/2container-office.ac -162.27054 64.61921 51.14 5.11
+OBJECT_SHARED Models/lib/shed8x10.ac -162.27022 64.61915 54.25 275.51
+OBJECT_SHARED Models/lib/SmHangar.ac -162.27052 64.61906 50.27 96.35
+OBJECT_SHARED Models/lib/HorizTanks2.ac -162.27531 64.60981 54.69 327.99
+OBJECT_SHARED Models/lib/HorizTanks2.ac -162.27367 64.61080 38.82 327.99
+OBJECT_SHARED Models/lib/HorizTanks2.ac -162.27541 64.60975 43.18 327.99
+OBJECT_SHARED Models/lib/HorizTanks2.ac -162.27498 64.61004 37.69 327.99
+OBJECT_SHARED Models/lib/HorizTanks2.ac -162.27520 64.60989 41.09 327.99
+OBJECT_SHARED Models/lib/HorizTanks2.ac -162.27510 64.60996 39.96 327.99
+OBJECT_SHARED Models/lib/transformer3x3.ac -162.27178 64.61654 41.09 253.74
+# END dsf2stg

@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac 16.52773 51.83187 0.00 12.18
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.52706 51.83194 91.35 12.53
+OBJECT_SHARED Models/lib/LgMaint.ac 16.52937 51.83235 91.38 281
+OBJECT_SHARED Models/lib/LgMaint.ac 16.53087 51.83253 91.38 281
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 16.53259 51.83374 91.14 102.27
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 16.52971 51.83228 90.56 100.14
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 16.52732 51.83170 91.30 104.06
+OBJECT_SHARED Models/Transport/hatchback_black.ac 16.53160 51.83293 91.30 13.13
+# END dsf2stg

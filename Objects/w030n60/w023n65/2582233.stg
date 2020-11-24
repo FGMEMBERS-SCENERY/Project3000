@@ -1,6 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -22.20233 65.45262 20.69 14.0356
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -22.20273 65.45266 20.83 347.661
+OBJECT_SHARED Models/lib/cone.ac -22.21818 65.45004 0.00 0
+OBJECT_SHARED Models/lib/cone.ac -22.21819 65.45005 17.17 0
+OBJECT_SHARED Models/lib/cone.ac -22.21821 65.45007 17.30 0
+OBJECT_SHARED Models/lib/cone.ac -22.21840 65.45025 17.30 0
+OBJECT_SHARED Models/lib/cone.ac -22.21841 65.45026 17.39 0
+OBJECT_SHARED Models/lib/cone.ac -22.21843 65.45027 17.51 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -22.21542 65.44990 17.51 349.255
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -22.21628 65.44962 17.81 350.362
+OBJECT_SHARED Models/lib/farm19x12.ac -22.20143 65.45191 16.91 250.453
+OBJECT_SHARED Models/lib/farm19x12.ac -22.21235 65.44968 20.39 169.111
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -22.20238 65.45236 18.05 14.04
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -22.20285 65.45243 20.54 347.66
 # END dsf2stg

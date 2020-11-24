@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars2.ac -122.95585 50.12007 0.00 132.72
+OBJECT_SHARED Models/lib/cars4.ac -122.95503 50.12018 663.29 135.94
+OBJECT_SHARED Models/lib/cars4.ac -122.95590 50.12010 665.35 133.75
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95459 50.12032 663.79 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95455 50.12030 665.66 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95453 50.12029 665.66 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95452 50.12027 665.66 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95452 50.12026 665.66 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95452 50.12021 665.66 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95453 50.12019 665.85 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95455 50.12017 665.85 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95457 50.12016 665.85 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95459 50.12014 665.85 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95462 50.12013 665.96 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95466 50.12012 665.96 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95470 50.12013 665.96 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95474 50.12013 665.96 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95477 50.12014 665.96 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95480 50.12016 665.96 270
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95482 50.12018 665.85 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95483 50.12020 665.85 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95484 50.12024 665.85 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95483 50.12027 665.85 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95481 50.12029 665.66 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95478 50.12031 665.66 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95474 50.12032 665.66 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95469 50.12033 665.66 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -122.95463 50.12033 665.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95483 50.11983 665.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95495 50.11975 665.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95506 50.11967 665.92 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95530 50.11970 665.92 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95537 50.11974 665.92 45
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95571 50.11996 665.92 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95550 50.11984 663.43 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95600 50.12024 665.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95617 50.12023 663.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95530 50.12025 663.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95540 50.12021 665.16 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95553 50.12019 665.35 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95548 50.12029 663.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95535 50.12031 665.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.95522 50.12033 665.16 0
+# END dsf2stg

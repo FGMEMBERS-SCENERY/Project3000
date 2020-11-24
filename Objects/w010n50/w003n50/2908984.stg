@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -2.92207 50.96209 0.00 349.55
+OBJECT_SHARED Models/lib/SmHangar.ac -2.93736 50.96822 25.90 348.59
+OBJECT_SHARED Models/lib/fboModern1.ac -2.93247 50.95924 32.60 160.07
+OBJECT_SHARED Models/lib/fboModern1.ac -2.92919 50.95975 29.77 56.11
+OBJECT_SHARED Models/lib/cube16x10.ac -2.92928 50.96134 29.33 139.21
+OBJECT_SHARED Models/lib/MedHangar.ac -2.92794 50.96041 30.75 147.27
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -2.92949 50.96135 29.37 47.57
+OBJECT_SHARED Models/lib/belt_loader.ac -2.92983 50.95990 30.85 146.66
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -2.92898 50.95971 29.71 65.85
+OBJECT_SHARED Models/lib/loader.ac -2.92973 50.95995 29.13 145
+# END dsf2stg

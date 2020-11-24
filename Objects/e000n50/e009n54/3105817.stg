@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/stack_of_cones.ac 9.49821 54.46073 18.12 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac 9.49871 54.45591 16.08 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.49995 54.46336 19.32 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.49957 54.46206 18.77 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.49946 54.46191 18.67 0
-OBJECT_SHARED Models/lib/MedHangar.ac 9.49822 54.46033 17.92 226.38
-OBJECT_SHARED Models/lib/SmHangar.ac 9.49896 54.45978 17.65 90
-OBJECT_SHARED Models/lib/SmHangar.ac 9.49753 54.45914 17.28 93.96
-OBJECT_SHARED Models/lib/SmHangar.ac 9.49951 54.45834 17.00 22.83
-OBJECT_SHARED Models/lib/SmHangar.ac 9.49999 54.45713 16.61 123.02
-OBJECT_SHARED Models/lib/SmHangar.ac 9.49654 54.45771 16.49 43.81
-OBJECT_SHARED Models/lib/SmHangar.ac 9.49645 54.45689 16.09 189.23
-OBJECT_SHARED Models/lib/office32x25n.ac 9.49831 54.45707 16.41 154.07
-OBJECT_SHARED Models/lib/lamp10m.xml 9.49992 54.45345 16.05 205.91
+OBJECT_SHARED Models/lib/stack_of_cones.ac 9.49821 54.46073 18.04 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 9.49871 54.45591 18.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.49995 54.46336 18.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.49957 54.46206 19.32 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.49946 54.46191 18.79 0
+OBJECT_SHARED Models/lib/MedHangar.ac 9.49822 54.46033 18.22 226.38
+OBJECT_SHARED Models/lib/SmHangar.ac 9.49896 54.45978 17.31 90
+OBJECT_SHARED Models/lib/SmHangar.ac 9.49753 54.45914 17.65 93.96
+OBJECT_SHARED Models/lib/SmHangar.ac 9.49951 54.45834 17.28 22.83
+OBJECT_SHARED Models/lib/SmHangar.ac 9.49999 54.45713 16.89 123.02
+OBJECT_SHARED Models/lib/SmHangar.ac 9.49654 54.45771 16.61 43.81
+OBJECT_SHARED Models/lib/SmHangar.ac 9.49645 54.45689 16.49 189.23
+OBJECT_SHARED Models/lib/office32x25n.ac 9.49831 54.45707 16.09 154.07
+OBJECT_SHARED Models/lib/lamp10m.xml 9.49992 54.45345 18.11 205.91
 # END dsf2stg

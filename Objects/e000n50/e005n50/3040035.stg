@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_silver.ac 5.85601 50.55347 0.00 211.61
+OBJECT_SHARED Models/Transport/hatchback_black.ac 5.85597 50.55346 335.71 214.51
+OBJECT_SHARED Models/Transport/hatchback_green.ac 5.85647 50.55331 335.68 196.5
+OBJECT_SHARED Models/Transport/van_red.ac 5.85640 50.55331 336.53 211.87
+OBJECT_SHARED Models/lib/vending-machine.ac 5.85627 50.55324 336.47 304.78
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.85615 50.55317 336.53 233.06
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.85633 50.55326 336.42 202.05
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.85633 50.55322 336.40 36.39
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.85621 50.55317 336.58 33.51
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.85616 50.55315 336.47 33.51
+OBJECT_SHARED Models/lib/SmHangar.ac 5.85458 50.55234 336.43 143.2
+OBJECT_SHARED Models/lib/SmHangar.ac 5.85468 50.55243 336.21 143.2
+OBJECT_SHARED Models/lib/SmHangar.ac 5.85477 50.55251 336.17 143.2
+OBJECT_SHARED Models/lib/SmHangar.ac 5.85487 50.55259 336.12 143.2
+OBJECT_SHARED Models/lib/SmHangar.ac 5.85497 50.55267 336.07 143.2
+OBJECT_SHARED Models/lib/stack_of_cones.ac 5.85512 50.55266 336.03 122.14
+# END dsf2stg

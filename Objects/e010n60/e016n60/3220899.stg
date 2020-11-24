@@ -1,24 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 16.95674 60.59638 59.78 178.15
-OBJECT_SHARED Models/lib/FireStationLg.ac 16.95804 60.59574 59.88 178.28
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 16.95623 60.59472 60.38 270
-OBJECT_SHARED Models/lib/watertank3x1.ac 16.95726 60.59730 59.48 0
-OBJECT_SHARED Models/lib/HorizTanks2.ac 16.95673 60.59494 60.18 90
-OBJECT_SHARED Models/lib/office32x25n.ac 16.95856 60.59437 60.32 178.87
-OBJECT_SHARED Models/lib/MedHangar.ac 16.95791 60.59540 59.97 358.98
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 16.95793 60.59482 60.14 359.39
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 16.95817 60.59719 59.44 298.94
-OBJECT_SHARED Models/lib/cars6.ac 16.95655 60.59736 59.57 179.64
-OBJECT_SHARED Models/lib/garage-small-white.ac 16.95603 60.59754 59.77 90
-OBJECT_SHARED Models/lib/garden-shed.ac 16.95610 60.59761 59.70 0
-OBJECT_SHARED Models/lib/dGreenhse.ac 16.95575 60.59761 59.84 179.56
-OBJECT_SHARED Models/lib/SmHangar.ac 16.95701 60.59728 59.51 90
-OBJECT_SHARED Models/lib/SmHangar.ac 16.95841 60.59726 59.42 90
-OBJECT_SHARED Models/lib/SmHangar.ac 16.95799 60.59726 59.43 90
-OBJECT_SHARED Models/lib/SmHangar.ac 16.95757 60.59728 59.46 90
-OBJECT_SHARED Models/Misc/picnic_table.ac 16.95542 60.59748 60.05 3.81
-OBJECT_SHARED Models/Misc/picnic_table.ac 16.95534 60.59748 60.10 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 16.95542 60.59755 60.05 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 16.95674 60.59638 0.00 178.15
+OBJECT_SHARED Models/lib/FireStationLg.ac 16.95804 60.59574 59.78 178.28
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 16.95623 60.59472 59.88 270
+OBJECT_SHARED Models/lib/watertank3x1.ac 16.95726 60.59730 60.38 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac 16.95673 60.59494 59.48 90
+OBJECT_SHARED Models/lib/office32x25n.ac 16.95856 60.59437 60.18 178.87
+OBJECT_SHARED Models/lib/MedHangar.ac 16.95791 60.59540 60.32 358.98
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 16.95793 60.59482 59.97 359.39
+OBJECT_SHARED Models/Aircraft/Cessna172.ac 16.95817 60.59719 60.14 298.94
+OBJECT_SHARED Models/lib/cars6.ac 16.95655 60.59736 59.44 179.64
+OBJECT_SHARED Models/lib/garage-small-white.ac 16.95603 60.59754 59.57 90
+OBJECT_SHARED Models/lib/garden-shed.ac 16.95610 60.59761 59.77 0
+OBJECT_SHARED Models/lib/dGreenhse.ac 16.95575 60.59761 59.70 179.56
+OBJECT_SHARED Models/lib/SmHangar.ac 16.95701 60.59728 59.84 90
+OBJECT_SHARED Models/lib/SmHangar.ac 16.95841 60.59726 59.51 90
+OBJECT_SHARED Models/lib/SmHangar.ac 16.95799 60.59726 59.42 90
+OBJECT_SHARED Models/lib/SmHangar.ac 16.95757 60.59728 59.43 90
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.95542 60.59748 59.46 3.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.95534 60.59748 60.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 16.95542 60.59755 60.10 0
 # END dsf2stg

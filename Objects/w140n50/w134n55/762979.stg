@@ -1,0 +1,40 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -133.07178 55.57871 0.00 320.26
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -133.07134 55.57892 12.40 142.82
+OBJECT_SHARED Models/lib/shed8x10.ac -133.07023 55.57941 12.94 139.09
+OBJECT_SHARED Models/Airport/cargoip.xml -133.07006 55.57970 13.22 0
+OBJECT_SHARED Models/Airport/cargoip.xml -133.07011 55.57972 12.94 0
+OBJECT_SHARED Models/Airport/cargoip.xml -133.07014 55.57974 12.94 0
+OBJECT_SHARED Models/Airport/cargoip.xml -133.07018 55.57976 12.94 0
+OBJECT_SHARED Models/Airport/cargobox.xml -133.07052 55.57916 12.85 0
+OBJECT_SHARED Models/Airport/cargobox.xml -133.07050 55.57919 12.68 0
+OBJECT_SHARED Models/Airport/cargobox.xml -133.07055 55.57919 12.68 0
+OBJECT_SHARED Models/Airport/cargobox.xml -133.07055 55.57917 12.68 146.31
+OBJECT_SHARED Models/Airport/cargobox.xml -133.07060 55.57914 12.68 141.84
+OBJECT_SHARED Models/Misc/6barrels.ac -133.07107 55.57878 12.77 0
+OBJECT_SHARED Models/Misc/6barrels.ac -133.07113 55.57874 13.03 0
+OBJECT_SHARED Models/Misc/6barrels.ac -133.07107 55.57884 13.12 0
+OBJECT_SHARED Models/Misc/6barrels.ac -133.07112 55.57878 13.03 0
+OBJECT_SHARED Models/Misc/6barrels.ac -133.07118 55.57875 13.03 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -133.07802 55.57820 13.12 0
+OBJECT_SHARED Models/lib/prop_a.ac -133.07276 55.57892 8.69 230.886
+OBJECT_SHARED Models/lib/prop_a.ac -133.07345 55.57847 11.48 230.86
+OBJECT_SHARED Models/lib/prop_a.ac -133.07243 55.57875 11.86 232.24
+OBJECT_SHARED Models/lib/prop_a.ac -133.07310 55.57881 12.31 48.62
+OBJECT_SHARED Models/lib/prop_a.ac -133.07295 55.57860 11.57 231.34
+OBJECT_SHARED Models/Transport/hatchback_black.ac -133.07058 55.57925 11.76 259.695
+OBJECT_SHARED Models/Transport/hatchback_black.ac -133.07066 55.57929 12.59 252.474
+OBJECT_SHARED Models/Transport/van_silver.ac -133.07074 55.57932 12.59 239.743
+OBJECT_SHARED Models/Transport/hatchback_black.ac -133.07014 55.57937 12.59 149.535
+OBJECT_SHARED Models/Transport/hatchback_green.ac -133.07226 55.57832 13.22 236.976
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -133.07159 55.57874 12.74 226.974
+OBJECT_SHARED Models/lib/trailer-fedex.ac -133.06985 55.57961 12.40 140.194
+OBJECT_SHARED Models/lib/industrial13x24.ac -133.07042 55.57956 13.04 50.76
+OBJECT_SHARED Models/lib/lamp10m.xml -133.07032 55.57977 13.04 0
+OBJECT_SHARED Models/lib/lamp10m.xml -133.07191 55.58047 12.85 0
+OBJECT_SHARED Models/lib/lamp10m.xml -133.07199 55.57861 10.67 0
+OBJECT_SHARED Models/lib/lamp10m.xml -133.07420 55.57884 12.49 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -133.06361 55.57747 10.89 0
+# END dsf2stg

@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_black.ac 29.62151 63.51263 110.43 246.317
-OBJECT_SHARED Models/Transport/hatchback_black.ac 29.62151 63.51260 110.43 242.764
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 29.62179 63.51267 110.62 230.773
+OBJECT_SHARED Models/Transport/hatchback_black.ac 29.62151 63.51263 0.00 246.317
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 29.62151 63.51260 110.44 242.764
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 29.62179 63.51267 110.44 230.773
 # END dsf2stg

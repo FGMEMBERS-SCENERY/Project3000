@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -94.65868 53.86010 0.00 46.69
+OBJECT_SHARED Models/lib/office16x4n.ac -94.65598 53.85468 229.64 61.88
+OBJECT_SHARED Models/lib/office16x4n.ac -94.65628 53.85437 236.05 240.85
+OBJECT_SHARED Models/lib/industrial15x22.ac -94.66460 53.86174 234.41 304.82
+OBJECT_SHARED Models/lib/farm19x12.ac -94.64851 53.85213 225.32 165.22
+OBJECT_SHARED Models/lib/garage-small-white.ac -94.65160 53.85287 229.70 254.72
+OBJECT_SHARED Models/lib/garage-small-white.ac -94.65173 53.85288 231.32 73.82
+OBJECT_SHARED Models/lib/shed8x10.ac -94.65042 53.85333 231.16 51.34
+OBJECT_SHARED Models/lib/4container-office.ac -94.64882 53.85274 228.47 144.46
+OBJECT_SHARED Models/lib/office3x10.ac -94.65148 53.85335 233.68 43.26
+OBJECT_SHARED Models/lib/shed8x10.ac -94.65605 53.85522 235.31 62.24
+OBJECT_SHARED Models/lib/shed8x10.ac -94.65598 53.85530 235.16 62.24
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.65584 53.85514 234.96 63
+OBJECT_SHARED Models/Transport/Norberttruck.xml -94.65747 53.85659 235.27 63.09
+OBJECT_SHARED Models/Transport/van_silver.ac -94.65767 53.85701 231.88 226.47
+OBJECT_SHARED Models/Transport/Norberttruck.xml -94.65545 53.85578 231.77 57.27
+OBJECT_SHARED Models/Transport/Norberttruck.xml -94.65550 53.85579 231.74 54.9
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.65634 53.85604 231.75 238.51
+OBJECT_SHARED Models/Transport/van_red.ac -94.65737 53.85604 231.86 243.43
+OBJECT_SHARED Models/Transport/Norberttruck.xml -94.65758 53.85612 234.42 333.43
+OBJECT_SHARED Models/lib/industrial15x22.ac -94.65614 53.85588 233.51 329.71
+OBJECT_SHARED Models/Transport/Norberttruck.xml -94.65557 53.85581 231.85 58.2
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65493 53.85545 231.78 58.63
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65520 53.85548 232.81 60.55
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65531 53.85555 234.21 64.59
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65527 53.85552 234.26 61.7
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65540 53.85547 234.26 334.03
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65575 53.85551 234.32 329.04
+OBJECT_SHARED Models/lib/shed8x10.ac -94.65684 53.85355 234.54 49.44
+OBJECT_SHARED Models/lib/shed8x10.ac -94.65667 53.85349 226.94 49.44
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -94.65523 53.85364 226.65 62.78
+OBJECT_SHARED Models/lib/shed8x10.ac -94.65617 53.85334 232.38 344.71
+OBJECT_SHARED Models/lib/shed8x10.ac -94.65701 53.85360 227.34 49.44
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.65771 53.85483 225.84 222.71
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65808 53.85690 232.18 347.01
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.65771 53.85698 230.79 233.13
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -94.65779 53.85696 231.77 233.33
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65804 53.85695 231.39 341.17
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65809 53.85686 230.93 347.01
+OBJECT_SHARED Models/lib/prop_a.ac -94.65910 53.86033 230.79 234.55
+OBJECT_SHARED Models/lib/SmHangar.ac -94.65902 53.86040 229.46 62.61
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65579 53.85566 229.36 330.64
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65581 53.85563 234.18 330.64
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.65576 53.85569 234.36 330.64
+# END dsf2stg

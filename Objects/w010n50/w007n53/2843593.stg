@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office6x12.ac -6.63228 53.17428 0.00 275.29
+OBJECT_SHARED Models/lib/shed8x10.ac -6.63226 53.17420 136.52 5.25384
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.63226 53.17401 136.35 274.844
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -6.63052 53.18135 41.05 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -6.63085 53.18144 50.53 0
+OBJECT_SHARED Models/lib/shed8x10.ac -6.63199 53.18041 143.19 346.328
+OBJECT_SHARED Models/lib/shed8x10.ac -6.63208 53.18018 144.87 346.328
+OBJECT_SHARED Models/lib/shed8x10.ac -6.63215 53.18043 145.26 346.328
+OBJECT_SHARED Models/lib/shed8x10.ac -6.63224 53.18020 145.16 346.328
+OBJECT_SHARED Models/lib/shed10x50.ac -6.63237 53.18036 145.55 253.887
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.63248 53.18051 145.46 257.471
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -6.63272 53.17373 145.15 320.44
+OBJECT_SHARED Models/Transport/hatchback_red.ac -6.63278 53.17373 135.58 317.816
+OBJECT_SHARED Models/Transport/van_red.ac -6.63284 53.17373 135.58 319.844
+OBJECT_SHARED Models/Transport/hatchback_black.ac -6.63313 53.17388 135.58 339.717
+OBJECT_SHARED Models/Transport/hatchback_red.ac -6.63328 53.17388 136.05 307.476
+OBJECT_SHARED Models/Transport/hatchback_red.ac -6.63219 53.17380 136.10 264.806
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -6.63218 53.17376 135.76 262.405
+OBJECT_SHARED Models/Transport/hatchback_black.ac -6.63270 53.17414 135.76 308.66
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -6.63248 53.17414 136.33 165.069
+OBJECT_SHARED Models/Misc/6barrels.ac -6.63222 53.17385 136.25 289.179
+OBJECT_SHARED Models/Misc/6barrels.ac -6.63235 53.17432 135.76 153.435
+OBJECT_SHARED Models/Misc/6barrels.ac -6.63239 53.17411 136.54 190.62
+# END dsf2stg

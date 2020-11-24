@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -2.09600 52.70717 0.00 246.37
+OBJECT_SHARED Models/Transport/hatchback_green.ac -2.09344 52.70836 98.58 285.46
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -2.09249 52.71118 101.70 159.81
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -2.09688 52.70750 104.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.09616 52.70754 97.40 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -2.09120 52.71110 98.52 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -2.09138 52.71114 104.74 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -2.09170 52.71120 104.68 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -2.09203 52.71124 104.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.09220 52.71127 104.37 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -2.09328 52.70835 104.26 340.19
+OBJECT_SHARED Models/Transport/van_red.ac -2.09240 52.71117 101.69 155.15
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -2.09628 52.70722 104.19 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -2.09632 52.70760 98.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -2.09597 52.70753 98.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -2.08759 52.71054 98.78 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -2.09076 52.71102 105.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.09154 52.71116 104.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -2.09187 52.71121 104.56 0
+OBJECT_SHARED Models/lib/shed8x10.ac -2.09594 52.70702 104.44 64.82
+OBJECT_SHARED Models/lib/shed8x10.ac -2.09581 52.70698 98.41 64.82
+OBJECT_SHARED Models/lib/shed8x10.ac -2.09577 52.70722 98.44 344.05
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -2.09547 52.70728 98.65 343.69
+OBJECT_SHARED Models/lib/garages18x9.ac -2.09529 52.70734 98.85 73.54
+OBJECT_SHARED Models/lib/garages18x9.ac -2.09504 52.70750 98.95 73.54
+OBJECT_SHARED Models/lib/office3x10.ac -2.09305 52.70831 99.35 340.96
+OBJECT_SHARED Models/lib/office3x10.ac -2.09297 52.70826 101.86 251
+OBJECT_SHARED Models/lib/office3x10.ac -2.09286 52.70827 101.92 340.96
+OBJECT_SHARED Models/lib/office6x12.ac -2.09263 52.70820 102.00 73.28
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -2.09605 52.70668 102.06 151.14
+OBJECT_SHARED Models/Misc/picnic_table.ac -2.09276 52.70835 98.25 69.93
+OBJECT_SHARED Models/Misc/picnic_table.ac -2.09229 52.70817 102.07 339.78
+OBJECT_SHARED Models/Transport/hatchback_black.ac -2.09319 52.70833 102.31 340.92
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -2.09353 52.70838 101.76 281.22
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -2.09413 52.70844 101.63 251.37
+OBJECT_SHARED Models/Transport/van_silver.ac -2.09255 52.71120 101.17 155.41
+OBJECT_SHARED Models/lib/prop_a.ac -2.09087 52.71081 104.12 87.61
+OBJECT_SHARED Models/lib/prop_a.ac -2.09189 52.70819 104.92 79.9
+OBJECT_SHARED Models/lib/prop_a.ac -2.09261 52.70844 102.63 344.81
+OBJECT_SHARED Models/lib/deciduous-tree.xml -2.08976 52.71088 102.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.09026 52.71095 105.27 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -2.09235 52.71129 105.16 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -2.09251 52.71132 104.18 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -2.09271 52.71135 104.11 0
+# END dsf2stg

@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -1.46257 54.68659 0.00 191.901
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.46261 54.68693 112.05 184.32
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.46260 54.68686 111.95 184.32
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.46249 54.68687 111.95 184.32
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.46250 54.68694 111.96 186.05
+OBJECT_SHARED Models/lib/cars2.ac -1.46279 54.68705 111.96 274.3
+OBJECT_SHARED Models/lib/cars2.ac -1.46278 54.68699 111.95 95.71
+OBJECT_SHARED Models/lib/cars4.ac -1.46230 54.68721 111.95 186.12
+OBJECT_SHARED Models/lib/cars6.ac -1.46250 54.68719 111.92 275.55
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.46155 54.68808 111.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.46140 54.68810 112.53 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.46124 54.68810 112.42 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.46107 54.68812 112.31 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.46088 54.68814 112.18 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.46072 54.68815 112.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.46056 54.68817 111.86 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.45989 54.68808 111.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.45979 54.68781 110.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.45985 54.68791 110.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.45993 54.68800 110.84 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.45989 54.68817 110.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.45995 54.68829 111.02 0
+OBJECT_SHARED Models/lib/prop_a.ac -1.46245 54.68772 111.17 94.02
+OBJECT_SHARED Models/lib/prop_a.ac -1.46130 54.68790 112.24 279.4
+OBJECT_SHARED Models/lib/prop_a.ac -1.46010 54.68719 112.13 274.15
+OBJECT_SHARED Models/lib/office3x10.ac -1.46272 54.68655 110.77 192.09
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46079 54.68720 112.03 96.63
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46108 54.68718 111.31 96.63
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46132 54.68717 111.55 96.63
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46176 54.68714 111.67 96.63
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46010 54.68725 111.77 96.63
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46049 54.68722 110.77 96.63
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46156 54.68715 111.08 96.63
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46206 54.68712 111.72 96.63
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46234 54.68710 111.85 96.63
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46106 54.68798 111.92 98.21
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46131 54.68795 112.01 98.21
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46156 54.68793 112.24 98.21
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46180 54.68791 112.26 98.21
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46204 54.68789 112.30 98.21
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46229 54.68787 112.33 98.21
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46059 54.68802 112.38 98.21
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46082 54.68800 111.60 98.21
+OBJECT_SHARED Models/lib/SmHangar.ac -1.46254 54.68785 111.80 98.21
+OBJECT_SHARED Models/lib/farm19x12.ac -1.46336 54.68791 112.45 231.9
+# END dsf2stg

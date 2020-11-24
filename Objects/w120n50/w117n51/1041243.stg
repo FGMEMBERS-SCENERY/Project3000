@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -116.18696 51.42979 0.00 136.615
+OBJECT_SHARED Models/Transport/van_red.ac -116.18699 51.42981 1541.75 136.615
+OBJECT_SHARED Models/Transport/hatchback_red.ac -116.18703 51.42983 1541.75 140.764
+OBJECT_SHARED Models/Transport/van_red.ac -116.18706 51.42985 1541.75 140.764
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.18723 51.42992 1541.75 147.901
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.18728 51.42993 1541.82 147.901
+OBJECT_SHARED Models/Transport/van_red.ac -116.18732 51.42995 1541.82 147.901
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -116.18737 51.42997 1541.72 147.901
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.18741 51.42998 1541.72 143.838
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.18745 51.43000 1541.72 150.255
+OBJECT_SHARED Models/lib/garage-small-white.ac -116.18878 51.43180 1541.72 245.22
+OBJECT_SHARED Models/lib/propane-tank.ac -116.18687 51.43086 1541.39 332.29
+OBJECT_SHARED Models/lib/propane-tank.ac -116.18683 51.43091 1540.78 332.29
+OBJECT_SHARED Models/lib/propane-tank.ac -116.18684 51.43089 1540.78 332.29
+OBJECT_SHARED Models/lib/propane-tank.ac -116.18686 51.43088 1540.78 332.29
+OBJECT_SHARED Models/lib/cars4.ac -116.18865 51.43129 1540.78 316.25
+OBJECT_SHARED Models/lib/cars10.ac -116.18848 51.43119 1540.95 309.51
+OBJECT_SHARED Models/Misc/6barrels.ac -116.18710 51.42975 1540.73 0
+OBJECT_SHARED Models/lib/garden-shed.ac -116.18680 51.42966 1541.75 232.765
+# END dsf2stg

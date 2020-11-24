@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -149.08884 64.54806 0.00 164.615
+OBJECT_SHARED Models/lib/SmHangar.ac -149.08488 64.54376 107.11 212.229
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -149.08940 64.54808 107.45 0
+OBJECT_SHARED Models/lib/lamp10m.xml -149.08910 64.54823 107.11 97.9428
+OBJECT_SHARED Models/lib/lamp10m.xml -149.08634 64.54852 107.16 120.033
+# END dsf2stg

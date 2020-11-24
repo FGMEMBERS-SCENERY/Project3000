@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 20.54456 51.62376 0.00 283.96
+OBJECT_SHARED Models/lib/industrial15x22.ac 20.54632 51.62347 160.31 299.05
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 20.54742 51.62339 160.51 213.23
+OBJECT_SHARED Models/lib/industrial15x22.ac 20.54668 51.62309 160.63 215.03
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 20.53288 51.62266 158.02 106.51
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 20.53333 51.62272 159.44 195.07
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 20.53330 51.62272 159.53 197.53
+OBJECT_SHARED Models/Airport/cargoim.xml 20.53326 51.62271 159.53 188.13
+OBJECT_SHARED Models/Airport/cargobox.xml 20.53306 51.62268 159.53 202.31
+OBJECT_SHARED Models/Airport/cargobox.xml 20.53309 51.62269 159.49 195.15
+OBJECT_SHARED Models/Airport/cargoip.xml 20.53315 51.62270 159.49 203.5
+OBJECT_SHARED Models/Airport/cargoip.xml 20.53313 51.62270 159.51 186.71
+# END dsf2stg

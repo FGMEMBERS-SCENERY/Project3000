@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.29832 61.24990 0.00 0
+OBJECT_SHARED Models/lib/cone.ac -149.29793 61.24942 176.13 0
+OBJECT_SHARED Models/lib/cone.ac -149.29792 61.24943 178.14 0
+OBJECT_SHARED Models/lib/cone.ac -149.29791 61.24944 178.14 0
+OBJECT_SHARED Models/lib/cone.ac -149.29790 61.24944 178.14 0
+OBJECT_SHARED Models/lib/cone.ac -149.29815 61.24930 178.14 0
+OBJECT_SHARED Models/lib/cone.ac -149.29816 61.24930 178.10 0
+OBJECT_SHARED Models/lib/cone.ac -149.29816 61.24929 178.10 0
+OBJECT_SHARED Models/lib/cone.ac -149.29817 61.24929 178.10 0
+OBJECT_SHARED Models/lib/coal_pile.ac -149.29913 61.24999 178.10 90
+OBJECT_SHARED Models/lib/coal_pile.ac -149.29699 61.24911 177.30 90
+OBJECT_SHARED Models/lib/coal_pile.ac -149.29717 61.24958 179.00 90
+OBJECT_SHARED Models/Misc/6barrels.ac -149.29824 61.24966 179.41 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.29838 61.24988 178.22 143.97
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -149.29820 61.24981 178.28 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -149.29820 61.24977 178.25 228.1
+OBJECT_SHARED Models/lib/garden-shed.ac -149.29703 61.24909 178.25 59.04
+OBJECT_SHARED Models/lib/garden-shed.ac -149.29820 61.24969 179.00 54.64
+OBJECT_SHARED Models/lib/farm19x12.ac -149.29823 61.24985 178.22 48.58
+# END dsf2stg

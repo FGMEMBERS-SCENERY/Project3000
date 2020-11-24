@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 174.11316 52.71512 0.00 0
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 174.12661 52.71961 28.94 0
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 174.10191 52.71480 41.28 251.57
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 174.10253 52.71469 23.17 253.86
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac 174.10833 52.72156 23.48 52.79
+OBJECT_SHARED Models/lib/office112x50.ac 174.12433 52.71442 37.90 162.34
+OBJECT_SHARED Models/lib/FireStationLg.ac 174.11803 52.71550 32.19 254.29
+OBJECT_SHARED Models/Transport/van_silver.ac 174.11570 52.71545 31.80 342.42
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 174.11600 52.71578 31.04 287.34
+OBJECT_SHARED Models/Transport/hatchback_green.ac 174.11626 52.71574 31.58 215.23
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 174.11763 52.71526 31.39 165.96
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 174.11828 52.71552 31.41 350.54
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 174.11627 52.71607 31.80 164.96
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 174.11319 52.71544 32.16 165.06
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 174.11843 52.71453 29.54 163.14
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 174.12426 52.71396 29.85 73.74
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 174.12330 52.71410 31.36 231.99
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 174.12335 52.71410 31.14 228.53
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 174.12340 52.71409 31.14 224.44
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 174.11334 52.71557 31.14 166.43
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 174.11689 52.71480 29.93 165.44
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 174.11534 52.71501 30.04 165.44
+# END dsf2stg

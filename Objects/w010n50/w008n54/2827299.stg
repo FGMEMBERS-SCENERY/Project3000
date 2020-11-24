@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -7.04443 54.57035 0.00 60.95
+OBJECT_SHARED Models/Transport/hatchback_green.ac -7.04428 54.57178 157.97 24.44
+OBJECT_SHARED Models/lib/shed8x10.ac -7.04357 54.57119 156.99 226.5
+OBJECT_SHARED Models/Transport/hatchback_black.ac -7.04385 54.57158 158.19 330.26
+OBJECT_SHARED Models/Transport/hatchback_black.ac -7.04437 54.57175 157.55 209.05
+OBJECT_SHARED Models/lib/shed8x10.ac -7.04366 54.57125 156.92 226.5
+OBJECT_SHARED Models/lib/shed8x10.ac -7.04347 54.57114 158.12 226.5
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -7.04394 54.57142 158.38 158.43
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.04461 54.57063 157.64 320.19
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.04496 54.57082 157.62 338.79
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.04460 54.57156 157.14 95.03
+OBJECT_SHARED Models/Airport/cargobox.xml -7.04453 54.57148 156.87 100.44
+OBJECT_SHARED Models/Misc/6barrels.ac -7.04485 54.57076 157.01 309.61
+OBJECT_SHARED Models/Transport/hatchback_red.ac -7.04405 54.57156 157.24 62.65
+OBJECT_SHARED Models/lib/prop_a.ac -7.04486 54.57140 157.35 46.79
+OBJECT_SHARED Models/lib/trailer-fedex.ac -7.04447 54.57037 156.80 62.39
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -7.04413 54.57179 157.88 32.62
+OBJECT_SHARED Models/Airport/cargobox.xml -7.04494 54.57080 157.11 309.09
+OBJECT_SHARED Models/Misc/6barrels.ac -7.04461 54.57187 157.16 87.99
+OBJECT_SHARED Models/lib/trailer-fedex.ac -7.04450 54.57048 156.65 69.85
+OBJECT_SHARED Models/lib/trailer-fedex.ac -7.04444 54.57155 157.80 30.86
+OBJECT_SHARED Models/Transport/hatchback_red.ac -7.04394 54.57072 157.09 358.53
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -7.04419 54.57122 158.23 138.01
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.04449 54.57206 157.58 187.67
+OBJECT_SHARED Models/lib/shed8x10.ac -7.04388 54.57124 156.61 46.86
+OBJECT_SHARED Models/lib/prop_a.ac -7.04486 54.57154 157.89 353.54
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.04462 54.57198 156.73 12.34
+OBJECT_SHARED Models/lib/stack_of_cones.ac -7.04489 54.57078 156.57 146.2
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.04460 54.57160 157.21 95.03
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.04459 54.57154 156.87 95.03
+OBJECT_SHARED Models/lib/office3x10.ac -7.04410 54.57207 156.96 12.16
+OBJECT_SHARED Models/lib/garage-small-white.ac -7.04456 54.57181 156.90 5.23
+OBJECT_SHARED Models/lib/lamp10m.xml -7.04469 54.57176 156.76 270
+# END dsf2stg

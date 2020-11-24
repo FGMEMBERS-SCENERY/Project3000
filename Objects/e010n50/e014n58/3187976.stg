@@ -1,10 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 14.00270 58.19449 144.23 0
-OBJECT_SHARED Models/lib/SmHangar.ac 14.00122 58.19338 144.92 329.49
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 14.00229 58.19451 143.86 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 14.00260 58.19445 144.40 337.25
-OBJECT_SHARED Models/lib/SmHangar.ac 14.00159 58.19369 144.88 329.02
-OBJECT_SHARED Models/lib/SmHangar.ac 14.00222 58.19457 143.52 12.28
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 14.00230 58.19431 0.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac 14.00122 58.19338 143.54 329.49
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 14.00231 58.19438 143.99 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.00277 58.19448 143.29 337.25
+OBJECT_SHARED Models/lib/SmHangar.ac 14.00159 58.19369 143.48 329.02
+OBJECT_SHARED Models/Transport/hatchback_black.ac 14.00145 58.19391 144.00 336.502
+OBJECT_SHARED Models/Transport/van_red.ac 14.00131 58.19378 143.30 315
+OBJECT_SHARED Models/Transport/hatchback_black.ac 14.00148 58.19351 143.36 262.405
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 14.00145 58.19347 144.20 253.61
+OBJECT_SHARED Models/Transport/hatchback_red.ac 14.00182 58.19381 144.20 250.974
+OBJECT_SHARED Models/Transport/van_silver.ac 14.00182 58.19378 144.04 234.462
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 14.00317 58.19462 144.04 262.235
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 14.00315 58.19457 143.58 260.537
+OBJECT_SHARED Models/Transport/hatchback_green.ac 14.00311 58.19453 143.49 248.198
 # END dsf2stg

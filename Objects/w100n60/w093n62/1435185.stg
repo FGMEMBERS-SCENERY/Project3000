@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -92.09658 62.80895 0.00 232.6
+OBJECT_SHARED Models/lib/trailer-fedex.ac -92.09649 62.80913 25.87 232.6
+OBJECT_SHARED Models/lib/trailer-fedex.ac -92.09641 62.80912 25.75 232.6
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -92.09663 62.80940 25.72 317.59
+OBJECT_SHARED Models/lib/industrial15x22.ac -92.09712 62.80950 25.63 216.69
+OBJECT_SHARED Models/lib/industrial15x22.ac -92.09729 62.80961 25.72 216.69
+OBJECT_SHARED Models/lib/industrial15x22.ac -92.09747 62.80972 25.72 216.69
+OBJECT_SHARED Models/lib/LgMaint.ac -92.09955 62.80875 25.72 50.71
+OBJECT_SHARED Models/lib/shed10x50.ac -92.10487 62.81084 26.49 109.98
+OBJECT_SHARED Models/lib/office32x25n.ac -92.10256 62.81029 26.71 231.24
+OBJECT_SHARED Models/lib/MedHangar.ac -92.10697 62.80482 26.63 232.58
+OBJECT_SHARED Models/lib/large-hangar.ac -92.10869 62.80526 22.97 141.16
+OBJECT_SHARED Models/lib/large-hangar.ac -92.11123 62.80620 23.19 321.21
+OBJECT_SHARED Models/lib/MedHangar.ac -92.10082 62.80922 23.57 50.48
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -92.10875 62.80519 26.57 230.6
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -92.10922 62.80535 23.02 113.2
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -92.10912 62.80541 23.13 113.2
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.10899 62.80545 23.18 113.2
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.10888 62.80551 23.37 113.2
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.10917 62.80534 23.40 293.7
+OBJECT_SHARED Models/Transport/hatchback_red.ac -92.10908 62.80540 22.99 293.7
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.10895 62.80544 23.18 293.7
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.10884 62.80549 23.26 293.7
+OBJECT_SHARED Models/Transport/van_silver.ac -92.10910 62.80530 23.44 109.48
+OBJECT_SHARED Models/Transport/van_red.ac -92.10901 62.80536 23.04 109.48
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.10887 62.80540 23.23 109.48
+OBJECT_SHARED Models/Transport/van_red.ac -92.10876 62.80546 23.26 109.48
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.10926 62.80537 23.44 109.48
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.10917 62.80543 23.08 109.48
+OBJECT_SHARED Models/Transport/hatchback_red.ac -92.10904 62.80547 23.13 109.48
+OBJECT_SHARED Models/Transport/van_silver.ac -92.10893 62.80552 23.37 109.48
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.10915 62.80532 23.40 113.06
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -92.10905 62.80538 23.04 113.06
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.10892 62.80542 23.18 113.06
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.10881 62.80548 23.26 113.06
+OBJECT_SHARED Models/Transport/hatchback_red.ac -92.10931 62.80538 23.44 113.06
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.10921 62.80544 23.08 113.06
+OBJECT_SHARED Models/Transport/hatchback_black.ac -92.10908 62.80548 23.13 113.06
+OBJECT_SHARED Models/Transport/van_red.ac -92.10897 62.80554 23.33 113.06
+OBJECT_SHARED Models/Transport/Norberttruck.xml -92.09911 62.80294 23.37 285.03
+OBJECT_SHARED Models/lib/HorizTanks2.ac -92.09869 62.80311 15.47 235.75
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -92.10403 62.81048 16.14 222.6
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -92.10345 62.81023 26.73 181.58
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -92.09814 62.80827 26.70 135.76
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -92.10156 62.80958 26.38 178.45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -92.10222 62.80980 26.62 178.45
+# END dsf2stg

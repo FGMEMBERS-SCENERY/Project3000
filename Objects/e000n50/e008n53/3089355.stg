@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.80744 53.21614 0.00 46.85
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.80667 53.21663 0.45 223.67
+OBJECT_SHARED Models/Transport/van_red.ac 8.80656 53.21666 0.91 47.73
+OBJECT_SHARED Models/Transport/van_silver.ac 8.80657 53.21659 0.99 222.51
+OBJECT_SHARED Models/Transport/van_red.ac 8.80653 53.21657 0.89 223.78
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.80823 53.21577 0.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.80677 53.21658 0.17 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.80676 53.21650 0.93 0
+# END dsf2stg

@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04094 50.61756 227.95 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.03965 50.61745 227.09 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04035 50.61745 227.06 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04049 50.61754 227.06 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04078 50.61730 227.07 0
+OBJECT_SHARED Models/lib/propane-tank.ac -97.04104 50.61761 227.70 210.26
+OBJECT_SHARED Models/lib/propane-tank.ac -97.03967 50.61744 227.09 210.26
+OBJECT_SHARED Models/lib/propane-tank.ac -97.03984 50.61756 227.05 303.51
+OBJECT_SHARED Models/lib/propane-tank.ac -97.04010 50.61754 227.06 302.06
+OBJECT_SHARED Models/lib/propane-tank.ac -97.04035 50.61761 227.06 303.69
+OBJECT_SHARED Models/lib/propane-tank.ac -97.04078 50.61728 227.07 303.69
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04092 50.61745 228.62 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04056 50.61713 227.08 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.03986 50.61759 227.04 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04008 50.61757 227.06 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04016 50.61762 227.07 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04018 50.61758 227.07 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04048 50.61744 227.07 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.04060 50.61739 227.06 0
+OBJECT_SHARED Models/lib/cone.ac -97.04062 50.61779 227.07 0
+OBJECT_SHARED Models/lib/cone.ac -97.04068 50.61778 227.09 0
+OBJECT_SHARED Models/lib/propane-tank.ac -97.04061 50.61716 227.09 210.26
+OBJECT_SHARED Models/lib/propane-tank.ac -97.03993 50.61765 227.05 210.26
+OBJECT_SHARED Models/lib/propane-tank.ac -97.04016 50.61761 227.07 302.06
+OBJECT_SHARED Models/lib/propane-tank.ac -97.04023 50.61765 227.07 302.06
+OBJECT_SHARED Models/lib/propane-tank.ac -97.04035 50.61747 227.07 303.69
+OBJECT_SHARED Models/lib/propane-tank.ac -97.03987 50.61740 227.06 303.69
+OBJECT_SHARED Models/lib/propane-tank.ac -97.04106 50.61748 227.05 303.69
+OBJECT_SHARED Models/lib/office8x14.ac -97.04027 50.61678 227.09 27.41
+OBJECT_SHARED Models/lib/office6x12.ac -97.04098 50.61746 227.03 29.48
+OBJECT_SHARED Models/lib/office3x10.ac -97.03987 50.61743 227.08 29.98
+OBJECT_SHARED Models/lib/office3x10.ac -97.04041 50.61744 227.05 302.83
+OBJECT_SHARED Models/lib/office3x10.ac -97.04042 50.61759 227.06 302.83
+OBJECT_SHARED Models/lib/office3x10.ac -97.04071 50.61731 227.07 299.74
+OBJECT_SHARED Models/lib/2container-office.ac -97.04022 50.61759 227.06 119.05
+OBJECT_SHARED Models/lib/4container-office.ac -97.03976 50.61761 227.07 29.2
+OBJECT_SHARED Models/lib/4container-office.ac -97.04094 50.61760 227.06 30.07
+OBJECT_SHARED Models/lib/office3x10.ac -97.04016 50.61765 227.09 31.63
+OBJECT_SHARED Models/lib/office3x10.ac -97.04019 50.61686 227.07 32.06
+OBJECT_SHARED Models/lib/office3x10.ac -97.04005 50.61753 227.03 32.06
+OBJECT_SHARED Models/lib/office3x10.ac -97.04059 50.61734 227.06 32.06
+OBJECT_SHARED Models/lib/office3x10.ac -97.04055 50.61716 227.06 300.96
+OBJECT_SHARED Models/lib/office3x10.ac -97.03965 50.61747 227.05 300.96
+OBJECT_SHARED Models/lib/office3x10.ac -97.03987 50.61765 227.06 300.96
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -97.04099 50.61753 227.07 299.45
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -97.04008 50.61760 227.08 299.45
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -97.04068 50.61723 227.07 299.45
+OBJECT_SHARED Models/lib/cars6.ac -97.03905 50.61767 227.06 256.57
+OBJECT_SHARED Models/lib/cars6.ac -97.04009 50.61704 227.05 29.08
+# END dsf2stg
