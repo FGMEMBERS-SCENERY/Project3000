@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 158.20313 6.98158 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 158.20280 6.98231 7.20 0
+OBJECT_SHARED Models/lib/lamp10m.xml 158.20378 6.98160 6.17 0
+OBJECT_SHARED Models/lib/cars7.ac 158.20628 6.98354 8.71 90
+OBJECT_SHARED Models/lib/cars14.ac 158.20334 6.98079 7.38 271.31
+OBJECT_SHARED Models/lib/cars7.ac 158.20312 6.98105 4.83 91.4
+OBJECT_SHARED Models/lib/cars7.ac 158.20344 6.98106 5.45 91.4
+OBJECT_SHARED Models/lib/cars7.ac 158.20274 6.98138 5.47 180
+OBJECT_SHARED Models/lib/cars4.ac 158.20639 6.98334 7.52 180
+OBJECT_SHARED Models/lib/cars14.ac 158.20392 6.98108 7.63 91.4
+OBJECT_SHARED Models/lib/cars7.ac 158.20616 6.98333 9.72 270
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 158.20421 6.98147 7.64 313.795
+OBJECT_SHARED Models/lib/container6-HD.ac 158.20420 6.98133 8.96 315
+OBJECT_SHARED Models/lib/stack_of_cones.ac 158.20697 6.98368 9.22 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 158.20696 6.98345 7.75 55
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 158.20697 6.98349 8.16 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 158.20697 6.98353 8.09 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 158.20697 6.98356 8.02 90
+OBJECT_SHARED Models/lib/container6-HD.ac 158.20420 6.98141 7.96 315
+OBJECT_SHARED Models/lib/cars7.ac 158.20294 6.98139 9.07 180
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20277 6.98151 7.50 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20298 6.98152 7.31 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20277 6.98125 7.29 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20368 6.98108 7.73 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20369 6.98093 9.72 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20360 6.98080 6.86 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20359 6.98094 6.69 90
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20358 6.98109 6.87 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20351 6.98109 9.70 270
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20344 6.98108 9.70 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20312 6.98107 5.51 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 158.20301 6.98107 5.50 0
+# END dsf2stg

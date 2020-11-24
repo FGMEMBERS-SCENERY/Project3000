@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -114.41783 37.79064 0.00 180.61
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -114.41791 37.79064 1469.56 177.65
+OBJECT_SHARED Models/lib/office4x14.ac -114.41782 37.79099 1469.56 179.54
+OBJECT_SHARED Models/lib/office4x14.ac -114.41778 37.79099 1470.04 359.33
+OBJECT_SHARED Models/lib/transformer3x3.ac -114.41799 37.79176 1470.04 85.83
+OBJECT_SHARED Models/lib/SmHangar.ac -114.41806 37.79266 1471.01 90
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -114.41778 37.79089 1472.10 355.43
+OBJECT_SHARED Models/Transport/van_red.ac -114.41781 37.79090 1469.92 355.43
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -114.41785 37.79090 1469.92 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -114.41788 37.79104 1469.92 356.05
+OBJECT_SHARED Models/lib/HorizTanks2.ac -114.41793 37.79133 1470.04 357.69
+# END dsf2stg

@@ -1,29 +1,29 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30145 47.26449 720.94 0
-OBJECT_SHARED Models/lib/vending-machine.ac 8.30124 47.26442 721.29 105.41
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30149 47.26448 720.91 66.37
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30150 47.26445 720.91 0
-OBJECT_SHARED Models/lib/cars10.ac 8.30124 47.26431 721.48 17.16
-OBJECT_SHARED Models/lib/cars6.ac 8.30162 47.26421 721.17 197.5
-OBJECT_SHARED Models/lib/office3x10.ac 8.30125 47.26450 721.09 286.91
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30151 47.26449 720.90 287.73
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30152 47.26446 720.89 287.73
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30140 47.26450 720.98 16.81
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30136 47.26450 721.01 16.81
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30152 47.26443 721.08 16.81
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30136 47.26450 721.01 16.81
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30152 47.26443 721.08 16.81
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30141 47.26448 720.97 16.81
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30158 47.26442 721.01 16.81
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30137 47.26447 721.00 16.81
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.30153 47.26441 721.07 16.81
-OBJECT_SHARED Models/lib/office6x12.ac 8.30116 47.26433 721.54 16.48
-OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac 8.30118 47.26441 721.33 286.99
-OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac 8.30151 47.26440 721.09 106
-OBJECT_SHARED Models/lib/hangar81x16.ac 8.30098 47.26468 720.90 106.24
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 8.30096 47.26545 719.62 106.97
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.30067 47.26554 719.65 286.86
-OBJECT_SHARED Models/lib/LongRow.ac 8.30099 47.26460 721.09 106.55
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30145 47.26449 0.00 0
+OBJECT_SHARED Models/lib/vending-machine.ac 8.30124 47.26442 730.99 105.41
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30149 47.26448 731.31 66.37
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30150 47.26445 730.95 0
+OBJECT_SHARED Models/lib/cars10.ac 8.30124 47.26431 730.94 17.16
+OBJECT_SHARED Models/lib/cars6.ac 8.30162 47.26421 731.42 197.5
+OBJECT_SHARED Models/lib/office3x10.ac 8.30125 47.26450 731.12 286.91
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30151 47.26449 731.18 287.73
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30152 47.26446 730.93 287.73
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30140 47.26450 730.92 16.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30136 47.26450 731.04 16.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30152 47.26443 731.08 16.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30136 47.26450 731.04 16.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30152 47.26443 731.08 16.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30141 47.26448 731.03 16.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30158 47.26442 731.03 16.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30137 47.26447 730.97 16.81
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.30153 47.26441 731.07 16.81
+OBJECT_SHARED Models/lib/office6x12.ac 8.30116 47.26433 731.02 16.48
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac 8.30118 47.26441 731.50 286.99
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac 8.30151 47.26440 731.36 106
+OBJECT_SHARED Models/lib/hangar81x16.ac 8.30098 47.26468 731.04 106.24
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 8.30096 47.26545 731.14 106.97
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.30067 47.26554 730.12 286.86
+OBJECT_SHARED Models/lib/LongRow.ac 8.30099 47.26460 730.08 106.55
 # END dsf2stg

@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -90.13190 16.76603 0.00 58.73
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13014 16.76671 94.58 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -90.12934 16.76930 190.21 55.75
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -90.12991 16.76494 190.48 59.29
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -90.13079 16.76434 189.38 148.89
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.12993 16.76886 92.98 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.12999 16.76875 95.19 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13009 16.76859 95.11 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13016 16.76847 95.27 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -90.13194 16.76542 98.35 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -90.13182 16.76562 96.18 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -90.13169 16.76583 96.10 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13232 16.76780 93.02 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13258 16.76790 95.71 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13228 16.76801 95.90 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13214 16.76794 95.71 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13208 16.76806 95.59 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13221 16.76813 95.59 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13212 16.76840 95.66 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13203 16.76853 95.64 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.13190 16.76838 95.59 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -90.13199 16.76822 98.49 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -90.13181 16.76852 98.54 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -90.13149 16.76907 98.44 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -90.13162 16.76887 98.53 0
+OBJECT_SHARED Models/lib/prop_a.ac -90.13841 16.75225 190.51 178.15
+# END dsf2stg

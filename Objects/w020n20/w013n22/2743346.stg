@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -12.47470 22.75401 0.00 286.16
+OBJECT_SHARED Models/lib/lamp10m.xml -12.47575 22.75389 337.61 -85.56
+OBJECT_SHARED Models/lib/lamp10m.xml -12.47385 22.75399 337.84 -85.56
+OBJECT_SHARED Models/lib/lamp10m.xml -12.47438 22.75396 337.46 -85.56
+OBJECT_SHARED Models/lib/lamp10m.xml -12.47539 22.75391 337.56 -87.39
+OBJECT_SHARED Models/lib/HorizTanks2.ac -12.47360 22.75379 337.78 92.94
+# END dsf2stg

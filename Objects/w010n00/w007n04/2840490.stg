@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -6.65864 4.74586 0.00 337.92
+OBJECT_SHARED Models/lib/HorizTanks2.ac -6.65847 4.74594 9.15 159.28
+OBJECT_SHARED Models/lib/trailer-fedex.ac -6.65837 4.74568 9.19 338.65
+OBJECT_SHARED Models/lib/transformer3x3.ac -6.65845 4.74600 9.03 159.84
+OBJECT_SHARED Models/lib/lamp10m.xml -6.65828 4.74706 9.22 27.19
+OBJECT_SHARED Models/lib/lamp10m.xml -6.65870 4.74591 10.34 -65.54
+OBJECT_SHARED Models/lib/lamp10m.xml -6.65856 4.74627 9.18 -20.34
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -6.65880 4.74598 9.39 168.44
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -6.65877 4.74598 9.21 217.18
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -6.65861 4.74640 9.22 268.85
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -6.65787 4.74783 9.47 161.44
+# END dsf2stg

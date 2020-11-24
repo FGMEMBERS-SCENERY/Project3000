@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -89.41171 35.89814 0.00 -0.73999
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -89.40099 35.89377 88.35 43.08
+OBJECT_SHARED Models/lib/shed8x10.ac -89.41181 35.89801 93.82 270
+OBJECT_SHARED Models/lib/shed8x10.ac -89.40259 35.89545 88.33 314.41
+OBJECT_SHARED Models/lib/industrial13x24.ac -89.40211 35.89551 93.04 225
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40283 35.89298 -2.21 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40383 35.89321 -0.29 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40379 35.89331 0.18 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40293 35.89306 0.24 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40393 35.89329 -0.20 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40390 35.89339 0.28 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40303 35.89313 0.34 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40403 35.89336 -0.16 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40399 35.89346 0.37 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40313 35.89321 0.43 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40413 35.89344 -0.07 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40409 35.89354 0.41 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40321 35.89327 0.47 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40421 35.89350 0.03 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -89.40418 35.89361 0.50 0
+OBJECT_SHARED Models/lib/LongRow.ac -89.40092 35.89363 95.56 314.39
+# END dsf2stg

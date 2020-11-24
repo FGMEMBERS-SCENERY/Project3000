@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.11658 55.83950 0.00 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.11673 55.83948 16.62 0
+OBJECT_SHARED Models/Transport/van_red.ac 12.11688 55.83945 16.77 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 12.11703 55.83943 17.07 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 12.11716 55.83942 17.34 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.11728 55.83940 17.50 0
+OBJECT_SHARED Models/Transport/van_silver.ac 12.11747 55.83936 17.52 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 12.11670 55.83921 17.55 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 12.11643 55.83924 17.03 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 12.11634 55.83924 16.65 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac 12.11552 55.83974 16.67 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.11656 55.83935 14.15 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.11656 55.83931 16.70 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.11664 55.83936 16.79 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.11671 55.83937 16.70 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.11675 55.83933 16.86 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.11661 55.83929 16.94 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.11666 55.83932 16.79 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.11674 55.83930 16.94 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.11668 55.83928 16.94 0
+OBJECT_SHARED Models/lib/farm19x12.ac 12.11685 55.83915 16.94 250.41
+# END dsf2stg

@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -86.91797 36.53787 0.00 326.4
+OBJECT_SHARED Models/lib/admin-with-cars.ac -86.91827 36.53728 212.06 56.4
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -86.91722 36.53892 211.37 146.4
+OBJECT_SHARED Models/lib/fboModern1.ac -86.91775 36.53865 213.45 326.4
+OBJECT_SHARED Models/lib/LongRow.ac -86.91581 36.53876 212.78 56.65
+OBJECT_SHARED Models/lib/LongRow.ac -86.91580 36.54025 213.95 56.65
+OBJECT_SHARED Models/lib/LongRow.ac -86.91669 36.53921 215.18 56.65
+OBJECT_SHARED Models/lib/LongRow.ac -86.91625 36.53899 213.96 56.65
+# END dsf2stg

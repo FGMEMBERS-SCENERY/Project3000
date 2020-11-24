@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars2.ac 163.06423 59.23183 0.00 350.22
+OBJECT_SHARED Models/lib/garage-small-white.ac 163.06341 59.23224 4.17 263.4
+OBJECT_SHARED Models/lib/shed8x10.ac 163.06372 59.23191 4.06 354.89
+OBJECT_SHARED Models/lib/shed10x50.ac 163.06340 59.23150 4.18 86
+OBJECT_SHARED Models/lib/shed10x50.ac 163.06357 59.23149 4.02 86
+OBJECT_SHARED Models/lib/office8x14.ac 163.06367 59.22358 4.15 265.83
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 163.06418 59.23233 3.45 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 163.06414 59.23217 4.21 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac 163.06171 59.23284 4.21 178.98
+OBJECT_SHARED Models/lib/HorizTanks2.ac 163.06171 59.23294 3.65 178.98
+OBJECT_SHARED Models/lib/HorizTanks2.ac 163.06172 59.23304 3.63 178.98
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 163.06199 59.23442 -91.38 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 163.06155 59.23445 -91.30 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 163.06140 59.23412 -91.30 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 163.06152 59.23335 -91.90 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 163.06199 59.23354 -91.37 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 163.06158 59.23355 -91.32 0
+OBJECT_SHARED Models/lib/farm19x12.ac 163.06441 59.23224 3.68 260
+OBJECT_SHARED Models/lib/farm19x12.ac 163.06436 59.23211 4.21 260
+OBJECT_SHARED Models/lib/office8x14.ac 163.06431 59.23190 4.20 170
+# END dsf2stg

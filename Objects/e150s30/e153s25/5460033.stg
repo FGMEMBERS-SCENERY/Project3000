@@ -1,0 +1,56 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 153.31479 -24.96031 0.00 275.87
+OBJECT_SHARED Models/Misc/picnic_table.ac 153.31473 -24.96028 19.75 279.85
+OBJECT_SHARED Models/Misc/picnic_table.ac 153.31485 -24.96035 19.75 28.83
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 153.31491 -24.96037 19.75 45
+OBJECT_SHARED Models/lib/industrial13x24.ac 153.31391 -24.96051 19.88 47.55
+OBJECT_SHARED Models/lib/transformer3x3.ac 153.31453 -24.96027 20.71 324.26
+OBJECT_SHARED Models/lib/office6x12.ac 153.31428 -24.96081 19.75 226.25
+OBJECT_SHARED Models/lib/office6x12.ac 153.31415 -24.96030 21.10 137.39
+OBJECT_SHARED Models/lib/office8x14.ac 153.31445 -24.96018 20.45 50.19
+OBJECT_SHARED Models/lib/industrial13x24.ac 153.31449 -24.96034 20.32 141.69
+OBJECT_SHARED Models/lib/industrial13x24.ac 153.31465 -24.96026 20.45 232.32
+OBJECT_SHARED Models/lib/stack_of_cones.ac 153.31477 -24.95982 19.75 210.26
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 153.31732 -24.95744 19.10 110.55
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 153.32104 -24.95926 -0.03 204.15
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 153.32126 -24.95581 -0.04 21.78
+OBJECT_SHARED Models/lib/lamp10m.xml 153.31483 -24.96038 -0.26 -85.83
+OBJECT_SHARED Models/lib/lamp10m.xml 153.31471 -24.96029 19.88 186.53
+OBJECT_SHARED Models/lib/lamp10m.xml 153.31473 -24.96023 19.75 141.63
+OBJECT_SHARED Models/lib/lamp10m.xml 153.31488 -24.96032 19.61 -38.43
+OBJECT_SHARED Models/lib/vending-machine.ac 153.31461 -24.96023 19.75 53.13
+OBJECT_SHARED Models/Misc/picnic_table.ac 153.31477 -24.96027 19.61 234.92
+OBJECT_SHARED Models/Misc/picnic_table.ac 153.31484 -24.96031 19.75 239.64
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31531 -24.96034 19.75 91.07
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31507 -24.96031 19.75 187.12
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31512 -24.96014 19.75 187.7
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31459 -24.95967 19.48 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31375 -24.96029 18.98 354.71
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31360 -24.96052 20.45 190.3
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31375 -24.96066 20.71 47.17
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31390 -24.96076 20.97 44.42
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31406 -24.96094 21.10 37.48
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31421 -24.96102 21.23 161.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31430 -24.96091 27.80 163.74
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31443 -24.96085 21.23 132.95
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31445 -24.96070 21.23 188.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31460 -24.96061 20.97 152.78
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31468 -24.96053 20.15 97.7
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31473 -24.96043 20.02 196.39
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31472 -24.96058 19.88 104.04
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31481 -24.96047 20.15 106.39
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31492 -24.96037 20.02 187.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31487 -24.96018 19.88 197.74
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31470 -24.95995 19.61 199.98
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31461 -24.95982 19.34 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31456 -24.95974 19.10 222.95
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31422 -24.96000 18.98 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31412 -24.96006 20.07 313.26
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31404 -24.96020 20.20 349.46
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31415 -24.96054 20.32 99.87
+OBJECT_SHARED Models/Trees/billboard-tree.xml 153.31419 -24.96050 20.71 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 153.31473 -24.96005 20.71 192.53
+OBJECT_SHARED Models/Transport/van_red.ac 153.31456 -24.96018 19.34 49.57
+# END dsf2stg

@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -106.14805 31.51305 0.00 38.65
+OBJECT_SHARED Models/lib/2container-office.ac -106.15035 31.51160 1113.32 38.46
+OBJECT_SHARED Models/lib/cone.ac -106.14802 31.51265 1110.54 276.78
+OBJECT_SHARED Models/lib/stack_of_cones.ac -106.14830 31.51271 1113.21 276.78
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -106.14818 31.51281 1113.21 276.78
+OBJECT_SHARED Models/Misc/6barrels.ac -106.14822 31.51253 1113.24 276.78
+OBJECT_SHARED Models/Misc/6barrels.ac -106.14824 31.51252 1113.13 276.78
+OBJECT_SHARED Models/lib/2vending-machines.ac -106.14803 31.51264 1113.13 128.98
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -106.14987 31.51230 1113.17 -51.49
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -106.14849 31.51355 1110.66 228.55
+OBJECT_SHARED Models/lib/cars4.ac -106.14785 31.51431 1113.54 93.87
+OBJECT_SHARED Models/lib/cars6.ac -106.14783 31.51402 1114.01 93.57
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -106.15028 31.51168 1113.81 154.03
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -106.15006 31.51145 1110.56 206.15
+OBJECT_SHARED Models/Airport/cargobox.xml -106.15004 31.51142 1110.52 175.91
+OBJECT_SHARED Models/Airport/cargobox.xml -106.15005 31.51144 1110.51 243.43
+OBJECT_SHARED Models/lib/coal_pile.ac -106.14877 31.51236 1110.51 90
+OBJECT_SHARED Models/Transport/van_red.ac -106.14819 31.51407 1111.92 273.91
+OBJECT_SHARED Models/Transport/hatchback_green.ac -106.14819 31.51412 1113.88 273.91
+# END dsf2stg

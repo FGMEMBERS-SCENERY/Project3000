@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -75.07367 39.37602 21.12 136.71
+OBJECT_SHARED Models/lib/office40x25.ac -75.07527 39.37511 20.35 136.71
+OBJECT_SHARED Models/lib/LgMaint.ac -75.07456 39.37561 21.57 136.71
+OBJECT_SHARED Models/lib/SmHangar.ac -75.07146 39.37607 21.21 47.58
+OBJECT_SHARED Models/lib/SmHangar.ac -75.07226 39.37661 20.07 47.58
+OBJECT_SHARED Models/lib/SmHangar.ac -75.07127 39.37593 21.35 47.58
+OBJECT_SHARED Models/lib/SmHangar.ac -75.07206 39.37648 20.16 47.58
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -75.07277 39.37641 20.87 41.76
+OBJECT_SHARED Models/lib/SmHangar.ac -75.07107 39.37580 20.06 47.58
+OBJECT_SHARED Models/lib/SmHangar.ac -75.07186 39.37634 20.20 47.58
+OBJECT_SHARED Models/lib/SmHangar.ac -75.07166 39.37620 21.38 47.58
+# END dsf2stg

@@ -1,0 +1,51 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml 36.28008 36.36118 0.00 51.34
+OBJECT_SHARED Models/lib/fuel-truck.xml 36.28016 36.36122 78.38 50.71
+OBJECT_SHARED Models/lib/fuel-truck.xml 36.28013 36.36120 78.38 45
+OBJECT_SHARED Models/lib/belt_loader.ac 36.28257 36.36357 78.38 93.81
+OBJECT_SHARED Models/lib/belt_loader.ac 36.28254 36.36356 78.26 97.12
+OBJECT_SHARED Models/lib/belt_loader.ac 36.28208 36.36315 78.27 90
+OBJECT_SHARED Models/lib/belt_loader.ac 36.28203 36.36310 78.28 90
+OBJECT_SHARED Models/lib/belt_loader.ac 36.28181 36.36283 78.29 45
+OBJECT_SHARED Models/lib/belt_loader.ac 36.28168 36.36270 78.29 49.4
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 36.28169 36.36278 78.30 85.91
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 36.28152 36.36264 78.30 69.44
+OBJECT_SHARED Models/lib/lamp10m.xml 36.28164 36.36278 78.31 0
+OBJECT_SHARED Models/lib/lamp10m.xml 36.28259 36.36362 78.30 0
+OBJECT_SHARED Models/lib/lamp10m.xml 36.28302 36.36401 78.26 90
+OBJECT_SHARED Models/lib/lamp10m.xml 36.28215 36.36322 78.25 0
+OBJECT_SHARED Models/lib/lamp10m.xml 36.28069 36.36148 78.28 270
+OBJECT_SHARED Models/lib/lamp10m.xml 36.28113 36.36185 78.35 270
+OBJECT_SHARED Models/lib/lamp10m.xml 36.28126 36.36243 78.33 270
+OBJECT_SHARED Models/lib/loader.ac 36.28042 36.36148 78.31 -44
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 36.28040 36.36155 78.36 141.34
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 36.28043 36.36153 78.36 135
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 36.28046 36.36150 78.36 130.76
+OBJECT_SHARED Models/lib/container6-HD.ac 36.28047 36.36161 78.36 48.37
+OBJECT_SHARED Models/lib/container6-HD.ac 36.28059 36.36171 78.36 48.37
+OBJECT_SHARED Models/lib/container6-HD.ac 36.28052 36.36157 78.35 48.37
+OBJECT_SHARED Models/lib/container6-HD.ac 36.28064 36.36167 78.36 48.37
+OBJECT_SHARED Models/lib/container6-HD.ac 36.28053 36.36165 78.35 45
+OBJECT_SHARED Models/lib/container6-HD.ac 36.28065 36.36175 78.36 45
+OBJECT_SHARED Models/lib/container6-HD.ac 36.28058 36.36161 78.35 45
+OBJECT_SHARED Models/lib/container6-HD.ac 36.28070 36.36171 78.35 45
+OBJECT_SHARED Models/lib/LongRow.ac 36.27811 36.36303 78.35 48.49
+OBJECT_SHARED Models/lib/office32x25.ac 36.28058 36.36502 78.51 138.01
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac 36.28182 36.36610 78.36 316.11
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac 36.28182 36.36610 78.36 137.58
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 36.28171 36.36280 78.33 51.12
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 36.28155 36.36264 78.30 51.12
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 36.28335 36.36363 78.30 206.56
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 36.28281 36.36320 78.24 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 36.28240 36.36279 78.26 113.96
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 36.28177 36.36225 78.27 21.37
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 36.28126 36.36181 78.29 232.12
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 36.28082 36.36144 78.32 45
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 36.28014 36.36138 78.34 140.19
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 36.28022 36.36144 78.38 140.19
+OBJECT_SHARED Models/lib/office65x50.ac 36.28371 36.36438 78.37 137.46
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 36.28330 36.36465 78.23 227.12
+OBJECT_SHARED Models/lib/office40x25.ac 36.28222 36.36505 78.25 46.52
+# END dsf2stg

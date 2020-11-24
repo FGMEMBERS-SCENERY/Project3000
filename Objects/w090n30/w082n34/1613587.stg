@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -81.10974 34.31665 0.00 141.61
+OBJECT_SHARED Models/lib/LongRow.ac -81.11023 34.31598 171.29 142.81
+OBJECT_SHARED Models/lib/LongRow.ac -81.11176 34.31439 171.03 141.5
+OBJECT_SHARED Models/lib/lamp10m.xml -81.11133 34.31534 169.92 277.95
+OBJECT_SHARED Models/lib/lamp10m.xml -81.11127 34.31613 169.97 311.02
+OBJECT_SHARED Models/lib/lamp10m.xml -81.11153 34.31582 169.42 141.85
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.10986 34.31576 169.84 50.94
+OBJECT_SHARED Models/lib/lamp10m.xml -81.11114 34.31573 171.49 141.46
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -81.11132 34.31532 170.00 22.36
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.11225 34.31545 169.97 0
+OBJECT_SHARED Models/Transport/van_red.ac -81.11134 34.31512 168.52 30.1
+OBJECT_SHARED Models/Transport/van_silver.ac -81.11122 34.31611 170.09 219.4
+OBJECT_SHARED Models/lib/cars10.ac -81.11131 34.31568 169.57 231.15
+OBJECT_SHARED Models/Transport/van_red.ac -81.11206 34.31446 169.70 51.14
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.11234 34.31539 169.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.11034 34.31655 168.37 0
+OBJECT_SHARED Models/lib/garden-shed.ac -81.11173 34.31530 170.64 49.66
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.11128 34.31599 169.38 0
+# END dsf2stg

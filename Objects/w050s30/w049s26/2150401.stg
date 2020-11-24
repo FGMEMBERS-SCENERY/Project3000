@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac -48.61068 -25.87730 0.00 77.4711
+OBJECT_SHARED Models/Misc/6barrels.ac -48.61068 -25.87704 6.91 0
+OBJECT_SHARED Models/Misc/6barrels.ac -48.61065 -25.87690 6.40 90
+OBJECT_SHARED Models/Misc/6barrels.ac -48.61069 -25.87647 6.35 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -48.61080 -25.87636 5.36 89.5489
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -48.61074 -25.87746 5.02 93.1798
+OBJECT_SHARED Models/Transport/hatchback_green.ac -48.61065 -25.87621 7.24 183.731
+OBJECT_SHARED Models/lib/stack_of_cones.ac -48.61066 -25.87739 4.68 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -48.61068 -25.87710 7.08 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -48.61068 -25.87690 6.59 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -48.61068 -25.87648 6.20 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -48.61084 -25.87636 5.36 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -48.61068 -25.87751 5.02 1.56937
+OBJECT_SHARED Models/lib/MedHangar.ac -48.61070 -25.87668 7.24 0.53051
+OBJECT_SHARED Models/lib/shed8x10.ac -48.61062 -25.87707 5.79 1.16915
+OBJECT_SHARED Models/lib/shed8x10.ac -48.61056 -25.87606 6.75 174.593
+OBJECT_SHARED Models/lib/shed8x10.ac -48.61058 -25.87613 4.58 174.593
+OBJECT_SHARED Models/lib/shed8x10.ac -48.61059 -25.87621 4.58 358.086
+# END dsf2stg

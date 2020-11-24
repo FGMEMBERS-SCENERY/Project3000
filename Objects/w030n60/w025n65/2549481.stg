@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/coal_pile.ac -24.00180 65.67641 20.06 90
-OBJECT_SHARED Models/Misc/6barrels.ac -24.00180 65.67636 20.06 270
-OBJECT_SHARED Models/lib/office4x14.ac -24.00157 65.67631 20.01 54.62
+OBJECT_SHARED Models/lib/coal_pile.ac -24.00180 65.67641 0.00 90
+OBJECT_SHARED Models/Misc/6barrels.ac -24.00180 65.67636 20.19 270
+OBJECT_SHARED Models/lib/office4x14.ac -24.00157 65.67631 20.19 54.62
 # END dsf2stg

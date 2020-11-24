@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -145.47000 -15.48649 0.00 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -145.47037 -15.48644 6.49 0
+OBJECT_SHARED Models/Airport/cargoim.xml -145.47040 -15.48645 6.24 176.496
+OBJECT_SHARED Models/Airport/cargoim.xml -145.47040 -15.48643 6.49 176.496
+OBJECT_SHARED Models/Airport/cargoim.xml -145.47042 -15.48643 6.24 0
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -145.46976 -15.48645 6.24 70.2501
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -145.46972 -15.48646 6.49 187.041
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -145.46974 -15.48646 6.49 169.695
+OBJECT_SHARED Models/Transport/van_silver.ac -145.47052 -15.48653 6.49 355.954
+OBJECT_SHARED Models/Transport/van_silver.ac -145.47047 -15.48654 5.44 175.535
+OBJECT_SHARED Models/Transport/hatchback_black.ac -145.47043 -15.48654 6.49 357.484
+OBJECT_SHARED Models/Transport/van_red.ac -145.47040 -15.48654 6.49 352.822
+OBJECT_SHARED Models/lib/cube16x10.ac -145.46988 -15.48648 6.49 86.1859
+# END dsf2stg

@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -8.25393 39.68184 0.00 216.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25412 39.68203 327.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25451 39.68253 327.85 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25464 39.68262 328.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25274 39.68094 329.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25211 39.67989 326.22 63.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25191 39.67973 325.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25151 39.67955 325.07 14.04
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25004 39.67963 324.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25009 39.67971 326.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25019 39.67970 326.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25037 39.67990 326.65 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25037 39.67984 327.07 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25054 39.67994 326.58 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25049 39.68001 326.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25060 39.68003 327.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25299 39.68106 326.63 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.25430 39.68231 326.40 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -8.25416 39.68240 328.39 301.48
+OBJECT_SHARED Models/lib/SmHangar.ac -8.25336 39.68120 328.48 216.37
+# END dsf2stg

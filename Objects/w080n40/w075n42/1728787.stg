@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/container6-HD.ac -74.06548 42.36527 0.00 0
+OBJECT_SHARED Models/lib/container6-HD.ac -74.06552 42.36539 131.92 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -74.06584 42.36511 132.17 90
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -74.06583 42.36513 131.37 273.18
+OBJECT_SHARED Models/Transport/hatchback_black.ac -74.06584 42.36517 131.37 79.6951
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -74.06583 42.36520 131.62 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -74.06582 42.36522 131.62 82.4053
+OBJECT_SHARED Models/Transport/hatchback_green.ac -74.06547 42.36533 131.62 282.529
+OBJECT_SHARED Models/Transport/van_silver.ac -74.06546 42.36535 131.92 288.435
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -74.06541 42.36539 131.92 75.9637
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.06465 42.36467 132.19 93.1798
+OBJECT_SHARED Models/lib/trailer-fedex.ac -74.06675 42.36516 130.56 359.156
+OBJECT_SHARED Models/lib/trailer-fedex.ac -74.06676 42.36520 131.48 359.156
+OBJECT_SHARED Models/lib/trailer-fedex.ac -74.06676 42.36524 131.48 359.156
+OBJECT_SHARED Models/lib/trailer-fedex.ac -74.06676 42.36527 131.48 359.156
+OBJECT_SHARED Models/lib/trailer-fedex.ac -74.06672 42.36531 131.73 359.156
+OBJECT_SHARED Models/lib/trailer-fedex.ac -74.06674 42.36535 131.74 359.156
+OBJECT_SHARED Models/lib/trailer-fedex.ac -74.06675 42.36538 131.99 359.156
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -74.06470 42.36492 131.99 4.90505
+OBJECT_SHARED Models/lib/shed10x50.ac -74.06519 42.36489 131.03 4.90505
+OBJECT_SHARED Models/lib/shed10x50.ac -74.06580 42.36485 130.94 4.9055
+OBJECT_SHARED Models/lib/SmHangar.ac -74.06480 42.36535 130.86 180
+OBJECT_SHARED Models/lib/SmHangar.ac -74.06483 42.36535 132.04 0
+OBJECT_SHARED Models/lib/SmHangar.ac -74.06419 42.36510 132.04 295.245
+OBJECT_SHARED Models/lib/shed8x10.ac -74.06315 42.36521 131.65 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -74.06362 42.36525 132.17 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -74.06508 42.36535 132.05 177.368
+# END dsf2stg

@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -114.13488 42.57721 0.00 335.51
+OBJECT_SHARED Models/lib/prop_a.ac -114.13480 42.57733 1272.01 334.16
+OBJECT_SHARED Models/lib/prop_a.ac -114.13400 42.57708 1271.89 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -114.13320 42.57727 1272.32 140.06
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -114.13320 42.57723 1272.02 137.15
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -114.13419 42.57739 1272.09 91.92
+OBJECT_SHARED Models/Transport/hatchback_red.ac -114.13158 42.57763 1271.99 92.52
+OBJECT_SHARED Models/lib/SmHangar.ac -114.13379 42.57719 1271.07 92.2
+OBJECT_SHARED Models/lib/SmHangar.ac -114.13380 42.57725 1272.24 92.2
+OBJECT_SHARED Models/lib/watertank3x1.ac -114.13126 42.57768 1272.24 276.27
+OBJECT_SHARED Models/lib/propane-tank.ac -114.13092 42.57765 1269.93 178.26
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -114.13093 42.57768 1270.13 0
+OBJECT_SHARED Models/lib/office16x4n.ac -114.13112 42.57755 1269.93 277.61
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -114.13392 42.57721 1270.29 182.03
+# END dsf2stg

@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 74.02578 38.18941 3649.47 51.4358
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 74.02559 38.18944 3649.56 354.39
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 74.02540 38.18798 3647.24 291.93
-OBJECT_SHARED Models/Aircraft/D328_services.xml 74.02572 38.18945 3649.69 202.364
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 74.02526 38.18919 3649.33 291.94
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 74.02578 38.18941 0.00 51.4358
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 74.02559 38.18944 3649.47 354.39
+OBJECT_SHARED Models/Transport/van_silver.ac 74.02540 38.18798 3649.56 291.93
+OBJECT_SHARED Models/Aircraft/D328_services.xml 74.02572 38.18945 3647.38 202.364
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 74.02526 38.18919 3649.69 291.94
 # END dsf2stg

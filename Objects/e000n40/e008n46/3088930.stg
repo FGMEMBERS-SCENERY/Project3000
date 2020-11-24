@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/stack_of_cones.ac 8.69742 46.51023 982.65 0
-OBJECT_SHARED Models/lib/SmHangar.ac 8.69752 46.51022 982.55 249.62
-OBJECT_SHARED Models/lib/MedHangar.ac 8.69691 46.51284 984.96 77.24
-OBJECT_SHARED Models/lib/MedHangar.ac 8.69542 46.51114 984.51 249.88
+OBJECT_SHARED Models/lib/stack_of_cones.ac 8.69742 46.51023 0.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac 8.69752 46.51022 982.65 249.62
+OBJECT_SHARED Models/lib/MedHangar.ac 8.69691 46.51284 982.55 77.24
+OBJECT_SHARED Models/lib/MedHangar.ac 8.69542 46.51114 984.96 249.88
 # END dsf2stg

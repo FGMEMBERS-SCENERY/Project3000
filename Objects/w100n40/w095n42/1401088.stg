@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78535 42.04667 0.00 90
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78504 42.04667 364.07 90
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78471 42.04667 364.03 90
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78448 42.04667 364.00 90
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78410 42.04664 363.97 90
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78414 42.04635 363.92 270
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78450 42.04631 363.94 270
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78472 42.04631 364.00 270
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78506 42.04630 364.03 270
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78551 42.04630 364.06 270
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78606 42.04636 364.10 90
+OBJECT_SHARED Models/lib/lamp10m.xml -94.78606 42.04658 364.18 90
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -94.78581 42.04643 364.18 0
+OBJECT_SHARED Models/lib/admin31x12.ac -94.78599 42.04648 364.14 0
+OBJECT_SHARED Models/lib/SmHangar.ac -94.78543 42.04674 364.17 90
+OBJECT_SHARED Models/lib/MedHangar.ac -94.78594 42.04710 364.08 0
+OBJECT_SHARED Models/lib/LongRow.ac -94.78561 42.04787 364.15 0
+OBJECT_SHARED Models/lib/LongRow.ac -94.78584 42.04787 364.12 0
+OBJECT_SHARED Models/lib/prop_a.ac -94.78469 42.04771 364.15 200.25
+OBJECT_SHARED Models/lib/prop_a.ac -94.78640 42.04635 363.97 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.78594 42.04627 364.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.78602 42.04631 364.15 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.78552 42.04694 364.17 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -94.78466 42.04701 364.10 0
+OBJECT_SHARED Models/Transport/van_silver.ac -94.78587 42.04661 363.98 184.97
+OBJECT_SHARED Models/Transport/van_red.ac -94.78584 42.04661 364.15 168.11
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -94.78574 42.04661 364.14 156.04
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -94.78579 42.04661 364.12 143.13
+OBJECT_SHARED Models/lib/cars7.ac -94.78577 42.04675 364.14 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -94.78610 42.04602 364.14 0
+# END dsf2stg

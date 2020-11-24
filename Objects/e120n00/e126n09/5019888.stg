@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac 126.01614 9.85693 0.00 170.18
+OBJECT_SHARED Models/Transport/hatchback_green.ac 126.01615 9.85699 9.02 171.87
+OBJECT_SHARED Models/lib/shed8x10.ac 126.01605 9.85714 9.02 261.06
+OBJECT_SHARED Models/lib/shed8x10.ac 126.01614 9.85786 9.01 81.47
+OBJECT_SHARED Models/lib/stack_of_cones.ac 126.01590 9.85706 8.99 206.56
+OBJECT_SHARED Models/lib/stack_of_cones.ac 126.01590 9.85707 9.02 153.44
+OBJECT_SHARED Models/lib/lamp10m.xml 126.01607 9.85779 9.02 169.7
+OBJECT_SHARED Models/lib/lamp10m.xml 126.01595 9.85712 8.99 -9.45999
+OBJECT_SHARED Models/lib/lamp10m.xml 126.01596 9.85649 9.01 168.55
+OBJECT_SHARED Models/lib/lamp10m.xml 126.01605 9.85669 9.04 171.25
+OBJECT_SHARED Models/lib/lamp10m.xml 126.01613 9.85710 9.04 170.98
+OBJECT_SHARED Models/lib/lamp10m.xml 126.01642 9.85753 9.02 265.1
+OBJECT_SHARED Models/lib/schranke.ac 126.01643 9.85761 8.99 174.71
+OBJECT_SHARED Models/lib/transformer3x3.ac 126.01643 9.85764 8.99 175.24
+# END dsf2stg

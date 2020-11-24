@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -75.58755 39.30594 0.00 90
+OBJECT_SHARED Models/lib/propane-tank.ac -75.58755 39.30596 4.33 90
+OBJECT_SHARED Models/lib/prop_a.ac -75.58692 39.30606 4.31 273.94
+OBJECT_SHARED Models/lib/prop_a.ac -75.58599 39.30581 4.23 272.86
+OBJECT_SHARED Models/lib/hangar81x16.ac -75.58739 39.30580 4.25 2.35
+OBJECT_SHARED Models/lib/farm19x12.ac -75.58754 39.30577 4.33 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.58727 39.30570 4.34 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.58731 39.30568 4.33 40.1563
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.58727 39.30575 4.33 314.232
+# END dsf2stg

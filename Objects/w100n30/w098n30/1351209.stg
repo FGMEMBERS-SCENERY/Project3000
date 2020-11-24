@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office112x50.ac -97.67411 30.67835 0.00 328.97
+OBJECT_SHARED Models/lib/LgMaint.ac -97.67342 30.67732 228.21 329.15
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -97.67595 30.67835 227.14 35.6
+OBJECT_SHARED Models/lib/HorizTanks2.ac -97.67623 30.67868 229.50 36.17
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -97.67632 30.67935 229.74 0
+OBJECT_SHARED Models/lib/office40x25.ac -97.67530 30.68200 230.07 103.57
+OBJECT_SHARED Models/lib/admin-with-cars.ac -97.67636 30.67976 230.83 156.71
+OBJECT_SHARED Models/lib/office32x25n.ac -97.67602 30.68601 230.31 94.29
+OBJECT_SHARED Models/lib/office32x25.ac -97.67601 30.68522 235.43 91.55
+OBJECT_SHARED Models/lib/LongRow.ac -97.67474 30.68223 235.79 17.05
+OBJECT_SHARED Models/lib/LongRow.ac -97.67524 30.67794 230.97 85.29
+OBJECT_SHARED Models/lib/LongRow.ac -97.67537 30.67874 228.55 10.67
+OBJECT_SHARED Models/lib/LongRow.ac -97.67464 30.68195 228.56 17.05
+OBJECT_SHARED Models/lib/large-hangar.ac -97.67553 30.68306 230.69 183.6
+OBJECT_SHARED Models/lib/large-hangar.ac -97.67498 30.68309 232.15 183.6
+OBJECT_SHARED Models/lib/large-hangar.ac -97.67418 30.68319 232.15 183.6
+# END dsf2stg

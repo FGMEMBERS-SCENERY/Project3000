@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.06238 42.71516 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.06250 42.71514 274.36 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.06248 42.71521 274.50 165.964
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.06251 42.71524 274.38 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.06276 42.71574 274.38 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.06153 42.71582 274.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -84.06157 42.71572 273.60 180
+OBJECT_SHARED Models/lib/propane-tank.ac -84.06173 42.71621 273.66 272.419
+OBJECT_SHARED Models/lib/shed8x10.ac -84.05771 42.71468 273.43 90.945
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -84.05768 42.71503 275.47 1.34978
+OBJECT_SHARED Models/lib/shed10x50.ac -84.05916 42.71519 275.74 180.546
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.06172 42.71500 274.51 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.06164 42.71496 274.39 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.06163 42.71505 274.36 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.06155 42.71509 274.36 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.06166 42.71514 274.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.06213 42.71550 274.25 0
+OBJECT_SHARED Models/lib/SmHangar.ac -84.06184 42.71653 273.98 179.215
+OBJECT_SHARED Models/lib/industrial13x24.ac -84.06188 42.71574 273.36 90
+OBJECT_SHARED Models/Transport/van_silver.ac -84.05777 42.71447 273.71 58.7607
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -84.05775 42.71450 275.33 59.0361
+OBJECT_SHARED Models/Transport/hatchback_red.ac -84.05766 42.71459 275.40 357.064
+OBJECT_SHARED Models/Transport/van_silver.ac -84.05758 42.71467 275.43 5.49228
+OBJECT_SHARED Models/Transport/hatchback_black.ac -84.05732 42.71459 275.56 3.23969
+OBJECT_SHARED Models/Transport/hatchback_black.ac -84.05736 42.71458 275.87 351.254
+OBJECT_SHARED Models/Transport/van_silver.ac -84.05743 42.71457 275.73 357.614
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -84.05748 42.71460 275.73 353.66
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -84.05751 42.71460 275.59 357.99
+# END dsf2stg

@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml -101.14871 40.38712 0.00 180
+OBJECT_SHARED Models/Airport/cargobox.xml -101.14870 40.38714 858.55 95.86
+OBJECT_SHARED Models/Airport/cargobox.xml -101.14870 40.38716 858.55 169.7
+OBJECT_SHARED Models/Airport/cargobox.xml -101.14870 40.38718 858.34 270
+OBJECT_SHARED Models/lib/shed8x10.ac -101.14354 40.38791 858.34 270
+OBJECT_SHARED Models/lib/shed8x10.ac -101.14510 40.38832 851.56 242.3
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -101.14421 40.38797 849.32 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -101.14513 40.38750 851.27 180.36
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.14600 40.38753 851.64 359.88
+OBJECT_SHARED Models/lib/trailer-fedex.ac -101.14568 40.38728 850.55 183.15
+OBJECT_SHARED Models/lib/trailer-fedex.ac -101.14843 40.38728 851.14 179.92
+# END dsf2stg

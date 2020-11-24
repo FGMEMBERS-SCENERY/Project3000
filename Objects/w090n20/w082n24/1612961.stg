@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -81.67765 24.57726 0.00 0
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -81.69895 24.56993 0.64 0
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.69745 24.57823 0.56 119.95
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.69896 24.57746 0.87 119.95
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.69777 24.57807 0.84 119.95
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.70031 24.57675 0.86 119.95
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.69928 24.57729 0.80 119.95
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.69809 24.57790 0.83 119.95
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.70063 24.57658 0.85 119.95
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.69960 24.57712 0.79 119.95
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.69841 24.57773 0.82 119.95
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.70095 24.57641 0.85 119.95
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.69992 24.57695 0.78 119.95
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -81.67885 24.57434 0.81 11.03
+OBJECT_SHARED Models/lib/LgMaint.ac -81.69025 24.57980 0.66 98.17
+OBJECT_SHARED Models/lib/LgMaint.ac -81.68937 24.57991 0.87 98.17
+OBJECT_SHARED Models/lib/LgMaint.ac -81.69825 24.57823 0.86 119.2
+OBJECT_SHARED Models/lib/LgMaint.ac -81.70137 24.57689 0.86 119.2
+OBJECT_SHARED Models/lib/LgMaint.ac -81.69747 24.57862 0.78 119.2
+OBJECT_SHARED Models/lib/LgMaint.ac -81.70060 24.57728 0.87 119.2
+OBJECT_SHARED Models/Airport/egkk_oil.xml -81.69839 24.56918 0.81 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -81.69803 24.56917 0.53 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -81.69804 24.56948 0.53 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -81.69874 24.56947 0.55 270
+OBJECT_SHARED Models/Airport/egkk_oil.xml -81.69839 24.56947 0.54 270
+OBJECT_SHARED Models/Airport/egkk_oil.xml -81.69875 24.56919 0.55 0
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.69739 24.57812 0.53 208.67
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.69771 24.57795 0.87 208.67
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.69803 24.57778 0.86 208.67
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.69835 24.57761 0.85 208.67
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.69890 24.57734 0.85 208.67
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.69922 24.57718 0.83 208.67
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.69954 24.57701 0.83 208.67
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.69986 24.57684 0.82 208.67
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.70025 24.57663 0.81 208.67
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.70057 24.57647 0.80 208.67
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -81.70089 24.57630 0.79 208.67
+# END dsf2stg

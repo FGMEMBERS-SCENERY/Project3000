@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -111.69887 47.84386 0.00 179.163
+OBJECT_SHARED Models/Transport/van_silver.ac -111.69927 47.84345 1126.67 357.955
+OBJECT_SHARED Models/Transport/hatchback_green.ac -111.69927 47.84352 1127.09 0
+OBJECT_SHARED Models/Transport/van_silver.ac -111.69929 47.84291 1127.01 267.51
+OBJECT_SHARED Models/lib/SmHangar.ac -111.69930 47.84300 1127.43 180.354
+OBJECT_SHARED Models/lib/SmHangar.ac -111.69943 47.84344 1127.37 89.6893
+OBJECT_SHARED Models/lib/SmHangar.ac -111.69892 47.84410 1127.09 180.522
+OBJECT_SHARED Models/lib/lamp10m.xml -111.69911 47.84322 1126.48 0
+OBJECT_SHARED Models/lib/LongRow.ac -111.69898 47.84299 1127.23 90
+# END dsf2stg

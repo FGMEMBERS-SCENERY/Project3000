@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -94.36650 49.79081 0.00 54.25
+OBJECT_SHARED Models/lib/lamp10m.xml -94.36389 49.78951 414.00 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -94.36569 49.79037 413.32 88.98
+OBJECT_SHARED Models/Transport/hatchback_green.ac -94.36571 49.79057 413.89 266.63
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -94.36569 49.79051 414.01 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.36685 49.78941 413.95 355.36
+OBJECT_SHARED Models/Transport/van_red.ac -94.36752 49.79016 412.72 266.73
+OBJECT_SHARED Models/Transport/van_red.ac -94.36654 49.78941 413.37 1.70999
+OBJECT_SHARED Models/lib/coal_pile.ac -94.36480 49.79190 412.82 90
+OBJECT_SHARED Models/lib/coal_pile.ac -94.36490 49.79202 414.16 315
+OBJECT_SHARED Models/lib/coal_pile.ac -94.36507 49.79204 414.13 90
+OBJECT_SHARED Models/lib/admin31x12.ac -94.36538 49.79049 414.16 0.150002
+OBJECT_SHARED Models/lib/fuel-truck.xml -94.36496 49.79004 413.98 50.19
+OBJECT_SHARED Models/lib/SmHangar.ac -94.36562 49.79124 413.67 134.62
+OBJECT_SHARED Models/lib/fuel-truck.xml -94.36403 49.79139 414.24 315
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -94.36669 49.78950 414.18 0.200012
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.36498 49.78997 412.89 139.46
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -94.36490 49.79081 413.67 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -94.36510 49.79080 414.10 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -94.36532 49.79079 414.11 0
+OBJECT_SHARED Models/lib/prop_a.ac -94.36414 49.78950 414.12 101.7
+OBJECT_SHARED Models/lib/prop_a.ac -94.36377 49.79017 413.30 177.53
+# END dsf2stg

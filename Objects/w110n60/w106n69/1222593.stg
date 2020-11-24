@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -105.12686 69.10337 0.00 321.19
+OBJECT_SHARED Models/lib/cars4.ac -105.11918 69.10761 11.37 211.9
+OBJECT_SHARED Models/lib/cars6.ac -105.11945 69.10722 15.88 134.31
+OBJECT_SHARED Models/lib/MedHangar.ac -105.12033 69.10707 15.79 41.99
+OBJECT_SHARED Models/lib/hangar81x16.ac -105.12453 69.10340 15.71 232.27
+OBJECT_SHARED Models/Transport/van_silver.ac -105.12278 69.10753 12.04 138.37
+OBJECT_SHARED Models/lib/industrial15x22.ac -105.11663 69.10712 15.58 46.4
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -105.11894 69.10651 15.84 90
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -105.09752 69.10310 -79.36 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -105.09668 69.10323 -90.45 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -105.09278 69.10326 -87.69 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -105.09219 69.10336 -88.36 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -105.09232 69.10373 -90.36 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -105.09356 69.10314 2.48 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -105.09395 69.10345 2.99 0
+# END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -96.17356 40.40314 0.00 202.124
+OBJECT_SHARED Models/lib/lamp10m.xml -96.17365 40.40330 393.39 202.374
+OBJECT_SHARED Models/lib/HorizTanks2.ac -96.17337 40.40299 393.49 200.925
+OBJECT_SHARED Models/lib/propane-tank.ac -96.17386 40.40323 393.44 289.573
+OBJECT_SHARED Models/lib/prop_a.ac -96.17353 40.40324 393.30 22.3803
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.17385 40.40334 393.49 205.115
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.17380 40.40384 393.36 198.886
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -96.17373 40.40337 393.58 217.056
+OBJECT_SHARED Models/lib/lamp10m.xml -96.17347 40.40304 393.49 199.026
+OBJECT_SHARED Models/lib/lamp10m.xml -96.17338 40.40291 393.39 22.4427
+# END dsf2stg

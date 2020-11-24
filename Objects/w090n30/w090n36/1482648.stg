@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.90871 36.44729 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.90889 36.44748 82.09 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.90887 36.44759 82.13 0
+OBJECT_SHARED Models/Airport/cargoip.xml -89.90885 36.44767 82.13 284.04
+OBJECT_SHARED Models/Airport/cargoip.xml -89.90886 36.44769 82.09 206.56
+OBJECT_SHARED Models/Airport/cargoip.xml -89.90882 36.44768 82.12 126.25
+OBJECT_SHARED Models/Airport/cargoip.xml -89.90880 36.44769 82.09 351.47
+OBJECT_SHARED Models/Airport/cargoip.xml -89.90878 36.44767 82.09 208.3
+OBJECT_SHARED Models/Airport/cargoip.xml -89.90882 36.44765 82.09 308.66
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -89.90901 36.44716 82.10 41.06
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.90901 36.44747 82.17 250.2
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.90897 36.44749 82.16 90
+OBJECT_SHARED Models/lib/watertank3x1.ac -89.90913 36.44732 82.16 125.36
+OBJECT_SHARED Models/lib/propane-tank.ac -89.90912 36.44730 82.19 218.12
+OBJECT_SHARED Models/lib/propane-tank.ac -89.90899 36.44715 82.19 220.91
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -89.90891 36.44756 82.17 204.44
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.90909 36.44752 82.13 214.59
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.90903 36.44754 82.18 193.71
+OBJECT_SHARED Models/Transport/hatchback_black.ac -89.90899 36.44756 82.16 209.2
+OBJECT_SHARED Models/lib/prop_a.ac -89.90864 36.44737 82.16 61.86
+OBJECT_SHARED Models/lib/lamp10m.xml -89.90834 36.44649 82.06 203.86
+OBJECT_SHARED Models/lib/lamp10m.xml -89.90868 36.44670 82.05 203.86
+OBJECT_SHARED Models/lib/lamp10m.xml -89.90876 36.44708 82.12 207.75
+OBJECT_SHARED Models/lib/lamp10m.xml -89.90910 36.44724 82.13 -59.56
+OBJECT_SHARED Models/lib/lamp10m.xml -89.90908 36.44746 82.20 -66.6
+OBJECT_SHARED Models/lib/lamp10m.xml -89.90937 36.44771 82.18 200.92
+OBJECT_SHARED Models/lib/lamp10m.xml -89.90976 36.44799 82.27 277.45
+OBJECT_SHARED Models/lib/lamp10m.xml -89.90981 36.44835 82.37 269.03
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -89.90865 36.44674 82.34 37.57
+OBJECT_SHARED Models/lib/SmHangar.ac -89.90846 36.44690 82.10 209.15
+OBJECT_SHARED Models/lib/SmHangar.ac -89.90816 36.44633 82.07 119.4
+OBJECT_SHARED Models/lib/SmHangar.ac -89.90823 36.44644 82.03 299.4
+OBJECT_SHARED Models/lib/SmHangar.ac -89.90921 36.44803 82.03 300.28
+OBJECT_SHARED Models/lib/SmHangar.ac -89.90918 36.44799 82.19 300.28
+OBJECT_SHARED Models/lib/SmHangar.ac -89.90883 36.44741 82.19 211.23
+OBJECT_SHARED Models/lib/SmHangar.ac -89.90887 36.44740 82.11 211.23
+OBJECT_SHARED Models/lib/SmHangar.ac -89.90828 36.44666 82.14 208.47
+# END dsf2stg

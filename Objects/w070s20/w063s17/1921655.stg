@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02867 -16.13525 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02873 -16.13539 501.37 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02868 -16.13546 501.43 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02869 -16.13560 501.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02909 -16.13581 501.46 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02934 -16.13529 500.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02938 -16.13548 499.96 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02936 -16.13526 499.78 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02937 -16.13557 499.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02937 -16.13574 499.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02915 -16.13581 499.85 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -62.02890 -16.13585 500.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -62.02878 -16.13590 501.07 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -62.02932 -16.13517 501.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -62.02934 -16.13537 499.93 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -62.02928 -16.13575 499.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -62.02900 -16.13580 500.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -62.02789 -16.13786 500.82 107.93
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -62.02799 -16.13789 503.21 107.93
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -62.02810 -16.13762 503.03 107.93
+OBJECT_SHARED Models/lib/farm19x12.ac -62.02826 -16.13737 502.85 135
+OBJECT_SHARED Models/lib/lamp10m.xml -62.02805 -16.13776 502.46 120
+OBJECT_SHARED Models/lib/garden-shed.ac -62.02907 -16.13559 503.03 356.99
+OBJECT_SHARED Models/lib/garden-shed.ac -62.02909 -16.13546 500.54 358.03
+# END dsf2stg

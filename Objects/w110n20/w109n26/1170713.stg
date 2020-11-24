@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -108.61369 26.40014 0.00 122.15
+OBJECT_SHARED Models/lib/stack_of_cones.ac -108.61321 26.39943 95.12 181.68
+OBJECT_SHARED Models/lib/stack_of_cones.ac -108.61335 26.39964 96.37 0
+OBJECT_SHARED Models/lib/office16x4n.ac -108.61350 26.40020 96.27 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -108.61338 26.39970 95.90 211.255
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -108.61367 26.40020 96.21 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -108.61356 26.39979 95.10 268.54
+OBJECT_SHARED Models/lib/lamp10m.xml -108.61277 26.39953 95.02 -55.22
+OBJECT_SHARED Models/lib/lamp10m.xml -108.61321 26.39938 96.32 213.89
+OBJECT_SHARED Models/lib/lamp10m.xml -108.61339 26.39965 96.37 209.62
+OBJECT_SHARED Models/lib/lamp10m.xml -108.61304 26.39991 96.27 121.43
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -108.61315 26.39939 96.10 34.4608
+# END dsf2stg

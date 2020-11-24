@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -61.79536 17.13738 0.00 300.12
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -61.79518 17.13838 19.80 132.71
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -61.79528 17.13848 21.11 131.35
+OBJECT_SHARED Models/lib/MedHangar.ac -61.78851 17.14243 21.40 174.22
+OBJECT_SHARED Models/lib/SmHangar.ac -61.77778 17.14061 12.64 85.24
+OBJECT_SHARED Models/lib/MedHangar.ac -61.77743 17.14057 3.14 84.71
+OBJECT_SHARED Models/lib/MedHangar.ac -61.77872 17.14068 3.14 85.12
+OBJECT_SHARED Models/lib/LgMaint.ac -61.77553 17.14039 3.22 84.69
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.77441 17.13960 3.62 39
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.77541 17.13970 4.28 39
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.77679 17.13982 3.82 39
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.77809 17.13992 3.48 39
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.77956 17.14003 3.50 39
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.78108 17.14015 3.87 39
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.78277 17.14029 4.61 39
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.78964 17.14185 5.89 294.97
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.78998 17.14165 14.78 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79051 17.14134 15.50 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79109 17.14101 16.34 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79166 17.14060 17.30 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79203 17.13998 18.11 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79243 17.13973 18.17 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79291 17.13939 18.53 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79376 17.13887 19.01 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79334 17.13913 19.77 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79407 17.13816 19.27 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79437 17.13795 19.26 257
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -61.79476 17.13773 19.25 257
+OBJECT_SHARED Models/lib/RampParking.xml -61.79283 17.13927 19.49 212.34
+OBJECT_SHARED Models/lib/RampParking.xml -61.79326 17.13902 18.75 211.98
+OBJECT_SHARED Models/lib/RampParking.xml -61.79370 17.13875 19.16 212.27
+OBJECT_SHARED Models/lib/RampParking.xml -61.78946 17.14178 19.50 251.79
+OBJECT_SHARED Models/lib/RampParking.xml -61.78991 17.14154 14.61 212.63
+OBJECT_SHARED Models/lib/RampParking.xml -61.79044 17.14124 15.31 212.63
+OBJECT_SHARED Models/lib/RampParking.xml -61.79102 17.14090 16.15 212.17
+OBJECT_SHARED Models/lib/RampParking.xml -61.79234 17.13959 17.07 211.67
+OBJECT_SHARED Models/lib/RampParking.xml -61.79192 17.13984 18.29 211.22
+OBJECT_SHARED Models/lib/RampParking.xml -61.79157 17.14046 17.84 211.38
+# END dsf2stg

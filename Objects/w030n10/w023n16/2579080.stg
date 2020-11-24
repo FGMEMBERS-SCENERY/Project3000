@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -22.88733 16.13593 0.00 -20.6
+OBJECT_SHARED Models/lib/lamp10m.xml -22.88714 16.13645 23.16 -19.4
+OBJECT_SHARED Models/lib/lamp10m.xml -22.89216 16.13649 23.65 162.47
+OBJECT_SHARED Models/lib/lamp10m.xml -22.89152 16.13601 16.79 162.47
+OBJECT_SHARED Models/lib/lamp10m.xml -22.89173 16.13526 17.16 162.47
+OBJECT_SHARED Models/lib/lamp10m.xml -22.88755 16.13521 16.64 -16.98
+OBJECT_SHARED Models/lib/lamp10m.xml -22.89199 16.13438 22.45 162.47
+OBJECT_SHARED Models/lib/lamp10m.xml -22.89184 16.13489 15.95 162.47
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -22.89214 16.13648 16.35 73.63
+OBJECT_SHARED Models/lib/office32x25n.ac -22.89183 16.13656 16.88 72.44
+OBJECT_SHARED Models/lib/MedHangar.ac -22.88750 16.13542 17.20 343.37
+OBJECT_SHARED Models/lib/NoParkStripes.xml -22.89162 16.13523 22.68 73.38
+OBJECT_SHARED Models/lib/NoParkStripes.xml -22.89175 16.13485 16.67 73.38
+OBJECT_SHARED Models/lib/NoParkStripes.xml -22.89167 16.13508 16.39 73.38
+OBJECT_SHARED Models/lib/NoParkStripes.xml -22.89152 16.13553 16.54 73.38
+OBJECT_SHARED Models/lib/NoParkStripes.xml -22.89171 16.13496 16.91 73.38
+OBJECT_SHARED Models/lib/NoParkStripes.xml -22.89156 16.13541 16.48 73.38
+OBJECT_SHARED Models/lib/NoParkStripes.xml -22.89148 16.13564 16.77 73.38
+OBJECT_SHARED Models/lib/admin-with-cars.ac -22.89150 16.13550 16.96 343.37
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -22.88680 16.13562 16.91 253.38
+# END dsf2stg

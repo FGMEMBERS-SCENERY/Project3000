@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -98.53798 43.15200 0.00 0
+OBJECT_SHARED Models/lib/farm19x12.ac -98.54292 43.15152 447.12 129.8
+OBJECT_SHARED Models/lib/cars10.ac -98.54173 43.15279 448.42 90
+OBJECT_SHARED Models/lib/cars10.ac -98.54173 43.15223 449.14 90
+OBJECT_SHARED Models/lib/cars10.ac -98.54173 43.15250 448.80 90
+OBJECT_SHARED Models/lib/cars10.ac -98.54173 43.15194 448.96 90
+OBJECT_SHARED Models/lib/2container-office.ac -98.54098 43.15254 448.66 90.05
+OBJECT_SHARED Models/lib/2container-office.ac -98.54049 43.15228 448.89 270
+OBJECT_SHARED Models/lib/2container-office.ac -98.53957 43.15207 448.52 288
+OBJECT_SHARED Models/lib/office3x10.ac -98.54083 43.15250 448.26 0.049988
+OBJECT_SHARED Models/lib/office3x10.ac -98.54064 43.15231 448.82 180
+OBJECT_SHARED Models/lib/office3x10.ac -98.53974 43.15210 448.59 198
+OBJECT_SHARED Models/lib/office3x10.ac -98.54073 43.15253 448.26 0.049988
+OBJECT_SHARED Models/lib/office3x10.ac -98.54074 43.15228 448.78 180
+OBJECT_SHARED Models/lib/office3x10.ac -98.53986 43.15207 448.66 198
+OBJECT_SHARED Models/lib/2container-office.ac -98.54064 43.15253 448.26 90.05
+OBJECT_SHARED Models/lib/2container-office.ac -98.54083 43.15228 448.76 270
+OBJECT_SHARED Models/lib/2container-office.ac -98.53997 43.15207 448.71 288
+OBJECT_SHARED Models/lib/4container-office.ac -98.54049 43.15252 448.26 90.05
+OBJECT_SHARED Models/lib/4container-office.ac -98.54097 43.15229 448.69 270
+OBJECT_SHARED Models/lib/4container-office.ac -98.54014 43.15208 448.76 288
+OBJECT_SHARED Models/lib/2container-office.ac -98.53950 43.15227 448.26 64
+OBJECT_SHARED Models/lib/office3x10.ac -98.53963 43.15228 448.25 334
+OBJECT_SHARED Models/lib/office3x10.ac -98.53976 43.15228 448.25 334
+OBJECT_SHARED Models/lib/2container-office.ac -98.53989 43.15231 448.25 64
+OBJECT_SHARED Models/lib/4container-office.ac -98.54013 43.15231 448.25 64
+# END dsf2stg

@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -102.38521 33.91961 0.00 315
+OBJECT_SHARED Models/lib/shed10x50.ac -102.38547 33.91949 1097.83 315
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -102.38695 33.91964 1097.78 79.51
+OBJECT_SHARED Models/lib/shed8x10.ac -102.38650 33.92045 1098.73 90
+OBJECT_SHARED Models/lib/shed8x10.ac -102.38578 33.91925 1098.67 90
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -102.38678 33.91984 1098.12 0
+# END dsf2stg

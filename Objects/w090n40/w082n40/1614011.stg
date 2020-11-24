@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.10279 40.97042 0.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac -81.10144 40.97064 315.30 267.38
+OBJECT_SHARED Models/lib/SmHangar.ac -81.10248 40.97063 317.36 180
+OBJECT_SHARED Models/lib/SmHangar.ac -81.10244 40.97140 315.84 270
+OBJECT_SHARED Models/lib/SmHangar.ac -81.10244 40.97126 315.67 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.10300 40.97005 315.70 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.09813 40.96886 313.97 239.66
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -81.10082 40.97350 321.17 180
+OBJECT_SHARED Models/Transport/van_red.ac -81.10258 40.97054 316.52 90
+OBJECT_SHARED Models/Transport/van_silver.ac -81.10234 40.97115 315.72 358.03
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.10233 40.97123 315.93 91.27
+OBJECT_SHARED Models/Transport/hatchback_red.ac -81.10074 40.97350 315.89 180
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -81.09803 40.96735 316.63 332.82
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.10232 40.97143 320.99 180.49
+OBJECT_SHARED Models/lib/prop_a.ac -81.10093 40.97143 315.81 89.74
+OBJECT_SHARED Models/lib/prop_a.ac -81.10158 40.97143 317.59 90
+OBJECT_SHARED Models/lib/prop_a.ac -81.10190 40.97144 316.73 90
+OBJECT_SHARED Models/lib/canopy18x8.ac -81.10226 40.97129 316.36 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -81.10043 40.97349 315.85 180.84
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -81.10186 40.97115 316.97 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -81.10043 40.97321 316.50 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -81.10252 40.96956 317.15 179.05
+OBJECT_SHARED Models/lib/garage-small-white.ac -81.10239 40.96966 315.37 181.68
+OBJECT_SHARED Models/lib/garage-small-white.ac -81.10263 40.97006 315.57 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -81.10179 40.97053 315.02 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -81.10273 40.97117 316.86 89.01
+# END dsf2stg

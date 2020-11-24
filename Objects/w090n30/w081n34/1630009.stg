@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74560 34.99339 0.00 108.435
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74618 34.99297 181.22 41.1855
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74623 34.99287 182.04 57.5285
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74625 34.99277 182.27 60.2548
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74630 34.99237 182.48 327.031
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74637 34.99242 179.86 302.735
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74650 34.99250 180.73 306.573
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74664 34.99255 182.47 322.651
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74674 34.99249 183.21 3.50351
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74688 34.99244 183.03 27.962
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74700 34.99238 183.21 38.7841
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.74708 34.99230 183.16 58.0454
+OBJECT_SHARED Models/lib/prop_a.ac -80.74738 34.99222 183.38 163.203
+OBJECT_SHARED Models/lib/prop_a.ac -80.74758 34.99208 183.50 122.104
+OBJECT_SHARED Models/lib/prop_a.ac -80.74775 34.99270 183.68 355.687
+OBJECT_SHARED Models/lib/farm19x12.ac -80.74773 34.99306 178.69 33.8082
+OBJECT_SHARED Models/lib/stack_of_cones.ac -80.74580 34.99328 176.80 0
+OBJECT_SHARED Models/lib/SmHangar.ac -80.74857 34.99245 181.46 122.28
+# END dsf2stg

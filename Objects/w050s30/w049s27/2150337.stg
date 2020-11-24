@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/large-hangar.ac -48.65048 -26.88222 0.00 124.3
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -48.64763 -26.87994 5.46 124.3
+OBJECT_SHARED Models/lib/HorizTanks2.ac -48.64774 -26.88000 5.40 304.3
+OBJECT_SHARED Models/lib/HorizTanks2.ac -48.64765 -26.87850 5.41 34.3
+OBJECT_SHARED Models/lib/SmHangar.ac -48.65040 -26.88180 5.10 304.3
+OBJECT_SHARED Models/lib/SmHangar.ac -48.64846 -26.88045 5.44 304.3
+OBJECT_SHARED Models/lib/SmHangar.ac -48.65021 -26.88168 5.48 304.3
+OBJECT_SHARED Models/lib/SmHangar.ac -48.64828 -26.88034 5.45 304.3
+OBJECT_SHARED Models/lib/SmHangar.ac -48.65001 -26.88156 5.46 304.3
+OBJECT_SHARED Models/lib/SmHangar.ac -48.64808 -26.88022 5.47 304.3
+OBJECT_SHARED Models/lib/SmHangar.ac -48.64982 -26.88145 5.45 304.3
+OBJECT_SHARED Models/lib/SmHangar.ac -48.64789 -26.88011 5.48 304.3
+OBJECT_SHARED Models/lib/fboModern1.ac -48.64751 -26.87884 5.43 34.3
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -48.64926 -26.88039 5.16 34.3
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -48.64951 -26.88054 5.41 34.3
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -48.64769 -26.87978 5.40 124.3
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -48.64964 -26.88115 5.37 34.3
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -48.65040 -26.88162 5.48 34.3
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -48.64923 -26.88090 5.42 34.3
+# END dsf2stg

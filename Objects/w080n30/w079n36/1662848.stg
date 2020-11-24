@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangar81x16.ac -78.78699 36.06204 0.00 239.59
+OBJECT_SHARED Models/lib/hangar81x16.ac -78.78676 36.06194 83.90 239.59
+OBJECT_SHARED Models/lib/hangar81x16.ac -78.78625 36.06169 83.93 239.59
+OBJECT_SHARED Models/lib/hangar81x16.ac -78.78651 36.06183 83.84 239.59
+OBJECT_SHARED Models/lib/hangar81x16.ac -78.78469 36.06133 83.87 231.89
+OBJECT_SHARED Models/lib/hangar81x16.ac -78.78593 36.06273 83.39 238.17
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -78.78576 36.06154 81.70 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.78644 36.06283 83.88 142.73
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -78.78680 36.06226 81.93 -33.91
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.78485 36.06272 83.14 38.99
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.78667 36.06308 80.86 328.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.78676 36.06296 81.67 328.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.78687 36.06277 81.90 328.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.78693 36.06270 82.29 328.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.78699 36.06263 82.48 328.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.78704 36.06255 82.75 328.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.78717 36.06234 82.75 328.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.78723 36.06226 83.49 332.95
+OBJECT_SHARED Models/lib/SmHangar.ac -78.78667 36.06244 83.49 147.92
+OBJECT_SHARED Models/lib/SmHangar.ac -78.78660 36.06253 82.87 147.92
+OBJECT_SHARED Models/lib/SmHangar.ac -78.78654 36.06262 82.61 147.92
+OBJECT_SHARED Models/Transport/van_silver.ac -78.78676 36.06237 82.35 234.46
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -78.78491 36.06129 82.96 126.67
+OBJECT_SHARED Models/Transport/hatchback_black.ac -78.78637 36.06166 83.55 278.07
+# END dsf2stg

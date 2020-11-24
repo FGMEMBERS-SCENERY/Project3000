@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -52.69584 70.73256 0.00 337.751
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -52.69638 70.73294 109.43 239
+OBJECT_SHARED Models/lib/stack_of_cones.ac -52.69586 70.73249 109.38 0
+OBJECT_SHARED Models/lib/loader.ac -52.69531 70.73231 109.57 240.255
+OBJECT_SHARED Models/lib/container6-HD.ac -52.69539 70.73227 109.51 60.6543
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -52.69629 70.73244 109.56 152.126
+OBJECT_SHARED Models/Transport/van_red.ac -52.69608 70.73241 109.85 318.168
+OBJECT_SHARED Models/Transport/hatchback_green.ac -52.69617 70.73243 109.76 332.241
+OBJECT_SHARED Models/lib/lamp10m.xml -52.69528 70.73239 109.81 241
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -52.68314 70.73347 109.41 316.5
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -52.68360 70.73349 85.94 46.5
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -52.68247 70.73321 -8.23 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -52.69470 70.73237 88.72 330.13
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -52.69417 70.73336 109.19 60.13
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -52.69335 70.73321 107.95 60.13
+# END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -76.76142 35.80908 0.00 -18.21
+OBJECT_SHARED Models/lib/cars6.ac -76.76175 35.80961 9.61 252.67
+OBJECT_SHARED Models/lib/cars10.ac -76.76191 35.80973 9.64 252.67
+OBJECT_SHARED Models/lib/cars10.ac -76.76202 35.80946 9.67 252.67
+OBJECT_SHARED Models/lib/cars10.ac -76.76224 35.80951 9.69 72.67
+OBJECT_SHARED Models/lib/cars10.ac -76.76183 35.80941 9.72 252.67
+OBJECT_SHARED Models/lib/cars10.ac -76.76234 35.80924 9.66 72.67
+OBJECT_SHARED Models/lib/4container-office.ac -76.76158 35.80930 9.75 162.67
+OBJECT_SHARED Models/lib/4container-office.ac -76.76155 35.80938 9.63 342.67
+OBJECT_SHARED Models/lib/LongRow.ac -76.76088 35.81156 9.62 72.67
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.76136 35.80896 9.55 73.19
+OBJECT_SHARED Models/lib/NoParkStripes.xml -76.76130 35.80895 9.61 73.19
+# END dsf2stg

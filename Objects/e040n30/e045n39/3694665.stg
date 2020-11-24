@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/belt_loader.ac 45.44688 39.19210 0.00 -42.83
+OBJECT_SHARED Models/lib/belt_loader.ac 45.44695 39.19205 862.81 -43.7
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 45.44758 39.19174 862.75 312.51
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 45.44798 39.19141 862.65 315
+OBJECT_SHARED Models/lib/HorizTanks2.ac 45.45171 39.18928 862.89 131.97
+OBJECT_SHARED Models/lib/HorizTanks2.ac 45.45162 39.18921 861.11 131.97
+OBJECT_SHARED Models/lib/FireStationLg.ac 45.45194 39.18890 860.93 42.98
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 45.45141 39.18935 860.47 -47.22
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 45.45193 39.18981 766.08 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 45.45180 39.18971 766.40 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 45.45164 39.18960 766.47 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 45.45179 39.18947 766.20 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 45.45195 39.18959 766.16 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 45.44698 39.19149 861.41 312.73
+OBJECT_SHARED Models/lib/LongRow.ac 45.45001 39.18570 860.79 41.26
+OBJECT_SHARED Models/lib/LongRow.ac 45.44957 39.18604 856.16 40.25
+OBJECT_SHARED Models/lib/LongRow.ac 45.44920 39.18640 855.42 40.49
+OBJECT_SHARED Models/lib/LongRow.ac 45.45102 39.18641 856.04 41.65
+OBJECT_SHARED Models/lib/LongRow.ac 45.45064 39.18675 857.15 42.01
+OBJECT_SHARED Models/lib/LongRow.ac 45.45027 39.18708 857.33 40.93
+OBJECT_SHARED Models/lib/MedHangar.ac 45.44435 39.19422 857.31 223
+OBJECT_SHARED Models/lib/lamp10m.xml 45.44942 39.18988 862.41 0
+OBJECT_SHARED Models/lib/lamp10m.xml 45.44829 39.19088 862.87 0
+OBJECT_SHARED Models/lib/lamp10m.xml 45.44456 39.19403 863.07 270
+OBJECT_SHARED Models/lib/lamp10m.xml 45.44542 39.19330 862.16 0
+OBJECT_SHARED Models/lib/lamp10m.xml 45.44627 39.19257 861.42 0
+OBJECT_SHARED Models/lib/lamp10m.xml 45.44716 39.19184 863.37 0
+# END dsf2stg

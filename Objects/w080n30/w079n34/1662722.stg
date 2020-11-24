@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -78.26027 34.02990 0.00 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -78.26032 34.02990 7.68 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -78.26037 34.02990 7.68 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -78.26042 34.02990 7.55 90
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -78.26069 34.02998 7.55 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -78.26077 34.03001 6.77 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -78.26083 34.03007 6.46 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -78.26085 34.03014 6.72 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -78.26085 34.03021 6.66 0
+OBJECT_SHARED Models/lib/NoParkStripes.xml -78.26080 34.03028 6.93 71
+OBJECT_SHARED Models/Effects/taxilampblue.xml -78.26068 34.02998 7.48 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -78.26077 34.03002 7.27 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -78.26083 34.03007 6.96 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -78.26085 34.03014 7.22 25.01
+OBJECT_SHARED Models/Effects/taxilampblue.xml -78.26085 34.03021 7.16 25.01
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -78.26026 34.02974 6.93 10
+# END dsf2stg

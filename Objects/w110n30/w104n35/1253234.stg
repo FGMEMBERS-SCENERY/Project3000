@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -103.42957 35.84059 0.00 91.68
+OBJECT_SHARED Models/lib/propane-tank.ac -103.42973 35.84064 1465.40 91.62
+OBJECT_SHARED Models/lib/propane-tank.ac -103.42975 35.84063 1465.40 90.97
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -103.42929 35.84060 1465.40 74.98
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -103.42929 35.84056 1465.60 74.51
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -103.42940 35.84051 1465.60 8.67001
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -103.42935 35.84051 1465.53 5.95001
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -103.42930 35.84051 1465.53 34.15
+OBJECT_SHARED Models/lib/container6-HD.ac -103.43005 35.83460 1465.53 180
+OBJECT_SHARED Models/lib/shed8x10.ac -103.42965 35.84056 1463.03 179.6
+# END dsf2stg

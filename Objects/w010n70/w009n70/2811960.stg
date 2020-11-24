@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fuel-truck.xml -8.66202 70.94212 -0.03 64.93
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -8.66146 70.94127 -0.00 138.72
-OBJECT_SHARED Models/Misc/6barrels.ac -8.65686 70.94158 -0.01 92.69
-OBJECT_SHARED Models/lib/shed8x10.ac -8.65917 70.94250 -0.04 50.6
-OBJECT_SHARED Models/lib/shed8x10.ac -8.66216 70.94207 -0.03 245.24
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -8.66810 70.93962 -0.01 327.94
+OBJECT_SHARED Models/lib/fuel-truck.xml -8.66202 70.94212 0.00 64.93
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -8.66146 70.94127 16.77 138.72
+OBJECT_SHARED Models/Misc/6barrels.ac -8.65686 70.94158 14.63 92.69
+OBJECT_SHARED Models/lib/shed8x10.ac -8.65917 70.94250 12.43 50.6
+OBJECT_SHARED Models/lib/shed8x10.ac -8.66216 70.94207 15.84 245.24
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -8.66810 70.93962 16.86 327.94
 # END dsf2stg

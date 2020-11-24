@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -86.23378 39.78461 0.00 62.76
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -86.23421 39.78335 219.09 359.94
+OBJECT_SHARED Models/Transport/hatchback_black.ac -86.23365 39.78240 219.19 90
+OBJECT_SHARED Models/Transport/hatchback_red.ac -86.23361 39.78297 218.94 90
+OBJECT_SHARED Models/Transport/hatchback_red.ac -86.23372 39.78470 218.98 62.76
+OBJECT_SHARED Models/Transport/hatchback_red.ac -86.23407 39.78335 219.03 359.94
+OBJECT_SHARED Models/Transport/van_silver.ac -86.23365 39.78251 219.09 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -86.23361 39.78308 218.94 90
+OBJECT_SHARED Models/lib/trailer-ups.ac -86.23375 39.78466 218.98 332.76
+OBJECT_SHARED Models/lib/trailer-ups.ac -86.23414 39.78335 219.03 269.94
+OBJECT_SHARED Models/lib/trailer-ups.ac -86.23365 39.78246 219.09 0
+OBJECT_SHARED Models/lib/trailer-ups.ac -86.23361 39.78303 218.98 0
+OBJECT_SHARED Models/lib/trailer-ups.ac -86.23368 39.78475 218.98 332.76
+OBJECT_SHARED Models/lib/trailer-ups.ac -86.23400 39.78335 219.03 269.94
+OBJECT_SHARED Models/lib/trailer-ups.ac -86.23365 39.78256 218.98 0
+OBJECT_SHARED Models/lib/trailer-ups.ac -86.23361 39.78313 218.98 0
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -86.23345 39.78402 218.98 332.49
+# END dsf2stg

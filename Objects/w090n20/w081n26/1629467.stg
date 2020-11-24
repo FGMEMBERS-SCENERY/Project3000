@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -80.10573 26.37960 0.00 226.51
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -80.10431 26.38453 1.99 224.33
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -80.11149 26.37709 2.36 42.83
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -80.10708 26.38209 1.88 42.31
+OBJECT_SHARED Models/lib/MedHangar.ac -80.10664 26.38284 2.02 138.07
+OBJECT_SHARED Models/lib/MedHangar.ac -80.10546 26.38416 2.10 138.62
+OBJECT_SHARED Models/lib/MedHangar.ac -80.10835 26.38181 2.29 135
+OBJECT_SHARED Models/lib/MedHangar.ac -80.10585 26.38377 1.95 138.62
+OBJECT_SHARED Models/lib/MedHangar.ac -80.10877 26.38143 2.23 135
+OBJECT_SHARED Models/lib/MedHangar.ac -80.10891 26.38087 1.92 225.27
+OBJECT_SHARED Models/lib/MedHangar.ac -80.11062 26.37808 1.90 135
+OBJECT_SHARED Models/lib/MedHangar.ac -80.11034 26.37833 1.85 135
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -80.11110 26.37783 1.85 0
+OBJECT_SHARED Models/lib/fboModern1.ac -80.10476 26.38449 1.87 138.62
+OBJECT_SHARED Models/lib/fboModern1.ac -80.10689 26.38229 2.34 138.07
+OBJECT_SHARED Models/lib/fboModern1.ac -80.11128 26.37726 2.05 135
+# END dsf2stg

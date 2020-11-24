@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -72.34337 -51.25977 123.29 89.62
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.32762 -51.25960 132.31 106.86
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.34409 -51.26071 123.63 286.39
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -72.34305 -51.25969 123.31 44.33
-OBJECT_SHARED Models/lib/handicap-sign.ac -72.34375 -51.25977 123.11 270
-OBJECT_SHARED Models/lib/cars7.ac -72.34387 -51.25977 123.06 270
-OBJECT_SHARED Models/lib/office3x10.ac -72.34529 -51.25975 121.63 345
-OBJECT_SHARED Models/lib/office3x10.ac -72.34525 -51.25960 121.67 349
-OBJECT_SHARED Models/lib/farm19x12.ac -72.34224 -51.25767 120.06 90
+OBJECT_SHARED Models/lib/SmHangar.ac -72.34337 -51.25977 0.00 89.62
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.32762 -51.25960 123.29 106.86
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.34409 -51.26071 132.38 286.39
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -72.34305 -51.25969 123.63 44.33
+OBJECT_SHARED Models/lib/handicap-sign.ac -72.34375 -51.25977 123.32 270
+OBJECT_SHARED Models/lib/cars7.ac -72.34387 -51.25977 123.11 270
+OBJECT_SHARED Models/lib/office3x10.ac -72.34529 -51.25975 123.06 345
+OBJECT_SHARED Models/lib/office3x10.ac -72.34525 -51.25960 121.54 349
+OBJECT_SHARED Models/lib/farm19x12.ac -72.34224 -51.25767 121.61 90
 # END dsf2stg

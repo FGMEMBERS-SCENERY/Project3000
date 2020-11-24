@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.10452 17.10381 0.00 306.81
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.10483 17.10384 107.42 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -89.10440 17.10404 107.42 311.63
+OBJECT_SHARED Models/Misc/picnic_table.ac -89.10368 17.10355 107.27 0
+# END dsf2stg

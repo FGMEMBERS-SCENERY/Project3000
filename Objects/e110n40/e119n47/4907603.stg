@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 119.91811 47.30778 0.00 197.488
+OBJECT_SHARED Models/lib/office65x50.ac 119.91820 47.30834 889.97 106.903
+OBJECT_SHARED Models/lib/FireStationLg.ac 119.91788 47.30922 889.82 106.113
+OBJECT_SHARED Models/lib/shed8x10.ac 119.89364 47.30613 889.74 16.391
+OBJECT_SHARED Models/lib/transformer3x3.ac 119.92167 47.31379 886.71 228.113
+OBJECT_SHARED Models/lib/jetway_e14m.ac 119.91648 47.30803 891.07 108.511
+OBJECT_SHARED Models/lib/jetway_e14m.ac 119.91597 47.30792 889.37 111.528
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 119.91551 47.30798 889.36 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 119.91612 47.30811 889.37 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 119.91677 47.30825 889.36 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 119.91778 47.30780 889.57 18.5374
+# END dsf2stg

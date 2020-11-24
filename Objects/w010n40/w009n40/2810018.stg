@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -8.40439 40.54655 0.00 77.47
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -8.40438 40.54658 99.31 77.47
+OBJECT_SHARED Models/lib/HorizTanks2.ac -8.40464 40.54719 99.20 130.51
+OBJECT_SHARED Models/lib/industrial13x24.ac -8.40542 40.54713 98.44 222.17
+OBJECT_SHARED Models/lib/SmHangar.ac -8.40552 40.54743 97.67 131.05
+OBJECT_SHARED Models/lib/SmHangar.ac -8.40573 40.54729 97.33 131.05
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -8.40534 40.54692 97.20 52.09
+OBJECT_SHARED Models/lib/MedHangar.ac -8.40458 40.54681 97.98 257.58
+OBJECT_SHARED Models/Transport/Norberttruck.xml -8.40300 40.54821 98.83 43
+OBJECT_SHARED Models/Transport/Norberttruck.xml -8.40296 40.54818 100.92 43
+# END dsf2stg

@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -90.27041 -0.44487 0.00 216.96
+OBJECT_SHARED Models/lib/shed10x50.ac -90.26774 -0.44273 46.50 359.19
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -90.26806 -0.44635 53.60 33.99
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.26873 -0.44642 49.97 38.54
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -90.26875 -0.44631 -45.65 0
+# END dsf2stg

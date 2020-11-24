@@ -1,18 +1,22 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/6barrels.ac -116.08004 35.28700 281.30 0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -116.07989 35.28601 281.10 22.62
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -116.08010 35.28660 281.21 11.31
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -116.07994 35.28620 281.14 22.25
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.07978 35.28647 281.19 16.5
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -116.08125 35.28739 280.35 286.21
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -116.08107 35.28761 280.39 17.4
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.08115 35.28806 280.50 104.62
-OBJECT_SHARED Models/Misc/picnic_table.ac -116.08079 35.28718 280.31 19.65
-OBJECT_SHARED Models/lib/2container-office.ac -116.08012 35.28712 281.32 285.64
-OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08155 35.28804 280.11 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08107 35.28770 280.91 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08133 35.28691 280.76 0
-OBJECT_SHARED Models/Effects/taxilampblue.xml -116.08110 35.28697 280.78 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.08104 35.28796 0.00 13.64
+OBJECT_SHARED Models/Transport/hatchback_green.ac -116.08106 35.28761 280.49 105.26
+OBJECT_SHARED Models/lib/prop_a.ac -116.08117 35.28732 280.41 197.65
+OBJECT_SHARED Models/lib/coal_pile.ac -116.08010 35.28673 280.36 101.31
+OBJECT_SHARED Models/lib/coal_pile.ac -116.08007 35.28674 281.21 262.41
+OBJECT_SHARED Models/lib/coal_pile.ac -116.08009 35.28677 281.21 353.66
+OBJECT_SHARED Models/Misc/6barrels.ac -116.08003 35.28699 281.24 158.2
+OBJECT_SHARED Models/lib/coal_pile.ac -116.07995 35.28698 281.29 19.86
+OBJECT_SHARED Models/lib/transformer3x3.ac -116.08017 35.28712 281.29 15.72
+OBJECT_SHARED Models/Transport/van_silver.ac -116.08090 35.28706 281.32 167.66
+OBJECT_SHARED Models/lib/lamp10m.xml -116.08091 35.28762 280.32 14.2
+OBJECT_SHARED Models/lib/lamp10m.xml -116.08080 35.28706 280.41 17.84
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -116.08016 35.28686 280.32 284.63
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -116.08086 35.28716 281.26 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -116.08067 35.28713 280.34 196.34
+OBJECT_SHARED Models/Transport/van_red.ac -116.08005 35.28704 280.32 202.77
+OBJECT_SHARED Models/Misc/6barrels.ac -116.08004 35.28700 281.29 0
+OBJECT_SHARED Models/lib/2container-office.ac -116.08002 35.28709 281.29 290.07
 # END dsf2stg

@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -117.80394 70.76091 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -117.80400 70.76091 28.68 270
+OBJECT_SHARED Models/lib/lamp10m.xml -117.80172 70.76082 28.68 270
+OBJECT_SHARED Models/lib/lamp10m.xml -117.80119 70.76092 27.39 270
+OBJECT_SHARED Models/lib/lamp10m.xml -117.80467 70.76125 27.04 270
+OBJECT_SHARED Models/lib/lamp10m.xml -117.80419 70.76089 29.70 270
+OBJECT_SHARED Models/lib/lamp10m.xml -117.80202 70.76105 28.68 270
+OBJECT_SHARED Models/lib/lamp10m.xml -117.80279 70.76092 27.95 270
+OBJECT_SHARED Models/lib/cars6.ac -117.80119 70.76094 28.04 212.739
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -117.80423 70.76098 27.04 299.914
+OBJECT_SHARED Models/lib/stack_of_cones.ac -117.80272 70.76092 28.86 0
+# END dsf2stg

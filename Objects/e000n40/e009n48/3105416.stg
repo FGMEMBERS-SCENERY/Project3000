@@ -1,5 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/billboard-tree.xml 9.07027 48.24761 890.92 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.07034 48.24763 887.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.07037 48.24770 891.13 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.07260 48.24894 891.03 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 9.07029 48.24765 887.41 0
 # END dsf2stg

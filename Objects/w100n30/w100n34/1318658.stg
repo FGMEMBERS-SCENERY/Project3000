@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -99.36460 34.09123 0.00 288.2
+OBJECT_SHARED Models/lib/propane-tank.ac -99.36459 34.09138 389.30 198.32
+OBJECT_SHARED Models/lib/propane-tank.ac -99.36445 34.09175 389.34 17.04
+OBJECT_SHARED Models/lib/propane-tank.ac -99.36444 34.09220 389.30 17.23
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -99.36463 34.09137 389.36 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -99.36396 34.09116 389.34 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -99.36453 34.09148 388.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -99.36482 34.09256 389.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -99.36451 34.09267 389.62 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -99.36452 34.09278 389.48 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.36384 34.09111 389.49 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.36381 34.09104 388.87 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -99.36406 34.09107 388.85 283.41
+OBJECT_SHARED Models/Transport/hatchback_black.ac -99.36390 34.09118 389.02 73.01
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -99.36386 34.09096 388.93 15.74
+OBJECT_SHARED Models/Transport/van_red.ac -99.36391 34.09095 388.90 15.74
+OBJECT_SHARED Models/Transport/hatchback_black.ac -99.36402 34.09096 388.89 307.33
+OBJECT_SHARED Models/lib/trailer-fedex.ac -99.36406 34.09185 388.95 197.31
+OBJECT_SHARED Models/lib/trailer-fedex.ac -99.36453 34.09149 389.15 108.05
+OBJECT_SHARED Models/lib/prop_a.ac -99.36429 34.09092 389.31 169.32
+OBJECT_SHARED Models/lib/prop_a.ac -99.36387 34.09129 389.09 18.44
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -99.36400 34.09133 388.94 341.13
+OBJECT_SHARED Models/lib/stack_of_cones.ac -99.36399 34.09135 389.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -99.36400 34.09101 389.02 287.69
+OBJECT_SHARED Models/Transport/Norberttruck.xml -99.36424 34.09201 388.95 131.33
+OBJECT_SHARED Models/lib/lamp10m.xml -99.36378 34.09109 389.22 18.23
+OBJECT_SHARED Models/lib/lamp10m.xml -99.36427 34.09118 388.87 197.95
+OBJECT_SHARED Models/lib/lamp10m.xml -99.36443 34.09161 389.15 197.95
+OBJECT_SHARED Models/lib/lamp10m.xml -99.36489 34.09230 389.27 197.62
+OBJECT_SHARED Models/lib/lamp10m.xml -99.36476 34.09197 389.65 197.62
+OBJECT_SHARED Models/lib/coal_pile.ac -99.36383 34.09107 389.55 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -99.36454 34.09131 388.87 197.45
+OBJECT_SHARED Models/lib/MedHangar.ac -99.36490 34.09232 389.27 18.27
+OBJECT_SHARED Models/lib/MedHangar.ac -99.36436 34.09241 389.65 198.27
+OBJECT_SHARED Models/lib/SmHangar.ac -99.36455 34.09180 389.38 198.11
+OBJECT_SHARED Models/lib/SmHangar.ac -99.36435 34.09098 389.41 198.11
+OBJECT_SHARED Models/lib/SmHangar.ac -99.36406 34.09144 389.11 198.11
+# END dsf2stg

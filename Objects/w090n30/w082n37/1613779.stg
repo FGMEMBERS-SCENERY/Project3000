@@ -1,8 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/HorizTanks2.ac -81.20747 37.29402 864.99 317.18
-OBJECT_SHARED Models/lib/MedHangar.ac -81.20860 37.29304 864.37 317.53
-OBJECT_SHARED Models/lib/SmHangar.ac -81.20721 37.29340 864.10 317.92
-OBJECT_SHARED Models/lib/MedHangar.ac -81.20810 37.29348 864.75 318.17
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.20796 37.29296 0.00 318.54
+OBJECT_SHARED Models/lib/FireStationLg.ac -81.20839 37.29208 864.09 138.54
+OBJECT_SHARED Models/lib/admin-with-cars.ac -81.20904 37.29224 863.18 47.18
+OBJECT_SHARED Models/lib/fboModern1.ac -81.20827 37.29269 863.52 318.64
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -81.20730 37.29400 863.87 48.49
 # END dsf2stg

@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -80.20960 41.62608 0.00 333.48
+OBJECT_SHARED Models/lib/LongRow.ac -80.20954 41.62643 426.99 333.48
+OBJECT_SHARED Models/lib/MedHangar.ac -80.20828 41.62692 426.75 242.43
+OBJECT_SHARED Models/lib/MedHangar.ac -80.20707 41.62662 425.80 242.43
+OBJECT_SHARED Models/lib/MedHangar.ac -80.20707 41.62699 425.19 62.41
+OBJECT_SHARED Models/lib/cars10.ac -80.20873 41.62665 424.95 334.54
+OBJECT_SHARED Models/lib/cars4.ac -80.20783 41.62645 426.14 331.93
+OBJECT_SHARED Models/lib/cars6.ac -80.21071 41.62580 425.75 28.02
+OBJECT_SHARED Models/lib/cars4.ac -80.20690 41.62734 427.67 152.52
+OBJECT_SHARED Models/lib/cars10.ac -80.20655 41.62721 424.55 153.43
+OBJECT_SHARED Models/lib/SmHangar.ac -80.20787 41.62722 424.38 61.86
+OBJECT_SHARED Models/lib/SmHangar.ac -80.20766 41.62713 425.35 62.78
+OBJECT_SHARED Models/lib/propane-tank.ac -80.21039 41.62607 425.29 183.18
+OBJECT_SHARED Models/lib/HorizTanks2.ac -80.21013 41.62662 427.34 262.18
+OBJECT_SHARED Models/lib/prop_a.ac -80.21135 41.62594 426.84 24.94
+OBJECT_SHARED Models/lib/prop_a.ac -80.21130 41.62606 427.78 302.72
+OBJECT_SHARED Models/lib/prop_a.ac -80.21109 41.62615 427.63 299.38
+OBJECT_SHARED Models/lib/garage-small-white.ac -80.20964 41.62549 427.57 181.31
+OBJECT_SHARED Models/lib/NoParkStripes.xml -80.21125 41.62570 427.35 298.2
+OBJECT_SHARED Models/lib/NoParkStripes.xml -80.21119 41.62572 427.90 297.74
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20576 41.62818 427.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20569 41.62840 422.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20581 41.62838 422.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20575 41.62835 422.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20579 41.62828 422.72 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20579 41.62817 422.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20573 41.62814 422.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20576 41.62804 422.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20573 41.62799 423.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20577 41.62794 423.03 326.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20572 41.62790 423.18 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20538 41.62798 423.10 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20550 41.62789 422.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20548 41.62802 422.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20548 41.62812 422.87 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20548 41.62821 422.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20537 41.62825 422.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20553 41.62828 422.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20540 41.62829 422.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20546 41.62836 422.56 270
+# END dsf2stg

@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -44.72855 -20.07807 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -44.71959 -20.07761 828.89 295.76
+OBJECT_SHARED Models/lib/lamp10m.xml -44.71966 -20.07749 823.22 296.03
+OBJECT_SHARED Models/lib/lamp10m.xml -44.71947 -20.07686 821.74 125.335
+OBJECT_SHARED Models/lib/lamp10m.xml -44.72002 -20.07703 815.17 213.621
+OBJECT_SHARED Models/lib/lamp10m.xml -44.71993 -20.07731 814.91 302.939
+OBJECT_SHARED Models/lib/lamp10m.xml -44.71958 -20.07697 818.78 213.69
+OBJECT_SHARED Models/lib/lamp10m.xml -44.71973 -20.07706 816.07 214.046
+OBJECT_SHARED Models/lib/lamp10m.xml -44.71954 -20.07836 816.97 307.349
+OBJECT_SHARED Models/lib/lamp10m.xml -44.72012 -20.07806 832.67 212.949
+OBJECT_SHARED Models/lib/lamp10m.xml -44.72938 -20.07714 827.73 211.827
+OBJECT_SHARED Models/lib/lamp10m.xml -44.72865 -20.07774 829.31 106.032
+OBJECT_SHARED Models/lib/lamp10m.xml -44.72872 -20.07748 829.04 104.903
+OBJECT_SHARED Models/lib/lamp10m.xml -44.72892 -20.07708 829.12 151.011
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72042 -20.07805 829.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72026 -20.07787 825.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.71993 -20.07783 824.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.71992 -20.07794 824.74 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72004 -20.07806 825.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72059 -20.07827 828.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72054 -20.07838 825.44 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72069 -20.07802 826.43 201.63
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72066 -20.07808 823.71 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72064 -20.07818 824.07 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72064 -20.07773 825.07 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72070 -20.07789 821.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72065 -20.07835 823.33 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72080 -20.07838 825.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72087 -20.07839 824.56 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.71958 -20.07733 823.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.71921 -20.07703 819.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.71953 -20.07672 817.23 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.71962 -20.07658 812.78 211.33
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72030 -20.07677 811.30 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -44.72061 -20.07709 811.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -44.72052 -20.07764 814.36 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -44.72026 -20.07767 820.61 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -44.71976 -20.07780 822.38 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -44.72057 -20.07724 825.03 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -44.72042 -20.07692 815.55 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -44.72009 -20.07666 812.56 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -44.71955 -20.07658 811.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -44.71910 -20.07700 811.59 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -44.71922 -20.07720 817.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -44.71948 -20.07729 819.61 0
+OBJECT_SHARED Models/lib/office40x25.ac -44.72002 -20.07715 819.93 211.9
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -44.73059 -20.07698 816.10 1
+OBJECT_SHARED Models/lib/LgMaint.ac -44.73007 -20.07730 828.72 270.26
+# END dsf2stg

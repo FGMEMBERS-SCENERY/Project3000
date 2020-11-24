@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -120.03961 38.46305 0.00 232.909
+OBJECT_SHARED Models/lib/farm19x12.ac -120.03994 38.46310 2160.25 232.909
+OBJECT_SHARED Models/lib/farm19x12.ac -120.04024 38.46297 2160.25 232.909
+OBJECT_SHARED Models/lib/farm19x12.ac -120.04053 38.46302 2160.01 232.909
+OBJECT_SHARED Models/lib/farm19x12.ac -120.04145 38.46310 2161.00 232.909
+OBJECT_SHARED Models/lib/farm19x12.ac -120.04271 38.46246 2161.32 90
+OBJECT_SHARED Models/lib/industrial13x24.ac -120.03615 38.45517 2164.89 169.824
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -120.03634 38.45591 2155.71 90
+OBJECT_SHARED Models/lib/shed8x10.ac -120.04023 38.45668 2155.10 357.614
+OBJECT_SHARED Models/lib/prop_a.ac -120.03972 38.46125 2151.80 313.451
+OBJECT_SHARED Models/Transport/hatchback_green.ac -120.04153 38.46309 -1000.00 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -120.03996 38.46308 2164.76 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -120.03964 38.46304 2160.25 0
+OBJECT_SHARED Models/Transport/van_silver.ac -120.04028 38.46296 2160.01 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -120.04058 38.46301 2160.01 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -120.04187 38.46263 2161.00 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -120.04236 38.46203 2162.16 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -120.04259 38.46237 2158.61 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.03623 38.45588 2164.21 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.03625 38.45533 2155.10 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.04013 38.45671 2155.29 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.04011 38.46094 2151.80 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.03798 38.46102 -1000.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.03812 38.46102 2158.63 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.03797 38.46087 2158.63 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.03816 38.46086 2158.51 0
+# END dsf2stg

@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -91.49713 44.24748 0.00 245.056
+OBJECT_SHARED Models/lib/6space_wStop.ac -91.49760 44.24642 226.62 154.067
+OBJECT_SHARED Models/lib/6space_wStop.ac -91.49783 44.24609 227.02 152.87
+OBJECT_SHARED Models/lib/6space_wStop.ac -91.49771 44.24625 226.71 153.795
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -91.49816 44.24611 226.88 156.758
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -91.49713 44.24626 226.62 155.742
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -91.49739 44.24629 227.74 154.398
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.49813 44.24563 227.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.49814 44.24573 227.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.49825 44.24567 227.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.49834 44.24578 227.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.49801 44.24654 227.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.49812 44.24660 226.42 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.49819 44.24644 226.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.49804 44.24628 226.26 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.49787 44.24621 226.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.49781 44.24689 226.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.49761 44.24718 226.44 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.49761 44.24729 226.40 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.49757 44.24735 226.34 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.49697 44.24814 226.34 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.49707 44.24821 225.99 0
+OBJECT_SHARED Models/lib/cars4.ac -91.49742 44.24756 225.80 62.5929
+OBJECT_SHARED Models/lib/cars2.ac -91.49756 44.24653 226.33 154.204
+OBJECT_SHARED Models/lib/cars6.ac -91.49738 44.24684 227.01 332.778
+OBJECT_SHARED Models/Transport/hatchback_red.ac -91.49717 44.24752 226.95 334.28
+OBJECT_SHARED Models/Transport/van_silver.ac -91.49717 44.24746 226.59 333.905
+OBJECT_SHARED Models/Transport/hatchback_green.ac -91.49727 44.24749 226.59 331.631
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.49798 44.24684 226.49 336.693
+OBJECT_SHARED Models/Transport/van_silver.ac -91.49782 44.24712 226.32 150.141
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -91.49794 44.24690 226.28 336.769
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.49790 44.24697 226.33 337.605
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -91.49724 44.24643 226.25 64.7278
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -91.49717 44.24627 227.56 246.535
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -91.49728 44.24650 227.60 247.098
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -91.49764 44.24630 227.35 65.6546
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -91.49738 44.24637 227.03 248.814
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.49754 44.24644 227.31 64.8768
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -91.49753 44.24647 227.16 65.7704
+OBJECT_SHARED Models/Transport/hatchback_red.ac -91.49773 44.24616 227.14 65.2891
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.49815 44.24607 226.86 70.6568
+OBJECT_SHARED Models/Transport/van_red.ac -91.49815 44.24620 226.62 243.471
+OBJECT_SHARED Models/Transport/van_silver.ac -91.49810 44.24616 226.49 59.3492
+OBJECT_SHARED Models/lib/cars6.ac -91.49837 44.24611 226.49 70.9745
+OBJECT_SHARED Models/lib/cars10.ac -91.49700 44.24688 226.65 90.021
+OBJECT_SHARED Models/lib/cars10.ac -91.49723 44.24770 227.27 335.265
+# END dsf2stg

@@ -1,9 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/4container-office.ac -20.32883 64.14158 70.21 330.295
-OBJECT_SHARED Models/lib/stack_of_cones.ac -20.32899 64.14156 70.07 325.784
-OBJECT_SHARED Models/lib/cars4.ac -20.32869 64.14152 70.19 328.16
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -20.32933 64.14165 69.95 58.7142
-OBJECT_SHARED Models/lib/SmHangar.ac -20.32899 64.14135 69.85 328.793
+OBJECT_SHARED Models/lib/industrial15x22.ac -20.33177 64.14266 0.00 116.564
+OBJECT_SHARED Models/lib/4container-office.ac -20.32883 64.14158 69.41 330.3
+OBJECT_SHARED Models/lib/stack_of_cones.ac -20.32899 64.14156 70.39 325.78
+OBJECT_SHARED Models/lib/cars4.ac -20.32869 64.14152 70.24 328.16
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -20.32933 64.14165 70.39 58.71
+OBJECT_SHARED Models/lib/SmHangar.ac -20.32899 64.14135 70.10 328.79
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -20.33234 64.14283 70.08 288.436
+OBJECT_SHARED Models/Transport/van_red.ac -20.33160 64.14284 69.19 111.449
+OBJECT_SHARED Models/lib/cars7.ac -20.33118 64.14279 69.64 26.3962
+OBJECT_SHARED Models/Misc/6barrels.ac -20.33203 64.14268 69.90 0
+OBJECT_SHARED Models/lib/coal_pile.ac -20.33229 64.14237 69.28 90
+OBJECT_SHARED Models/lib/coal_pile.ac -20.33236 64.14243 68.66 90
+OBJECT_SHARED Models/lib/coal_pile.ac -20.33269 64.14271 68.59 90
+OBJECT_SHARED Models/lib/coal_pile.ac -20.33260 64.14263 68.83 90
+OBJECT_SHARED Models/lib/office6x12.ac -20.33246 64.14254 68.82 28.3652
+OBJECT_SHARED Models/lib/office6x12.ac -20.33254 64.14288 68.71 297.423
 # END dsf2stg

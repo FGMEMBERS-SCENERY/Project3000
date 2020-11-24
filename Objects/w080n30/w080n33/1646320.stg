@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac -79.76697 33.85572 0.00 260.93
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.76653 33.85571 23.91 1.41
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.76657 33.85570 23.83 83.78
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.76654 33.85567 23.85 83.78
+OBJECT_SHARED Models/lib/SmHangar.ac -79.76594 33.85638 23.83 84.14
+OBJECT_SHARED Models/lib/SmHangar.ac -79.76664 33.85608 23.73 354
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.76699 33.85591 23.87 352
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.76655 33.85559 23.93 260.97
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.76657 33.85566 23.84 83.78
+OBJECT_SHARED Models/lib/lamp10m.xml -79.76678 33.85576 23.85 76.26
+OBJECT_SHARED Models/lib/prop_a.ac -79.76593 33.85635 23.89 35.1
+OBJECT_SHARED Models/lib/prop_a.ac -79.76672 33.85609 23.73 123.63
+OBJECT_SHARED Models/lib/prop_a.ac -79.76722 33.85578 23.89 175.46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.76684 33.85570 23.95 80.99
+OBJECT_SHARED Models/lib/cars6.ac -79.76697 33.85567 23.88 350.14
+# END dsf2stg

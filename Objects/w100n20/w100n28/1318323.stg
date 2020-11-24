@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -99.11319 28.82704 0.00 113.84
+OBJECT_SHARED Models/lib/garden-shed.ac -99.11319 28.82732 178.48 32.04
+OBJECT_SHARED Models/lib/farm19x12.ac -99.11356 28.82737 178.74 256.35
+OBJECT_SHARED Models/lib/SmHangar.ac -99.11159 28.82749 178.89 292.66
+OBJECT_SHARED Models/lib/SmHangar.ac -99.11165 28.82735 178.21 112.66
+OBJECT_SHARED Models/lib/SmHangar.ac -99.11181 28.82741 178.12 292.66
+OBJECT_SHARED Models/lib/SmHangar.ac -99.11186 28.82727 178.25 112.66
+OBJECT_SHARED Models/lib/SmHangar.ac -99.11209 28.82670 178.22 293.45
+OBJECT_SHARED Models/lib/SmHangar.ac -99.11213 28.82678 177.83 293.45
+OBJECT_SHARED Models/lib/SmHangar.ac -99.11184 28.82580 177.91 13.94
+OBJECT_SHARED Models/lib/SmHangar.ac -99.11173 28.82714 177.00 293.45
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.11329 28.82515 177.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.11331 28.82511 177.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.11353 28.82515 176.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.11360 28.82511 177.08 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.11347 28.82518 177.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -99.11360 28.82757 177.08 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.11349 28.82757 179.07 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.11341 28.82741 179.06 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -99.11348 28.82730 178.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.11366 28.82736 178.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.11372 28.82746 178.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.11283 28.82990 178.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.11252 28.82991 181.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -99.11238 28.82985 181.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -99.11255 28.82969 180.94 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.11278 28.82984 180.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.11278 28.83009 181.03 0
+# END dsf2stg

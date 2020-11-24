@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -79.90822 44.26671 0.00 89.6881
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.90919 44.26938 223.60 285.461
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.90742 44.26674 222.95 225
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.90733 44.26749 223.50 324.638
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.90744 44.26869 223.25 320.195
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.90736 44.26809 222.91 225
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.92055 44.26897 223.08 23.3093
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.91325 44.26850 223.93 242.904
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.91333 44.26843 223.77 238.815
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.91346 44.26831 223.81 241.821
+OBJECT_SHARED Models/lib/large-hangar.ac -79.90636 44.27180 223.87 139.158
+OBJECT_SHARED Models/lib/large-hangar.ac -79.90612 44.27200 221.20 139.158
+OBJECT_SHARED Models/lib/large-hangar.ac -79.90768 44.27070 221.00 139.158
+OBJECT_SHARED Models/lib/large-hangar.ac -79.90744 44.27091 222.16 139.158
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.91967 44.25847 221.99 247.932
+# END dsf2stg

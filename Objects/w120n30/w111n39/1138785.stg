@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -110.74980 39.61021 0.00 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -110.74999 39.61075 1782.10 73.26
+OBJECT_SHARED Models/Transport/Norberttruck.xml -110.74932 39.61193 1782.91 252.39
+OBJECT_SHARED Models/Transport/hatchback_red.ac -110.74929 39.61131 1785.24 212.73
+OBJECT_SHARED Models/Transport/hatchback_green.ac -110.74952 39.61211 1783.79 342.19
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -110.74952 39.61243 1783.99 72.97
+OBJECT_SHARED Models/lib/lamp10m.xml -110.74983 39.61079 1783.07 85.73
+OBJECT_SHARED Models/lib/lamp10m.xml -110.74984 39.61061 1783.07 85.73
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -110.74983 39.61075 1782.75 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -110.74985 39.61074 1782.91 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -110.74986 39.61075 1782.91 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -110.74985 39.61076 1782.91 0
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -110.74988 39.61080 1783.07 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -110.74937 39.61257 1783.07 334.98
+OBJECT_SHARED Models/lib/stack_of_cones.ac -110.74970 39.61170 1786.64 0
+OBJECT_SHARED Models/lib/cone.ac -110.74997 39.61155 1784.50 0
+OBJECT_SHARED Models/lib/cone.ac -110.74991 39.61172 1784.34 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -110.74951 39.61217 1784.50 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -110.74928 39.61266 1785.28 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -110.74951 39.61223 1786.80 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -110.74942 39.61136 1785.28 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -110.74967 39.61119 1784.03 0
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -110.74943 39.61219 1782.26 341.62
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -110.74999 39.61249 1785.87 17.94
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -110.74952 39.61137 1785.73 0
+OBJECT_SHARED Models/Airport/cargoip.xml -110.74946 39.61221 1784.03 0
+OBJECT_SHARED Models/Airport/cargobox.xml -110.74946 39.61217 1785.87 311.63
+OBJECT_SHARED Models/Airport/cargobox.xml -110.75000 39.61251 1785.87 0
+OBJECT_SHARED Models/lib/4container-office.ac -110.74987 39.61013 1785.73 110.47
+OBJECT_SHARED Models/lib/SmHangar.ac -110.74963 39.61125 1780.81 319.5
+OBJECT_SHARED Models/lib/MedHangar.ac -110.74958 39.61154 1783.71 32.3
+OBJECT_SHARED Models/lib/shed8x10.ac -110.74995 39.61087 1784.19 358.3
+OBJECT_SHARED Models/lib/SmHangar.ac -110.74931 39.61253 1774.34 342.7
+OBJECT_SHARED Models/lib/MedHangar.ac -110.74918 39.61300 1786.48 342.429
+OBJECT_SHARED Models/lib/SmHangar.ac -110.74939 39.61233 1787.29 342.475
+# END dsf2stg

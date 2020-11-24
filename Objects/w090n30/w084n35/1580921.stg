@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -83.57908 35.92253 0.00 324.31
+OBJECT_SHARED Models/Misc/picnic_table.ac -83.57910 35.92250 291.93 345.67
+OBJECT_SHARED Models/Misc/picnic_table.ac -83.57911 35.92246 291.93 1.04001
+OBJECT_SHARED Models/lib/cars10.ac -83.57921 35.92285 291.93 270
+OBJECT_SHARED Models/lib/cars4.ac -83.57918 35.92263 291.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57757 35.92226 291.74 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57754 35.92233 304.44 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57748 35.92234 305.30 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57744 35.92225 305.30 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57765 35.92232 306.17 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57729 35.92221 303.58 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57738 35.92231 306.48 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57709 35.92226 306.17 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57717 35.92236 308.75 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57725 35.92237 308.44 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57732 35.92241 307.58 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57737 35.92238 307.58 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57732 35.92251 306.72 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57735 35.92261 308.13 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57745 35.92253 308.68 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57748 35.92244 307.27 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57756 35.92246 305.85 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57769 35.92252 305.54 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57769 35.92263 304.68 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57753 35.92255 305.23 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57745 35.92269 306.96 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57738 35.92272 308.37 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57771 35.92321 308.37 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57772 35.92328 308.12 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57773 35.92347 308.33 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57788 35.92349 306.06 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57784 35.92330 303.08 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57808 35.92347 306.93 46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.57828 35.92344 300.10 46
+OBJECT_SHARED Models/Transport/hatchback_black.ac -83.57942 35.92266 298.30 90.63
+OBJECT_SHARED Models/Transport/hatchback_green.ac -83.57926 35.92250 291.38 267.63
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -83.57938 35.92252 290.84 252.77
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -83.57946 35.92254 290.20 239.91
+OBJECT_SHARED Models/Transport/hatchback_green.ac -83.57952 35.92257 289.94 229.64
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -83.57955 35.92262 290.95 213.07
+OBJECT_SHARED Models/lib/propane-tank.ac -83.57888 35.92324 290.23 1
+OBJECT_SHARED Models/lib/HorizTanks2.ac -83.57800 35.92295 293.54 276
+OBJECT_SHARED Models/lib/transformer3x3.ac -83.57806 35.92301 303.80 281
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -83.57790 35.92269 302.36 96
+OBJECT_SHARED Models/lib/cone.ac -83.57969 35.92213 304.06 261
+OBJECT_SHARED Models/lib/cone.ac -83.57959 35.92219 285.79 261
+OBJECT_SHARED Models/lib/cone.ac -83.57949 35.92224 286.90 261
+OBJECT_SHARED Models/lib/cone.ac -83.57941 35.92229 287.76 261
+OBJECT_SHARED Models/lib/cone.ac -83.57932 35.92235 289.25 258.2
+OBJECT_SHARED Models/lib/cone.ac -83.57924 35.92241 290.16 261
+OBJECT_SHARED Models/Transport/hatchback_black.ac -83.57848 35.92313 291.47 273.2
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -83.57841 35.92306 296.73 180.69
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -83.57846 35.92309 298.45 272.28
+# END dsf2stg

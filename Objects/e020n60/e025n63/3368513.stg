@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac 25.81042 63.11998 0.00 202.44
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 25.81048 63.11997 107.61 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 25.81050 63.11999 107.50 333.43
+OBJECT_SHARED Models/lib/coal_pile.ac 25.80972 63.12056 107.50 90
+OBJECT_SHARED Models/Transport/hatchback_green.ac 25.81064 63.11982 107.83 107.59
+OBJECT_SHARED Models/lib/office6x12.ac 25.81040 63.11988 107.62 22.45
+OBJECT_SHARED Models/lib/industrial13x24.ac 25.81038 63.11998 107.71 112.45
+# END dsf2stg

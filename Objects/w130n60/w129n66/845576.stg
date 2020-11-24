@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -128.64820 66.24276 0.00 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -128.64846 66.24267 83.26 90
+OBJECT_SHARED Models/lib/farm19x12.ac -128.64943 66.24268 83.30 178.75
+OBJECT_SHARED Models/lib/cars4.ac -128.64423 66.24243 83.06 180.715
+OBJECT_SHARED Models/lib/cars4.ac -128.64543 66.24243 84.02 179.64
+OBJECT_SHARED Models/lib/cars4.ac -128.64398 66.24243 83.96 178.992
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -128.64498 66.24233 84.02 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -128.64502 66.24233 84.00 0
+OBJECT_SHARED Models/lib/farm19x12.ac -128.64536 66.24240 84.00 178.97
+OBJECT_SHARED Models/Airport/cargobox.xml -128.64609 66.24249 83.96 0
+OBJECT_SHARED Models/Airport/cargobox.xml -128.64613 66.24249 83.82 0
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -128.64397 66.24233 83.82 0.959999
+OBJECT_SHARED Models/Airport/cargobox.xml -128.64609 66.24253 84.08 0
+OBJECT_SHARED Models/Airport/cargobox.xml -128.64614 66.24253 83.82 0
+OBJECT_SHARED Models/Airport/cargobox.xml -128.64609 66.24251 83.82 0
+OBJECT_SHARED Models/Airport/cargobox.xml -128.64614 66.24251 83.82 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -128.64394 66.24226 83.82 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -128.64417 66.24238 84.08 270
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -128.64411 66.24237 84.02 270.79
+# END dsf2stg

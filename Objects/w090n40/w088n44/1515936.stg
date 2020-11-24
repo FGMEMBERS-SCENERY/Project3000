@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -87.85807 44.50617 0.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -87.85806 44.50641 239.46 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -87.86084 44.50571 239.45 179.59
+OBJECT_SHARED Models/lib/prop_a.ac -87.85977 44.50574 239.84 133.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac -87.86026 44.50548 239.66 290.38
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -87.85835 44.50584 239.83 112.09
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -87.85832 44.50592 239.53 302.73
+OBJECT_SHARED Models/Transport/van_red.ac -87.85842 44.50600 239.50 39.81
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -87.85835 44.50611 239.48 75.26
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -87.85827 44.50618 239.45 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -87.85840 44.50606 239.43 47.49
+OBJECT_SHARED Models/lib/SmHangar.ac -87.86098 44.50554 239.45 359.81
+OBJECT_SHARED Models/lib/SmHangar.ac -87.86004 44.50487 239.97 179.39
+OBJECT_SHARED Models/lib/SmHangar.ac -87.85985 44.50503 240.05 359.39
+OBJECT_SHARED Models/lib/SmHangar.ac -87.85940 44.50533 239.99 179.53
+OBJECT_SHARED Models/lib/SmHangar.ac -87.85985 44.50519 239.76 359.37
+OBJECT_SHARED Models/lib/SmHangar.ac -87.86004 44.50505 239.90 179.59
+OBJECT_SHARED Models/lib/SmHangar.ac -87.86021 44.50562 239.96 359.52
+OBJECT_SHARED Models/lib/SmHangar.ac -87.85985 44.50556 239.78 359.32
+OBJECT_SHARED Models/lib/SmHangar.ac -87.85985 44.50538 239.70 359.42
+OBJECT_SHARED Models/lib/SmHangar.ac -87.86004 44.50523 239.79 179.98
+OBJECT_SHARED Models/lib/SmHangar.ac -87.86004 44.50541 239.91 179.58
+OBJECT_SHARED Models/lib/SmHangar.ac -87.85986 44.50485 239.82 359.47
+OBJECT_SHARED Models/lib/SmHangar.ac -87.86108 44.50486 240.08 0
+OBJECT_SHARED Models/lib/SmHangar.ac -87.86108 44.50507 240.25 359.62
+OBJECT_SHARED Models/lib/SmHangar.ac -87.86098 44.50533 240.16 359.85
+OBJECT_SHARED Models/lib/SmHangar.ac -87.85830 44.50622 240.05 90
+OBJECT_SHARED Models/lib/lamp10m.xml -87.86069 44.50470 239.43 224.15
+# END dsf2stg

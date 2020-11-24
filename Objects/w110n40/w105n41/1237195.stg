@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -104.12656 41.15139 0.00 270.047
+OBJECT_SHARED Models/lib/LongRow.ac -104.12710 41.15139 1563.11 269.966
+OBJECT_SHARED Models/lib/trailer-fedex.ac -104.12756 41.15113 1563.11 181.762
+OBJECT_SHARED Models/Transport/hatchback_black.ac -104.13532 41.15354 1563.55 90
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -104.13533 41.15349 1565.91 90
+OBJECT_SHARED Models/Transport/hatchback_red.ac -104.13477 41.15356 1565.91 176.73
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -104.13469 41.15357 1565.88 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -104.13462 41.15350 1565.88 278.276
+OBJECT_SHARED Models/lib/trailer-ups.ac -104.13510 41.15364 1565.91 88.5122
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -104.12967 41.15120 1565.88 270.39
+OBJECT_SHARED Models/Transport/hatchback_black.ac -104.13043 41.15076 1564.36 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -104.13054 41.15086 1564.40 270.465
+# END dsf2stg

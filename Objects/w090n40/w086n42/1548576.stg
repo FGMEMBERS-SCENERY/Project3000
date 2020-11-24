@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -85.82692 42.53336 0.00 157
+OBJECT_SHARED Models/lib/LongRow.ac -85.82692 42.53336 0.00 337
+OBJECT_SHARED Models/lib/LongRow.ac -85.82523 42.53286 213.92 265.07
+OBJECT_SHARED Models/lib/MedHangar.ac -85.83009 42.53266 213.63 180.6
+OBJECT_SHARED Models/lib/lamp10m.xml -85.82964 42.53290 214.45 270
+OBJECT_SHARED Models/lib/cone.ac -85.82715 42.53224 214.35 0
+OBJECT_SHARED Models/lib/cone.ac -85.82762 42.53196 214.15 0
+OBJECT_SHARED Models/lib/SmHangar.ac -85.83007 42.53237 214.25 180.636
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.82981 42.53293 214.53 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.82952 42.53287 214.36 180
+# END dsf2stg

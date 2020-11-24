@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed10x50.ac -100.78764 45.79357 0.00 358.85
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -100.78787 45.79260 614.21 357.34
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -100.78603 45.79250 614.74 358.45
+OBJECT_SHARED Models/lib/shed10x50.ac -100.78642 45.79310 613.27 0.75
+OBJECT_SHARED Models/lib/shed8x10.ac -100.78680 45.79721 613.01 136.4
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -100.78559 45.79655 611.69 226.97
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -100.78575 45.79280 519.79 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -100.78601 45.79281 521.15 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -100.78626 45.79281 521.15 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -100.78650 45.79282 521.15 0
+# END dsf2stg

@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 124.21271 8.12738 0.00 356.56
+OBJECT_SHARED Models/lib/shed8x10.ac 124.21242 8.12687 387.61 69.3474
+OBJECT_SHARED Models/lib/shed8x10.ac 124.21238 8.12678 390.47 69.3474
+OBJECT_SHARED Models/lib/shed8x10.ac 124.21255 8.12676 390.66 69.3474
+OBJECT_SHARED Models/lib/shed8x10.ac 124.21246 8.12706 385.61 69.3474
+OBJECT_SHARED Models/lib/stack_of_cones.ac 124.21236 8.12621 390.07 180
+OBJECT_SHARED Models/Transport/hatchback_black.ac 124.21193 8.12535 386.16 251.565
+OBJECT_SHARED Models/Transport/hatchback_green.ac 124.21194 8.12539 386.04 222.709
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 124.21218 8.12626 386.05 342.474
+OBJECT_SHARED Models/Transport/hatchback_green.ac 124.21257 8.12689 388.52 278.746
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 124.21253 8.12691 385.65 282.804
+OBJECT_SHARED Models/Transport/hatchback_black.ac 124.21250 8.12665 385.66 247.62
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 124.21251 8.12668 385.56 247.932
+OBJECT_SHARED Models/Misc/picnic_table.ac 124.21205 8.12548 385.57 246.801
+OBJECT_SHARED Models/Misc/picnic_table.ac 124.21244 8.12699 386.05 245.376
+OBJECT_SHARED Models/lib/lamp10m.xml 124.21247 8.12644 390.22 249.59
+OBJECT_SHARED Models/lib/lamp10m.xml 124.21231 8.12600 390.37 249.928
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 124.21206 8.12547 386.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.21217 8.12659 386.05 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.21220 8.12667 390.65 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.21239 8.12697 390.80 73.4428
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.21287 8.12701 390.26 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.21277 8.12696 385.69 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.21236 8.12651 385.67 97.1251
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.21203 8.12566 390.50 38.6597
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.21203 8.12505 385.76 278.13
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21196 8.12502 385.81 18.4349
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21199 8.12512 385.92 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21233 8.12656 385.96 26.565
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21284 8.12707 390.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 124.21283 8.12694 385.70 130.732
+# END dsf2stg

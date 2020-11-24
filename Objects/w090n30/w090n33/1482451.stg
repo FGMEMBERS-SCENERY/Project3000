@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22680 33.30182 0.50 349.74
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22640 33.30139 160.14 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22607 33.30134 159.16 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22595 33.30189 158.63 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22628 33.30194 159.23 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22640 33.30156 159.64 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22647 33.30160 159.41 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22654 33.30162 159.53 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22670 33.30165 159.53 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22684 33.30167 159.76 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22708 33.30170 160.01 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22715 33.30168 160.35 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22719 33.30162 160.35 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22705 33.30185 160.34 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22710 33.30190 160.46 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22712 33.30202 160.56 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22637 33.30178 160.66 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22640 33.30189 159.65 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22668 33.30180 159.76 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22659 33.30184 160.03 349.28
+OBJECT_SHARED Models/Effects/taxilampblue.xml -89.22655 33.30192 159.91 349.28
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -89.22657 33.30129 159.38 349.49
+OBJECT_SHARED Models/lib/industrial13x24.ac -89.22578 33.30335 158.78 80.13
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -89.22616 33.30191 159.78 79.7
+OBJECT_SHARED Models/lib/prop_a.ac -89.22609 33.30163 159.01 169.78
+# END dsf2stg

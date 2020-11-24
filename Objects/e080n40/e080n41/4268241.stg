@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac 80.29362 41.25915 0.00 264.75
+OBJECT_SHARED Models/lib/FireStationLg.ac 80.29272 41.26030 1163.26 85.23
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 80.29686 41.25908 1163.46 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 80.29618 41.25913 1164.12 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 80.29548 41.25917 1163.96 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 80.29478 41.25922 1163.80 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 80.28935 41.26051 1163.59 174.96
+OBJECT_SHARED Models/lib/LongRow.ac 80.28876 41.26105 1162.89 175.49
+OBJECT_SHARED Models/lib/transformer3x3.ac 80.30676 41.26139 1163.22 245.56
+# END dsf2stg

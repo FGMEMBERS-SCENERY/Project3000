@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 6.83235 53.08453 0.00 333.43
+OBJECT_SHARED Models/Misc/picnic_table.ac 6.83306 53.08446 -0.86 249.62
+OBJECT_SHARED Models/Misc/picnic_table.ac 6.83303 53.08447 -0.56 249.62
+OBJECT_SHARED Models/Misc/picnic_table.ac 6.83300 53.08448 -0.59 249.86
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 6.83352 53.08449 -0.61 264.14
+OBJECT_SHARED Models/Transport/van_red.ac 6.83350 53.08452 -0.12 268.73
+OBJECT_SHARED Models/Transport/van_red.ac 6.83350 53.08455 -0.14 274.67
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 6.83350 53.08457 -0.14 268.83
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 6.83350 53.08446 -0.26 267.27
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 6.83313 53.08440 -0.14 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 6.83313 53.08442 -0.39 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 6.83313 53.08444 -0.39 0
+OBJECT_SHARED Models/Transport/van_silver.ac 6.81548 53.08532 -0.39 34.97
+OBJECT_SHARED Models/Transport/van_red.ac 6.81543 53.08532 -0.36 352.69
+OBJECT_SHARED Models/Transport/hatchback_green.ac 6.81538 53.08532 -0.36 176.7
+OBJECT_SHARED Models/Transport/hatchback_black.ac 6.81533 53.08533 -0.35 177.14
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 6.81529 53.08532 -0.35 3.09
+OBJECT_SHARED Models/Transport/van_silver.ac 6.81523 53.08532 -0.36 353.93
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 6.81519 53.08532 -0.36 180
+OBJECT_SHARED Models/Transport/hatchback_green.ac 6.81502 53.08533 -0.36 359.12
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 6.83354 53.08462 -0.36 265.28
+# END dsf2stg

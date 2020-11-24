@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -4.69723 48.42213 0.00 99.5066
+OBJECT_SHARED Models/lib/transformer3x3.ac -4.69724 48.42216 120.30 99.5066
+OBJECT_SHARED Models/lib/garden-shed.ac -4.69701 48.42201 120.08 99.1918
+OBJECT_SHARED Models/lib/garden-shed.ac -4.69702 48.42204 120.42 99.1918
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -4.69754 48.42218 120.42 279.767
+OBJECT_SHARED Models/Transport/van_red.ac -4.69744 48.42219 120.28 281.95
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -4.69735 48.42220 120.21 277.28
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -4.69720 48.42220 120.15 191.376
+OBJECT_SHARED Models/Transport/hatchback_black.ac -4.69716 48.42221 120.06 186.957
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -4.69677 48.42231 120.04 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -4.69696 48.42231 119.63 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -4.69698 48.42230 119.72 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -4.69694 48.42231 119.73 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -4.69692 48.42231 119.71 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -4.69697 48.42214 119.70 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.69734 48.42287 120.17 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.69696 48.42287 118.17 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.69669 48.42288 118.08 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.69665 48.42288 118.02 108.435
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.69655 48.42288 118.01 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.69943 48.42271 118.03 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -4.69925 48.42286 121.02 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -4.69916 48.42287 120.81 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -4.69908 48.42288 120.77 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -4.69898 48.42288 120.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -4.69888 48.42287 120.68 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -4.69858 48.42288 120.64 90
+# END dsf2stg

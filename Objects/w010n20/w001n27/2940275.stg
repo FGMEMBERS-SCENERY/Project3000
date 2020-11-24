@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office40x25.ac -0.19072 27.84063 0.00 321.45
+OBJECT_SHARED Models/lib/office8x14.ac -0.19195 27.83979 277.15 140.33
+OBJECT_SHARED Models/Airport/cargoim.xml -0.18770 27.84282 277.06 139.52
+OBJECT_SHARED Models/Airport/cargobox.xml -0.18772 27.84279 277.36 135
+OBJECT_SHARED Models/lib/lamp10m.xml -0.19196 27.83991 277.36 140.77
+OBJECT_SHARED Models/lib/lamp10m.xml -0.19243 27.83939 277.05 229.81
+OBJECT_SHARED Models/lib/lamp10m.xml -0.19191 27.83900 277.03 -45
+OBJECT_SHARED Models/lib/lamp10m.xml -0.19150 27.83946 277.10 -30.7
+OBJECT_SHARED Models/lib/lamp10m.xml -0.18928 27.84174 277.12 135.91
+OBJECT_SHARED Models/lib/lamp10m.xml -0.18904 27.84199 277.25 134.22
+OBJECT_SHARED Models/lib/lamp10m.xml -0.18872 27.84233 277.26 138.69
+OBJECT_SHARED Models/lib/lamp10m.xml -0.18947 27.84151 277.28 135
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.18861 27.84238 277.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.18869 27.84246 277.29 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.18877 27.84251 277.27 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.18887 27.84257 277.27 146.31
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.18885 27.84261 277.25 225
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19069 27.84028 277.25 225
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19073 27.84031 277.16 315
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19059 27.84023 277.16 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19053 27.84029 277.17 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19049 27.84033 277.18 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19039 27.84044 277.18 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19032 27.84053 277.19 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19024 27.84060 277.19 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19027 27.84065 277.19 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19195 27.83945 277.19 236.31
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19168 27.83944 277.07 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19165 27.83947 277.10 135
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19161 27.83951 277.10 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19249 27.83944 277.10 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19248 27.83949 277.02 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19237 27.83958 277.02 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -0.19232 27.83964 277.02 0
+OBJECT_SHARED Models/Airport/cargobox.xml -0.18771 27.84281 277.03 138.37
+OBJECT_SHARED Models/lib/container6-HD.ac -0.18776 27.84282 277.36 139.57
+OBJECT_SHARED Models/lib/lamp10m.xml -0.18790 27.84219 277.35 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.18866 27.84139 277.36 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.18906 27.84096 277.32 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.18953 27.84047 277.29 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.18994 27.84001 277.27 0
+OBJECT_SHARED Models/lib/lamp10m.xml -0.19040 27.83953 277.25 0
+OBJECT_SHARED Models/lib/CargoPodPkng.ac -0.18770 27.84267 277.22 48.61
+OBJECT_SHARED Models/lib/office4x14.ac -0.19186 27.83911 277.36 142.61
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -0.19218 27.83927 182.10 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -0.19233 27.83939 277.06 228.26
+OBJECT_SHARED Models/lib/CargoPodPkng.ac -0.18780 27.84274 277.04 48.81
+OBJECT_SHARED Models/lib/lamp10m.xml -0.19065 27.84061 277.35 47.56
+OBJECT_SHARED Models/lib/lamp10m.xml -0.19074 27.84051 277.15 52.12
+# END dsf2stg

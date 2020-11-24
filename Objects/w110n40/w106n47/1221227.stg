@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -105.08529 47.63154 0.00 90
+OBJECT_SHARED Models/Transport/hatchback_green.ac -105.08517 47.63130 749.60 215.445
+OBJECT_SHARED Models/Transport/Norberttruck.xml -105.08492 47.63115 750.31 271.606
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -105.08483 47.63082 753.42 271.694
+OBJECT_SHARED Models/Transport/hatchback_green.ac -105.08508 47.63058 753.75 90
+OBJECT_SHARED Models/lib/lamp10m.xml -105.08490 47.63092 753.93 181.25
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -105.08489 47.63091 753.63 0
+OBJECT_SHARED Models/lib/SmHangar.ac -105.08484 47.63056 753.63 180.81
+OBJECT_SHARED Models/lib/SmHangar.ac -105.08484 47.63072 753.93 181.03
+# END dsf2stg

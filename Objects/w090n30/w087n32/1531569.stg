@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -86.61128 32.85217 0.00 102.53
+OBJECT_SHARED Models/lib/prop_a.ac -86.60966 32.85280 176.81 236.83
+OBJECT_SHARED Models/lib/prop_a.ac -86.61495 32.85063 175.80 282.97
+OBJECT_SHARED Models/lib/prop_a.ac -86.61940 32.84980 177.97 3.14
+OBJECT_SHARED Models/lib/prop_a.ac -86.61837 32.85125 180.10 2.54
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -86.61829 32.85137 181.96 90.78
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -86.61859 32.85143 182.23 0
+OBJECT_SHARED Models/lib/SmHangar.ac -86.61842 32.85135 182.39 90.85
+OBJECT_SHARED Models/lib/MedHangar.ac -86.60939 32.85260 182.28 55.31
+OBJECT_SHARED Models/lib/LongRow.ac -86.61087 32.85224 175.22 101.72
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -86.61055 32.84967 176.34 90
+OBJECT_SHARED Models/lib/prop_a.ac -86.61019 32.84977 171.83 90
+OBJECT_SHARED Models/lib/prop_a.ac -86.60983 32.84978 171.78 90
+OBJECT_SHARED Models/lib/MedHangar.ac -86.60972 32.84958 171.48 269.25
+OBJECT_SHARED Models/lib/SmHangar.ac -86.61964 32.84978 171.09 0.160004
+# END dsf2stg

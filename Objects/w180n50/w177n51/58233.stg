@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -176.64370 51.87796 4.59 258.34
+OBJECT_SHARED Models/lib/garden-shed.ac -176.64370 51.87801 4.54 165.03
+OBJECT_SHARED Models/lib/industrial13x24.ac -176.64354 51.87550 4.54 254.84
+OBJECT_SHARED Models/lib/shed8x10.ac -176.64373 51.87811 5.97 343.23
+OBJECT_SHARED Models/lib/stack_of_cones.ac -176.64456 51.87627 4.18 162.9
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -176.64369 51.87597 4.01 48.56
+OBJECT_SHARED Models/Transport/hatchback_green.ac -176.64385 51.87563 4.56 76.87
+OBJECT_SHARED Models/lib/prop_a.ac -176.64411 51.87554 4.61 105.64
+OBJECT_SHARED Models/Trees/billboard-tree.xml -176.64369 51.87837 4.56 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -176.64482 51.87895 4.57 0
+OBJECT_SHARED Models/lib/office4x14.ac -176.64345 51.87875 4.36 75.46
+OBJECT_SHARED Models/lib/transformer3x3.ac -176.64308 51.87684 5.03 252.99
+# END dsf2stg

@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -116.01463 46.21886 0.00 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -116.01459 46.21879 369.91 90
+OBJECT_SHARED Models/lib/prop_a.ac -116.01602 46.22139 370.36 268.07
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01471 46.22014 364.47 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01527 46.22016 364.56 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01527 46.22001 364.12 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01501 46.21998 365.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01475 46.21998 365.01 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -116.01365 46.21767 365.01 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -116.01356 46.21752 369.57 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -116.01348 46.21742 370.46 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -116.01502 46.21980 366.16 180
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.01568 46.22130 365.90 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01615 46.22131 364.92 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01597 46.22198 364.92 45
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01579 46.22169 362.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01557 46.22121 363.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01591 46.22122 365.36 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01612 46.22122 365.36 90
+OBJECT_SHARED Models/lib/SmHangar.ac -116.01602 46.22146 365.36 90
+OBJECT_SHARED Models/lib/NoParkStripes.xml -116.01379 46.21859 364.02 20.22
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01574 46.22378 365.55 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01566 46.22366 360.55 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01720 46.22337 360.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01711 46.22346 361.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01703 46.22337 360.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01720 46.22324 361.26 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01731 46.22344 362.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01223 46.21622 361.26 195.95
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01220 46.21613 364.51 0
+OBJECT_SHARED Models/lib/lamp10m.xml -116.01366 46.21848 365.14 -68.2
+OBJECT_SHARED Models/lib/cars4.ac -116.01370 46.21859 366.00 292.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01471 46.21868 365.55 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01464 46.21890 370.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.01445 46.21870 369.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.01165 46.21744 365.11 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.01138 46.21691 363.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -116.01225 46.21618 358.71 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -116.01232 46.21623 364.51 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -116.01107 46.21617 364.51 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -116.01103 46.21608 363.16 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -116.01100 46.21598 363.21 0
+OBJECT_SHARED Models/lib/SmHangar.ac -116.01356 46.21839 363.34 200.97
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -116.01350 46.21811 366.44 111.45
+OBJECT_SHARED Models/lib/cars2.ac -116.01451 46.21976 363.89 90
+OBJECT_SHARED Models/lib/SmHangar.ac -116.01462 46.21974 365.90 90
+OBJECT_SHARED Models/lib/hangar81x16.ac -116.01398 46.21930 366.35 180
+OBJECT_SHARED Models/lib/SmHangar.ac -116.01326 46.21791 364.43 198.5
+OBJECT_SHARED Models/lib/SmHangar.ac -116.01315 46.21771 364.10 199.61
+# END dsf2stg

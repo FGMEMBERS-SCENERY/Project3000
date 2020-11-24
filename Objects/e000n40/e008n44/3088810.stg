@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 8.50002 44.67738 0.00 124.5
+OBJECT_SHARED Models/lib/stack_of_cones.ac 8.50128 44.67675 148.09 77.0054
+OBJECT_SHARED Models/lib/transformer3x3.ac 8.50042 44.67771 146.92 33
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.50039 44.67691 148.24 304
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.50026 44.67685 147.27 304
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.50004 44.67676 147.29 304
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.50073 44.67700 147.04 304
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.50069 44.67704 147.30 304
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.50068 44.67706 147.32 304
+OBJECT_SHARED Models/lib/deciduous-tree.xml 8.50075 44.67709 147.43 264.29
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.50018 44.67785 147.41 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.50008 44.67781 148.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.50096 44.67706 148.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.50101 44.67700 147.37 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.50110 44.67697 147.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.50121 44.67701 147.23 0
+OBJECT_SHARED Models/lib/shed10x50.ac 8.50025 44.67678 147.21 31.5
+OBJECT_SHARED Models/lib/propane-tank.ac 8.50076 44.67704 147.14 123
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 8.50153 44.67662 147.30 214
+OBJECT_SHARED Models/lib/garages18x9.ac 8.50080 44.67730 146.80 123
+OBJECT_SHARED Models/lib/office3x10.ac 8.50084 44.67733 147.63 33
+OBJECT_SHARED Models/lib/shed8x10.ac 8.50146 44.67794 147.62 36.5
+OBJECT_SHARED Models/lib/shed8x10.ac 8.50081 44.67694 147.64 123
+OBJECT_SHARED Models/lib/shed8x10.ac 8.50107 44.67708 147.17 123
+OBJECT_SHARED Models/lib/industrial13x24.ac 8.50136 44.67654 147.35 123
+# END dsf2stg

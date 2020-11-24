@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 28.05339 53.87474 105.52 116.86
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 28.04945 53.87447 200.48 130.38
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 28.04904 53.87476 200.60 130.38
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 28.05057 53.87087 197.71 220.46
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 28.05014 53.87116 200.99 220.46
+OBJECT_SHARED Models/lib/chariot3curve.ac 28.05258 53.87380 197.16 229.09
+OBJECT_SHARED Models/lib/chariot3curve.ac 28.05245 53.87370 200.15 31.37
+OBJECT_SHARED Models/Transport/hatchback_black.ac 28.05235 53.87396 200.17 316.22
+OBJECT_SHARED Models/Transport/hatchback_black.ac 28.05239 53.87391 200.23 308.93
+OBJECT_SHARED Models/Transport/hatchback_black.ac 28.05178 53.87441 200.17 281.31
+OBJECT_SHARED Models/Transport/hatchback_green.ac 28.05197 53.87429 200.37 323.97
+OBJECT_SHARED Models/Transport/van_silver.ac 28.05204 53.87426 200.35 302.62
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 28.05257 53.87384 200.35 312.51
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 28.05234 53.87400 200.15 308.37
+OBJECT_SHARED Models/Transport/van_silver.ac 28.05225 53.87401 200.23 297.07
+OBJECT_SHARED Models/Transport/van_red.ac 28.05217 53.87403 200.23 298.3
+OBJECT_SHARED Models/Transport/Norberttruck.xml 28.05268 53.87377 200.25 47.02
+OBJECT_SHARED Models/Transport/Norberttruck.xml 28.05256 53.87389 200.13 41.86
+OBJECT_SHARED Models/Transport/Norberttruck.xml 28.05251 53.87392 200.14 42.51
+OBJECT_SHARED Models/lib/lamp10m.xml 28.05022 53.87332 200.97 220
+OBJECT_SHARED Models/lib/lamp10m.xml 28.04951 53.87380 200.57 220
+OBJECT_SHARED Models/lib/lamp10m.xml 28.04872 53.87433 200.62 220
+OBJECT_SHARED Models/lib/lamp10m.xml 28.04789 53.87490 200.51 220
+OBJECT_SHARED Models/lib/caisses_group.ac 28.05149 53.87462 200.53 305.98
+# END dsf2stg

@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.51320 37.87891 0.00 38.16
+OBJECT_SHARED Models/lib/cars7.ac -122.51344 37.87860 1.03 222.51
+OBJECT_SHARED Models/lib/4space_wStop.ac -122.51295 37.87862 2.02 306.89
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.51349 37.87911 2.02 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -122.51253 37.88008 0.28 310.04
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.51337 37.87910 0.20 0
+# END dsf2stg

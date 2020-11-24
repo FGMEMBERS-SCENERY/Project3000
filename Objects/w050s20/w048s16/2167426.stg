@@ -2,8 +2,8 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -47.73184 -15.93510 0.00 237.53
-OBJECT_SHARED Models/lib/HorizTanks2.ac -47.72510 -15.93962 -0.00 237.04
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -47.72518 -15.93958 0.00 232.85
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -47.72557 -15.93933 0.00 90
-OBJECT_SHARED Models/lib/deciduous-tree2.xml -47.72541 -15.93929 0.00 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -47.72510 -15.93962 1021.41 237.04
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -47.72518 -15.93958 1022.62 232.85
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -47.72557 -15.93933 1022.64 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -47.72541 -15.93929 1022.88 90
 # END dsf2stg

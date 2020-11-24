@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/NoParkStripes.xml -90.12856 42.95180 0.00 0
+OBJECT_SHARED Models/lib/NoParkStripes.xml -90.12867 42.95188 360.41 89.9185
+OBJECT_SHARED Models/lib/cars14.ac -90.13027 42.95198 360.23 179.545
+OBJECT_SHARED Models/lib/cars14.ac -90.12994 42.95109 364.91 2.73044
+OBJECT_SHARED Models/lib/cars14.ac -90.12885 42.95100 365.57 180.163
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.12895 42.95144 363.91 180
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.12895 42.95166 362.85 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.13004 42.95022 361.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.13008 42.95034 368.57 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.12930 42.95067 368.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.12893 42.95044 366.09 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.12892 42.95062 366.83 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.12902 42.95052 365.78 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -90.12918 42.95059 366.51 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.12905 42.95035 366.41 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.12915 42.95026 367.04 0
+OBJECT_SHARED Models/lib/cars6.ac -90.12834 42.95106 367.98 337.339
+OBJECT_SHARED Models/lib/cars6.ac -90.12922 42.95158 362.47 92.1369
+OBJECT_SHARED Models/lib/cars2.ac -90.12973 42.95054 362.82 180
+OBJECT_SHARED Models/lib/cars10.ac -90.13001 42.95253 367.97 15.7935
+OBJECT_SHARED Models/lib/cars10.ac -90.12844 42.95137 362.31 272.939
+OBJECT_SHARED Models/lib/cars10.ac -90.12907 42.94996 361.50 51.5186
+OBJECT_SHARED Models/lib/cars10.ac -90.12881 42.95020 369.34 60.0851
+OBJECT_SHARED Models/lib/cars10.ac -90.12861 42.94991 367.67 224.228
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.12943 42.94998 368.83 15.8024
+OBJECT_SHARED Models/Transport/van_red.ac -90.12941 42.94993 369.97 4.33231
+OBJECT_SHARED Models/Transport/hatchback_red.ac -90.12960 42.95006 370.30 91.6501
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.12972 42.95001 369.61 144.194
+# END dsf2stg

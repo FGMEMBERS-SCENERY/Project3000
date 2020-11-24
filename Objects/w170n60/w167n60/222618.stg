@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -166.26042 60.37567 0.00 88.34
+OBJECT_SHARED Models/lib/SmHangar.ac -166.26157 60.37586 10.64 101.54
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -166.26047 60.37576 11.24 274.03
+OBJECT_SHARED Models/lib/container6-HD.ac -166.26167 60.37592 10.74 281.81
+OBJECT_SHARED Models/lib/container6-HD.ac -166.26037 60.37574 11.24 5.67999
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26482 60.37502 12.41 181.02
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26469 60.37512 12.22 141.67
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26445 60.37518 12.15 118.71
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26417 60.37526 11.79 118.71
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26482 60.37504 12.41 138.89
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26464 60.37513 12.22 115.93
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26435 60.37521 12.15 115.93
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26482 60.37504 12.41 72.07
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26466 60.37512 12.22 32.72
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26441 60.37519 12.15 9.76
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26413 60.37527 11.79 9.76
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26479 60.37505 12.41 140.89
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26460 60.37514 12.15 117.93
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26431 60.37522 12.15 117.93
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26473 60.37509 12.22 137.98
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26451 60.37516 12.15 115.02
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26423 60.37524 12.08 115.02
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26476 60.37508 12.22 111.41
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26455 60.37515 12.15 88.45
+OBJECT_SHARED Models/lib/coal_pile.ac -166.26426 60.37523 12.08 88.45
+# END dsf2stg

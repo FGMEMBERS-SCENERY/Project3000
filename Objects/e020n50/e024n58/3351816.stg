@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac 24.00307 58.14821 0.00 43.0251
+OBJECT_SHARED Models/Transport/hatchback_green.ac 24.00313 58.14823 4.65 45.0001
+OBJECT_SHARED Models/lib/cone.ac 24.00247 58.14843 4.65 349.992
+OBJECT_SHARED Models/lib/stack_of_cones.ac 24.00300 58.14837 4.57 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.00251 58.14810 4.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.00279 58.14809 4.63 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.00268 58.14815 4.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 24.00259 58.14821 4.63 0
+OBJECT_SHARED Models/lib/shed8x10.ac 24.00333 58.14838 4.62 313
+OBJECT_SHARED Models/lib/industrial13x24.ac 24.00275 58.14818 4.61 43
+# END dsf2stg

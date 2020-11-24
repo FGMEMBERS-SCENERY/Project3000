@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garages22x9.ac -96.17893 41.76824 0.00 26.5
+OBJECT_SHARED Models/lib/garages22x9.ac -96.17927 41.76811 312.06 26.5
+OBJECT_SHARED Models/lib/cone.ac -96.17860 41.76837 312.03 84.27
+OBJECT_SHARED Models/lib/stack_of_cones.ac -96.17839 41.76829 312.09 84.27
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -96.17860 41.76839 312.10 26.12
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -96.17851 41.76824 312.09 84.27
+OBJECT_SHARED Models/Misc/6barrels.ac -96.17842 41.76842 312.11 84.27
+OBJECT_SHARED Models/Misc/6barrels.ac -96.17840 41.76843 312.07 84.27
+OBJECT_SHARED Models/lib/2vending-machines.ac -96.17859 41.76837 312.07 296.47
+OBJECT_SHARED Models/lib/lamp10m.xml -96.17867 41.76728 312.09 24.49
+OBJECT_SHARED Models/lib/lamp10m.xml -96.17857 41.76711 312.08 24.74
+OBJECT_SHARED Models/lib/propane-tank.ac -96.17826 41.76939 312.09 268.8
+OBJECT_SHARED Models/lib/propane-tank.ac -96.17826 41.76943 312.02 268.93
+OBJECT_SHARED Models/lib/propane-tank.ac -96.17800 41.76643 312.02 295.64
+OBJECT_SHARED Models/lib/propane-tank.ac -96.17839 41.76737 312.00 292.25
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.17756 41.76686 312.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.17766 41.76682 312.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.17775 41.76689 312.00 0
+OBJECT_SHARED Models/Transport/van_silver.ac -96.17792 41.76746 312.00 268.85
+OBJECT_SHARED Models/lib/cars2.ac -96.17854 41.76876 312.10 115.2
+OBJECT_SHARED Models/lib/prop_a.ac -96.17862 41.76829 312.07 187.82
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.17863 41.76780 312.09 32.01
+# END dsf2stg

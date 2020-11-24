@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/belt_loader.ac -82.78137 21.84018 0.00 152.14
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -82.78120 21.84008 21.48 227.121
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -82.78123 21.84019 21.42 0
+OBJECT_SHARED Models/Airport/cargobox.xml -82.78108 21.84022 21.45 0
+OBJECT_SHARED Models/Airport/cargobox.xml -82.78112 21.84021 21.43 0
+OBJECT_SHARED Models/Airport/cargobox.xml -82.78111 21.84024 21.43 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -82.78217 21.83817 21.43 241.607
+OBJECT_SHARED Models/lib/lamp10m.xml -82.78163 21.83853 20.96 136.724
+OBJECT_SHARED Models/lib/lamp10m.xml -82.78123 21.83883 20.97 130.601
+OBJECT_SHARED Models/lib/lamp10m.xml -82.78125 21.83923 21.01 188.452
+OBJECT_SHARED Models/lib/lamp10m.xml -82.78133 21.83956 21.16 190.499
+OBJECT_SHARED Models/lib/lamp10m.xml -82.78153 21.83988 21.29 186.934
+OBJECT_SHARED Models/lib/lamp10m.xml -82.78162 21.84029 21.41 148.261
+OBJECT_SHARED Models/lib/lamp10m.xml -82.78197 21.83840 21.53 134.27
+OBJECT_SHARED Models/lib/lamp10m.xml -82.78224 21.83817 21.00 164.249
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -82.78195 21.83787 20.96 220.985
+# END dsf2stg

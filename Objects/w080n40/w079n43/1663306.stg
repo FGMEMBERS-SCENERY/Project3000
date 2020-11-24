@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26893 43.17401 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26891 43.17417 204.75 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26904 43.17416 204.62 341.57
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26893 43.17407 204.47 288.44
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26896 43.17398 204.68 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26903 43.17393 204.60 315
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26934 43.17407 204.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.27008 43.17431 204.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.27007 43.17445 202.99 288.44
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.27006 43.17438 202.96 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.27011 43.17449 202.96 198.43
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26992 43.17449 202.93 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.27008 43.17456 203.17 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.27008 43.17464 202.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26998 43.17463 202.90 126.87
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26983 43.17460 203.02 135
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26963 43.17463 203.26 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26951 43.17461 203.50 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26937 43.17461 203.62 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26919 43.17459 203.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -78.26907 43.17459 203.99 75.96
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.26964 43.17411 204.11 270
+OBJECT_SHARED Models/lib/farm19x12.ac -78.26907 43.17442 203.72 358.84
+OBJECT_SHARED Models/lib/industrial13x24.ac -78.27028 43.17404 204.21 270
+OBJECT_SHARED Models/lib/shed8x10.ac -78.26964 43.17446 202.90 359.92
+OBJECT_SHARED Models/lib/industrial13x24.ac -78.26942 43.17424 203.53 180
+OBJECT_SHARED Models/lib/prop_a.ac -78.26952 43.17377 203.92 42.37
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -78.26905 43.17376 204.03 44.41
+# END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/large-hangar.ac -48.80014 -26.22402 0.00 321.11
+OBJECT_SHARED Models/lib/office32x25n.ac -48.80052 -26.22444 3.55 321.11
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -48.80223 -26.22329 3.43 51.11
+OBJECT_SHARED Models/lib/HorizTanks2.ac -48.80235 -26.22321 3.07 231.11
+OBJECT_SHARED Models/lib/MedHangar.ac -48.80510 -26.22086 3.05 231.11
+OBJECT_SHARED Models/lib/MedHangar.ac -48.80463 -26.22120 3.95 231.11
+OBJECT_SHARED Models/lib/large-hangar.ac -48.80275 -26.22342 3.57 321.11
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -48.80093 -26.22410 3.06 321.11
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -48.80129 -26.22384 3.35 321.11
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -48.80164 -26.22358 3.25 321.11
+OBJECT_SHARED Models/lib/fboModern1.ac -48.80228 -26.22304 3.18 141.11
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -48.80066 -26.22551 3.05 321.11
+# END dsf2stg

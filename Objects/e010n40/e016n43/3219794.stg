@@ -1,16 +1,27 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/FireStationLg.ac 16.67906 43.28771 527.97 55.23
-OBJECT_SHARED Models/lib/SmHangar.ac 16.68041 43.28961 526.39 56.57
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 16.67913 43.28920 528.24 233.558
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 16.68074 43.28903 525.73 324.57
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 16.68102 43.28890 525.23 147.13
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 16.68089 43.28896 525.41 320.26
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 16.67925 43.28780 527.82 144.38
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 16.67899 43.28807 528.12 238.78
-OBJECT_SHARED Models/lib/fuel-truck.xml 16.67910 43.28826 527.98 49.05
-OBJECT_SHARED Models/lib/fuel-truck.xml 16.67907 43.28822 527.98 54.62
-OBJECT_SHARED Models/lib/lamp10m.xml 16.67965 43.28915 527.30 0
-OBJECT_SHARED Models/lib/lamp10m.xml 16.67893 43.28842 528.30 0
+OBJECT_SHARED Models/lib/cars4.ac 16.67970 43.28961 0.00 55.5
+OBJECT_SHARED Models/lib/cars10.ac 16.67948 43.28938 527.75 55.5
+OBJECT_SHARED Models/lib/cars6.ac 16.67999 43.28958 527.96 234.95
+OBJECT_SHARED Models/lib/cars10.ac 16.67985 43.28944 527.27 234.95
+OBJECT_SHARED Models/lib/cars6.ac 16.67936 43.28930 527.31 324.42
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 16.67969 43.28909 528.07 281.62
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 16.67901 43.28837 527.46 281.62
+OBJECT_SHARED Models/lib/stack_of_cones.ac 16.68107 43.28880 528.41 56.06
+OBJECT_SHARED Models/lib/stack_of_cones.ac 16.68002 43.28899 525.21 56.94
+OBJECT_SHARED Models/lib/stack_of_cones.ac 16.67963 43.28858 526.96 54.67
+OBJECT_SHARED Models/lib/stack_of_cones.ac 16.67922 43.28816 527.49 54.73
+OBJECT_SHARED Models/lib/stack_of_cones.ac 16.67875 43.28798 528.04 325.39
+OBJECT_SHARED Models/lib/SmHangar.ac 16.68047 43.28958 528.66 58.88
+OBJECT_SHARED Models/lib/cube16x10.ac 16.67916 43.28775 526.47 55.23
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 16.67944 43.28884 528.03 325.12
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 16.67948 43.28896 527.85 328.18
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 16.67939 43.28887 527.75 323.35
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 16.67950 43.28884 527.88 145.46
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 16.67948 43.28882 527.68 143.44
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 16.68071 43.28955 527.68 236.88
+OBJECT_SHARED Models/lib/stack_of_cones.ac 16.68036 43.28933 526.12 146.59
+OBJECT_SHARED Models/lib/stack_of_cones.ac 16.67968 43.28900 526.46 144.84
+OBJECT_SHARED Models/lib/stack_of_cones.ac 16.67966 43.28901 527.42 144.85
 # END dsf2stg

@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -93.31306 46.62004 0.00 38.06
+OBJECT_SHARED Models/lib/prop_a.ac -93.31329 46.62024 373.06 38.58
+OBJECT_SHARED Models/lib/SmHangar.ac -93.31412 46.62024 373.06 219.69
+OBJECT_SHARED Models/lib/fboModern1.ac -93.31436 46.62059 373.13 219.37
+OBJECT_SHARED Models/lib/SmHangar.ac -93.31647 46.62171 373.14 179.49
+OBJECT_SHARED Models/lib/SmHangar.ac -93.31647 46.62154 373.29 179.49
+OBJECT_SHARED Models/lib/SmHangar.ac -93.31517 46.62131 373.32 310.25
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.31307 46.61933 373.16 128.33
+OBJECT_SHARED Models/lib/lamp10m.xml -93.31301 46.61944 373.07 309.59
+OBJECT_SHARED Models/lib/vending-machine.ac -93.31456 46.62063 373.06 39.55
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.31345 46.61948 373.16 307.06
+OBJECT_SHARED Models/Transport/van_red.ac -93.31361 46.61948 373.10 37.68
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.31358 46.61950 373.11 37.68
+# END dsf2stg

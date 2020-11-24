@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -56.13145 72.78692 0.00 168.56
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -56.13130 72.78714 1.01 168.56
+OBJECT_SHARED Models/lib/cars4.ac -56.12995 72.78659 1.00 348.56
+OBJECT_SHARED Models/lib/stack_of_cones.ac -56.13013 72.78659 1.00 286.39
+OBJECT_SHARED Models/lib/stack_of_cones.ac -56.12955 72.78701 1.00 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -56.12933 72.78695 1.00 258.23
+OBJECT_SHARED Models/lib/container6-HD.ac -56.12894 72.78695 1.00 348.56
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -56.12969 72.78681 1.00 78.56
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -56.12982 72.78679 1.00 348.56
+OBJECT_SHARED Models/lib/lamp10m.xml -56.13011 72.78660 1.00 -11.44
+OBJECT_SHARED Models/lib/lamp10m.xml -56.12953 72.78702 1.00 -11.44
+OBJECT_SHARED Models/Airport/cargobox.xml -56.12894 72.78708 1.00 24.2279
+OBJECT_SHARED Models/Airport/cargobox.xml -56.12897 72.78710 1.00 24.2279
+# END dsf2stg

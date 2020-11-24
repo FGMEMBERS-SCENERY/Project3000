@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -100.92046 29.37502 302.80 173.68
+OBJECT_SHARED Models/Transport/hatchback_red.ac -100.92057 29.37503 307.87 173.68
+OBJECT_SHARED Models/Transport/hatchback_red.ac -100.92063 29.37504 306.67 173.68
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.92066 29.37504 306.67 173.68
+OBJECT_SHARED Models/Transport/van_silver.ac -100.92089 29.37506 306.67 173.68
+OBJECT_SHARED Models/Transport/van_red.ac -100.92100 29.37507 308.78 173.68
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.92109 29.37507 308.78 173.68
+OBJECT_SHARED Models/Transport/van_red.ac -100.92115 29.37508 308.78 173.68
+OBJECT_SHARED Models/Transport/hatchback_green.ac -100.92117 29.37508 308.78 173.68
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.92123 29.37509 308.78 173.68
+# END dsf2stg

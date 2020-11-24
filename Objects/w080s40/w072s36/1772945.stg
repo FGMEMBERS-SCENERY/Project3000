@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.70099 -35.62644 115.76 180
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.70108 -35.62633 115.71 180
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.70101 -35.62592 115.83 180
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.70117 -35.62548 115.76 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml -71.69942 -35.62558 116.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.70099 -35.62644 117.27 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.70108 -35.62633 115.75 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.70101 -35.62592 115.70 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.70117 -35.62548 115.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -71.69942 -35.62558 115.77 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -71.69920 -35.62679 116.69 0
 # END dsf2stg

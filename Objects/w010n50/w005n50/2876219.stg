@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09368 50.97859 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09380 50.97862 205.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09392 50.97866 205.89 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09295 50.97814 205.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09204 50.97770 205.40 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09203 50.97778 203.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09210 50.97783 203.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09222 50.97788 203.78 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09233 50.97792 204.10 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09246 50.97795 204.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09537 50.97860 204.49 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09525 50.97864 205.57 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09404 50.97868 205.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09271 50.97803 205.78 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09288 50.97808 205.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09416 50.97869 205.31 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09433 50.97873 205.81 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09257 50.97799 205.81 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -4.09431 50.97842 204.78 69.68
+OBJECT_SHARED Models/Transport/van_red.ac -4.09434 50.97851 205.98 70.35
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -4.09433 50.97805 205.95 194.27
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -4.09442 50.97876 206.08 0
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -4.09431 50.97848 205.63 157.32
+OBJECT_SHARED Models/lib/office16x4n.ac -4.09409 50.97772 205.94 283.93
+OBJECT_SHARED Models/lib/LongRow.ac -4.09355 50.97807 205.59 157.96
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -4.09529 50.97850 205.85 50.83
+# END dsf2stg

@@ -1,14 +1,37 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed8x10.ac -121.18775 36.32956 70.71 293.79
-OBJECT_SHARED Models/lib/watertank3x1.ac -121.18774 36.32950 70.65 293.45
-OBJECT_SHARED Models/lib/watertank3x1.ac -121.18770 36.32952 70.65 293.37
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -121.18822 36.32991 70.85 270
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -121.18819 36.33031 71.14 203.96
-OBJECT_SHARED Models/lib/garden-shed.ac -121.18788 36.32977 70.81 359.98
-OBJECT_SHARED Models/lib/dGreenhse.ac -121.18788 36.32980 70.81 90.15
-OBJECT_SHARED Models/lib/garage-small-white.ac -121.18818 36.33019 71.07 0.019997
-OBJECT_SHARED Models/lib/garage-small-white.ac -121.18818 36.33008 71.00 0.019997
-OBJECT_SHARED Models/lib/SmHangar.ac -121.18823 36.33040 71.22 203.85
+OBJECT_SHARED Models/lib/propane-tank.ac -121.18803 36.32967 0.00 45.16
+OBJECT_SHARED Models/Transport/hatchback_green.ac -121.18787 36.32974 70.92 134.36
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -121.18789 36.32976 70.92 132.18
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -121.18768 36.32949 70.98 22.56
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -121.18816 36.32973 70.80 305.22
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -121.18818 36.32975 70.92 315
+OBJECT_SHARED Models/Transport/van_silver.ac -121.18786 36.32952 70.92 355.1
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -121.18782 36.32962 70.80 314.03
+OBJECT_SHARED Models/Transport/hatchback_red.ac -121.18810 36.32992 70.86 176.31
+OBJECT_SHARED Models/Transport/hatchback_black.ac -121.18806 36.32992 71.05 164.25
+OBJECT_SHARED Models/Transport/van_silver.ac -121.18865 36.33105 71.05 310.36
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -121.18880 36.33123 70.65 142.7
+OBJECT_SHARED Models/lib/office6x12.ac -121.18829 36.33036 70.81 203.98
+OBJECT_SHARED Models/lib/SmHangar.ac -121.18833 36.33056 71.41 204.02
+OBJECT_SHARED Models/lib/SmHangar.ac -121.18828 36.33046 71.56 204.02
+OBJECT_SHARED Models/lib/SmHangar.ac -121.18820 36.33032 71.48 204.02
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -121.18824 36.32988 71.33 270
+OBJECT_SHARED Models/lib/garage-small-white.ac -121.18821 36.33016 71.05 0.919998
+OBJECT_SHARED Models/lib/garage-small-white.ac -121.18819 36.33004 71.26 2.44
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -121.18797 36.32957 71.12 134.93
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -121.18801 36.32961 70.86 136.4
+OBJECT_SHARED Models/lib/watertank3x1.ac -121.18821 36.33024 70.86 295.87
+OBJECT_SHARED Models/lib/watertank3x1.ac -121.18824 36.33023 71.26 295.87
+OBJECT_SHARED Models/lib/transformer3x3.ac -121.18773 36.32947 71.26 25.42
+OBJECT_SHARED Models/lib/coal_pile.ac -121.18770 36.32937 70.80 116.56
+OBJECT_SHARED Models/lib/coal_pile.ac -121.18754 36.32940 70.75 109.03
+OBJECT_SHARED Models/lib/watertank3x1.ac -121.18824 36.33007 70.75 2.13
+OBJECT_SHARED Models/lib/stack_of_cones.ac -121.18821 36.33010 71.19 122.91
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -121.18785 36.32969 71.19 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -121.18808 36.32986 70.92 0
+OBJECT_SHARED Models/lib/cone.ac -121.18802 36.33028 71.05 0
+OBJECT_SHARED Models/lib/lamp10m.xml -121.18825 36.33038 71.33 204.87
+OBJECT_SHARED Models/lib/lamp10m.xml -121.18788 36.32960 71.41 229.1
 # END dsf2stg

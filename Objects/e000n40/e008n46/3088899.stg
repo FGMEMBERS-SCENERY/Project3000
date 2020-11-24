@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac 8.95359 46.01811 0.00 48.21
+OBJECT_SHARED Models/lib/cars4.ac 8.95367 46.01823 343.89 228.06
+OBJECT_SHARED Models/lib/cars6.ac 8.95336 46.01827 344.55 48.24
+OBJECT_SHARED Models/lib/cars4.ac 8.95458 46.01909 352.01 60.04
+OBJECT_SHARED Models/lib/cars6.ac 8.95491 46.01928 343.24 63.44
+OBJECT_SHARED Models/lib/cars10.ac 8.95473 46.01902 338.34 63.15
+OBJECT_SHARED Models/Transport/van_red.ac 8.95343 46.01800 338.19 317.89
+OBJECT_SHARED Models/Transport/van_silver.ac 8.95341 46.01801 344.63 317.89
+OBJECT_SHARED Models/lib/cars10.ac 8.95389 46.01813 344.98 228.51
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.95272 46.01747 338.66 134.95
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.95270 46.01748 348.97 134.95
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.95282 46.01755 349.31 318.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.95280 46.01756 347.27 318.09
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.95297 46.01766 348.85 46.91
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 8.95250 46.01737 347.20 317.21
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 8.95248 46.01736 351.46 317.21
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 8.95248 46.01739 351.80 317.21
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 8.95246 46.01737 351.80 317.21
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.95222 46.01766 352.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.95222 46.01775 359.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.95262 46.01754 359.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.95265 46.01742 350.67 0
+# END dsf2stg

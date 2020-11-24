@@ -2,8 +2,8 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/watertank3x1.ac -21.57608 64.05700 0.00 205.2
-OBJECT_SHARED Models/Misc/6barrels.ac -21.57615 64.05725 0.00 0
-OBJECT_SHARED Models/lib/industrial13x24.ac -21.57570 64.05701 0.00 114.374
-OBJECT_SHARED Models/lib/MedHangar.ac -21.57658 64.05695 -0.00 292.295
-OBJECT_SHARED Models/lib/SmHangar.ac -21.57600 64.05730 -0.00 293.901
+OBJECT_SHARED Models/Misc/6barrels.ac -21.57615 64.05725 180.00 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -21.57570 64.05701 180.00 114.374
+OBJECT_SHARED Models/lib/MedHangar.ac -21.57658 64.05695 180.00 292.295
+OBJECT_SHARED Models/lib/SmHangar.ac -21.57600 64.05730 180.00 293.901
 # END dsf2stg

@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 103.72179 1.18421 0.00 89.53
+OBJECT_SHARED Models/lib/lamp10m.xml 103.72204 1.18410 33.37 43.17
+OBJECT_SHARED Models/lib/farm19x12.ac 103.72158 1.18411 34.54 245.52
+OBJECT_SHARED Models/Transport/Norberttruck.xml 103.72853 1.20382 34.39 359.97
+OBJECT_SHARED Models/lib/fuel-truck.xml 103.71926 1.20371 3.83 112.61
+OBJECT_SHARED Models/Transport/hatchback_black.ac 103.71946 1.20367 5.86 92.15
+OBJECT_SHARED Models/lib/lamp10m.xml 103.71944 1.20359 5.82 -45
+OBJECT_SHARED Models/lib/lamp10m.xml 103.71946 1.20401 5.72 41.32
+OBJECT_SHARED Models/lib/lamp10m.xml 103.70987 1.20430 6.22 234.19
+OBJECT_SHARED Models/lib/lamp10m.xml 103.71047 1.20430 3.15 -53.96
+OBJECT_SHARED Models/lib/lamp10m.xml 103.72867 1.20430 3.15 -51.56
+OBJECT_SHARED Models/lib/lamp10m.xml 103.72807 1.20430 4.10 237.33
+OBJECT_SHARED Models/lib/shed8x10.ac 103.72820 1.20409 4.66 180
+OBJECT_SHARED Models/lib/shed8x10.ac 103.71929 1.20355 4.49 270.17
+OBJECT_SHARED Models/lib/SmHangar.ac 103.71941 1.20385 5.68 0
+OBJECT_SHARED Models/lib/SmHangar.ac 103.71941 1.20375 6.03 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 103.71919 1.20355 5.91 270
+# END dsf2stg

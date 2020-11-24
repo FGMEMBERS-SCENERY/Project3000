@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 124.02461 13.00719 0.00 263.99
+OBJECT_SHARED Models/Transport/van_silver.ac 124.02464 13.00722 45.34 295.02
+OBJECT_SHARED Models/lib/shed8x10.ac 124.02466 13.00731 45.34 256.65
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.02387 13.00664 45.38 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.02414 13.00686 51.28 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.02430 13.00680 51.13 102.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.02494 13.00588 50.96 201.8
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.02494 13.00602 47.48 198.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml 124.02465 13.00714 47.52 90
+# END dsf2stg

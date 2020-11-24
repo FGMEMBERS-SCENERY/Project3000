@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 119.81821 -3.04365 0.00 140.194
+OBJECT_SHARED Models/lib/shed8x10.ac 119.81878 -3.04420 -1000.00 150.642
+OBJECT_SHARED Models/lib/industrial13x24.ac 119.82591 -3.04905 -1000.00 106.26
+OBJECT_SHARED Models/lib/farm19x12.ac 119.81779 -3.04344 -1000.00 23.0852
+OBJECT_SHARED Models/lib/farm19x12.ac 119.81924 -3.04546 -1000.00 31.4296
+OBJECT_SHARED Models/lib/farm19x12.ac 119.81892 -3.04510 879.50 90
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 119.81917 -3.04392 879.60 236.42
+# END dsf2stg

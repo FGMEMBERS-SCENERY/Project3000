@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -96.93940 48.75262 0.00 39.67
+OBJECT_SHARED Models/lib/prop_a.ac -96.93976 48.75290 248.97 36.3
+OBJECT_SHARED Models/lib/HorizTanks2.ac -96.93917 48.75299 248.94 40.36
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.93917 48.75319 248.96 47.31
+OBJECT_SHARED Models/Transport/hatchback_red.ac -96.93888 48.75345 248.94 340.71
+OBJECT_SHARED Models/Transport/hatchback_red.ac -96.93884 48.75341 248.94 340.71
+OBJECT_SHARED Models/Transport/van_red.ac -96.93880 48.75339 248.95 340.71
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -96.93928 48.75306 248.95 127.79
+OBJECT_SHARED Models/lib/vending-machine.ac -96.93944 48.75315 248.95 219.95
+OBJECT_SHARED Models/lib/lamp10m.xml -96.93904 48.75243 248.94 -50.53
+OBJECT_SHARED Models/lib/lamp10m.xml -96.94020 48.75332 249.00 130.83
+# END dsf2stg

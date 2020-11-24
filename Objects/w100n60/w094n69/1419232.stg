@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.56432 69.54317 0.00 121.608
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56488 69.54332 18.65 25.0174
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56439 69.54303 18.89 32.906
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56418 69.54240 18.30 -64.7991
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56373 69.54249 17.28 -58.5708
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56379 69.54266 17.39 23.1991
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56304 69.54291 17.74 209.25
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56325 69.54294 18.07 -66.3713
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56463 69.54331 18.05 209.477
+OBJECT_SHARED Models/lib/lamp10m.xml -93.56302 69.54334 18.86 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -93.56299 69.54376 18.71 315
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -93.56293 69.54374 19.62 315
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -93.56288 69.54372 19.42 315
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -93.56295 69.54370 19.42 315
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -93.56300 69.54372 19.44 315
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -93.56306 69.54374 19.44 315
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -93.56253 69.54354 19.46 130.616
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.56248 69.54360 19.06 130.616
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.56254 69.54362 19.21 130.616
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.56259 69.54364 19.21 131.348
+OBJECT_SHARED Models/lib/shed8x10.ac -93.56204 69.54369 19.21 40.5278
+OBJECT_SHARED Models/lib/shed8x10.ac -93.56202 69.54346 18.58 134.999
+OBJECT_SHARED Models/lib/office3x10.ac -93.56305 69.54296 18.92 301.666
+OBJECT_SHARED Models/lib/office8x14.ac -93.56244 69.54308 18.21 215.111
+OBJECT_SHARED Models/lib/cars4.ac -93.56451 69.54330 18.40 31.7
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.56523 69.54387 18.86 208.49
+OBJECT_SHARED Models/lib/office4x14.ac -93.56421 69.54297 20.04 209.2
+OBJECT_SHARED Models/lib/cars6.ac -93.56358 69.54282 18.27 30.9
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -93.56406 69.54250 17.92 303.12
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -93.56401 69.54247 17.43 301.89
+OBJECT_SHARED Models/lib/belt_loader.ac -93.56434 69.54294 17.42 -61.02
+OBJECT_SHARED Models/Airport/cargobox.xml -93.56379 69.54253 18.11 28.39
+OBJECT_SHARED Models/Airport/cargobox.xml -93.56373 69.54254 17.40 23.43
+OBJECT_SHARED Models/Airport/cargobox.xml -93.56369 69.54254 17.39 22.17
+OBJECT_SHARED Models/lib/container6-HD.ac -93.56380 69.54258 17.39 28.02
+OBJECT_SHARED Models/lib/office6x12.ac -93.56222 69.54266 17.57 32.41
+OBJECT_SHARED Models/lib/cars6.ac -93.56376 69.54295 17.72 31.26
+OBJECT_SHARED Models/lib/cars6.ac -93.56331 69.54305 18.27 211.5
+# END dsf2stg

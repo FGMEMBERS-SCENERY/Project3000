@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 74.88970 12.96306 89.95 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 74.89121 12.96308 100.68 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 74.89073 12.96307 101.03 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 74.89026 12.96307 101.00 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 74.88846 12.95891 100.92 265
+OBJECT_SHARED Models/lib/fboModern1.ac 74.88836 12.95876 87.44 121
+OBJECT_SHARED Models/lib/MedHangar.ac 74.88988 12.96305 97.67 90
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 74.89047 12.96308 100.77 90
+OBJECT_SHARED Models/lib/FireStationLg.ac 74.88905 12.96315 100.96 270
+OBJECT_SHARED Models/Airport/cargobox.xml 74.89139 12.96300 100.33 0
+OBJECT_SHARED Models/Airport/cargobox.xml 74.89141 12.96301 101.05 270
+OBJECT_SHARED Models/Airport/cargobox.xml 74.89141 12.96303 101.05 0
+OBJECT_SHARED Models/Airport/cargobox.xml 74.89139 12.96302 101.05 0
+OBJECT_SHARED Models/Airport/cargoip.xml 74.89149 12.96292 101.05 0
+OBJECT_SHARED Models/Airport/cargoip.xml 74.89149 12.96294 101.08 0
+OBJECT_SHARED Models/Airport/cargoim.xml 74.89151 12.96291 101.08 0
+OBJECT_SHARED Models/Airport/cargoim.xml 74.89151 12.96293 101.08 0
+OBJECT_SHARED Models/lib/RampParking.xml 74.89019 12.96275 87.31 90
+OBJECT_SHARED Models/lib/RampParking.xml 74.89108 12.96279 90.37 270
+OBJECT_SHARED Models/lib/stack_of_cones.ac 74.89123 12.96308 89.85 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 74.89121 12.96309 101.03 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 74.89072 12.96307 101.03 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 74.89074 12.96308 101.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 74.89043 12.96306 101.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 74.89045 12.96306 100.94 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 74.88968 12.96305 100.96 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 74.88964 12.96305 100.68 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 74.88960 12.96307 62.10 270
+# END dsf2stg

@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -120.17525 45.72019 0.00 266.91
+OBJECT_SHARED Models/Transport/van_silver.ac -120.17691 45.72042 271.19 88.64
+OBJECT_SHARED Models/Transport/hatchback_black.ac -120.17688 45.72036 270.57 354.81
+OBJECT_SHARED Models/Transport/van_red.ac -120.17678 45.72032 270.57 270.58
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -120.17662 45.72105 270.46 186.07
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -120.17685 45.72058 271.23 92.03
+OBJECT_SHARED Models/lib/trailer-fedex.ac -120.17687 45.72095 270.79 182.94
+OBJECT_SHARED Models/lib/trailer-fedex.ac -120.17696 45.72091 271.12 182.25
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -120.17652 45.72031 271.12 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -120.17662 45.72018 270.46 0
+OBJECT_SHARED Models/lib/propane-tank.ac -120.17915 45.72074 270.35 92.09
+OBJECT_SHARED Models/lib/stack_of_cones.ac -120.17673 45.72070 270.26 40.6
+OBJECT_SHARED Models/lib/stack_of_cones.ac -120.17674 45.72071 270.90 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -120.17672 45.72071 270.90 296.56
+OBJECT_SHARED Models/lib/watertank3x1.ac -120.17541 45.72021 270.90 87.96
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -120.17685 45.72046 271.19 91.29
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -120.17650 45.72075 270.68 214.83
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17695 45.72043 271.42 170.54
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17698 45.72045 270.57 322.88
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17695 45.72044 270.68 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17702 45.72044 270.57 321.71
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17705 45.72044 270.57 198.92
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17707 45.72048 270.57 29.92
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17703 45.72048 270.68 89.02
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17705 45.72050 270.68 246.47
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17687 45.72065 270.68 330.02
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17687 45.72066 270.90 36.19
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17687 45.72064 270.90 40.6
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17692 45.72062 270.79 35.31
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17689 45.72066 270.79 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17671 45.72070 270.90 298.3
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17694 45.72093 270.90 309.19
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17690 45.72066 271.12 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17688 45.72063 270.90 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.17688 45.72065 270.79 279.77
+OBJECT_SHARED Models/lib/lamp10m.xml -120.17673 45.72028 270.79 261.53
+OBJECT_SHARED Models/lib/lamp10m.xml -120.17915 45.72097 270.46 32.28
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.17620 45.72054 270.65 11.28
+OBJECT_SHARED Models/lib/prop_a.ac -120.17937 45.72070 271.09 50.23
+OBJECT_SHARED Models/lib/prop_a.ac -120.17679 45.72134 270.26 181.26
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -120.17646 45.72044 271.56 264.56
+OBJECT_SHARED Models/Transport/hatchback_green.ac -120.17646 45.72037 270.98 90
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -120.17645 45.72040 270.98 270
+OBJECT_SHARED Models/Transport/van_red.ac -120.17654 45.72064 270.98 87.8
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -120.17657 45.72103 270.79 186.21
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -120.17731 45.72033 271.23 266.14
+OBJECT_SHARED Models/lib/lamp10m.xml -120.17650 45.72062 270.46 216.81
+OBJECT_SHARED Models/lib/lamp10m.xml -120.17737 45.72072 270.79 167.21
+OBJECT_SHARED Models/lib/lamp10m.xml -120.17976 45.72061 270.90 202.25
+OBJECT_SHARED Models/lib/lamp10m.xml -120.17628 45.72002 269.98 135
+OBJECT_SHARED Models/lib/lamp10m.xml -120.17595 45.72042 270.53 342.44
+OBJECT_SHARED Models/lib/lamp10m.xml -120.17570 45.72046 270.98 147.88
+OBJECT_SHARED Models/lib/lamp10m.xml -120.17560 45.72024 271.09 275.19
+# END dsf2stg

@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.34237 32.29619 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.34137 32.29645 646.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.34161 32.29627 646.36 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.34151 32.29624 646.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.34175 32.29629 646.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.34176 32.29620 646.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.34205 32.29618 646.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.34237 32.29629 646.16 0
+OBJECT_SHARED Models/Airport/cargoip.xml -111.34203 32.29625 646.14 0
+OBJECT_SHARED Models/Airport/cargoim.xml -111.34206 32.29626 646.14 0
+OBJECT_SHARED Models/Airport/cargoip.xml -111.34204 32.29628 646.14 0
+OBJECT_SHARED Models/Airport/cargoim.xml -111.34207 32.29628 646.14 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.34166 32.29638 646.14 267.074
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.34205 32.29632 646.12 88.2415
+OBJECT_SHARED Models/lib/garden-shed.ac -111.34174 32.29638 646.14 85.4737
+OBJECT_SHARED Models/lib/shed8x10.ac -111.34192 32.29624 646.12 358.753
+OBJECT_SHARED Models/lib/shed10x50.ac -111.34371 32.29470 646.16 0.5718
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -111.34365 32.29491 645.98 180.466
+OBJECT_SHARED Models/lib/farm19x12.ac -111.34160 32.29636 645.99 175.734
+OBJECT_SHARED Models/lib/hangar81x16.ac -111.34442 32.29446 646.12 0.74086
+OBJECT_SHARED Models/lib/prop_a.ac -111.34383 32.29504 645.97 40.4402
+# END dsf2stg

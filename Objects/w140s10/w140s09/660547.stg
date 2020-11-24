@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac -139.55542 -8.93530 0.00 74.69
+OBJECT_SHARED Models/lib/cars4.ac -139.55548 -8.93539 45.36 255.8
+OBJECT_SHARED Models/lib/lamp10m.xml -139.55501 -8.93534 45.42 80.71
+OBJECT_SHARED Models/Transport/hatchback_red.ac -139.55454 -8.93552 45.38 78.44
+OBJECT_SHARED Models/lib/SmHangar.ac -139.55512 -8.93532 45.51 79.78
+OBJECT_SHARED Models/Airport/cargoip.xml -139.55526 -8.93529 45.37 306
+OBJECT_SHARED Models/Airport/cargoip.xml -139.55528 -8.93529 45.35 306
+OBJECT_SHARED Models/lib/propane-tank.ac -139.55489 -8.93518 45.35 350.65
+# END dsf2stg

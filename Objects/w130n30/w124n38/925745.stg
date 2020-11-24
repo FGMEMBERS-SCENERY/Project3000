@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -123.53154 38.80218 0.00 305.56
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -123.53205 38.80267 282.76 209.25
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -123.53023 38.80267 281.91 18.75
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -123.53186 38.80239 280.49 211.37
+OBJECT_SHARED Models/lib/SmHangar.ac -123.53175 38.80206 282.42 305.49
+OBJECT_SHARED Models/lib/stack_of_cones.ac -123.53207 38.80275 282.93 296.57
+OBJECT_SHARED Models/lib/stack_of_cones.ac -123.53028 38.80259 281.91 140.71
+OBJECT_SHARED Models/lib/office16x4n.ac -123.53089 38.80300 280.63 206.48
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -123.53064 38.80271 280.69 21.42
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -123.53116 38.80150 281.22 30.38
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -123.53137 38.80195 282.92 33.69
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -123.53038 38.80258 282.32 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -123.53023 38.80210 280.63 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -123.53019 38.80227 281.28 0
+OBJECT_SHARED Models/lib/cone.ac -123.53135 38.80217 281.03 0
+OBJECT_SHARED Models/lib/cone.ac -123.53142 38.80224 282.02 0
+OBJECT_SHARED Models/lib/cone.ac -123.53185 38.80247 282.02 0
+OBJECT_SHARED Models/lib/cone.ac -123.53192 38.80258 282.25 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -123.53215 38.80316 282.08 187.31
+OBJECT_SHARED Models/lib/vending-machine.ac -123.53222 38.80309 281.10 329.62
+OBJECT_SHARED Models/lib/trailer-fedex.ac -123.53107 38.80166 281.25 121.72
+OBJECT_SHARED Models/lib/farm19x12.ac -123.53237 38.80323 282.70 152.06
+OBJECT_SHARED Models/lib/cars10.ac -123.53127 38.80113 281.10 31.79
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -123.53165 38.80212 283.11 305.29
+OBJECT_SHARED Models/lib/lamp10m.xml -123.53020 38.80227 282.93 101.89
+OBJECT_SHARED Models/lib/lamp10m.xml -123.53028 38.80245 281.03 108.44
+OBJECT_SHARED Models/lib/lamp10m.xml -123.53148 38.80221 280.90 37.41
+OBJECT_SHARED Models/lib/lamp10m.xml -123.53193 38.80279 282.02 32.73
+OBJECT_SHARED Models/lib/lamp10m.xml -123.53214 38.80321 281.74 180
+OBJECT_SHARED Models/lib/lamp10m.xml -123.53021 38.80210 281.10 31.76
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53039 38.80103 281.28 191.31
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53041 38.80106 281.89 118.3
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53043 38.80111 281.87 191.89
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53046 38.80113 281.87 101.89
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53057 38.80124 281.87 173.66
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53064 38.80132 283.07 28.69
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53063 38.80129 283.03 203.2
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53064 38.80127 283.03 68.63
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53069 38.80139 283.03 193.13
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53074 38.80140 282.99 105.95
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53077 38.80147 282.99 192.53
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53080 38.80149 282.92 128.66
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53106 38.80177 282.92 319.09
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53092 38.80161 282.58 100.62
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53094 38.80165 282.81 340.02
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53098 38.80169 282.81 135
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53101 38.80171 282.70 283.5
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53102 38.80174 282.70 149.74
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53111 38.80181 282.70 223.02
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53115 38.80178 282.58 323.13
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53119 38.80177 282.58 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.53123 38.80174 282.58 0
+OBJECT_SHARED Models/lib/prop_a.ac -123.53021 38.80254 282.70 250.85
+# END dsf2stg

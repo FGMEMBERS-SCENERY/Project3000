@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -90.32073 36.76594 0.00 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -90.32209 36.76646 97.81 270
+OBJECT_SHARED Models/lib/LongRow.ac -90.32131 36.76669 98.18 357.93
+OBJECT_SHARED Models/lib/fboModern1.ac -90.32263 36.76593 98.23 270
+# END dsf2stg

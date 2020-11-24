@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -0.84802 41.78630 0.00 42.75
+OBJECT_SHARED Models/lib/hangar81x16.ac -0.84522 41.78423 280.21 133.15
+OBJECT_SHARED Models/lib/hangar81x16.ac -0.84685 41.78550 276.53 133.15
+OBJECT_SHARED Models/lib/hangar81x16.ac -0.84598 41.78482 278.84 133.15
+OBJECT_SHARED Models/lib/FireStationLg.ac -0.84716 41.78733 277.62 136
+OBJECT_SHARED Models/lib/LgMaint.ac -0.84762 41.78822 281.72 46.72
+# END dsf2stg

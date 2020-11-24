@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -75.87126 40.15693 0.00 4.01779
+OBJECT_SHARED Models/lib/cars4.ac -75.87347 40.15685 182.09 55.345
+OBJECT_SHARED Models/lib/cars6.ac -75.87308 40.15690 180.30 236.344
+OBJECT_SHARED Models/lib/cars6.ac -75.87322 40.15674 180.74 55.9757
+OBJECT_SHARED Models/lib/cars4.ac -75.87288 40.15678 180.30 235.208
+OBJECT_SHARED Models/lib/LongRow.ac -75.87106 40.15668 180.79 3.88392
+OBJECT_SHARED Models/lib/LongRow.ac -75.87239 40.15661 181.95 3.88392
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -75.87287 40.15685 180.94 233.858
+# END dsf2stg

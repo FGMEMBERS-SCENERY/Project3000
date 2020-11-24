@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -90.51309 33.14488 0.00 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -90.51312 33.14485 32.54 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -90.51316 33.14483 32.54 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.51315 33.14501 32.52 228.876
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.51329 33.14505 32.51 333.306
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.51320 33.14496 32.42 29.6992
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.51328 33.14499 32.46 66.7928
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.51321 33.14502 32.42 33.3106
+OBJECT_SHARED Models/Transport/van_red.ac -90.51383 33.14408 32.46 33.3106
+OBJECT_SHARED Models/lib/2container-office.ac -90.51393 33.14401 32.49 123.486
+OBJECT_SHARED Models/lib/2container-office.ac -90.51407 33.14413 32.48 97.7306
+OBJECT_SHARED Models/lib/office16x4n.ac -90.51326 33.14494 32.36 58.5388
+OBJECT_SHARED Models/lib/SmHangar.ac -90.51394 33.14428 32.45 278.111
+# END dsf2stg

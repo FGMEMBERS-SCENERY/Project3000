@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.06626 31.87728 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.06659 31.87641 207.47 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.06658 31.87609 209.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.06687 31.87624 209.49 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.06650 31.87641 209.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.06655 31.87647 208.96 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.06658 31.87654 208.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.06690 31.87658 208.90 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.06686 31.87653 209.07 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.06682 31.87647 209.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.06678 31.87642 209.10 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.06697 31.87664 209.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.06645 31.87604 209.18 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.06667 31.87619 209.54 0
+OBJECT_SHARED Models/lib/2container-office.ac -97.06666 31.87609 209.43 117.597
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.06627 31.87656 209.57 289.983
+OBJECT_SHARED Models/Transport/van_silver.ac -97.06691 31.87602 208.47 312.411
+OBJECT_SHARED Models/Transport/hatchback_green.ac -97.06683 31.87611 209.96 46.2933
+OBJECT_SHARED Models/Transport/van_red.ac -97.06625 31.87654 209.69 295.017
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -97.06703 31.87617 208.62 294.459
+# END dsf2stg

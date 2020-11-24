@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.87964 61.65127 0.00 102.17
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.87919 61.65145 112.26 45
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.88006 61.65186 112.66 340.71
+OBJECT_SHARED Models/lib/farm19x12.ac -149.88012 61.65178 110.94 345.96
+OBJECT_SHARED Models/lib/SmHangar.ac -149.87906 61.65093 111.16 193.69
+OBJECT_SHARED Models/lib/farm19x12.ac -149.87703 61.65146 113.79 98.04
+OBJECT_SHARED Models/Transport/hatchback_black.ac -149.87706 61.65150 113.37 187.12
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -149.87710 61.65150 113.37 184.4
+OBJECT_SHARED Models/Transport/van_silver.ac -149.87924 61.65104 113.37 188.13
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -149.87917 61.65103 113.57 189.46
+OBJECT_SHARED Models/Transport/van_red.ac -149.87918 61.65168 113.57 355.6
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -149.87999 61.65174 111.99 75.96
+OBJECT_SHARED Models/Transport/hatchback_red.ac -149.87997 61.65177 111.38 71.56
+# END dsf2stg

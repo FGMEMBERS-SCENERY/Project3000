@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -74.76989 -0.18442 0.00 270
+OBJECT_SHARED Models/lib/lamp10m.xml -74.76892 -0.18436 187.31 270
+OBJECT_SHARED Models/lib/lamp10m.xml -74.76927 -0.18476 190.57 270
+OBJECT_SHARED Models/lib/lamp10m.xml -74.76883 -0.18420 190.37 270
+OBJECT_SHARED Models/lib/lamp10m.xml -74.76973 -0.18398 189.36 270
+OBJECT_SHARED Models/lib/lamp10m.xml -74.76793 -0.18466 189.17 270
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -74.76958 -0.18459 189.25 332
+OBJECT_SHARED Models/lib/LongRow.ac -74.76813 -0.18465 189.07 152.35
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -74.76960 -0.18386 189.42 63.06
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -74.77019 -0.18369 189.42 0
+# END dsf2stg

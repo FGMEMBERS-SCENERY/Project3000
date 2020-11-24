@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac -99.51844 36.43337 0.00 0.690002
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -99.51873 36.43403 662.28 179.41
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -99.51873 36.43376 662.26 179.51
+OBJECT_SHARED Models/lib/SmHangar.ac -99.51803 36.43597 662.31 0
+OBJECT_SHARED Models/lib/SmHangar.ac -99.51802 36.43618 661.08 359.86
+OBJECT_SHARED Models/lib/SmHangar.ac -99.51802 36.43638 660.98 0.300003
+OBJECT_SHARED Models/lib/SmHangar.ac -99.51793 36.43774 660.90 0.379997
+OBJECT_SHARED Models/lib/SmHangar.ac -99.51793 36.43791 660.23 0
+OBJECT_SHARED Models/lib/LongRow.ac -99.51811 36.44017 660.14 269.93
+OBJECT_SHARED Models/lib/LongRow.ac -99.51812 36.43892 658.98 90.13
+OBJECT_SHARED Models/lib/MedHangar.ac -99.51815 36.43819 659.68 89.82
+OBJECT_SHARED Models/lib/LongRow.ac -99.51818 36.43735 660.07 269.71
+OBJECT_SHARED Models/lib/hangar81x16.ac -99.51832 36.43493 660.54 89.83
+OBJECT_SHARED Models/lib/LongRow.ac -99.51860 36.43735 661.70 270.05
+OBJECT_SHARED Models/lib/4space_wStop.ac -99.51842 36.43408 660.68 180.68
+OBJECT_SHARED Models/lib/4space_wStop.ac -99.51842 36.43416 662.06 179.06
+OBJECT_SHARED Models/lib/4space_wStop.ac -99.51842 36.43424 662.01 180
+OBJECT_SHARED Models/lib/4space_wStop.ac -99.51842 36.43432 662.01 179.22
+OBJECT_SHARED Models/lib/4space_wStop.ac -99.51793 36.43412 661.97 0
+OBJECT_SHARED Models/lib/1space_dual.ac -99.51819 36.43405 661.79 90
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -99.51819 36.43408 661.95 90
+OBJECT_SHARED Models/lib/4space_wStop.ac -99.51793 36.43419 661.95 0.809998
+OBJECT_SHARED Models/lib/4space_wStop.ac -99.51793 36.43427 661.74 0
+OBJECT_SHARED Models/lib/4space_wStop.ac -99.51793 36.43435 661.70 0
+OBJECT_SHARED Models/lib/1space_dual.ac -99.51819 36.43403 661.66 90
+OBJECT_SHARED Models/lib/1space_dual.ac -99.51819 36.43435 661.99 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -99.51838 36.43404 661.82 90.59
+OBJECT_SHARED Models/Transport/hatchback_green.ac -99.51838 36.43407 662.10 268.47
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -99.51822 36.43414 662.06 268.85
+OBJECT_SHARED Models/Transport/hatchback_black.ac -99.51822 36.43406 661.95 267.95
+OBJECT_SHARED Models/Transport/hatchback_black.ac -99.51822 36.43416 661.95 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -99.51822 36.43411 661.91 270
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -99.51796 36.43423 661.95 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -99.51796 36.43439 661.80 271.94
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -99.51816 36.43434 661.71 268.72
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -99.51838 36.43415 661.86 269
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -99.51838 36.43409 662.06 90
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -99.51819 36.43425 662.06 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.51840 36.43394 661.86 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.51839 36.43400 662.13 0
+# END dsf2stg

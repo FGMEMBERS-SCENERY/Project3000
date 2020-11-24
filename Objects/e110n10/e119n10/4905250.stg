@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 119.27429 10.52328 0.00 49.316
+OBJECT_SHARED Models/lib/lamp10m.xml 119.27461 10.52367 6.99 48.3665
+OBJECT_SHARED Models/lib/lamp10m.xml 119.27496 10.52411 5.89 51.1701
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 119.27482 10.52400 5.40 318.808
+OBJECT_SHARED Models/lib/stack_of_cones.ac 119.27458 10.52367 5.52 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 119.27477 10.52322 5.89 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 119.27518 10.52410 6.52 327.995
+OBJECT_SHARED Models/Transport/hatchback_black.ac 119.27463 10.52306 5.40 107.879
+OBJECT_SHARED Models/Transport/van_silver.ac 119.27465 10.52310 6.65 118.073
+OBJECT_SHARED Models/Transport/hatchback_black.ac 119.27486 10.52337 6.65 315
+# END dsf2stg

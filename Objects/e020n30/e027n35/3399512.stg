@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.15019 35.42506 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.15012 35.42512 4.91 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.15003 35.42518 4.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.14995 35.42525 4.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.14987 35.42532 5.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.14979 35.42538 5.03 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.14972 35.42543 5.07 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.14959 35.42554 5.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.14952 35.42560 5.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.14945 35.42565 5.19 0
+OBJECT_SHARED Models/lib/cars10.ac 27.14959 35.42678 5.19 136.29
+OBJECT_SHARED Models/lib/cars14.ac 27.14941 35.42704 5.56 226.57
+OBJECT_SHARED Models/lib/cars14.ac 27.14892 35.42744 5.96 226.57
+OBJECT_SHARED Models/lib/cars10.ac 27.14871 35.42747 6.75 135.11
+OBJECT_SHARED Models/lib/cars10.ac 27.14877 35.42757 7.13 135.11
+OBJECT_SHARED Models/lib/cars10.ac 27.14886 35.42767 7.14 135.11
+OBJECT_SHARED Models/lib/cars10.ac 27.14895 35.42776 7.15 135.11
+OBJECT_SHARED Models/lib/cars14.ac 27.14902 35.42753 7.15 226.57
+OBJECT_SHARED Models/lib/cars14.ac 27.14912 35.42761 6.76 226.57
+OBJECT_SHARED Models/lib/cars14.ac 27.14964 35.42726 6.76 226.57
+OBJECT_SHARED Models/lib/cars14.ac 27.14953 35.42713 6.03 226.57
+OBJECT_SHARED Models/Transport/Norberttruck.xml 27.15009 35.42604 5.94 48.08
+OBJECT_SHARED Models/lib/caisses_group.ac 27.14752 35.42682 4.86 131.1
+OBJECT_SHARED Models/lib/belt_loader.ac 27.14736 35.42674 7.26 138.24
+OBJECT_SHARED Models/lib/belt_loader.ac 27.14738 35.42675 7.23 139.4
+OBJECT_SHARED Models/lib/lamp10m.xml 27.14825 35.42676 7.36 0
+OBJECT_SHARED Models/lib/SmHangar.ac 27.15002 35.42554 6.72 137.37
+OBJECT_SHARED Models/lib/SmHangar.ac 27.14996 35.42583 4.96 318.49
+OBJECT_SHARED Models/lib/prop_a.ac 27.15645 35.41695 4.90 185.49
+# END dsf2stg

@@ -1,9 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/hangar81x16.ac -117.30334 49.49196 532.81 29.6142
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -117.30357 49.49198 532.45 300.208
-OBJECT_SHARED Models/lib/MedHangar.ac -117.30485 49.49172 532.27 252.446
-OBJECT_SHARED Models/lib/SmHangar.ac -117.30419 49.49165 532.57 297.597
-OBJECT_SHARED Models/lib/SmHangar.ac -117.30396 49.49174 532.57 298.072
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30595 49.49119 0.00 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30617 49.49116 530.81 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30582 49.49121 530.81 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30561 49.49124 530.81 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30553 49.49132 530.81 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30548 49.49127 530.89 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30540 49.49134 532.44 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30515 49.49136 532.44 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30523 49.49131 532.35 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30505 49.49134 532.44 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30496 49.49130 532.44 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30476 49.49127 532.44 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30436 49.49123 532.44 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30444 49.49125 532.70 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30453 49.49126 532.78 253.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -117.30461 49.49128 532.44 253.61
+OBJECT_SHARED Models/lib/shed8x10.ac -117.30397 49.49145 532.44 215.67
+OBJECT_SHARED Models/lib/LongRow.ac -117.30319 49.49177 532.66 34.22
+OBJECT_SHARED Models/lib/4container-office.ac -117.30204 49.49231 532.97 302.235
+OBJECT_SHARED Models/lib/office3x10.ac -117.30404 49.49198 533.06 36.1031
+OBJECT_SHARED Models/lib/HorizTanks2.ac -117.30337 49.49230 532.45 214.02
+OBJECT_SHARED Models/lib/cars6.ac -117.30348 49.49160 532.62 33.1315
+OBJECT_SHARED Models/Misc/picnic_table.ac -117.30330 49.49174 533.10 303.985
+OBJECT_SHARED Models/lib/coal_pile.ac -117.30560 49.49133 533.05 147.921
 # END dsf2stg

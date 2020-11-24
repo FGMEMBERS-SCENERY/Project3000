@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac -5.64883 42.58955 0.00 315.01
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -5.65086 42.58788 910.38 46.54
+OBJECT_SHARED Models/lib/SmHangar.ac -5.65181 42.58731 911.27 316.48
+OBJECT_SHARED Models/lib/SmHangar.ac -5.65264 42.58670 911.57 316.48
+OBJECT_SHARED Models/lib/MedHangar.ac -5.65299 42.58650 911.72 315.28
+OBJECT_SHARED Models/lib/MedHangar.ac -5.65051 42.58831 911.78 315.28
+OBJECT_SHARED Models/lib/MedHangar.ac -5.65134 42.58769 911.18 315.28
+OBJECT_SHARED Models/lib/MedHangar.ac -5.65217 42.58708 911.47 315.28
+OBJECT_SHARED Models/lib/SmHangar.ac -5.64517 42.59031 911.67 225.15
+OBJECT_SHARED Models/lib/SmHangar.ac -5.64478 42.59003 907.85 225.23
+OBJECT_SHARED Models/lib/MedHangar.ac -5.64644 42.59124 907.58 225.07
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -5.64432 42.59231 908.78 178.97
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -5.64333 42.59075 907.07 90.27
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -5.64388 42.59034 906.38 91.03
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -5.64325 42.59151 906.86 180.35
+OBJECT_SHARED Models/lib/lamp10m.xml -5.64623 42.59105 906.21 314.86
+OBJECT_SHARED Models/lib/lamp10m.xml -5.64547 42.59050 908.62 313.82
+# END dsf2stg

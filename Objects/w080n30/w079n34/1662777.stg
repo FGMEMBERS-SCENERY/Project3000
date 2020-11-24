@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50896 34.95029 0.00 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50903 34.95024 37.88 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50911 34.95033 37.91 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50914 34.95024 37.98 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50901 34.95048 38.02 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50905 34.95039 37.80 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50866 34.95057 37.95 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50846 34.95065 37.47 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50849 34.95075 37.37 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50863 34.95070 37.32 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50873 34.95065 37.40 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50884 34.95062 37.47 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50877 34.95072 37.56 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50866 34.95077 37.56 13.83
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50854 34.95080 37.44 20.41
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.50841 34.95084 37.32 20.41
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.50882 34.94941 37.29 107.77
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.50859 34.94980 37.96 16.74
+OBJECT_SHARED Models/lib/shed8x10.ac -78.50893 34.95141 37.63 108.21
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -78.50984 34.95156 37.68 286.91
+OBJECT_SHARED Models/lib/4space_wStop.ac -78.50923 34.95123 38.91 105.98
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.50800 34.94941 38.04 17.28
+# END dsf2stg

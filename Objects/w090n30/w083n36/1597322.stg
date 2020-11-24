@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -82.48703 36.19544 0.00 105.946
+OBJECT_SHARED Models/lib/shed8x10.ac -82.48468 36.19591 458.59 17.65
+OBJECT_SHARED Models/lib/shed8x10.ac -82.48512 36.19574 459.06 113.552
+OBJECT_SHARED Models/lib/shed8x10.ac -82.48621 36.19547 459.54 17.1026
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -82.48512 36.19727 459.12 90.2885
+OBJECT_SHARED Models/lib/farm19x12.ac -82.48752 36.19600 452.81 196.887
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.48491 36.19693 455.74 84.0532
+OBJECT_SHARED Models/Transport/van_silver.ac -82.48465 36.19649 455.46 81.0274
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.48506 36.19671 456.92 138.252
+OBJECT_SHARED Models/Transport/van_silver.ac -82.48559 36.19708 455.87 294.874
+OBJECT_SHARED Models/Transport/hatchback_green.ac -82.48482 36.19676 453.79 88.8065
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.48517 36.19686 455.88 138.743
+OBJECT_SHARED Models/Transport/van_red.ac -82.48502 36.19662 455.18 133.973
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.48511 36.19679 456.25 136.675
+OBJECT_SHARED Models/lib/shed8x10.ac -82.48489 36.19633 455.63 25.1146
+OBJECT_SHARED Models/lib/shed8x10.ac -82.48558 36.19745 456.94 24.8633
+OBJECT_SHARED Models/Transport/hatchback_green.ac -82.48460 36.19640 449.62 81.8699
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -82.48471 36.19666 457.14 81.9728
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.48499 36.19709 456.25 87.7652
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.48556 36.19698 454.52 311.729
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.48541 36.19674 454.34 322.224
+# END dsf2stg

@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -81.70279 43.15669 0.00 165.11
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.70239 43.15655 202.90 280.54
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.70325 43.15657 202.95 255.74
+OBJECT_SHARED Models/Airport/cargobox.xml -81.70267 43.15703 202.83 0
+OBJECT_SHARED Models/Airport/cargobox.xml -81.70271 43.15703 202.86 0
+OBJECT_SHARED Models/Airport/cargobox.xml -81.70248 43.15702 202.86 0
+OBJECT_SHARED Models/lib/container6-HD.ac -81.70346 43.15723 202.88 79.62
+OBJECT_SHARED Models/lib/watertank3x1.ac -81.70238 43.15671 202.70 342.72
+OBJECT_SHARED Models/lib/watertank3x1.ac -81.70237 43.15675 202.93 342.57
+OBJECT_SHARED Models/lib/watertank3x1.ac -81.70235 43.15678 202.93 343.57
+OBJECT_SHARED Models/lib/propane-tank.ac -81.70239 43.15667 202.92 72.8
+OBJECT_SHARED Models/Misc/picnic_table.ac -81.70345 43.15648 202.93 344.93
+OBJECT_SHARED Models/lib/shed8x10.ac -81.70260 43.15675 202.81 255.7
+OBJECT_SHARED Models/lib/shed8x10.ac -81.70340 43.15683 202.90 346.61
+OBJECT_SHARED Models/lib/garage-small-white.ac -81.70332 43.15659 202.78 346.94
+OBJECT_SHARED Models/lib/prop_a.ac -81.70385 43.15713 202.83 257.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70446 43.16333 202.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70648 43.15669 200.36 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.69936 43.16193 200.97 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70087 43.15698 201.06 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70308 43.15733 202.69 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70318 43.15734 202.75 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70327 43.15735 202.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70337 43.15736 202.72 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70345 43.15738 202.67 225
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70353 43.15739 202.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70362 43.15739 202.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70315 43.15624 202.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70292 43.15634 202.88 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70361 43.15644 202.91 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70363 43.15637 202.76 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70364 43.15631 202.76 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70366 43.15625 202.76 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70421 43.15622 202.74 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70412 43.15621 202.57 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70404 43.15619 202.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70396 43.15618 202.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70386 43.15616 202.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70375 43.15614 202.68 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70366 43.15613 202.69 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70350 43.15610 202.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70341 43.15608 202.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70330 43.15616 202.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70307 43.15602 202.84 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70315 43.15603 202.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70311 43.15615 202.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70358 43.15676 202.88 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70356 43.15685 202.74 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.70354 43.15689 202.74 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -81.70226 43.15666 202.75 77.42
+OBJECT_SHARED Models/lib/industrial13x24.ac -81.70224 43.15688 202.93 77.42
+OBJECT_SHARED Models/lib/industrial13x24.ac -81.70226 43.15666 202.75 77.42
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -81.70288 43.15723 202.90 348.83
+# END dsf2stg

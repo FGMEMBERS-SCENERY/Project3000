@@ -1,42 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_black.ac 8.77206 47.51751 455.94 288.83
-OBJECT_SHARED Models/lib/shed8x10.ac 8.77221 47.51779 456.01 124.57
-OBJECT_SHARED Models/lib/prop_a.ac 8.77187 47.51673 455.66 302.05
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.77183 47.51703 455.82 180
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.77182 47.51713 455.87 104.38
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.77174 47.51721 455.95 94.25
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.77189 47.51736 455.97 186.65
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.77195 47.51739 455.95 98.44
-OBJECT_SHARED Models/lib/deciduous-tree.xml 8.77193 47.51728 455.91 1.75
-OBJECT_SHARED Models/lib/deciduous-tree.xml 8.77190 47.51709 455.83 90
-OBJECT_SHARED Models/lib/deciduous-tree.xml 8.77183 47.51708 455.86 192.59
-OBJECT_SHARED Models/lib/deciduous-tree.xml 8.77177 47.51717 455.94 91.64
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.77161 47.51714 455.96 123.56
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.77164 47.51719 455.99 101.69
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.77183 47.51724 455.91 202.69
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.77190 47.51727 455.92 98.13
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.77175 47.51707 455.90 204.56
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.77169 47.51713 455.93 92.01
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.77170 47.51727 456.01 213.78
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.77182 47.51730 455.96 93.81
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.76955 47.51348 455.34 88.21
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.76942 47.51338 455.36 308.35
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.76880 47.51364 455.50 155.61
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.76890 47.51365 455.46 54.62
-OBJECT_SHARED Models/Trees/billboard-tree.xml 8.76926 47.51339 455.40 130.53
-OBJECT_SHARED Models/lib/SmHangar.ac 8.77200 47.51716 455.83 149.7
-OBJECT_SHARED Models/lib/garage-small-white.ac 8.77200 47.51736 455.92 147.7
-OBJECT_SHARED Models/lib/farm19x12.ac 8.77222 47.51769 455.96 33.64
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 8.76909 47.51354 455.43 151.71
-OBJECT_SHARED Models/lib/lamp10m.xml 8.76917 47.51426 455.36 150.62
-OBJECT_SHARED Models/lib/lamp10m.xml 8.76952 47.51467 455.39 100.35
-OBJECT_SHARED Models/lib/lamp10m.xml 8.76971 47.51640 456.17 189
-OBJECT_SHARED Models/lib/lamp10m.xml 8.76935 47.51654 456.52 -71.38
-OBJECT_SHARED Models/lib/lamp10m.xml 8.76863 47.51569 457.33 -29.92
-OBJECT_SHARED Models/lib/lamp10m.xml 8.76898 47.51555 456.57 150.99
-OBJECT_SHARED Models/lib/lamp10m.xml 8.76825 47.51470 456.77 94.22
-OBJECT_SHARED Models/lib/lamp10m.xml 8.76790 47.51484 456.72 8.44
-OBJECT_SHARED Models/lib/lamp10m.xml 8.76884 47.51385 455.64 200.66
+OBJECT_SHARED Models/lib/cone.ac 8.99906 47.52344 464.13 220.123
+OBJECT_SHARED Models/lib/cone.ac 8.99928 47.52290 463.39 58.3487
+OBJECT_SHARED Models/lib/cone.ac 8.99962 47.52316 463.33 186.254
+OBJECT_SHARED Models/lib/cone.ac 8.99945 47.52339 463.76 88.4725
+OBJECT_SHARED Models/lib/shed8x10.ac 8.99533 47.52204 463.71 175.406
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 8.99522 47.52287 465.30 20.9741
+OBJECT_SHARED Models/lib/industrial13x24.ac 8.99950 47.52384 467.20 25.3467
+OBJECT_SHARED Models/lib/office32x25.ac 8.99983 47.52419 463.89 296.759
 # END dsf2stg

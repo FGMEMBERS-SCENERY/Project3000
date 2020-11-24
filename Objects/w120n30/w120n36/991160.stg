@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree.xml -119.79044 36.91369 0.00 326.25
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.79052 36.91350 116.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.79077 36.91370 116.87 159.44
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.79064 36.91369 116.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.79036 36.91359 116.02 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -119.79049 36.91359 116.99 157.22
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -119.79068 36.91348 116.99 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -119.79090 36.91326 116.87 226.59
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -119.79088 36.91379 116.93 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.77812 36.91314 115.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.77920 36.91308 106.40 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -119.77970 36.91307 115.38 0
+OBJECT_SHARED Models/Transport/van_silver.ac -119.79047 36.91345 116.30 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -119.79056 36.91351 116.94 337.167
+OBJECT_SHARED Models/Transport/van_silver.ac -119.79060 36.91349 116.87 15.751
+OBJECT_SHARED Models/lib/coal_pile.ac -119.79134 36.91324 116.87 123.37
+OBJECT_SHARED Models/lib/coal_pile.ac -119.79156 36.91323 116.92 120.702
+OBJECT_SHARED Models/lib/coal_pile.ac -119.79176 36.91323 116.80 10.8231
+OBJECT_SHARED Models/lib/coal_pile.ac -119.79194 36.91321 116.80 321.999
+OBJECT_SHARED Models/lib/garden-shed.ac -119.79038 36.91350 116.80 359.5
+OBJECT_SHARED Models/lib/shed8x10.ac -119.79038 36.91345 116.94 179.77
+OBJECT_SHARED Models/lib/farm19x12.ac -119.79070 36.91360 116.94 0.43
+OBJECT_SHARED Models/lib/SmHangar.ac -119.78005 36.91406 116.44 182.84
+# END dsf2stg

@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac 120.35109 22.57409 7.77 87.3345
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 120.34414 22.56745 -86.27 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 120.34416 22.56762 -84.47 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 120.34394 22.56745 -84.20 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 120.34395 22.56763 -84.47 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 120.34373 22.56747 -84.20 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 120.34373 22.56764 -84.31 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml 120.34238 22.56781 10.80 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml 120.34236 22.56741 5.81 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml 120.34198 22.56744 8.02 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 120.34640 22.57044 8.02 357.196
+# END dsf2stg

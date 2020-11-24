@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -116.00611 39.60056 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -116.00614 39.60056 1812.04 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -116.00631 39.60021 1812.04 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -116.00577 39.59992 1812.17 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -116.00575 39.59998 1812.27 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -116.00590 39.59999 1812.23 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -116.00590 39.60002 1812.23 0
+OBJECT_SHARED Models/lib/office4x14.ac -116.00621 39.60097 1812.23 336.45
+OBJECT_SHARED Models/lib/office6x12.ac -116.00633 39.59911 1811.93 77.91
+OBJECT_SHARED Models/lib/HorizTanks2.ac -116.00580 39.60006 1812.53 259.13
+OBJECT_SHARED Models/lib/HorizTanks2.ac -116.00609 39.59911 1812.20 258.41
+OBJECT_SHARED Models/lib/lamp10m.xml -116.00568 39.60086 1812.53 176.82
+OBJECT_SHARED Models/lib/lamp10m.xml -116.00558 39.60067 1811.96 18.43
+OBJECT_SHARED Models/lib/lamp10m.xml -116.00606 39.60056 1812.02 196.7
+OBJECT_SHARED Models/lib/lamp10m.xml -116.00623 39.60007 1812.04 18.43
+OBJECT_SHARED Models/lib/lamp10m.xml -116.00596 39.60004 1812.20 16.62
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.00634 39.60011 1812.23 260.96
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -116.00677 39.59973 1812.20 350.31
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.00672 39.59995 1812.16 347.13
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.00664 39.60044 1812.08 342.98
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -116.00643 39.60015 1811.97 265.03
+OBJECT_SHARED Models/Transport/hatchback_green.ac -116.00643 39.60017 1812.20 253.86
+OBJECT_SHARED Models/Transport/hatchback_red.ac -116.00667 39.60029 1812.17 161.57
+OBJECT_SHARED Models/Transport/van_red.ac -116.00620 39.60060 1811.99 0
+OBJECT_SHARED Models/lib/cars4.ac -116.00627 39.60056 1812.04 167.63
+OBJECT_SHARED Models/lib/office3x10.ac -116.00566 39.60077 1812.04 346.76
+OBJECT_SHARED Models/lib/prop_a.ac -116.00580 39.59957 1811.99 349.16
+OBJECT_SHARED Models/lib/prop_a.ac -116.00583 39.59944 1812.36 350.91
+OBJECT_SHARED Models/lib/prop_a.ac -116.00559 39.60057 1812.43 257.2
+OBJECT_SHARED Models/lib/transformer3x3.ac -116.00539 39.60165 1812.04 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -116.00567 39.60156 1811.85 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -116.00559 39.60154 1811.76 0
+OBJECT_SHARED Models/lib/lamp10m.xml -116.00557 39.60157 1811.79 167.91
+# END dsf2stg

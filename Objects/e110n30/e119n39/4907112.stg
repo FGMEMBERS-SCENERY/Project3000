@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 119.05712 39.66111 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 119.05608 39.66087 15.34 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 119.05745 39.66135 15.36 16.6
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 119.05643 39.66112 15.34 16.6
+OBJECT_SHARED Models/lib/jetway_e16m.ac 119.05722 39.66097 15.37 108.033
+OBJECT_SHARED Models/lib/jetway_e16m.ac 119.05618 39.66073 15.33 106.526
+OBJECT_SHARED Models/lib/jetway_e4m.ac 119.05620 39.66070 15.36 107.216
+OBJECT_SHARED Models/lib/jetway_e4m.ac 119.05723 39.66094 15.36 105.695
+# END dsf2stg

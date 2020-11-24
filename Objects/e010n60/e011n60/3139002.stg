@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.67411 60.87838 0.00 303.69
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.67415 60.87835 220.08 306.47
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.67482 60.87842 220.08 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.67378 60.87865 220.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 11.67329 60.87934 220.13 0
+OBJECT_SHARED Models/Transport/van_silver.ac 11.67403 60.87893 220.21 31.83
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 11.67411 60.87896 220.15 30.47
+OBJECT_SHARED Models/Transport/hatchback_green.ac 11.67420 60.87899 220.16 50.19
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.67429 60.87901 220.16 47.12
+OBJECT_SHARED Models/lib/garage-small-white.ac 11.67498 60.87830 220.16 306.38
+OBJECT_SHARED Models/lib/SmHangar.ac 11.67302 60.88045 220.05 123.69
+OBJECT_SHARED Models/lib/SmHangar.ac 11.67311 60.88037 220.28 303.91
+OBJECT_SHARED Models/lib/farm19x12.ac 11.67417 60.87853 220.28 124.29
+OBJECT_SHARED Models/lib/office3x10.ac 11.67775 60.87568 220.09 32.91
+OBJECT_SHARED Models/lib/office3x10.ac 11.67684 60.87808 219.57 304.51
+OBJECT_SHARED Models/lib/office3x10.ac 11.67590 60.87782 219.98 301.61
+OBJECT_SHARED Models/lib/prop_a.ac 11.67260 60.87965 219.95 213.69
+OBJECT_SHARED Models/lib/prop_a.ac 11.67437 60.87804 220.24 223.6
+# END dsf2stg

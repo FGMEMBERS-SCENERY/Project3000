@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -89.00792 17.18501 0.00 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.00766 17.18512 59.09 14.04
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.00740 17.18538 58.95 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.00749 17.18539 58.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.00762 17.18491 58.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.00770 17.18494 59.12 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.00787 17.18492 59.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.00754 17.18516 59.18 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -89.00756 17.18527 58.81 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -89.00744 17.18528 58.75 0
+OBJECT_SHARED Models/lib/shed8x10.ac -89.00678 17.18539 58.66 10.47
+OBJECT_SHARED Models/lib/industrial13x24.ac -89.00796 17.18502 58.24 194.82
+# END dsf2stg

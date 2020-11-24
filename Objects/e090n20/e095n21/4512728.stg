@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 95.11427 21.40638 0.00 0
+OBJECT_SHARED Models/lib/office40x25.ac 95.11471 21.40636 100.36 180
+OBJECT_SHARED Models/lib/transformer3x3.ac 95.11467 21.40660 100.12 0
+OBJECT_SHARED Models/lib/office3x10.ac 95.11450 21.40736 100.32 0
+OBJECT_SHARED Models/lib/industrial13x24.ac 95.11401 21.40524 101.23 90
+OBJECT_SHARED Models/lib/transformer3x3.ac 95.11466 21.40620 99.37 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 95.11421 21.40607 99.93 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 95.11431 21.40649 100.13 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 95.11435 21.40648 100.46 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac 95.11491 21.40675 100.46 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 95.11449 21.40671 100.40 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 95.11436 21.40671 100.54 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 95.11423 21.40673 100.60 0
+OBJECT_SHARED Models/lib/watertank3x1.ac 95.11444 21.40613 100.72 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 95.11449 21.40603 100.01 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 95.11064 21.41608 99.85 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 95.10977 21.39398 111.24 0
+# END dsf2stg

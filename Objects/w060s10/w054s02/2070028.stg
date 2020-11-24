@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -53.48830 -1.78529 0.00 289.57
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -53.48831 -1.78527 46.81 289.57
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -53.48826 -1.78516 46.80 14.93
+OBJECT_SHARED Models/Trees/billboard-tree.xml -53.48824 -1.78561 46.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -53.48832 -1.78554 47.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -53.48833 -1.78533 46.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -53.48837 -1.78528 46.84 206.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -53.48843 -1.78518 46.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -53.48848 -1.78511 46.61 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -53.48846 -1.78503 46.44 255.96
+OBJECT_SHARED Models/lib/deciduous-tree.xml -53.48837 -1.78515 46.40 280.56
+OBJECT_SHARED Models/lib/deciduous-tree.xml -53.48839 -1.78515 46.59 6.95001
+OBJECT_SHARED Models/lib/deciduous-tree.xml -53.48805 -1.78506 46.59 282.7
+OBJECT_SHARED Models/lib/deciduous-tree.xml -53.48806 -1.78504 46.81 9.69
+OBJECT_SHARED Models/lib/farm19x12.ac -53.48808 -1.78508 46.78 13.74
+# END dsf2stg

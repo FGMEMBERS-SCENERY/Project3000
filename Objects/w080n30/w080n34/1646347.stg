@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -79.01291 34.18585 0.00 75
+OBJECT_SHARED Models/lib/shed8x10.ac -79.01814 34.18516 27.94 8
+OBJECT_SHARED Models/lib/shed8x10.ac -79.01415 34.18466 27.92 2
+OBJECT_SHARED Models/lib/transformer3x3.ac -79.01782 34.18503 27.97 190
+OBJECT_SHARED Models/lib/cone.ac -79.01373 34.18705 27.91 0
+OBJECT_SHARED Models/lib/cone.ac -79.01375 34.18715 28.16 180
+OBJECT_SHARED Models/lib/cone.ac -79.01377 34.18723 28.16 0
+OBJECT_SHARED Models/lib/cone.ac -79.01379 34.18731 28.18 0
+OBJECT_SHARED Models/lib/cone.ac -79.01381 34.18740 28.20 0
+# END dsf2stg

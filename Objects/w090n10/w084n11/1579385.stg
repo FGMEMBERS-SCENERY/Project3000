@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -83.78223 11.98640 0.00 211.607
+OBJECT_SHARED Models/lib/transformer3x3.ac -83.77986 11.98791 7.88 212.735
+OBJECT_SHARED Models/lib/transformer3x3.ac -83.77328 11.99207 10.40 214.824
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.76717 11.99660 11.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.76716 11.99664 12.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.76712 11.99662 12.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.76724 11.99636 13.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.76723 11.99645 11.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.76728 11.99644 12.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -83.76725 11.99641 12.16 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -83.76733 11.99634 12.16 90
+OBJECT_SHARED Models/lib/farm19x12.ac -83.76766 11.99652 12.00 179.585
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -83.76732 11.99589 12.90 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -83.76689 11.99613 11.35 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -83.76771 11.99560 10.96 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -83.76740 11.99580 11.40 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -83.76727 11.99589 11.32 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -83.76768 11.99646 11.35 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -83.76694 11.99247 12.90 130.38
+# END dsf2stg

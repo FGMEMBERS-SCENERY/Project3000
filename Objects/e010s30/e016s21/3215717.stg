@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac 16.66541 -20.43300 0.00 313.18
+OBJECT_SHARED Models/Transport/hatchback_green.ac 16.66487 -20.43314 1479.53 223.02
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 16.66512 -20.43317 1479.77 172.87
+OBJECT_SHARED Models/lib/propane-tank.ac 16.66381 -20.43394 1479.75 35.84
+OBJECT_SHARED Models/lib/stack_of_cones.ac 16.66387 -20.43407 1480.61 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 16.66424 -20.43406 1480.67 124.22
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66535 -20.43307 1480.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66535 -20.43298 1479.58 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66531 -20.43302 1479.53 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66555 -20.43282 1479.57 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66550 -20.43310 1479.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66560 -20.43305 1479.55 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66535 -20.43324 1479.48 116.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66477 -20.43366 1479.64 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66464 -20.43377 1480.13 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66460 -20.43382 1480.24 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66452 -20.43386 1480.24 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66444 -20.43393 1480.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.66437 -20.43397 1480.36 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 16.66450 -20.43345 1480.41 0
+OBJECT_SHARED Models/lib/SmHangar.ac 16.66380 -20.43403 1480.09 42.06
+OBJECT_SHARED Models/lib/SmHangar.ac 16.66501 -20.43317 1480.66 43.21
+OBJECT_SHARED Models/lib/SmHangar.ac 16.66484 -20.43297 1479.79 313.57
+# END dsf2stg

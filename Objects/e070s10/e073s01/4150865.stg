@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25.ac 73.15344 -0.69015 0.00 351.22
+OBJECT_SHARED Models/lib/FireStationLg.ac 73.14971 -0.68990 2.98 262.41
+OBJECT_SHARED Models/lib/lamp10m.xml 73.16021 -0.69114 5.11 0
+OBJECT_SHARED Models/lib/lamp10m.xml 73.15942 -0.69102 2.77 0
+OBJECT_SHARED Models/lib/lamp10m.xml 73.15867 -0.69091 2.85 0
+OBJECT_SHARED Models/lib/lamp10m.xml 73.15780 -0.69079 2.91 0
+OBJECT_SHARED Models/lib/lamp10m.xml 73.15700 -0.69064 2.97 0
+OBJECT_SHARED Models/lib/lamp10m.xml 73.15626 -0.69054 2.99 0
+OBJECT_SHARED Models/lib/lamp10m.xml 73.15568 -0.69045 3.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 73.15498 -0.69032 3.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 73.15433 -0.69022 3.00 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 73.15730 -0.69015 3.00 172.03
+OBJECT_SHARED Models/lib/RampGroup.xml 73.15980 -0.69111 2.67 170
+OBJECT_SHARED Models/lib/RampGroup.xml 73.15867 -0.69093 2.82 170
+OBJECT_SHARED Models/lib/RampGroup.xml 73.15690 -0.69065 2.91 170
+OBJECT_SHARED Models/lib/RampGroup.xml 73.15750 -0.69075 3.00 170
+OBJECT_SHARED Models/lib/RampGroup.xml 73.15573 -0.69046 2.98 170
+OBJECT_SHARED Models/lib/RampParking.xml 73.15934 -0.69116 3.00 170
+OBJECT_SHARED Models/lib/RampParking.xml 73.15821 -0.69098 2.89 170
+OBJECT_SHARED Models/lib/RampParking.xml 73.15644 -0.69069 2.97 170
+OBJECT_SHARED Models/lib/RampParking.xml 73.15520 -0.69049 3.03 170
+OBJECT_SHARED Models/lib/RampParking.xml 73.15465 -0.69041 3.02 170
+# END dsf2stg

@@ -1,0 +1,40 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25n.ac -88.18881 33.10944 0.00 107.996
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.18773 33.10988 45.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.18761 33.10996 44.94 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.18762 33.11009 44.93 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -88.18767 33.11009 44.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -88.18789 33.11010 44.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -88.18781 33.10983 44.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -88.19007 33.10910 44.96 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -88.19119 33.10845 45.03 120.343
+OBJECT_SHARED Models/lib/office4x14.ac -88.18989 33.10896 44.96 32.6921
+OBJECT_SHARED Models/lib/schranke.ac -88.19053 33.10862 45.00 122.619
+OBJECT_SHARED Models/lib/coal_pile.ac -88.18970 33.10922 44.98 301.483
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18979 33.10923 45.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18981 33.10922 45.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18984 33.10920 45.00 306.87
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18985 33.10919 45.00 315
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18985 33.10916 45.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18983 33.10916 45.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18982 33.10918 45.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18981 33.10920 45.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18980 33.10915 45.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18985 33.10913 45.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -88.18985 33.10917 45.00 0
+OBJECT_SHARED Models/lib/industrial15x22.ac -88.18924 33.10931 45.00 123.69
+OBJECT_SHARED Models/Transport/van_silver.ac -88.18931 33.10923 45.00 293.963
+OBJECT_SHARED Models/Transport/van_silver.ac -88.18924 33.10911 45.00 301.43
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -88.18927 33.10913 45.00 300.964
+OBJECT_SHARED Models/Transport/hatchback_green.ac -88.18970 33.10897 45.00 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -88.18943 33.10915 45.00 214.658
+OBJECT_SHARED Models/lib/lamp10m.xml -88.19129 33.10867 45.00 192.061
+OBJECT_SHARED Models/lib/lamp10m.xml -88.19073 33.10840 45.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -88.18995 33.10871 44.96 89.1287
+OBJECT_SHARED Models/lib/lamp10m.xml -88.19027 33.10920 44.95 71.2002
+OBJECT_SHARED Models/lib/SmHangar.ac -88.19495 33.10651 45.05 302.557
+OBJECT_SHARED Models/lib/SmHangar.ac -88.19479 33.10659 44.26 302.557
+OBJECT_SHARED Models/lib/cars6.ac -88.19041 33.10868 44.29 33.2748
+# END dsf2stg

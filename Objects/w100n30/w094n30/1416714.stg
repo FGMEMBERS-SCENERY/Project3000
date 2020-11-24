@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -93.37402 30.13190 0.00 0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37411 30.13304 1.80 45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37433 30.13336 1.79 45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37446 30.13358 1.77 45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37519 30.13324 1.75 45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37499 30.13405 1.66 45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37506 30.13302 1.71 45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37484 30.13267 1.67 45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37404 30.13199 1.71 45
+OBJECT_SHARED Models/lib/lamp10m.xml -93.37436 30.13238 1.80 206.75
+OBJECT_SHARED Models/lib/fboModern1.ac -93.37421 30.13207 1.75 28.93
+OBJECT_SHARED Models/lib/MedHangar.ac -93.37352 30.13119 1.77 30.91
+OBJECT_SHARED Models/lib/MedHangar.ac -93.37383 30.13164 1.86 29.87
+OBJECT_SHARED Models/lib/LongRow.ac -93.37486 30.13280 1.82 29.89
+OBJECT_SHARED Models/lib/LongRow.ac -93.37508 30.13315 1.70 28.18
+OBJECT_SHARED Models/lib/SmHangar.ac -93.37489 30.13409 1.67 298.56
+OBJECT_SHARED Models/lib/lamp10m.xml -93.37355 30.13175 1.72 270
+OBJECT_SHARED Models/lib/lamp10m.xml -93.37324 30.13130 1.86 270
+OBJECT_SHARED Models/lib/lamp10m.xml -93.37396 30.13258 1.90 207.98
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37446 30.13234 1.80 347.35
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37455 30.13246 1.74 68.2
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -93.37472 30.13239 1.74 74.05
+OBJECT_SHARED Models/lib/lamp10m.xml -93.37388 30.13185 1.72 24.57
+OBJECT_SHARED Models/lib/lamp10m.xml -93.37328 30.13092 1.81 27
+OBJECT_SHARED Models/lib/lamp10m.xml -93.37359 30.13137 1.89 28.66
+OBJECT_SHARED Models/lib/lamp10m.xml -93.37397 30.13198 1.85 209.59
+OBJECT_SHARED Models/lib/lamp10m.xml -93.37359 30.13197 1.80 32.88
+OBJECT_SHARED Models/lib/lamp10m.xml -93.37369 30.13212 1.85 207.29
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.37451 30.13231 1.83 117.32
+# END dsf2stg

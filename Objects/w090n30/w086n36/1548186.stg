@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -85.31479 36.41013 0.00 173.95
+OBJECT_SHARED Models/lib/lamp10m.xml -85.31487 36.40974 412.30 170.44
+OBJECT_SHARED Models/lib/MedHangar.ac -85.31481 36.40992 412.12 171.43
+OBJECT_SHARED Models/lib/HorizTanks2.ac -85.31461 36.41047 412.16 170.72
+OBJECT_SHARED Models/lib/LongRow.ac -85.31467 36.41059 412.40 80.5
+OBJECT_SHARED Models/lib/LongRow.ac -85.31373 36.41266 412.56 147.01
+OBJECT_SHARED Models/lib/4space_wStop.ac -85.31506 36.40969 413.17 82.33
+OBJECT_SHARED Models/lib/4space_wStop.ac -85.31519 36.40970 412.30 82.44
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -85.31515 36.40957 412.38 351.8
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -85.31527 36.40958 412.31 351.85
+# END dsf2stg

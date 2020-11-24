@@ -1,23 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -52.75050 47.61739 140.70 -85.14
-OBJECT_SHARED Models/lib/MedHangar.ac -52.75372 47.61694 143.35 306.01
-OBJECT_SHARED Models/lib/office32x25n.ac -52.75011 47.61546 141.41 328.28
-OBJECT_SHARED Models/lib/lamp10m.xml -52.75068 47.61967 139.33 0
-OBJECT_SHARED Models/lib/lamp10m.xml -52.75070 47.61777 140.65 0
-OBJECT_SHARED Models/Airport/cargoim.xml -52.75100 47.61820 140.68 0
-OBJECT_SHARED Models/Airport/cargoim.xml -52.75101 47.61824 140.68 0
-OBJECT_SHARED Models/Airport/cargoim.xml -52.75105 47.61823 140.77 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75137 47.61821 141.05 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75144 47.61819 141.05 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75149 47.61822 141.14 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75141 47.61822 141.05 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75136 47.61826 140.97 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75141 47.61827 140.97 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -52.75147 47.61826 141.06 0
-OBJECT_SHARED Models/lib/trailer-fedex.ac -52.75165 47.61813 141.40 304.75
-OBJECT_SHARED Models/lib/trailer-fedex.ac -52.75172 47.61802 141.47 307.65
-OBJECT_SHARED Models/lib/trailer-fedex.ac -52.75174 47.61792 141.54 309.24
-OBJECT_SHARED Models/lib/trailer-ups.ac -52.75086 47.61814 140.64 308.39
+OBJECT_SHARED Models/lib/container6-HD.ac -52.75463 47.61541 137.11 212.12
+OBJECT_SHARED Models/lib/container6-HD.ac -52.75470 47.61536 146.33 214.69
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -52.75403 47.61564 146.43 217.48
+OBJECT_SHARED Models/Airport/cargobox.xml -52.75387 47.61571 145.59 0
+OBJECT_SHARED Models/Airport/cargobox.xml -52.75390 47.61573 145.42 0
+OBJECT_SHARED Models/Airport/cargobox.xml -52.75393 47.61575 145.42 0
+OBJECT_SHARED Models/Airport/cargobox.xml -52.75392 47.61570 145.42 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -52.75382 47.61577 145.42 136.98
+OBJECT_SHARED Models/lib/MedHangar.ac -52.75071 47.61793 138.40 307.41
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -52.75327 47.61597 133.03 82.66
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -52.75487 47.61518 144.61 82.66
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -52.75169 47.61695 146.76 82.66
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -52.75426 47.61548 142.33 82.66
+OBJECT_SHARED Models/lib/trailer-fedex.ac -52.75005 47.61831 139.56 307.65
+OBJECT_SHARED Models/lib/trailer-fedex.ac -52.75007 47.61821 139.62 309.24
 # END dsf2stg

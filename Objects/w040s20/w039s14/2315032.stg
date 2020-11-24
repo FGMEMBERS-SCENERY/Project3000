@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -38.93583 -13.56737 0.00 243.43
+OBJECT_SHARED Models/Transport/hatchback_green.ac -38.93591 -13.56716 4.97 164.58
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -38.93611 -13.56729 4.90 254.74
+OBJECT_SHARED Models/Misc/picnic_table.ac -38.93573 -13.56728 4.83 286.7
+OBJECT_SHARED Models/Misc/picnic_table.ac -38.93587 -13.56746 5.00 7.13
+OBJECT_SHARED Models/Misc/picnic_table.ac -38.93602 -13.56736 4.95 291.04
+OBJECT_SHARED Models/lib/farm19x12.ac -38.93571 -13.56722 4.89 344.88
+OBJECT_SHARED Models/lib/shed8x10.ac -38.93700 -13.56944 4.98 191.5
+OBJECT_SHARED Models/lib/shed10x50.ac -38.93753 -13.56932 4.78 109.09
+# END dsf2stg

@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -105.29303 36.41962 0.00 288.7
+OBJECT_SHARED Models/lib/propane-tank.ac -105.29238 36.42018 2546.55 26.08
+OBJECT_SHARED Models/Transport/hatchback_red.ac -105.29207 36.41965 2546.38 180
+OBJECT_SHARED Models/Transport/hatchback_green.ac -105.29203 36.41964 2547.01 178.36
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -105.29200 36.41964 2547.01 181.15
+OBJECT_SHARED Models/Transport/hatchback_black.ac -105.29166 36.41965 2547.01 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -105.29166 36.41968 2546.91 270
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -105.29161 36.42023 2546.91 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -105.29161 36.42021 2546.38 248.96
+OBJECT_SHARED Models/lib/MedHangar.ac -105.29163 36.42000 2546.38 177.03
+OBJECT_SHARED Models/lib/HorizTanks2.ac -105.29150 36.42039 2546.59 177.98
+OBJECT_SHARED Models/lib/garden-shed.ac -105.29215 36.42018 2546.69 3.41
+OBJECT_SHARED Models/lib/garden-shed.ac -105.29330 36.41986 2546.38 285.52
+OBJECT_SHARED Models/lib/transformer3x3.ac -105.29170 36.41961 2546.23 179.27
+# END dsf2stg

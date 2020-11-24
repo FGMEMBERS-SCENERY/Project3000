@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac 143.07334 -30.85043 0.00 138.46
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 143.07330 -30.85050 159.09 320.31
+OBJECT_SHARED Models/lib/cone.ac 143.06882 -30.85012 159.14 13.39
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 143.07329 -30.85045 159.50 221.52
+OBJECT_SHARED Models/lib/stack_of_cones.ac 143.07301 -30.85091 159.14 194.86
+OBJECT_SHARED Models/lib/stack_of_cones.ac 143.07290 -30.85034 159.42 66.97
+OBJECT_SHARED Models/Misc/picnic_table.ac 143.07300 -30.85038 159.03 313.05
+OBJECT_SHARED Models/Misc/picnic_table.ac 143.07304 -30.85041 159.09 317.19
+OBJECT_SHARED Models/Misc/picnic_table.ac 143.07308 -30.85043 159.09 324.21
+OBJECT_SHARED Models/lib/SmHangar.ac 143.07285 -30.85031 159.09 51.43
+OBJECT_SHARED Models/lib/SmHangar.ac 143.07273 -30.85023 159.03 51.43
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 143.07337 -30.85023 158.97 182.6
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 143.07336 -30.85030 158.97 298.44
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 143.07330 -30.85031 159.03 256.37
+OBJECT_SHARED Models/Transport/van_red.ac 143.07297 -30.85023 159.03 335.38
+OBJECT_SHARED Models/Transport/van_silver.ac 143.07281 -30.85010 158.97 147.53
+OBJECT_SHARED Models/Transport/hatchback_black.ac 143.07279 -30.85008 158.91 149.04
+# END dsf2stg

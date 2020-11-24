@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -98.99461 34.35350 0.00 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.99325 34.35440 375.04 180
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.99324 34.35462 376.34 180
+OBJECT_SHARED Models/lib/LongRow.ac -98.99243 34.35637 376.41 270
+OBJECT_SHARED Models/lib/LongRow.ac -98.99243 34.35550 377.63 270
+OBJECT_SHARED Models/lib/LongRow.ac -98.99199 34.35549 377.30 270
+OBJECT_SHARED Models/lib/LgMaint.ac -98.99445 34.35928 377.57 135
+OBJECT_SHARED Models/lib/cube16x10.ac -98.99291 34.34730 377.31 0
+OBJECT_SHARED Models/lib/prop_a.ac -98.99251 34.35709 374.37 180
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -98.99296 34.35684 377.81 90.3
+OBJECT_SHARED Models/lib/lamp10m.xml -98.99283 34.35675 377.37 270
+# END dsf2stg

@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 0.04925 53.71474 0.00 33.18
+OBJECT_SHARED Models/lib/prop_a.ac 0.04940 53.71478 10.53 33.85
+OBJECT_SHARED Models/Transport/van_red.ac 0.04851 53.71521 10.56 309.6
+OBJECT_SHARED Models/Transport/hatchback_red.ac 0.04902 53.71472 10.66 207.09
+OBJECT_SHARED Models/Transport/hatchback_green.ac 0.04870 53.71504 10.54 22.95
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 0.04853 53.71519 11.30 312.37
+OBJECT_SHARED Models/lib/garden-shed.ac 0.04877 53.71421 10.71 82.06
+OBJECT_SHARED Models/lib/garden-shed.ac 0.04878 53.71424 10.65 82.06
+OBJECT_SHARED Models/lib/garden-shed.ac 0.04879 53.71427 10.65 82.06
+OBJECT_SHARED Models/lib/garden-shed.ac 0.04879 53.71430 10.87 82.06
+OBJECT_SHARED Models/lib/shed8x10.ac 0.04928 53.71427 10.87 32.38
+OBJECT_SHARED Models/lib/office3x10.ac 0.04799 53.71523 10.18 110.6
+OBJECT_SHARED Models/lib/industrial13x24.ac 0.04847 53.71507 9.77 204.3
+OBJECT_SHARED Models/lib/industrial13x24.ac 0.04839 53.71518 10.80 204.3
+OBJECT_SHARED Models/lib/garden-shed.ac 0.05141 53.71303 10.46 297.68
+OBJECT_SHARED Models/lib/garden-shed.ac 0.05138 53.71302 9.14 297.68
+OBJECT_SHARED Models/lib/garden-shed.ac 0.05135 53.71302 9.13 297.68
+OBJECT_SHARED Models/lib/garden-shed.ac 0.05131 53.71301 9.12 28.22
+OBJECT_SHARED Models/lib/garden-shed.ac 0.05127 53.71300 9.12 28.22
+OBJECT_SHARED Models/lib/shed8x10.ac 0.05154 53.71305 9.10 208.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.05159 53.71276 9.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04949 53.71433 8.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04937 53.71440 9.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04895 53.71453 10.32 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04860 53.71385 11.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04861 53.71394 9.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04862 53.71402 9.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04864 53.71409 10.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04864 53.71417 10.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04864 53.71426 10.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04867 53.71435 10.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04864 53.71443 10.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04865 53.71452 10.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04865 53.71460 11.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04865 53.71469 11.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04877 53.71445 11.31 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04750 53.71495 11.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04769 53.71491 9.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04798 53.71487 9.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04824 53.71484 10.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04850 53.71482 10.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04866 53.71479 11.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04731 53.71500 11.38 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04720 53.71503 9.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04707 53.71505 9.36 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04695 53.71508 9.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04706 53.71512 9.63 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 0.04721 53.71513 9.54 0
+# END dsf2stg

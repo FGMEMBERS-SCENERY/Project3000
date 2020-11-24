@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -76.29343 39.39543 0.00 171.44
+OBJECT_SHARED Models/lib/lamp10m.xml -76.29350 39.39512 4.65 171.44
+OBJECT_SHARED Models/lib/cars14.ac -76.29457 39.39268 4.61 275.35
+OBJECT_SHARED Models/lib/cars14.ac -76.29457 39.39324 4.26 109.1
+OBJECT_SHARED Models/lib/cars14.ac -76.29412 39.39297 4.27 3.98
+OBJECT_SHARED Models/lib/cars14.ac -76.29507 39.39276 4.39 189.13
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.29374 39.39382 4.13 94.41
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -76.29366 39.39645 4.52 103.2
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -76.29353 39.39602 4.61 103.2
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -76.29442 39.39394 4.65 65.59
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.29412 39.39350 4.34 185.26
+# END dsf2stg

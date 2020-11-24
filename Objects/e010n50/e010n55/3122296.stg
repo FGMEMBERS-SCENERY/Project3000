@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.23772 55.93784 0.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.23766 55.93783 12.93 270
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.23765 55.93780 12.93 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.23766 55.93787 13.06 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.23772 55.93787 12.73 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 10.23716 55.93797 12.73 159.72
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.23724 55.93796 13.08 158.8
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.23730 55.93795 13.08 341.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.23735 55.93794 13.15 172.13
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.23742 55.93793 13.11 168.74
+OBJECT_SHARED Models/Transport/van_red.ac 10.23711 55.93789 13.11 161.17
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.23704 55.93790 13.23 343.61
+OBJECT_SHARED Models/lib/lamp10m.xml 10.23697 55.93788 13.29 270
+OBJECT_SHARED Models/lib/lamp10m.xml 10.23775 55.93775 13.29 270
+OBJECT_SHARED Models/lib/lamp10m.xml 10.23713 55.93801 12.99 92.63
+OBJECT_SHARED Models/lib/lamp10m.xml 10.23765 55.93812 13.12 135
+OBJECT_SHARED Models/lib/lamp10m.xml 10.23756 55.93794 12.46 194.74
+OBJECT_SHARED Models/lib/lamp10m.xml 10.23793 55.93807 12.86 178.49
+OBJECT_SHARED Models/lib/lamp10m.xml 10.23795 55.93815 12.05 169.22
+# END dsf2stg

@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml -115.25251 32.62954 19.11 60.73
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -115.25203 32.62912 -75.77 0
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -115.25215 32.62995 19.20 153.255
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -115.25222 32.62950 19.13 331.79
+OBJECT_SHARED Models/lib/lamp10m.xml -115.25240 32.63014 19.11 0
+OBJECT_SHARED Models/lib/lamp10m.xml -115.25140 32.62970 19.10 0
+OBJECT_SHARED Models/lib/lamp10m.xml -115.25204 32.62867 19.09 0
+OBJECT_SHARED Models/lib/lamp10m.xml -115.25302 32.62913 19.23 0
+OBJECT_SHARED Models/lib/lamp10m.xml -115.25238 32.62935 19.27 0
+OBJECT_SHARED Models/lib/lamp10m.xml -115.25188 32.62959 19.18 0
+OBJECT_SHARED Models/lib/lamp10m.xml -115.25215 32.62969 19.16 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -115.25215 32.62925 19.16 327.579
+OBJECT_SHARED Models/lib/HorizTanks2.ac -115.25222 32.62929 19.19 239.002
+OBJECT_SHARED Models/lib/HorizTanks2.ac -115.25233 32.62934 19.18 239.002
+OBJECT_SHARED Models/lib/HorizTanks2.ac -115.25242 32.62939 19.18 239.002
+OBJECT_SHARED Models/lib/HorizTanks2.ac -115.25252 32.62944 19.18 239.002
+# END dsf2stg

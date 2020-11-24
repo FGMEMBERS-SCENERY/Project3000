@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.53603 42.29206 0.00 112.932
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.53487 42.29200 176.54 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.53499 42.29195 176.69 267.455
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.53605 42.29190 176.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.53579 42.29178 176.50 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.53591 42.29178 176.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.53602 42.29178 176.51 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.53477 42.29192 176.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.53525 42.29218 176.71 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.53498 42.29177 176.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.53530 42.29178 176.64 0
+OBJECT_SHARED Models/lib/prop_a.ac -82.53505 42.29236 176.59 90
+OBJECT_SHARED Models/lib/cone.ac -82.53474 42.29222 176.72 327.821
+OBJECT_SHARED Models/lib/stack_of_cones.ac -82.53489 42.29213 176.77 327.821
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -82.53472 42.29221 176.71 269.671
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -82.53490 42.29222 176.77 327.821
+OBJECT_SHARED Models/Misc/6barrels.ac -82.53475 42.29210 176.72 327.821
+OBJECT_SHARED Models/Misc/6barrels.ac -82.53475 42.29208 176.73 327.821
+OBJECT_SHARED Models/lib/2vending-machines.ac -82.53474 42.29221 176.73 180.021
+OBJECT_SHARED Models/lib/farm19x12.ac -82.53504 42.29195 176.77 357.276
+# END dsf2stg

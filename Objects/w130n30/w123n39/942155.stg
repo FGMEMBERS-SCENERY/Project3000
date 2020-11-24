@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -122.13194 39.15979 0.00 90
+OBJECT_SHARED Models/Transport/hatchback_green.ac -122.13248 39.16006 21.02 90
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -122.13124 39.15976 20.98 90.6262
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -122.13128 39.15969 20.96 90.6868
+OBJECT_SHARED Models/Transport/van_red.ac -122.13125 39.15972 20.99 270.69
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -122.13205 39.15995 20.99 180.764
+OBJECT_SHARED Models/Transport/hatchback_green.ac -122.13210 39.15995 20.99 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -122.13214 39.15995 20.99 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.13086 39.15980 20.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.13246 39.15981 20.96 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.13036 39.15966 21.02 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.13215 39.15975 20.97 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.13245 39.16000 21.02 0
+OBJECT_SHARED Models/lib/propane-tank.ac -122.13243 39.16036 20.99 90
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.13206 39.16013 20.95 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.13206 39.16007 20.98 0
+OBJECT_SHARED Models/lib/LongRow.ac -122.13233 39.16049 20.98 90
+OBJECT_SHARED Models/lib/prop_a.ac -122.13212 39.16189 20.94 340.062
+OBJECT_SHARED Models/lib/prop_a.ac -122.13196 39.16017 20.85 67.0443
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.13085 39.15988 20.97 0
+# END dsf2stg

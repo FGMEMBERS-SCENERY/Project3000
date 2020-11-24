@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -63.83056 46.43916 0.00 145.15
+OBJECT_SHARED Models/Transport/van_red.ac -63.81456 46.44909 19.96 84.43
+OBJECT_SHARED Models/Transport/hatchback_red.ac -63.81433 46.44916 9.67 263.91
+OBJECT_SHARED Models/Transport/hatchback_green.ac -63.81436 46.44895 9.64 85.67
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -63.81464 46.44905 10.05 86.63
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.81459 46.44892 9.82 83.66
+OBJECT_SHARED Models/Transport/van_red.ac -63.81431 46.44879 9.97 263.66
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -63.81433 46.44890 10.24 174.56
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -63.81426 46.44943 10.09 175.03
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -63.81461 46.44892 9.32 175.1
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -63.81454 46.44945 9.97 175.1
+OBJECT_SHARED Models/lib/prop_a.ac -63.82013 46.44801 9.24 330.12
+OBJECT_SHARED Models/lib/prop_a.ac -63.82064 46.44840 9.78 219.61
+OBJECT_SHARED Models/lib/prop_a.ac -63.81993 46.44915 9.01 143.13
+OBJECT_SHARED Models/lib/office40x25.ac -63.83246 46.42960 7.88 103.71
+OBJECT_SHARED Models/lib/office32x25.ac -63.83053 46.42862 23.16 78.79
+OBJECT_SHARED Models/lib/office32x25.ac -63.82948 46.42870 24.40 351.02
+OBJECT_SHARED Models/Transport/hatchback_green.ac -63.83315 46.42975 25.27 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.83316 46.43005 22.58 10.01
+OBJECT_SHARED Models/Transport/van_silver.ac -63.83298 46.43010 22.54 20.56
+OBJECT_SHARED Models/Transport/hatchback_red.ac -63.83360 46.43058 22.77 0
+OBJECT_SHARED Models/lib/office32x25.ac -63.82611 46.44036 22.15 57.2
+OBJECT_SHARED Models/lib/MedHangar.ac -63.81965 46.44921 21.43 326.25
+OBJECT_SHARED Models/lib/MedHangar.ac -63.82033 46.44801 7.93 143.38
+OBJECT_SHARED Models/lib/office65x50.ac -63.83135 46.43710 9.73 293.5
+OBJECT_SHARED Models/lib/office65x50.ac -63.82877 46.43976 21.53 350.39
+OBJECT_SHARED Models/lib/office112x50.ac -63.83002 46.43788 20.65 325.49
+OBJECT_SHARED Models/lib/MedHangar.ac -63.82986 46.43991 22.09 55.59
+OBJECT_SHARED Models/lib/MedHangar.ac -63.83033 46.43935 19.64 54.37
+# END dsf2stg

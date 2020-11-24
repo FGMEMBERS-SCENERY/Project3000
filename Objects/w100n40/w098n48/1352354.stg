@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.44198 48.62289 0.00 87.4
+OBJECT_SHARED Models/Transport/van_red.ac -97.44198 48.62293 254.56 270.58
+OBJECT_SHARED Models/lib/propane-tank.ac -97.44036 48.62388 254.56 0.870003
+OBJECT_SHARED Models/lib/propane-tank.ac -97.44055 48.62387 254.08 0
+# END dsf2stg

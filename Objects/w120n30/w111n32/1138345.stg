@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -110.64374 32.63598 0.00 325.89
+OBJECT_SHARED Models/lib/LongRow.ac -110.64529 32.63656 985.27 145.78
+OBJECT_SHARED Models/lib/LongRow.ac -110.64507 32.63683 985.45 145.27
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -110.64427 32.63644 985.14 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -110.64425 32.63638 984.61 62.97
+OBJECT_SHARED Models/Misc/picnic_table.ac -110.64421 32.63637 984.61 52.63
+OBJECT_SHARED Models/Transport/hatchback_black.ac -110.64431 32.63670 984.61 54.49
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -110.64397 32.63622 984.12 231.84
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -110.64398 32.63619 984.95 231.84
+OBJECT_SHARED Models/Transport/hatchback_green.ac -110.64408 32.63628 984.95 231.84
+OBJECT_SHARED Models/Transport/hatchback_black.ac -110.64435 32.63652 984.78 143
+OBJECT_SHARED Models/Transport/van_red.ac -110.64566 32.63666 984.45 235.24
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -110.64535 32.63713 986.45 235.24
+OBJECT_SHARED Models/Transport/hatchback_green.ac -110.64580 32.63712 984.67 170.66
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -110.64503 32.63674 985.85 145.49
+OBJECT_SHARED Models/Transport/van_silver.ac -110.64559 32.63643 985.29 145.49
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -110.64460 32.63666 986.90 145.49
+OBJECT_SHARED Models/Transport/hatchback_black.ac -110.64450 32.63660 985.29 145.49
+OBJECT_SHARED Models/Transport/van_red.ac -110.64437 32.63653 984.29 145.49
+OBJECT_SHARED Models/Transport/hatchback_black.ac -110.64428 32.63647 984.45 145.49
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -110.64427 32.63639 984.45 0
+OBJECT_SHARED Models/lib/admin31x12.ac -110.64409 32.63637 984.61 56.31
+OBJECT_SHARED Models/lib/prop_a.ac -110.64458 32.63628 984.61 55.29
+OBJECT_SHARED Models/lib/prop_a.ac -110.64599 32.63677 985.92 265.03
+OBJECT_SHARED Models/lib/prop_a.ac -110.64431 32.63583 986.30 57.09
+# END dsf2stg

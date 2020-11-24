@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cube16x10.ac -71.16159 8.58297 0.00 300.71
+OBJECT_SHARED Models/Misc/6barrels.ac -71.15811 8.58491 1496.84 233.13
+OBJECT_SHARED Models/Misc/6barrels.ac -71.15812 8.58492 1515.21 226.848
+OBJECT_SHARED Models/lib/trailer-fedex.ac -71.15810 8.58482 1515.27 121.68
+OBJECT_SHARED Models/lib/trailer-fedex.ac -71.15812 8.58480 1514.70 121.68
+# END dsf2stg

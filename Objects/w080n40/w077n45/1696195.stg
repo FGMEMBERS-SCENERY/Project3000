@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -76.12031 45.09929 0.00 81.55
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.12019 45.09923 143.24 81.55
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.12031 45.09930 143.16 23.4
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -76.12025 45.09921 143.24 81.55
+OBJECT_SHARED Models/Misc/6barrels.ac -76.12021 45.09931 143.18 81.55
+OBJECT_SHARED Models/Misc/6barrels.ac -76.12020 45.09932 143.23 81.55
+OBJECT_SHARED Models/lib/2vending-machines.ac -76.12030 45.09929 143.23 293.75
+OBJECT_SHARED Models/lib/cone.ac -76.12038 45.09941 143.24 81.18
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.12027 45.09935 143.31 81.18
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.12038 45.09942 143.24 23.03
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -76.12033 45.09933 143.31 81.18
+OBJECT_SHARED Models/Misc/6barrels.ac -76.12029 45.09943 143.24 81.18
+OBJECT_SHARED Models/Misc/6barrels.ac -76.12027 45.09943 143.30 81.18
+OBJECT_SHARED Models/lib/2vending-machines.ac -76.12038 45.09941 143.30 293.38
+OBJECT_SHARED Models/lib/cone.ac -76.12045 45.09954 143.31 80.15
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.12031 45.09948 143.38 80.15
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.12045 45.09955 143.36 22
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -76.12040 45.09945 143.43 80.15
+OBJECT_SHARED Models/Misc/6barrels.ac -76.12032 45.09957 143.31 80.15
+OBJECT_SHARED Models/Misc/6barrels.ac -76.12030 45.09958 143.42 80.15
+OBJECT_SHARED Models/lib/2vending-machines.ac -76.12044 45.09954 143.42 292.35
+OBJECT_SHARED Models/lib/cone.ac -76.12066 45.09987 143.37 82.92
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.12051 45.09981 143.65 82.92
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.12066 45.09988 143.56 24.77
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -76.12060 45.09978 143.65 82.92
+OBJECT_SHARED Models/Misc/6barrels.ac -76.12053 45.09990 143.57 82.92
+OBJECT_SHARED Models/Misc/6barrels.ac -76.12051 45.09991 143.63 82.92
+OBJECT_SHARED Models/lib/2vending-machines.ac -76.12065 45.09987 143.63 295.12
+OBJECT_SHARED Models/lib/cone.ac -76.12069 45.10002 143.65 81.98
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.12057 45.09996 143.71 81.98
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -76.12069 45.10003 143.70 23.83
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -76.12064 45.09994 143.71 81.98
+OBJECT_SHARED Models/Misc/6barrels.ac -76.12059 45.10004 143.64 81.98
+OBJECT_SHARED Models/Misc/6barrels.ac -76.12058 45.10005 143.70 81.98
+OBJECT_SHARED Models/lib/2vending-machines.ac -76.12068 45.10002 143.70 294.18
+# END dsf2stg

@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -67.63027 46.43242 147.82 102.76
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -67.63043 46.43220 147.96 229.9
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -67.63010 46.43226 147.77 235.1
-OBJECT_SHARED Models/lib/SmHangar.ac -67.63053 46.43238 147.92 103.05
+OBJECT_SHARED Models/lib/SmHangar.ac -67.63027 46.43242 0.00 102.76
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -67.63043 46.43220 147.85 229.9
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -67.63010 46.43226 147.98 235.1
+OBJECT_SHARED Models/lib/SmHangar.ac -67.63053 46.43238 147.79 103.05
 # END dsf2stg

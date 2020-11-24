@@ -2,14 +2,14 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/cars4.ac 12.28924 47.92416 0.00 110
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.28917 47.92439 -0.00 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.28901 47.92444 0.00 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.28879 47.92504 -0.00 20
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.28875 47.92503 -0.00 290
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 12.28884 47.92448 -0.00 290
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.28886 47.92434 -0.00 110
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.28912 47.92447 -0.00 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.28885 47.92498 -0.00 20
-OBJECT_SHARED Models/lib/SmHangar.ac 12.28885 47.92483 -0.00 20
-OBJECT_SHARED Models/lib/SmHangar.ac 12.28873 47.92508 0.00 20
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.28917 47.92439 514.32 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.28901 47.92444 514.31 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.28879 47.92504 514.22 20
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.28875 47.92503 514.18 290
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 12.28884 47.92448 514.12 290
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 12.28886 47.92434 514.13 110
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.28912 47.92447 514.19 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.28885 47.92498 514.26 20
+OBJECT_SHARED Models/lib/SmHangar.ac 12.28885 47.92483 514.18 20
+OBJECT_SHARED Models/lib/SmHangar.ac 12.28873 47.92508 514.19 20
 # END dsf2stg

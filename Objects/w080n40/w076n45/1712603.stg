@@ -1,10 +1,30 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/farm19x12.ac -75.08910 45.49015 69.41 38.7755
-OBJECT_SHARED Models/lib/garden-shed.ac -75.08914 45.49023 69.41 126.871
-OBJECT_SHARED Models/lib/SmHangar.ac -75.08820 45.48598 69.67 65.9451
-OBJECT_SHARED Models/lib/hangar81x16.ac -75.09174 45.48872 70.52 66.78
-OBJECT_SHARED Models/lib/SmHangar.ac -75.09226 45.48866 70.78 154.941
-OBJECT_SHARED Models/lib/MedHangar.ac -75.09361 45.48871 71.39 158.001
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.09214 45.48799 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.09236 45.48806 70.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.09294 45.48832 70.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -75.09302 45.48835 71.14 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.09311 45.48840 71.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.09412 45.48794 71.20 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -75.09407 45.48802 71.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.09451 45.48807 71.76 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -75.09134 45.48922 71.93 65.08
+OBJECT_SHARED Models/lib/cone.ac -75.09208 45.48855 70.25 212.77
+OBJECT_SHARED Models/lib/stack_of_cones.ac -75.09214 45.48874 70.71 212.77
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -75.09211 45.48854 70.69 154.62
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -75.09199 45.48870 70.73 212.77
+OBJECT_SHARED Models/Misc/6barrels.ac -75.09229 45.48863 70.64 212.77
+OBJECT_SHARED Models/Misc/6barrels.ac -75.09232 45.48864 70.80 212.77
+OBJECT_SHARED Models/lib/2vending-machines.ac -75.09210 45.48855 70.80 64.97
+OBJECT_SHARED Models/Transport/hatchback_black.ac -75.09819 45.48297 70.71 300.26
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.09822 45.48301 72.29 106.31
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -75.09824 45.48304 72.29 104.35
+OBJECT_SHARED Models/Transport/hatchback_black.ac -75.09825 45.48308 72.29 282.8
+OBJECT_SHARED Models/lib/prop_a.ac -75.09794 45.48315 72.32 256.76
+OBJECT_SHARED Models/lib/prop_a.ac -75.09831 45.48320 72.37 255.53
+OBJECT_SHARED Models/lib/prop_a.ac -75.09351 45.48902 72.36 64.8
+OBJECT_SHARED Models/lib/prop_a.ac -75.09367 45.48906 71.28 63.44
+OBJECT_SHARED Models/lib/farm19x12.ac -75.08906 45.49017 71.38 35.65
+OBJECT_SHARED Models/lib/garden-shed.ac -75.08914 45.49023 69.41 126.87
 # END dsf2stg

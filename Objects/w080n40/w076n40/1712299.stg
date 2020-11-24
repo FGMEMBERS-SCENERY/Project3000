@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -75.24087 40.74266 0.00 299.74
+OBJECT_SHARED Models/Transport/van_silver.ac -75.24079 40.74273 116.00 306.25
+OBJECT_SHARED Models/lib/prop_a.ac -75.24154 40.74245 115.93 203.85
+OBJECT_SHARED Models/lib/HorizTanks2.ac -75.24124 40.74208 116.14 118.25
+OBJECT_SHARED Models/lib/prop_a.ac -75.24191 40.74250 115.69 18.93
+OBJECT_SHARED Models/lib/schranke.ac -75.24093 40.74296 116.27 213.74
+OBJECT_SHARED Models/lib/LongRow.ac -75.24077 40.74144 116.21 118.46
+OBJECT_SHARED Models/lib/LongRow.ac -75.24043 40.74170 114.96 120.26
+# END dsf2stg

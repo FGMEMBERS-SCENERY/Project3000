@@ -1,5 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.24977 46.90482 470.27 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.24984 46.90492 469.39 118.981
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.24987 46.90491 470.26 118.981
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.24999 46.90495 470.00 356.524
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.24996 46.90496 470.05 356.524
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.24993 46.90497 470.19 356.524
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.24990 46.90498 470.23 356.524
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.24986 46.90499 470.28 356.524
 # END dsf2stg

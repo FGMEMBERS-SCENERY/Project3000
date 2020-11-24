@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -119.61156 46.31515 0.00 181.21
+OBJECT_SHARED Models/lib/propane-tank.ac -119.61182 46.31597 414.00 189.35
+OBJECT_SHARED Models/Transport/van_silver.ac -119.61126 46.31560 418.67 178.83
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.61110 46.31587 414.32 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.61112 46.31575 415.40 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.61047 46.31557 414.68 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.61073 46.31568 411.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.61186 46.31577 414.68 0
+OBJECT_SHARED Models/lib/garden-shed.ac -119.61168 46.31554 417.81 90
+OBJECT_SHARED Models/lib/shed8x10.ac -119.61159 46.31521 416.52 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -119.61190 46.31507 414.21 357.54
+OBJECT_SHARED Models/lib/shed8x10.ac -119.61178 46.31524 414.00 1.72
+# END dsf2stg

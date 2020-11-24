@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -77.58937 37.65202 0.00 330
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58972 37.65177 83.71 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58981 37.65182 83.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58987 37.65197 83.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58994 37.65116 83.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58994 37.65107 83.61 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58870 37.65179 83.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58875 37.65175 82.40 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58880 37.65172 82.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58886 37.65168 82.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58954 37.65117 82.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58965 37.65107 83.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58970 37.65101 83.43 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.59028 37.65065 83.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58844 37.65191 83.63 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58833 37.65193 82.09 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58823 37.65197 81.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58786 37.65219 81.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58814 37.65230 81.76 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58818 37.65222 82.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58845 37.65246 82.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58849 37.65238 82.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58887 37.65240 82.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58904 37.65246 83.56 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58931 37.65260 83.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.58909 37.65257 84.41 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -77.58776 37.65210 84.15 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -77.58781 37.65212 81.47 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -77.58786 37.65210 81.47 0
+# END dsf2stg

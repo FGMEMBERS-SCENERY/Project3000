@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 33.49960 35.15889 115.60 73.69
+OBJECT_SHARED Models/lib/office40x25.ac 33.49838 35.15835 115.81 68.01
+OBJECT_SHARED Models/lib/office40x25.ac 33.49755 35.15881 116.83 177.84
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 33.49878 35.15880 21.76 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 33.49948 35.15912 21.26 0
+OBJECT_SHARED Models/lib/FireStationLg.ac 33.49993 35.15766 115.66 334.22
+OBJECT_SHARED Models/lib/LongRow.ac 33.49925 35.15988 116.85 50.88
+OBJECT_SHARED Models/lib/office32x25.ac 33.49934 35.15779 114.42 90
+# END dsf2stg

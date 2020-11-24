@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.41719 41.13542 0.00 0.809998
+OBJECT_SHARED Models/lib/hangar81x16.ac -77.41434 41.13548 168.10 186.4
+OBJECT_SHARED Models/lib/hangar81x16.ac -77.41766 41.13449 166.74 97.91
+OBJECT_SHARED Models/lib/hangar81x16.ac -77.41857 41.13746 167.11 135.45
+OBJECT_SHARED Models/lib/fboModern1.ac -77.41982 41.13724 167.87 97.7
+OBJECT_SHARED Models/lib/MedHangar.ac -77.42132 41.13729 168.32 97.08
+OBJECT_SHARED Models/lib/prop_a.ac -77.41932 41.13727 168.55 276.07
+OBJECT_SHARED Models/lib/prop_a.ac -77.42132 41.13708 168.17 6.93
+OBJECT_SHARED Models/lib/prop_a.ac -77.41915 41.13729 168.57 274.36
+OBJECT_SHARED Models/lib/SmHangar.ac -77.42540 41.13697 168.14 97.85
+OBJECT_SHARED Models/lib/SmHangar.ac -77.42661 41.13670 167.37 99.8
+OBJECT_SHARED Models/lib/SmHangar.ac -77.42595 41.13687 169.35 100.05
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -77.41724 41.13503 168.21 65.61
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.41861 41.13799 167.98 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.41882 41.13811 168.53 0
+# END dsf2stg

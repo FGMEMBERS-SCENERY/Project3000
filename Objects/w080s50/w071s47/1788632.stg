@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/handicap-sign.ac -70.98496 -46.53801 428.02 68.2
-OBJECT_SHARED Models/lib/handicap-sign.ac -70.98542 -46.53789 428.21 66.63
-OBJECT_SHARED Models/lib/cars14.ac -70.98517 -46.53795 428.13 70.0152
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -70.98335 -46.53790 427.43 267.8
-OBJECT_SHARED Models/Aircraft/D328_services.xml -70.98590 -46.53742 428.58 357.71
+OBJECT_SHARED Models/lib/handicap-sign.ac -70.98496 -46.53801 0.00 68.2
+OBJECT_SHARED Models/lib/handicap-sign.ac -70.98542 -46.53789 428.02 66.63
+OBJECT_SHARED Models/lib/cars14.ac -70.98517 -46.53795 428.21 70.0152
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -70.98335 -46.53790 428.13 267.8
+OBJECT_SHARED Models/Aircraft/D328_services.xml -70.98590 -46.53742 427.43 357.71
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.98560 -46.53711 428.58 276.95
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.98371 -46.53838 427.37 338.5
-OBJECT_SHARED Models/lib/fuel-truck.xml -70.98623 -46.53773 428.58 119.09
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -70.98602 -46.53773 428.51 70.24
-OBJECT_SHARED Models/lib/SmHangar.ac -70.98392 -46.53817 427.52 249.59
-OBJECT_SHARED Models/lib/MedHangar.ac -70.98437 -46.53803 427.79 249.09
-OBJECT_SHARED Models/lib/cube16x10.ac -70.98566 -46.53783 428.36 69.88
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.98371 -46.53838 428.58 338.5
+OBJECT_SHARED Models/lib/fuel-truck.xml -70.98623 -46.53773 427.37 119.09
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -70.98602 -46.53773 428.58 70.24
+OBJECT_SHARED Models/lib/SmHangar.ac -70.98392 -46.53817 428.51 249.59
+OBJECT_SHARED Models/lib/MedHangar.ac -70.98437 -46.53803 427.52 249.09
+OBJECT_SHARED Models/lib/cube16x10.ac -70.98566 -46.53783 427.78 69.88
 # END dsf2stg

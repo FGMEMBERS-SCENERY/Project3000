@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml -28.02869 39.09090 0.00 195.11
+OBJECT_SHARED Models/lib/cars4.ac -28.02763 39.09093 28.19 104.35
+OBJECT_SHARED Models/lib/admin31x12.ac -28.02791 39.09094 28.92 103.04
+OBJECT_SHARED Models/lib/lamp10m.xml -28.02755 39.09089 28.75 -72.26
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -28.02992 39.09058 28.92 193.72
+OBJECT_SHARED Models/lib/MedHangar.ac -28.02962 39.09042 27.43 284.07
+# END dsf2stg

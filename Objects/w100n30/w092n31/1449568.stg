@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed10x50.ac -91.83116 31.62322 0.00 58.68
+OBJECT_SHARED Models/lib/shed10x50.ac -91.83146 31.62279 16.39 58.68
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -91.83267 31.62271 16.34 331.52
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -91.83252 31.62295 16.10 331.52
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -91.83236 31.62319 15.99 331.52
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -91.83107 31.62370 15.99 150.55
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -91.83197 31.62257 16.42 233.6
+OBJECT_SHARED Models/lib/shed8x10.ac -91.83130 31.62352 16.35 150.55
+# END dsf2stg

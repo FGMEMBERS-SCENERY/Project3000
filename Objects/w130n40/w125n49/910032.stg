@@ -1,7 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/LongRow.ac -124.93222 49.32036 81.41 44.0465
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -124.92690 49.31763 80.78 224.071
-OBJECT_SHARED Models/lib/MedHangar.ac -124.93246 49.32118 80.84 314.999
+OBJECT_SHARED Models/lib/4container-office.ac -124.93960 49.29005 0.00 105.24
+OBJECT_SHARED Models/lib/industrial13x24.ac -124.94228 49.28946 34.71 358.59
+OBJECT_SHARED Models/lib/prop_a.ac -124.93868 49.29015 39.47 192.68
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -124.95840 49.26850 34.22 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -124.93578 49.28841 32.00 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -124.94001 49.28803 31.98 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -124.92890 49.28785 31.99 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -124.93822 49.29075 31.98 318.2
+OBJECT_SHARED Models/lib/farm19x12.ac -124.93835 49.29113 35.20 205.33
 # END dsf2stg

@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -85.08603 41.63622 0.00 315.71
+OBJECT_SHARED Models/lib/prop_a.ac -85.08667 41.63577 298.37 314.17
+OBJECT_SHARED Models/lib/SmHangar.ac -85.08787 41.63521 298.42 266.68
+OBJECT_SHARED Models/lib/LongRow.ac -85.08065 41.63540 298.57 90
+OBJECT_SHARED Models/lib/LongRow.ac -85.08126 41.63541 298.06 90
+OBJECT_SHARED Models/lib/MedHangar.ac -85.08727 41.63519 298.09 266.98
+OBJECT_SHARED Models/lib/MedHangar.ac -85.08575 41.63561 298.44 313.1
+OBJECT_SHARED Models/lib/SmHangar.ac -85.08687 41.63503 298.27 87.93
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -85.08668 41.63515 298.33 270
+OBJECT_SHARED Models/lib/lamp10m.xml -85.08617 41.63523 298.33 -46.29
+OBJECT_SHARED Models/lib/lamp10m.xml -85.08590 41.63649 298.25 137.06
+OBJECT_SHARED Models/lib/lamp10m.xml -85.08665 41.63594 298.38 138.55
+OBJECT_SHARED Models/lib/lamp10m.xml -85.08517 41.63593 298.43 -43.06
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -85.08557 41.63573 298.27 312.27
+OBJECT_SHARED Models/Airport/cargoip.xml -85.08706 41.63520 298.28 0
+OBJECT_SHARED Models/Airport/cargoip.xml -85.08704 41.63518 298.39 0
+OBJECT_SHARED Models/Airport/cargoip.xml -85.08708 41.63518 298.38 0
+OBJECT_SHARED Models/lib/belt_loader.ac -85.08595 41.63540 298.39 270
+OBJECT_SHARED Models/lib/fuel-truck.xml -85.08660 41.63517 298.27 269.3
+# END dsf2stg

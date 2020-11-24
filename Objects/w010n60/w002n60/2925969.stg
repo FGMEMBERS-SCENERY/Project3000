@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -1.68964 60.32433 0.00 200.225
+OBJECT_SHARED Models/lib/shed8x10.ac -1.68975 60.32395 20.58 51.8426
+OBJECT_SHARED Models/Transport/hatchback_black.ac -1.69230 60.32192 20.41 266.734
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -1.69230 60.32194 21.02 273.726
+OBJECT_SHARED Models/lib/transformer3x3.ac -1.69248 60.32210 21.02 256.88
+# END dsf2stg

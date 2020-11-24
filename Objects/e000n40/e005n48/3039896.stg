@@ -1,10 +1,34 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.14550 48.38399 303.90 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.14543 48.38408 304.20 0
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 5.14561 48.38413 304.13 82.0303
-OBJECT_SHARED Models/Aircraft/Cessna172.xml 5.14654 48.38422 303.67 180
-OBJECT_SHARED Models/lib/farm19x12.ac 5.14526 48.38414 304.24 87.0549
-OBJECT_SHARED Models/lib/LongRow.ac 5.14574 48.38407 304.03 354.935
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.14558 48.38416 0.00 0
+OBJECT_SHARED Models/lib/farm19x12.ac 5.14531 48.38419 304.38 87.05
+OBJECT_SHARED Models/lib/SmHangar.ac 5.14604 48.38414 304.44 265.83
+OBJECT_SHARED Models/lib/SmHangar.ac 5.14634 48.38412 303.82 267.29
+OBJECT_SHARED Models/lib/SmHangar.ac 5.14664 48.38411 303.59 266.15
+OBJECT_SHARED Models/lib/cars2.ac 5.14537 48.38420 303.36 173.23
+OBJECT_SHARED Models/lib/prop_a.ac 5.14657 48.38422 304.43 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14529 48.38438 303.64 3.37
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14517 48.38442 304.87 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14503 48.38447 304.88 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14494 48.38452 305.09 216.87
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14725 48.38429 305.12 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14736 48.38431 303.11 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14738 48.38437 302.96 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14721 48.38433 303.13 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14710 48.38427 303.17 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14693 48.38428 303.31 225
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14672 48.38374 303.51 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14574 48.38400 294.55 225
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14589 48.38375 303.79 11.31
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14349 48.38445 294.47 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14402 48.38442 305.08 75.96
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14487 48.38387 304.63 14.04
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14754 48.38381 298.94 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14737 48.38392 292.98 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14770 48.38392 295.65 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14778 48.38422 293.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14787 48.38411 298.59 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14825 48.38405 296.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 5.14809 48.38418 294.98 0
 # END dsf2stg

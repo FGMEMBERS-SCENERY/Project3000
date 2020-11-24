@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -91.29331 31.61565 0.00 1.67001
+OBJECT_SHARED Models/lib/office32x25.ac -91.29312 31.61500 80.54 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -91.29289 31.61577 80.71 90
+OBJECT_SHARED Models/lib/LongRow.ac -91.29313 31.61355 80.47 0.379997
+OBJECT_SHARED Models/lib/LongRow.ac -91.29195 31.61304 80.77 90
+OBJECT_SHARED Models/lib/MedHangar.ac -91.29329 31.61401 80.88 0.160004
+OBJECT_SHARED Models/lib/prop_a.ac -91.29341 31.61405 80.77 179.204
+OBJECT_SHARED Models/lib/LongRow.ac -91.29250 31.61266 80.76 179.04
+OBJECT_SHARED Models/Transport/van_red.ac -91.29285 31.61494 80.73 47.4894
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.29303 31.61548 80.74 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.29285 31.61500 80.58 226.273
+OBJECT_SHARED Models/Transport/hatchback_green.ac -91.29316 31.61533 80.72 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -91.29285 31.61504 80.64 227.121
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -91.29312 31.61533 80.72 0
+# END dsf2stg

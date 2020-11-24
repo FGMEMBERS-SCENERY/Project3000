@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.02357 52.99625 0.00 306.87
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.02353 52.99623 2.31 306.03
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.02354 52.99627 2.36 302.74
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.02349 52.99625 2.31 304.51
+OBJECT_SHARED Models/lib/SmHangar.ac 7.02449 52.99695 2.30 303.96
+OBJECT_SHARED Models/lib/SmHangar.ac 7.02478 52.99707 1.89 303.96
+OBJECT_SHARED Models/lib/SmHangar.ac 7.02478 52.99707 1.89 303.96
+OBJECT_SHARED Models/lib/LongRow.ac 7.02426 52.99649 1.72 34.98
+OBJECT_SHARED Models/lib/LongRow.ac 7.02554 52.99703 2.22 34.98
+OBJECT_SHARED Models/lib/LongRow.ac 7.02591 52.99751 1.85 34.98
+OBJECT_SHARED Models/lib/LongRow.ac 7.02521 52.99722 1.47 34.98
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 7.02396 52.99651 1.65 305.22
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 7.02370 52.99640 2.20 258.11
+OBJECT_SHARED Models/Transport/hatchback_green.ac 7.02602 52.99737 2.25 236.31
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 7.02595 52.99734 1.56 252.35
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 7.02550 52.99715 1.64 246.8
+OBJECT_SHARED Models/Transport/van_silver.ac 7.02545 52.99713 1.76 244.23
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 7.02533 52.99706 1.76 252.03
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.02536 52.99709 1.75 253.14
+OBJECT_SHARED Models/Transport/hatchback_red.ac 7.02316 52.99607 1.75 354.92
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 7.02310 52.99611 2.38 356.53
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.02425 52.99671 2.37 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.02430 52.99673 2.05 35.26
+# END dsf2stg

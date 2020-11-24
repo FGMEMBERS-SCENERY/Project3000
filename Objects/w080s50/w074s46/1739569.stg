@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.51138 -45.15087 16.02 126.37
-OBJECT_SHARED Models/lib/cars4.ac -73.51140 -45.15088 16.02 35.22
-OBJECT_SHARED Models/lib/lamp10m.xml -73.51126 -45.15081 16.04 124.96
-OBJECT_SHARED Models/lib/lamp10m.xml -73.51140 -45.15088 16.02 124.93
-OBJECT_SHARED Models/lib/SmHangar.ac -73.51162 -45.15075 16.07 215.45
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.51138 -45.15087 0.00 126.37
+OBJECT_SHARED Models/lib/cars4.ac -73.51140 -45.15088 15.89 35.22
+OBJECT_SHARED Models/lib/lamp10m.xml -73.51126 -45.15081 15.89 124.96
+OBJECT_SHARED Models/lib/lamp10m.xml -73.51140 -45.15088 15.90 124.93
+OBJECT_SHARED Models/lib/SmHangar.ac -73.51162 -45.15075 15.89 215.45
 # END dsf2stg

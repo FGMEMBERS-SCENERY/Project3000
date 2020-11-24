@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.15641 38.44032 0.00 175.26
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -75.15646 38.44031 3.95 358.6
+OBJECT_SHARED Models/lib/garage-small-white.ac -75.15644 38.44026 3.95 89.68
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.15671 38.44049 3.95 184.24
+# END dsf2stg

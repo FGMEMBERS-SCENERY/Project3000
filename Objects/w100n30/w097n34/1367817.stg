@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.67294 34.19912 0.00 65.77
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -96.67301 34.19917 193.15 89.13
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -96.67299 34.19927 193.12 0
+# END dsf2stg

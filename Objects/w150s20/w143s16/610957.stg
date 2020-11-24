@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -142.26743 -15.85457 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -142.26748 -15.85454 7.99 0
+OBJECT_SHARED Models/lib/lamp10m.xml -142.26733 -15.85492 8.29 4.89002
+OBJECT_SHARED Models/lib/office3x10.ac -142.26748 -15.85452 5.82 41.93
+OBJECT_SHARED Models/lib/vending-machine.ac -142.26752 -15.85450 8.29 220.76
+OBJECT_SHARED Models/Misc/picnic_table.ac -142.26754 -15.85454 6.20 311.42
+OBJECT_SHARED Models/lib/SmHangar.ac -142.26762 -15.85431 6.20 131
+OBJECT_SHARED Models/lib/lamp10m.xml -142.26765 -15.85459 6.21 95.03
+OBJECT_SHARED Models/lib/stack_of_cones.ac -142.26764 -15.85464 6.20 0
+# END dsf2stg

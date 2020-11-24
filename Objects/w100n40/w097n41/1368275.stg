@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -96.02355 41.36994 0.00 179.9
+OBJECT_SHARED Models/lib/lamp10m.xml -96.02355 41.37009 401.09 180.15
+OBJECT_SHARED Models/lib/garages22x9.ac -96.02349 41.36861 401.10 359.59
+OBJECT_SHARED Models/lib/garages22x9.ac -96.02332 41.36871 400.69 359.3
+OBJECT_SHARED Models/lib/office6x12.ac -96.02326 41.36797 401.02 0
+OBJECT_SHARED Models/lib/cars4.ac -96.02325 41.36837 400.64 90
+OBJECT_SHARED Models/lib/cars2.ac -96.02366 41.36671 400.83 1.72
+OBJECT_SHARED Models/lib/cars4.ac -96.02356 41.36823 399.03 269.05
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.02354 41.37100 400.29 0
+# END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -69.57132 -41.32291 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -69.57135 -41.32282 885.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -69.57203 -41.32280 885.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -69.57193 -41.32277 886.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -69.57201 -41.32270 886.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -69.57186 -41.32265 886.34 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -69.57174 -41.32263 886.34 0
+OBJECT_SHARED Models/lib/propane-tank.ac -69.57175 -41.32291 886.24 9.62
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -69.57174 -41.32226 886.15 100.06
+OBJECT_SHARED Models/lib/garage-small-white.ac -69.57222 -41.32251 886.40 90
+# END dsf2stg

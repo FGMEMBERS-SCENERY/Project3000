@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 140.37510 40.19499 0.00 79.2
+OBJECT_SHARED Models/lib/MedHangar.ac 140.37458 40.19507 83.52 79.2
+OBJECT_SHARED Models/lib/belt_loader.ac 140.37097 40.19498 83.51 -10.39
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 140.37103 40.19484 83.24 170.66
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 140.37224 40.19515 83.19 169.38
+OBJECT_SHARED Models/lib/office32x25n.ac 140.37407 40.19541 83.47 259.4
+OBJECT_SHARED Models/lib/lamp10m.xml 140.37414 40.19503 83.56 79.28
+OBJECT_SHARED Models/lib/lamp10m.xml 140.37345 40.19512 83.62 79.31
+OBJECT_SHARED Models/lib/lamp10m.xml 140.37276 40.19522 83.60 80
+OBJECT_SHARED Models/lib/lamp10m.xml 140.37206 40.19532 83.61 79.94
+OBJECT_SHARED Models/lib/lamp10m.xml 140.37154 40.19539 83.53 80.44
+OBJECT_SHARED Models/Effects/taxilampblue.xml 140.35998 40.19399 83.98 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 140.36078 40.19388 76.79 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 140.38310 40.19086 77.37 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 140.38230 40.19097 85.43 0
+# END dsf2stg

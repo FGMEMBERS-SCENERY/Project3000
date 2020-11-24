@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -102.46599 45.51934 0.00 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -102.46730 45.51911 846.55 152.22
+OBJECT_SHARED Models/lib/LongRow.ac -102.46842 45.51987 846.35 0
+OBJECT_SHARED Models/lib/LongRow.ac -102.46630 45.51860 846.54 329.61
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -102.46797 45.51927 846.55 149.3
+# END dsf2stg

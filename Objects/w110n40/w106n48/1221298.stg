@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml -105.43231 48.80518 0.00 271.302
+OBJECT_SHARED Models/Transport/Norberttruck.xml -105.43268 48.80546 738.20 1.02304
+OBJECT_SHARED Models/lib/HorizTanks2.ac -105.43252 48.80458 738.17 317.26
+OBJECT_SHARED Models/lib/fuel-truck.xml -105.43202 48.80561 739.19 152.701
+OBJECT_SHARED Models/Transport/Norberttruck.xml -105.43226 48.80561 737.83 91.3971
+OBJECT_SHARED Models/Transport/Norberttruck.xml -105.43196 48.80543 737.83 1.16916
+OBJECT_SHARED Models/Misc/picnic_table.ac -105.43232 48.80490 738.01 240.642
+OBJECT_SHARED Models/lib/lamp10m.xml -105.43222 48.80492 738.49 -2.48956
+OBJECT_SHARED Models/lib/lamp10m.xml -105.43226 48.80515 738.49 0
+OBJECT_SHARED Models/lib/lamp10m.xml -105.43225 48.80538 738.29 -88.8309
+OBJECT_SHARED Models/lib/propane-tank.ac -105.43185 48.80484 738.01 271.79
+OBJECT_SHARED Models/lib/propane-tank.ac -105.43223 48.80512 738.60 3.27054
+OBJECT_SHARED Models/lib/deciduous-tree.xml -105.43197 48.80464 738.29 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -105.43191 48.80465 738.83 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -105.43217 48.80485 738.83 162.121
+OBJECT_SHARED Models/Transport/hatchback_black.ac -105.43223 48.80485 738.60 338.199
+OBJECT_SHARED Models/Transport/van_silver.ac -105.43228 48.80485 738.60 164.745
+OBJECT_SHARED Models/lib/SmHangar.ac -105.43280 48.80554 738.49 90
+OBJECT_SHARED Models/lib/SmHangar.ac -105.43245 48.80550 738.17 88.8065
+OBJECT_SHARED Models/lib/SmHangar.ac -105.43358 48.80567 737.92 316.684
+OBJECT_SHARED Models/lib/LongRow.ac -105.43435 48.80557 738.14 46.4476
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -105.43257 48.80455 738.25 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -105.43249 48.80450 739.31 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -105.43242 48.80445 738.95 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -105.43233 48.80453 738.95 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -105.43239 48.80457 738.95 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -105.43247 48.80462 738.83 0
+# END dsf2stg

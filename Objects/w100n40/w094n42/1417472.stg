@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -93.85249 42.05289 0.00 180.64
+OBJECT_SHARED Models/lib/SmHangar.ac -93.85275 42.05115 345.76 180.17
+OBJECT_SHARED Models/lib/office32x25.ac -93.85333 42.04808 346.81 90
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -93.84857 42.04858 350.19 0
+OBJECT_SHARED Models/lib/cars2.ac -93.85199 42.05187 348.14 180
+OBJECT_SHARED Models/lib/cars4.ac -93.85264 42.04783 346.38 64.09
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.85322 42.04795 351.40 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.85311 42.04795 350.41 0
+OBJECT_SHARED Models/lib/cars6.ac -93.85365 42.04777 350.55 0.470001
+OBJECT_SHARED Models/lib/cars2.ac -93.85388 42.05014 349.88 270
+OBJECT_SHARED Models/Transport/van_silver.ac -93.85361 42.04941 347.50 90
+OBJECT_SHARED Models/lib/cars6.ac -93.85409 42.04886 348.08 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -93.85378 42.04631 348.32 324
+OBJECT_SHARED Models/lib/trailer-fedex.ac -93.85375 42.04638 349.06 324
+OBJECT_SHARED Models/lib/trailer-fedex.ac -93.85371 42.04642 349.50 324
+OBJECT_SHARED Models/lib/prop_a.ac -93.85130 42.05193 349.50 269.26
+OBJECT_SHARED Models/lib/prop_a.ac -93.85173 42.05303 346.48 116.56
+OBJECT_SHARED Models/lib/cars6.ac -93.85398 42.05293 345.81 359.99
+# END dsf2stg

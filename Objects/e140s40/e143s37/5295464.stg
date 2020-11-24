@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 143.00405 -36.36155 0.00 239
+OBJECT_SHARED Models/lib/prop_a.ac 143.01810 -36.36225 118.29 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 143.00483 -36.36101 122.78 262.93
+OBJECT_SHARED Models/lib/SmHangar.ac 143.00402 -36.36160 118.77 263
+OBJECT_SHARED Models/lib/SmHangar.ac 143.00501 -36.36117 118.27 263
+OBJECT_SHARED Models/lib/SmHangar.ac 143.01800 -36.36222 118.78 175
+OBJECT_SHARED Models/lib/office16x4n.ac 143.00538 -36.36127 122.79 263
+OBJECT_SHARED Models/lib/office16x4n.ac 143.01802 -36.36193 118.78 79.7
+OBJECT_SHARED Models/Trees/billboard-tree.xml 143.00529 -36.36122 122.81 0
+# END dsf2stg

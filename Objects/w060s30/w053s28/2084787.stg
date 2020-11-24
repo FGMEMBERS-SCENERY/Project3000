@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargoip.xml -52.04837 -27.18408 0.00 0
+OBJECT_SHARED Models/Airport/cargobox.xml -52.04835 -27.18406 730.59 0
+OBJECT_SHARED Models/Airport/cargoip.xml -52.04834 -27.18404 730.59 0
+OBJECT_SHARED Models/Airport/cargoip.xml -52.04832 -27.18403 730.64 0
+OBJECT_SHARED Models/lib/SmHangar.ac -52.04694 -27.18306 730.64 48.57
+OBJECT_SHARED Models/lib/SmHangar.ac -52.04677 -27.18320 737.79 47.65
+OBJECT_SHARED Models/lib/SmHangar.ac -52.04667 -27.18328 738.19 48.55
+OBJECT_SHARED Models/lib/SmHangar.ac -52.04686 -27.18313 738.58 49.61
+OBJECT_SHARED Models/lib/hangar81x16.ac -52.05451 -27.18082 737.79 85.67
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -52.04857 -27.18390 734.99 230.22
+OBJECT_SHARED Models/lib/stack_of_cones.ac -52.04828 -27.18392 730.33 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -52.04835 -27.18387 730.60 0
+OBJECT_SHARED Models/lib/propane-tank.ac -52.04711 -27.18277 730.53 47.67
+OBJECT_SHARED Models/lib/cars4.ac -52.04847 -27.18394 736.32 231.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -52.04880 -27.18430 730.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -52.04873 -27.18416 730.31 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.04839 -27.18435 730.38 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -52.04900 -27.18376 730.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -52.04895 -27.18368 729.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -52.04801 -27.18448 729.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -52.04810 -27.18446 731.39 0
+# END dsf2stg

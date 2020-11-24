@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -0.80217 44.85192 0.00 99.39
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.80271 44.85185 40.25 285.84
+OBJECT_SHARED Models/Transport/van_silver.ac -0.80278 44.85184 40.23 313.95
+OBJECT_SHARED Models/lib/stack_of_cones.ac -0.80504 44.85183 40.23 350.06
+OBJECT_SHARED Models/lib/stack_of_cones.ac -0.80233 44.85243 42.72 350.06
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.80260 44.85239 40.57 280.51
+OBJECT_SHARED Models/Transport/van_silver.ac -0.80326 44.85229 40.59 192.02
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.80408 44.85218 40.57 244.59
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.80188 44.85247 41.59 145.17
+OBJECT_SHARED Models/lib/SmHangar.ac -0.80386 44.85223 40.60 100.69
+OBJECT_SHARED Models/lib/cars6.ac -0.80453 44.85228 41.16 190.76
+# END dsf2stg

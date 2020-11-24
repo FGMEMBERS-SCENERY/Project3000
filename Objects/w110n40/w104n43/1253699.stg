@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -103.23094 43.11218 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -103.23094 43.11121 1039.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -103.23070 43.10933 1039.70 0
+OBJECT_SHARED Models/lib/shed8x10.ac -103.23095 43.11192 1040.49 90
+OBJECT_SHARED Models/lib/shed8x10.ac -103.23094 43.11152 1039.23 270
+# END dsf2stg

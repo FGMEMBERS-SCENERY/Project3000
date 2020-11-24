@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -9.40651 30.32880 0.00 270.26
+OBJECT_SHARED Models/lib/large-hangar.ac -9.41594 30.32912 68.39 358.41
+OBJECT_SHARED Models/lib/large-hangar.ac -9.41512 30.32910 64.08 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.41172 30.32747 64.44 358.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.41045 30.32744 66.06 358.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.40917 30.32741 66.66 358.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.40786 30.32861 67.29 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.41104 30.32869 67.78 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.40850 30.32863 66.28 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.41168 30.32870 67.48 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.40913 30.32864 65.99 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.41232 30.32872 67.19 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.40977 30.32866 65.70 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.41295 30.32873 66.88 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.41041 30.32867 65.42 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.41678 30.32882 66.57 178.41
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -9.41359 30.32875 63.72 178.41
+# END dsf2stg

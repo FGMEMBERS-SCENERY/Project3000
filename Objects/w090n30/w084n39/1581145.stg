@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -83.70433 39.43945 0.00 135.62
+OBJECT_SHARED Models/lib/shed8x10.ac -83.70486 39.43873 328.83 135
+OBJECT_SHARED Models/lib/shed10x50.ac -83.70554 39.43942 329.46 225.5
+OBJECT_SHARED Models/lib/shed10x50.ac -83.70523 39.43918 329.32 225.5
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -83.70473 39.43965 329.31 44.58
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -83.70427 39.43930 328.82 45.48
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -83.70545 39.43832 328.90 45.48
+# END dsf2stg

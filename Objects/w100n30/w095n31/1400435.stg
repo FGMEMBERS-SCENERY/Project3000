@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -94.15417 31.83281 0.00 16.85
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -94.15367 31.83135 97.30 0
+OBJECT_SHARED Models/lib/SmHangar.ac -94.15413 31.83258 96.67 106.48
+OBJECT_SHARED Models/lib/SmHangar.ac -94.15407 31.83232 97.29 289.8
+OBJECT_SHARED Models/lib/LongRow.ac -94.15413 31.82914 96.95 33.82
+OBJECT_SHARED Models/lib/MedHangar.ac -94.15320 31.82974 92.99 30.84
+OBJECT_SHARED Models/lib/MedHangar.ac -94.15180 31.82666 95.31 329.82
+OBJECT_SHARED Models/lib/SmHangar.ac -94.15401 31.83183 92.36 13.97
+# END dsf2stg

@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.75713 41.12668 990.38 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.75726 41.12669 998.45 331.93
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.75741 41.12667 998.45 110.56
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.75758 41.12672 998.45 38.85
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.75772 41.12676 1000.58 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.75782 41.12665 1001.05 317.73
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.75782 41.12651 1000.10 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.75785 41.12641 999.62 277.13
+OBJECT_SHARED Models/Trees/billboard-tree.xml -101.75815 41.12628 999.14 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.77493 41.12709 998.66 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.77534 41.12682 1006.59 125.54
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.77527 41.12689 1004.89 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.77414 41.12716 1005.46 333.44
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.77425 41.12712 1004.01 257.74
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.77435 41.12708 1003.49 329.04
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.77393 41.12719 1003.49 333.44
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.77379 41.12722 1004.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.77329 41.12733 1004.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.77343 41.12731 1001.40 0
+OBJECT_SHARED Models/lib/shed8x10.ac -101.75817 41.12638 988.82 184.46
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -101.75797 41.12658 999.14 85.35
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -101.77498 41.12679 1000.10 13.24
+OBJECT_SHARED Models/lib/shed8x10.ac -101.77423 41.12688 1004.89 273.88
+OBJECT_SHARED Models/lib/industrial13x24.ac -101.77455 41.12705 1002.38 185.56
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.77376 41.12707 1006.02 17.77
+OBJECT_SHARED Models/lib/trailer-fedex.ac -101.77309 41.12694 1003.49 14.96
+# END dsf2stg

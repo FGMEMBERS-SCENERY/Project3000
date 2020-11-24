@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac 2.80172 50.32119 0.00 228.12
+OBJECT_SHARED Models/lib/office3x10.ac 2.80164 50.32127 97.67 228.12
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 2.80343 50.32255 97.74 135.45
+OBJECT_SHARED Models/lib/transformer3x3.ac 2.80264 50.32162 98.50 138.08
+OBJECT_SHARED Models/lib/garage-small-white.ac 2.80284 50.32185 97.93 42.56
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 2.80317 50.32225 98.06 313.58
+OBJECT_SHARED Models/Misc/picnic_table.ac 2.80218 50.32178 98.39 136.13
+OBJECT_SHARED Models/Misc/picnic_table.ac 2.80222 50.32181 98.08 136.13
+OBJECT_SHARED Models/Misc/picnic_table.ac 2.80225 50.32183 98.08 136.13
+OBJECT_SHARED Models/Misc/picnic_table.ac 2.80229 50.32186 98.08 136.13
+OBJECT_SHARED Models/Misc/picnic_table.ac 2.80233 50.32188 98.14 136.71
+OBJECT_SHARED Models/lib/cars10.ac 2.80233 50.32139 98.15 87.49
+OBJECT_SHARED Models/lib/cars6.ac 2.80189 50.32121 97.80 48.34
+OBJECT_SHARED Models/lib/cars4.ac 2.80167 50.32106 97.67 48.34
+OBJECT_SHARED Models/lib/cars6.ac 2.80253 50.32174 97.60 41.78
+OBJECT_SHARED Models/lib/cars6.ac 2.80291 50.32177 98.01 221.75
+OBJECT_SHARED Models/lib/deciduous-tree.xml 2.80207 50.32092 98.06 145.3
+OBJECT_SHARED Models/lib/deciduous-tree.xml 2.80248 50.32104 97.28 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 2.80300 50.32178 97.64 0
+# END dsf2stg

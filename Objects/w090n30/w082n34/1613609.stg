@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -81.64110 34.68534 0.00 313.24
+OBJECT_SHARED Models/lib/LongRow.ac -81.64079 34.68558 176.66 313.24
+OBJECT_SHARED Models/lib/office4x14.ac -81.64157 34.68430 176.97 311.03
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64164 34.68550 176.03 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64178 34.68549 176.76 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64189 34.68556 176.56 42.31
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64197 34.68525 176.43 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64194 34.68536 176.39 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64202 34.68546 176.48 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64207 34.68572 176.35 310.81
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64220 34.68563 176.17 312.95
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64223 34.68588 176.09 41.58
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64228 34.68594 175.93 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64223 34.68602 175.81 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64237 34.68577 175.86 42.94
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64245 34.68580 175.75 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -81.64253 34.68578 175.75 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.64151 34.68498 175.13 -30
+OBJECT_SHARED Models/lib/lamp10m.xml -81.64106 34.68452 176.28 59.4
+OBJECT_SHARED Models/lib/lamp10m.xml -81.64029 34.68488 176.21 -41.66
+OBJECT_SHARED Models/Transport/van_red.ac -81.64142 34.68457 177.07 131.44
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -81.64070 34.68534 176.08 42.56
+OBJECT_SHARED Models/Transport/van_red.ac -81.64058 34.68479 176.98 314.17
+OBJECT_SHARED Models/lib/prop_a.ac -81.64043 34.68501 176.82 135.18
+OBJECT_SHARED Models/Transport/van_red.ac -81.64144 34.68430 177.05 42.19
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.64143 34.68477 175.68 313.19
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -81.64148 34.68486 176.30 308.78
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -81.64144 34.68485 176.26 316.61
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.64152 34.68488 176.30 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.64151 34.68493 176.26 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -81.64154 34.68496 176.26 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.64280 34.68422 176.28 245.4
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.64291 34.68421 174.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -81.64275 34.68428 174.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.64244 34.68396 174.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.64215 34.68410 173.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.64202 34.68409 174.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.64192 34.68414 175.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.64106 34.68459 175.16 0
+OBJECT_SHARED Models/lib/2vending-machines.ac -81.64123 34.68474 176.32 221.1
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -81.64125 34.68471 176.37 313.32
+OBJECT_SHARED Models/Misc/picnic_table.ac -81.64126 34.68474 176.37 44.21
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -81.64177 34.68472 176.29 41.51
+OBJECT_SHARED Models/lib/6space_wStop.ac -81.64159 34.68422 175.93 130.66
+OBJECT_SHARED Models/lib/6space_wStop.ac -81.64142 34.68434 175.40 130.75
+OBJECT_SHARED Models/lib/4space_wStop.ac -81.64143 34.68454 175.68 220.29
+OBJECT_SHARED Models/lib/6space_wStop.ac -81.64155 34.68466 175.95 223.32
+OBJECT_SHARED Models/lib/6space_wStop.ac -81.64142 34.68480 176.07 43.21
+# END dsf2stg

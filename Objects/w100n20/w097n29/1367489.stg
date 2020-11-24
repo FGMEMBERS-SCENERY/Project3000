@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.58468 29.00219 16.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.58463 29.00205 18.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.58560 29.00413 15.18 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.58570 29.00391 18.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.58572 29.00403 18.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56719 29.00071 18.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56702 29.00078 15.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56701 29.00055 15.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56699 29.00049 15.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56692 29.00052 15.05 113.2
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56697 29.00061 15.03 198.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56705 29.00064 15.11 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56707 29.00057 15.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56710 29.00047 15.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56704 29.00041 15.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56731 29.00039 13.62 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56722 29.00046 13.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56732 29.00053 15.11 261.87
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56739 29.00058 15.13 201.8
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56738 29.00064 15.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56745 29.00058 15.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56751 29.00052 15.24 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56779 29.00028 15.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56773 29.00034 13.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56776 29.00040 13.14 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.56783 29.00035 13.90 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.58550 29.00389 15.50 299.43
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.58570 29.00378 18.30 299.31
+OBJECT_SHARED Models/lib/prop_a.ac -96.58394 29.00244 18.29 121.66
+OBJECT_SHARED Models/lib/garden-shed.ac -96.58557 29.00405 18.11 304.69
+OBJECT_SHARED Models/lib/2container-office.ac -96.58562 29.00399 18.32 303.33
+# END dsf2stg

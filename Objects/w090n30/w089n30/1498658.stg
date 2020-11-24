@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -88.26998 30.50225 0.00 300.63
+OBJECT_SHARED Models/lib/cars6.ac -88.27043 30.50201 39.21 210.46
+OBJECT_SHARED Models/lib/cars6.ac -88.27070 30.50204 39.23 30.93
+OBJECT_SHARED Models/lib/prop_a.ac -88.26995 30.50299 39.22 209.75
+OBJECT_SHARED Models/lib/prop_a.ac -88.27056 30.50250 39.14 24.86
+OBJECT_SHARED Models/lib/prop_a.ac -88.27076 30.50278 39.18 34.82
+OBJECT_SHARED Models/lib/LongRow.ac -88.26883 30.50280 38.98 121.14
+OBJECT_SHARED Models/lib/LongRow.ac -88.27125 30.50155 39.10 121.13
+OBJECT_SHARED Models/lib/office4x14.ac -88.27438 30.50061 37.24 289.04
+# END dsf2stg

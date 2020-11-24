@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -84.85038 34.12419 0.00 180
+OBJECT_SHARED Models/lib/office4x14.ac -84.85042 34.11763 223.92 268.63
+OBJECT_SHARED Models/lib/hangar81x16.ac -84.85028 34.12288 223.46 88.21
+OBJECT_SHARED Models/lib/MedHangar.ac -84.85028 34.11787 224.88 177.05
+OBJECT_SHARED Models/lib/fboModern1.ac -84.85021 34.12160 228.51 177.61
+OBJECT_SHARED Models/lib/MedHangar.ac -84.85032 34.11919 225.86 177.27
+OBJECT_SHARED Models/lib/MedHangar.ac -84.85035 34.11870 227.46 176.98
+OBJECT_SHARED Models/lib/hangar81x16.ac -84.85055 34.11953 227.86 86.3
+OBJECT_SHARED Models/lib/hangar81x16.ac -84.85050 34.12026 227.04 86.3
+OBJECT_SHARED Models/lib/SmHangar.ac -84.84992 34.12426 223.17 88.98
+OBJECT_SHARED Models/lib/SmHangar.ac -84.85017 34.12426 224.48 90
+OBJECT_SHARED Models/lib/SmHangar.ac -84.85001 34.12449 224.10 270.14
+OBJECT_SHARED Models/lib/SmHangar.ac -84.85026 34.12450 224.24 270.23
+OBJECT_SHARED Models/lib/MedHangar.ac -84.85020 34.12267 223.85 178.22
+OBJECT_SHARED Models/lib/MedHangar.ac -84.85001 34.12383 225.13 89.67
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -84.85042 34.12435 224.67 180.7
+OBJECT_SHARED Models/lib/industrial13x24.ac -84.85052 34.12404 223.85 359.63
+OBJECT_SHARED Models/Misc/6barrels.ac -84.85052 34.12381 223.93 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -84.85054 34.12205 224.06 178.73
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -84.85054 34.12200 225.19 178.57
+OBJECT_SHARED Models/lib/admin31x12.ac -84.85153 34.12246 225.26 178.97
+OBJECT_SHARED Models/lib/prop_a.ac -84.85009 34.12362 224.77 246.41
+OBJECT_SHARED Models/lib/prop_a.ac -84.85000 34.12341 224.69 180
+OBJECT_SHARED Models/lib/prop_a.ac -84.85017 34.12080 224.94 176.65
+OBJECT_SHARED Models/lib/prop_a.ac -84.84987 34.12347 226.40 358.39
+OBJECT_SHARED Models/lib/prop_a.ac -84.84990 34.12299 225.00 358.14
+OBJECT_SHARED Models/lib/prop_a.ac -84.84973 34.12275 225.28 180
+OBJECT_SHARED Models/lib/prop_a.ac -84.84969 34.12318 225.63 175.6
+OBJECT_SHARED Models/lib/prop_a.ac -84.85006 34.12456 225.40 268.23
+OBJECT_SHARED Models/lib/prop_a.ac -84.84967 34.12340 224.05 180.86
+OBJECT_SHARED Models/lib/prop_a.ac -84.84966 34.12351 225.29 174.41
+OBJECT_SHARED Models/lib/4space_wStop.ac -84.85027 34.11842 225.24 87.86
+OBJECT_SHARED Models/lib/4space_wStop.ac -84.85077 34.11760 228.08 268.65
+OBJECT_SHARED Models/lib/2space_wStop.ac -84.85205 34.12246 223.26 179.47
+OBJECT_SHARED Models/lib/4space_wStop.ac -84.85182 34.12233 225.12 359.44
+OBJECT_SHARED Models/lib/4space_wStop.ac -84.85177 34.12252 224.94 178.38
+OBJECT_SHARED Models/lib/2space_wStop.ac -84.85204 34.12249 225.01 179.75
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85250 34.12256 225.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85253 34.12248 225.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85247 34.12249 225.19 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85129 34.12271 225.19 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85121 34.12272 224.72 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85103 34.12260 224.67 45
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85144 34.12267 224.35 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85137 34.12237 224.77 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85122 34.12222 224.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85177 34.12217 224.58 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.85199 34.12265 224.90 0
+# END dsf2stg

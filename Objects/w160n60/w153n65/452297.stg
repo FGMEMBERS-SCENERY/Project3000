@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -152.10944 65.17311 0.00 44.35
+OBJECT_SHARED Models/Trees/billboard-tree.xml -152.11079 65.17362 61.76 185.91
+OBJECT_SHARED Models/Trees/billboard-tree.xml -152.11074 65.17366 62.13 227.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -152.11069 65.17369 62.23 254.05
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -152.11054 65.17367 62.23 262.41
+OBJECT_SHARED Models/Transport/hatchback_red.ac -152.10890 65.17353 62.23 265.6
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -152.10891 65.17356 62.15 270
+OBJECT_SHARED Models/lib/office8x14.ac -152.10987 65.17319 62.24 90.61
+# END dsf2stg

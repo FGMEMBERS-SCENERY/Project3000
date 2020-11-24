@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office8x14.ac 16.25347 38.90764 10.05 84.0536
-OBJECT_SHARED Models/lib/lamp10m.xml 16.25029 38.90869 9.28 0
-OBJECT_SHARED Models/lib/lamp10m.xml 16.25245 38.90847 10.02 0
-OBJECT_SHARED Models/lib/fuel-truck.xml 16.25357 38.90771 10.14 83.9275
-OBJECT_SHARED Models/lib/fuel-truck.xml 16.25378 38.90814 10.43 352.147
-OBJECT_SHARED Models/lib/fuel-truck.xml 16.25377 38.90775 10.22 336.802
+OBJECT_SHARED Models/lib/office8x14.ac 16.25347 38.90764 0.00 84.05
+OBJECT_SHARED Models/lib/lamp10m.xml 16.25029 38.90869 9.10 0
+OBJECT_SHARED Models/lib/lamp10m.xml 16.25245 38.90847 9.32 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 16.25357 38.90771 10.06 83.93
+OBJECT_SHARED Models/lib/fuel-truck.xml 16.25378 38.90814 10.17 352.15
+OBJECT_SHARED Models/lib/fuel-truck.xml 16.25377 38.90775 10.46 336.8
 # END dsf2stg

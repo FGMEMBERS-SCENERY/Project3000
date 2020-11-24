@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 150.62203 -32.38165 0.00 234.1
+OBJECT_SHARED Models/Misc/6barrels.ac 150.62242 -32.38179 120.03 335.66
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 150.62244 -32.38180 119.77 128.45
+OBJECT_SHARED Models/Misc/6barrels.ac 150.62242 -32.38178 119.77 262.65
+OBJECT_SHARED Models/Transport/hatchback_red.ac 150.62246 -32.38191 123.04 179.35
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 150.62248 -32.38190 119.64 201.96
+OBJECT_SHARED Models/Misc/picnic_table.ac 150.62207 -32.38176 119.64 145.24
+OBJECT_SHARED Models/lib/office8x14.ac 150.62372 -32.38103 119.77 179.4
+OBJECT_SHARED Models/lib/office8x14.ac 150.62404 -32.37801 135.92 131.67
+OBJECT_SHARED Models/lib/office8x14.ac 150.62415 -32.37792 129.63 132.21
+OBJECT_SHARED Models/lib/office8x14.ac 150.62447 -32.37887 129.46 145.52
+OBJECT_SHARED Models/lib/office8x14.ac 150.62464 -32.37871 131.22 145.46
+OBJECT_SHARED Models/lib/industrial13x24.ac 150.62278 -32.37972 135.36 318.58
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.60829 -32.37962 117.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.60858 -32.37992 113.28 11.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.60912 -32.38039 113.88 32
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.60946 -32.38069 114.19 39.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.60990 -32.38100 114.08 38.66
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61013 -32.38117 114.07 26.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61074 -32.38145 113.64 46.73
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61106 -32.38165 113.30 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61159 -32.38184 113.27 26.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61212 -32.38205 115.02 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61264 -32.38226 114.76 29.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61310 -32.38244 115.41 63.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62142 -32.38079 115.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62129 -32.38066 120.31 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62091 -32.38034 120.44 183.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62080 -32.38017 121.00 86.19
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62062 -32.37998 121.14 185.19
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62039 -32.38004 120.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62055 -32.38023 120.71 7.42999
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62055 -32.38029 121.14 2.20001
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62054 -32.38038 121.00 213.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62037 -32.38035 120.85 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.62047 -32.38027 120.30 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61891 -32.37856 120.30 128.66
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61897 -32.37882 122.18 195.12
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61734 -32.37690 121.89 177.95
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.61688 -32.37657 123.75 181.66
+# END dsf2stg

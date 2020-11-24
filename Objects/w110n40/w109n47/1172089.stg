@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -108.50432 47.91117 0.00 267.138
+OBJECT_SHARED Models/lib/garden-shed.ac -108.50285 47.91093 1193.74 317.489
+OBJECT_SHARED Models/lib/farm19x12.ac -108.50153 47.91067 1193.68 82.7534
+OBJECT_SHARED Models/lib/farm19x12.ac -108.50175 47.91086 1193.45 144.205
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -108.50050 47.90992 1189.74 90
+OBJECT_SHARED Models/lib/shed8x10.ac -108.50033 47.91015 1192.89 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -108.50104 47.91045 1191.98 140.195
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -108.50128 47.91073 1192.91 315
+OBJECT_SHARED Models/Transport/van_silver.ac -108.50172 47.91044 1192.92 178.21
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -108.50202 47.91051 1193.53 327.725
+OBJECT_SHARED Models/Transport/hatchback_black.ac -108.50180 47.91046 1193.52 176.82
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -108.50191 47.91046 1193.52 148.914
+OBJECT_SHARED Models/Transport/hatchback_black.ac -108.50207 47.91054 1193.52 321.843
+OBJECT_SHARED Models/lib/propane-tank.ac -108.50261 47.91149 1193.52 328.392
+OBJECT_SHARED Models/lib/propane-tank.ac -108.50022 47.90958 1193.34 4.23646
+OBJECT_SHARED Models/lib/lamp10m.xml -108.50015 47.90966 1191.66 94.7636
+OBJECT_SHARED Models/lib/farm19x12.ac -108.50211 47.91072 1191.72 220.369
+OBJECT_SHARED Models/lib/SmHangar.ac -108.50406 47.91094 1193.45 221.146
+# END dsf2stg

@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -80.60760 46.09057 0.00 0
+OBJECT_SHARED Models/lib/shed8x10.ac -80.60557 46.09005 212.56 358.82
+OBJECT_SHARED Models/lib/shed8x10.ac -80.60749 46.09019 213.40 179.54
+OBJECT_SHARED Models/lib/propane-tank.ac -80.60445 46.09000 212.56 149.94
+OBJECT_SHARED Models/lib/cone.ac -80.60442 46.08998 213.95 119.16
+OBJECT_SHARED Models/lib/stack_of_cones.ac -80.60422 46.09000 213.95 119.16
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -80.60424 46.08991 214.04 179.4
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -80.60427 46.08992 214.04 119.16
+OBJECT_SHARED Models/Misc/6barrels.ac -80.60433 46.09008 213.99 119.16
+OBJECT_SHARED Models/Misc/6barrels.ac -80.60432 46.09010 213.99 119.16
+OBJECT_SHARED Models/lib/2vending-machines.ac -80.60442 46.08999 213.99 331.36
+OBJECT_SHARED Models/lib/cone.ac -80.60601 46.09038 213.95 238.22
+OBJECT_SHARED Models/lib/stack_of_cones.ac -80.60614 46.09049 213.23 238.22
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -80.60602 46.09036 213.19 180.07
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -80.60601 46.09049 213.23 238.22
+OBJECT_SHARED Models/Misc/6barrels.ac -80.60619 46.09038 213.23 238.22
+OBJECT_SHARED Models/Misc/6barrels.ac -80.60621 46.09038 213.14 238.22
+OBJECT_SHARED Models/lib/2vending-machines.ac -80.60602 46.09037 213.14 90.42
+OBJECT_SHARED Models/lib/cone.ac -80.60600 46.09056 213.23 238.22
+OBJECT_SHARED Models/lib/stack_of_cones.ac -80.60613 46.09067 213.23 238.22
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -80.60602 46.09054 213.19 180.07
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -80.60601 46.09067 213.23 238.22
+OBJECT_SHARED Models/Misc/6barrels.ac -80.60618 46.09056 213.23 238.22
+OBJECT_SHARED Models/Misc/6barrels.ac -80.60621 46.09056 213.15 238.22
+OBJECT_SHARED Models/lib/2vending-machines.ac -80.60602 46.09055 213.15 90.42
+# END dsf2stg

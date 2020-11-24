@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -92.76667 33.61456 0.00 243.28
+OBJECT_SHARED Models/lib/shed10x50.ac -92.76879 33.61643 37.39 332.04
+OBJECT_SHARED Models/lib/shed10x50.ac -92.76883 33.61628 37.07 332.04
+OBJECT_SHARED Models/lib/LongRow.ac -92.76846 33.61633 37.10 332.23
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -92.76698 33.61482 37.05 243.5
+OBJECT_SHARED Models/lib/large-hangar.ac -92.76688 33.61574 37.43 152.93
+OBJECT_SHARED Models/lib/large-hangar.ac -92.76853 33.61554 37.02 152.93
+OBJECT_SHARED Models/lib/office112x50.ac -92.76767 33.61400 37.05 152.26
+# END dsf2stg

@@ -1,6 +1,6 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -76.22827 -13.75541 4.95 27.45
-OBJECT_SHARED Models/lib/SmHangar.ac -76.22853 -13.75565 4.89 298.35
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -76.22383 -13.75071 7.83 24.27
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -76.22821 -13.75544 7.85 86.91
 # END dsf2stg

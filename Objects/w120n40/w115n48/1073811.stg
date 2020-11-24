@@ -1,21 +1,32 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/stack_of_cones.ac -114.24813 48.31335 904.87 0
-OBJECT_SHARED Models/Misc/picnic_table.ac -114.24833 48.31319 904.84 348.26
-OBJECT_SHARED Models/lib/MedHangar.ac -114.24726 48.31426 905.22 324.78
-OBJECT_SHARED Models/lib/SmHangar.ac -114.24955 48.30745 903.01 313.4
-OBJECT_SHARED Models/lib/NoParkStripes.xml -114.24782 48.30859 903.37 40.65
-OBJECT_SHARED Models/lib/lamp10m.xml -114.24539 48.31608 905.77 56.42
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -114.24556 48.31437 905.29 206.9
-OBJECT_SHARED Models/lib/LongRow.ac -114.24657 48.31471 905.33 325.24
-OBJECT_SHARED Models/lib/LongRow.ac -114.24994 48.30769 903.08 42.89
-OBJECT_SHARED Models/lib/SmHangar.ac -114.24913 48.30828 903.26 313.23
-OBJECT_SHARED Models/lib/MedHangar.ac -114.24967 48.30951 903.62 312.55
-OBJECT_SHARED Models/lib/LongRow.ac -114.24595 48.31372 905.08 323.53
-OBJECT_SHARED Models/lib/LongRow.ac -114.24690 48.31381 905.07 324.57
-OBJECT_SHARED Models/lib/MedHangar.ac -114.24642 48.31217 904.61 56.48
-OBJECT_SHARED Models/lib/MedHangar.ac -114.24795 48.31351 904.93 323.73
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -114.24779 48.30857 903.37 311.54
-OBJECT_SHARED Models/lib/LongRow.ac -114.24525 48.31601 905.75 325.24
+OBJECT_SHARED Models/lib/deciduous-tree.xml -114.18227 48.29073 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -114.18314 48.28986 934.77 206.565
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -114.18300 48.28987 934.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -114.18276 48.28987 934.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -114.18272 48.28997 934.29 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.18258 48.29007 934.40 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.18302 48.29004 934.51 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.18324 48.28995 934.40 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -114.18333 48.28992 934.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -114.18200 48.29062 934.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -114.18342 48.29038 934.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -114.18338 48.29045 934.85 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -114.18307 48.29045 934.85 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -114.18277 48.29046 934.85 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -114.18259 48.29045 934.96 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -114.18259 48.29038 934.85 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -114.18262 48.29029 934.85 0
+OBJECT_SHARED Models/lib/shed8x10.ac -114.18335 48.29061 934.74 6.95284
+OBJECT_SHARED Models/lib/garden-shed.ac -114.18263 48.28992 935.07 7.59458
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -114.18300 48.28996 934.29 78.8897
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -114.18298 48.28968 934.40 5.1944
+OBJECT_SHARED Models/Misc/picnic_table.ac -114.18443 48.28930 934.11 0
+OBJECT_SHARED Models/lib/farm19x12.ac -114.18469 48.28944 933.66 164.235
+OBJECT_SHARED Models/lib/shed8x10.ac -114.18436 48.28876 933.31 90.3778
+OBJECT_SHARED Models/Transport/van_red.ac -114.18284 48.28835 933.23 48.0127
+OBJECT_SHARED Models/Transport/hatchback_green.ac -114.18280 48.28837 933.06 233.972
+OBJECT_SHARED Models/lib/propane-tank.ac -114.18285 48.28873 933.06 352.875
+OBJECT_SHARED Models/lib/SmHangar.ac -114.18314 48.28857 933.31 177.292
 # END dsf2stg

@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -94.65545 56.35427 0.00 239.23
+OBJECT_SHARED Models/lib/cars10.ac -94.65564 56.35363 136.41 57.47
+OBJECT_SHARED Models/Misc/6barrels.ac -94.65558 56.35375 136.96 0
+OBJECT_SHARED Models/Misc/6barrels.ac -94.65557 56.35373 136.71 270
+OBJECT_SHARED Models/Misc/6barrels.ac -94.65560 56.35372 136.71 0
+OBJECT_SHARED Models/lib/office4x14.ac -94.65528 56.35405 136.71 319.84
+OBJECT_SHARED Models/lib/SmHangar.ac -94.65584 56.35379 136.07 57.86
+# END dsf2stg

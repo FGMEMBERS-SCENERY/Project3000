@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac 5.06889 50.70607 0.00 217.04
+OBJECT_SHARED Models/lib/cars10.ac 5.06880 50.70623 122.82 36.11
+OBJECT_SHARED Models/lib/cars10.ac 5.06924 50.70623 122.67 217
+OBJECT_SHARED Models/lib/transformer3x3.ac 5.06978 50.70660 122.54 42.53
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.06950 50.70642 121.62 270
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.06955 50.70645 122.09 270
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.06959 50.70648 121.90 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 5.07001 50.70630 121.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.07112 50.70669 121.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.07119 50.70673 121.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.07124 50.70679 121.37 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.07130 50.70685 121.09 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.07141 50.70689 121.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.07149 50.70694 120.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.07153 50.70699 121.02 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.07163 50.70704 120.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.07172 50.70710 120.71 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 5.07182 50.70713 120.37 0
+# END dsf2stg

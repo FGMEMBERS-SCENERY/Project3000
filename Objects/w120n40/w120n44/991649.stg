@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -119.55950 44.59234 0.00 40.81
+OBJECT_SHARED Models/lib/garage-small-white.ac -119.56019 44.59218 1204.64 122.74
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.56176 44.59253 1203.84 35.54
+OBJECT_SHARED Models/lib/stack_of_cones.ac -119.56157 44.59239 1196.01 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.56173 44.59250 1195.96 34.05
+OBJECT_SHARED Models/lib/prop_a.ac -119.56220 44.59237 1196.01 218.48
+OBJECT_SHARED Models/lib/prop_a.ac -119.56188 44.59206 1195.96 216.36
+OBJECT_SHARED Models/lib/prop_a.ac -119.56198 44.59215 1195.81 215.12
+OBJECT_SHARED Models/lib/prop_a.ac -119.56208 44.59225 1195.81 215.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.56693 44.59195 1195.91 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.56405 44.59216 1190.87 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55940 44.59198 1196.91 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.56027 44.59161 1217.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55965 44.59225 1203.79 0
+OBJECT_SHARED Models/lib/garden-shed.ac -119.55975 44.59251 1203.84 127.57
+OBJECT_SHARED Models/lib/garden-shed.ac -119.55977 44.59270 1206.80 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55994 44.59271 1208.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.56015 44.59272 1208.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55959 44.59259 1208.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55931 44.59251 1207.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55924 44.59266 1223.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55899 44.59304 1225.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55837 44.59315 1228.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.55865 44.59315 1250.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.56047 44.59237 1229.92 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.56059 44.59286 1205.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.56184 44.59260 1193.48 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.56127 44.59276 1196.06 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -119.56125 44.59272 1193.24 0
+OBJECT_SHARED Models/lib/garden-shed.ac -119.56160 44.59288 1196.93 129.094
+OBJECT_SHARED Models/lib/garden-shed.ac -119.56167 44.59285 1196.27 128.66
+OBJECT_SHARED Models/lib/garden-shed.ac -119.56174 44.59281 1196.19 129.094
+# END dsf2stg

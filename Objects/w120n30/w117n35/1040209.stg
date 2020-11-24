@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fboModern1.ac -116.63472 35.26979 717.25 249.65
-OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -116.63551 35.26961 626.08 0
-OBJECT_SHARED Models/lib/office32x25n.ac -116.63383 35.26865 718.10 70.02
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -116.63416 35.26955 716.98 67.67
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -116.63312 35.26942 716.68 73.1
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -116.63524 35.26995 717.00 163.69
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -116.63556 35.27005 717.50 159.86
-OBJECT_SHARED Models/lib/fuel-truck.xml -116.63429 35.26965 716.98 155.88
+OBJECT_SHARED Models/lib/fboModern1.ac -116.63472 35.26979 0.00 249.65
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -116.63551 35.26961 625.25 0
+OBJECT_SHARED Models/lib/office32x25n.ac -116.63383 35.26865 718.09 70.02
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -116.63416 35.26955 718.11 67.67
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -116.63312 35.26942 716.98 73.1
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -116.63524 35.26995 716.68 163.69
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -116.63556 35.27005 717.00 159.86
+OBJECT_SHARED Models/lib/fuel-truck.xml -116.63429 35.26965 717.50 155.88
 # END dsf2stg

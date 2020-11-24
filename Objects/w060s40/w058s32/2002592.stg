@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -57.98061 -31.43771 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -57.98054 -31.43760 39.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -57.98073 -31.43829 39.16 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -57.98114 -31.43822 39.39 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -57.98615 -31.42941 39.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -57.98569 -31.42944 33.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -57.98479 -31.42975 33.93 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -57.98546 -31.42993 33.95 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -57.98597 -31.42955 33.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -57.98504 -31.42966 33.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -57.98587 -31.42973 33.91 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -57.98045 -31.43815 33.86 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -57.98044 -31.43795 39.32 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -57.98034 -31.43779 39.27 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -57.98020 -31.43788 39.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -57.98031 -31.43802 39.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -57.98057 -31.43806 39.26 0
+OBJECT_SHARED Models/lib/shed8x10.ac -57.98129 -31.43858 39.31 319.3
+OBJECT_SHARED Models/lib/industrial13x24.ac -57.98095 -31.43820 39.50 232.7
+OBJECT_SHARED Models/lib/shed8x10.ac -57.98050 -31.43855 39.37 49.4
+OBJECT_SHARED Models/Transport/van_red.ac -57.98055 -31.43802 39.44 172.45
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -57.98033 -31.43784 39.27 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -57.98038 -31.43782 39.21 352.24
+OBJECT_SHARED Models/lib/HorizTanks2.ac -57.98002 -31.43661 39.21 143.14
+OBJECT_SHARED Models/lib/shed8x10.ac -57.98005 -31.43719 38.87 144.92
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -57.98621 -31.42975 39.03 1.38
+OBJECT_SHARED Models/lib/SmHangar.ac -57.98591 -31.42989 33.83 54.29
+OBJECT_SHARED Models/lib/lamp10m.xml -57.98088 -31.43781 33.82 -37.47
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -57.98293 -31.43741 39.24 173.14
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -57.98289 -31.43717 38.57 170.5
+# END dsf2stg

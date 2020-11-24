@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 18.54420 -31.64145 0.00 33.6
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 18.54408 -31.64130 100.92 33.6
+OBJECT_SHARED Models/lib/lamp10m.xml 18.53957 -31.64324 100.78 15.25
+OBJECT_SHARED Models/lib/lamp10m.xml 18.53829 -31.64328 100.46 215.45
+OBJECT_SHARED Models/Transport/van_silver.ac 18.53831 -31.64332 100.06 299.93
+OBJECT_SHARED Models/Transport/hatchback_black.ac 18.53845 -31.64309 100.06 31.71
+OBJECT_SHARED Models/Transport/van_silver.ac 18.53840 -31.64312 100.02 37.07
+OBJECT_SHARED Models/lib/prop_a.ac 18.53872 -31.64346 99.98 260.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.53831 -31.64311 100.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.55889 -31.63629 99.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.55860 -31.63644 107.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.55877 -31.63647 107.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.56011 -31.63668 107.23 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.56023 -31.63651 108.42 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.56084 -31.63810 108.45 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.55826 -31.63623 109.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.55213 -31.63340 106.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.55277 -31.63430 99.89 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 18.55502 -31.63701 101.03 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.55442 -31.63704 104.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.55412 -31.63697 103.55 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.55449 -31.63600 103.29 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.55420 -31.64035 103.22 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 18.54210 -31.64654 105.48 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 18.54191 -31.64458 104.09 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 18.53542 -31.64657 102.55 0
+# END dsf2stg

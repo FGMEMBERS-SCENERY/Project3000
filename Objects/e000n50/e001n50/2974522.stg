@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac 1.73471 50.87911 0.00 148.97
+OBJECT_SHARED Models/lib/office3x10.ac 1.73467 50.87913 127.15 148.97
+OBJECT_SHARED Models/lib/2container-office.ac 1.73458 50.87914 127.21 148.69
+OBJECT_SHARED Models/lib/propane-tank.ac 1.73491 50.87911 127.31 331.09
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 1.73482 50.87937 126.89 57
+OBJECT_SHARED Models/Transport/hatchback_green.ac 1.73446 50.87917 127.44 334.36
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 1.73443 50.87918 127.51 336.45
+OBJECT_SHARED Models/Transport/van_silver.ac 1.73439 50.87920 127.56 335.96
+OBJECT_SHARED Models/Transport/hatchback_red.ac 1.73434 50.87921 127.59 331.11
+OBJECT_SHARED Models/Transport/van_red.ac 1.73430 50.87922 127.63 342.03
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 1.73426 50.87924 127.66 343.07
+OBJECT_SHARED Models/Transport/hatchback_green.ac 1.73423 50.87925 127.69 340.5
+OBJECT_SHARED Models/Transport/hatchback_black.ac 1.73419 50.87926 127.77 326.07
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 1.73415 50.87928 127.82 328.76
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 1.73410 50.87929 127.86 341
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 1.73406 50.87931 127.90 333.44
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 1.73163 50.88004 127.93 241.35
+OBJECT_SHARED Models/Transport/hatchback_red.ac 1.73170 50.88001 127.03 244.09
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 1.73394 50.87935 127.08 333.44
+# END dsf2stg

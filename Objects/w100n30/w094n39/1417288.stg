@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -93.92677 39.20794 0.00 180.66
+OBJECT_SHARED Models/lib/shed8x10.ac -93.92676 39.20730 210.01 90.11
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.92676 39.20761 209.99 90.82
+OBJECT_SHARED Models/lib/industrial13x24.ac -93.92629 39.20748 210.00 271.64
+OBJECT_SHARED Models/lib/SmHangar.ac -93.92558 39.20650 210.01 180.81
+OBJECT_SHARED Models/lib/SmHangar.ac -93.92558 39.20668 210.00 181.52
+OBJECT_SHARED Models/lib/SmHangar.ac -93.92560 39.20694 210.01 180.62
+OBJECT_SHARED Models/lib/SmHangar.ac -93.92561 39.20711 210.02 181.04
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.92627 39.20710 210.03 0
+OBJECT_SHARED Models/lib/propane-tank.ac -93.92612 39.20737 210.01 90
+OBJECT_SHARED Models/lib/watertank3x1.ac -93.92539 39.20719 210.02 90
+OBJECT_SHARED Models/lib/watertank3x1.ac -93.92539 39.20723 210.03 91.51
+OBJECT_SHARED Models/lib/propane-tank.ac -93.92623 39.20796 210.03 90
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -93.92542 39.20745 210.03 90.75
+OBJECT_SHARED Models/Transport/van_silver.ac -93.92543 39.20752 210.04 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.92543 39.20765 210.04 90
+# END dsf2stg

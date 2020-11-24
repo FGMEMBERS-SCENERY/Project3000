@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13449 48.27895 130.23 218.29
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13504 48.27966 130.66 0
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13493 48.27960 130.58 0
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13448 48.27986 130.55 0
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13456 48.27978 130.54 0
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13463 48.27971 130.50 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13449 48.27895 0.00 218.29
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13504 48.27966 130.23 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13493 48.27960 130.66 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13448 48.27986 130.58 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13456 48.27978 130.55 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13463 48.27971 130.54 0
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13470 48.27963 130.50 0
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13480 48.27956 130.54 0
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 18.13547 48.27894 130.55 216.03
-OBJECT_SHARED Models/lib/LongRow.ac 18.13532 48.28009 130.99 123.69
-OBJECT_SHARED Models/lib/office32x25.ac 18.13654 48.27898 131.07 215.59
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.13558 48.27903 130.64 307.03
-OBJECT_SHARED Models/lib/industrial13x24.ac 18.13555 48.27984 130.92 125.36
-OBJECT_SHARED Models/lib/industrial15x22.ac 18.13669 48.27871 131.04 124.35
-OBJECT_SHARED Models/lib/office32x25.ac 18.13515 48.28069 131.24 212.73
-OBJECT_SHARED Models/lib/MedHangar.ac 18.13585 48.27939 130.95 33.69
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.13480 48.27956 130.50 0
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 18.13547 48.27894 130.54 216.03
+OBJECT_SHARED Models/lib/LongRow.ac 18.13532 48.28009 130.55 123.69
+OBJECT_SHARED Models/lib/office32x25.ac 18.13654 48.27898 130.99 215.59
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.13558 48.27903 131.04 307.03
+OBJECT_SHARED Models/lib/industrial13x24.ac 18.13555 48.27984 130.64 125.36
+OBJECT_SHARED Models/lib/industrial15x22.ac 18.13669 48.27871 130.92 124.35
+OBJECT_SHARED Models/lib/office32x25.ac 18.13515 48.28069 131.00 212.73
+OBJECT_SHARED Models/lib/MedHangar.ac 18.13585 48.27939 131.24 33.69
 # END dsf2stg

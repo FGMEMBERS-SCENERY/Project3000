@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac 21.39171 47.45513 0.00 173.841
+OBJECT_SHARED Models/Misc/picnic_table.ac 21.39039 47.45520 93.27 264.356
+OBJECT_SHARED Models/Misc/picnic_table.ac 21.39040 47.45524 92.90 265.986
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 21.39074 47.45519 92.90 207.181
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 21.38850 47.45537 92.99 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 21.38900 47.45536 92.05 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 21.38853 47.45539 92.31 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 21.38902 47.45524 92.05 354.114
+OBJECT_SHARED Models/lib/SmHangar.ac 21.39061 47.45526 91.91 264.727
+OBJECT_SHARED Models/lib/SmHangar.ac 21.38891 47.45537 92.95 264.842
+OBJECT_SHARED Models/lib/shed8x10.ac 21.38746 47.45576 92.26 174.877
+OBJECT_SHARED Models/lib/shed8x10.ac 21.38739 47.45568 91.39 84.6345
+OBJECT_SHARED Models/lib/trailer-fedex.ac 21.38762 47.45577 91.34 263.991
+OBJECT_SHARED Models/lib/shed8x10.ac 21.39027 47.45522 91.46 85.0359
+OBJECT_SHARED Models/lib/farm19x12.ac 21.39077 47.45519 92.87 174.262
+OBJECT_SHARED Models/lib/SmHangar.ac 21.38860 47.45539 93.02 264.677
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 21.39040 47.45522 92.10 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 21.39052 47.45525 92.90 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 21.39019 47.45569 92.92 0
+# END dsf2stg

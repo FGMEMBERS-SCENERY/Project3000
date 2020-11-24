@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -97.12624 41.23313 0.00 215.191
+OBJECT_SHARED Models/lib/SmHangar.ac -97.12583 41.23162 490.22 165.217
+OBJECT_SHARED Models/lib/propane-tank.ac -97.12718 41.23183 490.31 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.12582 41.23249 490.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.12726 41.23350 490.31 0
+OBJECT_SHARED Models/lib/cars2.ac -97.12739 41.23204 490.01 180
+OBJECT_SHARED Models/Transport/van_silver.ac -97.12814 41.23161 490.04 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.12825 41.23259 490.00 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.12785 41.23256 489.91 91.7899
+OBJECT_SHARED Models/lib/cars2.ac -97.12801 41.23290 489.95 90
+OBJECT_SHARED Models/lib/prop_a.ac -97.12549 41.23135 489.92 166.381
+# END dsf2stg

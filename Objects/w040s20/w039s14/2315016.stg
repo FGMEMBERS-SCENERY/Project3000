@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -38.98725 -13.83038 0.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -38.98722 -13.83037 4.23 0
+OBJECT_SHARED Models/Misc/6barrels.ac -38.98723 -13.83037 4.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -38.98709 -13.83039 4.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -38.98708 -13.83031 4.14 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -38.98723 -13.83030 4.31 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -38.98719 -13.83058 4.40 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -38.98726 -13.83056 4.16 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -38.98746 -13.83148 4.21 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -38.98756 -13.83137 4.86 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -38.98758 -13.83121 4.80 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -38.98773 -13.83118 4.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -38.98780 -13.83120 4.67 0
+OBJECT_SHARED Models/lib/SmHangar.ac -38.98726 -13.83043 4.69 340.89
+OBJECT_SHARED Models/lib/farm19x12.ac -38.98714 -13.83119 4.33 249.7
+# END dsf2stg

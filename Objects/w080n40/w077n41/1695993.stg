@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac -76.51461 41.98430 233.87 261
-OBJECT_SHARED Models/lib/office32x25n.ac -76.51999 41.98134 236.89 172.1
-OBJECT_SHARED Models/lib/cars6.ac -76.51488 41.98442 234.38 260.01
-OBJECT_SHARED Models/lib/industrial13x24.ac -76.52003 41.98191 236.87 170
+OBJECT_SHARED Models/lib/MedHangar.ac -76.51461 41.98430 0.00 261
+OBJECT_SHARED Models/lib/office32x25n.ac -76.51999 41.98134 233.99 172.1
+OBJECT_SHARED Models/lib/cars6.ac -76.51488 41.98442 236.96 260.01
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.52003 41.98191 234.49 170
 # END dsf2stg

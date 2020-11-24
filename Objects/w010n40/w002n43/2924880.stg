@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -1.79154 43.35812 0.00 238.33
+OBJECT_SHARED Models/lib/cone.ac -1.79454 43.35494 1.58 0
+OBJECT_SHARED Models/lib/cone.ac -1.79448 43.35498 0.86 0
+OBJECT_SHARED Models/lib/cone.ac -1.79452 43.35501 0.82 0
+OBJECT_SHARED Models/lib/cone.ac -1.79459 43.35498 0.85 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -1.79455 43.35497 0.90 225.94
+OBJECT_SHARED Models/lib/watertank3x1.ac -1.79453 43.35498 0.87 225.94
+OBJECT_SHARED Models/lib/watertank3x1.ac -1.79452 43.35499 0.85 225.94
+OBJECT_SHARED Models/lib/FireStationLg.ac -1.79430 43.35509 0.85 319.26
+OBJECT_SHARED Models/lib/office32x25n.ac -1.79324 43.35596 0.69 141.26
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -1.79399 43.35537 0.04 229.26
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -1.79343 43.35597 0.48 232.04
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -1.79183 43.35735 0.14 232.63
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -1.79247 43.35675 -0.28 231.04
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -1.79282 43.35638 -0.22 231.18
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -1.79120 43.35789 -0.14 229.24
+OBJECT_SHARED Models/lib/NoParkStripes.xml -1.79420 43.35501 -0.15 50.45
+OBJECT_SHARED Models/lib/NoParkStripes.xml -1.79370 43.35508 0.63 141.52
+OBJECT_SHARED Models/lib/NoParkStripes.xml -1.79374 43.35504 0.33 141.52
+OBJECT_SHARED Models/lib/NoParkStripes.xml -1.79369 43.35472 0.36 141.52
+OBJECT_SHARED Models/lib/industrial15x22.ac -1.79451 43.35635 0.35 49.75
+OBJECT_SHARED Models/lib/office40x25.ac -1.79438 43.35533 0.88 161.63
+OBJECT_SHARED Models/lib/cars6.ac -1.79393 43.35547 0.75 229.84
+OBJECT_SHARED Models/lib/cars6.ac -1.79369 43.35569 0.44 229.84
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -1.79026 43.35812 0.29 66.51
+OBJECT_SHARED Models/Transport/Norberttruck.xml -1.79313 43.35711 -0.11 254.47
+OBJECT_SHARED Models/Transport/Norberttruck.xml -1.79308 43.35710 0.13 254.47
+OBJECT_SHARED Models/lib/cars7.ac -1.79225 43.35702 0.11 318.06
+OBJECT_SHARED Models/lib/cars7.ac -1.79254 43.35716 -0.25 265.91
+OBJECT_SHARED Models/lib/cars7.ac -1.79263 43.35709 -0.10 84.56
+OBJECT_SHARED Models/lib/MedHangar.ac -1.79094 43.35802 -0.09 84.54
+# END dsf2stg

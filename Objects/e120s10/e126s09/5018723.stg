@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac 126.39748 -8.47867 0.00 37.1
+OBJECT_SHARED Models/lib/office16x4n.ac 126.39744 -8.47848 522.57 36.1
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 126.39767 -8.47853 522.44 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 126.39766 -8.47852 523.08 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 126.39767 -8.47852 523.07 0
+OBJECT_SHARED Models/lib/cube16x10.ac 126.39836 -8.47947 523.07 128.71
+OBJECT_SHARED Models/Airport/cargoim.xml 126.39771 -8.47857 523.76 0
+OBJECT_SHARED Models/lib/lamp10m.xml 126.39836 -8.47846 523.10 127.1
+OBJECT_SHARED Models/lib/lamp10m.xml 126.39853 -8.47877 523.03 127.1
+OBJECT_SHARED Models/lib/lamp10m.xml 126.39866 -8.47892 523.82 127.1
+OBJECT_SHARED Models/lib/lamp10m.xml 126.39826 -8.47831 523.93 127.1
+OBJECT_SHARED Models/lib/SmHangar.ac 126.39688 -8.47774 522.93 128.4
+OBJECT_SHARED Models/lib/fboModern1.ac 126.39952 -8.47794 521.98 109.61
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 126.39750 -8.47874 523.04 37.1
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 126.39759 -8.47796 522.63 69.11
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 126.39764 -8.47807 522.72 294.41
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 126.39800 -8.47827 522.79 34.4
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 126.39802 -8.47800 522.91 96.8
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 126.39808 -8.47813 522.74 160.7
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 126.39777 -8.47792 522.82 299.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 126.39766 -8.47796 522.70 291
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 126.39786 -8.47864 522.72 90
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 126.39783 -8.47861 523.15 90
+OBJECT_SHARED Models/Airport/cargoip.xml 126.39775 -8.47858 523.13 0
+OBJECT_SHARED Models/Airport/cargoip.xml 126.39774 -8.47856 523.11 0
+OBJECT_SHARED Models/lib/container6-HD.ac 126.39778 -8.47854 523.10 38.71
+OBJECT_SHARED Models/lib/belt_loader.ac 126.39854 -8.47898 523.08 270
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 126.39795 -8.47854 523.97 170.1
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 126.39860 -8.47895 523.08 0
+# END dsf2stg

@@ -1,19 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml 25.04529 60.25083 18.71 83.4
-OBJECT_SHARED Models/lib/lamp10m.xml 25.04450 60.25089 18.53 83.39
-OBJECT_SHARED Models/lib/lamp10m.xml 25.04335 60.25014 18.89 174.31
-OBJECT_SHARED Models/lib/lamp10m.xml 25.04345 60.25051 18.65 146.27
-OBJECT_SHARED Models/lib/lamp10m.xml 25.04614 60.25071 18.93 50.05
-OBJECT_SHARED Models/lib/HorizTanks2.ac 25.04952 60.25034 20.47 132.15
-OBJECT_SHARED Models/Airport/FGRefuel02.xml 25.04969 60.25003 20.75 221.92
-OBJECT_SHARED Models/Aircraft/320volare.xml 25.04755 60.25038 19.54 37.02
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 25.04359 60.25003 18.97 84.13
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 25.04453 60.25077 18.57 354.45
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 25.04479 60.25075 18.68 353.87
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 25.04585 60.25070 18.88 347.51
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 25.04403 60.25080 18.53 354.27
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 25.04675 60.25006 19.47 324.2
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 25.04651 60.25012 19.41 144.78
+OBJECT_SHARED Models/lib/lamp10m.xml 25.04519 60.25048 0.00 173.92
+OBJECT_SHARED Models/lib/lamp10m.xml 25.04443 60.25052 19.01 173.92
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 25.04935 60.25048 28.67 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 25.04934 60.25048 20.92 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 25.04947 60.25044 20.92 306.82
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 25.04943 60.25046 21.08 312.92
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 25.04939 60.25048 20.97 33.57
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 25.04969 60.25003 20.97 221.92
+OBJECT_SHARED Models/lib/container6-HD.ac 25.04962 60.25013 21.43 310.28
+OBJECT_SHARED Models/lib/container6-HD.ac 25.05039 60.25022 21.31 311.98
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 25.04999 60.25010 21.71 309.06
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 25.05039 60.25017 21.54 312.84
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 25.05035 60.25015 21.71 306.41
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 25.05031 60.25013 21.77 322.5
+OBJECT_SHARED Models/lib/container6-HD.ac 25.05030 60.25018 21.71 132.57
+OBJECT_SHARED Models/lib/container6-HD.ac 25.05054 60.25022 21.65 133.3
+OBJECT_SHARED Models/lib/container6-HD.ac 25.05022 60.25014 21.77 224.28
+OBJECT_SHARED Models/lib/container6-HD.ac 25.05046 60.25026 21.66 313.38
+OBJECT_SHARED Models/lib/container6-HD.ac 25.05013 60.25010 21.71 44.36
+OBJECT_SHARED Models/lib/prop_a.ac 25.03892 60.25018 20.72 201.14
 # END dsf2stg

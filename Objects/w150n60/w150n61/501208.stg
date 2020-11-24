@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -149.83355 61.39452 0.00 0
+OBJECT_SHARED Models/lib/cone.ac -149.83355 61.39451 19.96 0
+OBJECT_SHARED Models/lib/cone.ac -149.83355 61.39450 19.96 0
+OBJECT_SHARED Models/lib/cone.ac -149.83355 61.39449 19.96 0
+OBJECT_SHARED Models/lib/cone.ac -149.83358 61.39422 19.96 0
+OBJECT_SHARED Models/lib/cone.ac -149.83357 61.39423 19.41 0
+OBJECT_SHARED Models/lib/cone.ac -149.83357 61.39424 19.41 0
+OBJECT_SHARED Models/lib/cone.ac -149.83357 61.39425 19.41 0
+OBJECT_SHARED Models/lib/cone.ac -149.85108 61.39476 19.62 0
+OBJECT_SHARED Models/lib/cone.ac -149.85107 61.39477 22.86 0
+OBJECT_SHARED Models/lib/cone.ac -149.85107 61.39478 22.86 0
+OBJECT_SHARED Models/lib/cone.ac -149.85107 61.39479 22.86 0
+OBJECT_SHARED Models/lib/cone.ac -149.85103 61.39503 22.86 0
+OBJECT_SHARED Models/lib/cone.ac -149.85103 61.39502 23.06 0
+OBJECT_SHARED Models/lib/cone.ac -149.85103 61.39501 23.06 0
+OBJECT_SHARED Models/lib/cone.ac -149.85103 61.39500 23.06 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.85285 61.39652 23.06 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.85297 61.39631 22.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.85345 61.39646 22.81 194.04
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.85314 61.39712 22.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.85337 61.39688 21.92 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.85324 61.39663 22.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.85299 61.39669 22.47 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.85292 61.39689 22.36 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.85287 61.39713 22.14 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.85301 61.39736 21.92 225
+OBJECT_SHARED Models/lib/garden-shed.ac -149.85740 61.39558 21.59 104.04
+OBJECT_SHARED Models/lib/garden-shed.ac -149.85739 61.39555 22.08 104.93
+OBJECT_SHARED Models/Misc/6barrels.ac -149.84458 61.39593 22.08 0
+OBJECT_SHARED Models/lib/coal_pile.ac -149.84441 61.39597 23.34 90
+OBJECT_SHARED Models/lib/coal_pile.ac -149.84466 61.39538 23.20 45
+OBJECT_SHARED Models/Misc/picnic_table.ac -149.84452 61.39545 22.99 180
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.84438 61.39586 23.06 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.84458 61.39543 23.14 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -149.84446 61.39543 22.99 0
+# END dsf2stg

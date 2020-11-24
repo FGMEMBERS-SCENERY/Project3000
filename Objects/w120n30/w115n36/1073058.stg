@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -114.44157 36.56135 0.00 104.33
+OBJECT_SHARED Models/Transport/hatchback_black.ac -114.44158 36.56138 404.65 103.92
+OBJECT_SHARED Models/Transport/hatchback_green.ac -114.44038 36.56172 404.65 321.63
+OBJECT_SHARED Models/Transport/hatchback_green.ac -114.44044 36.56175 406.99 143.97
+OBJECT_SHARED Models/lib/propane-tank.ac -114.44132 36.56122 406.99 103.65
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -114.44177 36.56128 405.21 278.83
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -114.44173 36.56125 404.48 0
+OBJECT_SHARED Models/lib/prop_a.ac -114.44076 36.56238 404.48 298.3
+OBJECT_SHARED Models/lib/prop_a.ac -114.44142 36.56296 407.45 119.12
+OBJECT_SHARED Models/lib/prop_a.ac -114.44141 36.56250 408.49 119.94
+OBJECT_SHARED Models/lib/prop_a.ac -114.44101 36.56315 407.63 119.82
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -114.44119 36.56132 408.66 298.54
+OBJECT_SHARED Models/lib/4container-office.ac -114.44142 36.56120 405.41 194.31
+OBJECT_SHARED Models/lib/4container-office.ac -114.44149 36.56128 405.21 283.62
+OBJECT_SHARED Models/lib/4container-office.ac -114.44147 36.56122 405.41 283.62
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44172 36.56219 405.21 209.7
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44163 36.56206 406.04 209.7
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44137 36.56169 405.88 209.7
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44146 36.56181 406.17 209.7
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44155 36.56194 406.36 209.7
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44171 36.56380 405.53 119.5
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44178 36.56353 408.60 298.5
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44159 36.56362 408.15 298.5
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44142 36.56336 408.30 119.5
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44160 36.56328 409.19 119.5
+OBJECT_SHARED Models/lib/SmHangar.ac -114.44178 36.56320 407.83 119.5
+# END dsf2stg

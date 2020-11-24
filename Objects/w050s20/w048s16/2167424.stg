@@ -1,12 +1,31 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac -47.91803 -15.87532 974.53 90
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -47.91801 -15.87516 974.68 228
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -47.91746 -15.87512 974.70 232.64
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -47.91856 -15.87519 974.82 228
-OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91872 -15.87541 974.53 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91852 -15.87533 974.64 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91808 -15.87540 974.39 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91749 -15.87535 974.40 0
+OBJECT_SHARED Models/lib/office3x10.ac -47.94216 -15.87776 1061.20 274.17
+OBJECT_SHARED Models/lib/office3x10.ac -47.94227 -15.87780 1069.00 3.42999
+OBJECT_SHARED Models/lib/office3x10.ac -47.90775 -15.87558 1068.96 2.89002
+OBJECT_SHARED Models/lib/office3x10.ac -47.90780 -15.87558 1045.04 2.89002
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -47.91801 -15.87516 1058.28 228
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -47.91746 -15.87512 1055.33 232.64
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -47.91856 -15.87520 1055.01 228
+OBJECT_SHARED Models/lib/cars4.ac -47.94206 -15.87774 1058.16 3.71
+OBJECT_SHARED Models/lib/cars4.ac -47.90752 -15.87552 1068.98 3.71
+OBJECT_SHARED Models/lib/chariot3curve.ac -47.91852 -15.87557 1057.48 256.67
+OBJECT_SHARED Models/lib/chariot3curve.ac -47.91856 -15.87540 1055.16 298.55
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -47.91873 -15.87539 1060.87 359.82
+OBJECT_SHARED Models/lib/SmHangar.ac -47.94200 -15.87804 1059.98 92.49
+OBJECT_SHARED Models/lib/SmHangar.ac -47.94200 -15.87804 1059.98 92.49
+OBJECT_SHARED Models/lib/SmHangar.ac -47.90753 -15.87582 1069.19 92.49
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -47.91848 -15.87531 1059.94 95.71
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -47.91800 -15.87529 1055.64 95.71
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -47.91840 -15.87541 1061.01 94.74
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91872 -15.87541 1059.77 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91852 -15.87533 1055.68 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91801 -15.87534 1055.64 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91759 -15.87530 1055.16 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91861 -15.87572 1054.78 359.82
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91846 -15.87556 1055.11 359.82
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91856 -15.87547 1055.16 359.82
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91869 -15.87547 1055.42 359.82
+OBJECT_SHARED Models/lib/stack_of_cones.ac -47.91878 -15.87557 1055.52 359.82
 # END dsf2stg

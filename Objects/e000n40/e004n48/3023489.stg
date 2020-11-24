@@ -1,12 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 4.40942 48.06808 270.16 154.827
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 4.40969 48.06803 270.65 316.592
-OBJECT_SHARED Models/Transport/hatchback_green.ac 4.41073 48.06782 271.59 167.106
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 4.40984 48.06811 270.39 154.654
-OBJECT_SHARED Models/lib/garage-small-white.ac 4.41086 48.06780 271.66 245.423
-OBJECT_SHARED Models/lib/SmHangar.ac 4.40947 48.06812 270.20 64.6342
-OBJECT_SHARED Models/lib/SmHangar.ac 4.40924 48.06819 269.70 64.5593
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 4.40964 48.06824 270.19 154.213
+OBJECT_SHARED Models/lib/deciduous-tree.xml 4.41060 48.06779 0.00 315
+OBJECT_SHARED Models/lib/deciduous-tree.xml 4.41040 48.06784 272.03 315
+OBJECT_SHARED Models/lib/deciduous-tree.xml 4.41020 48.06790 271.90 315
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.41069 48.06777 271.55 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.41049 48.06782 272.06 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.41029 48.06788 271.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.41009 48.06794 271.59 0
 # END dsf2stg

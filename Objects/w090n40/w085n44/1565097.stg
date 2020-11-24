@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -84.72348 44.67962 0.00 0
+OBJECT_SHARED Models/lib/cube16x10.ac -84.72245 44.67482 350.44 180
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -84.72068 44.69056 349.61 90
+OBJECT_SHARED Models/lib/4space_wStop.ac -84.72091 44.69057 352.29 180.17
+OBJECT_SHARED Models/lib/4space_wStop.ac -84.72043 44.69079 352.30 0
+OBJECT_SHARED Models/lib/6space_wStop.ac -84.72043 44.69069 352.38 0.620003
+OBJECT_SHARED Models/lib/2_spaces_dual.ac -84.72068 44.69086 352.32 270
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -84.72067 44.69074 352.46 180
+# END dsf2stg

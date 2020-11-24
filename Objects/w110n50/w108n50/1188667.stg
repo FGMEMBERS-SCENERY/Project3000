@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -107.12364 50.99313 633.58 347.6
-OBJECT_SHARED Models/Transport/hatchback_red.ac -107.12360 50.99313 633.58 358.69
-OBJECT_SHARED Models/lib/office3x10.ac -107.12354 50.99315 633.41 178.69
-OBJECT_SHARED Models/lib/garden-shed.ac -107.12268 50.99324 634.04 358.69
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -107.12377 50.99321 633.41 268.69
-OBJECT_SHARED Models/lib/SmHangar.ac -107.12336 50.99321 634.04 268.69
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -107.12364 50.99313 0.00 347.6
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -107.12360 50.99313 634.42 358.69
+OBJECT_SHARED Models/lib/office3x10.ac -107.12354 50.99315 634.42 178.69
+OBJECT_SHARED Models/lib/garden-shed.ac -107.12268 50.99324 634.26 358.69
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -107.12377 50.99321 633.83 268.69
+OBJECT_SHARED Models/lib/SmHangar.ac -107.12336 50.99321 634.26 268.69
 # END dsf2stg

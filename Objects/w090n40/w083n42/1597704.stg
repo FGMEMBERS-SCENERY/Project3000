@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -82.98868 42.12862 0.00 266.42
+OBJECT_SHARED Models/lib/industrial13x24.ac -82.98871 42.12786 181.86 356.62
+OBJECT_SHARED Models/lib/industrial13x24.ac -82.98889 42.12844 181.53 0
+OBJECT_SHARED Models/lib/farm19x12.ac -82.98805 42.12775 181.50 177.21
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.99244 42.12888 181.48 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.99237 42.12883 181.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.99247 42.12880 181.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98815 42.12776 181.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98789 42.12787 181.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98954 42.12911 181.44 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.98940 42.12911 181.64 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.98928 42.12911 181.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98916 42.12912 181.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.98903 42.12909 181.65 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.98895 42.12910 181.65 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98884 42.12911 181.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.98874 42.12908 181.66 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.98862 42.12908 181.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98850 42.12909 181.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.98838 42.12909 181.66 126.87
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.98830 42.12908 181.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98819 42.12907 181.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.98809 42.12907 181.67 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.98801 42.12907 181.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98788 42.12906 181.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.98778 42.12904 181.68 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.98781 42.12908 181.73 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98786 42.12910 181.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.98774 42.12909 181.68 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.98774 42.12914 181.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98771 42.12901 181.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.98918 42.12872 181.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.98935 42.12903 181.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -82.98967 42.12882 181.69 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -82.98966 42.12902 181.77 0
+# END dsf2stg

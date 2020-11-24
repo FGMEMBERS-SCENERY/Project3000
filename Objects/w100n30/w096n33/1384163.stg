@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.06503 33.59343 0.00 91.1
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.06522 33.59116 128.35 279.463
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.06523 33.59113 127.61 279.463
+OBJECT_SHARED Models/Transport/van_silver.ac -95.06522 33.59151 127.57 226.415
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.06506 33.59436 127.73 140.193
+OBJECT_SHARED Models/lib/cone.ac -95.06505 33.59322 128.35 0
+OBJECT_SHARED Models/lib/cone.ac -95.06505 33.59321 128.26 0
+OBJECT_SHARED Models/lib/cone.ac -95.06503 33.59320 128.32 0
+OBJECT_SHARED Models/lib/cone.ac -95.06505 33.59320 128.32 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -95.06506 33.59347 128.26 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -95.06504 33.59346 128.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -95.06505 33.59345 128.37 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -95.06504 33.59432 128.37 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -95.06505 33.59432 128.42 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -95.06506 33.59432 128.36 0
+OBJECT_SHARED Models/lib/prop_a.ac -95.06495 33.59424 128.36 0.800644
+OBJECT_SHARED Models/lib/prop_a.ac -95.06503 33.59246 128.48 181.045
+OBJECT_SHARED Models/lib/prop_a.ac -95.06518 33.59252 128.17 1.49279
+OBJECT_SHARED Models/lib/prop_a.ac -95.06519 33.59289 128.06 1.49279
+OBJECT_SHARED Models/lib/prop_a.ac -95.06522 33.59167 128.15 0.432594
+OBJECT_SHARED Models/lib/prop_a.ac -95.06493 33.59130 127.81 183.083
+OBJECT_SHARED Models/lib/LongRow.ac -95.06509 33.59175 127.81 271.003
+OBJECT_SHARED Models/lib/LongRow.ac -95.06509 33.59193 127.90 271.003
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.06512 33.59334 127.93 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.06523 33.59334 128.28 90
+# END dsf2stg

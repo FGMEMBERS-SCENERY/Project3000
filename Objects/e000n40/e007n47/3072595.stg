@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac 7.88941 47.34494 0.00 135.54
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.88938 47.34495 409.78 137.62
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.88936 47.34497 409.65 140.75
+OBJECT_SHARED Models/Transport/van_red.ac 7.88924 47.34494 409.66 292.37
+OBJECT_SHARED Models/Transport/hatchback_red.ac 7.88930 47.34489 409.87 108.91
+OBJECT_SHARED Models/Transport/van_silver.ac 7.88927 47.34491 409.84 109.8
+OBJECT_SHARED Models/Transport/van_silver.ac 7.88922 47.34496 409.85 113.38
+OBJECT_SHARED Models/Transport/van_red.ac 7.88919 47.34499 409.73 113.39
+OBJECT_SHARED Models/Transport/hatchback_green.ac 7.88925 47.34486 409.74 327.6
+OBJECT_SHARED Models/Transport/van_silver.ac 7.88922 47.34488 409.86 333.96
+OBJECT_SHARED Models/Transport/van_silver.ac 7.88917 47.34493 409.88 323.07
+OBJECT_SHARED Models/Transport/van_red.ac 7.88915 47.34495 409.90 325.22
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.88913 47.34496 409.91 326.01
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 7.88904 47.34472 409.77 47.67
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.88908 47.34473 410.27 41.96
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 7.88894 47.34463 410.25 223.94
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.88903 47.34469 410.47 226.26
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 7.88913 47.34480 410.28 129.42
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.88900 47.34486 410.07 309.38
+OBJECT_SHARED Models/Transport/van_silver.ac 7.88896 47.34488 409.99 130.05
+OBJECT_SHARED Models/Transport/hatchback_green.ac 7.88907 47.34483 410.01 128.23
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.88904 47.34484 410.10 131.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.88894 47.34490 410.12 127.12
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.88998 47.34557 410.02 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.88998 47.34539 409.90 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.88845 47.34449 410.21 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.88854 47.34434 410.80 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 7.88581 47.34297 411.11 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.88966 47.34520 410.88 127.02
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.88962 47.34518 409.20 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 7.88908 47.34500 409.22 36.37
+OBJECT_SHARED Models/lib/office16x4n.ac 7.88841 47.34530 409.80 327.13
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 7.88871 47.34463 409.57 0
+OBJECT_SHARED Models/lib/SmHangar.ac 7.88893 47.34470 410.59 134.5
+OBJECT_SHARED Models/lib/MedHangar.ac 7.88934 47.34510 410.32 125.96
+# END dsf2stg

@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -100.94699 32.70136 0.00 90
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -100.94656 32.70088 734.70 0
+OBJECT_SHARED Models/lib/MedHangar.ac -100.94738 32.70191 735.00 359.32
+OBJECT_SHARED Models/lib/SmHangar.ac -100.94729 32.69991 734.37 90
+OBJECT_SHARED Models/lib/deciduous-tree.xml -100.94718 32.70214 735.43 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -100.94707 32.70214 734.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.94689 32.70078 734.25 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.94686 32.70106 735.05 45
+OBJECT_SHARED Models/lib/prop_a.ac -100.94731 32.69985 734.88 210.47
+OBJECT_SHARED Models/lib/prop_a.ac -100.94657 32.69999 735.48 92.44
+OBJECT_SHARED Models/lib/prop_a.ac -100.94672 32.69956 735.40 272.29
+OBJECT_SHARED Models/lib/prop_a.ac -100.94730 32.69868 735.55 179.03
+OBJECT_SHARED Models/lib/prop_a.ac -100.94741 32.70082 735.79 359.45
+OBJECT_SHARED Models/lib/prop_a.ac -100.94741 32.70071 735.05 0
+OBJECT_SHARED Models/lib/lamp10m.xml -100.94729 32.70132 735.11 87.99
+OBJECT_SHARED Models/Transport/van_red.ac -100.94700 32.70190 734.76 86.63
+OBJECT_SHARED Models/Transport/hatchback_red.ac -100.94700 32.70193 734.37 84.29
+OBJECT_SHARED Models/Transport/hatchback_green.ac -100.94699 32.70196 734.37 97.13
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.94683 32.70084 734.31 192.34
+OBJECT_SHARED Models/Transport/hatchback_red.ac -100.94683 32.70093 735.05 172.57
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -100.94701 32.70135 735.00 270.65
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -100.94706 32.70183 734.76 270.65
+OBJECT_SHARED Models/lib/lamp10m.xml -100.94719 32.70078 734.43 0.200012
+OBJECT_SHARED Models/lib/lamp10m.xml -100.94719 32.70078 734.43 0.200012
+OBJECT_SHARED Models/lib/lamp10m.xml -100.94719 32.70101 735.05 0.200012
+OBJECT_SHARED Models/lib/lamp10m.xml -100.94719 32.70101 735.05 0.200012
+# END dsf2stg

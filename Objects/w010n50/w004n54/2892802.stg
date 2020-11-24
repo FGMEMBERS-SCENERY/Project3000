@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/transformer3x3.ac -3.26155 54.12364 15.38 35.2726
-OBJECT_SHARED Models/lib/cars2.ac -3.26144 54.12367 16.20 214.26
-OBJECT_SHARED Models/lib/lamp10m.xml -3.26156 54.12459 15.59 121.17
-OBJECT_SHARED Models/lib/schranke.ac -3.26158 54.12363 16.20 124.695
-OBJECT_SHARED Models/lib/HorizTanks2.ac -3.26141 54.12430 15.84 267.414
+OBJECT_SHARED Models/lib/transformer3x3.ac -3.26155 54.12364 14.60 35.2726
+OBJECT_SHARED Models/lib/cars2.ac -3.26144 54.12367 14.76 214.26
+OBJECT_SHARED Models/lib/lamp10m.xml -3.26156 54.12459 16.20 121.17
+OBJECT_SHARED Models/lib/schranke.ac -3.26158 54.12363 15.20 124.695
+OBJECT_SHARED Models/lib/HorizTanks2.ac -3.26141 54.12430 15.34 267.414
 # END dsf2stg

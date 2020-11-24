@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61485 36.33795 0.50 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.62006 36.32632 1794.96 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61979 36.32684 1791.09 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61956 36.32664 1791.54 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61969 36.32635 1791.35 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61510 36.33742 1791.18 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61474 36.33744 1794.83 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61459 36.33774 1794.83 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61487 36.33651 1794.93 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61507 36.33657 1794.36 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61515 36.33658 1794.41 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61538 36.33607 1794.41 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61524 36.33638 1794.08 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61483 36.33635 1794.30 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61494 36.33608 1794.23 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61506 36.33583 1794.08 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61513 36.33567 1793.83 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61573 36.33602 1793.74 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61560 36.33595 1795.73 90
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61542 36.33575 1795.73 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61566 36.33582 1793.74 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -104.61581 36.33583 1795.62 0
+OBJECT_SHARED Models/lib/lamp10m.xml -104.61478 36.33633 1795.12 -19.99
+OBJECT_SHARED Models/lib/lamp10m.xml -104.61490 36.33607 1793.73 -19.16
+OBJECT_SHARED Models/lib/lamp10m.xml -104.61502 36.33582 1793.58 -20.23
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -104.61480 36.33635 1793.33 249.2
+# END dsf2stg

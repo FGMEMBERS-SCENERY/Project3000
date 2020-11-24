@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.61622 28.61523 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.61648 28.61502 92.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.61608 28.61544 92.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.61622 28.61532 92.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.61623 28.61539 92.89 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.61675 28.61512 92.91 0
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -97.61723 28.61335 93.08 99.09
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -97.61729 28.61347 93.06 99.09
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -97.61731 28.61359 93.12 98.53
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.61574 28.61533 93.13 261.13
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.61572 28.61538 92.67 72.38
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.61545 28.61560 92.68 164.05
+OBJECT_SHARED Models/lib/4space_wStop.ac -97.61549 28.61553 92.58 72.52
+OBJECT_SHARED Models/lib/2space_wStop.ac -97.61557 28.61555 92.61 73.14
+OBJECT_SHARED Models/lib/2space_wStop.ac -97.61573 28.61546 92.67 164.58
+OBJECT_SHARED Models/lib/4space_wStop.ac -97.61576 28.61537 92.70 162.55
+OBJECT_SHARED Models/lib/6space_wStop.ac -97.61581 28.61522 92.73 162.27
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.61654 28.61563 92.70 5.28
+OBJECT_SHARED Models/Transport/hatchback_green.ac -97.61649 28.61529 93.07 278.75
+OBJECT_SHARED Models/Transport/hatchback_green.ac -97.61649 28.61525 93.03 279.78
+OBJECT_SHARED Models/lib/watertank3x1.ac -97.61525 28.61558 93.01 166.67
+# END dsf2stg

@@ -1,0 +1,40 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49255 49.14819 0.00 296.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49256 49.14825 511.35 296.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49256 49.14831 511.35 296.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49255 49.14837 511.27 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49255 49.14844 511.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49254 49.14851 511.19 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49255 49.14858 511.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49254 49.14866 511.04 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49255 49.14873 510.98 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49257 49.14882 510.98 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49255 49.14890 510.94 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49255 49.14908 510.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49249 49.14908 510.81 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49240 49.14909 511.01 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49232 49.14909 511.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49220 49.14908 511.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49209 49.14908 511.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49198 49.14908 511.01 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49189 49.14908 511.01 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49176 49.14908 511.01 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49163 49.14906 511.01 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49152 49.14906 511.01 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49142 49.14906 511.01 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.49129 49.14906 511.29 296.57
+OBJECT_SHARED Models/lib/MedHangar.ac -100.49327 49.14823 511.29 180.68
+OBJECT_SHARED Models/lib/HorizTanks2.ac -100.49239 49.14799 511.35 182.01
+OBJECT_SHARED Models/lib/SmHangar.ac -100.49163 49.14880 511.76 0
+OBJECT_SHARED Models/lib/SmHangar.ac -100.49205 49.14881 511.18 180
+OBJECT_SHARED Models/lib/SmHangar.ac -100.49162 49.14863 511.18 1.2
+OBJECT_SHARED Models/lib/SmHangar.ac -100.49205 49.14865 511.31 180.26
+OBJECT_SHARED Models/lib/SmHangar.ac -100.49162 49.14846 511.31 2.34
+OBJECT_SHARED Models/lib/SmHangar.ac -100.49204 49.14848 511.38 181.14
+OBJECT_SHARED Models/lib/SmHangar.ac -100.49161 49.14830 511.38 1.52
+OBJECT_SHARED Models/lib/SmHangar.ac -100.49204 49.14832 511.52 180.96
+OBJECT_SHARED Models/lib/SmHangar.ac -100.49161 49.14813 511.52 1.62
+OBJECT_SHARED Models/lib/SmHangar.ac -100.49203 49.14815 511.68 181.85
+# END dsf2stg

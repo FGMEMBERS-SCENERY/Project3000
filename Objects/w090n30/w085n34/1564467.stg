@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/6space_wStop.ac -84.00017 34.85557 568.52 105.16
+OBJECT_SHARED Models/lib/6space_wStop.ac -84.00008 34.85544 568.55 286.55
+OBJECT_SHARED Models/lib/6space_wStop.ac -84.00030 34.85539 571.10 286.55
+OBJECT_SHARED Models/lib/6space_wStop.ac -84.00038 34.85552 571.32 105.16
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -84.00003 34.85221 569.13 191.14
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -84.00006 34.85220 569.13 192.77
+OBJECT_SHARED Models/lib/prop_a.ac -84.00004 34.85255 569.56 31.33
+# END dsf2stg

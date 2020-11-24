@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -2.66210 54.69213 0.00 311.75
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.66152 54.69161 107.94 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.66127 54.69144 106.96 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.66156 54.69130 106.21 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -2.66181 54.69147 105.52 0
+OBJECT_SHARED Models/lib/LongRow.ac -2.66203 54.69144 105.77 130.5
+OBJECT_SHARED Models/lib/LongRow.ac -2.66181 54.69155 105.10 130.5
+OBJECT_SHARED Models/lib/stack_of_cones.ac -2.66175 54.69149 106.24 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -2.66164 54.69154 105.81 27.65
+# END dsf2stg

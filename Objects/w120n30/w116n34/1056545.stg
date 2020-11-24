@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/garden-shed.ac -115.51022 34.51351 241.44 158.776
+OBJECT_SHARED Models/lib/garden-shed.ac -115.51022 34.51351 0.00 158.776
 OBJECT_SHARED Models/lib/propane-tank.ac -115.51028 34.51352 241.44 159.798
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -115.51011 34.51371 241.50 65.1857
+OBJECT_SHARED Models/Transport/van_red.ac -115.51011 34.51371 241.44 65.1857
 OBJECT_SHARED Models/lib/lamp10m.xml -115.51011 34.51368 241.50 253.496
-OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51013 34.51355 241.44 92.2906
-OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51013 34.51358 241.47 235.175
-OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51016 34.51368 241.50 86.5318
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51013 34.51355 241.50 92.2906
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51013 34.51358 241.44 235.175
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51016 34.51368 241.47 86.5318
 OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51023 34.51370 241.50 243.435
 OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51030 34.51370 241.50 207.095
-OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51036 34.51365 241.47 153.083
-OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51036 34.51367 241.50 244.983
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51036 34.51365 241.50 153.083
+OBJECT_SHARED Models/lib/deciduous-tree.xml -115.51036 34.51367 241.47 244.983
 # END dsf2stg

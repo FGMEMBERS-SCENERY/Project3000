@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -84.34423 35.01585 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.34435 35.01593 543.17 0
+OBJECT_SHARED Models/lib/farm19x12.ac -84.34411 35.01793 543.12 56.07
+OBJECT_SHARED Models/lib/deciduous-tree.xml -84.34286 35.01655 542.38 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -84.34287 35.01645 539.98 352.88
+OBJECT_SHARED Models/lib/deciduous-tree.xml -84.34287 35.01633 540.07 344.05
+OBJECT_SHARED Models/lib/deciduous-tree.xml -84.34287 35.01628 540.16 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -84.34287 35.01620 540.16 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -84.34286 35.01610 540.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.34286 35.01596 540.35 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.34304 35.01598 540.57 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.34325 35.01602 541.00 251.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.34339 35.01606 542.11 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.34281 35.01576 543.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.34296 35.01578 540.81 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.34304 35.01576 541.67 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.34317 35.01578 541.67 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.34327 35.01582 542.53 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.34336 35.01586 542.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.34356 35.01590 543.16 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.34365 35.01592 543.16 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.34377 35.01594 543.16 0
+OBJECT_SHARED Models/lib/prop_a.ac -84.34504 35.01640 543.17 166.31
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -84.34547 35.01567 544.92 256.23
+OBJECT_SHARED Models/lib/MedHangar.ac -84.34518 35.01591 544.64 346.33
+OBJECT_SHARED Models/lib/LongRow.ac -84.34463 35.01663 544.65 75.65
+OBJECT_SHARED Models/lib/LongRow.ac -84.34507 35.01671 544.38 75.07
+OBJECT_SHARED Models/lib/cars4.ac -84.34488 35.01602 545.20 165.25
+# END dsf2stg

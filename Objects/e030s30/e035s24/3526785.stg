@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cube16x10.ac 35.40450 -23.87733 0.00 310.85
+OBJECT_SHARED Models/lib/SmHangar.ac 35.40403 -23.87763 8.23 221.46
+OBJECT_SHARED Models/lib/SmHangar.ac 35.40427 -23.87754 8.89 132.05
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 35.40468 -23.87778 8.51 39.63
+OBJECT_SHARED Models/lib/SmHangar.ac 35.40518 -23.87692 8.22 132.38
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 35.40480 -23.87710 7.50 130.11
+OBJECT_SHARED Models/Misc/picnic_table.ac 35.40489 -23.87708 7.90 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 35.40485 -23.87712 7.80 0
+OBJECT_SHARED Models/lib/fuel-truck.xml 35.40452 -23.87739 7.90 40.7857
+OBJECT_SHARED Models/lib/lamp10m.xml 35.40468 -23.87770 8.27 222.022
+OBJECT_SHARED Models/lib/lamp10m.xml 35.40536 -23.87713 8.18 39.7706
+OBJECT_SHARED Models/lib/lamp10m.xml 35.40500 -23.87695 7.46 130.703
+OBJECT_SHARED Models/lib/lamp10m.xml 35.40456 -23.87730 7.64 130.455
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 35.40522 -23.87677 8.13 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 35.40527 -23.87647 7.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 35.40534 -23.87665 7.31 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 35.40432 -23.87801 7.37 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 35.40421 -23.87803 8.69 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 35.40546 -23.87671 8.80 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 35.40537 -23.87680 7.28 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 35.40528 -23.87689 7.35 0
+OBJECT_SHARED Models/lib/prop_a.ac 35.40432 -23.87761 7.44 344.181
+# END dsf2stg

@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.70786 41.44899 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.70795 41.44905 69.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -8.70804 41.44914 69.66 0
+OBJECT_SHARED Models/lib/shed8x10.ac -8.70858 41.44772 69.73 112.64
+OBJECT_SHARED Models/lib/stack_of_cones.ac -8.70874 41.44936 68.89 0
+OBJECT_SHARED Models/lib/cars4.ac -8.70826 41.44759 69.80 202.1
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70816 41.44770 69.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70804 41.44776 69.38 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70787 41.44780 69.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70770 41.44785 69.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70755 41.44789 69.74 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70740 41.44795 69.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70719 41.44801 69.63 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70704 41.44804 69.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70876 41.44760 69.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70889 41.44763 68.45 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70874 41.44770 68.16 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70867 41.44780 68.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.70856 41.44786 68.85 0
+# END dsf2stg

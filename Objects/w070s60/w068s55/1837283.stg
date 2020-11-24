@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -67.16407 -54.49887 110.81 36.39
-OBJECT_SHARED Models/Aircraft/D328_services.xml -67.18221 -54.49962 108.16 339.83
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -67.16918 -54.49743 109.44 352.41
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -67.16970 -54.49791 109.46 229.4
-OBJECT_SHARED Models/lib/SmHangar.ac -67.16994 -54.49766 109.33 182.65
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml -67.16407 -54.49887 0.00 36.39
+OBJECT_SHARED Models/Aircraft/D328_services.xml -67.18221 -54.49962 110.88 339.83
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -67.16918 -54.49743 108.19 352.41
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -67.16970 -54.49791 109.44 229.4
+OBJECT_SHARED Models/lib/SmHangar.ac -67.16994 -54.49766 109.46 182.65
 # END dsf2stg

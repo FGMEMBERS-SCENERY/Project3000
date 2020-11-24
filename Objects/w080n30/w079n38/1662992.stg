@@ -1,31 +1,27 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/LongRow.ac -78.90324 38.26191 356.32 143.13
-OBJECT_SHARED Models/lib/lamp10m.xml -78.90083 38.26287 357.94 144.12
-OBJECT_SHARED Models/lib/lamp10m.xml -78.90048 38.26319 358.30 144.12
-OBJECT_SHARED Models/lib/lamp10m.xml -78.90025 38.26350 358.63 144.12
-OBJECT_SHARED Models/lib/lamp10m.xml -78.90013 38.26362 358.73 144.12
-OBJECT_SHARED Models/lib/lamp10m.xml -78.89997 38.26378 358.93 144.12
-OBJECT_SHARED Models/lib/fuel-truck.xml -78.90068 38.26300 358.07 49.91
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.90002 38.26352 358.62 55.18
-OBJECT_SHARED Models/lib/LongRow.ac -78.90292 38.26219 356.81 143.13
-OBJECT_SHARED Models/lib/LongRow.ac -78.90263 38.26247 357.25 143.13
-OBJECT_SHARED Models/lib/LongRow.ac -78.90361 38.26260 357.42 143.13
-OBJECT_SHARED Models/lib/LongRow.ac -78.90333 38.26288 357.89 143.13
-OBJECT_SHARED Models/lib/MedHangar.ac -78.90311 38.26369 359.05 141.88
-OBJECT_SHARED Models/lib/MedHangar.ac -78.90178 38.26292 357.87 52.32
-OBJECT_SHARED Models/lib/MedHangar.ac -78.90219 38.26317 358.27 52.32
-OBJECT_SHARED Models/lib/MedHangar.ac -78.90275 38.26350 358.72 52.32
-OBJECT_SHARED Models/lib/MedHangar.ac -78.90100 38.26269 357.68 141.92
-OBJECT_SHARED Models/lib/fuel-truck.xml -78.90269 38.26173 356.07 142.01
-OBJECT_SHARED Models/lib/fuel-truck.xml -78.90228 38.26180 356.28 134.09
-OBJECT_SHARED Models/lib/HorizTanks2.ac -78.90277 38.26155 355.76 321.88
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -78.90268 38.26169 356.07 139.97
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.90209 38.26161 356.04 50.83
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.90046 38.26273 357.75 51.66
-OBJECT_SHARED Models/lib/citation.ac -78.90158 38.26271 357.62 233
-OBJECT_SHARED Models/lib/chariot3curve.ac -78.90023 38.26337 358.53 90
-OBJECT_SHARED Models/lib/belt_loader.ac -78.90016 38.26348 358.63 237.65
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -78.90266 38.26296 357.99 144.29
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75267 38.33323 0.00 265.073
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75302 38.33311 327.27 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75311 38.33307 327.01 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75317 38.33304 326.82 267.51
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75326 38.33301 326.93 250.821
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75344 38.33292 326.74 258.024
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75358 38.33287 326.86 256.908
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75483 38.33241 326.48 252.553
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75492 38.33238 325.72 255.256
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75504 38.33233 325.53 256.607
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75563 38.33209 325.65 277.595
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75568 38.33207 325.12 263.66
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75576 38.33205 324.93 243.435
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75580 38.33203 324.82 267.614
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75585 38.33200 325.05 251.565
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75593 38.33199 325.09 261.254
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75601 38.33195 325.09 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75612 38.33191 325.36 253.495
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75623 38.33186 325.52 253.301
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75658 38.33173 325.67 235.008
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75682 38.33163 326.53 243.435
+OBJECT_SHARED Models/lib/SmHangar.ac -78.75635 38.33169 326.96 119.337
+OBJECT_SHARED Models/lib/SmHangar.ac -78.75509 38.33217 326.06 119.337
 # END dsf2stg

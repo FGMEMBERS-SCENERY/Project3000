@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.74224 27.35209 0.00 75.96
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.74348 27.35226 199.03 295.41
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -98.74117 27.35086 199.79 313.45
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.74151 27.35138 198.41 321.61
+OBJECT_SHARED Models/Transport/hatchback_black.ac -98.74248 27.35273 198.60 162.62
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.74145 27.35133 199.25 310.43
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -98.74138 27.35140 198.59 0
+OBJECT_SHARED Models/lib/prop_a.ac -98.74074 27.35138 198.55 138.3
+OBJECT_SHARED Models/lib/propane-tank.ac -98.74129 27.35088 198.21 315
+OBJECT_SHARED Models/lib/garage-small-white.ac -98.74125 27.35127 198.46 45.83
+OBJECT_SHARED Models/lib/cars6.ac -98.74133 27.35126 198.45 314.9
+OBJECT_SHARED Models/lib/shed8x10.ac -98.74113 27.35084 198.49 316.71
+OBJECT_SHARED Models/lib/shed8x10.ac -98.74083 27.35113 198.36 225.63
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.74099 27.35097 198.25 226.58
+OBJECT_SHARED Models/lib/watertank3x1.ac -98.74114 27.35078 198.33 45.33
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -98.74116 27.35116 198.36 226.19
+OBJECT_SHARED Models/lib/lamp10m.xml -98.74251 27.35274 198.44 226.07
+OBJECT_SHARED Models/lib/lamp10m.xml -98.74258 27.35281 199.25 226.32
+OBJECT_SHARED Models/Misc/6barrels.ac -98.74120 27.35084 199.32 273.19
+OBJECT_SHARED Models/lib/transformer3x3.ac -98.74120 27.35120 198.40 136.31
+OBJECT_SHARED Models/lib/cars4.ac -98.74170 27.35132 198.44 135.82
+OBJECT_SHARED Models/lib/lamp10m.xml -98.74158 27.35153 198.68 229.34
+OBJECT_SHARED Models/lib/lamp10m.xml -98.74163 27.35155 198.66 134.67
+OBJECT_SHARED Models/lib/lamp10m.xml -98.74170 27.35162 198.67 134.67
+OBJECT_SHARED Models/lib/lamp10m.xml -98.74120 27.35128 198.72 317.23
+OBJECT_SHARED Models/lib/lamp10m.xml -98.74141 27.35148 198.45 317.23
+# END dsf2stg

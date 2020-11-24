@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -131.58118 55.12891 0.00 223.36
+OBJECT_SHARED Models/Trees/billboard-tree.xml -131.58130 55.12900 3.76 213.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml -131.58135 55.12906 3.32 237.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml -131.58608 55.12770 2.88 187.76
+OBJECT_SHARED Models/Trees/billboard-tree.xml -131.58572 55.12773 4.99 197.77
+OBJECT_SHARED Models/Trees/billboard-tree.xml -131.58536 55.12777 4.99 197.77
+OBJECT_SHARED Models/Trees/billboard-tree.xml -131.58418 55.12795 4.39 197.77
+OBJECT_SHARED Models/Trees/billboard-tree.xml -131.58404 55.12802 3.27 270.72
+OBJECT_SHARED Models/Trees/billboard-tree.xml -131.58372 55.12801 3.27 210.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml -131.58366 55.12809 3.27 237.65
+OBJECT_SHARED Models/lib/cars4.ac -131.58338 55.12868 2.75 28.74
+OBJECT_SHARED Models/lib/cars2.ac -131.58348 55.12867 0.67 27.84
+OBJECT_SHARED Models/lib/cars10.ac -131.58392 55.12854 0.67 27.86
+OBJECT_SHARED Models/lib/cars10.ac -131.58435 55.12841 0.12 28.31
+OBJECT_SHARED Models/lib/cars10.ac -131.58478 55.12828 0.70 28.31
+OBJECT_SHARED Models/lib/cars10.ac -131.58554 55.12807 -0.00 28.31
+OBJECT_SHARED Models/lib/cars10.ac -131.58526 55.12799 0.82 197.8
+OBJECT_SHARED Models/lib/cars6.ac -131.58485 55.12808 3.34 203.09
+OBJECT_SHARED Models/lib/cars10.ac -131.58441 55.12819 1.97 204.1
+OBJECT_SHARED Models/lib/cars10.ac -131.58396 55.12831 2.21 204.1
+OBJECT_SHARED Models/lib/cars10.ac -131.58352 55.12842 1.28 204.1
+OBJECT_SHARED Models/lib/cars10.ac -131.58308 55.12853 0.70 204.1
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -131.58234 55.12849 1.55 218.74
+OBJECT_SHARED Models/Transport/van_red.ac -131.58230 55.12850 3.86 30.78
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -131.58227 55.12859 3.86 50.06
+OBJECT_SHARED Models/Transport/van_red.ac -131.58233 55.12860 3.42 221.28
+OBJECT_SHARED Models/Transport/van_silver.ac -131.58216 55.12870 3.42 298.2
+OBJECT_SHARED Models/Transport/hatchback_black.ac -131.58260 55.12853 2.98 125.64
+OBJECT_SHARED Models/Transport/hatchback_black.ac -131.58275 55.12865 1.55 130.24
+OBJECT_SHARED Models/Transport/hatchback_red.ac -131.58271 55.12863 0.67 116.08
+OBJECT_SHARED Models/Transport/hatchback_black.ac -131.58268 55.12862 1.09 116.13
+OBJECT_SHARED Models/Transport/hatchback_black.ac -131.58264 55.12861 1.09 118.11
+OBJECT_SHARED Models/Transport/van_silver.ac -131.58262 55.12859 1.09 115.64
+OBJECT_SHARED Models/Transport/hatchback_red.ac -131.58262 55.12857 1.09 118.18
+OBJECT_SHARED Models/Transport/hatchback_black.ac -131.58261 55.12854 1.09 299.7
+OBJECT_SHARED Models/lib/garden-shed.ac -131.58257 55.12845 1.55 33.57
+OBJECT_SHARED Models/lib/shed8x10.ac -131.57719 55.13101 2.64 303.69
+OBJECT_SHARED Models/lib/cars6.ac -131.58319 55.12875 0.01 25.76
+OBJECT_SHARED Models/lib/cars6.ac -131.58505 55.12819 0.14 26.17
+OBJECT_SHARED Models/lib/shed8x10.ac -131.58165 55.12866 0.21 123.05
+OBJECT_SHARED Models/lib/shed8x10.ac -131.58221 55.12854 2.98 32.85
+OBJECT_SHARED Models/lib/garage-small-white.ac -131.58240 55.12838 3.86 124
+OBJECT_SHARED Models/lib/garage-small-white.ac -131.58229 55.12842 4.30 124
+# END dsf2stg

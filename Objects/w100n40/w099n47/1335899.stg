@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -98.11251 47.42563 0.00 270
+OBJECT_SHARED Models/lib/watertank3x1.ac -98.11251 47.42566 433.33 267.14
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.11244 47.42550 433.30 359.3
+OBJECT_SHARED Models/lib/trailer-ups.ac -98.11243 47.42561 433.36 180.21
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -98.11280 47.42513 433.33 270
+OBJECT_SHARED Models/Misc/picnic_table.ac -98.11284 47.42481 433.45 267.14
+OBJECT_SHARED Models/lib/lamp10m.xml -98.11278 47.42447 433.50 181.43
+OBJECT_SHARED Models/lib/lamp10m.xml -98.11318 47.42514 433.53 -88.29
+OBJECT_SHARED Models/lib/propane-tank.ac -98.11237 47.42444 433.41 262.41
+OBJECT_SHARED Models/Transport/hatchback_green.ac -98.11302 47.42509 433.57 272.29
+OBJECT_SHARED Models/lib/propane-tank.ac -98.11290 47.42485 433.43 0
+OBJECT_SHARED Models/lib/propane-tank.ac -98.11310 47.42475 433.48 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.11161 47.42509 433.48 271.86
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.11221 47.42422 433.43 359.12
+OBJECT_SHARED Models/lib/hangar81x16.ac -98.11208 47.42417 433.60 89.39
+OBJECT_SHARED Models/lib/prop_a.ac -98.11154 47.42516 433.60 0
+# END dsf2stg

@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -65.73123 -19.54902 0.00 33.3814
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -65.72018 -19.54373 3933.34 318.576
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -65.72021 -19.54375 3913.96 206.335
+OBJECT_SHARED Models/lib/belt_loader.ac -65.72024 -19.54377 3914.28 -60.0907
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -65.72472 -19.54523 3914.28 206.565
+# END dsf2stg

@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cube16x10.ac -107.93386 32.81336 0.00 22.24
+OBJECT_SHARED Models/lib/SmHangar.ac -107.93475 32.81302 1759.06 114.07
+OBJECT_SHARED Models/lib/SmHangar.ac -107.93550 32.81116 1761.56 179.69
+OBJECT_SHARED Models/lib/SmHangar.ac -107.93644 32.81625 1763.05 110.44
+OBJECT_SHARED Models/lib/SmHangar.ac -107.93537 32.80899 1759.90 181.11
+OBJECT_SHARED Models/lib/SmHangar.ac -107.93536 32.80867 1767.35 180.86
+OBJECT_SHARED Models/lib/SmHangar.ac -107.93540 32.80930 1767.56 89.64
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -107.93464 32.81317 1766.35 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.93620 32.81602 1761.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.93614 32.81594 1760.07 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.93621 32.81580 1760.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.93570 32.81118 1760.24 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.93577 32.81128 1764.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.93466 32.81133 1764.80 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -107.93551 32.80881 1763.04 0
+# END dsf2stg

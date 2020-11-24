@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac 10.67630 60.63776 0.00 78.4
+OBJECT_SHARED Models/lib/prop_a.ac 10.67636 60.63710 404.19 353.29
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.67813 60.63733 403.30 253.3
+OBJECT_SHARED Models/Transport/hatchback_red.ac 10.67609 60.63680 401.81 88.71
+OBJECT_SHARED Models/Transport/hatchback_green.ac 10.67609 60.63684 403.55 269.46
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.67777 60.63678 403.55 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.67777 60.63676 401.79 63.43
+OBJECT_SHARED Models/lib/coal_pile.ac 10.67644 60.63792 401.79 124.16
+OBJECT_SHARED Models/lib/stack_of_cones.ac 10.67644 60.63747 404.11 38.66
+OBJECT_SHARED Models/Transport/van_red.ac 10.68334 60.63679 403.67 109.98
+OBJECT_SHARED Models/Transport/hatchback_green.ac 10.68333 60.63682 380.28 109.98
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67841 60.63744 380.28 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67832 60.63737 401.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67826 60.63728 401.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67825 60.63719 401.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67816 60.63710 401.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67810 60.63695 401.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67785 60.63671 401.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67779 60.63662 401.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67775 60.63654 401.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67769 60.63642 401.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.67760 60.63621 401.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.68346 60.63658 401.74 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.68307 60.63656 380.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.68274 60.63655 381.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.68287 60.63669 382.69 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.68295 60.63678 382.16 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 10.68457 60.63677 381.66 90
+OBJECT_SHARED Models/lib/shed8x10.ac 10.67796 60.63704 379.48 84.85
+OBJECT_SHARED Models/lib/shed8x10.ac 10.67791 60.63691 401.85 68.02
+OBJECT_SHARED Models/lib/office3x10.ac 10.67784 60.63682 401.82 334.4
+OBJECT_SHARED Models/lib/office3x10.ac 10.67624 60.63766 401.79 315
+OBJECT_SHARED Models/lib/office6x12.ac 10.67609 60.63711 404.26 340.7
+# END dsf2stg

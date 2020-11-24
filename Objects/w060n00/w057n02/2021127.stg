@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -56.12475 2.02555 0.00 1.07
+OBJECT_SHARED Models/lib/office3x10.ac -56.12439 2.02581 269.68 356.73
+OBJECT_SHARED Models/lib/office3x10.ac -56.12467 2.02544 269.38 0
+OBJECT_SHARED Models/lib/shed8x10.ac -56.12420 2.02557 269.83 1.83
+OBJECT_SHARED Models/lib/shed8x10.ac -56.12450 2.02596 270.09 183.29
+OBJECT_SHARED Models/lib/garage-small-white.ac -56.12433 2.02566 268.97 2.45
+OBJECT_SHARED Models/lib/garage-small-white.ac -56.12450 2.02549 269.80 4.21
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -56.12423 2.02594 269.90 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -56.12451 2.02581 269.27 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -56.12477 2.02590 269.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -56.12432 2.02581 268.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -56.12411 2.02544 269.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -56.12492 2.02588 270.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -56.12453 2.02537 268.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -56.12394 2.02579 270.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -56.12499 2.02582 269.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -56.12412 2.02593 268.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -56.12455 2.02571 269.36 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -56.12469 2.02591 269.46 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -56.12482 2.02571 268.92 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -56.12429 2.02548 269.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -56.12386 2.02605 269.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -56.12483 2.02542 269.01 0
+# END dsf2stg

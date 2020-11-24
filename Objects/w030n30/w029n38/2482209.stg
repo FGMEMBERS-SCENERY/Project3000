@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -28.71558 38.52139 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -28.71605 38.52139 33.21 0
+OBJECT_SHARED Models/lib/lamp10m.xml -28.71510 38.52146 33.16 0
+OBJECT_SHARED Models/lib/lamp10m.xml -28.71665 38.52146 33.42 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71574 38.52203 33.26 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -28.71521 38.52140 34.13 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -28.71524 38.52140 33.27 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -28.71521 38.52142 33.27 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -28.71524 38.52142 33.27 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -28.71521 38.52145 33.27 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -28.71524 38.52145 33.27 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71652 38.52196 33.27 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71636 38.52199 34.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71195 38.52187 34.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71219 38.52161 49.32 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71232 38.52144 44.92 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71324 38.52094 33.60 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71300 38.52097 32.77 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71353 38.52080 32.95 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71408 38.52082 32.58 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71521 38.52153 32.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71659 38.52172 33.41 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -28.71667 38.52173 33.60 315
+OBJECT_SHARED Models/lib/office32x25n.ac -28.71187 38.52095 33.60 0.330002
+OBJECT_SHARED Models/lib/office32x25.ac -28.71418 38.52133 32.92 64.98
+OBJECT_SHARED Models/lib/cars10.ac -28.71441 38.52122 33.25 333.82
+OBJECT_SHARED Models/lib/cars10.ac -28.71446 38.52115 33.09 333.82
+OBJECT_SHARED Models/lib/cars10.ac -28.71518 38.52162 32.93 327.07
+OBJECT_SHARED Models/lib/cars10.ac -28.71484 38.52154 33.56 151.19
+OBJECT_SHARED Models/lib/cars10.ac -28.71477 38.52161 33.45 151.19
+OBJECT_SHARED Models/lib/cars10.ac -28.71643 38.52161 33.60 180
+OBJECT_SHARED Models/lib/cars10.ac -28.71571 38.52190 33.46 180
+OBJECT_SHARED Models/lib/cars10.ac -28.71600 38.52185 33.97 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -28.71332 38.52104 33.80 357.8
+# END dsf2stg

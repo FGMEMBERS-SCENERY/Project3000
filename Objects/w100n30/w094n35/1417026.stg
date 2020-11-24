@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4space_wStop.ac -93.43348 35.08742 0.00 338
+OBJECT_SHARED Models/lib/transformer3x3.ac -93.43327 35.08724 113.11 336.54
+OBJECT_SHARED Models/lib/office16x4n.ac -93.43293 35.08728 113.30 68.41
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.43266 35.08710 113.32 255
+OBJECT_SHARED Models/lib/MedHangar.ac -93.43217 35.08709 113.51 254.7
+OBJECT_SHARED Models/lib/prop_a.ac -93.43207 35.08729 113.63 255
+OBJECT_SHARED Models/lib/prop_a.ac -93.43190 35.08725 113.53 255
+# END dsf2stg

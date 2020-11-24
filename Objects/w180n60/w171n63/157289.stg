@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -170.48661 63.69091 0.00 215.71
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -170.48671 63.69066 6.67 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -170.48672 63.69068 6.99 0
+OBJECT_SHARED Models/lib/lamp10m.xml -170.48544 63.69101 6.99 119.74
+OBJECT_SHARED Models/lib/lamp10m.xml -170.48657 63.69074 7.10 115.46
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -170.49158 63.68889 -88.01 0
+OBJECT_SHARED Models/lib/coal_pile.ac -170.48432 63.69123 8.99 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -170.48674 63.69076 7.12 69.9
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -170.48698 63.69092 6.83 185.71
+OBJECT_SHARED Models/lib/stack_of_cones.ac -170.48743 63.69049 6.67 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -170.48593 63.68988 7.31 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -170.48468 63.69115 8.61 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -170.48669 63.69065 6.77 0
+# END dsf2stg

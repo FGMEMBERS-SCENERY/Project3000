@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -91.50943 14.86205 0.00 307.64
+OBJECT_SHARED Models/lib/cars6.ac -91.50656 14.86114 2373.43 37.52
+OBJECT_SHARED Models/lib/cars10.ac -91.50684 14.86093 2371.67 37.39
+OBJECT_SHARED Models/lib/cars4.ac -91.50629 14.86112 2371.32 218.05
+OBJECT_SHARED Models/lib/cars10.ac -91.50638 14.86105 2371.79 218.23
+OBJECT_SHARED Models/lib/cars10.ac -91.50661 14.86088 2371.74 217.62
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -91.50972 14.85893 2371.39 307.67
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -91.50952 14.85891 2369.24 127.91
+OBJECT_SHARED Models/lib/trailer-ups.ac -91.50989 14.85907 2368.97 37.93
+OBJECT_SHARED Models/lib/transformer3x3.ac -91.51040 14.86178 2369.85 38.27
+OBJECT_SHARED Models/lib/transformer3x3.ac -91.50618 14.86121 2374.38 126.62
+OBJECT_SHARED Models/lib/transformer3x3.ac -91.50695 14.86064 2371.97 307.62
+# END dsf2stg

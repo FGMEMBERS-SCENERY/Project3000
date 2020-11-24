@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -79.43678 35.34083 0.00 10.6639
+OBJECT_SHARED Models/lib/cars10.ac -79.43675 35.34047 131.45 146.576
+OBJECT_SHARED Models/lib/cars10.ac -79.43640 35.34047 129.83 324.986
+OBJECT_SHARED Models/lib/cars10.ac -79.43668 35.34064 129.98 324.986
+OBJECT_SHARED Models/lib/cars10.ac -79.43696 35.34081 130.39 324.986
+OBJECT_SHARED Models/lib/cars10.ac -79.43646 35.34032 131.35 146.576
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43650 35.34002 128.82 167.735
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43632 35.33995 127.14 47.1209
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43633 35.33977 127.24 81.3268
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43639 35.33961 125.08 64.5637
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43648 35.33955 124.59 30.9637
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43652 35.33952 124.26 288.886
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43658 35.33951 124.19 26.0753
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43669 35.33950 123.85 8.1301
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43680 35.33953 123.52 340.616
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43689 35.33959 123.18 315.764
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43693 35.33956 124.70 220.364
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43700 35.33964 124.70 296.565
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43705 35.33977 124.65 277.892
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43701 35.33990 125.72 239.621
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43690 35.33999 126.33 222.797
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.43658 35.34001 126.94 162.98
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43636 35.33981 127.09 53.4269
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43647 35.33965 125.98 48.9908
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43651 35.33959 124.33 294.444
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43661 35.33958 124.26 15.7086
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43669 35.33955 123.92 354.289
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43678 35.33959 123.59 303.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43685 35.33963 124.31 204.624
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43693 35.33968 124.70 292.056
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43697 35.33977 125.26 200.158
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43694 35.33985 125.77 149.133
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43687 35.33992 126.38 228.691
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43676 35.33996 126.38 187.454
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43662 35.33996 126.98 163.706
+OBJECT_SHARED Models/lib/shed8x10.ac -79.43727 35.34067 127.09 329.234
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.43637 35.34181 130.64 146.101
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43703 35.34089 128.06 56.6894
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43706 35.34091 131.28 56.6894
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.43710 35.34092 131.22 56.6894
+# END dsf2stg

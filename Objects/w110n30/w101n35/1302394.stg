@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -100.40104 35.89544 0.00 0.25
+OBJECT_SHARED Models/lib/prop_a.ac -100.40166 35.89498 726.52 359.968
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -100.40052 35.89595 725.88 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -100.40062 35.89596 725.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -100.40034 35.89562 725.57 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -100.40033 35.89570 728.21 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -100.40035 35.89578 728.08 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -100.40033 35.89586 727.94 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -100.40041 35.89593 727.81 0
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40049 35.89422 727.81 359.84
+OBJECT_SHARED Models/lib/LongRow.ac -100.40121 35.89412 729.79 90
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40049 35.89402 728.54 359.1
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40067 35.89393 729.93 270.43
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40092 35.89392 728.84 270.74
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40117 35.89392 728.84 268.98
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40049 35.89443 728.84 0.989998
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40063 35.89454 729.65 90
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40093 35.89463 727.92 0.75
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40093 35.89484 727.77 1.45
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40094 35.89504 727.46 1.1
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40139 35.89269 727.14 347.77
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40134 35.89288 729.82 349.86
+OBJECT_SHARED Models/lib/MedHangar.ac -100.40132 35.89346 729.73 0
+OBJECT_SHARED Models/lib/SmHangar.ac -100.40151 35.89242 729.07 268.49
+# END dsf2stg

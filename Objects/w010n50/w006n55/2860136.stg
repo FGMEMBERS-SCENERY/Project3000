@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -5.75926 55.65330 0.00 26.5
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.75047 55.65545 1.18 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.75059 55.65546 5.76 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.75454 55.65573 5.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.75391 55.65655 9.48 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -5.75032 55.65427 4.29 281.31
+OBJECT_SHARED Models/Transport/hatchback_black.ac -5.75030 55.65423 1.42 104.826
+OBJECT_SHARED Models/Transport/hatchback_black.ac -5.75417 55.65811 1.27 112.38
+OBJECT_SHARED Models/lib/shed8x10.ac -5.75464 55.65828 13.35 34.3802
+OBJECT_SHARED Models/lib/shed8x10.ac -5.75737 55.65551 15.13 164.476
+OBJECT_SHARED Models/lib/shed8x10.ac -5.75012 55.65433 2.25 15.255
+# END dsf2stg

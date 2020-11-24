@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -98.74328 37.70196 0.00 0
+OBJECT_SHARED Models/lib/large-hangar.ac -98.74228 37.69873 595.41 178.49
+OBJECT_SHARED Models/lib/MedHangar.ac -98.74471 37.70454 590.88 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.74453 37.70532 592.54 178.81
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.74450 37.70496 592.71 178.81
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.74452 37.70398 592.63 178.81
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.74450 37.70362 592.38 178.81
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.74313 37.70611 592.28 179.56
+OBJECT_SHARED Models/lib/SmHangar.ac -98.74354 37.70576 592.64 0.25
+OBJECT_SHARED Models/Transport/Norberttruck.xml -98.74441 37.71128 592.65 358.57
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -98.74435 37.71115 593.88 90.99
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -98.74418 37.71115 593.86 90.99
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -98.74401 37.71115 593.84 90
+OBJECT_SHARED Models/lib/loader.ac -98.74454 37.71066 593.82 -45.15
+OBJECT_SHARED Models/lib/belt_loader.ac -98.74447 37.71058 593.82 270
+# END dsf2stg

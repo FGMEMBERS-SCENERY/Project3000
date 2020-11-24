@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -93.25057 44.12253 0.00 231.34
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -93.25031 44.12135 346.77 232.82
+OBJECT_SHARED Models/Misc/picnic_table.ac -93.25078 44.12135 346.11 344.48
+OBJECT_SHARED Models/Misc/picnic_table.ac -93.25078 44.12131 345.85 83.66
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25041 44.12230 345.88 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25043 44.12231 345.83 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25074 44.12152 345.83 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25088 44.12142 345.87 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25128 44.12211 345.81 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25134 44.12200 345.43 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25147 44.12194 345.46 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25157 44.12182 345.39 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25168 44.12165 345.38 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25035 44.12186 345.40 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25038 44.12183 345.96 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.25078 44.12146 345.94 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -93.25017 44.12327 347.28 318.81
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -93.25021 44.12328 345.74 319.4
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.25025 44.12332 345.74 310.6
+OBJECT_SHARED Models/Transport/hatchback_green.ac -93.25036 44.12175 345.74 236.82
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -93.25015 44.12157 345.94 235.89
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.25040 44.12166 346.09 310.03
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -93.25004 44.12082 345.96 65.56
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.25084 44.12279 346.15 310.92
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.25057 44.12113 345.51 232.43
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.25012 44.12123 346.02 310.36
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.25017 44.12127 346.23 315
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -93.25009 44.12141 346.38 51.34
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.25005 44.12145 346.19 57.26
+OBJECT_SHARED Models/lib/LongRow.ac -93.25029 44.12233 346.89 52.21
+OBJECT_SHARED Models/lib/LongRow.ac -93.25064 44.12263 345.89 52.36
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.25049 44.12142 345.66 322.97
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.25038 44.12185 346.50 52.44
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.25081 44.12146 345.91 234.32
+OBJECT_SHARED Models/lib/prop_a.ac -93.25130 44.12204 345.82 325.75
+OBJECT_SHARED Models/lib/prop_a.ac -93.25140 44.12194 345.46 326.77
+OBJECT_SHARED Models/lib/prop_a.ac -93.25171 44.12164 346.81 321
+OBJECT_SHARED Models/lib/lamp10m.xml -93.25008 44.12150 346.50 140.71
+OBJECT_SHARED Models/lib/lamp10m.xml -93.25023 44.12137 346.17 140.39
+OBJECT_SHARED Models/lib/lamp10m.xml -93.25051 44.12112 346.13 49.76
+OBJECT_SHARED Models/lib/lamp10m.xml -93.25085 44.12131 346.06 47.82
+OBJECT_SHARED Models/lib/lamp10m.xml -93.25085 44.12142 345.83 -40.1
+OBJECT_SHARED Models/lib/lamp10m.xml -93.25050 44.12174 345.81 -42.18
+# END dsf2stg

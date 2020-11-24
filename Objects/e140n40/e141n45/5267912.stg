@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 141.18387 45.24381 0.00 212.71
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 141.18385 45.24383 24.88 215.28
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 141.18402 45.24383 24.88 0
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 141.18326 45.24347 24.88 90
+OBJECT_SHARED Models/lib/lamp10m.xml 141.18474 45.24421 24.42 121.92
+OBJECT_SHARED Models/lib/lamp10m.xml 141.18399 45.24387 25.06 131.11
+OBJECT_SHARED Models/lib/lamp10m.xml 141.18313 45.24347 24.69 122.74
+OBJECT_SHARED Models/lib/FireStationLg.ac 141.18503 45.24444 24.42 302.78
+OBJECT_SHARED Models/lib/MedHangar.ac 141.18448 45.24414 24.67 121.66
+# END dsf2stg

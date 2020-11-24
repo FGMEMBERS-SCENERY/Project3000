@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -78.52620 -9.15006 0.00 0.67691
+OBJECT_SHARED Models/Transport/van_red.ac -78.52623 -9.15006 12.92 8.5307
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -78.52616 -9.15032 12.92 240.751
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -78.52617 -9.15037 12.84 258.408
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.52582 -9.14979 12.82 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.52564 -9.14983 13.55 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.52558 -9.15115 13.65 215.632
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -78.52550 -9.15059 13.40 306.469
+OBJECT_SHARED Models/lib/MedHangar.ac -78.52585 -9.14996 13.64 170.538
+OBJECT_SHARED Models/lib/office32x25n.ac -78.52623 -9.14943 13.40 173.884
+OBJECT_SHARED Models/lib/shed8x10.ac -78.52669 -9.15007 13.13 83.2902
+OBJECT_SHARED Models/lib/shed8x10.ac -78.52587 -9.14951 12.90 83.2902
+OBJECT_SHARED Models/lib/HorizTanks2.ac -78.52570 -9.15022 13.44 171.927
+OBJECT_SHARED Models/lib/container6-HD.ac -78.52618 -9.15043 13.63 260.499
+OBJECT_SHARED Models/lib/container6-HD.ac -78.52628 -9.15080 12.80 170.134
+OBJECT_SHARED Models/lib/LongRow.ac -78.52615 -9.15112 12.47 81.8699
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.52564 -9.15118 12.73 118.811
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -78.52556 -9.15050 13.39 221.424
+OBJECT_SHARED Models/lib/coal_pile.ac -78.52579 -9.14958 13.61 90
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.52599 -9.15081 13.50 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.52594 -9.15050 13.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.52601 -9.15117 13.27 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.52591 -9.15130 12.89 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.52586 -9.15152 13.03 0
+OBJECT_SHARED Models/lib/industrial15x22.ac -78.52604 -9.15034 12.97 352.555
+# END dsf2stg

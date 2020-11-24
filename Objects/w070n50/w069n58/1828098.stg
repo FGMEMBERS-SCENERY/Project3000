@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -68.41802 58.10090 0.00 194.036
+OBJECT_SHARED Models/lib/prop_a.ac -68.41830 58.10148 34.24 196.165
+OBJECT_SHARED Models/lib/prop_a.ac -68.41786 58.10062 34.43 191.768
+OBJECT_SHARED Models/lib/MedHangar.ac -68.41684 58.10013 34.11 319.466
+OBJECT_SHARED Models/lib/SmHangar.ac -68.42061 58.10068 33.25 172.963
+OBJECT_SHARED Models/lib/MedHangar.ac -68.41877 58.10044 35.06 136.399
+OBJECT_SHARED Models/lib/SmHangar.ac -68.41818 58.09939 34.39 316.417
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.42225 58.09894 33.59 272.891
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.42149 58.09939 34.27 275.667
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.41984 58.10039 34.56 252.621
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.42083 58.09978 34.76 274.398
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.41870 58.09923 34.71 94.8988
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -68.41915 58.09898 33.65 97.8528
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -68.41911 58.09901 33.68 8.42709
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -68.42043 58.09936 33.64 183.789
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -68.41930 58.10035 34.32 137.575
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -68.42073 58.10044 34.61 143.285
+OBJECT_SHARED Models/Airport/cargoip.xml -68.41947 58.10060 35.00 0
+OBJECT_SHARED Models/Airport/cargoip.xml -68.42048 58.10103 34.75 0
+OBJECT_SHARED Models/Airport/cargobox.xml -68.42041 58.10100 35.12 0
+OBJECT_SHARED Models/Airport/cargobox.xml -68.42043 58.10103 35.09 0
+OBJECT_SHARED Models/Airport/cargobox.xml -68.42046 58.10100 35.09 0
+OBJECT_SHARED Models/lib/loader.ac -68.42024 58.09942 35.12 -41.3566
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -68.41951 58.10057 34.27 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -68.41950 58.10061 34.75 0
+OBJECT_SHARED Models/lib/container6-HD.ac -68.41948 58.10067 34.75 0
+OBJECT_SHARED Models/lib/container6-HD.ac -68.42068 58.10087 34.78 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -68.41885 58.09995 35.15 139.113
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -68.42013 58.09943 34.22 17.8787
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -68.42027 58.09943 34.24 318.833
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -68.42019 58.09941 34.30 23.609
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -68.42024 58.09934 34.27 87.7543
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -68.42024 58.09938 34.19 51.3721
+OBJECT_SHARED Models/lib/caisses_group.ac -68.41895 58.09879 34.27 331.699
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -68.41930 58.09893 33.38 203.86
+# END dsf2stg

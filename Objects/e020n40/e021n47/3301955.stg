@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac 21.89697 47.02588 0.00 264.543
+OBJECT_SHARED Models/lib/cars10.ac 21.89694 47.02559 133.41 84.8626
+OBJECT_SHARED Models/lib/cars14.ac 21.89672 47.02582 133.42 174.76
+OBJECT_SHARED Models/lib/cars14.ac 21.89705 47.02629 133.32 122.629
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 21.89941 47.02810 133.41 273.814
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 21.89930 47.02771 133.84 270
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 21.89915 47.02726 133.85 264.289
+OBJECT_SHARED Models/lib/belt_loader.ac 21.89921 47.02744 133.84 257.905
+OBJECT_SHARED Models/lib/belt_loader.ac 21.89930 47.02778 133.85 259.38
+OBJECT_SHARED Models/lib/belt_loader.ac 21.89942 47.02817 133.84 254.745
+OBJECT_SHARED Models/lib/lamp10m.xml 21.89776 47.02642 133.83 -12.9262
+OBJECT_SHARED Models/lib/lamp10m.xml 21.89770 47.02624 133.58 -14.5003
+OBJECT_SHARED Models/lib/lamp10m.xml 21.89770 47.02567 133.59 -12.8043
+OBJECT_SHARED Models/lib/lamp10m.xml 21.89775 47.02581 133.68 -11.31
+OBJECT_SHARED Models/lib/lamp10m.xml 21.89780 47.02596 133.66 -11.5602
+# END dsf2stg

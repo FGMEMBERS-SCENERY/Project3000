@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -87.90451 36.82002 0.00 1.06
+OBJECT_SHARED Models/lib/lamp10m.xml -87.90434 36.82067 169.85 -22.01
+OBJECT_SHARED Models/lib/lamp10m.xml -87.90401 36.82050 169.10 159.5
+OBJECT_SHARED Models/lib/lamp10m.xml -87.90455 36.82084 168.41 69.77
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.90433 36.82025 169.39 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.90445 36.81998 169.37 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -87.90457 36.82001 169.85 97.33
+OBJECT_SHARED Models/lib/cars2.ac -87.90401 36.82009 170.02 252.27
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -87.90484 36.82020 168.66 66.0547
+OBJECT_SHARED Models/lib/cars2.ac -87.90404 36.82004 170.10 240.51
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -87.90523 36.82024 168.72 66.6278
+OBJECT_SHARED Models/lib/cars6.ac -87.90423 36.81984 170.50 220.955
+# END dsf2stg

@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72520 38.05264 0.00 243.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72616 38.05243 515.15 237.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72612 38.05247 516.38 242.88
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72619 38.05256 516.17 232.12
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72604 38.05257 516.75 93.95
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72617 38.05266 516.02 245.16
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72609 38.05273 517.30 118.81
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72620 38.05280 516.91 282.16
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72661 38.05267 517.98 247.11
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72648 38.05271 518.92 247.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72652 38.05279 518.49 226.85
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72646 38.05282 518.90 211.5
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72636 38.05278 518.90 234.46
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72638 38.05292 518.81 273.37
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.72497 38.05405 521.53 107.49
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.73327 38.05105 529.67 267.51
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.73340 38.05103 535.20 285.95
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.73354 38.05101 533.19 278.33
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.73367 38.05099 534.16 281.77
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.73605 38.05077 536.26 246.25
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.73615 38.05080 539.46 233.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.73618 38.05083 543.98 226.97
+OBJECT_SHARED Models/lib/shed8x10.ac -79.72586 38.05273 545.73 90
+OBJECT_SHARED Models/lib/shed8x10.ac -79.72574 38.05284 516.29 0.220001
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.72557 38.05292 516.11 270.46
+# END dsf2stg

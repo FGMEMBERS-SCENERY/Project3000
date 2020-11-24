@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac 84.94498 24.74708 0.00 34.35
+OBJECT_SHARED Models/lib/office8x14.ac 84.94608 24.74704 113.77 255.4
+OBJECT_SHARED Models/Airport/cargobox.xml 84.94256 24.74806 114.82 0
+OBJECT_SHARED Models/Airport/cargobox.xml 84.94253 24.74806 116.17 0
+OBJECT_SHARED Models/Airport/cargobox.xml 84.94251 24.74806 116.22 0
+OBJECT_SHARED Models/Airport/cargobox.xml 84.94256 24.74809 116.22 0
+OBJECT_SHARED Models/Airport/cargobox.xml 84.94254 24.74809 116.17 0
+OBJECT_SHARED Models/Airport/cargobox.xml 84.94252 24.74809 116.22 0
+OBJECT_SHARED Models/Airport/cargobox.xml 84.94256 24.74812 116.22 0
+OBJECT_SHARED Models/Airport/cargobox.xml 84.94254 24.74812 116.17 0
+OBJECT_SHARED Models/Airport/cargobox.xml 84.94252 24.74812 116.22 0
+OBJECT_SHARED Models/lib/cube16x10.ac 84.95096 24.74558 116.22 256.26
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 84.94423 24.74825 115.66 254.69
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 84.94423 24.74825 115.66 74.69
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 84.94423 24.74825 115.66 164.692
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 84.94356 24.74841 115.24 30.76
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 84.94356 24.74841 115.24 210.76
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 84.94294 24.74854 115.31 169.09
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 84.94294 24.74854 115.31 349.09
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 84.94294 24.74854 115.31 259.085
+# END dsf2stg

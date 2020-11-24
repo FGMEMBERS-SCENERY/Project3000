@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -6.25671 55.67999 16.98 149.35
+OBJECT_SHARED Models/lib/propane-tank.ac -6.25672 55.67997 9.50 149.35
+OBJECT_SHARED Models/lib/propane-tank.ac -6.25674 55.67996 9.50 149.35
+OBJECT_SHARED Models/lib/4space_wStop.ac -6.25041 55.68631 17.08 204.74
+OBJECT_SHARED Models/lib/6space_wStop.ac -6.25029 55.68617 19.11 205.46
+OBJECT_SHARED Models/lib/6space_wStop.ac -6.25013 55.68632 19.04 25.38
+OBJECT_SHARED Models/lib/6space_wStop.ac -6.25027 55.68648 19.27 25.38
+OBJECT_SHARED Models/lib/6space_wStop.ac -6.25040 55.68664 19.47 25.38
+OBJECT_SHARED Models/lib/office3x10.ac -6.25740 55.67989 19.53 327.33
+OBJECT_SHARED Models/lib/transformer3x3.ac -6.25667 55.68002 9.11 238.32
+# END dsf2stg

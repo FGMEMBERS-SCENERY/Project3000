@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -75.95560 35.56100 0.00 350.35
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.95577 35.56051 1.00 259.51
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -75.95558 35.56076 1.00 254.93
+OBJECT_SHARED Models/lib/container6-HD.ac -75.95558 35.56071 1.00 263.85
+OBJECT_SHARED Models/lib/HorizTanks2.ac -75.95556 35.56079 1.00 350.66
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.95569 35.56050 1.00 0
+OBJECT_SHARED Models/Transport/van_red.ac -75.95580 35.56048 1.00 91.5
+OBJECT_SHARED Models/Transport/van_silver.ac -75.95611 35.56049 1.00 350.56
+OBJECT_SHARED Models/Transport/hatchback_black.ac -75.95611 35.56061 1.00 261.25
+# END dsf2stg

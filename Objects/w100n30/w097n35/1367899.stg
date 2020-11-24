@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -96.01442 35.40707 0.00 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.01379 35.40752 253.85 249.864
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.01390 35.40753 252.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.01398 35.40751 252.84 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.01407 35.40750 253.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.01388 35.40665 253.16 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.01391 35.40657 253.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.01407 35.40655 253.24 0
+OBJECT_SHARED Models/lib/lamp10m.xml -96.01429 35.40748 253.58 0.414185
+OBJECT_SHARED Models/lib/lamp10m.xml -96.01442 35.40716 253.47 0
+OBJECT_SHARED Models/lib/lamp10m.xml -96.01444 35.40759 253.79 -2.39627
+OBJECT_SHARED Models/lib/lamp10m.xml -96.01444 35.40774 253.56 -16.6725
+OBJECT_SHARED Models/lib/lamp10m.xml -96.01444 35.40791 253.48 128.72
+# END dsf2stg

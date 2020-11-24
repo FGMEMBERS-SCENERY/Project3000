@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/Norberttruck.xml -110.44363 48.77152 0.00 256.76
+OBJECT_SHARED Models/lib/shed8x10.ac -110.44386 48.77140 885.08 3.39
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -110.44359 48.77117 885.04 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -110.44426 48.77086 884.96 280.95
+OBJECT_SHARED Models/Transport/hatchback_red.ac -110.44454 48.77085 884.85 96.12
+OBJECT_SHARED Models/lib/watertank3x1.ac -110.44316 48.77185 884.98 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -110.44329 48.77183 885.05 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -110.44341 48.77182 885.05 0
+OBJECT_SHARED Models/lib/SmHangar.ac -110.44517 48.77186 885.05 268.75
+# END dsf2stg

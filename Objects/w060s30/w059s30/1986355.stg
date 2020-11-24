@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -58.08523 -29.22541 0.00 18.95
+OBJECT_SHARED Models/lib/lamp10m.xml -58.08473 -29.22527 109.04 18.1
+OBJECT_SHARED Models/lib/watertank3x1.ac -58.08415 -29.22469 109.03 20.43
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -58.08444 -29.22463 109.20 108.27
+# END dsf2stg

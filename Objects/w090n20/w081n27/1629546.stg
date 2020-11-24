@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LgMaint.ac -80.40827 27.65353 0.00 149.07
+OBJECT_SHARED Models/lib/MedHangar.ac -80.40738 27.65421 4.62 149.8
+OBJECT_SHARED Models/lib/MedHangar.ac -80.40699 27.65485 4.48 149.8
+OBJECT_SHARED Models/lib/MedHangar.ac -80.40657 27.65551 4.38 149.8
+OBJECT_SHARED Models/lib/LgMaint.ac -80.41522 27.65124 4.27 249.09
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -80.41643 27.65085 5.27 158.41
+OBJECT_SHARED Models/lib/LongRow.ac -80.42249 27.64786 5.29 159.65
+OBJECT_SHARED Models/lib/LongRow.ac -80.42232 27.64827 5.28 159.65
+OBJECT_SHARED Models/lib/LongRow.ac -80.42196 27.64852 5.30 69.08
+OBJECT_SHARED Models/lib/office32x25.ac -80.41744 27.65154 5.30 69.72
+OBJECT_SHARED Models/lib/admin-with-cars.ac -80.41859 27.65145 5.30 248.77
+OBJECT_SHARED Models/lib/fboModern1.ac -80.41939 27.65231 5.30 249.29
+OBJECT_SHARED Models/lib/fboModern1.ac -80.41686 27.65134 5.28 249.29
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -80.42018 27.65098 5.29 67.96
+OBJECT_SHARED Models/lib/office112x50.ac -80.41096 27.64674 5.29 110.56
+OBJECT_SHARED Models/lib/office40x25.ac -80.42228 27.65080 4.95 66.64
+OBJECT_SHARED Models/lib/HorizTanks2.ac -80.41643 27.65111 5.28 248.37
+OBJECT_SHARED Models/lib/HorizTanks2.ac -80.41904 27.65181 5.29 248.37
+OBJECT_SHARED Models/lib/HorizTanks2.ac -80.41635 27.65108 5.29 248.37
+OBJECT_SHARED Models/lib/HorizTanks2.ac -80.41895 27.65178 5.29 248.37
+OBJECT_SHARED Models/lib/HorizTanks2.ac -80.41652 27.65114 5.29 248.37
+OBJECT_SHARED Models/lib/HorizTanks2.ac -80.41912 27.65184 5.29 248.37
+OBJECT_SHARED Models/lib/LgMaint.ac -80.42706 27.65188 5.29 144.98
+OBJECT_SHARED Models/lib/office65x50.ac -80.42649 27.65239 5.26 145.15
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -80.42658 27.65315 5.25 0
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -80.40967 27.64849 5.23 0
+OBJECT_SHARED Models/lib/office65x50.ac -80.41524 27.64959 4.89 40.4
+# END dsf2stg

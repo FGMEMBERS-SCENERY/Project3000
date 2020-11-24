@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -3.56578 40.51296 586.89 270
+OBJECT_SHARED Models/lib/office112x50.ac -3.58568 40.50074 625.38 270.69
+OBJECT_SHARED Models/lib/office16x4n.ac -3.58463 40.50043 616.71 0.220001
+OBJECT_SHARED Models/lib/office32x25n.ac -3.58065 40.50198 615.43 0
+OBJECT_SHARED Models/lib/office32x25.ac -3.58223 40.50195 609.72 90
+OBJECT_SHARED Models/lib/office65x50.ac -3.58179 40.50212 611.81 0
+# END dsf2stg

@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -140.86250 62.40739 0.00 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -140.86316 62.40825 658.90 198.8
+OBJECT_SHARED Models/lib/watertank3x1.ac -140.86260 62.40674 659.72 12.71
+OBJECT_SHARED Models/lib/deciduous-tree.xml -140.86258 62.40738 658.13 216.2
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -140.86267 62.40746 658.90 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -140.86251 62.40708 659.00 288.278
+OBJECT_SHARED Models/lib/cars2.ac -140.86258 62.40697 658.58 108.41
+OBJECT_SHARED Models/Transport/hatchback_red.ac -140.86249 62.40706 658.47 286.849
+# END dsf2stg

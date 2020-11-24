@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 78.09450 9.83695 -95.00 359.35
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 78.09452 9.83708 40.58 359.35
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 78.09256 9.83657 135.62 160.16
+OBJECT_SHARED Models/lib/SmHangar.ac 78.09243 9.83680 136.51 343.25
+OBJECT_SHARED Models/lib/SmHangar.ac 78.09104 9.83694 136.65 75.66
+OBJECT_SHARED Models/lib/lamp10m.xml 78.08977 9.83803 137.28 99.35
+OBJECT_SHARED Models/lib/lamp10m.xml 78.08933 9.83798 137.94 97.46
+OBJECT_SHARED Models/lib/lamp10m.xml 78.08897 9.83804 138.09 89.35
+OBJECT_SHARED Models/lib/admin-with-cars.ac 78.09345 9.83713 138.19 91.65
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 78.09149 9.83695 136.37 75.35
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 78.08996 9.83798 137.07 188.65
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 78.08952 9.83794 137.87 188.25
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 78.08911 9.83793 138.03 189.25
+OBJECT_SHARED Models/lib/MedHangar.ac 78.08489 9.83895 138.19 51.35
+# END dsf2stg

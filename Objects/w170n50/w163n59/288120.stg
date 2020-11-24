@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -162.88525 59.95879 0.00 69.7178
+OBJECT_SHARED Models/lib/prop_a.ac -162.88185 59.96251 7.34 249.32
+OBJECT_SHARED Models/lib/prop_a.ac -162.88229 59.96274 7.76 254.44
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.88455 59.96134 -87.21 357.62
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.88442 59.96115 -87.08 357.62
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.88461 59.96109 -87.33 357.62
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.88440 59.96124 -87.12 357.62
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.88443 59.96107 -87.33 357.62
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.88438 59.96133 -87.36 357.62
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.88456 59.96125 -87.31 357.62
+OBJECT_SHARED Models/lib/container6-HD.ac -162.88161 59.96270 7.92 284.04
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -162.88170 59.96271 7.79 287.36
+# END dsf2stg

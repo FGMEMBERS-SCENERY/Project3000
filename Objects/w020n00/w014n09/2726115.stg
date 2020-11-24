@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/admin-with-cars.ac -13.62071 9.57510 0.00 131.13
+OBJECT_SHARED Models/lib/transformer3x3.ac -13.62187 9.57084 30.54 237.99
+OBJECT_SHARED Models/lib/SmHangar.ac -13.62199 9.57208 23.90 179.93
+OBJECT_SHARED Models/lib/office65x50.ac -13.62129 9.57442 26.43 310.47
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -13.62241 9.57334 30.06 270.75
+OBJECT_SHARED Models/lib/shed8x10.ac -13.61041 9.58148 29.38 218.21
+OBJECT_SHARED Models/lib/office32x25.ac -13.61885 9.57533 24.63 220.44
+OBJECT_SHARED Models/lib/LongRow.ac -13.60999 9.58248 28.16 311.14
+OBJECT_SHARED Models/lib/MedHangar.ac -13.60675 9.58501 25.55 129.67
+OBJECT_SHARED Models/lib/MedHangar.ac -13.61471 9.57810 23.17 131.13
+# END dsf2stg

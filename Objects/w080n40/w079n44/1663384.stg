@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -78.97886 44.48951 0.00 96.88
+OBJECT_SHARED Models/lib/garage-small-white.ac -78.97923 44.48956 270.61 183.87
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97367 44.49064 270.42 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97920 44.48940 273.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97355 44.49047 270.46 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97845 44.48942 273.46 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97368 44.49072 270.82 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97906 44.48961 273.13 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97379 44.49083 270.47 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97897 44.48962 272.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97369 44.49090 270.53 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97865 44.48965 272.90 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97379 44.49095 270.73 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -78.97858 44.48970 272.69 0
+OBJECT_SHARED Models/lib/SmHangar.ac -78.97958 44.48953 270.73 191.98
+OBJECT_SHARED Models/lib/lamp10m.xml -78.97955 44.48942 270.24 194.24
+OBJECT_SHARED Models/lib/lamp10m.xml -78.97961 44.48962 270.25 196.16
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -78.97961 44.48958 270.23 0
+# END dsf2stg

@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -88.17344 38.71891 0.00 54.23
+OBJECT_SHARED Models/lib/canopy38x8.ac -88.17391 38.71975 140.41 54.23
+OBJECT_SHARED Models/lib/HorizTanks2.ac -88.17392 38.71974 141.30 54.23
+OBJECT_SHARED Models/lib/LongRow.ac -88.17431 38.71834 141.30 54.23
+OBJECT_SHARED Models/lib/LongRow.ac -88.17461 38.71851 140.16 54.23
+OBJECT_SHARED Models/lib/fboModern1.ac -88.17354 38.71915 140.38 54.23
+OBJECT_SHARED Models/lib/fboModern1.ac -88.17354 38.71915 140.38 54.23
+# END dsf2stg

@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -61.78829 50.18858 0.00 333.435
+OBJECT_SHARED Models/Transport/hatchback_red.ac -61.78818 50.18854 8.77 330.593
+OBJECT_SHARED Models/Transport/van_red.ac -61.78811 50.18852 8.78 332.85
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -61.78801 50.18849 8.81 151.928
+OBJECT_SHARED Models/Transport/hatchback_green.ac -61.78794 50.18846 8.84 332.049
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -61.78794 50.18852 8.87 150.945
+OBJECT_SHARED Models/Transport/van_silver.ac -61.78805 50.18855 8.87 336.502
+OBJECT_SHARED Models/Transport/hatchback_black.ac -61.78811 50.18857 8.84 331.504
+OBJECT_SHARED Models/Transport/van_red.ac -61.78822 50.18861 8.83 154.799
+OBJECT_SHARED Models/lib/handicap-sign.ac -61.78809 50.18877 8.80 63
+OBJECT_SHARED Models/lib/handicap-sign.ac -61.78812 50.18878 8.87 63
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -61.78832 50.18859 8.87 328.241
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -61.78825 50.18857 8.77 151.477
+OBJECT_SHARED Models/Transport/van_silver.ac -61.78821 50.18856 8.77 328.393
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -61.78815 50.18853 8.80 331.991
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -61.78808 50.18851 8.81 337.62
+OBJECT_SHARED Models/Transport/van_red.ac -61.78804 50.18850 8.81 154.592
+OBJECT_SHARED Models/Transport/hatchback_black.ac -61.78798 50.18848 8.84 328.109
+OBJECT_SHARED Models/Transport/hatchback_black.ac -61.78791 50.18851 8.84 151.699
+OBJECT_SHARED Models/Transport/hatchback_black.ac -61.78798 50.18853 8.87 155.225
+OBJECT_SHARED Models/Transport/hatchback_black.ac -61.78801 50.18854 8.84 152.354
+OBJECT_SHARED Models/Transport/hatchback_black.ac -61.78808 50.18856 8.84 151.26
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -61.78815 50.18858 8.83 147.653
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -61.78818 50.18860 8.83 157.38
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -61.78825 50.18862 8.80 154.231
+OBJECT_SHARED Models/Transport/hatchback_black.ac -61.78828 50.18863 8.77 150.461
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78761 50.18857 8.77 -25.0917
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78819 50.18876 8.97 151.39
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78810 50.18833 8.84 155.556
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78859 50.18850 8.76 155.556
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -61.78865 50.18855 8.67 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -61.78865 50.18852 8.67 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -61.78870 50.18854 8.67 0
+OBJECT_SHARED Models/lib/SmHangar.ac -61.78652 50.18790 8.64 241.493
+OBJECT_SHARED Models/lib/cars4.ac -61.78847 50.18846 9.21 152.1
+OBJECT_SHARED Models/lib/cars4.ac -61.78776 50.18865 8.70 332.1
+OBJECT_SHARED Models/lib/cars10.ac -61.78808 50.18833 8.93 152.1
+OBJECT_SHARED Models/lib/cars10.ac -61.78815 50.18878 8.76 332.1
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78751 50.18868 8.87 191.468
+OBJECT_SHARED Models/lib/NoParkStripes.xml -61.78864 50.18864 9.01 286.745
+OBJECT_SHARED Models/lib/NoParkStripes.xml -61.78877 50.18890 8.69 287.407
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -61.78804 50.18852 8.70 332.1
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -61.78819 50.18857 8.84 62.1
+OBJECT_SHARED Models/lib/prop_a.ac -61.78615 50.18787 8.80 65.2252
+OBJECT_SHARED Models/lib/lamp10m.xml -61.79015 50.18909 9.30 197.103
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78887 50.18881 8.43 -73.0611
+OBJECT_SHARED Models/lib/lamp10m.xml -61.78857 50.18887 8.66 -74.5538
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -61.78998 50.18936 8.76 150.767
+OBJECT_SHARED Models/lib/HorizTanks2.ac -61.79004 50.18924 8.53 150.061
+# END dsf2stg

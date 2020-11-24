@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -107.29841 34.09479 0.00 177.274
+OBJECT_SHARED Models/lib/office3x10.ac -107.29835 34.09504 2036.28 330.364
+OBJECT_SHARED Models/lib/4container-office.ac -107.29829 34.09467 2034.85 177.803
+OBJECT_SHARED Models/Transport/hatchback_black.ac -107.29742 34.09530 2036.45 98.5257
+OBJECT_SHARED Models/lib/shed8x10.ac -107.29724 34.09551 2035.35 244.464
+OBJECT_SHARED Models/lib/SmHangar.ac -107.29703 34.09571 2034.98 149.268
+OBJECT_SHARED Models/lib/SmHangar.ac -107.29689 34.09592 2034.62 149.511
+OBJECT_SHARED Models/lib/SmHangar.ac -107.29654 34.09650 2034.25 56.9268
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29152 34.10133 2030.65 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29130 34.10187 2019.54 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29122 34.10153 2016.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29138 34.10174 2017.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29202 34.10228 2017.23 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29193 34.10220 2016.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29441 34.09709 2017.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29574 34.09520 2030.73 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29566 34.09535 2035.38 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29593 34.09737 2034.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29605 34.09728 2031.38 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29611 34.09719 2031.58 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29621 34.09712 2031.76 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29612 34.09706 2031.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29624 34.09701 2031.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29638 34.09686 2032.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29727 34.09561 2032.35 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29768 34.09441 2034.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29782 34.09426 2037.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29751 34.09472 2037.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29783 34.09487 2036.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.29794 34.09401 2035.57 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.30106 34.08976 2037.74 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -107.30124 34.08759 2047.00 0
+# END dsf2stg

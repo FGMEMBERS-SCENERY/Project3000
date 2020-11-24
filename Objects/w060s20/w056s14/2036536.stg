@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -55.94178 -13.03583 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -55.94174 -13.03578 407.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -55.94221 -13.03609 407.10 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -55.94175 -13.03571 407.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -55.94182 -13.03589 407.13 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -55.94143 -13.03416 407.16 33.15
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -55.94139 -13.03412 407.65 122.49
+OBJECT_SHARED Models/lib/industrial13x24.ac -55.94225 -13.03612 407.72 208.47
+# END dsf2stg

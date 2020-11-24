@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -94.39018 36.80502 0.00 51.67
+OBJECT_SHARED Models/lib/SmHangar.ac -94.38809 36.80754 380.52 257.61
+OBJECT_SHARED Models/lib/SmHangar.ac -94.38952 36.80765 380.10 79.08
+OBJECT_SHARED Models/lib/SmHangar.ac -94.38994 36.80772 379.93 77.41
+OBJECT_SHARED Models/lib/MedHangar.ac -94.39035 36.80708 379.79 349.94
+OBJECT_SHARED Models/lib/SmHangar.ac -94.39115 36.80549 379.99 51.17
+OBJECT_SHARED Models/lib/SmHangar.ac -94.39099 36.80503 380.10 323.15
+OBJECT_SHARED Models/lib/2container-office.ac -94.38423 36.80727 380.20 50
+OBJECT_SHARED Models/lib/office3x10.ac -94.38413 36.80710 377.62 323.56
+OBJECT_SHARED Models/lib/shed10x50.ac -94.38379 36.80632 377.82 51.3
+OBJECT_SHARED Models/lib/office8x14.ac -94.38793 36.80345 378.66 321.45
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -94.39035 36.80628 381.56 79.51
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -94.39041 36.80594 380.25 57.17
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.39067 36.80595 380.29 80.11
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.39065 36.80602 380.20 258.5
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -94.38997 36.80508 380.18 53.38
+OBJECT_SHARED Models/lib/trailer-ups.ac -94.38592 36.80420 380.60 321.29
+OBJECT_SHARED Models/lib/trailer-ups.ac -94.38579 36.80434 381.60 319.48
+OBJECT_SHARED Models/lib/trailer-ups.ac -94.38582 36.80471 381.50 54
+OBJECT_SHARED Models/lib/trailer-ups.ac -94.38528 36.80486 381.13 320.76
+OBJECT_SHARED Models/lib/trailer-ups.ac -94.38490 36.80527 380.88 321.75
+OBJECT_SHARED Models/lib/trailer-ups.ac -94.38484 36.80533 380.45 322.83
+OBJECT_SHARED Models/Transport/Norberttruck.xml -94.39039 36.80302 380.38 142.93
+OBJECT_SHARED Models/Transport/Norberttruck.xml -94.39059 36.80280 380.05 140.19
+OBJECT_SHARED Models/Transport/Norberttruck.xml -94.38881 36.80335 380.00 234.09
+OBJECT_SHARED Models/lib/prop_a.ac -94.39072 36.80345 380.92 141.07
+OBJECT_SHARED Models/lib/prop_a.ac -94.39088 36.80649 380.35 349.22
+OBJECT_SHARED Models/lib/prop_a.ac -94.39112 36.80702 379.98 170.04
+# END dsf2stg

@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars2.ac -23.54958 65.86990 8.62 153.868
-OBJECT_SHARED Models/lib/stack_of_cones.ac -23.54969 65.86982 8.84 0
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -23.54905 65.86976 8.79 156.073
-OBJECT_SHARED Models/lib/lamp10m.xml -23.54909 65.86972 9.00 155.98
-OBJECT_SHARED Models/lib/lamp10m.xml -23.54966 65.86984 8.84 154.733
-OBJECT_SHARED Models/lib/4container-office.ac -23.54933 65.86983 8.81 332.913
+OBJECT_SHARED Models/lib/cars2.ac -23.54958 65.86990 0.00 153.868
+OBJECT_SHARED Models/lib/stack_of_cones.ac -23.54969 65.86982 8.62 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -23.54905 65.86976 8.84 156.073
+OBJECT_SHARED Models/lib/lamp10m.xml -23.54909 65.86972 8.79 155.98
+OBJECT_SHARED Models/lib/lamp10m.xml -23.54966 65.86984 9.00 154.733
+OBJECT_SHARED Models/lib/4container-office.ac -23.54933 65.86983 8.84 332.913
 # END dsf2stg

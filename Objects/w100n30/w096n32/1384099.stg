@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.06033 32.58400 0.00 1.15
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -95.06541 32.58497 119.22 90
+OBJECT_SHARED Models/lib/prop_a.ac -95.06413 32.58537 115.66 273.58
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -95.06121 32.58405 116.99 87.12
+OBJECT_SHARED Models/Transport/van_silver.ac -95.06082 32.58387 120.19 180.83
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.06089 32.58388 120.30 356.99
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06212 32.58604 120.35 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06194 32.58604 118.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06038 32.58589 119.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06050 32.58583 119.89 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06057 32.58571 117.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06079 32.58583 102.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06066 32.58591 116.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06060 32.58597 120.62 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06050 32.58597 120.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06167 32.58596 120.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06171 32.58598 119.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06163 32.58599 119.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06389 32.58421 119.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06388 32.58430 115.81 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06389 32.58464 115.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06389 32.58454 116.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06388 32.58636 116.14 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.06391 32.58607 116.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.06389 32.58436 114.60 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.06390 32.58584 115.92 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.06389 32.58446 107.95 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.06391 32.58595 116.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -95.06417 32.58637 113.59 0
+# END dsf2stg

@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac 38.63502 56.33306 0.00 203.57
+OBJECT_SHARED Models/lib/office3x10.ac 38.63456 56.33285 167.85 112.869
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 38.63455 56.33269 167.91 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 38.63471 56.33273 167.93 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 38.63463 56.33271 167.89 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 38.63551 56.33294 167.91 213.07
+OBJECT_SHARED Models/Transport/van_red.ac 38.63546 56.33292 167.75 206.51
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 38.63541 56.33291 167.75 209.83
+OBJECT_SHARED Models/lib/garage-small-white.ac 38.63526 56.33287 167.77 114.86
+# END dsf2stg

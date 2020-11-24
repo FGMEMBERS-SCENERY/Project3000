@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -43.91838 -4.51073 0.00 -45.4292
+OBJECT_SHARED Models/lib/lamp10m.xml -43.91861 -4.51031 63.33 43.8807
+OBJECT_SHARED Models/lib/lamp10m.xml -43.91854 -4.51086 63.81 43.8807
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -43.91876 -4.51033 63.18 40.1642
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -43.91827 -4.51093 63.75 224.17
+OBJECT_SHARED Models/Transport/hatchback_black.ac -43.91832 -4.51098 63.15 224.17
+OBJECT_SHARED Models/Transport/hatchback_green.ac -43.91833 -4.51099 63.10 224.17
+# END dsf2stg

@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -107.38403 43.96834 0.00 185.121
+OBJECT_SHARED Models/lib/lamp10m.xml -107.38339 43.96797 1409.68 -72.0576
+OBJECT_SHARED Models/lib/office3x10.ac -107.38379 43.96840 1411.31 201.687
+OBJECT_SHARED Models/lib/propane-tank.ac -107.38334 43.96801 1409.44 247.232
+# END dsf2stg

@@ -1,27 +1,27 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06590 23.07334 3.92 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06578 23.07339 3.99 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06614 23.07424 4.49 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06590 23.07334 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06578 23.07339 3.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06614 23.07424 3.99 270
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06602 23.07416 4.49 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06607 23.07407 4.44 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06596 23.07396 4.38 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06603 23.07387 4.31 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06591 23.07378 4.25 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06598 23.07366 4.19 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06583 23.07356 4.13 270
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.06608 23.07325 3.92 258.02
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.06588 23.07235 3.25 258.28
-OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.06598 23.07281 3.61 258.31
-OBJECT_SHARED Models/lib/belt_loader.ac 113.06586 23.07246 3.40 270
-OBJECT_SHARED Models/lib/belt_loader.ac 113.06597 23.07288 3.67 247.07
-OBJECT_SHARED Models/lib/belt_loader.ac 113.06611 23.07334 3.92 261.87
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 113.06602 23.07316 3.85 0
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 113.06591 23.07274 3.54 167.15
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 113.06578 23.07222 3.18 163.41
-OBJECT_SHARED Models/lib/MedHangar.ac 113.07008 23.09167 0.14 168.69
-OBJECT_SHARED Models/lib/MedHangar.ac 113.07019 23.09213 0.11 167.95
-OBJECT_SHARED Models/lib/office32x25.ac 113.07083 23.09414 -0.20 259.6
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 113.06795 23.08190 3.02 77.92
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06607 23.07407 4.49 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06596 23.07396 4.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06603 23.07387 4.37 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06591 23.07378 4.31 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06598 23.07366 4.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.06583 23.07356 4.19 270
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.06608 23.07325 4.13 258.02
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.06588 23.07235 3.92 258.28
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 113.06598 23.07281 3.25 258.31
+OBJECT_SHARED Models/lib/belt_loader.ac 113.06586 23.07246 3.61 270
+OBJECT_SHARED Models/lib/belt_loader.ac 113.06597 23.07288 3.40 247.07
+OBJECT_SHARED Models/lib/belt_loader.ac 113.06611 23.07334 3.67 261.87
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 113.06602 23.07316 3.92 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 113.06591 23.07274 3.85 167.15
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 113.06578 23.07222 3.54 163.41
+OBJECT_SHARED Models/lib/MedHangar.ac 113.07008 23.09167 3.18 168.69
+OBJECT_SHARED Models/lib/MedHangar.ac 113.07019 23.09213 0.14 167.95
+OBJECT_SHARED Models/lib/office32x25.ac 113.07083 23.09414 0.11 259.6
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 113.06795 23.08190 -0.20 77.92
 # END dsf2stg

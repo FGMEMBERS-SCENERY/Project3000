@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 139.78867 38.81543 0.00 188.33
+OBJECT_SHARED Models/lib/lamp10m.xml 139.78867 38.81543 0.00 7.82001
+OBJECT_SHARED Models/lib/lamp10m.xml 139.78873 38.81518 21.28 191.77
+OBJECT_SHARED Models/lib/lamp10m.xml 139.78873 38.81518 21.28 8.76001
+OBJECT_SHARED Models/lib/lamp10m.xml 139.78871 38.81578 21.05 100.37
+OBJECT_SHARED Models/lib/lamp10m.xml 139.78830 38.81572 21.99 98.59
+OBJECT_SHARED Models/lib/lamp10m.xml 139.78805 38.81549 20.99 100.78
+OBJECT_SHARED Models/lib/lamp10m.xml 139.78736 38.81539 20.71 100.24
+OBJECT_SHARED Models/lib/lamp10m.xml 139.78669 38.81525 19.81 100.24
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 139.78690 38.81577 19.64 189.79
+OBJECT_SHARED Models/lib/MedHangar.ac 139.78852 38.81574 20.35 100.39
+OBJECT_SHARED Models/lib/FireStationLg.ac 139.78640 38.81537 21.79 280.9
+OBJECT_SHARED Models/lib/belt_loader.ac 139.78830 38.81551 18.96 -79.61
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 139.78871 38.81545 20.71 282.34
+OBJECT_SHARED Models/lib/caisses_group.ac 139.78883 38.81541 21.28 280.33
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 139.78825 38.81550 21.28 281.63
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac 139.78887 38.81512 20.71 280.58
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.79868 38.81446 21.43 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.79863 38.81445 21.98 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.79857 38.81444 21.98 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.79841 38.81357 21.92 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.79840 38.81361 22.25 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.79839 38.81365 22.25 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.77621 38.81044 22.23 270
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.77623 38.81035 12.65 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.77622 38.81039 12.54 180
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.77553 38.81109 12.65 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.77559 38.81110 12.90 90
+OBJECT_SHARED Models/Effects/taxilampblue.xml 139.77564 38.81111 12.90 0
+# END dsf2stg

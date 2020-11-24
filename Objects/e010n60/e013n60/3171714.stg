@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 13.58079 60.02566 148.27 140.53
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 13.58076 60.02589 148.32 329.93
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.58339 60.02439 150.19 59.03
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 13.58382 60.02442 150.62 247.38
-OBJECT_SHARED Models/Airport/FGRefuel02.xml 13.58233 60.02438 149.09 1.57001
-OBJECT_SHARED Models/lib/farm19x12.ac 13.58145 60.02606 148.77 94.71
-OBJECT_SHARED Models/lib/MedHangar.ac 13.58134 60.02703 148.88 4.34
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 13.58145 60.02645 148.86 3.04
-OBJECT_SHARED Models/lib/cube16x10.ac 13.58263 60.02403 149.34 90
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 13.58079 60.02566 0.00 140.53
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 13.58076 60.02589 148.27 329.93
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 13.58339 60.02439 148.32 59.03
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 13.58382 60.02442 150.19 247.38
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 13.58233 60.02438 150.62 1.57001
+OBJECT_SHARED Models/lib/farm19x12.ac 13.58145 60.02606 149.09 94.71
+OBJECT_SHARED Models/lib/MedHangar.ac 13.58134 60.02703 148.77 4.34
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 13.58145 60.02645 148.87 3.04
+OBJECT_SHARED Models/lib/cube16x10.ac 13.58263 60.02403 148.86 90
 # END dsf2stg

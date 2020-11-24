@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -80.85410 35.54439 0.00 357.13
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -80.85380 35.54438 252.03 359.73
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85433 35.54467 252.07 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85430 35.54471 252.96 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85435 35.54464 252.96 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85427 35.54474 253.08 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85438 35.54480 252.96 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85443 35.54474 253.16 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85441 35.54477 253.11 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85446 35.54471 253.16 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85456 35.54455 253.27 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85450 35.54452 253.34 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85445 35.54449 253.19 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85442 35.54453 253.19 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85438 35.54458 253.03 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85435 35.54461 253.08 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85450 35.54469 253.08 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85457 35.54461 253.27 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85453 35.54466 253.39 323.64
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.85460 35.54457 253.27 323.64
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -80.85446 35.54488 253.39 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -80.85444 35.54488 253.35 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -80.85442 35.54487 253.19 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -80.85441 35.54487 253.19 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -80.85439 35.54486 253.19 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -80.85408 35.54480 253.19 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -80.85410 35.54481 252.69 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -80.85412 35.54481 252.69 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -80.85414 35.54482 252.69 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -80.85416 35.54482 252.69 0
+# END dsf2stg

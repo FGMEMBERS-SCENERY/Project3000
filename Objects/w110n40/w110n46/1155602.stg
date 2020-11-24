@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -109.25492 46.29064 0.00 3.01279
+OBJECT_SHARED Models/lib/prop_a.ac -109.25422 46.29062 1123.24 184.573
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -109.25381 46.29076 1122.92 82.0303
+OBJECT_SHARED Models/Transport/hatchback_black.ac -109.25405 46.29078 1122.48 87.3974
+OBJECT_SHARED Models/Transport/van_silver.ac -109.25444 46.29075 1122.48 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -109.25418 46.29074 1122.48 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -109.25426 46.29075 1122.70 180
+# END dsf2stg

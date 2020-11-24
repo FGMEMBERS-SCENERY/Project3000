@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -93.84068 35.50804 0.00 224.2
+OBJECT_SHARED Models/lib/SmHangar.ac -93.84068 35.50846 181.16 133.85
+OBJECT_SHARED Models/lib/lamp10m.xml -93.83950 35.50883 181.93 -47.21
+OBJECT_SHARED Models/lib/lamp10m.xml -93.83985 35.50858 180.91 -47.29
+OBJECT_SHARED Models/lib/lamp10m.xml -93.84009 35.50840 181.25 -51.34
+OBJECT_SHARED Models/lib/lamp10m.xml -93.83503 35.51235 181.83 -46.54
+OBJECT_SHARED Models/lib/lamp10m.xml -93.83525 35.51218 192.47 -44
+OBJECT_SHARED Models/lib/lamp10m.xml -93.84071 35.50815 191.63 43.39
+OBJECT_SHARED Models/lib/lamp10m.xml -93.84113 35.50808 181.34 222.68
+OBJECT_SHARED Models/lib/lamp10m.xml -93.84094 35.50823 181.11 224.42
+OBJECT_SHARED Models/lib/lamp10m.xml -93.84105 35.50787 181.38 43.6
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -93.84026 35.50826 180.88 314.36
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.83969 35.50876 181.79 311.54
+OBJECT_SHARED Models/lib/propane-tank.ac -93.83948 35.50900 181.48 45
+OBJECT_SHARED Models/Transport/hatchback_green.ac -93.84027 35.50830 181.43 110.03
+OBJECT_SHARED Models/lib/prop_a.ac -93.83518 35.51239 181.79 179.42
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -93.83533 35.51218 191.95 313.71
+# END dsf2stg

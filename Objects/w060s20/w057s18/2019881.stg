@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -56.78678 -17.36770 0.00 111.801
+OBJECT_SHARED Models/lib/prop_a.ac -56.78693 -17.36772 105.82 98.852
+OBJECT_SHARED Models/lib/canopy18x8.ac -56.78651 -17.36734 105.81 71.3126
+OBJECT_SHARED Models/lib/canopy18x8.ac -56.78701 -17.36717 105.99 71.3126
+OBJECT_SHARED Models/lib/canopy18x8.ac -56.78750 -17.36701 105.87 71.3126
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -56.77920 -17.36767 103.95 9.46304
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -56.78969 -17.37305 106.86 250.117
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -56.78544 -17.36814 104.00 205.057
+# END dsf2stg

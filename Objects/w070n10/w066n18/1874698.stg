@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -65.64955 18.24429 16.70 215.882
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -65.64912 18.24441 16.27 281.592
+OBJECT_SHARED Models/lib/LgMaint.ac -65.63781 18.24627 13.05 313.745
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -65.64287 18.24958 -78.76 0
+# END dsf2stg

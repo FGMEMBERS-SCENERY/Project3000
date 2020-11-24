@@ -1,7 +1,33 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office40x25.ac -74.50508 20.35726 11.19 265.9
-OBJECT_SHARED Models/lib/fuel-truck.xml -74.50447 20.35734 10.41 102.68
-OBJECT_SHARED Models/lib/HorizTanks2.ac -74.50464 20.35921 11.22 33.69
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.50462 20.35955 0.00 31
+OBJECT_SHARED Models/lib/garage-small-white.ac -74.50456 20.35769 11.63 294.08
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50394 20.35678 10.73 326.98
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50404 20.35680 8.05 319.4
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50390 20.35689 8.27 325.3
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50413 20.35685 8.20 61.39
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50452 20.35701 8.48 45
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50446 20.35699 9.59 310.36
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50454 20.35714 9.59 320.91
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50463 20.35709 9.74 55.71
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50474 20.35716 9.94 52.43
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50470 20.35725 10.28 168.69
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -74.50484 20.35724 10.41 325.49
+OBJECT_SHARED Models/Airport/cargoip.xml -74.50472 20.35816 10.47 0
+OBJECT_SHARED Models/Airport/cargoip.xml -74.50467 20.35814 11.44 0
+OBJECT_SHARED Models/lib/container6-HD.ac -74.50475 20.35821 11.37 20.73
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -74.50457 20.35820 11.61 23.2
+OBJECT_SHARED Models/lib/office32x25.ac -74.50502 20.35840 11.26 113.74
+OBJECT_SHARED Models/lib/FireStationLg.ac -74.50444 20.35756 12.09 22.69
+OBJECT_SHARED Models/lib/lamp10m.xml -74.50442 20.35831 10.23 298
+OBJECT_SHARED Models/lib/lamp10m.xml -74.50449 20.35844 10.94 295.13
+OBJECT_SHARED Models/lib/lamp10m.xml -74.50456 20.35856 11.22 295.25
+OBJECT_SHARED Models/lib/lamp10m.xml -74.50449 20.35793 11.55 295.74
+OBJECT_SHARED Models/lib/lamp10m.xml -74.50454 20.35804 10.78 296.82
+OBJECT_SHARED Models/lib/lamp10m.xml -74.50459 20.35813 10.88 298.03
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -74.50483 20.35919 11.17 114.79
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -74.50486 20.35927 11.97 114.79
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -74.50448 20.35947 12.16 32.56
+OBJECT_SHARED Models/lib/shed8x10.ac -74.50419 20.35742 11.44 331.637
 # END dsf2stg

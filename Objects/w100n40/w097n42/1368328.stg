@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -96.98632 42.23656 0.00 178.94
+OBJECT_SHARED Models/lib/garage-small-white.ac -96.98684 42.23609 433.71 180.11
+OBJECT_SHARED Models/lib/MedHangar.ac -96.98367 42.23658 433.66 179.48
+OBJECT_SHARED Models/lib/SmHangar.ac -96.98696 42.23660 433.10 179.44
+OBJECT_SHARED Models/lib/lamp10m.xml -96.98646 42.23631 433.83 0
+OBJECT_SHARED Models/lib/lamp10m.xml -96.98582 42.23615 433.65 269.341
+OBJECT_SHARED Models/lib/lamp10m.xml -96.98473 42.23659 433.43 0.924072
+OBJECT_SHARED Models/lib/lamp10m.xml -96.98534 42.23606 433.29 268.807
+OBJECT_SHARED Models/lib/lamp10m.xml -96.98619 42.23657 433.27 0.590668
+OBJECT_SHARED Models/lib/lamp10m.xml -96.98620 42.23683 433.64 0.434052
+OBJECT_SHARED Models/lib/lamp10m.xml -96.98750 42.23687 433.67 180.546
+OBJECT_SHARED Models/lib/4space_wStop.ac -96.98718 42.23616 433.96 90
+OBJECT_SHARED Models/lib/handicap-sign.ac -96.98709 42.23617 433.77 270.22
+OBJECT_SHARED Models/lib/1car-stop.ac -96.98709 42.23616 433.76 90
+OBJECT_SHARED Models/Misc/picnic_table.ac -96.98661 42.23609 433.76 268.81
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -96.98665 42.23630 433.60 0
+OBJECT_SHARED Models/lib/propane-tank.ac -96.98717 42.23665 433.68 271.432
+OBJECT_SHARED Models/lib/stack_of_cones.ac -96.98697 42.23648 433.86 256.115
+OBJECT_SHARED Models/lib/stack_of_cones.ac -96.98696 42.23647 433.81 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -96.98714 42.23672 433.81 270
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -96.98703 42.23668 433.87 179.731
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.98713 42.23614 433.85 358.67
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.98716 42.23614 433.73 358.11
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.98647 42.23592 433.75 358.62
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.98644 42.23592 433.50 358.73
+OBJECT_SHARED Models/Transport/van_silver.ac -96.98709 42.23614 433.48 357.34
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.98720 42.23614 433.73 359.32
+OBJECT_SHARED Models/Transport/hatchback_red.ac -96.98723 42.23614 433.75 359.23
+# END dsf2stg

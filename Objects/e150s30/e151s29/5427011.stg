@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 151.93665 -28.98926 0.00 42.11
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 151.93708 -28.98939 798.29 9.09
+OBJECT_SHARED Models/lib/watertank3x1.ac 151.93745 -28.98955 798.11 7.72
+OBJECT_SHARED Models/lib/watertank3x1.ac 151.93658 -28.98929 797.95 270.62
+OBJECT_SHARED Models/lib/SmHangar.ac 151.93732 -28.98951 798.29 3.87
+OBJECT_SHARED Models/lib/SmHangar.ac 151.93662 -28.98938 797.95 182.05
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.93707 -28.98940 798.11 329.3
+OBJECT_SHARED Models/Transport/hatchback_black.ac 151.93744 -28.98940 798.11 150.18
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.93644 -28.98952 798.11 160.821
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.93643 -28.98938 798.89 105.141
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.93648 -28.98927 799.78 17.6501
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.93662 -28.98925 802.65 344.445
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.92151 -28.99424 798.29 343.301
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.92183 -28.99418 792.67 351.027
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.92188 -28.99430 792.67 326.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.92184 -28.99441 792.38 329.744
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.92163 -28.99449 792.09 333.435
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.92113 -28.99489 791.80 206.565
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.92101 -28.99465 791.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 151.92094 -28.99473 791.88 356.532
+# END dsf2stg

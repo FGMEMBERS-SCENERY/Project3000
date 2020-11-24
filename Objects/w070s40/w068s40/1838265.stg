@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.61120 -39.00376 0.00 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.61090 -39.00377 262.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.61073 -39.00374 262.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.61061 -39.00378 262.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.61032 -39.00377 262.89 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.61000 -39.00375 262.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.61012 -39.00375 263.07 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.61011 -39.00352 263.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.61121 -39.00353 263.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.61120 -39.00362 263.08 0
+OBJECT_SHARED Models/lib/propane-tank.ac -67.61041 -39.00373 262.95 355.4
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -67.61113 -39.00328 263.08 176.93
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -67.60734 -39.00085 263.37 355.64
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -67.60734 -39.00088 268.96 355.64
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -67.60734 -39.00091 268.96 355.64
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -67.60735 -39.00093 268.96 355.64
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -67.60735 -39.00095 268.96 355.64
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -67.60731 -39.00063 268.77 355.64
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -67.60731 -39.00061 269.54 355.64
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -67.60731 -39.00059 269.54 355.64
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -67.60731 -39.00057 269.54 355.64
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -67.60730 -39.00055 269.54 355.64
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -67.61051 -39.00482 269.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -67.61069 -39.00486 261.67 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -67.61085 -39.00467 261.50 0
+OBJECT_SHARED Models/lib/shed8x10.ac -67.61066 -39.00475 261.71 4.09
+OBJECT_SHARED Models/lib/shed8x10.ac -67.61087 -39.00476 261.62 90
+# END dsf2stg

@@ -1,8 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac -103.35442 43.72839 1196.04 196.739
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -103.35421 43.72831 1195.91 162.553
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -103.35451 43.72906 1196.48 18.6084
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -103.35346 43.72857 1197.08 23.632
+OBJECT_SHARED Models/lib/prop_a.ac -103.35381 43.72984 0.00 294.193
+OBJECT_SHARED Models/lib/stack_of_cones.ac -103.35384 43.72939 1200.54 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -103.35418 43.72963 1199.89 113.44
+OBJECT_SHARED Models/lib/SmHangar.ac -103.35392 43.72946 1200.21 203.671
+OBJECT_SHARED Models/lib/garden-shed.ac -103.35406 43.72965 1200.05 24.4438
 # END dsf2stg

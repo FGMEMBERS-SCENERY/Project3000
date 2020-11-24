@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -67.78533 46.12614 151.24 59.18
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.78435 46.12656 149.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -67.78425 46.12669 153.01 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -67.78609 46.12524 150.91 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -67.78619 46.12536 151.30 59.7
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -67.78626 46.12531 151.04 0
+OBJECT_SHARED Models/lib/prop_a.ac -67.78578 46.12632 150.93 239.16
+OBJECT_SHARED Models/lib/prop_a.ac -67.78721 46.12509 151.16 146.82
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -67.78616 46.12504 149.28 62.72
+# END dsf2stg

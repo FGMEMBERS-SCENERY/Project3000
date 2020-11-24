@@ -1,33 +1,33 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml 88.90918 25.76306 41.29 19.1801
-OBJECT_SHARED Models/lib/lamp10m.xml 88.90903 25.76345 41.19 24.7032
-OBJECT_SHARED Models/lib/propane-tank.ac 88.90915 25.76350 41.43 111.038
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 88.90927 25.76350 41.53 42.5107
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90934 25.76313 41.39 90
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90935 25.76314 41.39 0
+OBJECT_SHARED Models/lib/lamp10m.xml 88.90918 25.76306 0.00 19.18
+OBJECT_SHARED Models/lib/lamp10m.xml 88.90903 25.76345 41.29 24.7
+OBJECT_SHARED Models/lib/propane-tank.ac 88.90915 25.76350 41.19 111.04
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 88.90927 25.76350 41.43 42.51
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90934 25.76313 41.53 90
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90937 25.76313 41.39 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90936 25.76314 41.49 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90937 25.76313 41.49 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90936 25.76312 41.49 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90935 25.76310 41.49 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90934 25.76311 41.39 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90934 25.76311 41.49 180
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90934 25.76312 41.39 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.90932 25.76311 41.39 270
-OBJECT_SHARED Models/lib/fuel-truck.xml 88.90922 25.76277 41.18 300.735
-OBJECT_SHARED Models/Transport/hatchback_black.ac 88.90951 25.76325 41.63 0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 88.90936 25.76353 41.64 273.769
-OBJECT_SHARED Models/Transport/hatchback_black.ac 88.90935 25.76342 41.60 45.0002
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 88.90942 25.76324 41.53 45.0002
-OBJECT_SHARED Models/lib/luggage-cart-HD.ac 88.90930 25.76313 41.39 306.027
-OBJECT_SHARED Models/lib/luggage-cart-HD.ac 88.90929 25.76315 41.42 267.274
-OBJECT_SHARED Models/Transport/hatchback_green.ac 88.90920 25.76310 41.29 90
-OBJECT_SHARED Models/lib/luggage-cart-HD.ac 88.90933 25.76315 41.42 280.62
-OBJECT_SHARED Models/lib/luggage-cart-HD.ac 88.90931 25.76317 41.42 298.073
-OBJECT_SHARED Models/lib/chariot3curve.ac 88.90908 25.76338 41.29 2.60253
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 88.90911 25.76343 41.29 0
-OBJECT_SHARED Models/lib/watertank3x1.ac 88.90918 25.76351 41.43 14.9313
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 88.90925 25.76284 41.18 19.5473
-OBJECT_SHARED Models/lib/industrial15x22.ac 88.90953 25.76309 41.59 287.198
-OBJECT_SHARED Models/lib/admin31x12.ac 88.90929 25.76333 41.46 19.1795
+OBJECT_SHARED Models/lib/fuel-truck.xml 88.90922 25.76277 41.39 300.74
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 88.90951 25.76325 41.17 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 88.90936 25.76353 41.62 273.77
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 88.90935 25.76342 41.63 45
+OBJECT_SHARED Models/Transport/hatchback_red.ac 88.90942 25.76324 41.60 45
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 88.90931 25.76313 41.53 306.03
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 88.90930 25.76310 41.39 267.27
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 88.90920 25.76310 41.39 90
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 88.90940 25.76316 41.29 280.62
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 88.90937 25.76315 41.53 298.07
+OBJECT_SHARED Models/lib/chariot3curve.ac 88.90915 25.76333 41.53 330.06
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 88.90919 25.76348 41.26 16.39
+OBJECT_SHARED Models/lib/watertank3x1.ac 88.90918 25.76351 41.43 14.93
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 88.90925 25.76284 41.43 19.55
+OBJECT_SHARED Models/lib/industrial15x22.ac 88.90953 25.76309 41.17 287.2
+OBJECT_SHARED Models/lib/admin31x12.ac 88.90929 25.76333 41.59 19.18
 # END dsf2stg

@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.94355 7.52846 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 125.94373 7.52855 66.56 165.96
+OBJECT_SHARED Models/lib/transformer3x3.ac 125.94407 7.53614 66.58 85.34
+OBJECT_SHARED Models/lib/SmHangar.ac 125.94391 7.52840 67.59 178.1
+OBJECT_SHARED Models/Transport/van_red.ac 125.94364 7.52832 66.55 266.31
+OBJECT_SHARED Models/lib/shed8x10.ac 125.94376 7.52821 66.53 358.39
+OBJECT_SHARED Models/lib/shed8x10.ac 125.94365 7.52837 66.51 359.84
+# END dsf2stg

@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -8.93381 38.90150 0.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -8.93381 38.90152 0.07 0
+OBJECT_SHARED Models/lib/SmHangar.ac -8.93291 38.90137 0.07 258
+OBJECT_SHARED Models/lib/SmHangar.ac -8.93318 38.90141 -0.10 258
+OBJECT_SHARED Models/lib/SmHangar.ac -8.93345 38.90146 -0.06 258
+# END dsf2stg

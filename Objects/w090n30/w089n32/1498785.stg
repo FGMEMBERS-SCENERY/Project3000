@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -88.56182 32.55474 0.00 260.12
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -88.56165 32.55545 80.15 260.12
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -88.56148 32.55619 80.14 260.12
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -88.55968 32.55730 80.06 261.01
+OBJECT_SHARED Models/lib/office65x50.ac -88.56022 32.55680 79.74 170.01
+OBJECT_SHARED Models/lib/office112x50.ac -88.56179 32.55367 79.84 351.01
+OBJECT_SHARED Models/lib/admin-with-cars.ac -88.55914 32.55662 80.16 351.01
+OBJECT_SHARED Models/lib/office32x25.ac -88.55948 32.55435 79.73 81.01
+OBJECT_SHARED Models/lib/office32x25.ac -88.55921 32.55594 79.98 261.01
+OBJECT_SHARED Models/lib/LgMaint.ac -88.56042 32.55448 79.81 170.01
+OBJECT_SHARED Models/lib/LgMaint.ac -88.56025 32.55527 80.02 170.01
+OBJECT_SHARED Models/lib/LgMaint.ac -88.56009 32.55606 79.95 170.01
+# END dsf2stg

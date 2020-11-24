@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -84.95908 42.25359 0.00 0.370003
+OBJECT_SHARED Models/lib/SmHangar.ac -84.95888 42.25479 284.97 181.3
+OBJECT_SHARED Models/lib/MedHangar.ac -84.96245 42.25487 284.70 91.33
+OBJECT_SHARED Models/lib/LongRow.ac -84.95989 42.25477 284.95 1.3
+OBJECT_SHARED Models/lib/LongRow.ac -84.96018 42.25442 284.70 1.3
+OBJECT_SHARED Models/lib/LongRow.ac -84.96018 42.25409 284.74 1.3
+OBJECT_SHARED Models/lib/LongRow.ac -84.96030 42.25376 284.81 1.3
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -84.96171 42.25480 284.91 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -84.96171 42.25477 284.84 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -84.96171 42.25474 284.84 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -84.96171 42.25472 284.84 0
+# END dsf2stg

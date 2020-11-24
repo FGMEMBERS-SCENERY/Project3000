@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 0.73170 49.63956 0.00 100
+OBJECT_SHARED Models/Misc/picnic_table.ac 0.73262 49.63964 139.54 188.5
+OBJECT_SHARED Models/Misc/picnic_table.ac 0.73257 49.63964 139.96 188.5
+OBJECT_SHARED Models/lib/shed8x10.ac 0.73216 49.63949 139.94 180
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.73120 49.63943 139.88 193
+OBJECT_SHARED Models/lib/prop_a.ac 0.73130 49.63906 139.51 74.32
+OBJECT_SHARED Models/lib/prop_a.ac 0.73233 49.63935 140.07 190
+# END dsf2stg

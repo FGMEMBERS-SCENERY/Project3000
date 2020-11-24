@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -116.17981 41.95245 0.00 300.36
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -116.18018 41.95235 1634.32 299.14
+OBJECT_SHARED Models/lib/prop_a.ac -116.18086 41.95242 1634.39 208.37
+OBJECT_SHARED Models/lib/prop_a.ac -116.18018 41.95279 1634.57 28.98
+OBJECT_SHARED Models/lib/prop_a.ac -116.18053 41.95300 1634.20 209.36
+# END dsf2stg

@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -61.77449 47.42510 0.00 269.74
+OBJECT_SHARED Models/lib/cars7.ac -61.77428 47.42459 5.66 264.25
+OBJECT_SHARED Models/lib/cars7.ac -61.77351 47.42467 6.16 90
+OBJECT_SHARED Models/lib/cars14.ac -61.77276 47.42452 6.45 179.38
+OBJECT_SHARED Models/lib/cars14.ac -61.77274 47.42450 6.92 0
+OBJECT_SHARED Models/lib/cars14.ac -61.77351 47.42422 6.97 268.71
+OBJECT_SHARED Models/lib/cars14.ac -61.77357 47.42434 6.84 268.91
+OBJECT_SHARED Models/lib/cars14.ac -61.77357 47.42449 6.72 269.06
+OBJECT_SHARED Models/lib/cars14.ac -61.77353 47.42451 6.56 88.49
+OBJECT_SHARED Models/lib/SmHangar.ac -61.77523 47.42520 6.61 0.199997
+OBJECT_SHARED Models/lib/SmHangar.ac -61.77473 47.42507 5.25 270.35
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -61.77516 47.42535 5.57 269.86
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -61.77583 47.42587 5.09 133.89
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -61.77556 47.42604 4.42 135.71
+OBJECT_SHARED Models/lib/lamp10m.xml -61.77450 47.42507 4.44 269.3
+OBJECT_SHARED Models/lib/SmHangar.ac -61.77101 47.42386 5.66 248.62
+OBJECT_SHARED Models/lib/lamp10m.xml -61.77339 47.42513 8.19 -65.45
+OBJECT_SHARED Models/lib/lamp10m.xml -61.77370 47.42513 6.17 -89.06
+OBJECT_SHARED Models/lib/lamp10m.xml -61.77414 47.42516 6.03 -52.98
+# END dsf2stg

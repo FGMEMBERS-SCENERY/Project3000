@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.21362 -42.98434 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.21335 -42.98436 184.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.21322 -42.98424 185.02 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.21300 -42.98433 185.39 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.21269 -42.98430 185.21 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.21245 -42.98414 185.21 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.21239 -42.98401 184.85 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 147.21287 -42.98409 185.18 46.49
+OBJECT_SHARED Models/lib/propane-tank.ac 147.21300 -42.98406 185.57 358.63
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.20791 -42.98153 185.57 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.20762 -42.98160 188.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.20592 -42.98226 188.18 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.20554 -42.98224 185.57 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 147.20511 -42.98218 185.57 0
+OBJECT_SHARED Models/lib/prop_a.ac 147.21026 -42.98211 178.73 215.87
+OBJECT_SHARED Models/lib/watertank3x1.ac 147.20956 -42.98185 189.09 349.1
+OBJECT_SHARED Models/lib/dGreenhse.ac 147.21299 -42.98395 189.58 358.53
+OBJECT_SHARED Models/lib/farm19x12.ac 147.21297 -42.98401 185.93 358.35
+OBJECT_SHARED Models/lib/SmHangar.ac 147.20946 -42.98191 185.75 78.33
+OBJECT_SHARED Models/lib/shed8x10.ac 147.21013 -42.98194 188.84 168.02
+OBJECT_SHARED Models/lib/shed8x10.ac 147.20894 -42.98179 189.42 348.55
+OBJECT_SHARED Models/lib/shed8x10.ac 147.20875 -42.98177 189.07 348.5
+OBJECT_SHARED Models/lib/shed8x10.ac 147.20854 -42.98173 189.07 348.26
+OBJECT_SHARED Models/lib/shed8x10.ac 147.20833 -42.98170 189.15 348.43
+OBJECT_SHARED Models/lib/shed8x10.ac 147.21337 -42.98410 188.22 91.91
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 147.21362 -42.98408 185.57 92.41
+# END dsf2stg

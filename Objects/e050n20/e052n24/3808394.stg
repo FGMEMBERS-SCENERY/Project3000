@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 52.62902 24.18216 -95.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 52.62774 24.18224 -85.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 52.61955 24.18595 13.89 217.138
+OBJECT_SHARED Models/Trees/billboard-tree.xml 52.61888 24.18607 11.11 140.375
+OBJECT_SHARED Models/Trees/billboard-tree.xml 52.61838 24.18690 12.33 29.0544
+OBJECT_SHARED Models/Trees/billboard-tree.xml 52.61849 24.18711 11.64 321.516
+OBJECT_SHARED Models/lib/transformer3x3.ac 52.61809 24.18602 11.29 86.7232
+OBJECT_SHARED Models/lib/lamp10m.xml 52.61799 24.18680 13.10 46.0369
+OBJECT_SHARED Models/lib/lamp10m.xml 52.61750 24.18724 12.09 90.3502
+OBJECT_SHARED Models/lib/office32x25n.ac 52.61801 24.18724 11.95 225.696
+OBJECT_SHARED Models/lib/MedHangar.ac 52.61812 24.18663 11.55 46.5553
+OBJECT_SHARED Models/lib/admin31x12.ac 52.61320 24.19301 12.28 46.8159
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 52.61403 24.19206 6.30 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 52.61368 24.19237 7.36 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 52.61332 24.19269 7.04 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 52.61296 24.19300 6.75 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 52.61261 24.19332 6.40 90
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 52.61225 24.19362 6.09 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 52.61730 24.18794 5.77 135.641
+# END dsf2stg

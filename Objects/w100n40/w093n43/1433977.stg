@@ -1,13 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/hangar81x16.ac -92.50061 43.91771 -0.00 47.9875
-OBJECT_SHARED Models/lib/hangar81x16.ac -92.50026 43.91750 0.00 45.1131
-OBJECT_SHARED Models/lib/SmHangar.ac -92.50108 43.91723 -0.00 226.01
-OBJECT_SHARED Models/lib/SmHangar.ac -92.50094 43.91784 -0.00 138.21
-OBJECT_SHARED Models/lib/SmHangar.ac -92.50121 43.91768 0.00 139.76
-OBJECT_SHARED Models/lib/SmHangar.ac -92.50067 43.91750 -0.00 49.66
-OBJECT_SHARED Models/lib/SmHangar.ac -92.50032 43.91741 0.00 229.79
-OBJECT_SHARED Models/lib/SmHangar.ac -92.50047 43.91677 0.00 320.95
-OBJECT_SHARED Models/lib/HorizTanks2.ac -92.50060 43.91711 -0.00 228.04
+OBJECT_SHARED Models/lib/lamp10m.xml -92.50050 43.91842 386.00 130.6
+OBJECT_SHARED Models/lib/lamp10m.xml -92.50136 43.91739 383.95 50.33
+OBJECT_SHARED Models/lib/lamp10m.xml -92.50079 43.91693 385.00 43.09
+OBJECT_SHARED Models/lib/lamp10m.xml -92.50009 43.91662 385.64 48.99
+OBJECT_SHARED Models/lib/transformer3x3.ac -92.51041 43.91752 393.36 228.61
+OBJECT_SHARED Models/lib/transformer3x3.ac -92.51416 43.92269 382.78 225
+OBJECT_SHARED Models/lib/stack_of_cones.ac -92.50187 43.91726 391.87 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -92.50189 43.91724 385.04 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -92.50193 43.91721 385.16 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -92.50182 43.91707 385.16 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -92.50117 43.91720 386.96 229.763
+OBJECT_SHARED Models/lib/hangar81x16.ac -92.50069 43.91786 390.91 47.99
+OBJECT_SHARED Models/lib/hangar81x16.ac -92.50034 43.91762 384.51 46.82
+OBJECT_SHARED Models/lib/HorizTanks2.ac -92.50072 43.91721 390.26 139.82
 # END dsf2stg

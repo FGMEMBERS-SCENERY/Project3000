@@ -1,21 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 8.25598 51.16215 466.53 93.47
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 8.25751 51.16232 467.34 358.15
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.25548 51.16206 466.42 275.71
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.25539 51.16205 466.22 275.44
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.25788 51.16244 467.67 177.14
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.25779 51.16244 467.63 173.99
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.25772 51.16244 467.60 176.63
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25809 51.16239 467.75 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25472 51.16200 466.07 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25611 51.16247 467.11 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25595 51.16238 466.95 0
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.25616 51.16239 467.04 86.73
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 8.25598 51.16215 0.00 93.47
+OBJECT_SHARED Models/Aircraft/Cessna172.ac 8.25751 51.16232 466.53 358.15
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.25548 51.16206 467.34 275.71
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.25539 51.16205 466.43 275.44
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.25788 51.16244 466.22 177.14
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.25779 51.16244 467.66 173.99
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.25772 51.16244 467.62 176.63
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25809 51.16239 467.59 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25472 51.16200 467.75 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25611 51.16247 466.07 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.25595 51.16238 467.12 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.25616 51.16239 466.99 86.73
 OBJECT_SHARED Models/lib/MedHangar.ac 8.25661 51.16230 467.05 86.27
-OBJECT_SHARED Models/lib/SmHangar.ac 8.25579 51.16207 466.50 97.54
-OBJECT_SHARED Models/lib/farm19x12.ac 8.25489 51.16195 466.11 277.12
-OBJECT_SHARED Models/lib/farm19x12.ac 8.25522 51.16210 466.37 7.18
-OBJECT_SHARED Models/lib/cars4.ac 8.25527 51.16216 466.52 186.34
+OBJECT_SHARED Models/lib/SmHangar.ac 8.25579 51.16207 467.05 97.54
+OBJECT_SHARED Models/lib/farm19x12.ac 8.25489 51.16195 466.50 277.12
+OBJECT_SHARED Models/lib/farm19x12.ac 8.25522 51.16210 466.11 7.18
+OBJECT_SHARED Models/lib/cars4.ac 8.25527 51.16216 466.37 186.34
 # END dsf2stg

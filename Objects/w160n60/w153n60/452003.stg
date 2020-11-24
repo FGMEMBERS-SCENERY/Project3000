@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -152.16326 60.58987 0.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -152.16326 60.58988 7.03 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -152.16327 60.58989 7.03 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -152.16327 60.58989 7.03 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -152.16327 60.58990 7.03 0
+OBJECT_SHARED Models/lib/coal_pile.ac -152.16376 60.58954 7.03 294.23
+OBJECT_SHARED Models/lib/coal_pile.ac -152.15433 60.59067 7.14 81.03
+OBJECT_SHARED Models/lib/coal_pile.ac -152.16366 60.58940 4.42 81.03
+OBJECT_SHARED Models/lib/coal_pile.ac -152.16382 60.58960 7.11 316.64
+OBJECT_SHARED Models/lib/coal_pile.ac -152.16381 60.58957 7.16 36.87
+OBJECT_SHARED Models/lib/coal_pile.ac -152.15430 60.59070 7.16 36.87
+OBJECT_SHARED Models/lib/coal_pile.ac -152.16364 60.58944 4.42 36.87
+OBJECT_SHARED Models/lib/coal_pile.ac -152.15438 60.59072 7.11 36.87
+OBJECT_SHARED Models/lib/coal_pile.ac -152.16371 60.58945 4.42 36.87
+OBJECT_SHARED Models/lib/coal_pile.ac -152.16374 60.58951 7.14 90
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -152.16339 60.59001 7.14 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -152.16339 60.59002 7.05 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -152.16339 60.59001 7.05 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -152.16340 60.59002 7.05 206.56
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -152.16313 60.58972 7.05 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -152.16314 60.58972 6.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -152.16314 60.58973 6.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -152.16314 60.58974 6.99 0
+OBJECT_SHARED Models/lib/propane-tank.ac -152.16325 60.58989 6.99 288.38
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -152.16461 60.59202 -87.97 0
+OBJECT_SHARED Models/lib/shed10x50.ac -152.16428 60.59161 7.99 108.84
+OBJECT_SHARED Models/lib/industrial13x24.ac -152.16526 60.59256 7.59 18.5
+OBJECT_SHARED Models/lib/industrial13x24.ac -152.16477 60.59227 8.12 108.68
+OBJECT_SHARED Models/lib/industrial13x24.ac -152.16300 60.58973 8.05 108.68
+OBJECT_SHARED Models/lib/SmHangar.ac -152.16346 60.59007 6.99 20.14
+OBJECT_SHARED Models/Airport/egkk_oil.xml -152.16776 60.59520 7.07 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -152.16827 60.59474 10.05 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -152.16847 60.59510 9.91 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -152.16662 60.59498 10.02 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -152.16583 60.59509 9.53 13.24
+OBJECT_SHARED Models/Airport/egkk_oil.xml -152.16606 60.59547 9.03 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -152.16689 60.59534 9.09 0
+# END dsf2stg

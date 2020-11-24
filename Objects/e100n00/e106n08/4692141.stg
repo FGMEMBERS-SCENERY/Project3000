@@ -1,0 +1,46 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac 106.62847 8.73077 0.00 7.98999
+OBJECT_SHARED Models/Transport/hatchback_black.ac 106.62861 8.73082 5.92 140.93
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 106.62859 8.73084 4.79 140.93
+OBJECT_SHARED Models/Transport/hatchback_black.ac 106.62856 8.73084 4.78 140.93
+OBJECT_SHARED Models/Transport/hatchback_green.ac 106.62853 8.73086 4.78 140.93
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 106.62844 8.73089 4.76 140.93
+OBJECT_SHARED Models/Transport/hatchback_red.ac 106.62847 8.73088 5.94 140.93
+OBJECT_SHARED Models/Transport/van_red.ac 106.62855 8.73102 5.94 4.39999
+OBJECT_SHARED Models/Transport/van_red.ac 106.62867 8.73098 4.66 4.39999
+OBJECT_SHARED Models/Transport/hatchback_red.ac 106.62864 8.73099 4.68 4.39999
+OBJECT_SHARED Models/Transport/hatchback_black.ac 106.62861 8.73100 4.67 4.39999
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 106.62858 8.73101 4.67 4.39999
+OBJECT_SHARED Models/Transport/van_red.ac 106.62849 8.73104 4.66 4.39999
+OBJECT_SHARED Models/Transport/hatchback_green.ac 106.62859 8.73073 5.93 4.39999
+OBJECT_SHARED Models/Transport/van_silver.ac 106.62853 8.73075 4.85 4.39999
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 106.62841 8.73079 4.84 4.39999
+OBJECT_SHARED Models/Transport/van_silver.ac 106.62844 8.73078 5.92 4.39999
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 106.62983 8.73044 5.92 341.21
+OBJECT_SHARED Models/lib/shed8x10.ac 106.62947 8.73104 3.58 341.06
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 106.62981 8.72992 4.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 106.62961 8.73026 2.28 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 106.62892 8.73045 3.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 106.62865 8.73053 5.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 106.62983 8.73057 4.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 106.62948 8.73063 3.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 106.62851 8.73081 4.92 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 106.62839 8.73085 4.80 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 106.62946 8.73075 5.93 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 106.62964 8.73052 4.84 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 106.62877 8.73056 3.66 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 106.62863 8.73077 4.97 0
+OBJECT_SHARED Models/lib/1space_dual.ac 106.62827 8.73104 4.83 160.13
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 106.62933 8.73121 5.93 250.66
+OBJECT_SHARED Models/lib/stack_of_cones.ac 106.62856 8.73201 4.52 0
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 106.63001 8.73099 4.45 161.88
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 106.63000 8.73096 4.03 164.51
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 106.63005 8.73094 4.01 161.57
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 106.63005 8.73097 3.99 163.99
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 106.63009 8.73093 4.01 162.58
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 106.63010 8.73095 3.98 161.32
+OBJECT_SHARED Models/lib/container6-HD.ac 106.63004 8.73102 4.00 70.4
+OBJECT_SHARED Models/lib/container6-HD.ac 106.63009 8.73100 4.05 70.4
+# END dsf2stg

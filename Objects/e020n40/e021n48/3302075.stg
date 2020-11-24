@@ -1,25 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office6x12.ac 21.99317 48.93460 173.74 192.37
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 21.99271 48.93477 173.37 280.78
-OBJECT_SHARED Models/lib/transformer3x3.ac 21.99505 48.93515 172.70 12.09
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 21.99475 48.93524 172.51 11.06
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 21.99477 48.93515 172.70 11.06
-OBJECT_SHARED Models/lib/shed10x50.ac 21.99369 48.93468 173.51 11.41
-OBJECT_SHARED Models/Airport/FGRefuel02.xml 21.99311 48.93523 172.57 12.14
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 21.99248 48.93483 173.38 279.46
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99413 48.93469 173.49 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99658 48.93502 173.29 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99639 48.93501 173.22 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99620 48.93499 173.15 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99605 48.93496 173.08 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99590 48.93494 173.23 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99579 48.93494 173.20 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99564 48.93491 173.13 270
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99549 48.93489 173.12 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99535 48.93486 173.11 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99523 48.93484 173.31 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99511 48.93483 173.31 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99497 48.93482 173.30 0
+OBJECT_SHARED Models/lib/office6x12.ac 21.99317 48.93460 0.00 192.37
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 21.99271 48.93477 173.74 280.78
+OBJECT_SHARED Models/lib/transformer3x3.ac 21.99505 48.93515 173.37 12.09
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 21.99475 48.93524 172.70 11.06
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 21.99477 48.93515 172.51 11.06
+OBJECT_SHARED Models/lib/shed10x50.ac 21.99369 48.93468 172.70 11.41
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 21.99311 48.93523 173.51 12.14
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 21.99248 48.93483 172.57 279.46
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99413 48.93469 173.38 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99658 48.93502 173.49 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99639 48.93501 173.16 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99620 48.93499 173.11 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99605 48.93496 173.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99590 48.93494 173.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99579 48.93494 173.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99564 48.93491 173.19 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99549 48.93489 173.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99535 48.93486 173.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99523 48.93484 173.13 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99511 48.93483 173.34 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.99497 48.93482 173.32 0
 # END dsf2stg

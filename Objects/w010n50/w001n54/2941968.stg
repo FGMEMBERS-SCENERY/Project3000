@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.96980 54.30941 0.00 289.03
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.97000 54.30936 222.66 288.43
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.97019 54.30933 222.95 292.5
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.97035 54.30929 223.08 296.15
+OBJECT_SHARED Models/lib/shed10x50.ac -0.97048 54.30921 223.30 298.54
+OBJECT_SHARED Models/Misc/6barrels.ac -0.97207 54.31021 223.34 0
+OBJECT_SHARED Models/Misc/6barrels.ac -0.97215 54.31023 225.95 0
+OBJECT_SHARED Models/Misc/6barrels.ac -0.97224 54.31023 226.04 0
+OBJECT_SHARED Models/lib/office3x10.ac -0.97171 54.30981 226.14 192.76
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.97109 54.31002 225.60 318.81
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.97119 54.30998 224.88 304.99
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.97103 54.30963 224.99 140.91
+OBJECT_SHARED Models/Transport/van_red.ac -0.97048 54.30990 224.72 131.42
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.97034 54.30996 224.09 236.31
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.97071 54.30987 223.88 182.86
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.97078 54.30994 224.40 261.47
+OBJECT_SHARED Models/Transport/van_silver.ac -0.97095 54.31003 224.48 62.02
+OBJECT_SHARED Models/Transport/hatchback_green.ac -0.97087 54.30999 224.69 250.35
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.97180 54.30988 224.60 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.97183 54.30991 225.71 265.24
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.97185 54.31002 225.74 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.97182 54.31013 225.75 90
+OBJECT_SHARED Models/Transport/van_red.ac -0.97152 54.31045 225.70 244.98
+OBJECT_SHARED Models/Transport/van_red.ac -0.97166 54.31036 225.10 237.8
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.97186 54.31038 225.34 323.13
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.97193 54.31031 225.57 169.51
+OBJECT_SHARED Models/lib/prop_a.ac -0.97220 54.31017 225.72 341.56
+OBJECT_SHARED Models/lib/prop_a.ac -0.97230 54.31001 226.10 90
+OBJECT_SHARED Models/lib/office4x14.ac -0.97084 54.30977 226.19 219.81
+# END dsf2stg

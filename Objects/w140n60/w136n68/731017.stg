@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -135.01183 68.22610 0.00 205.75
+OBJECT_SHARED Models/lib/cars2.ac -135.01217 68.22614 6.00 299.438
+OBJECT_SHARED Models/lib/cars4.ac -135.01239 68.22628 6.00 299.255
+OBJECT_SHARED Models/lib/lamp10m.xml -135.01249 68.22629 5.99 207.11
+OBJECT_SHARED Models/lib/SmHangar.ac -135.01159 68.22594 5.99 204.126
+# END dsf2stg

@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -109.67356 40.98846 0.00 0.230003
+OBJECT_SHARED Models/lib/office3x10.ac -109.67344 40.98764 1867.52 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -109.67357 40.98790 1868.57 275.19
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -109.67356 40.98783 1865.93 267.4
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -109.67356 40.98787 1865.67 271.59
+OBJECT_SHARED Models/Misc/6barrels.ac -109.67312 40.98780 1865.93 0
+OBJECT_SHARED Models/Misc/6barrels.ac -109.67313 40.98781 1868.95 0
+OBJECT_SHARED Models/Misc/6barrels.ac -109.67314 40.98785 1868.95 0
+OBJECT_SHARED Models/Misc/6barrels.ac -109.67316 40.98787 1869.21 90
+OBJECT_SHARED Models/Misc/6barrels.ac -109.67314 40.98786 1869.21 0
+OBJECT_SHARED Models/Misc/6barrels.ac -109.67315 40.98788 1869.21 180
+OBJECT_SHARED Models/lib/trailer-fedex.ac -109.67312 40.98793 1869.21 273.26
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -109.67317 40.98796 1869.21 278.75
+OBJECT_SHARED Models/lib/fuel-truck.xml -109.67320 40.98803 1869.47 273.75
+OBJECT_SHARED Models/Transport/Norberttruck.xml -109.67325 40.98809 1869.47 183.22
+OBJECT_SHARED Models/Misc/picnic_table.ac -109.67557 40.98760 1869.74 22.34
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -109.67470 40.98735 1868.09 188.13
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -109.67569 40.98757 1867.19 -89.48
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -109.67586 40.98760 1868.09 337
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -109.67582 40.98760 1868.09 337.86
+# END dsf2stg

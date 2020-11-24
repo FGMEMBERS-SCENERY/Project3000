@@ -1,16 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/belt_loader.ac 141.79802 45.40008 7.03 19.5
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac 141.79691 45.39981 7.13 292.87
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 141.79697 45.39983 7.13 289.98
-OBJECT_SHARED Models/lib/belt_loader.ac 141.79660 45.39973 7.16 -67.62
-OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 141.79632 45.39962 7.21 200.94
-OBJECT_SHARED Models/lib/JetWayWallBase.ac 141.79737 45.39990 7.11 181.51
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79829 45.40001 7.07 65.87
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79761 45.39983 7.12 66.48
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79699 45.39967 7.16 66.88
-OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79638 45.39950 7.19 65.88
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 141.79840 45.39967 7.14 21.07
-OBJECT_SHARED Models/lib/MedHangar.ac 141.79655 45.39956 7.17 291.24
+OBJECT_SHARED Models/lib/FireStationLg.ac 141.79927 45.40029 0.00 111.99
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79818 45.40006 6.68 65.87
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79751 45.39988 6.76 66.48
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79690 45.39970 6.83 66.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.79622 45.39953 6.89 65.88
+OBJECT_SHARED Models/lib/MedHangar.ac 141.79648 45.39961 6.94 291.24
+OBJECT_SHARED Models/lib/container6-HD.ac 141.79802 45.39966 6.92 23.2
+OBJECT_SHARED Models/lib/propane-tank.ac 141.79781 45.39976 6.89 21.94
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 141.79604 45.39889 6.86 200.5
+OBJECT_SHARED Models/lib/office32x25.ac 141.79827 45.39989 6.94 110.65
+OBJECT_SHARED Models/lib/transformer3x3.ac 141.79516 45.39800 6.83 20.22
+OBJECT_SHARED Models/lib/transformer3x3.ac 141.79574 45.39816 6.84 20.22
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 141.78577 45.40238 -85.09 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 141.78516 45.40223 -87.54 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 141.78508 45.40248 -87.77 0
 # END dsf2stg

@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/2container-office.ac -93.33907 29.81932 0.00 211.67
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.33848 29.81951 1.00 34.96
+OBJECT_SHARED Models/lib/2container-office.ac -93.33903 29.81928 1.00 212.77
+OBJECT_SHARED Models/lib/4container-office.ac -93.33880 29.81942 1.00 214.65
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.33918 29.82067 1.00 311.987
+OBJECT_SHARED Models/Transport/van_silver.ac -93.33921 29.81981 1.00 304.509
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.33890 29.81979 1.00 299.836
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.33936 29.81958 1.00 36.3268
+OBJECT_SHARED Models/Transport/van_silver.ac -93.33864 29.81954 1.00 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.33950 29.81936 1.00 31.6271
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.33935 29.81895 1.00 121.989
+OBJECT_SHARED Models/Transport/van_red.ac -93.33957 29.81911 1.00 217.03
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -93.33852 29.81972 1.00 124.311
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33935 29.81888 1.00 207.33
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33995 29.81938 1.00 121.28
+OBJECT_SHARED Models/lib/4space_wStop.ac -93.33850 29.81975 1.00 36.32
+OBJECT_SHARED Models/lib/4space_wStop.ac -93.33934 29.81860 1.00 306.95
+OBJECT_SHARED Models/lib/4space_wStop.ac -93.33924 29.81867 1.00 312.85
+OBJECT_SHARED Models/lib/4space_wStop.ac -93.33951 29.81939 1.00 120.64
+OBJECT_SHARED Models/lib/4space_wStop.ac -93.33953 29.81940 1.00 303.76
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33949 29.81912 1.00 301.22
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33967 29.81902 1.00 303.96
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33983 29.81918 1.00 123.51
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33993 29.81941 1.00 301.69
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33904 29.81966 1.00 215.06
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33908 29.81969 1.00 33.63
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33949 29.81883 1.00 29.74
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33981 29.81921 1.00 302.4
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33883 29.81978 1.00 213.86
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33894 29.81992 1.00 216.49
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33886 29.81980 1.00 34.26
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33898 29.81994 1.00 34.06
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33919 29.81983 1.00 32.21
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33935 29.81975 1.00 30.87
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33924 29.81960 1.00 30.96
+OBJECT_SHARED Models/lib/6space_wStop.ac -93.33916 29.81981 1.00 213.81
+OBJECT_SHARED Models/lib/hangar81x16.ac -93.33850 29.82086 1.00 212.83
+# END dsf2stg

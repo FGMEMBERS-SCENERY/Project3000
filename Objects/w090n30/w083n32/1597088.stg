@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/NoParkStripes.xml -82.97993 32.56503 0.00 163.3
+OBJECT_SHARED Models/lib/NoParkStripes.xml -82.98007 32.56507 87.56 163.3
+OBJECT_SHARED Models/lib/shed10x50.ac -82.98068 32.56245 87.71 253.71
+OBJECT_SHARED Models/lib/shed10x50.ac -82.97994 32.56292 87.93 343.71
+OBJECT_SHARED Models/lib/shed10x50.ac -82.98013 32.56241 87.58 343.71
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -82.98004 32.56267 87.67 343.71
+OBJECT_SHARED Models/lib/admin-with-cars.ac -82.97947 32.56373 87.63 343.82
+OBJECT_SHARED Models/lib/canopy18x10.ac -82.97998 32.56512 87.30 73.64
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.97993 32.56511 87.64 73.53
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.98002 32.56513 87.56 73.53
+OBJECT_SHARED Models/lib/fboModern1.ac -82.97974 32.56474 87.64 343.76
+# END dsf2stg

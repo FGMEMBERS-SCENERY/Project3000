@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -92.54587 38.10288 0.00 53.03
+OBJECT_SHARED Models/lib/LongRow.ac -92.54548 38.10267 262.35 53.03
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -92.54988 38.09913 262.50 53.03
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -92.55066 38.09955 258.54 233.03
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -92.55061 38.09962 257.81 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -92.55065 38.09958 257.93 0
+OBJECT_SHARED Models/lib/fboModern1.ac -92.55029 38.09935 257.93 233.03
+OBJECT_SHARED Models/lib/admin-with-cars.ac -92.55055 38.10051 258.19 143.03
+# END dsf2stg

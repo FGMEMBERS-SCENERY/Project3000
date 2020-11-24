@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac 19.97849 47.81416 0.00 112.12
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 19.97903 47.81390 350.31 112.34
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 19.97814 47.81505 349.27 111.46
+OBJECT_SHARED Models/lib/farm19x12.ac 19.97814 47.81429 352.06 17.29
+OBJECT_SHARED Models/lib/farm19x12.ac 19.97783 47.81434 350.97 109.66
+OBJECT_SHARED Models/lib/farm19x12.ac 19.97808 47.81440 351.38 109.66
+OBJECT_SHARED Models/lib/shed8x10.ac 19.97917 47.81323 351.09 109.75
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 19.97894 47.81377 348.35 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 19.97785 47.81506 349.29 131.82
+OBJECT_SHARED Models/Transport/van_silver.ac 19.97795 47.81437 352.47 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 19.97845 47.81410 351.23 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 19.97835 47.81426 350.32 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 19.97837 47.81415 350.56 180
+OBJECT_SHARED Models/Misc/picnic_table.ac 19.97835 47.81418 350.32 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 19.97833 47.81422 350.44 0
+OBJECT_SHARED Models/lib/cars10.ac 19.97558 47.81406 350.58 156.711
+# END dsf2stg

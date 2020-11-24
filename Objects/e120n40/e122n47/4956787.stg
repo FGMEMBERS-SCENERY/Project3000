@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/jetway_e16m.ac 122.76453 47.87063 0.00 348.886
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 122.76447 47.86983 284.38 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 122.76456 47.87016 284.20 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 122.76466 47.87049 284.29 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 122.76475 47.87083 284.36 0
+OBJECT_SHARED Models/lib/jetway_e16m.ac 122.76431 47.86997 284.44 348.731
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 122.76353 47.86907 284.38 347.356
+OBJECT_SHARED Models/lib/transformer3x3.ac 122.76685 47.85329 284.03 169.92
+# END dsf2stg

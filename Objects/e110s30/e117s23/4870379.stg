@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 117.84903 -22.25359 0.00 0
+OBJECT_SHARED Models/lib/cone.ac 117.84880 -22.25422 617.29 0
+OBJECT_SHARED Models/lib/cone.ac 117.84940 -22.25423 616.21 0
+OBJECT_SHARED Models/lib/office40x25.ac 117.84872 -22.25333 616.21 272.31
+OBJECT_SHARED Models/lib/SmHangar.ac 117.85008 -22.25342 617.83 270
+OBJECT_SHARED Models/lib/garden-shed.ac 117.84973 -22.25354 618.08 358.45
+OBJECT_SHARED Models/lib/garden-shed.ac 117.84923 -22.25357 617.89 90
+# END dsf2stg

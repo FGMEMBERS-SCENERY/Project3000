@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43086 1.00 9.11
-OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43086 1.00 9.11
-OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43084 1.00 9.11
-OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43086 1.00 9.11
-OBJECT_SHARED Models/lib/1car-stop.ac -122.64986 45.43095 1.00 103.04
-OBJECT_SHARED Models/lib/1car-stop.ac -122.64980 45.43074 1.00 103.04
-OBJECT_SHARED Models/lib/lamp10m.xml -122.65003 45.43081 1.00 281.35
-OBJECT_SHARED Models/lib/garden-shed.ac -122.65002 45.43086 1.00 100.2
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -122.64991 45.43088 1.00 7.20999
-OBJECT_SHARED Models/Misc/picnic_table.ac -122.65001 45.43077 1.00 280.47
+OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43086 0.00 9.11
+OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43086 0.00 9.11
+OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43084 -1000.00 9.11
+OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43086 0.00 9.11
+OBJECT_SHARED Models/lib/1car-stop.ac -122.64986 45.43095 -1000.00 103.04
+OBJECT_SHARED Models/lib/1car-stop.ac -122.64980 45.43074 -1000.00 103.04
+OBJECT_SHARED Models/lib/lamp10m.xml -122.65003 45.43081 -1000.00 281.35
+OBJECT_SHARED Models/lib/garden-shed.ac -122.65002 45.43086 -1000.00 100.2
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -122.64991 45.43088 -1000.00 7.20999
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.65001 45.43077 -1000.00 280.47
 # END dsf2stg

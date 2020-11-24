@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/6space_wStop.ac 142.45442 43.67053 0.00 204.8
+OBJECT_SHARED Models/lib/4space_wStop.ac 142.45448 43.67033 204.81 295.49
+OBJECT_SHARED Models/lib/NoParkStripes.xml 142.45421 43.67025 205.16 115.94
+OBJECT_SHARED Models/lib/NoParkStripes.xml 142.45522 43.66945 205.34 295.96
+OBJECT_SHARED Models/lib/4space_wStop.ac 142.45430 43.67027 206.59 295.41
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 142.45332 43.67099 205.16 90
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 142.45306 43.67145 203.97 23.2
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 142.45404 43.66990 203.31 88.26
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 142.45370 43.67042 205.85 93.08
+OBJECT_SHARED Models/lib/lamp10m.xml 142.44943 43.67455 204.99 270
+OBJECT_SHARED Models/lib/lamp10m.xml 142.44915 43.67445 199.50 -20.7
+OBJECT_SHARED Models/lib/lamp10m.xml 142.44934 43.67418 199.81 85.94
+OBJECT_SHARED Models/lib/lamp10m.xml 142.44937 43.67413 200.11 26.08
+OBJECT_SHARED Models/lib/lamp10m.xml 142.44955 43.67386 200.26 25.73
+OBJECT_SHARED Models/lib/lamp10m.xml 142.44958 43.67381 200.10 25.17
+OBJECT_SHARED Models/lib/lamp10m.xml 142.44981 43.67347 200.27 25.13
+OBJECT_SHARED Models/lib/FireStationLg.ac 142.44899 43.67468 200.73 205.78
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 142.45568 43.66785 104.35 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 142.45578 43.66778 114.56 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 142.45283 43.67212 209.72 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 142.45316 43.67163 202.08 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 142.45348 43.67114 202.97 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 142.45371 43.67078 203.80 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 142.45397 43.67041 204.25 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 142.45421 43.67005 204.99 225
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 142.45445 43.66968 205.68 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 142.45449 43.66930 206.19 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 142.45448 43.66933 206.87 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 142.45447 43.66936 206.87 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 142.45445 43.66938 206.70 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 142.45443 43.66940 206.70 0
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 142.45331 43.66871 206.70 295.66
+OBJECT_SHARED Models/lib/loader.ac 142.45402 43.66919 207.66 -63.5
+OBJECT_SHARED Models/lib/loader.ac 142.45395 43.66918 207.04 -63.5
+OBJECT_SHARED Models/lib/loader.ac 142.45390 43.66916 207.04 -63.5
+OBJECT_SHARED Models/lib/caisses_group.ac 142.45489 43.66921 207.04 114.4
+OBJECT_SHARED Models/lib/caisses_group.ac 142.45374 43.66917 207.15 312.38
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 142.45469 43.66942 207.04 116.57
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 142.45498 43.66898 206.78 294.69
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 142.45450 43.67032 207.52 116.37
+OBJECT_SHARED Models/Transport/hatchback_black.ac 142.45451 43.67037 205.16 207.07
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 142.45445 43.67035 204.91 206.31
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 142.45434 43.67030 205.16 206.31
+OBJECT_SHARED Models/Transport/hatchback_black.ac 142.45430 43.67029 205.16 206.31
+OBJECT_SHARED Models/Transport/hatchback_red.ac 142.45425 43.67027 205.16 206.31
+# END dsf2stg

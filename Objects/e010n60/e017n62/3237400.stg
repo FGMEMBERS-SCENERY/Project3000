@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 17.00036 62.48200 272.52 239.394
-OBJECT_SHARED Models/lib/shed10x50.ac 17.00161 62.48212 271.41 148.875
-OBJECT_SHARED Models/lib/shed10x50.ac 17.00220 62.48195 270.92 148.875
-OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac 17.00029 62.48239 272.38 148.463
-OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac 17.00013 62.48157 272.97 148.463
-OBJECT_SHARED Models/lib/cargo_pod_lot.ac 17.00074 62.48162 272.44 149.038
+OBJECT_SHARED Models/lib/SmHangar.ac 17.00036 62.48200 0.00 239.394
+OBJECT_SHARED Models/lib/shed10x50.ac 17.00161 62.48212 267.32 148.875
+OBJECT_SHARED Models/lib/shed10x50.ac 17.00220 62.48195 271.30 148.875
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac 17.00029 62.48239 273.16 148.463
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac 17.00013 62.48157 272.27 148.463
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 17.00074 62.48162 272.87 149.038
 # END dsf2stg

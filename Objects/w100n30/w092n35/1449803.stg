@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.04956 35.19240 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.04960 35.19223 64.13 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.04932 35.19137 64.13 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.05003 35.19143 64.07 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.05022 35.19145 64.17 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.05044 35.19150 64.20 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.04968 35.19204 64.24 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.05001 35.19208 64.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.05019 35.19210 64.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.05049 35.19164 64.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.05045 35.19188 64.26 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.05044 35.19193 64.25 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.05043 35.19200 64.25 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.05040 35.19207 64.26 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.05035 35.19212 64.26 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.05047 35.19171 64.24 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.05025 35.19212 64.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.05046 35.19181 64.24 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.04949 35.19202 64.27 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.04968 35.19138 64.11 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.04936 35.19199 64.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.04989 35.19141 64.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.04953 35.19137 64.15 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -91.04941 35.19136 64.10 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -91.04965 35.19211 64.09 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -91.04929 35.19199 64.13 0
+OBJECT_SHARED Models/lib/MedHangar.ac -91.04815 35.19190 64.08 178.67
+OBJECT_SHARED Models/lib/LgMaint.ac -91.04792 35.19343 64.00 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -91.04865 35.19212 63.94 90
+OBJECT_SHARED Models/lib/SmHangar.ac -91.04926 35.19117 64.03 179.76
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -91.04866 35.19230 64.07 358.09
+# END dsf2stg

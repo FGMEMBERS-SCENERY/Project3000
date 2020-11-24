@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -116.95779 48.57408 0.00 114.803
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.95785 48.57412 789.53 114.215
+OBJECT_SHARED Models/Transport/van_silver.ac -116.95733 48.57320 789.53 286.777
+OBJECT_SHARED Models/Transport/van_silver.ac -116.95740 48.57344 789.00 106.165
+OBJECT_SHARED Models/lib/cars6.ac -116.95752 48.57459 788.98 289.018
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.95735 48.57431 789.51 103.815
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.95735 48.57437 788.94 110.225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -116.95738 48.57440 788.93 105.203
+# END dsf2stg

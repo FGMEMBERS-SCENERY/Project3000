@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac 150.36303 -23.32172 0.00 176.355
+OBJECT_SHARED Models/Misc/6barrels.ac 150.36232 -23.32146 27.63 79.439
+OBJECT_SHARED Models/Misc/6barrels.ac 150.36233 -23.32147 26.82 80.5377
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 150.36235 -23.32175 26.82 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 150.36233 -23.32175 26.59 176.309
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 150.36204 -23.32194 26.59 265.914
+OBJECT_SHARED Models/Transport/hatchback_red.ac 150.36196 -23.32192 26.52 261.87
+OBJECT_SHARED Models/Transport/hatchback_green.ac 150.36181 -23.32190 26.52 257.905
+OBJECT_SHARED Models/Transport/van_silver.ac 150.36171 -23.32189 26.52 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 150.36151 -23.32185 26.52 253.443
+OBJECT_SHARED Models/Transport/hatchback_green.ac 150.36140 -23.32183 26.52 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac 150.36116 -23.32178 25.63 264.806
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 150.36102 -23.32176 25.63 252.897
+# END dsf2stg

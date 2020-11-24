@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 21.08363 56.51866 0.00 154.65
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 21.08362 56.51864 -0.14 334.66
+OBJECT_SHARED Models/lib/office3x10.ac 21.08369 56.51857 -0.15 336.16
+OBJECT_SHARED Models/lib/SmHangar.ac 21.10434 56.52181 -0.14 108.7
+OBJECT_SHARED Models/lib/industrial15x22.ac 21.09865 56.52085 2.67 18.66
+OBJECT_SHARED Models/lib/office4x14.ac 21.09940 56.52098 1.78 289.37
+OBJECT_SHARED Models/lib/garages22x9.ac 21.09815 56.52082 1.89 254.65
+OBJECT_SHARED Models/lib/cars4.ac 21.09747 56.52051 1.73 197.98
+OBJECT_SHARED Models/lib/cars6.ac 21.09682 56.52083 1.64 282.08
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 21.09777 56.52058 1.56 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 21.09796 56.52061 1.67 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 21.09783 56.52059 1.70 0
+OBJECT_SHARED Models/Transport/van_red.ac 21.09664 56.52062 1.67 86.77
+OBJECT_SHARED Models/Transport/van_red.ac 21.09754 56.52079 1.52 193.82
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 21.09744 56.52078 1.65 194.83
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 21.10078 56.52047 1.64 108.69
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 21.09841 56.52064 2.07 20.6
+OBJECT_SHARED Models/Transport/hatchback_black.ac 21.09794 56.52078 1.76 48.2
+OBJECT_SHARED Models/lib/transformer3x3.ac 21.10671 56.52061 1.70 291.8
+OBJECT_SHARED Models/lib/transformer3x3.ac 21.10022 56.52101 3.02 19.21
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 21.10088 56.52006 1.99 96.56
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 21.10084 56.52015 2.12 109.09
+OBJECT_SHARED Models/lib/HorizTanks2.ac 21.09897 56.52077 2.11 19.08
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 21.09892 56.52075 1.82 288.38
+OBJECT_SHARED Models/lib/stack_of_cones.ac 21.09836 56.52070 1.81 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 21.09659 56.52047 1.75 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 21.09829 56.52068 1.52 18.3
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 21.09665 56.52044 1.74 107.21
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 21.09660 56.52041 1.52 42.66
+OBJECT_SHARED Models/lib/chariot3curve.ac 21.09644 56.52047 1.52 48.01
+OBJECT_SHARED Models/lib/belt_loader.ac 21.09667 56.52037 1.50 109.06
+OBJECT_SHARED Models/lib/lamp10m.xml 21.09951 56.52085 1.54 198.33
+OBJECT_SHARED Models/lib/lamp10m.xml 21.09842 56.52075 1.89 198.53
+OBJECT_SHARED Models/lib/lamp10m.xml 21.09686 56.52037 1.75 198.03
+# END dsf2stg

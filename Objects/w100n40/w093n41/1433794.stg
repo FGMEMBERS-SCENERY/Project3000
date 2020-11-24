@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -92.44462 41.10698 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -92.44403 41.10685 255.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -92.44431 41.10706 255.69 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44296 41.10694 255.74 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44307 41.10686 255.38 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44317 41.10679 255.41 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44326 41.10670 255.46 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44352 41.10648 255.50 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44382 41.10625 255.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44393 41.10617 255.68 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44403 41.10608 255.69 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44413 41.10600 255.71 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44424 41.10592 255.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -92.44435 41.10584 255.75 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -92.44463 41.10613 255.79 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -92.44440 41.10630 255.83 0
+OBJECT_SHARED Models/lib/prop_a.ac -92.44446 41.10812 255.78 135
+OBJECT_SHARED Models/lib/prop_a.ac -92.44456 41.10838 255.72 135
+OBJECT_SHARED Models/lib/cars10.ac -92.44145 41.10467 255.71 226.46
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -92.44449 41.10541 255.04 45
+OBJECT_SHARED Models/Transport/van_red.ac -92.43923 41.10329 255.82 47.64
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -92.43934 41.10323 254.84 47.41
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -92.43942 41.10314 254.86 45.85
+OBJECT_SHARED Models/lib/cars14.ac -92.43875 41.10150 254.88 45.22
+OBJECT_SHARED Models/lib/cars14.ac -92.43914 41.10179 255.34 44.94
+OBJECT_SHARED Models/lib/cars14.ac -92.43953 41.10208 255.32 45.62
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.44290 41.10495 255.18 136.98
+OBJECT_SHARED Models/Transport/hatchback_green.ac -92.44294 41.10498 255.52 135.71
+OBJECT_SHARED Models/Transport/Norberttruck.xml -92.44028 41.10230 255.52 134.06
+OBJECT_SHARED Models/Transport/Norberttruck.xml -92.43774 41.10046 255.03 134.56
+OBJECT_SHARED Models/Transport/Norberttruck.xml -92.43999 41.10278 255.07 134.63
+OBJECT_SHARED Models/lib/cars14.ac -92.44419 41.10626 254.91 135
+OBJECT_SHARED Models/lib/HorizTanks2.ac -92.44348 41.10808 255.74 133.6
+OBJECT_SHARED Models/lib/cars14.ac -92.44436 41.10680 255.44 225.28
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -92.44352 41.10483 255.77 45.76
+OBJECT_SHARED Models/lib/admin31x12.ac -92.44460 41.10649 255.66 0.220001
+OBJECT_SHARED Models/lib/office16x4n.ac -92.44347 41.10470 255.82 222.61
+OBJECT_SHARED Models/lib/LongRow.ac -92.44323 41.10841 255.67 315
+# END dsf2stg

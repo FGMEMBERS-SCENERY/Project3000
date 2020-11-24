@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -108.50965 54.12665 0.00 0
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -108.50989 54.12665 480.16 0
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -108.51013 54.12665 480.16 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -108.50930 54.12737 480.16 1.29999
+OBJECT_SHARED Models/Transport/van_red.ac -108.50914 54.12739 480.15 1.35998
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -108.50980 54.12751 480.15 181.34
+OBJECT_SHARED Models/Misc/6barrels.ac -108.50934 54.12749 480.18 0
+OBJECT_SHARED Models/Misc/6barrels.ac -108.51027 54.12790 480.16 0
+OBJECT_SHARED Models/lib/prop_a.ac -108.50907 54.12581 480.19 89.72
+OBJECT_SHARED Models/lib/hangar81x16.ac -108.50870 54.12677 480.20 359.66
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -108.50804 54.12612 480.20 0.169998
+OBJECT_SHARED Models/lib/industrial13x24.ac -108.50941 54.12628 480.13 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -108.50929 54.12761 480.15 269.44
+OBJECT_SHARED Models/Transport/hatchback_red.ac -108.50918 54.12795 480.16 312.27
+OBJECT_SHARED Models/Transport/hatchback_black.ac -108.50967 54.12804 480.18 358.18
+OBJECT_SHARED Models/lib/container6-HD.ac -108.51020 54.12803 480.20 181.27
+OBJECT_SHARED Models/lib/office6x12.ac -108.51061 54.12738 480.20 179.13
+# END dsf2stg

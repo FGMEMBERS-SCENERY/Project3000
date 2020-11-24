@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -1.73141 51.38855 0.00 161.349
+OBJECT_SHARED Models/lib/prop_a.ac -1.73150 51.38865 189.45 206.57
+OBJECT_SHARED Models/lib/prop_a.ac -1.73159 51.38911 189.56 210.96
+OBJECT_SHARED Models/lib/prop_a.ac -1.73206 51.38933 189.85 291.61
+OBJECT_SHARED Models/lib/prop_a.ac -1.73193 51.38938 190.31 286.5
+OBJECT_SHARED Models/lib/prop_a.ac -1.73182 51.38927 190.25 279.16
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.73137 51.38883 190.12 104.04
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.73141 51.38883 189.57 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.73147 51.38881 189.60 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.73144 51.38882 189.63 0
+OBJECT_SHARED Models/lib/office4x14.ac -1.73063 51.38840 189.62 202.11
+OBJECT_SHARED Models/lib/office8x14.ac -1.73081 51.38868 189.00 288
+OBJECT_SHARED Models/lib/shed8x10.ac -1.73135 51.38870 189.21 292.62
+OBJECT_SHARED Models/lib/shed8x10.ac -1.73107 51.38842 189.51 292.29
+OBJECT_SHARED Models/lib/industrial15x22.ac -1.73019 51.38854 189.19 292.97
+OBJECT_SHARED Models/lib/industrial15x22.ac -1.73036 51.38882 188.86 16.31
+OBJECT_SHARED Models/lib/SmHangar.ac -1.73154 51.38957 189.05 314
+OBJECT_SHARED Models/lib/SmHangar.ac -1.73140 51.38965 190.04 314
+OBJECT_SHARED Models/lib/SmHangar.ac -1.73123 51.38975 189.94 314
+OBJECT_SHARED Models/lib/SmHangar.ac -1.73140 51.38986 189.87 123
+OBJECT_SHARED Models/lib/SmHangar.ac -1.73160 51.38978 190.09 123
+OBJECT_SHARED Models/lib/SmHangar.ac -1.73177 51.38971 190.18 123
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -1.73133 51.38895 190.26 115.531
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -1.73161 51.38947 189.59 133.409
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -1.73195 51.38967 190.05 117.324
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -1.73198 51.38970 190.40 124.196
+OBJECT_SHARED Models/Misc/6barrels.ac -1.73158 51.38944 190.43 0
+OBJECT_SHARED Models/Misc/6barrels.ac -1.73156 51.38943 189.98 0
+OBJECT_SHARED Models/Misc/6barrels.ac -1.73117 51.38980 189.97 0
+# END dsf2stg

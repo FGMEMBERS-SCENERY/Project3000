@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 128.40079 27.04277 0.00 -50.23
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 128.39963 27.04411 16.51 131.64
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 128.39972 27.04408 16.70 132.98
+OBJECT_SHARED Models/lib/lamp10m.xml 128.39970 27.04410 16.70 -47.52
+OBJECT_SHARED Models/lib/caisses_group.ac 128.40045 27.04281 16.70 132.09
+OBJECT_SHARED Models/lib/SmHangar.ac 128.40051 27.04271 15.77 220.93
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 128.40044 27.04278 16.62 0.799999
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 128.39992 27.04329 15.77 3.55
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 128.39971 27.04351 15.56 354.66
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 128.40075 27.04278 15.54 0
+# END dsf2stg

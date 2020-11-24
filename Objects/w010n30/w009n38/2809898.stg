@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -8.27216 38.71099 0.00 321.08
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -8.27201 38.71118 196.24 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -8.27185 38.71072 196.62 317.12
+OBJECT_SHARED Models/lib/cone.ac -8.27243 38.71117 195.97 0
+OBJECT_SHARED Models/lib/cone.ac -8.27245 38.71117 196.27 270
+OBJECT_SHARED Models/lib/cone.ac -8.27252 38.71084 196.25 0
+OBJECT_SHARED Models/lib/cone.ac -8.27250 38.71083 195.72 90
+OBJECT_SHARED Models/lib/cone.ac -8.27259 38.71053 195.73 0
+OBJECT_SHARED Models/lib/cone.ac -8.27273 38.71061 195.30 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -8.27275 38.71062 195.31 291.04
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -8.27236 38.71073 195.29 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -8.27238 38.71071 195.70 0
+OBJECT_SHARED Models/Transport/Norberttruck.xml -8.27210 38.71126 195.69 228.24
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -8.27205 38.71118 196.69 54.1779
+OBJECT_SHARED Models/lib/SmHangar.ac -8.27265 38.71058 196.59 229.78
+# END dsf2stg

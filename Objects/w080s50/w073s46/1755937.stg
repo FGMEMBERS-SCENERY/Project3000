@@ -1,20 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/handicap-sign.ac -72.66964 -45.39980 5.01 15.43
-OBJECT_SHARED Models/lib/handicap-sign.ac -72.66963 -45.39982 5.01 17.46
-OBJECT_SHARED Models/lib/cars7.ac -72.66966 -45.39974 5.13 16.14
-OBJECT_SHARED Models/lib/handicap-sign.ac -72.67702 -45.39863 6.84 281.95
-OBJECT_SHARED Models/lib/cars14.ac -72.67681 -45.39860 6.82 281.95
-OBJECT_SHARED Models/lib/farm19x12.ac -72.67547 -45.40174 0.07 191
-OBJECT_SHARED Models/lib/farm19x12.ac -72.67415 -45.40149 1.01 196
-OBJECT_SHARED Models/lib/farm19x12.ac -72.67312 -45.40135 0.47 13
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -72.66918 -45.39944 5.34 43.09
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -72.66985 -45.39956 5.24 63.43
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.67505 -45.39833 6.80 167.13
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -72.67538 -45.39893 6.56 323.75
-OBJECT_SHARED Models/lib/MedHangar.ac -72.67705 -45.39899 6.76 192.08
-OBJECT_SHARED Models/lib/SmHangar.ac -72.66935 -45.39970 5.06 358.98
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -72.67436 -45.39841 6.71 11.31
-OBJECT_SHARED Models/lib/cube16x10.ac -72.67470 -45.39826 6.78 282.44
+OBJECT_SHARED Models/lib/stack_of_cones.ac -72.67436 -45.39845 0.00 187.54
+OBJECT_SHARED Models/lib/watertank3x1.ac -72.67431 -45.39845 6.75 341.2
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -72.67705 -45.39907 6.76 0
+OBJECT_SHARED Models/lib/cars6.ac -72.67711 -45.39898 6.81 282.09
 # END dsf2stg

@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -70.67745 42.09814 0.00 186.7
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -70.67713 42.09694 1.78 193.57
+OBJECT_SHARED Models/lib/office16x4n.ac -70.67616 42.09759 1.45 253.01
+OBJECT_SHARED Models/lib/prop_a.ac -70.67655 42.09784 1.39 291.98
+OBJECT_SHARED Models/lib/prop_a.ac -70.67592 42.09750 1.50 277.29
+OBJECT_SHARED Models/lib/prop_a.ac -70.67692 42.09750 1.32 171.14
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -70.67591 42.09710 1.52 43.44
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -70.67631 42.09815 1.28 22.67
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -70.67706 42.09736 1.48 289.8
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -70.67714 42.09753 1.53 289.44
+OBJECT_SHARED Models/lib/SmHangar.ac -70.67695 42.09748 1.57 199.12
+OBJECT_SHARED Models/lib/SmHangar.ac -70.67703 42.09767 1.52 198.97
+OBJECT_SHARED Models/lib/SmHangar.ac -70.67579 42.09744 1.58 45.05
+OBJECT_SHARED Models/lib/LongRow.ac -70.67658 42.09748 1.30 112.22
+OBJECT_SHARED Models/lib/LongRow.ac -70.67511 42.09749 1.44 44.87
+OBJECT_SHARED Models/lib/LongRow.ac -70.67546 42.09723 1.19 44.87
+OBJECT_SHARED Models/lib/lamp10m.xml -70.67703 42.09725 1.22 196.87
+OBJECT_SHARED Models/lib/lamp10m.xml -70.67702 42.09705 1.50 195.74
+OBJECT_SHARED Models/lib/lamp10m.xml -70.67695 42.09685 1.46 193.09
+OBJECT_SHARED Models/lib/lamp10m.xml -70.67726 42.09673 1.41 13.02
+OBJECT_SHARED Models/lib/lamp10m.xml -70.67734 42.09694 1.44 13.74
+OBJECT_SHARED Models/lib/cars4.ac -70.67620 42.09728 1.48 223.25
+OBJECT_SHARED Models/lib/cars4.ac -70.67698 42.09697 1.35 104.72
+OBJECT_SHARED Models/lib/cars4.ac -70.67735 42.09697 1.44 284.26
+OBJECT_SHARED Models/lib/cars2.ac -70.67736 42.09702 1.51 282.91
+OBJECT_SHARED Models/lib/cars6.ac -70.67729 42.09682 1.53 284.08
+OBJECT_SHARED Models/Transport/van_silver.ac -70.67657 42.09808 1.46 292.06
+OBJECT_SHARED Models/Transport/hatchback_black.ac -70.67718 42.09774 1.55 118.98
+OBJECT_SHARED Models/Transport/Norberttruck.xml -70.67709 42.09710 1.64 13.78
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -70.67507 42.09571 1.49 314.37
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.67729 42.09632 1.03 105.17
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.67734 42.09646 1.35 105.17
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.67720 42.09668 1.40 105.17
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.67704 42.09682 1.43 13.12
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.67722 42.09698 1.41 0
+# END dsf2stg

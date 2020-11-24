@@ -1,0 +1,40 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -82.49489 38.41990 163.50 101
+OBJECT_SHARED Models/lib/prop_a.ac -82.49440 38.42002 168.88 105.5
+OBJECT_SHARED Models/lib/prop_a.ac -82.49407 38.42009 169.14 104.62
+OBJECT_SHARED Models/lib/prop_a.ac -82.49360 38.42054 169.31 286.7
+OBJECT_SHARED Models/lib/prop_a.ac -82.49346 38.42058 169.61 289.75
+OBJECT_SHARED Models/lib/prop_a.ac -82.49332 38.42061 169.66 289.63
+OBJECT_SHARED Models/lib/prop_a.ac -82.49374 38.42050 169.64 286.99
+OBJECT_SHARED Models/lib/prop_a.ac -82.49320 38.42037 169.62 104.85
+OBJECT_SHARED Models/lib/prop_a.ac -82.49338 38.42033 169.55 103.91
+OBJECT_SHARED Models/lib/prop_a.ac -82.49324 38.42021 169.49 285.75
+OBJECT_SHARED Models/lib/prop_a.ac -82.49356 38.42030 169.44 104.37
+OBJECT_SHARED Models/lib/LongRow.ac -82.49447 38.42056 169.51 195.37
+OBJECT_SHARED Models/lib/LongRow.ac -82.49437 38.42059 169.67 195.37
+OBJECT_SHARED Models/lib/garage-small-white.ac -82.49418 38.42057 169.68 197.61
+OBJECT_SHARED Models/lib/garage-small-white.ac -82.49421 38.42064 169.65 17.03
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.49375 38.42062 169.65 258.43
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -82.49365 38.42065 169.67 212.98
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.49408 38.42030 169.69 195.36
+OBJECT_SHARED Models/lib/4container-office.ac -82.49369 38.42072 169.48 199.52
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.49394 38.42068 169.69 116.57
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -82.49277 38.42096 169.69 122.47
+OBJECT_SHARED Models/Transport/hatchback_black.ac -82.49451 38.41988 169.51 299.05
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -82.49424 38.42048 169.01 148.39
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49259 38.42180 169.61 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49056 38.42139 161.85 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49071 38.42140 167.30 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.48970 38.42056 167.38 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49007 38.42130 167.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49015 38.42122 166.96 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49127 38.42131 167.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49142 38.42129 168.12 258.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49155 38.42126 168.23 243.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49169 38.42122 168.42 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49060 38.42209 168.55 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49222 38.42186 166.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.49235 38.42188 168.32 243.43
+# END dsf2stg

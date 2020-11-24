@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -88.64799 41.63995 0.00 103.82
+OBJECT_SHARED Models/lib/MedHangar.ac -88.64769 41.63848 204.19 180.42
+OBJECT_SHARED Models/lib/industrial13x24.ac -88.64406 41.64087 204.29 193.36
+OBJECT_SHARED Models/lib/industrial13x24.ac -88.64842 41.63894 204.11 180.347
+OBJECT_SHARED Models/lib/industrial13x24.ac -88.64942 41.63842 204.09 90.6903
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.64307 41.64100 203.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -88.64294 41.64096 203.96 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -88.64387 41.64073 203.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -88.64324 41.64087 203.83 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -88.64343 41.64083 203.84 0
+OBJECT_SHARED Models/lib/office8x14.ac -88.64175 41.64122 203.78 193.6
+OBJECT_SHARED Models/lib/hangar81x16.ac -88.64583 41.64044 203.99 13.8
+OBJECT_SHARED Models/lib/hangar81x16.ac -88.64642 41.64033 204.21 13.8
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -88.64293 41.64113 204.32 194.07
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -88.65018 41.63983 204.07 10.95
+OBJECT_SHARED Models/lib/prop_a.ac -88.64773 41.63902 202.47 185.195
+OBJECT_SHARED Models/Transport/hatchback_red.ac -88.64967 41.63819 204.28 5.90607
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -88.64976 41.63817 202.87 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -88.64971 41.63818 202.75 176.82
+OBJECT_SHARED Models/Transport/hatchback_red.ac -88.64935 41.63813 202.87 178.363
+OBJECT_SHARED Models/Transport/van_red.ac -88.64833 41.63877 203.31 98.1303
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -88.64815 41.63880 204.12 282.095
+OBJECT_SHARED Models/Transport/van_silver.ac -88.64811 41.63839 204.15 3.09399
+OBJECT_SHARED Models/Transport/hatchback_black.ac -88.64832 41.63844 204.18 90
+OBJECT_SHARED Models/lib/trailer-ups.ac -88.64846 41.63810 204.12 270
+OBJECT_SHARED Models/lib/trailer-ups.ac -88.64842 41.63810 204.08 270
+OBJECT_SHARED Models/lib/cars6.ac -88.64813 41.63795 204.10 90.2984
+# END dsf2stg

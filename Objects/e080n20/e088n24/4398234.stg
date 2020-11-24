@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.61378 24.44482 0.00 0
+OBJECT_SHARED Models/lib/LuggCartPkng.ac 88.61489 24.44468 19.83 187.59
+OBJECT_SHARED Models/Airport/cargoim.xml 88.61408 24.44510 18.59 0
+OBJECT_SHARED Models/Airport/cargoip.xml 88.61411 24.44509 19.45 0
+OBJECT_SHARED Models/lib/container6-HD.ac 88.61485 24.44468 19.45 187.81
+OBJECT_SHARED Models/lib/watertank3x1.ac 88.61403 24.44454 18.68 7.76999
+OBJECT_SHARED Models/lib/stack_of_cones.ac 88.61398 24.44508 19.47 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 88.61430 24.44458 19.58 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.61417 24.44473 19.13 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.61416 24.44480 19.25 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.61415 24.44484 19.28 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 88.61413 24.44492 19.39 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 88.61382 24.44505 19.41 8.13
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 88.61380 24.44466 19.88 0
+OBJECT_SHARED Models/lib/office16x4n.ac 88.61386 24.44609 19.81 79.42
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 88.61404 24.44457 20.00 187.7
+OBJECT_SHARED Models/lib/transformer3x3.ac 88.61337 24.44468 19.49 3.81
+OBJECT_SHARED Models/lib/transformer3x3.ac 88.61337 24.44475 20.45 3.81
+OBJECT_SHARED Models/lib/industrial15x22.ac 88.61375 24.44561 20.45 65.77
+OBJECT_SHARED Models/lib/office8x14.ac 88.61380 24.44588 19.98 75.96
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 88.61350 24.44493 20.06 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 88.61358 24.44492 20.31 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 88.61367 24.44494 20.16 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 88.61367 24.44457 20.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 88.61400 24.44450 19.95 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 88.61417 24.44460 19.47 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 88.61408 24.44462 19.24 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 88.61404 24.44485 19.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 88.61407 24.44473 19.54 0
+OBJECT_SHARED Models/lib/hangar81x16.ac 88.61392 24.44253 19.38 93.81
+OBJECT_SHARED Models/Transport/Norberttruck.xml 88.61350 24.44485 19.39 185.71
+OBJECT_SHARED Models/lib/vending-machine.ac 88.61377 24.44484 20.31 187.13
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61439 24.44441 19.83 0
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61371 24.44448 19.01 -79.76
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61383 24.44454 19.93 16.43
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61351 24.44509 19.78 171.15
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61355 24.44523 20.34 80.41
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61376 24.44521 20.20 80.41
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61450 24.44536 19.90 187.66
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61428 24.44531 19.09 187.66
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61457 24.44445 19.28 8.13
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61490 24.44453 18.81 8.13
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61402 24.44490 18.57 278.13
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61402 24.44478 19.54 278.13
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61405 24.44467 19.52 278.13
+OBJECT_SHARED Models/lib/lamp10m.xml 88.61398 24.44506 19.51 278.13
+OBJECT_SHARED Models/lib/cube16x10.ac 88.61424 24.44370 19.58 4.3
+OBJECT_SHARED Models/lib/MedHangar.ac 88.61433 24.44324 19.12 184.73
+OBJECT_SHARED Models/lib/SmHangar.ac 88.61415 24.44418 18.97 186.66
+# END dsf2stg

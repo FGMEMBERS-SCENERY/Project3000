@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -110.55539 41.82126 0.00 5.88
+OBJECT_SHARED Models/lib/SmHangar.ac -110.55527 41.82037 2219.84 273.3
+OBJECT_SHARED Models/lib/SmHangar.ac -110.55571 41.82033 2219.75 275.23
+OBJECT_SHARED Models/lib/SmHangar.ac -110.55499 41.82038 2220.59 273.3
+OBJECT_SHARED Models/lib/SmHangar.ac -110.55520 41.82056 2219.75 92.93
+OBJECT_SHARED Models/lib/SmHangar.ac -110.55576 41.82060 2219.78 92.86
+OBJECT_SHARED Models/lib/SmHangar.ac -110.55549 41.82055 2220.64 93.14
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -110.55535 41.82155 2219.76 5.56
+# END dsf2stg

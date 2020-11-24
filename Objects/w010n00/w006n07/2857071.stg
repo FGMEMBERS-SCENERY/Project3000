@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac -5.06348 7.74623 371.81 335.42
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -5.06912 7.73609 376.28 70.1
+OBJECT_SHARED Models/lib/caisses_group.ac -5.06907 7.73609 371.70 65.5
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -5.06926 7.73611 371.71 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -5.06886 7.73672 371.67 0
+OBJECT_SHARED Models/lib/lamp10m.xml -5.06211 7.74926 372.02 65
+OBJECT_SHARED Models/lib/lamp10m.xml -5.06189 7.74977 373.81 65
+# END dsf2stg

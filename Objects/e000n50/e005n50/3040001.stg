@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml 5.42813 50.03457 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 5.42004 50.03162 591.31 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 5.41988 50.03228 584.75 206.96
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 5.41942 50.03225 581.09 26.57
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 5.41939 50.03224 581.26 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 5.42236 50.02991 581.24 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 5.41985 50.03226 583.85 0
+OBJECT_SHARED Models/lib/hangar81x16.ac 5.42003 50.03143 581.07 117.42
+OBJECT_SHARED Models/lib/shed8x10.ac 5.44913 50.03463 585.19 32.55
+OBJECT_SHARED Models/lib/industrial13x24.ac 5.44851 50.03435 579.91 34.14
+# END dsf2stg

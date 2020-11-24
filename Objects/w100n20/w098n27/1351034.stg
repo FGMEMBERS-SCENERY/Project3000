@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -97.34567 27.88739 0.00 0
+OBJECT_SHARED Models/lib/shed8x10.ac -97.34856 27.88389 7.49 5.8
+OBJECT_SHARED Models/lib/shed8x10.ac -97.34577 27.88739 5.69 0
+OBJECT_SHARED Models/lib/shed8x10.ac -97.34866 27.88388 7.64 5.8
+OBJECT_SHARED Models/lib/shed8x10.ac -97.34932 27.88383 5.89 275.8
+OBJECT_SHARED Models/lib/industrial13x24.ac -97.34680 27.88668 6.61 0
+OBJECT_SHARED Models/lib/MedHangar.ac -97.34878 27.88417 10.38 5.8
+OBJECT_SHARED Models/lib/MedHangar.ac -97.34585 27.88769 7.51 0
+OBJECT_SHARED Models/lib/LongRow.ac -97.34668 27.88712 7.82 0
+OBJECT_SHARED Models/lib/LongRow.ac -97.34662 27.88746 9.92 0
+OBJECT_SHARED Models/lib/coal_pile.ac -97.34923 27.88379 9.46 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac -97.34583 27.88720 6.41 90
+OBJECT_SHARED Models/Transport/Norberttruck.xml -97.34668 27.88678 7.75 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.34933 27.88390 10.19 189.08
+OBJECT_SHARED Models/Transport/hatchback_green.ac -97.34877 27.88395 7.08 296.73
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.34574 27.88617 6.09 0
+OBJECT_SHARED Models/Transport/van_red.ac -97.34587 27.88783 7.40 270
+OBJECT_SHARED Models/Transport/van_red.ac -97.34586 27.88786 7.83 248.59
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.34584 27.88620 7.85 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.34607 27.88723 7.81 202.35
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.34601 27.88723 8.51 178.21
+# END dsf2stg

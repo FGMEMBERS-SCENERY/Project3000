@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -110.38497 40.19284 0.00 179.05
+OBJECT_SHARED Models/lib/prop_a.ac -110.38617 40.19111 1771.79 90.41
+OBJECT_SHARED Models/lib/prop_a.ac -110.38511 40.19325 1769.97 270
+OBJECT_SHARED Models/lib/lamp10m.xml -110.38554 40.19297 1772.19 199.837
+OBJECT_SHARED Models/lib/lamp10m.xml -110.38555 40.19304 1772.12 161.811
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -110.38557 40.19295 1772.12 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -110.38553 40.19300 1772.03 179.52
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -110.38665 40.19124 1772.12 270
+OBJECT_SHARED Models/lib/MedHangar.ac -110.38546 40.19237 1769.86 179.74
+OBJECT_SHARED Models/lib/SmHangar.ac -110.38659 40.19133 1771.40 180
+OBJECT_SHARED Models/lib/SmHangar.ac -110.38590 40.19141 1769.99 90
+# END dsf2stg

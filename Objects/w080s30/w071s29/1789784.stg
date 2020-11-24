@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -70.75383 -28.59501 537.25 69.37
-OBJECT_SHARED Models/lib/handicap-sign.ac -70.75774 -28.59384 535.34 251.4
-OBJECT_SHARED Models/lib/handicap-sign.ac -70.75758 -28.59390 535.48 249.35
-OBJECT_SHARED Models/lib/cars7.ac -70.75765 -28.59388 535.44 250.04
-OBJECT_SHARED Models/lib/farm19x12.ac -70.75651 -28.59393 535.76 160.6
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.75686 -28.59381 535.57 157.97
-OBJECT_SHARED Models/lib/SmHangar.ac -70.75790 -28.59380 535.28 70.9
-OBJECT_SHARED Models/lib/cube16x10.ac -70.75737 -28.59397 535.63 249.24
-OBJECT_SHARED Models/lib/SmHangar.ac -70.75386 -28.59499 537.23 71.61
+OBJECT_SHARED Models/lib/SmHangar.ac -70.75383 -28.59501 0.00 69.37
+OBJECT_SHARED Models/lib/handicap-sign.ac -70.75774 -28.59384 537.25 251.4
+OBJECT_SHARED Models/lib/handicap-sign.ac -70.75758 -28.59390 535.34 249.35
+OBJECT_SHARED Models/lib/cars7.ac -70.75765 -28.59388 535.48 250.04
+OBJECT_SHARED Models/lib/farm19x12.ac -70.75651 -28.59393 535.44 160.6
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.75686 -28.59381 535.76 157.97
+OBJECT_SHARED Models/lib/SmHangar.ac -70.75790 -28.59380 535.57 70.9
+OBJECT_SHARED Models/lib/cube16x10.ac -70.75737 -28.59397 535.28 249.24
+OBJECT_SHARED Models/lib/SmHangar.ac -70.75386 -28.59499 535.63 71.61
 # END dsf2stg

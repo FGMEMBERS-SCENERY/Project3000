@@ -1,18 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/MedHangar.ac 9.73705 53.69892 9.30 159.51
-OBJECT_SHARED Models/lib/lamp10m.xml 9.73712 53.69872 9.15 336.15
-OBJECT_SHARED Models/lib/lamp10m.xml 9.73767 53.69901 9.41 162.41
-OBJECT_SHARED Models/lib/lamp10m.xml 9.73744 53.69906 9.44 162.41
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.73796 53.69920 9.49 248.87
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 9.73739 53.69897 9.39 69.34
-OBJECT_SHARED Models/Trees/billboard-tree.xml 9.73776 53.69994 9.55 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 9.73742 53.69996 8.89 270
-OBJECT_SHARED Models/Trees/billboard-tree.xml 9.73700 53.69974 8.72 333.44
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.73694 53.69958 8.73 161.57
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.73705 53.69990 8.72 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.73722 53.69995 9.28 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.73766 53.69994 9.51 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.73789 53.69994 9.61 0
+OBJECT_SHARED Models/lib/MedHangar.ac 9.73705 53.69892 0.00 159.51
+OBJECT_SHARED Models/lib/lamp10m.xml 9.73712 53.69872 9.30 336.15
+OBJECT_SHARED Models/lib/lamp10m.xml 9.73767 53.69901 9.18 162.41
+OBJECT_SHARED Models/lib/lamp10m.xml 9.73744 53.69906 9.41 162.41
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 9.73796 53.69920 9.44 248.87
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 9.73739 53.69897 9.48 69.34
+OBJECT_SHARED Models/Trees/billboard-tree.xml 9.73776 53.69994 9.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 9.73742 53.69996 9.82 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 9.73700 53.69974 9.21 333.44
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.73694 53.69958 8.83 161.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.73705 53.69990 8.88 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.73722 53.69995 8.74 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.73766 53.69994 9.28 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 9.73789 53.69994 9.71 0
 # END dsf2stg

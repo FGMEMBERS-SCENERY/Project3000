@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed8x10.ac 171.16780 -43.46882 697.75 162.86
-OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16899 -43.46402 700.42 309.2
-OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16846 -43.46377 700.68 109.54
-OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16776 -43.46339 700.83 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16732 -43.46324 701.50 95.53
-OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16686 -43.46301 701.58 1.10001
-OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16812 -43.46355 700.75 92.92
-OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16872 -43.46387 700.43 359.26
-OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16940 -43.46417 700.41 94.28
-OBJECT_SHARED Models/Trees/billboard-tree.xml 171.16592 -43.47278 689.25 102.78
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 171.16278 -43.47003 694.74 61.62
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 171.16268 -43.47007 694.44 120.23
+OBJECT_SHARED Models/lib/shed8x10.ac 171.16780 -43.46882 0.00 162.86
+OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16899 -43.46402 699.03 309.2
+OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16846 -43.46377 701.06 109.54
+OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16776 -43.46339 701.44 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16732 -43.46324 701.81 95.53
+OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16686 -43.46301 702.63 1.10001
+OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16812 -43.46355 702.68 92.92
+OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16872 -43.46387 701.62 359.26
+OBJECT_SHARED Models/lib/deciduous-tree.xml 171.16940 -43.46417 701.07 94.28
+OBJECT_SHARED Models/Trees/billboard-tree.xml 171.16592 -43.47278 701.04 102.78
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 171.16278 -43.47003 695.24 61.62
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 171.16268 -43.47007 699.89 120.23
 # END dsf2stg

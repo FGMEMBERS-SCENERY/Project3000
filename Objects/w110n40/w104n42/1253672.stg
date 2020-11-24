@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -103.87551 42.69166 0.00 180.735
+OBJECT_SHARED Models/lib/transformer3x3.ac -103.87604 42.69206 1475.94 179.621
+OBJECT_SHARED Models/lib/transformer3x3.ac -103.87616 42.69239 1475.90 89.7583
+OBJECT_SHARED Models/lib/transformer3x3.ac -103.87623 42.69206 1475.93 179.621
+OBJECT_SHARED Models/lib/shed8x10.ac -103.87605 42.69194 1475.90 358.821
+OBJECT_SHARED Models/lib/garden-shed.ac -103.87544 42.69191 1476.04 270
+OBJECT_SHARED Models/lib/SmHangar.ac -103.87508 42.69273 1476.16 137.94
+OBJECT_SHARED Models/lib/shed8x10.ac -103.87517 42.69163 1476.32 359.196
+OBJECT_SHARED Models/lib/trailer-fedex.ac -103.87515 42.69138 1475.90 0.763901
+OBJECT_SHARED Models/lib/industrial13x24.ac -103.87518 42.69173 1475.66 179.009
+# END dsf2stg

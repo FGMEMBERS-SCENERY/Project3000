@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed10x50.ac -93.62413 42.00016 278.71 34.68
+OBJECT_SHARED Models/lib/LongRow.ac -93.62357 42.00012 279.54 35.03
+OBJECT_SHARED Models/lib/LongRow.ac -93.62373 42.00040 279.60 35.03
+OBJECT_SHARED Models/lib/LongRow.ac -93.62461 42.00029 279.42 35.03
+OBJECT_SHARED Models/lib/lamp10m.xml -93.62006 42.00081 279.91 67.62
+OBJECT_SHARED Models/lib/lamp10m.xml -93.62028 42.00013 278.55 67.14
+OBJECT_SHARED Models/lib/lamp10m.xml -93.62265 42.00045 279.29 36.59
+OBJECT_SHARED Models/lib/lamp10m.xml -93.62477 42.00002 279.18 215.18
+OBJECT_SHARED Models/Transport/hatchback_red.ac -93.62279 42.00051 279.16 173.418
+OBJECT_SHARED Models/Transport/hatchback_green.ac -93.62281 42.00054 279.21 177.274
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.62289 42.00035 279.45 127.748
+OBJECT_SHARED Models/Transport/hatchback_green.ac -93.62383 42.00029 279.23 42.3965
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.62380 42.00031 279.46 217.568
+# END dsf2stg

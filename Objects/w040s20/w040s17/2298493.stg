@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -39.36835 -16.10630 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -39.36846 -16.10619 143.61 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -39.36864 -16.10598 143.68 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -39.36874 -16.10663 143.62 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -39.36896 -16.10638 144.07 0
+OBJECT_SHARED Models/lib/lamp10m.xml -39.36930 -16.10676 144.15 218.93
+OBJECT_SHARED Models/lib/lamp10m.xml -39.36923 -16.10684 144.60 225
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -39.36900 -16.10634 144.53 221.44
+OBJECT_SHARED Models/lib/handicap-sign.ac -39.36921 -16.10686 144.08 43.6
+OBJECT_SHARED Models/lib/cars6.ac -39.36921 -16.10686 144.60 132.22
+OBJECT_SHARED Models/lib/industrial15x22.ac -39.36908 -16.10661 144.60 312.03
+OBJECT_SHARED Models/lib/shed8x10.ac -39.36920 -16.10627 144.34 310.91
+OBJECT_SHARED Models/lib/transformer3x3.ac -39.36953 -16.10672 144.22 216.38
+# END dsf2stg

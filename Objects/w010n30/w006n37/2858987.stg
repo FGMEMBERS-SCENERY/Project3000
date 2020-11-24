@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -5.21491 37.71249 0.00 102.99
+OBJECT_SHARED Models/lib/cars2.ac -5.21543 37.71267 122.92 105.75
+OBJECT_SHARED Models/lib/cars4.ac -5.21497 37.71273 122.83 102.38
+OBJECT_SHARED Models/lib/cars4.ac -5.21512 37.71266 123.00 104.5
+OBJECT_SHARED Models/lib/MedHangar.ac -5.21550 37.71321 122.95 17.72
+OBJECT_SHARED Models/lib/MedHangar.ac -5.21578 37.71314 123.03 17.72
+OBJECT_SHARED Models/lib/MedHangar.ac -5.21426 37.71348 122.89 8.99
+OBJECT_SHARED Models/lib/SmHangar.ac -5.21447 37.71353 123.50 18.93
+OBJECT_SHARED Models/lib/cube16x10.ac -5.21719 37.71278 123.46 18.73
+OBJECT_SHARED Models/lib/2container-office.ac -5.21461 37.71356 122.05 106.85
+OBJECT_SHARED Models/lib/2container-office.ac -5.21455 37.71358 123.46 106.85
+OBJECT_SHARED Models/lib/2container-office.ac -5.21386 37.71263 123.48 183.97
+OBJECT_SHARED Models/lib/2container-office.ac -5.21387 37.71269 123.15 187.3
+OBJECT_SHARED Models/lib/2container-office.ac -5.21388 37.71275 123.18 193.22
+OBJECT_SHARED Models/lib/2container-office.ac -5.21389 37.71280 123.18 187.92
+OBJECT_SHARED Models/lib/2container-office.ac -5.21390 37.71285 123.22 182.88
+OBJECT_SHARED Models/lib/2container-office.ac -5.21392 37.71290 123.27 187.3
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -5.21582 37.71297 123.27 109.43
+# END dsf2stg

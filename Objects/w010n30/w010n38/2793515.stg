@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -9.02442 38.71456 0.00 271.25
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.04575 38.69253 11.90 291.6
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.04461 38.69298 0.47 245.56
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.04276 38.69280 0.29 334.33
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.04324 38.69414 0.12 293.81
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.04302 38.70013 0.04 198.95
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.04260 38.69999 1.20 198.95
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.04208 38.69980 1.13 198.95
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.04086 38.69940 1.03 198.95
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.04142 38.69958 0.78 198.95
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.02174 38.71349 0.90 45.46
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.02237 38.71349 11.71 45.45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -9.02306 38.71349 11.66 45.49
+OBJECT_SHARED Models/lib/MedHangar.ac -9.04531 38.69295 11.59 110.75
+OBJECT_SHARED Models/lib/LgMaint.ac -9.04294 38.69343 0.38 200.71
+OBJECT_SHARED Models/lib/cube16x10.ac -9.02116 38.71502 0.05 269.64
+OBJECT_SHARED Models/lib/LongRow.ac -9.02374 38.71564 12.44 0.419998
+OBJECT_SHARED Models/lib/MedHangar.ac -9.04418 38.69964 12.26 173.21
+OBJECT_SHARED Models/lib/MedHangar.ac -9.04410 38.70017 1.13 173.29
+OBJECT_SHARED Models/lib/fboModern1.ac -9.04371 38.69921 1.32 244.9
+OBJECT_SHARED Models/lib/LongRow.ac -9.01935 38.71346 0.95 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -9.02027 38.71701 11.85 90.29
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -9.01842 38.71702 12.76 90.29
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -9.01658 38.71705 12.68 90.29
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -9.01659 38.71829 13.01 90.29
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -9.01844 38.71829 13.20 90.29
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -9.02027 38.71827 13.01 90.29
+# END dsf2stg

@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars14.ac -90.85455 44.30408 0.00 0.415176
+OBJECT_SHARED Models/lib/cars14.ac -90.85455 44.30411 257.83 181.081
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.85388 44.30315 257.51 91.2364
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.85388 44.30332 254.22 90.1603
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.85388 44.30347 254.36 271.773
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.85388 44.30364 254.63 270
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.85388 44.30382 254.76 270
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -90.85585 44.30315 255.23 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85509 44.30243 257.44 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85586 44.30248 255.31 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85596 44.30255 255.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85367 44.30292 255.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85379 44.30271 254.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85408 44.30263 254.61 291.371
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85365 44.30248 254.63 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85390 44.30247 254.81 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85411 44.30247 254.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85430 44.30246 254.71 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85432 44.30298 254.68 59.5341
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85463 44.30295 254.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85477 44.30245 255.69 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85469 44.30255 255.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85545 44.30247 255.40 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -90.85556 44.30253 255.65 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.85589 44.30309 255.58 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -90.85589 44.30296 257.44 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.85582 44.30291 257.11 270
+OBJECT_SHARED Models/Transport/hatchback_red.ac -90.85589 44.30332 256.81 270
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.85589 44.30338 258.09 270
+OBJECT_SHARED Models/Transport/van_red.ac -90.85379 44.30335 258.42 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -90.85400 44.30329 254.24 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.85400 44.30335 254.60 180.49
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.85396 44.30336 254.74 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.85390 44.30361 254.74 0
+OBJECT_SHARED Models/Transport/van_red.ac -90.85402 44.30366 254.76 178.655
+OBJECT_SHARED Models/Transport/van_silver.ac -90.85397 44.30350 255.15 183.18
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.85387 44.30344 254.88 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.85386 44.30318 254.49 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -90.85400 44.30318 254.22 180.441
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.85488 44.30357 254.47 180.441
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.85459 44.30365 257.25 271.18
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.85495 44.30357 256.51 180.458
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.85482 44.30357 257.50 179.68
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.85506 44.30285 257.00 79.2156
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.85536 44.30283 256.80 116.952
+OBJECT_SHARED Models/lib/cars6.ac -90.85513 44.30387 256.61 268.362
+OBJECT_SHARED Models/lib/cars6.ac -90.85512 44.30369 258.25 90
+OBJECT_SHARED Models/lib/cars4.ac -90.85486 44.30257 257.89 186.085
+OBJECT_SHARED Models/lib/cars4.ac -90.85506 44.30255 255.85 183.303
+OBJECT_SHARED Models/lib/cars4.ac -90.85528 44.30256 255.91 153.435
+OBJECT_SHARED Models/lib/cars10.ac -90.85430 44.30427 255.97 270.686
+OBJECT_SHARED Models/lib/cars4.ac -90.85427 44.30383 256.63 270.626
+OBJECT_SHARED Models/lib/cars4.ac -90.85424 44.30372 256.12 90
+# END dsf2stg

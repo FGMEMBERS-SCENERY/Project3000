@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -68.50458 48.47686 0.00 308.86
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -68.50524 48.47648 17.50 129.07
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -68.50535 48.47658 17.66 128.23
+OBJECT_SHARED Models/lib/office32x25.ac -68.50465 48.47623 17.49 311.04
+OBJECT_SHARED Models/lib/office40x25.ac -68.50604 48.47574 18.21 312.82
+OBJECT_SHARED Models/lib/prop_a.ac -68.50400 48.47619 18.16 220.07
+OBJECT_SHARED Models/lib/HorizTanks2.ac -68.50362 48.47612 18.42 222.34
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -68.50735 48.47380 -76.35 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -68.50737 48.47424 -76.03 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -68.50710 48.47404 -73.02 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -68.50770 48.47403 19.04 0
+OBJECT_SHARED Models/Transport/van_silver.ac -68.50471 48.47605 18.79 131.5
+OBJECT_SHARED Models/lib/lamp10m.xml -68.50429 48.47624 18.34 131.44
+OBJECT_SHARED Models/lib/lamp10m.xml -68.50445 48.47615 18.31 129.92
+OBJECT_SHARED Models/lib/lamp10m.xml -68.50462 48.47605 18.28 129.03
+OBJECT_SHARED Models/lib/SmHangar.ac -68.50322 48.47712 18.29 310.82
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -68.50469 48.47696 17.96 309.43
+OBJECT_SHARED Models/lib/lamp10m.xml -68.50590 48.47452 17.36 270
+# END dsf2stg

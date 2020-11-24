@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -98.94817 40.51714 0.00 252.611
+OBJECT_SHARED Models/lib/stack_of_cones.ac -98.94837 40.51725 657.57 252.611
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -98.94818 40.51712 657.66 194.461
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -98.94822 40.51729 657.57 252.611
+OBJECT_SHARED Models/Misc/6barrels.ac -98.94838 40.51711 657.57 252.611
+OBJECT_SHARED Models/Misc/6barrels.ac -98.94841 40.51710 657.66 252.611
+OBJECT_SHARED Models/lib/2vending-machines.ac -98.94818 40.51713 657.66 104.811
+OBJECT_SHARED Models/lib/garages22x9.ac -98.94939 40.51690 657.57 90
+OBJECT_SHARED Models/lib/office8x14.ac -98.94817 40.51574 657.89 56.6334
+OBJECT_SHARED Models/lib/SmHangar.ac -98.94859 40.51547 657.19 209.859
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.94740 40.51588 657.10 116.565
+OBJECT_SHARED Models/lib/cars4.ac -98.94786 40.51603 657.09 289.409
+OBJECT_SHARED Models/lib/prop_a.ac -98.94737 40.51630 657.26 194.036
+OBJECT_SHARED Models/lib/prop_a.ac -98.94799 40.51718 657.16 332.063
+OBJECT_SHARED Models/Transport/van_silver.ac -98.94822 40.51707 657.48 15.2551
+OBJECT_SHARED Models/lib/cars6.ac -98.94931 40.51742 657.57 180.177
+OBJECT_SHARED Models/lib/cars4.ac -98.94970 40.51676 657.95 269.53
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.94953 40.51618 657.88 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.94964 40.51618 657.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.94942 40.51705 657.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.94963 40.51698 657.93 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.94976 40.51715 657.95 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.94975 40.51723 657.98 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.94974 40.51731 658.01 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.94773 40.51619 658.02 0
+# END dsf2stg

@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -106.21018 34.53669 0.00 6.92001
+OBJECT_SHARED Models/lib/transformer3x3.ac -106.21115 34.53535 1961.94 276.19
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -106.21142 34.53478 1963.52 225
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -106.21138 34.53467 1963.63 96.34
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -106.21142 34.53489 1963.65 255.96
+OBJECT_SHARED Models/Transport/hatchback_green.ac -106.21123 34.53490 1963.62 98.18
+OBJECT_SHARED Models/lib/propane-tank.ac -106.21133 34.53494 1963.62 8.47
+OBJECT_SHARED Models/lib/shed8x10.ac -106.20963 34.53678 1963.62 316.29
+OBJECT_SHARED Models/lib/shed8x10.ac -106.21663 34.53583 1961.92 44.01
+OBJECT_SHARED Models/lib/shed8x10.ac -106.21126 34.53523 1971.66 278.47
+OBJECT_SHARED Models/Airport/cargobox.xml -106.22153 34.53284 1963.56 218.66
+OBJECT_SHARED Models/Transport/van_red.ac -106.22182 34.53295 1972.60 262.65
+OBJECT_SHARED Models/lib/trailer-fedex.ac -106.22181 34.53279 1972.70 180.93
+OBJECT_SHARED Models/lib/SmHangar.ac -106.22200 34.53286 1972.60 0.800003
+OBJECT_SHARED Models/lib/SmHangar.ac -106.22176 34.53287 1972.70 180.8
+OBJECT_SHARED Models/lib/SmHangar.ac -106.22142 34.53287 1972.70 272.5
+# END dsf2stg

@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70768 -11.41818 0.00 196.48
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70788 -11.41821 325.81 192.42
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70811 -11.41826 325.49 156.32
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70817 -11.41797 325.05 101.46
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70845 -11.41783 325.22 190.86
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70791 -11.41848 324.94 101.04
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70816 -11.41926 325.16 -81.25
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70855 -11.41932 323.85 -78.44
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70850 -11.41762 323.37 9.39999
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70752 -11.41853 325.18 193.67
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70757 -11.41831 326.26 193.74
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70823 -11.41779 325.86 190.23
+OBJECT_SHARED Models/lib/lamp10m.xml -58.70840 -11.41810 325.45 10.15
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -58.70841 -11.41832 324.78 322.93
+OBJECT_SHARED Models/lib/prop_a.ac -58.70807 -11.41888 324.56 144.12
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.70839 -11.41831 324.40 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -58.70788 -11.41817 324.56 111.29
+OBJECT_SHARED Models/lib/SmHangar.ac -58.70800 -11.41870 325.49 11.26
+OBJECT_SHARED Models/lib/HorizTanks2.ac -58.70789 -11.41852 324.79 190.35
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -58.70800 -11.41861 325.16 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -58.70822 -11.41780 324.89 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -58.70798 -11.41860 325.45 10.34
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -58.70762 -11.41834 324.89 282.09
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -58.70762 -11.41855 325.86 101.31
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -58.70765 -11.41842 325.63 101.31
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -58.70758 -11.41856 325.74 192.8
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -58.70763 -11.41836 325.51 192.8
+# END dsf2stg

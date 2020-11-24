@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -99.54466 46.25146 0.00 270
+OBJECT_SHARED Models/lib/shed8x10.ac -99.54450 46.25134 619.45 0
+OBJECT_SHARED Models/lib/shed8x10.ac -99.54452 46.25145 619.42 90
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -99.54394 46.25147 619.55 275.55
+OBJECT_SHARED Models/Transport/van_red.ac -99.54394 46.25150 619.81 281.98
+OBJECT_SHARED Models/lib/trailer-ups.ac -99.54411 46.25076 619.81 85.96
+OBJECT_SHARED Models/lib/lamp10m.xml -99.54445 46.25139 619.27 270
+OBJECT_SHARED Models/Misc/6barrels.ac -99.54461 46.25134 619.49 279.05
+OBJECT_SHARED Models/Misc/6barrels.ac -99.54443 46.25087 619.37 9.04999
+OBJECT_SHARED Models/Airport/cargobox.xml -99.54413 46.25086 619.18 261.54
+OBJECT_SHARED Models/Airport/cargobox.xml -99.54410 46.25085 619.34 0
+OBJECT_SHARED Models/Airport/cargoip.xml -99.54410 46.25088 619.34 0
+# END dsf2stg

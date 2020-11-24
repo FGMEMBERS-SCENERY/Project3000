@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac 113.48335 40.05605 0.00 49.27
+OBJECT_SHARED Models/Airport/egkk_oil.xml 113.48537 40.05464 1050.41 210.96
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 113.48278 40.05548 1049.83 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 113.47993 40.05727 1050.28 57.17
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 113.47837 40.05810 1050.59 90
+OBJECT_SHARED Models/lib/stack_of_cones.ac 113.48264 40.05564 1050.58 0
+OBJECT_SHARED Models/lib/FireStationLg.ac 113.48456 40.05602 1050.31 48.81
+OBJECT_SHARED Models/lib/office65x50.ac 113.48363 40.05570 1050.19 318.35
+OBJECT_SHARED Models/lib/transformer3x3.ac 113.48352 40.06105 1050.24 171.87
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 113.48249 40.05575 1051.40 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 113.48205 40.05605 1050.36 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 113.48161 40.05635 1050.42 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 113.48116 40.05665 1050.49 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 113.48073 40.05695 1050.53 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 113.48028 40.05726 1050.56 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 113.47985 40.05756 1050.59 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 113.48301 40.05421 1050.63 138.93
+# END dsf2stg

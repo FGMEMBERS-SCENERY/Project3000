@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 101.00068 42.01170 0.00 332.26
+OBJECT_SHARED Models/Airport/cargobox.xml 101.00098 42.01156 935.15 351.61
+OBJECT_SHARED Models/lib/lamp10m.xml 101.00074 42.01173 935.14 241.64
+OBJECT_SHARED Models/lib/lamp10m.xml 101.00035 42.01188 935.15 242.03
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 101.00259 42.01424 935.46 120.81
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 101.00037 42.01193 934.81 0
+OBJECT_SHARED Models/lib/admin31x12.ac 101.00050 42.01179 935.71 242.08
+OBJECT_SHARED Models/lib/transformer3x3.ac 101.00117 42.01155 935.45 61.39
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 101.00076 42.01108 935.12 178.77
+# END dsf2stg

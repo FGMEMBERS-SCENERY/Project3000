@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.26377 49.73502 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.26376 49.73497 593.76 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.26378 49.73493 593.76 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 16.26376 49.73490 593.90 0
+OBJECT_SHARED Models/lib/lamp10m.xml 16.26423 49.73454 593.90 -46.19
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.25403 49.74803 594.51 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 16.26430 49.73613 565.54 349.7
+OBJECT_SHARED Models/Transport/hatchback_black.ac 16.26428 49.73607 592.23 354.56
+OBJECT_SHARED Models/Transport/hatchback_green.ac 16.26427 49.73600 592.23 350.54
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 16.26416 49.73616 592.40 349.51
+OBJECT_SHARED Models/Transport/hatchback_black.ac 16.26420 49.73615 592.07 353.77
+OBJECT_SHARED Models/Transport/hatchback_green.ac 16.26405 49.73602 592.07 293.75
+OBJECT_SHARED Models/lib/cars6.ac 16.26406 49.73477 592.36 352
+OBJECT_SHARED Models/lib/cars6.ac 16.26399 49.73451 594.14 81.64
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.26382 49.73520 594.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26406 49.73384 593.50 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26410 49.73390 598.95 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26409 49.73399 595.10 194.04
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26372 49.73484 594.99 257.01
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26382 49.73479 593.99 37.41
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26389 49.73479 594.03 209.48
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26399 49.73477 594.07 48.47
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26398 49.73515 594.11 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26410 49.73523 593.71 34.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26436 49.73632 593.61 306.03
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 16.26406 49.73609 591.86 180
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 16.26437 49.73656 592.21 261.05
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.26387 49.73525 591.32 258.69
+# END dsf2stg

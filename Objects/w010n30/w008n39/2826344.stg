@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.87291 39.73084 0.00 330.02
+OBJECT_SHARED Models/lib/HorizTanks2.ac -7.87353 39.73105 399.39 66.52
+OBJECT_SHARED Models/lib/MedHangar.ac -7.87675 39.73122 400.45 240.04
+OBJECT_SHARED Models/lib/farm19x12.ac -7.87409 39.73161 401.26 153.01
+OBJECT_SHARED Models/lib/deciduous-tree.xml -7.87370 39.73158 401.75 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -7.87376 39.73173 401.59 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -7.87397 39.73171 401.82 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -7.87395 39.73177 401.91 180
+OBJECT_SHARED Models/lib/deciduous-tree.xml -7.87404 39.73174 402.11 296.57
+OBJECT_SHARED Models/lib/deciduous-tree.xml -7.87417 39.73167 401.94 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -7.87421 39.73163 401.98 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -7.87423 39.73157 401.79 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -7.87425 39.73148 401.80 0
+OBJECT_SHARED Models/lib/office6x12.ac -7.87646 39.73102 401.60 328.09
+# END dsf2stg

@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -80.83554 46.48239 0.00 276.82
+OBJECT_SHARED Models/lib/stack_of_cones.ac -80.83574 46.48242 266.32 276.82
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -80.83553 46.48238 265.84 218.67
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -80.83565 46.48248 266.32 276.82
+OBJECT_SHARED Models/Misc/6barrels.ac -80.83569 46.48232 265.93 276.82
+OBJECT_SHARED Models/Misc/6barrels.ac -80.83570 46.48231 266.21 276.82
+OBJECT_SHARED Models/lib/2vending-machines.ac -80.83554 46.48238 266.21 129.02
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.83499 46.48205 266.82 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.83510 46.48209 267.68 180
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.83515 46.48214 267.81 180
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.83522 46.48220 267.91 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.83527 46.48225 267.43 180
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.83534 46.48231 267.56 180
+OBJECT_SHARED Models/Effects/taxilampblue.xml -80.83539 46.48235 267.00 0
+OBJECT_SHARED Models/lib/trailer-fedex.ac -80.83851 46.48310 266.09 229.58
+OBJECT_SHARED Models/Transport/van_red.ac -80.83857 46.48323 258.20 41.88
+# END dsf2stg

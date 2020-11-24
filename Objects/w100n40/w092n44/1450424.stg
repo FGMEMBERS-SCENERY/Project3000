@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -91.90230 44.88356 0.00 284.14
+OBJECT_SHARED Models/lib/cars10.ac -91.90283 44.88255 264.49 180
+OBJECT_SHARED Models/lib/cars10.ac -91.90281 44.88225 267.11 180.58
+OBJECT_SHARED Models/lib/cars10.ac -91.90083 44.88285 267.45 22.43
+OBJECT_SHARED Models/lib/cars6.ac -91.89986 44.88288 265.85 199.49
+OBJECT_SHARED Models/lib/cars6.ac -91.90001 44.88335 267.43 291.38
+OBJECT_SHARED Models/lib/cars6.ac -91.89989 44.88312 266.31 290.24
+OBJECT_SHARED Models/lib/cars6.ac -91.90310 44.88351 267.00 88.03
+OBJECT_SHARED Models/lib/cars6.ac -91.90289 44.88352 266.38 88.75
+OBJECT_SHARED Models/lib/cars6.ac -91.90290 44.88329 265.98 88.32
+OBJECT_SHARED Models/lib/cars6.ac -91.90314 44.88307 266.33 87.92
+OBJECT_SHARED Models/lib/cars6.ac -91.90312 44.88330 266.72 87.87
+OBJECT_SHARED Models/lib/cars6.ac -91.90223 44.88293 266.55 199.42
+OBJECT_SHARED Models/lib/cars6.ac -91.90270 44.88215 265.47 191.69
+OBJECT_SHARED Models/lib/cars6.ac -91.90323 44.88241 267.52 179.44
+OBJECT_SHARED Models/lib/cars6.ac -91.90299 44.88210 267.33 192.07
+OBJECT_SHARED Models/lib/cars6.ac -91.90349 44.88240 267.56 358.45
+OBJECT_SHARED Models/lib/cars6.ac -91.90283 44.88241 267.37 180
+OBJECT_SHARED Models/lib/cars6.ac -91.90309 44.88239 267.28 0
+OBJECT_SHARED Models/lib/cars6.ac -91.90325 44.88225 267.31 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.89973 44.88317 267.51 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.89968 44.88307 267.33 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.89979 44.88328 267.50 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.89963 44.88295 266.96 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.90393 44.88310 267.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.90364 44.88311 266.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.90343 44.88339 266.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.90313 44.88387 266.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.90337 44.88380 265.96 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.90396 44.88264 266.40 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.90411 44.88275 267.26 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.90411 44.88257 267.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.90410 44.88243 267.28 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.90177 44.88367 267.45 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.90191 44.88408 263.21 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.90191 44.88380 263.28 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.90226 44.88393 263.26 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.90230 44.88405 263.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.90250 44.88394 264.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.90268 44.88398 264.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.90284 44.88410 265.10 0
+# END dsf2stg

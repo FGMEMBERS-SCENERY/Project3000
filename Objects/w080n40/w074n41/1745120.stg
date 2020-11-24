@@ -1,15 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -73.87640 41.62454 47.27 123.88
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88298 41.62423 45.40 -17.22
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88282 41.62451 45.73 -19.08
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88270 41.62459 45.87 -83.4
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88234 41.62463 46.14 -84.59
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.88334 41.62425 45.18 39.32
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.88295 41.62449 45.58 39.32
-OBJECT_SHARED Models/lib/RampParkingStripe.xml -73.88259 41.62471 45.99 39.32
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88287 41.62441 45.60 0
-OBJECT_SHARED Models/lib/lamp10m.xml -73.88256 41.62459 45.94 0
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml -73.88303 41.62456 45.64 219.32
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.88225 41.62443 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.88241 41.62434 46.09 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.88257 41.62424 45.89 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.88269 41.62417 45.69 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -73.88282 41.62408 45.62 0
+OBJECT_SHARED Models/lib/cars6.ac -73.88220 41.62457 41.95 130.5
+OBJECT_SHARED Models/lib/cars6.ac -73.88212 41.62477 46.21 309.38
+OBJECT_SHARED Models/lib/cars6.ac -73.88194 41.62465 46.39 128.95
+OBJECT_SHARED Models/lib/cars4.ac -73.88186 41.62484 48.07 308.36
+OBJECT_SHARED Models/lib/cars4.ac -73.88299 41.62395 46.52 219.33
+OBJECT_SHARED Models/lib/cars6.ac -73.88339 41.62397 44.16 39.36
+OBJECT_SHARED Models/lib/cars7.ac -73.88328 41.62402 44.98 309.51
+OBJECT_SHARED Models/lib/cars10.ac -73.88356 41.62405 44.97 39.25
+OBJECT_SHARED Models/lib/cars4.ac -73.87589 41.62487 44.89 90
 # END dsf2stg

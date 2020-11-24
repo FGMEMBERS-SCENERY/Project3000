@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -0.72579 42.56743 0.00 182.29
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -0.72564 42.56735 682.39 182.29
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -0.72558 42.56720 682.11 182.29
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -0.72562 42.56702 681.88 180
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.72645 42.56749 681.49 92.12
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.72518 42.56764 682.78 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.72517 42.56764 682.47 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -0.72656 42.56756 682.47 0
+OBJECT_SHARED Models/lib/cars2.ac -0.72587 42.56754 683.00 1.97
+OBJECT_SHARED Models/lib/cars2.ac -0.72554 42.56755 682.63 1.97
+OBJECT_SHARED Models/lib/SmHangar.ac -0.72434 42.56771 682.46 272.92
+OBJECT_SHARED Models/lib/SmHangar.ac -0.72504 42.56766 682.09 272.92
+OBJECT_SHARED Models/lib/MedHangar.ac -0.72647 42.57021 682.60 90
+# END dsf2stg

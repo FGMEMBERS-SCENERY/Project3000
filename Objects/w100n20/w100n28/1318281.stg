@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -99.56268 28.13473 0.00 121.65
+OBJECT_SHARED Models/lib/coal_pile.ac -99.56227 28.13454 193.38 90
+OBJECT_SHARED Models/lib/lamp10m.xml -99.56255 28.13454 193.28 121.65
+OBJECT_SHARED Models/lib/cone.ac -99.56266 28.13472 193.41 89.28
+OBJECT_SHARED Models/lib/stack_of_cones.ac -99.56242 28.13463 193.38 89.28
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -99.56254 28.13456 193.42 89.28
+OBJECT_SHARED Models/Misc/6barrels.ac -99.56247 28.13481 193.50 89.28
+OBJECT_SHARED Models/Misc/6barrels.ac -99.56245 28.13482 193.61 89.28
+OBJECT_SHARED Models/lib/2vending-machines.ac -99.56265 28.13473 193.61 301.48
+# END dsf2stg

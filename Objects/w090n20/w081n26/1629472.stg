@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -80.76356 26.58130 0.00 90
+OBJECT_SHARED Models/lib/office3x10.ac -80.76345 26.58128 3.00 90
+OBJECT_SHARED Models/Transport/hatchback_red.ac -80.76385 26.58132 3.00 0
+OBJECT_SHARED Models/Transport/van_red.ac -80.76381 26.58131 2.99 0
+# END dsf2stg

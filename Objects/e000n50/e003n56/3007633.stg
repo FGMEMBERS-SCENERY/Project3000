@@ -1,10 +1,5 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/OilRig.ac 3.39291 56.27797 -0.33 129
-OBJECT_SHARED Models/lib/OilRig.ac 3.39363 56.27746 -0.34 309
-OBJECT_SHARED Models/lib/OilRig.ac 3.39441 56.27692 -0.36 309
-OBJECT_SHARED Models/lib/OilRig.ac 3.39464 56.27677 -0.37 129
-OBJECT_SHARED Models/lib/OilRig.ac 3.39424 56.27617 -0.38 260
-OBJECT_SHARED Models/lib/OilRig.ac 3.39417 56.27594 -0.38 80
+OBJECT_SHARED Models/lib/OilPlatform.xml 3.35111 56.32389 0.00 90
 # END dsf2stg

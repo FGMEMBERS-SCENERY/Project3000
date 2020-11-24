@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/Norberttruck.xml -120.56598 34.73219 0.00 135.29
+OBJECT_SHARED Models/Transport/Norberttruck.xml -120.56596 34.73229 108.63 135.29
+OBJECT_SHARED Models/lib/container6-HD.ac -120.56587 34.73174 108.61 47.2
+OBJECT_SHARED Models/lib/container6-HD.ac -120.56583 34.73178 108.77 47.2
+OBJECT_SHARED Models/lib/container6-HD.ac -120.56578 34.73182 108.74 47.2
+OBJECT_SHARED Models/lib/container6-HD.ac -120.56573 34.73187 108.74 47.2
+OBJECT_SHARED Models/lib/office32x25.ac -120.56987 34.73510 108.72 223.46
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -120.56911 34.73467 104.29 131.18
+OBJECT_SHARED Models/lib/office65x50.ac -120.56654 34.73467 105.25 222.4
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -120.56669 34.73350 12.06 0
+OBJECT_SHARED Models/lib/large-hangar.ac -120.56673 34.73347 107.36 223.11
+# END dsf2stg

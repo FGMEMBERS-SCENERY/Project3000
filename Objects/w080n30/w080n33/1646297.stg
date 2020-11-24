@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac -79.52699 33.44732 0.00 100
+OBJECT_SHARED Models/lib/transformer3x3.ac -79.52750 33.45058 5.64 90
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -79.52874 33.44630 5.08 335
+OBJECT_SHARED Models/lib/prop_a.ac -79.52660 33.44770 6.12 190
+OBJECT_SHARED Models/lib/prop_a.ac -79.52699 33.44791 5.55 10
+OBJECT_SHARED Models/lib/SmHangar.ac -79.52736 33.44915 5.49 97
+OBJECT_SHARED Models/lib/SmHangar.ac -79.52712 33.44918 5.24 97
+OBJECT_SHARED Models/lib/SmHangar.ac -79.52688 33.44920 5.25 95
+OBJECT_SHARED Models/lib/SmHangar.ac -79.52708 33.44894 5.26 275
+OBJECT_SHARED Models/lib/SmHangar.ac -79.52732 33.44891 5.30 275
+OBJECT_SHARED Models/lib/lamp10m.xml -79.52702 33.44671 5.28 185
+OBJECT_SHARED Models/lib/lamp10m.xml -79.52709 33.44735 6.00 200.01
+OBJECT_SHARED Models/lib/lamp10m.xml -79.52748 33.44861 5.61 -83
+OBJECT_SHARED Models/lib/lamp10m.xml -79.52755 33.44959 5.00 97
+OBJECT_SHARED Models/lib/lamp10m.xml -79.52719 33.44700 5.00 -85
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.52679 33.44737 5.72 355
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.52679 33.44729 5.62 355
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.52695 33.44747 5.65 280
+# END dsf2stg

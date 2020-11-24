@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac 0.92663 52.63171 0.00 220.16
+OBJECT_SHARED Models/Transport/Norberttruck.xml 0.92192 52.62893 61.46 174.54
+OBJECT_SHARED Models/lib/trailer-fedex.ac 0.92222 52.62830 64.30 248.95
+OBJECT_SHARED Models/lib/trailer-fedex.ac 0.92218 52.62834 64.60 248.95
+OBJECT_SHARED Models/lib/trailer-fedex.ac 0.92214 52.62837 64.61 248.95
+OBJECT_SHARED Models/lib/trailer-fedex.ac 0.92210 52.62840 64.56 248.95
+OBJECT_SHARED Models/lib/trailer-fedex.ac 0.92206 52.62842 64.57 248.95
+OBJECT_SHARED Models/lib/trailer-fedex.ac 0.92224 52.62885 64.58 265.86
+OBJECT_SHARED Models/lib/lamp10m.xml 0.92260 52.62879 64.24 -4.76999
+OBJECT_SHARED Models/lib/lamp10m.xml 0.92222 52.62816 64.22 258.49
+OBJECT_SHARED Models/lib/lamp10m.xml 0.92266 52.62919 64.66 -3.76001
+OBJECT_SHARED Models/Transport/hatchback_red.ac 0.92842 52.63345 63.95 324.78
+OBJECT_SHARED Models/lib/prop_a.ac 0.92737 52.63344 60.90 301.22
+OBJECT_SHARED Models/lib/prop_a.ac 0.92818 52.63342 61.21 304.99
+OBJECT_SHARED Models/lib/prop_a.ac 0.92763 52.63315 60.94 90
+OBJECT_SHARED Models/lib/prop_a.ac 0.92853 52.63343 61.05 123.39
+OBJECT_SHARED Models/lib/office40x25.ac 0.92229 52.62948 60.82 174.79
+# END dsf2stg

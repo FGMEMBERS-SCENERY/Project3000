@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 2.98942 45.07487 0.00 82.4
+OBJECT_SHARED Models/lib/office3x10.ac 2.98939 45.07480 975.77 81.79
+OBJECT_SHARED Models/lib/cars6.ac 2.98902 45.07507 975.75 351.82
+OBJECT_SHARED Models/lib/propane-tank.ac 2.98902 45.07514 975.98 258.701
+OBJECT_SHARED Models/lib/deciduous-tree.xml 2.98904 45.07510 975.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 2.98928 45.07490 975.97 0
+# END dsf2stg

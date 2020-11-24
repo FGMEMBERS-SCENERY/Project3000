@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml -104.23559 39.59529 0.00 270
+OBJECT_SHARED Models/Airport/cargobox.xml -104.23564 39.59537 1673.67 94.09
+OBJECT_SHARED Models/Airport/cargobox.xml -104.23570 39.59525 1673.78 180
+OBJECT_SHARED Models/lib/propane-tank.ac -104.23573 39.59523 1673.55 270
+OBJECT_SHARED Models/lib/shed8x10.ac -104.23560 39.59585 1673.55 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -104.23571 39.59561 1674.23 42.8
+OBJECT_SHARED Models/Transport/hatchback_red.ac -104.23609 39.59548 1674.01 271.97
+OBJECT_SHARED Models/lib/garden-shed.ac -104.23579 39.59592 1673.89 353.78
+OBJECT_SHARED Models/lib/SmHangar.ac -104.23605 39.59526 1674.34 0.220001
+# END dsf2stg

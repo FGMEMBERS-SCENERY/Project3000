@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.02892 61.63792 0.00 159.89
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.02919 61.63796 229.30 253.47
+OBJECT_SHARED Models/lib/shed8x10.ac -149.03104 61.63726 229.13 90.78
+OBJECT_SHARED Models/lib/cone.ac -149.02925 61.63650 228.10 0
+OBJECT_SHARED Models/lib/cone.ac -149.02924 61.63650 229.37 0
+OBJECT_SHARED Models/lib/cone.ac -149.02923 61.63650 229.37 0
+OBJECT_SHARED Models/lib/cone.ac -149.02921 61.63649 229.37 0
+OBJECT_SHARED Models/lib/cone.ac -149.02945 61.63654 229.37 0
+OBJECT_SHARED Models/lib/cone.ac -149.02946 61.63654 229.37 0
+OBJECT_SHARED Models/lib/cone.ac -149.02947 61.63654 229.37 0
+OBJECT_SHARED Models/lib/cone.ac -149.02948 61.63654 229.37 0
+OBJECT_SHARED Models/lib/cone.ac -149.02785 61.63825 229.37 0
+OBJECT_SHARED Models/lib/cone.ac -149.02784 61.63824 229.02 0
+OBJECT_SHARED Models/lib/cone.ac -149.02782 61.63824 229.02 90
+OBJECT_SHARED Models/lib/cone.ac -149.02781 61.63824 229.02 0
+OBJECT_SHARED Models/lib/cone.ac -149.02805 61.63828 229.02 0
+OBJECT_SHARED Models/lib/cone.ac -149.02806 61.63828 228.83 0
+OBJECT_SHARED Models/lib/cone.ac -149.02807 61.63829 228.83 0
+OBJECT_SHARED Models/lib/cone.ac -149.02808 61.63829 228.83 0
+OBJECT_SHARED Models/lib/trailer-fedex.ac -149.02899 61.63780 228.83 162.79
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02852 61.63835 229.47 296.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02863 61.63827 228.45 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02874 61.63817 228.45 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.03012 61.63761 228.68 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02997 61.63763 228.93 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02981 61.63766 228.93 108.44
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02978 61.63774 228.82 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02982 61.63782 228.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02963 61.63786 228.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02967 61.63778 228.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02957 61.63771 228.73 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02945 61.63774 228.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02948 61.63781 229.60 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -149.02952 61.63788 229.47 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -149.03093 61.63738 228.61 183.27
+OBJECT_SHARED Models/lib/stack_of_cones.ac -149.02876 61.63776 228.06 0
+OBJECT_SHARED Models/Transport/van_red.ac -149.02883 61.63778 229.47 155.56
+OBJECT_SHARED Models/Transport/hatchback_green.ac -149.02888 61.63779 229.47 161.57
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -149.02893 61.63780 229.47 161.11
+# END dsf2stg

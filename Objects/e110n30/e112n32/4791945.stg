@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 112.28702 32.15226 0.00 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 112.28766 32.15500 72.38 0
+OBJECT_SHARED Models/lib/farm19x12.ac 112.29544 32.16334 72.11 154.874
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml 112.29757 32.15595 71.31 92.411
+OBJECT_SHARED Models/lib/office32x25.ac 112.28697 32.14993 69.43 349.46
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 112.28773 32.14911 72.24 259.287
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 112.28752 32.14894 71.65 79.8499
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 112.28742 32.14822 -23.37 236.31
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 112.28707 32.14828 -22.83 36.8696
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 112.28725 32.14825 -22.82 77.4711
+OBJECT_SHARED Models/lib/shed8x10.ac 112.28789 32.14293 72.17 165.583
+OBJECT_SHARED Models/lib/transformer3x3.ac 112.29349 32.15691 71.26 102.265
+OBJECT_SHARED Models/lib/shed8x10.ac 112.29288 32.16399 71.31 261.527
+OBJECT_SHARED Models/lib/LongRow.ac 112.28831 32.14978 71.53 259.755
+OBJECT_SHARED Models/lib/admin31x12.ac 112.28663 32.15139 71.67 169.404
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 112.28614 32.15257 72.33 348.712
+# END dsf2stg

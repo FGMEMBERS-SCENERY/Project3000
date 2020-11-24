@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial15x22.ac -94.06660 61.10205 0.00 32.84
+OBJECT_SHARED Models/lib/industrial15x22.ac -94.06675 61.10216 4.59 32.84
+OBJECT_SHARED Models/lib/industrial15x22.ac -94.06971 61.10248 4.58 100.46
+OBJECT_SHARED Models/lib/industrial15x22.ac -94.06978 61.10267 5.39 100.46
+OBJECT_SHARED Models/Transport/hatchback_red.ac -94.07110 61.09825 5.38 285.31
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.06607 61.10357 7.19 301.51
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.06607 61.10357 7.19 121.01
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -94.06625 61.10315 -90.97 359.15
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -94.06602 61.10322 -90.86 359.15
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -94.06620 61.10336 -90.92 359.15
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -94.06688 61.10361 -87.90 359.15
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -94.06649 61.10374 -87.71 359.15
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -94.06726 61.10263 4.15 123.06
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -94.06742 61.10258 4.62 123.06
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.07195 61.09853 4.65 120.43
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.07209 61.09863 7.24 120.43
+OBJECT_SHARED Models/lib/cars6.ac -94.07114 61.09832 7.22 126.22
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -94.06573 61.10336 -84.85 359.15
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -94.07252 61.09887 3.94 359.15
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -94.07246 61.09891 7.20 269.15
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -94.07248 61.09893 7.20 359.15
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -94.07253 61.09891 7.20 359.15
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.07259 61.09880 7.20 123.93
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.07267 61.09878 7.26 115.71
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.07267 61.09878 7.26 115.71
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.07254 61.09882 7.27 115.71
+OBJECT_SHARED Models/lib/lamp10m.xml -94.07105 61.09829 7.24 359.15
+OBJECT_SHARED Models/lib/lamp10m.xml -94.07145 61.09849 7.15 359.15
+OBJECT_SHARED Models/lib/admin31x12.ac -94.07157 61.09817 7.13 29.8
+# END dsf2stg

@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -75.41572 41.34863 0.00 138.89
+OBJECT_SHARED Models/lib/MedHangar.ac -75.41583 41.34915 513.78 142.74
+OBJECT_SHARED Models/lib/lamp10m.xml -75.41566 41.34930 513.52 -19.29
+OBJECT_SHARED Models/lib/lamp10m.xml -75.41594 41.34902 513.43 -19.29
+OBJECT_SHARED Models/lib/LongRow.ac -75.41473 41.34929 513.67 139.58
+OBJECT_SHARED Models/lib/LongRow.ac -75.41458 41.34942 512.81 139.58
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.41546 41.34978 512.69 231.5
+OBJECT_SHARED Models/Transport/hatchback_black.ac -75.41548 41.34975 513.10 231.5
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.41558 41.34989 513.10 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.41560 41.34983 513.06 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.41568 41.34974 513.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41521 41.34922 513.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41555 41.34939 513.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41559 41.34949 513.32 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41569 41.34955 513.28 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41625 41.34966 513.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41641 41.34963 513.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41642 41.34953 513.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41641 41.34945 513.38 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41635 41.34925 513.47 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41628 41.34928 513.56 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -75.41551 41.34952 513.56 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -75.41538 41.34944 513.27 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -75.41519 41.34932 513.29 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -75.41621 41.34956 513.22 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -75.41618 41.34942 513.31 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -75.41633 41.34944 513.47 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.41498 41.34912 513.47 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -75.41583 41.34875 513.08 51.63
+# END dsf2stg

@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -146.25444 -14.42884 0.00 296.15
+OBJECT_SHARED Models/lib/watertank3x1.ac -146.25514 -14.42900 2.94 202.74
+OBJECT_SHARED Models/lib/stack_of_cones.ac -146.25488 -14.42867 1.67 81.39
+OBJECT_SHARED Models/lib/stack_of_cones.ac -146.25457 -14.42835 2.79 81.39
+OBJECT_SHARED Models/lib/stack_of_cones.ac -146.25475 -14.42862 3.61 7.34
+OBJECT_SHARED Models/Misc/picnic_table.ac -146.25501 -14.42894 3.17 112.41
+OBJECT_SHARED Models/Misc/picnic_table.ac -146.25500 -14.42897 2.04 293.15
+OBJECT_SHARED Models/lib/cone.ac -146.25504 -14.42875 1.67 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25453 -14.42855 2.79 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25461 -14.42858 3.17 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25501 -14.42874 3.17 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25462 -14.42859 2.79 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25506 -14.42876 3.17 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25448 -14.42853 2.42 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25450 -14.42854 3.85 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25456 -14.42857 3.31 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25499 -14.42873 3.17 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25510 -14.42877 2.79 81.39
+OBJECT_SHARED Models/lib/cone.ac -146.25497 -14.42872 2.42 151.83
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -146.25516 -14.42896 2.79 272.37
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -146.25448 -14.42880 1.67 272.37
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -146.25446 -14.42879 2.94 272.37
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -146.25447 -14.42879 2.94 296.68
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -146.25446 -14.42879 2.94 296.68
+OBJECT_SHARED Models/lib/propane-tank.ac -146.25516 -14.42898 2.94 112.85
+OBJECT_SHARED Models/lib/transformer3x3.ac -146.25408 -14.42841 1.67 294.91
+OBJECT_SHARED Models/lib/lamp10m.xml -146.25506 -14.42878 4.16 -68.37
+OBJECT_SHARED Models/lib/lamp10m.xml -146.25491 -14.42873 2.42 -68.37
+OBJECT_SHARED Models/lib/lamp10m.xml -146.25463 -14.42861 2.79 -63.3
+OBJECT_SHARED Models/lib/lamp10m.xml -146.25450 -14.42856 3.17 -67.03
+OBJECT_SHARED Models/lib/lamp10m.xml -146.25499 -14.42890 3.55 25.92
+OBJECT_SHARED Models/lib/lamp10m.xml -146.25495 -14.42900 2.04 25.53
+# END dsf2stg

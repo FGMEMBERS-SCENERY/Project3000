@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars2.ac -156.97455 21.20977 5.01 49.4
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -156.97532 21.20940 4.99 154.72
-OBJECT_SHARED Models/Transport/hatchback_green.ac -156.97502 21.20940 4.99 226.79
-OBJECT_SHARED Models/lib/2container-office.ac -156.97493 21.20936 4.99 225
-OBJECT_SHARED Models/lib/4container-office.ac -156.97474 21.20955 5.00 224.94
-OBJECT_SHARED Models/lib/cars4.ac -156.97443 21.20968 5.98 227.01
+OBJECT_SHARED Models/lib/cars2.ac -156.97455 21.20977 0.00 49.4
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -156.97532 21.20940 4.87 154.72
+OBJECT_SHARED Models/Transport/hatchback_green.ac -156.97502 21.20940 4.86 226.79
+OBJECT_SHARED Models/lib/2container-office.ac -156.97493 21.20936 4.86 225
+OBJECT_SHARED Models/lib/4container-office.ac -156.97474 21.20955 4.86 224.94
+OBJECT_SHARED Models/lib/cars4.ac -156.97443 21.20968 4.88 227.01
 # END dsf2stg

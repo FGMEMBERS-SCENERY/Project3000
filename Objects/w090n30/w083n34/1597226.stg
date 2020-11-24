@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -82.36912 34.74876 284.20 275.62
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -82.36917 34.74920 279.19 275.62
+OBJECT_SHARED Models/lib/office112x50.ac -82.37947 34.74608 283.61 90
+OBJECT_SHARED Models/lib/office112x50.ac -82.37823 34.74607 281.64 90
+OBJECT_SHARED Models/lib/LgMaint.ac -82.37705 34.74704 281.08 270
+OBJECT_SHARED Models/lib/LgMaint.ac -82.37606 34.74704 281.11 270
+OBJECT_SHARED Models/lib/LgMaint.ac -82.37344 34.74703 280.72 270
+OBJECT_SHARED Models/lib/LgMaint.ac -82.37195 34.74704 279.46 270
+OBJECT_SHARED Models/lib/LgMaint.ac -82.36989 34.74706 278.81 270
+OBJECT_SHARED Models/lib/LgMaint.ac -82.38202 34.74584 283.62 0
+# END dsf2stg

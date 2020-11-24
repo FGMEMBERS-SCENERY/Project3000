@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -162.11222 63.48440 0.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -162.11292 63.48434 31.78 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -162.11274 63.48448 32.09 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.03888 63.47833 -62.84 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -162.03909 63.47872 -87.99 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -162.11225 63.48431 5.95 325.78
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -162.11214 63.48434 31.74 143.75
+# END dsf2stg

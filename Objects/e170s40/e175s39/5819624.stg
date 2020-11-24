@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 175.14957 -38.30368 0.00 171.384
+OBJECT_SHARED Models/lib/stack_of_cones.ac 175.14960 -38.30409 49.79 213.69
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 175.14982 -38.30427 49.55 152.272
+OBJECT_SHARED Models/Transport/van_silver.ac 175.15002 -38.30529 49.42 189.427
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.15074 -38.30463 48.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.15035 -38.30526 50.37 78.4077
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.15031 -38.30539 48.82 342.719
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.15025 -38.30539 48.76 182.291
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.15019 -38.30535 48.76 110.726
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.14984 -38.30359 48.76 247.833
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.14950 -38.30302 49.85 68.7493
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.14955 -38.30302 50.95 151.928
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.14959 -38.30296 50.21 211.535
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.14952 -38.30297 50.21 348.232
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.15056 -38.30436 50.21 110.773
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.15027 -38.30531 50.49 328.892
+OBJECT_SHARED Models/Trees/billboard-tree.xml 175.15043 -38.30625 48.82 135.526
+OBJECT_SHARED Models/lib/prop_a.ac 175.14993 -38.30379 48.22 16.3018
+OBJECT_SHARED Models/lib/prop_a.ac 175.14960 -38.30393 49.73 189.915
+OBJECT_SHARED Models/lib/SmHangar.ac 175.14994 -38.30535 49.67 98.3978
+OBJECT_SHARED Models/lib/farm19x12.ac 175.14957 -38.30361 48.76 187.826
+OBJECT_SHARED Models/lib/shed8x10.ac 175.14961 -38.30317 49.85 278.198
+OBJECT_SHARED Models/lib/transformer3x3.ac 175.15028 -38.30725 50.09 99.7203
+# END dsf2stg

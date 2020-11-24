@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -68.69199 45.64715 0.00 215.37
+OBJECT_SHARED Models/lib/lamp10m.xml -68.69230 45.64742 120.38 223.67
+OBJECT_SHARED Models/lib/lamp10m.xml -68.69292 45.64771 120.45 213
+OBJECT_SHARED Models/lib/lamp10m.xml -68.69347 45.64836 120.47 217.93
+OBJECT_SHARED Models/lib/lamp10m.xml -68.69383 45.64864 121.04 217.6
+OBJECT_SHARED Models/lib/MedHangar.ac -68.69138 45.64714 121.13 220.6
+OBJECT_SHARED Models/lib/office40x25.ac -68.69244 45.64756 120.58 219.78
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -68.69056 45.64671 120.65 220.93
+# END dsf2stg

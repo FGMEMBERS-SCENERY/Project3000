@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 17.04090 52.32017 0.00 -35.22
+OBJECT_SHARED Models/lib/lamp10m.xml 17.03987 52.32118 70.16 187.32
+OBJECT_SHARED Models/lib/lamp10m.xml 17.03990 52.32077 69.60 227.59
+OBJECT_SHARED Models/lib/lamp10m.xml 17.04035 52.32151 69.65 -59.51
+OBJECT_SHARED Models/lib/lamp10m.xml 17.04102 52.32171 69.70 -58.5
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04144 52.32186 70.37 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04104 52.32212 70.57 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04115 52.32201 70.54 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04137 52.32196 70.52 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04127 52.32207 70.64 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04117 52.32218 70.65 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04106 52.32228 70.67 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04091 52.32225 70.69 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04099 52.32244 70.56 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04098 52.32241 70.71 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04072 52.32235 70.71 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04077 52.32234 70.54 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04082 52.32233 70.57 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 17.04097 52.32237 70.57 0
+OBJECT_SHARED Models/Airport/cargobox.xml 17.03962 52.32118 70.21 346.5
+OBJECT_SHARED Models/Transport/hatchback_red.ac 17.03981 52.32121 69.55 127.05
+OBJECT_SHARED Models/Airport/cargobox.xml 17.03968 52.32119 69.58 50.66
+OBJECT_SHARED Models/Airport/cargobox.xml 17.03965 52.32118 69.56 4.16
+OBJECT_SHARED Models/lib/stack_of_cones.ac 17.04093 52.32169 69.56 165.47
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 17.04113 52.32178 69.85 209.14
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 17.04055 52.32160 69.93 120.76
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 17.03906 52.32116 69.75 162.07
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 17.03906 52.32115 69.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 17.04508 52.32325 69.48 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 17.04407 52.32281 72.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 17.04168 52.32156 71.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 17.04243 52.32207 70.09 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 17.04230 52.32206 70.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 17.04225 52.32186 70.71 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 17.04214 52.32183 70.52 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 17.03943 52.32099 70.40 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.03942 52.32109 69.54 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.03998 52.32134 69.53 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 17.03960 52.32129 69.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 17.03945 52.32125 69.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 17.03974 52.32128 69.51 0
+# END dsf2stg

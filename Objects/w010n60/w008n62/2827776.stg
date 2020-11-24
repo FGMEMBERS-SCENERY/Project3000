@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -7.64491 62.10242 0.00 130.061
+OBJECT_SHARED Models/Effects/taxilampblue.xml -7.64617 62.10218 26.71 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -7.64618 62.10207 16.49 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -7.64590 62.10198 16.41 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -7.64566 62.10202 17.23 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -7.64557 62.10214 18.08 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -7.64567 62.10225 19.57 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -7.64584 62.10227 17.74 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -7.64604 62.10224 17.17 0
+# END dsf2stg

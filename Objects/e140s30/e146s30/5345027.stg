@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 146.81205 -29.97455 0.00 138.95
+OBJECT_SHARED Models/Misc/picnic_table.ac 146.81444 -29.97220 130.20 276.04
+OBJECT_SHARED Models/Misc/picnic_table.ac 146.81452 -29.97215 128.02 186.67
+OBJECT_SHARED Models/Transport/hatchback_green.ac 146.81356 -29.97352 126.42 67.48
+OBJECT_SHARED Models/Transport/hatchback_green.ac 146.81470 -29.97206 128.08 23.47
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 146.81454 -29.97205 126.42 194.3
+OBJECT_SHARED Models/Transport/hatchback_green.ac 146.81450 -29.97205 126.39 207.15
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 146.81471 -29.97187 126.39 336.04
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 146.81454 -29.97214 126.37 290.11
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 146.81444 -29.97217 126.42 114.66
+OBJECT_SHARED Models/lib/watertank3x1.ac 146.81446 -29.97208 128.02 98.07
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 146.81429 -29.97218 128.00 212.68
+OBJECT_SHARED Models/lib/office3x10.ac 146.81430 -29.97216 128.02 95.83
+OBJECT_SHARED Models/lib/shed8x10.ac 146.81430 -29.97214 128.02 185.72
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 146.81402 -29.97226 128.00 306.72
+# END dsf2stg

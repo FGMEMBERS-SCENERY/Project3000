@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -86.19664 44.62446 0.00 312.71
+OBJECT_SHARED Models/lib/YellowTriangle1.xml -86.19711 44.62485 188.92 42.16
+OBJECT_SHARED Models/lib/YellowTriangle2.xml -86.19683 44.62462 189.16 42.16
+OBJECT_SHARED Models/lib/cars10.ac -86.19671 44.62471 188.90 131.88
+OBJECT_SHARED Models/lib/cars10.ac -86.19682 44.62463 189.20 132.01
+OBJECT_SHARED Models/lib/propane-tank.ac -86.19684 44.62449 188.90 40.36
+OBJECT_SHARED Models/lib/lamp10m.xml -86.19697 44.62452 188.71 43.17
+OBJECT_SHARED Models/lib/lamp10m.xml -86.19717 44.62469 188.50 43.33
+OBJECT_SHARED Models/lib/lamp10m.xml -86.19737 44.62486 188.68 41.28
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -86.19727 44.62473 188.86 41.16
+OBJECT_SHARED Models/lib/SmHangar.ac -86.19574 44.62259 188.57 41.09
+OBJECT_SHARED Models/lib/SmHangar.ac -86.19724 44.62383 186.73 41.83
+OBJECT_SHARED Models/lib/SmHangar.ac -86.19699 44.62362 187.07 41.83
+OBJECT_SHARED Models/lib/LongRow.ac -86.19582 44.62388 186.92 131.02
+OBJECT_SHARED Models/lib/LongRow.ac -86.19620 44.62363 188.75 130.73
+OBJECT_SHARED Models/lib/LongRow.ac -86.19597 44.62290 187.75 130.42
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19194 44.61900 186.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19197 44.61898 186.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19194 44.61892 186.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19207 44.61970 186.23 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19210 44.61965 190.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19198 44.61926 189.73 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19214 44.61925 189.07 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19271 44.61943 188.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19284 44.61960 187.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19274 44.61960 187.51 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19295 44.62021 187.82 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19298 44.62017 188.55 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19229 44.62031 188.55 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19252 44.62004 193.17 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19263 44.62005 189.63 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19231 44.61972 190.44 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.19258 44.61951 189.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.19216 44.61952 187.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.19228 44.61948 189.13 315
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.19239 44.61929 188.82 333.44
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.19248 44.61927 187.95 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.19212 44.61868 187.64 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.19224 44.61899 185.41 0
+# END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -81.52328 27.59223 0.00 0.379997
+OBJECT_SHARED Models/lib/MedHangar.ac -81.52309 27.59243 46.51 0.199997
+OBJECT_SHARED Models/lib/LongRow.ac -81.52379 27.59247 46.55 269.91
+OBJECT_SHARED Models/lib/LongRow.ac -81.52421 27.59247 46.41 269.65
+OBJECT_SHARED Models/lib/LongRow.ac -81.52763 27.59435 46.34 0.25
+OBJECT_SHARED Models/lib/LongRow.ac -81.52542 27.59023 45.71 224.8
+OBJECT_SHARED Models/lib/prop_a.ac -81.52622 27.59014 46.05 83.16
+OBJECT_SHARED Models/lib/LongRow.ac -81.52564 27.59044 46.02 224.42
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.52575 27.59471 46.07 90
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -81.52132 27.59149 -46.33 0
+# END dsf2stg

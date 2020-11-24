@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03798 37.50910 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03843 37.50919 673.80 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03841 37.50910 673.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03822 37.50824 673.80 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03942 37.50852 667.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03852 37.50860 667.57 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03884 37.50884 668.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03918 37.50889 669.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03936 37.50886 673.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03980 37.50890 673.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.04075 37.50928 669.13 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03840 37.50941 669.65 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03832 37.50942 674.38 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03819 37.50941 674.38 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03813 37.50960 674.38 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03820 37.50967 674.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -120.03831 37.50965 674.95 0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.04143 37.51168 674.76 109.54
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.04231 37.51199 679.17 302.66
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03549 37.50933 679.59 38.29
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03600 37.50938 672.13 39.14
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03698 37.50961 673.83 127.75
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03726 37.50933 674.59 41.08
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03763 37.50938 673.97 37.48
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03796 37.50942 674.38 36.57
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03798 37.50942 674.38 128.4
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03850 37.50920 674.38 45
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03914 37.50926 674.08 38.83
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03951 37.50931 674.27 38.29
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.03989 37.50936 674.27 34.88
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.04031 37.50940 674.47 36.87
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.04079 37.50957 674.47 32.47
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.04138 37.51027 674.82 216.87
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.04214 37.51036 676.32 218.99
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.04233 37.50979 676.51 41.99
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -120.04135 37.50969 675.19 40.1
+OBJECT_SHARED Models/lib/SmHangar.ac -120.04211 37.51190 675.04 163.75
+OBJECT_SHARED Models/lib/SmHangar.ac -120.04176 37.51189 679.42 165.47
+OBJECT_SHARED Models/lib/SmHangar.ac -120.04152 37.51181 679.42 342.17
+OBJECT_SHARED Models/lib/SmHangar.ac -120.04205 37.51210 679.26 167.23
+OBJECT_SHARED Models/lib/SmHangar.ac -120.04088 37.50980 679.75 170.9
+OBJECT_SHARED Models/lib/SmHangar.ac -120.04085 37.50996 675.25 170.9
+OBJECT_SHARED Models/lib/SmHangar.ac -120.04082 37.51013 675.68 170.9
+OBJECT_SHARED Models/lib/SmHangar.ac -120.04079 37.51029 675.89 170.9
+OBJECT_SHARED Models/lib/cube16x10.ac -120.03820 37.50913 676.32 80.66
+OBJECT_SHARED Models/lib/hangar81x16.ac -120.04243 37.51015 673.80 350.42
+OBJECT_SHARED Models/lib/cars4.ac -120.03833 37.50938 675.86 350.39
+OBJECT_SHARED Models/lib/cars2.ac -120.03817 37.50945 674.38 86.71
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.03830 37.50994 674.57 352.59
+# END dsf2stg

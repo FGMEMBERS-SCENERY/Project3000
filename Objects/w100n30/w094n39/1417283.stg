@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -93.19859 39.09748 0.00 0
+OBJECT_SHARED Models/lib/LongRow.ac -93.19872 39.09874 231.93 0
+OBJECT_SHARED Models/lib/LongRow.ac -93.19876 39.09905 231.31 0
+OBJECT_SHARED Models/lib/fboModern1.ac -93.19856 39.09710 231.20 0
+OBJECT_SHARED Models/lib/office112x50.ac -93.19689 39.09714 232.17 90
+OBJECT_SHARED Models/lib/cars10.ac -93.19629 39.09770 230.94 180
+OBJECT_SHARED Models/lib/cars10.ac -93.19666 39.09770 229.92 180
+OBJECT_SHARED Models/lib/cars10.ac -93.19702 39.09770 230.37 180
+OBJECT_SHARED Models/lib/cars6.ac -93.19831 39.09795 230.69 90
+OBJECT_SHARED Models/lib/admin31x12.ac -93.19841 39.09804 231.50 0
+# END dsf2stg

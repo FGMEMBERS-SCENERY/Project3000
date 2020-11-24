@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 17.39480 46.69661 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 17.39453 46.69661 103.85 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 17.39411 46.69660 103.86 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 17.39400 46.69668 103.90 359.81
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 17.39580 46.69615 104.04 307.4
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 17.39424 46.69670 102.96 60.42
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 17.39545 46.69668 104.02 350.23
+OBJECT_SHARED Models/lib/coal_pile.ac 17.39576 46.69630 103.97 90
+OBJECT_SHARED Models/lib/lamp10m.xml 17.39514 46.69659 103.19 38.16
+OBJECT_SHARED Models/lib/lamp10m.xml 17.39452 46.69660 103.85 320.91
+OBJECT_SHARED Models/lib/lamp10m.xml 17.39549 46.69663 103.86 90
+OBJECT_SHARED Models/lib/lamp10m.xml 17.39419 46.69668 103.78 269.3
+# END dsf2stg

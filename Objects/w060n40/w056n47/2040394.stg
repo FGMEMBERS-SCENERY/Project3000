@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -55.32486 47.13624 0.00 143.56
+OBJECT_SHARED Models/lib/cone.ac -55.32438 47.13597 30.24 111.07
+OBJECT_SHARED Models/lib/stack_of_cones.ac -55.32416 47.13597 29.25 111.07
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -55.32439 47.13598 29.04 52.92
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -55.32424 47.13590 29.25 111.07
+OBJECT_SHARED Models/Misc/6barrels.ac -55.32426 47.13606 28.80 111.07
+OBJECT_SHARED Models/Misc/6barrels.ac -55.32424 47.13607 29.38 111.07
+OBJECT_SHARED Models/lib/2vending-machines.ac -55.32437 47.13598 29.27 323.27
+OBJECT_SHARED Models/lib/cone.ac -55.32520 47.13624 29.25 111.13
+OBJECT_SHARED Models/lib/stack_of_cones.ac -55.32506 47.13622 30.55 111.13
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -55.32505 47.13621 30.44 233.88
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -55.32509 47.13619 30.34 111.13
+OBJECT_SHARED Models/Misc/6barrels.ac -55.32514 47.13629 30.44 111.13
+OBJECT_SHARED Models/Misc/6barrels.ac -55.32513 47.13629 30.68 111.13
+OBJECT_SHARED Models/lib/2vending-machines.ac -55.32520 47.13624 30.68 323.33
+OBJECT_SHARED Models/lib/cone.ac -55.32545 47.13628 30.55 111.68
+OBJECT_SHARED Models/lib/stack_of_cones.ac -55.32524 47.13628 31.03 111.68
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -55.32546 47.13629 30.79 53.53
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -55.32531 47.13621 31.03 111.68
+OBJECT_SHARED Models/Misc/6barrels.ac -55.32533 47.13637 30.59 111.68
+OBJECT_SHARED Models/Misc/6barrels.ac -55.32532 47.13639 31.13 111.68
+OBJECT_SHARED Models/lib/2vending-machines.ac -55.32545 47.13629 31.13 323.88
+# END dsf2stg

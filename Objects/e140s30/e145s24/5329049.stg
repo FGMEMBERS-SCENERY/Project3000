@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 145.30074 -23.56153 0.00 -15.12
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30050 -23.56141 270.89 0
+OBJECT_SHARED Models/lib/SmHangar.ac 145.30060 -23.56183 271.28 166.19
+OBJECT_SHARED Models/lib/SmHangar.ac 145.30038 -23.56227 270.92 255.26
+OBJECT_SHARED Models/lib/SmHangar.ac 145.30025 -23.56186 271.33 72.92
+OBJECT_SHARED Models/lib/SmHangar.ac 145.29997 -23.56179 271.32 74.79
+OBJECT_SHARED Models/lib/SmHangar.ac 145.29970 -23.56172 271.31 73.3
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30027 -23.56244 271.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.29980 -23.56156 271.34 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.29959 -23.56155 271.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30063 -23.56133 271.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30054 -23.56131 270.87 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30046 -23.56150 270.87 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30011 -23.56158 271.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30018 -23.56170 271.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30041 -23.56186 271.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30052 -23.56063 271.32 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30057 -23.56052 270.77 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30099 -23.56073 270.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30097 -23.56084 270.79 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 145.30090 -23.56110 270.80 0
+OBJECT_SHARED Models/lib/cars10.ac 145.30056 -23.56117 270.85 76.17
+OBJECT_SHARED Models/lib/cars10.ac 145.30064 -23.56090 270.86 76.17
+OBJECT_SHARED Models/lib/cars10.ac 145.30071 -23.56061 270.81 255.94
+OBJECT_SHARED Models/lib/cars10.ac 145.30064 -23.56089 270.77 255.94
+OBJECT_SHARED Models/lib/cars10.ac 145.30083 -23.56095 270.81 255.94
+OBJECT_SHARED Models/lib/cars10.ac 145.30091 -23.56067 270.81 255.94
+OBJECT_SHARED Models/lib/lamp10m.xml 145.30048 -23.56075 270.79 72.98
+OBJECT_SHARED Models/lib/lamp10m.xml 145.30091 -23.56076 272.71 -16.07
+OBJECT_SHARED Models/lib/lamp10m.xml 145.30087 -23.56090 270.80 -15.14
+OBJECT_SHARED Models/lib/lamp10m.xml 145.30085 -23.56104 270.81 -12.6
+OBJECT_SHARED Models/lib/lamp10m.xml 145.30077 -23.56122 270.83 166.61
+OBJECT_SHARED Models/lib/lamp10m.xml 145.30072 -23.56140 270.86 165.96
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 145.30078 -23.56124 270.88 0
+OBJECT_SHARED Models/Airport/cargoip.xml 145.30064 -23.56161 270.86 0
+OBJECT_SHARED Models/lib/watertank3x1.ac 145.30058 -23.56145 270.90 346.33
+OBJECT_SHARED Models/lib/stack_of_cones.ac 145.30062 -23.56159 270.88 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 145.30073 -23.56144 270.90 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 145.30070 -23.56139 270.88 161.57
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 145.30087 -23.56120 270.88 209.48
+# END dsf2stg

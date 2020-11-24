@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -99.41495 31.59381 0.00 238.22
+OBJECT_SHARED Models/lib/stack_of_cones.ac -99.41504 31.59398 485.71 306.55
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -99.41495 31.59399 485.48 238.22
+OBJECT_SHARED Models/Misc/6barrels.ac -99.41507 31.59381 485.48 179.8
+OBJECT_SHARED Models/Misc/6barrels.ac -99.41509 31.59381 485.48 179.8
+OBJECT_SHARED Models/lib/2vending-machines.ac -99.41496 31.59380 485.48 90.42
+OBJECT_SHARED Models/lib/coal_pile.ac -99.41520 31.59431 485.60 90
+OBJECT_SHARED Models/Airport/cargobox.xml -99.41490 31.59432 485.06 210.53
+OBJECT_SHARED Models/Airport/cargobox.xml -99.41490 31.59434 485.42 270
+OBJECT_SHARED Models/Transport/Norberttruck.xml -99.41502 31.59470 485.42 180.71
+OBJECT_SHARED Models/Transport/hatchback_black.ac -99.41490 31.59464 485.07 91.52
+OBJECT_SHARED Models/lib/lamp10m.xml -99.41494 31.59400 485.24 270
+OBJECT_SHARED Models/lib/lamp10m.xml -99.41494 31.59379 485.60 270
+OBJECT_SHARED Models/lib/lamp10m.xml -99.41511 31.59379 485.71 91.68
+OBJECT_SHARED Models/lib/lamp10m.xml -99.41511 31.59399 485.48 91.68
+OBJECT_SHARED Models/lib/lamp10m.xml -99.41493 31.59429 485.37 270.31
+OBJECT_SHARED Models/lib/lamp10m.xml -99.41494 31.59447 485.42 270.31
+OBJECT_SHARED Models/lib/lamp10m.xml -99.41494 31.59464 485.30 270.31
+# END dsf2stg

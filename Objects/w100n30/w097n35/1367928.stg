@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -96.77232 35.95370 0.00 148.27
+OBJECT_SHARED Models/lib/SmHangar.ac -96.77221 35.95385 277.43 148.48
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76658 35.94312 277.64 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76652 35.94473 264.70 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76657 35.94562 266.18 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76657 35.94672 267.14 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76656 35.94761 267.76 0
+OBJECT_SHARED Models/lib/large-hangar.ac -96.77307 35.95266 268.66 58.52
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -96.76656 35.94850 186.55 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -96.77228 35.95310 269.56 327.46
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -96.77232 35.95313 276.46 148.34
+OBJECT_SHARED Models/lib/SmHangar.ac -96.77346 35.95225 276.46 150.85
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -96.76464 35.94300 184.07 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76503 35.94390 263.08 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76394 35.94409 264.08 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76363 35.94282 264.95 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76278 35.94334 264.47 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76290 35.94421 266.91 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76436 35.94573 267.47 45
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76319 35.94577 265.21 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76378 35.94649 267.85 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76456 35.94712 267.35 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76406 35.94791 266.04 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -96.76446 35.94876 267.63 0
+OBJECT_SHARED Models/lib/prop_a.ac -96.77203 35.95347 267.52 57.09
+OBJECT_SHARED Models/lib/SmHangar.ac -96.77376 35.95197 276.80 90
+OBJECT_SHARED Models/lib/SmHangar.ac -96.77561 35.95196 275.99 90
+OBJECT_SHARED Models/lib/SmHangar.ac -96.77617 35.95196 277.71 90
+OBJECT_SHARED Models/lib/SmHangar.ac -96.77667 35.95196 278.30 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -96.77398 35.95209 278.79 90
+OBJECT_SHARED Models/lib/lamp10m.xml -96.77230 35.95311 276.36 238.12
+# END dsf2stg

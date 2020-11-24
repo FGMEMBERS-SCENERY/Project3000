@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars2.ac -101.06635 56.86101 0.00 0.779999
+OBJECT_SHARED Models/lib/cars6.ac -101.06635 56.85930 348.86 90.25
+OBJECT_SHARED Models/lib/shed8x10.ac -101.06505 56.85822 348.86 2.49
+OBJECT_SHARED Models/lib/shed8x10.ac -101.06624 56.86149 348.41 359.43
+OBJECT_SHARED Models/lib/4container-office.ac -101.07553 56.85835 348.80 173.32
+OBJECT_SHARED Models/lib/4container-office.ac -101.07554 56.85828 350.44 354.52
+OBJECT_SHARED Models/lib/office16x4n.ac -101.07583 56.85773 350.35 122.68
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -101.06670 56.86097 349.83 89.99
+OBJECT_SHARED Models/lib/HorizTanks2.ac -101.06720 56.86019 349.37 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -101.06735 56.86019 349.33 90
+OBJECT_SHARED Models/lib/industrial13x24.ac -101.06638 56.86108 349.33 0
+OBJECT_SHARED Models/lib/2container-office.ac -101.07485 56.85784 348.85 270.29
+OBJECT_SHARED Models/lib/2container-office.ac -101.07475 56.85783 349.87 270.54
+OBJECT_SHARED Models/lib/2container-office.ac -101.07465 56.85783 349.87 271.19
+OBJECT_SHARED Models/lib/2container-office.ac -101.07454 56.85783 349.87 269.18
+OBJECT_SHARED Models/lib/2container-office.ac -101.07479 56.85877 349.87 274.98
+OBJECT_SHARED Models/lib/2container-office.ac -101.07469 56.85877 350.69 274.98
+OBJECT_SHARED Models/lib/2container-office.ac -101.07459 56.85878 350.69 274
+OBJECT_SHARED Models/lib/2container-office.ac -101.07448 56.85878 350.69 274.1
+OBJECT_SHARED Models/lib/2container-office.ac -101.07437 56.85878 350.59 274.1
+OBJECT_SHARED Models/lib/2container-office.ac -101.07437 56.85810 350.59 355.78
+OBJECT_SHARED Models/lib/2container-office.ac -101.07436 56.85816 350.07 357.5
+OBJECT_SHARED Models/lib/2container-office.ac -101.07436 56.85821 350.15 358.4
+OBJECT_SHARED Models/lib/2container-office.ac -101.07435 56.85826 350.15 358.4
+OBJECT_SHARED Models/lib/2container-office.ac -101.07434 56.85832 350.24 0.199997
+OBJECT_SHARED Models/lib/2container-office.ac -101.07436 56.85838 350.24 0.199997
+OBJECT_SHARED Models/lib/2container-office.ac -101.07436 56.85844 350.31 0.199997
+OBJECT_SHARED Models/lib/2container-office.ac -101.07549 56.85865 350.31 352.85
+OBJECT_SHARED Models/lib/2container-office.ac -101.07551 56.85859 350.53 356.61
+OBJECT_SHARED Models/lib/2container-office.ac -101.07551 56.85853 350.60 356.89
+OBJECT_SHARED Models/lib/2container-office.ac -101.07552 56.85846 350.52 357.69
+# END dsf2stg

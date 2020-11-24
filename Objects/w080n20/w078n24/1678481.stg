@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67701 24.28978 0.00 139.9
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67700 24.28980 6.46 48.99
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67589 24.29013 6.46 264.81
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67600 24.29016 6.14 321.01
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67603 24.29014 6.35 96.95
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67601 24.29014 6.22 316.64
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67641 24.29005 6.22 151.86
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67640 24.29006 5.47 28.61
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67642 24.28988 5.19 80.84
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67639 24.28994 5.76 356.63
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67647 24.28978 5.76 35.84
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67632 24.28970 6.24 83.02
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67636 24.28979 6.12 138.99
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67635 24.28984 6.19 49.03
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -77.67634 24.28981 6.19 350.84
+OBJECT_SHARED Models/Airport/cargobox.xml -77.67742 24.28930 6.14 181.68
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67739 24.28964 6.53 221.82
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67670 24.28976 6.59 91.91
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67666 24.28978 6.33 270
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67610 24.28992 6.33 180
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67590 24.28991 6.09 182.29
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67563 24.28961 6.00 358.26
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67601 24.28971 5.67 358.57
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67622 24.28967 5.93 181.3
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67737 24.28922 6.05 1.42999
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67721 24.28929 6.51 93.75
+OBJECT_SHARED Models/lib/lamp10m.xml -77.67721 24.28964 6.46 181.22
+OBJECT_SHARED Models/lib/cars6.ac -77.67722 24.28943 6.51 272.89
+OBJECT_SHARED Models/lib/cars4.ac -77.67739 24.28924 6.48 91.41
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -77.67735 24.28966 6.51 223.97
+OBJECT_SHARED Models/lib/cars6.ac -77.67597 24.28989 6.61 0.580002
+OBJECT_SHARED Models/lib/cars6.ac -77.67591 24.28972 6.04 181.98
+OBJECT_SHARED Models/lib/cars6.ac -77.67622 24.28989 5.89 0.580002
+# END dsf2stg

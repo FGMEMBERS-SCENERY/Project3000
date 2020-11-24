@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 100.30455 34.42213 0.00 108.13
+OBJECT_SHARED Models/lib/lamp10m.xml 100.30280 34.42159 3774.40 59
+OBJECT_SHARED Models/lib/lamp10m.xml 100.30190 34.42203 3774.10 56.96
+OBJECT_SHARED Models/lib/lamp10m.xml 100.30116 34.42238 3773.52 57.63
+OBJECT_SHARED Models/lib/shed8x10.ac 100.30483 34.41948 3772.96 62.35
+OBJECT_SHARED Models/lib/LongRow.ac 100.30350 34.42137 3776.61 330.6
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 100.30238 34.42220 3774.23 238.85
+# END dsf2stg

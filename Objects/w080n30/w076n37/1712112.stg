@@ -1,47 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -75.99399 37.82656 1.00 181
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -75.99638 37.82824 0.99 82
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -75.99608 37.82950 0.99 85.01
-OBJECT_SHARED Models/lib/shed8x10.ac -75.99558 37.82927 1.00 65
-OBJECT_SHARED Models/lib/shed8x10.ac -75.99553 37.82916 1.00 65
-OBJECT_SHARED Models/lib/shed8x10.ac -75.99580 37.82809 0.99 261
-OBJECT_SHARED Models/lib/shed8x10.ac -75.99557 37.82954 1.00 84
-OBJECT_SHARED Models/lib/schranke.ac -75.99581 37.82881 1.00 175
-OBJECT_SHARED Models/lib/transformer3x3.ac -75.99582 37.82882 1.00 171
-OBJECT_SHARED Models/Misc/6barrels.ac -75.99586 37.82882 0.99 320
-OBJECT_SHARED Models/lib/garage-small-white.ac -75.99575 37.82873 1.00 75
-OBJECT_SHARED Models/lib/garage-small-white.ac -75.99556 37.82995 0.83 264
-OBJECT_SHARED Models/lib/garage-small-white.ac -75.99670 37.81965 0.95 280
-OBJECT_SHARED Models/lib/farm19x12.ac -75.99545 37.82863 0.99 192
-OBJECT_SHARED Models/lib/farm19x12.ac -75.99570 37.82728 1.00 6
-OBJECT_SHARED Models/lib/farm19x12.ac -75.99565 37.82498 0.97 271
-OBJECT_SHARED Models/lib/farm19x12.ac -75.99601 37.82236 0.99 69
-OBJECT_SHARED Models/lib/farm19x12.ac -75.99655 37.82222 0.93 251
-OBJECT_SHARED Models/lib/farm19x12.ac -75.99557 37.82978 1.00 175
-OBJECT_SHARED Models/lib/farm19x12.ac -75.99574 37.82412 0.97 262
-OBJECT_SHARED Models/lib/farm19x12.ac -75.99631 37.82240 0.95 250
-OBJECT_SHARED Models/lib/dGreenhse.ac -75.99570 37.83006 1.00 270
-OBJECT_SHARED Models/lib/dGreenhse.ac -75.99670 37.81939 0.95 185
-OBJECT_SHARED Models/lib/office4x14.ac -75.99607 37.82742 1.00 280
-OBJECT_SHARED Models/lib/office4x14.ac -75.99574 37.82888 1.00 175
-OBJECT_SHARED Models/lib/transformer3x3.ac -75.99561 37.82861 1.00 116
-OBJECT_SHARED Models/lib/office6x12.ac -75.99541 37.82877 1.00 100
-OBJECT_SHARED Models/lib/garage-small-white.ac -75.99602 37.82672 1.00 270
-OBJECT_SHARED Models/lib/garage-small-white.ac -75.99583 37.82568 0.98 95
-OBJECT_SHARED Models/lib/garage-small-white.ac -75.99588 37.82499 0.96 0
-OBJECT_SHARED Models/lib/garage-small-white.ac -75.99735 37.82092 0.88 355.01
-OBJECT_SHARED Models/lib/garage-small-white.ac -75.99545 37.82810 1.00 10
-OBJECT_SHARED Models/lib/garden-shed.ac -75.99593 37.82604 0.98 180
-OBJECT_SHARED Models/lib/garden-shed.ac -75.99592 37.82595 0.98 185
-OBJECT_SHARED Models/lib/garden-shed.ac -75.99573 37.82467 0.97 355.01
-OBJECT_SHARED Models/lib/farm19x12.ac -75.99555 37.82533 0.99 4
-OBJECT_SHARED Models/lib/farm19x12.ac -75.99559 37.82472 0.97 260.01
-OBJECT_SHARED Models/lib/dGreenhse.ac -75.99594 37.82489 0.96 274
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -75.99585 37.82439 0.96 262
-OBJECT_SHARED Models/lib/shed10x50.ac -75.99571 37.82306 1.00 255
-OBJECT_SHARED Models/lib/shed10x50.ac -75.99752 37.82008 0.83 176
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -75.99643 37.82147 0.97 259.01
-OBJECT_SHARED Models/lib/industrial13x24.ac -75.99882 37.82763 0.37 263
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.99590 37.82837 0.00 110.1
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.99591 37.82832 0.99 237.3
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.99591 37.82823 0.99 256.61
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -75.99588 37.82845 0.99 251.92
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -75.99586 37.82854 0.99 0
+OBJECT_SHARED Models/lib/prop_a.ac -75.99640 37.82827 0.99 173.34
+OBJECT_SHARED Models/lib/prop_a.ac -75.99606 37.82951 0.99 352.44
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -75.99573 37.82879 1.00 4.70001
+OBJECT_SHARED Models/lib/office4x14.ac -75.99582 37.82890 1.00 354.31
+OBJECT_SHARED Models/lib/shed8x10.ac -75.99578 37.82875 1.00 353.59
 # END dsf2stg

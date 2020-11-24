@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -64.47773 48.77729 0.00 276.25
+OBJECT_SHARED Models/lib/SmHangar.ac -64.47771 48.77744 32.17 95.98
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -64.47483 48.77752 32.39 96.59
+OBJECT_SHARED Models/lib/lamp10m.xml -64.47556 48.77751 31.56 79.13
+OBJECT_SHARED Models/lib/lamp10m.xml -64.47510 48.77752 31.91 97.03
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -64.47592 48.77756 31.69 94.57
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -64.47568 48.77741 32.24 186.77
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -64.47508 48.77745 31.73 186.77
+# END dsf2stg

@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -72.73025 6.70444 0.00 -79.79
+OBJECT_SHARED Models/lib/lamp10m.xml -72.73043 6.70441 2195.91 -79.79
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73063 6.70517 2195.90 140.6
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73067 6.70512 2195.88 215.66
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73073 6.70503 2194.07 242.1
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73071 6.70502 2193.93 153.43
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73075 6.70488 2193.91 228.24
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73077 6.70488 2194.14 148.82
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73073 6.70480 2194.14 154.47
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73071 6.70480 2195.89 253.03
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73084 6.70470 2195.89 140.36
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73084 6.70473 2194.86 228.01
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73079 6.70477 2194.14 126.69
+OBJECT_SHARED Models/lib/deciduous-tree.xml -72.73082 6.70476 2194.07 213.69
+OBJECT_SHARED Models/lib/lamp10m.xml -72.73075 6.70467 2194.07 184.05
+OBJECT_SHARED Models/lib/lamp10m.xml -72.73065 6.70468 2195.92 184.05
+OBJECT_SHARED Models/lib/shed8x10.ac -72.73070 6.70472 2195.91 95.76
+# END dsf2stg

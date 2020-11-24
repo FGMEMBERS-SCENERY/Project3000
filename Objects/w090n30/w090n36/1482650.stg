@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.34518 36.47437 0.00 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.34520 36.47424 86.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.34522 36.47413 86.00 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.34523 36.47400 86.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.34536 36.47312 86.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.34534 36.47325 86.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.34532 36.47338 86.00 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.34530 36.47357 86.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.34528 36.47370 86.00 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -89.34540 36.47380 86.00 261.75
+OBJECT_SHARED Models/lib/cars6.ac -89.34521 36.47396 86.00 352.37
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -89.34538 36.47386 86.00 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -89.34539 36.47387 86.00 90
+OBJECT_SHARED Models/lib/watertank3x1.ac -89.34530 36.47375 86.00 82.57
+OBJECT_SHARED Models/lib/propane-tank.ac -89.34536 36.47375 86.00 173.66
+OBJECT_SHARED Models/lib/SmHangar.ac -89.34538 36.47382 86.00 353.66
+# END dsf2stg

@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/canopy18x8.ac -82.37000 32.61232 0.00 50.37
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.36997 32.61229 99.29 50.37
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.37004 32.61234 99.29 50.37
+OBJECT_SHARED Models/lib/fboModern1.ac -82.37040 32.61261 99.29 50.37
+OBJECT_SHARED Models/lib/LongRow.ac -82.36993 32.61195 99.78 320.92
+# END dsf2stg

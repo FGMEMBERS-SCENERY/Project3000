@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.87728 44.15164 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.87733 44.15170 20.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.87742 44.15167 20.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.87745 44.15179 20.84 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.87734 44.15186 21.16 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.87731 44.15177 20.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.87716 44.15164 20.74 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -68.87715 44.15173 20.45 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -68.87729 44.15159 20.52 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -68.87725 44.15170 20.60 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -68.87706 44.15173 20.52 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -68.87709 44.15183 20.35 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -68.87721 44.15181 20.44 0
+OBJECT_SHARED Models/lib/shed8x10.ac -68.87763 44.15138 20.57 51.34
+OBJECT_SHARED Models/lib/shed8x10.ac -68.87758 44.15109 20.96 59.43
+OBJECT_SHARED Models/lib/shed8x10.ac -68.87713 44.15201 20.65 317.49
+OBJECT_SHARED Models/lib/shed8x10.ac -68.87776 44.15086 20.54 56.97
+# END dsf2stg

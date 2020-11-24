@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -66.73881 -14.85735 0.00 179.488
+OBJECT_SHARED Models/lib/industrial13x24.ac -66.73912 -14.85067 194.50 92.9464
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -66.73916 -14.85123 194.30 9.05795
+OBJECT_SHARED Models/lib/shed8x10.ac -66.73912 -14.85176 194.72 91.9091
+OBJECT_SHARED Models/lib/shed8x10.ac -66.73889 -14.85641 194.92 90
+OBJECT_SHARED Models/lib/shed8x10.ac -66.73907 -14.86061 194.57 271.507
+OBJECT_SHARED Models/lib/shed8x10.ac -66.73890 -14.86092 194.36 39.6108
+OBJECT_SHARED Models/lib/shed8x10.ac -66.73897 -14.86045 194.25 0
+OBJECT_SHARED Models/lib/shed8x10.ac -66.73893 -14.86316 194.32 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -66.73903 -14.86359 194.88 90
+OBJECT_SHARED Models/lib/prop_a.ac -66.73841 -14.86054 194.33 124.508
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.73876 -14.85656 194.14 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.73853 -14.86046 194.55 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.73881 -14.85738 194.15 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -66.73876 -14.85682 194.50 180
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -66.73879 -14.85653 194.54 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -66.73883 -14.85710 194.55 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -66.73864 -14.86049 194.51 171.87
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -66.73853 -14.86032 194.18 0
+OBJECT_SHARED Models/lib/shed8x10.ac -66.74014 -14.85693 194.17 279.866
+OBJECT_SHARED Models/lib/shed8x10.ac -66.73941 -14.85626 194.74 192.2
+OBJECT_SHARED Models/lib/shed8x10.ac -66.73944 -14.85613 194.68 187.943
+# END dsf2stg

@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25035 -29.90242 15.38 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25144 -29.90241 15.42 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25089 -29.90241 15.52 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25196 -29.90242 15.45 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25252 -29.90241 15.63 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25359 -29.90241 15.72 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25035 -29.90218 15.41 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25144 -29.90218 15.44 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25089 -29.90218 15.51 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25197 -29.90218 15.46 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25253 -29.90218 15.58 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25305 -29.90241 15.64 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25411 -29.90241 15.80 90
+OBJECT_SHARED Models/lib/taxilight-HD-yy.ac -50.25411 -29.90218 16.00 90
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25073 -29.90155 15.95 5.45999
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25074 -29.90139 15.60 5.45999
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25075 -29.90124 15.63 5.45999
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25188 -29.90079 15.71 40.78
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25229 -29.90082 15.76 137.52
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25332 -29.90165 16.15 101.31
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25355 -29.90166 15.71 99.73
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25364 -29.90166 15.74 97.7
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25388 -29.90167 15.76 94.54
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25232 -29.90119 15.81 96.71
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25088 -29.90107 15.66 91.04
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25119 -29.90109 15.72 90.86
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25143 -29.90111 15.71 97.12
+OBJECT_SHARED Models/lib/lamp10m.xml -50.25175 -29.90113 15.70 93.67
+OBJECT_SHARED Models/lib/prop_a.ac -50.25245 -29.90160 16.06 329.89
+OBJECT_SHARED Models/lib/prop_a.ac -50.25245 -29.90147 15.95 33.42
+OBJECT_SHARED Models/lib/prop_a.ac -50.25195 -29.90092 15.63 243.87
+OBJECT_SHARED Models/lib/prop_a.ac -50.25247 -29.90136 15.85 6.84
+# END dsf2stg

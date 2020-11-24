@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -64.27760 -33.09619 0.00 315
+OBJECT_SHARED Models/lib/cars4.ac -64.27836 -33.09616 426.42 90
+OBJECT_SHARED Models/lib/cars4.ac -64.27836 -33.09600 427.27 90
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -64.27760 -33.09613 427.37 315
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -64.27760 -33.09624 426.48 315
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -64.27760 -33.09629 426.42 315
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -64.27760 -33.09637 426.38 315
+OBJECT_SHARED Models/lib/office40x25.ac -64.27792 -33.09407 426.32 0
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -64.27368 -33.08970 427.86 138.65
+OBJECT_SHARED Models/lib/MedHangar.ac -64.27611 -33.09064 426.40 135
+OBJECT_SHARED Models/lib/LgMaint.ac -64.27685 -33.09126 427.89 135
+OBJECT_SHARED Models/lib/LgMaint.ac -64.27787 -33.09217 428.29 135
+OBJECT_SHARED Models/lib/chariot3curve.ac -64.27755 -33.09678 428.89 90
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -64.27748 -33.09656 426.02 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -64.27751 -33.09663 426.12 0
+OBJECT_SHARED Models/Airport/cargobox.xml -64.27754 -33.09665 426.12 0
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -64.27752 -33.09662 426.12 90
+OBJECT_SHARED Models/lib/belt_loader.ac -64.27748 -33.09662 426.12 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac -64.27543 -33.09305 426.12 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -64.27553 -33.09305 425.89 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -64.27575 -33.09313 425.99 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -64.27569 -33.09313 426.21 90
+OBJECT_SHARED Models/lib/cube16x10.ac -64.27549 -33.09320 426.12 89.55
+OBJECT_SHARED Models/lib/LgMaint.ac -64.27756 -33.09473 425.88 180
+OBJECT_SHARED Models/lib/MedHangar.ac -64.27756 -33.09360 427.20 180
+# END dsf2stg

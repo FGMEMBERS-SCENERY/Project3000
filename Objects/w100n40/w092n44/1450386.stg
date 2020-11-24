@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -91.33281 44.36756 0.00 268.57
+OBJECT_SHARED Models/Transport/Norberttruck.xml -91.33220 44.36843 252.81 341.15
+OBJECT_SHARED Models/Transport/van_silver.ac -91.33305 44.36754 251.01 253.23
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.33283 44.36845 253.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -91.33211 44.36829 251.10 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -91.33206 44.36840 251.12 0
+OBJECT_SHARED Models/lib/cars7.ac -91.33275 44.36806 250.93 248.47
+OBJECT_SHARED Models/lib/6space_wStop.ac -91.33239 44.36773 251.82 88.24
+# END dsf2stg

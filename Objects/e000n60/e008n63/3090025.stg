@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.75782 63.69792 0.00 45
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.75808 63.69803 -0.00 28.07
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.75797 63.69799 -0.00 57.72
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.75789 63.69797 -0.00 25.2
+OBJECT_SHARED Models/Transport/hatchback_red.ac 8.75759 63.69787 -0.00 68.63
+OBJECT_SHARED Models/lib/prop_a.ac 8.75796 63.69832 -0.00 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac 8.75810 63.69811 -0.00 135
+OBJECT_SHARED Models/lib/SmHangar.ac 8.75856 63.69842 -0.00 312.37
+# END dsf2stg

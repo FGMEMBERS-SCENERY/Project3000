@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -82.25075 26.85790 0.00 41.63
+OBJECT_SHARED Models/lib/fuel-truck.xml -82.25161 26.85666 0.97 42.11
+OBJECT_SHARED Models/lib/MedHangar.ac -82.25017 26.85744 0.97 132.15
+OBJECT_SHARED Models/lib/MedHangar.ac -82.25088 26.85690 0.97 131.72
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.25184 26.85662 0.97 38.96
+# END dsf2stg

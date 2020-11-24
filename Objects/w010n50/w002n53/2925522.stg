@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -1.43079 53.30456 0.00 260.416
+OBJECT_SHARED Models/lib/SmHangar.ac -1.43107 53.30459 217.87 261.027
+OBJECT_SHARED Models/lib/SmHangar.ac -1.43126 53.30461 217.81 260.039
+OBJECT_SHARED Models/lib/office6x12.ac -1.43112 53.30434 217.77 347.905
+OBJECT_SHARED Models/Misc/6barrels.ac -1.43091 53.30459 217.10 0
+OBJECT_SHARED Models/Misc/6barrels.ac -1.43144 53.30462 217.84 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -1.43056 53.30455 217.72 349.992
+OBJECT_SHARED Models/Transport/hatchback_red.ac -1.43121 53.30442 217.69 67.7507
+OBJECT_SHARED Models/Transport/hatchback_green.ac -1.43101 53.30431 217.32 338.75
+OBJECT_SHARED Models/Transport/van_silver.ac -1.43090 53.30436 217.13 182.49
+OBJECT_SHARED Models/Transport/hatchback_red.ac -1.43148 53.30458 217.40 350.754
+OBJECT_SHARED Models/lib/prop_a.ac -1.43221 53.30475 217.71 68.6302
+OBJECT_SHARED Models/lib/prop_a.ac -1.43276 53.30471 217.62 75.9643
+OBJECT_SHARED Models/lib/prop_a.ac -1.43252 53.30474 217.37 61.558
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -1.43178 53.30575 217.48 230.71
+OBJECT_SHARED Models/lib/shed8x10.ac -1.43270 53.30589 220.87 258.408
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -1.43295 53.30462 220.49 59.6416
+# END dsf2stg

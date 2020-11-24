@@ -1,31 +1,31 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.69040 56.03792 1.71 327.53
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.69036 56.03788 1.71 327.53
-OBJECT_SHARED Models/lib/transformer3x3.ac 12.69067 56.03766 2.15 305.1
-OBJECT_SHARED Models/lib/fuel-truck.xml 12.69053 56.03757 1.91 126.87
-OBJECT_SHARED Models/Transport/Norberttruck.xml 12.69032 56.03751 1.62 83.3
-OBJECT_SHARED Models/lib/trailer-fedex.ac 12.69024 56.03749 1.47 263.14
-OBJECT_SHARED Models/lib/SmHangar.ac 12.69048 56.03806 1.76 39.63
-OBJECT_SHARED Models/lib/industrial15x22.ac 12.69126 56.03751 2.76 107.77
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 12.69131 56.03717 2.71 108.08
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 12.69078 56.03695 2.16 288
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 12.69139 56.03702 2.79 108.08
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 12.69069 56.03710 2.08 288
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 12.69204 56.03664 3.27 107.47
-OBJECT_SHARED Models/lib/shed10x50.ac 12.69168 56.03675 3.02 18.44
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 12.69191 56.03719 -91.83 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 12.69166 56.03701 -88.94 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 12.69152 56.03725 -89.08 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 12.69050 56.03695 -90.21 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69252 56.03691 2.80 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69247 56.03694 2.80 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69239 56.03699 2.92 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69233 56.03703 3.08 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69225 56.03711 3.12 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69194 56.03731 3.16 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69188 56.03735 3.12 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69182 56.03737 3.10 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.69040 56.03792 0.00 327.53
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.69036 56.03788 1.73 327.53
+OBJECT_SHARED Models/lib/transformer3x3.ac 12.69067 56.03766 1.73 305.1
+OBJECT_SHARED Models/lib/fuel-truck.xml 12.69053 56.03757 2.16 126.87
+OBJECT_SHARED Models/Transport/Norberttruck.xml 12.69032 56.03751 1.93 83.3
+OBJECT_SHARED Models/lib/trailer-fedex.ac 12.69024 56.03749 1.65 263.14
+OBJECT_SHARED Models/lib/SmHangar.ac 12.69048 56.03806 1.50 39.63
+OBJECT_SHARED Models/lib/industrial15x22.ac 12.69126 56.03751 1.77 107.77
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 12.69131 56.03717 2.76 108.08
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 12.69078 56.03695 2.71 288
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 12.69139 56.03702 2.18 108.08
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 12.69069 56.03710 2.78 288
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 12.69204 56.03664 2.10 107.47
+OBJECT_SHARED Models/lib/shed10x50.ac 12.69168 56.03675 3.27 18.44
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 12.69191 56.03719 -91.98 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 12.69166 56.03701 -88.83 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 12.69152 56.03725 -88.95 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 12.69050 56.03695 -89.09 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69252 56.03691 1.81 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69247 56.03694 2.93 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69239 56.03699 2.93 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69233 56.03703 2.96 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69225 56.03711 3.08 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69194 56.03731 3.12 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69188 56.03735 3.15 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69182 56.03737 3.12 0
 OBJECT_SHARED Models/lib/deciduous-tree.xml 12.69174 56.03737 3.09 0
 # END dsf2stg

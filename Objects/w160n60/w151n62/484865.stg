@@ -1,0 +1,56 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -150.06816 62.08206 0.00 270
+OBJECT_SHARED Models/lib/trailer-fedex.ac -150.06811 62.08191 82.98 358.43
+OBJECT_SHARED Models/lib/trailer-fedex.ac -150.06809 62.08209 82.95 357.8
+OBJECT_SHARED Models/lib/cone.ac -150.06699 62.08617 82.98 0
+OBJECT_SHARED Models/lib/cone.ac -150.06696 62.08617 84.09 0
+OBJECT_SHARED Models/lib/cone.ac -150.06694 62.08617 84.09 0
+OBJECT_SHARED Models/lib/cone.ac -150.06692 62.08617 84.09 0
+OBJECT_SHARED Models/lib/cone.ac -150.06654 62.08617 84.09 0
+OBJECT_SHARED Models/lib/cone.ac -150.06656 62.08617 84.09 0
+OBJECT_SHARED Models/lib/cone.ac -150.06658 62.08617 84.09 0
+OBJECT_SHARED Models/lib/cone.ac -150.06660 62.08617 84.09 0
+OBJECT_SHARED Models/lib/cone.ac -150.06744 62.07986 84.09 0
+OBJECT_SHARED Models/lib/cone.ac -150.06742 62.07986 83.70 0
+OBJECT_SHARED Models/lib/cone.ac -150.06740 62.07986 83.70 0
+OBJECT_SHARED Models/lib/cone.ac -150.06739 62.07985 83.70 0
+OBJECT_SHARED Models/lib/cone.ac -150.06701 62.07985 83.70 0
+OBJECT_SHARED Models/lib/cone.ac -150.06703 62.07985 83.71 0
+OBJECT_SHARED Models/lib/cone.ac -150.06705 62.07985 83.71 0
+OBJECT_SHARED Models/lib/cone.ac -150.06707 62.07985 83.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -150.06604 62.08262 83.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -150.06608 62.08252 84.56 0
+OBJECT_SHARED Models/lib/SmHangar.ac -150.06624 62.08277 84.57 354.54
+OBJECT_SHARED Models/lib/propane-tank.ac -150.06601 62.08272 84.57 262.23
+OBJECT_SHARED Models/Misc/picnic_table.ac -150.06623 62.08266 84.56 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -150.06652 62.08198 84.56 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -150.06778 62.08210 83.80 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -150.06640 62.08251 82.98 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -150.06622 62.08283 84.57 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -150.06627 62.08263 84.57 255.96
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -150.06622 62.08271 84.56 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -150.06615 62.08271 84.56 174.47
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -150.06621 62.08271 84.56 0
+OBJECT_SHARED Models/lib/cars2.ac -150.06623 62.08258 84.56 262.88
+OBJECT_SHARED Models/Transport/hatchback_black.ac -150.06655 62.08230 84.56 259.34
+OBJECT_SHARED Models/lib/container6-HD.ac -150.06561 62.08227 83.82 275.71
+OBJECT_SHARED Models/Airport/cargoip.xml -150.06576 62.08227 84.55 186.71
+OBJECT_SHARED Models/Airport/cargoim.xml -150.06581 62.08224 84.55 232.43
+OBJECT_SHARED Models/Airport/cargoip.xml -150.06593 62.08217 84.54 221.19
+OBJECT_SHARED Models/Airport/cargobox.xml -150.06596 62.08214 84.54 0
+OBJECT_SHARED Models/lib/coal_pile.ac -150.06583 62.08200 84.54 254.09
+OBJECT_SHARED Models/lib/coal_pile.ac -150.06604 62.08210 84.53 90
+OBJECT_SHARED Models/lib/coal_pile.ac -150.06554 62.08214 84.54 90
+OBJECT_SHARED Models/lib/coal_pile.ac -150.06551 62.08219 84.54 90
+OBJECT_SHARED Models/Misc/6barrels.ac -150.06552 62.08223 84.54 0
+OBJECT_SHARED Models/Misc/6barrels.ac -150.06570 62.08224 84.54 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -150.06586 62.08221 84.54 228.34
+OBJECT_SHARED Models/lib/transformer3x3.ac -150.06625 62.08246 84.54 199.45
+OBJECT_SHARED Models/lib/transformer3x3.ac -150.06785 62.08181 84.57 174.69
+OBJECT_SHARED Models/Misc/6barrels.ac -150.06809 62.08206 82.93 0
+OBJECT_SHARED Models/Misc/6barrels.ac -150.06781 62.08191 82.98 0
+OBJECT_SHARED Models/lib/coal_pile.ac -150.06774 62.08181 82.95 90
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -150.06781 62.08187 82.93 90
+# END dsf2stg

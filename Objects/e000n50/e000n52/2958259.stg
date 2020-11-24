@@ -1,19 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_green.ac 0.91072 52.85785 55.87 312.51
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 0.91070 52.85780 55.86 341.9
-OBJECT_SHARED Models/lib/fuel-truck.xml 0.91239 52.85804 56.96 318.32
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 0.91164 52.85849 56.59 31.6
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 0.91300 52.85795 57.40 338.96
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 0.91312 52.85809 57.46 122.47
-OBJECT_SHARED Models/lib/MedHangar.ac 0.91176 52.85840 56.63 267.63
-OBJECT_SHARED Models/lib/SmHangar.ac 0.91187 52.85837 56.69 266.22
-OBJECT_SHARED Models/Transport/van_red.ac 0.91227 52.85781 56.86 185.31
-OBJECT_SHARED Models/lib/hangar81x16.ac 0.91307 52.85837 57.39 247.22
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 0.91237 52.85782 56.93 180
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 0.91092 52.85827 56.14 268.26
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 0.91101 52.85775 56.05 359.47
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac 0.91108 52.85775 56.09 359.53
-OBJECT_SHARED Models/lib/SmHangar.ac 0.91218 52.85827 56.86 267.19
+OBJECT_SHARED Models/Transport/hatchback_red.ac 0.91072 52.85785 0.00 312.51
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 0.91070 52.85780 55.87 341.9
+OBJECT_SHARED Models/lib/fuel-truck.xml 0.91239 52.85804 55.86 318.32
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 0.91164 52.85849 56.96 31.6
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 0.91300 52.85795 56.59 338.96
+OBJECT_SHARED Models/Aircraft/Cessna172.ac 0.91312 52.85809 57.40 122.47
+OBJECT_SHARED Models/lib/MedHangar.ac 0.91176 52.85840 57.46 267.63
+OBJECT_SHARED Models/lib/SmHangar.ac 0.91187 52.85837 56.63 266.22
+OBJECT_SHARED Models/Transport/hatchback_red.ac 0.91227 52.85781 56.69 185.31
+OBJECT_SHARED Models/lib/hangar81x16.ac 0.91307 52.85837 56.86 247.22
+OBJECT_SHARED Models/Transport/hatchback_green.ac 0.91237 52.85782 57.40 180
+OBJECT_SHARED Models/Transport/van_silver.ac 0.91092 52.85827 56.93 268.26
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 0.91101 52.85775 56.14 359.47
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 0.91108 52.85775 56.05 359.53
+OBJECT_SHARED Models/lib/SmHangar.ac 0.91218 52.85827 56.09 267.19
 # END dsf2stg

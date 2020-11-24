@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -176.64485 51.86901 0.00 97.59
+OBJECT_SHARED Models/Transport/van_red.ac -176.64454 51.86977 4.54 98
+OBJECT_SHARED Models/lib/office3x10.ac -176.64601 51.87294 4.56 95.1
+OBJECT_SHARED Models/lib/chariot3curve.ac -176.64486 51.86893 3.62 333.02
+OBJECT_SHARED Models/Transport/van_red.ac -176.64449 51.86954 4.60 96.84
+OBJECT_SHARED Models/lib/MedHangar.ac -176.64462 51.87310 4.55 268.27
+OBJECT_SHARED Models/Airport/egkk_oil.xml -176.64567 51.87069 4.54 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -176.64480 51.86937 3.88 97.59
+OBJECT_SHARED Models/Transport/van_red.ac -176.64454 51.86964 4.56 186.52
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -176.64447 51.86948 4.55 107.35
+OBJECT_SHARED Models/Transport/van_silver.ac -176.64376 51.87312 5.97 178.21
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -176.64453 51.86872 4.81 275.19
+OBJECT_SHARED Models/lib/MedHangar.ac -176.64524 51.87311 5.01 268.27
+OBJECT_SHARED Models/lib/lamp10m.xml -176.64478 51.86899 4.18 9.87
+OBJECT_SHARED Models/lib/lamp10m.xml -176.64493 51.86924 4.59 7.26001
+OBJECT_SHARED Models/lib/lamp10m.xml -176.64485 51.86933 4.58 -31.23
+# END dsf2stg

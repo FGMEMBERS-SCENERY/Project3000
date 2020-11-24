@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -92.35125 34.32223 0.00 346.92
+OBJECT_SHARED Models/lib/LongRow.ac -92.34980 34.32342 70.21 178.83
+OBJECT_SHARED Models/lib/shed8x10.ac -92.35104 34.32320 69.60 80.67
+OBJECT_SHARED Models/lib/industrial13x24.ac -92.35157 34.32226 70.22 258.1
+OBJECT_SHARED Models/lib/shed10x50.ac -92.35118 34.32262 70.11 78.32
+OBJECT_SHARED Models/lib/shed10x50.ac -92.35097 34.32349 70.26 80.67
+# END dsf2stg

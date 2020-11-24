@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -124.77007 54.01369 822.78 344.42
-OBJECT_SHARED Models/lib/cone.ac -124.77005 54.01370 822.78 74.42
-OBJECT_SHARED Models/lib/cone.ac -124.77004 54.01371 822.78 215.43
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -124.77007 54.01369 0.00 344.42
+OBJECT_SHARED Models/lib/cone.ac -124.77005 54.01370 823.94 74.42
+OBJECT_SHARED Models/lib/cone.ac -124.77004 54.01371 823.94 215.43
 # END dsf2stg

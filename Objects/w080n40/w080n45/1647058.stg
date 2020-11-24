@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -79.25871 45.31768 0.00 71.39
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.25854 45.31758 283.40 71.39
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -79.25870 45.31770 285.07 13.24
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.25866 45.31755 283.40 71.39
+OBJECT_SHARED Models/Misc/6barrels.ac -79.25853 45.31770 283.15 71.39
+OBJECT_SHARED Models/Misc/6barrels.ac -79.25851 45.31771 286.34 71.39
+OBJECT_SHARED Models/lib/2vending-machines.ac -79.25870 45.31769 286.34 283.59
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -79.26016 45.31585 283.40 233.98
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -79.26664 45.31640 283.00 220.32
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -79.29675 45.33929 281.83 225.01
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -79.29772 45.33680 283.00 213.12
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.25794 45.31668 283.00 248.59
+# END dsf2stg

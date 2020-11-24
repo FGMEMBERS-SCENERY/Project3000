@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -81.87117 32.19293 0.00 248.34
+OBJECT_SHARED Models/lib/lamp10m.xml -81.87101 32.19342 29.66 95.74
+OBJECT_SHARED Models/lib/lamp10m.xml -81.87210 32.19391 30.12 110.27
+OBJECT_SHARED Models/lib/lamp10m.xml -81.87223 32.19391 31.08 66.67
+OBJECT_SHARED Models/lib/lamp10m.xml -81.87316 32.19402 31.12 -74.4
+OBJECT_SHARED Models/lib/lamp10m.xml -81.87364 32.19401 31.58 90.18
+OBJECT_SHARED Models/lib/container6-HD.ac -81.87102 32.19328 31.70 342.76
+OBJECT_SHARED Models/Airport/cargobox.xml -81.87261 32.19405 30.02 12.05
+OBJECT_SHARED Models/Airport/cargoip.xml -81.87108 32.19328 31.37 16.29
+OBJECT_SHARED Models/lib/trailer-fedex.ac -81.87398 32.19374 30.07 180.28
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87347 32.19377 31.51 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -81.87313 32.19336 31.48 359.55
+OBJECT_SHARED Models/lib/watertank3x1.ac -81.87113 32.19305 30.86 68.35
+OBJECT_SHARED Models/lib/stack_of_cones.ac -81.87110 32.19326 29.85 19.9
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -81.87348 32.19402 30.07 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -81.87327 32.19400 31.68 270.74
+OBJECT_SHARED Models/Transport/van_silver.ac -81.87376 32.19398 31.61 180.69
+OBJECT_SHARED Models/Transport/hatchback_red.ac -81.87367 32.19394 31.77 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -81.87204 32.19376 31.64 18.73
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -81.87380 32.19373 30.94 4.06
+OBJECT_SHARED Models/Misc/picnic_table.ac -81.87408 32.19404 31.45 268.84
+OBJECT_SHARED Models/Misc/picnic_table.ac -81.87418 32.19399 31.85 180.16
+OBJECT_SHARED Models/Misc/picnic_table.ac -81.87418 32.19395 31.87 181.76
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87364 32.19383 31.87 178.34
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87363 32.19386 31.51 180.59
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87363 32.19389 31.61 178.62
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87363 32.19391 31.61 176.36
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87387 32.19400 31.61 268.95
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87383 32.19400 31.79 270.15
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87379 32.19400 31.77 270.15
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87376 32.19400 31.77 269.13
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87371 32.19400 31.77 270.15
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87367 32.19400 31.73 270.15
+OBJECT_SHARED Models/lib/1car-stop.ac -81.87363 32.19394 31.73 180.41
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.87314 32.19426 31.61 271.22
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.87284 32.19402 31.82 271.22
+OBJECT_SHARED Models/Misc/6barrels.ac -81.87319 32.19413 31.44 49.39
+OBJECT_SHARED Models/lib/shed10x50.ac -81.87215 32.19348 31.67 271.54
+OBJECT_SHARED Models/lib/shed10x50.ac -81.87216 32.19367 30.70 271.54
+OBJECT_SHARED Models/lib/shed8x10.ac -81.87325 32.19349 30.92 272.23
+OBJECT_SHARED Models/lib/shed8x10.ac -81.87076 32.19326 31.01 83.96
+OBJECT_SHARED Models/lib/shed8x10.ac -81.87111 32.19310 29.93 68.66
+OBJECT_SHARED Models/lib/garden-shed.ac -81.87317 32.19356 29.85 93.25
+OBJECT_SHARED Models/lib/office8x14.ac -81.87353 32.19395 31.13 180.98
+# END dsf2stg

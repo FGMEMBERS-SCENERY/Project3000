@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -162.71751 55.19473 0.00 293.23
+OBJECT_SHARED Models/lib/transformer3x3.ac -162.71766 55.19491 15.29 293.23
+OBJECT_SHARED Models/lib/office3x10.ac -162.72095 55.20458 15.90 254
+OBJECT_SHARED Models/lib/transformer3x3.ac -162.71545 55.20033 21.81 266.04
+OBJECT_SHARED Models/lib/transformer3x3.ac -162.71544 55.20037 20.13 266.04
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -162.72661 55.20989 20.13 232.8
+OBJECT_SHARED Models/lib/office3x10.ac -162.71447 55.20096 22.57 69.44
+OBJECT_SHARED Models/lib/office3x10.ac -162.71514 55.20115 19.63 176.19
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -162.71589 55.20120 -71.92 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.71574 55.20140 -74.50 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.71562 55.20149 -74.54 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -162.71580 55.20155 -74.56 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -162.71907 55.20293 20.44 111.71
+OBJECT_SHARED Models/lib/cars2.ac -162.71668 55.20075 21.52 280.14
+OBJECT_SHARED Models/lib/cars2.ac -162.72107 55.20455 20.91 342.28
+OBJECT_SHARED Models/lib/cars2.ac -162.71958 55.20342 21.83 109.47
+OBJECT_SHARED Models/lib/cars4.ac -162.71943 55.20312 21.78 109.1
+OBJECT_SHARED Models/lib/cars4.ac -162.71892 55.20269 21.49 110.97
+OBJECT_SHARED Models/lib/cars10.ac -162.71918 55.20254 21.54 22.09
+OBJECT_SHARED Models/lib/cars6.ac -162.71873 55.20239 21.55 201.97
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -162.71977 55.20325 21.56 287.12
+# END dsf2stg

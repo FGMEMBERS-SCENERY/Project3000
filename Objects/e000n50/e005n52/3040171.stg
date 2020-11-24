@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac 5.90469 52.68492 0.00 103.67
+OBJECT_SHARED Models/Transport/van_red.ac 5.90467 52.68471 1.50 34.59
+OBJECT_SHARED Models/Transport/hatchback_black.ac 5.90452 52.68480 1.21 22.31
+OBJECT_SHARED Models/Transport/van_red.ac 5.90449 52.68478 1.37 226.85
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 5.90445 52.68475 1.38 222.14
+OBJECT_SHARED Models/Transport/hatchback_green.ac 5.90443 52.68472 1.38 37.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac 5.90439 52.68470 1.23 222.27
+# END dsf2stg

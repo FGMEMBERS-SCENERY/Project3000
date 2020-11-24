@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -3.71054 50.36472 0.00 140.19
+OBJECT_SHARED Models/Transport/hatchback_green.ac -3.70980 50.36347 184.32 191.83
+OBJECT_SHARED Models/lib/prop_a.ac -3.70993 50.36346 174.69 86.63
+OBJECT_SHARED Models/lib/coal_pile.ac -3.71025 50.36593 174.65 38.66
+OBJECT_SHARED Models/lib/coal_pile.ac -3.71032 50.36594 188.26 38.66
+OBJECT_SHARED Models/lib/coal_pile.ac -3.71039 50.36593 188.26 38.66
+OBJECT_SHARED Models/Transport/van_silver.ac -3.71065 50.36554 188.26 186.58
+OBJECT_SHARED Models/lib/shed8x10.ac -3.71051 50.36594 186.93 90
+OBJECT_SHARED Models/lib/shed8x10.ac -3.71102 50.36591 188.26 5.97
+OBJECT_SHARED Models/lib/coal_pile.ac -3.71003 50.36578 186.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -3.71081 50.36567 188.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -3.71111 50.36577 186.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -3.71127 50.36585 186.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -3.71072 50.36432 185.38 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -3.71070 50.36445 181.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -3.70449 50.36576 182.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -3.70463 50.36574 188.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -3.70488 50.36571 188.35 0
+# END dsf2stg

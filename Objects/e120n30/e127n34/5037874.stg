@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 127.61442 34.84001 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 127.61414 34.84058 13.60 0
+OBJECT_SHARED Models/lib/lamp10m.xml 127.61363 34.84155 13.68 0
+OBJECT_SHARED Models/lib/lamp10m.xml 127.61345 34.84191 13.70 0
+OBJECT_SHARED Models/lib/lamp10m.xml 127.61322 34.84239 14.16 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 127.61345 34.84248 14.07 291.94
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 127.61464 34.84027 14.06 247.03
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 127.61436 34.84088 12.99 247.03
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 127.61394 34.84157 13.70 247.03
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 127.61369 34.84199 13.70 291.94
+OBJECT_SHARED Models/lib/FireStationLg.ac 127.61332 34.84146 13.67 23.08
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 127.61383 34.83830 14.20 21.15
+OBJECT_SHARED Models/lib/canopy18x8.ac 127.61324 34.84044 13.18 200.8
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 127.61325 34.83995 14.22 203.2
+OBJECT_SHARED Models/lib/20_spaces_dual.ac 127.61308 34.83989 14.19 203.2
+OBJECT_SHARED Models/lib/cars10.ac 127.61274 34.84098 14.19 294.54
+OBJECT_SHARED Models/lib/cars10.ac 127.61258 34.84093 14.23 294.54
+OBJECT_SHARED Models/lib/cars10.ac 127.61288 34.84071 14.23 114.77
+OBJECT_SHARED Models/lib/cars10.ac 127.61272 34.84066 14.23 114.77
+OBJECT_SHARED Models/lib/cars14.ac 127.61356 34.83943 14.23 24.36
+OBJECT_SHARED Models/lib/cars14.ac 127.61339 34.83937 13.49 24.36
+OBJECT_SHARED Models/lib/cars10.ac 127.61298 34.84047 14.82 294.05
+OBJECT_SHARED Models/lib/cars10.ac 127.61294 34.84014 14.22 114.77
+OBJECT_SHARED Models/lib/4space_wStop.ac 127.61414 34.83952 14.20 296.56
+OBJECT_SHARED Models/lib/garage-small-white.ac 127.62351 34.84363 13.51 343.3
+OBJECT_SHARED Models/lib/garage-small-white.ac 127.62129 34.84321 1.00 333.43
+OBJECT_SHARED Models/lib/garage-small-white.ac 127.62099 34.84260 3.18 187.49
+OBJECT_SHARED Models/lib/garage-small-white.ac 127.61956 34.84567 3.32 21.8
+OBJECT_SHARED Models/lib/garage-small-white.ac 127.61972 34.84547 2.17 33.69
+OBJECT_SHARED Models/lib/garage-small-white.ac 127.61973 34.84362 2.83 357.61
+OBJECT_SHARED Models/lib/garage-small-white.ac 127.61917 34.84440 4.96 14.74
+OBJECT_SHARED Models/lib/garage-small-white.ac 127.61892 34.84453 7.86 54.46
+# END dsf2stg

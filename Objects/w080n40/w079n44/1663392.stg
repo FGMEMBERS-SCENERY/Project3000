@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -78.89166 44.53955 0.00 321.48
+OBJECT_SHARED Models/lib/prop_a.ac -78.89148 44.53979 259.12 146.85
+OBJECT_SHARED Models/lib/prop_a.ac -78.89129 44.54005 259.46 345.78
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -78.89067 44.54010 259.78 0
+OBJECT_SHARED Models/lib/SmHangar.ac -78.89103 44.54027 260.67 117.94
+OBJECT_SHARED Models/lib/SmHangar.ac -78.89097 44.54019 260.23 118.25
+OBJECT_SHARED Models/lib/SmHangar.ac -78.89073 44.54014 260.25 27.44
+# END dsf2stg

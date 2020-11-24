@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -5.91519 35.72320 0.00 13.08
+OBJECT_SHARED Models/lib/admin-with-cars.ac -5.91466 35.72666 9.28 3.46
+OBJECT_SHARED Models/lib/FireStationLg.ac -5.91400 35.72805 11.38 90.72
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -5.91273 35.72567 12.52 183.67
+OBJECT_SHARED Models/lib/fuel-truck.xml -5.91332 35.72358 11.67 204.64
+OBJECT_SHARED Models/lib/SmHangar.ac -5.91343 35.72340 10.20 201.04
+OBJECT_SHARED Models/lib/SmHangar.ac -5.91285 35.72339 10.04 273.6
+OBJECT_SHARED Models/lib/prop_a.ac -5.91449 35.72344 10.27 7.85
+OBJECT_SHARED Models/lib/prop_a.ac -5.91414 35.72361 9.65 9.62
+OBJECT_SHARED Models/lib/prop_a.ac -5.91416 35.72373 9.89 6.94
+OBJECT_SHARED Models/lib/lamp10m.xml -5.91550 35.72615 9.94 2.54001
+OBJECT_SHARED Models/lib/lamp10m.xml -5.91102 35.72588 10.71 93.58
+OBJECT_SHARED Models/lib/lamp10m.xml -5.91180 35.72584 12.54 93.69
+OBJECT_SHARED Models/lib/lamp10m.xml -5.91261 35.72581 12.13 93.95
+OBJECT_SHARED Models/lib/lamp10m.xml -5.91369 35.72571 11.78 94.7
+OBJECT_SHARED Models/lib/lamp10m.xml -5.91523 35.72570 11.25 95.08
+OBJECT_SHARED Models/lib/lamp10m.xml -5.91553 35.72707 10.59 3.06
+# END dsf2stg

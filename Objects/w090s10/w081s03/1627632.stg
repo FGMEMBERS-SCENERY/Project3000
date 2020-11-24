@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.99073 -2.19880 0.00 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -80.97452 -2.21409 11.00 320.13
+OBJECT_SHARED Models/lib/industrial13x24.ac -80.99313 -2.20110 4.99 96.71
+OBJECT_SHARED Models/lib/office6x12.ac -80.99269 -2.20077 11.07 128.99
+OBJECT_SHARED Models/lib/office8x14.ac -80.99365 -2.20105 10.35 31.43
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -80.98246 -2.20823 11.26 140.8
+OBJECT_SHARED Models/lib/lamp10m.xml -80.97499 -2.21554 5.56 48.37
+OBJECT_SHARED Models/lib/lamp10m.xml -80.97654 -2.21422 4.17 232.05
+OBJECT_SHARED Models/lib/lamp10m.xml -80.97462 -2.21507 4.37 49.27
+OBJECT_SHARED Models/lib/lamp10m.xml -80.97619 -2.21379 4.51 229.22
+OBJECT_SHARED Models/lib/lamp10m.xml -80.97536 -2.21396 4.67 138.72
+OBJECT_SHARED Models/lib/lamp10m.xml -80.97496 -2.21427 4.80 138.72
+OBJECT_SHARED Models/lib/cars6.ac -80.98270 -2.20863 4.77 50.88
+OBJECT_SHARED Models/lib/cars6.ac -80.97714 -2.21216 5.34 231.84
+OBJECT_SHARED Models/lib/cars2.ac -80.97459 -2.21406 5.03 323.71
+OBJECT_SHARED Models/lib/cars6.ac -80.97474 -2.21395 4.98 320.95
+OBJECT_SHARED Models/lib/cars6.ac -80.97526 -2.21320 5.00 50.04
+OBJECT_SHARED Models/lib/cars4.ac -80.97477 -2.21336 5.12 229.34
+OBJECT_SHARED Models/lib/cars4.ac -80.97479 -2.21350 5.20 49.82
+OBJECT_SHARED Models/lib/cars6.ac -80.97470 -2.21365 5.16 51.07
+OBJECT_SHARED Models/lib/cars6.ac -80.97447 -2.21360 5.13 229.79
+OBJECT_SHARED Models/lib/cars6.ac -80.97461 -2.21349 5.20 229.79
+OBJECT_SHARED Models/lib/cars6.ac -80.97490 -2.21325 5.22 230.74
+OBJECT_SHARED Models/lib/cars6.ac -80.97504 -2.21315 5.21 230.74
+OBJECT_SHARED Models/lib/cars6.ac -80.97498 -2.21341 5.21 51.07
+OBJECT_SHARED Models/lib/cars6.ac -80.97512 -2.21330 5.13 51.07
+OBJECT_SHARED Models/lib/cars2.ac -80.99223 -2.20019 5.14 32.41
+OBJECT_SHARED Models/lib/cars4.ac -80.99212 -2.20005 11.22 34.75
+OBJECT_SHARED Models/lib/cars6.ac -80.99179 -2.19998 12.12 34.58
+OBJECT_SHARED Models/lib/cars10.ac -80.99012 -2.19943 12.66 35.76
+OBJECT_SHARED Models/lib/cars10.ac -80.98972 -2.19914 10.19 35.57
+OBJECT_SHARED Models/lib/cars6.ac -80.98965 -2.19854 9.17 302.72
+OBJECT_SHARED Models/lib/cars6.ac -80.99250 -2.19974 8.58 25.26
+OBJECT_SHARED Models/lib/cars10.ac -80.99141 -2.19923 11.52 7.32
+OBJECT_SHARED Models/lib/cars10.ac -80.99407 -2.20141 12.27 35.13
+OBJECT_SHARED Models/lib/cars6.ac -80.99349 -2.20140 10.46 35.13
+OBJECT_SHARED Models/lib/trailer-fedex.ac -80.99237 -2.20067 12.39 341.11
+OBJECT_SHARED Models/lib/trailer-fedex.ac -80.99244 -2.20079 10.95 341.7
+OBJECT_SHARED Models/lib/trailer-fedex.ac -80.99247 -2.20053 10.89 49.83
+OBJECT_SHARED Models/lib/trailer-fedex.ac -80.99253 -2.20049 10.85 45.7
+OBJECT_SHARED Models/Transport/Norberttruck.xml -80.99243 -2.20073 10.87 163.1
+# END dsf2stg

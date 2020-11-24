@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac 34.51886 38.77514 0.00 63.31
+OBJECT_SHARED Models/lib/SmHangar.ac 34.51991 38.77248 938.40 63.78
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 34.51992 38.77305 942.22 155.7
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 34.51987 38.77295 941.54 0
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 34.51987 38.77290 941.54 0
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 34.51989 38.77296 941.68 90
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 34.51974 38.77297 941.54 90
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 34.51979 38.77295 941.49 90
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 34.51984 38.77292 941.65 90
+OBJECT_SHARED Models/lib/belt_loader.ac 34.52488 38.77220 941.65 63.44
+OBJECT_SHARED Models/lib/belt_loader.ac 34.52334 38.77282 943.25 251.57
+OBJECT_SHARED Models/lib/belt_loader.ac 34.52373 38.77268 942.34 78.69
+OBJECT_SHARED Models/lib/belt_loader.ac 34.52429 38.77243 942.50 270
+OBJECT_SHARED Models/lib/belt_loader.ac 34.52527 38.77203 942.96 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 34.52340 38.77281 943.53 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 34.52378 38.77266 942.34 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 34.52433 38.77243 942.51 270
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 34.52483 38.77221 942.96 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 34.52534 38.77202 943.25 225
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 34.52543 38.77160 943.53 90
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 34.52541 38.77162 944.08 90
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 34.52531 38.77165 944.08 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 34.52534 38.77164 944.09 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 34.52538 38.77162 944.09 0
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 34.52531 38.77167 944.08 340.56
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 34.52535 38.77169 943.95 330.94
+OBJECT_SHARED Models/lib/office40x25.ac 34.53107 38.76999 943.95 154.83
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 34.53218 38.77012 850.08 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 34.53233 38.77006 849.53 0
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 34.53211 38.76993 944.49 154.36
+OBJECT_SHARED Models/lib/office32x25.ac 34.53157 38.77027 944.80 63.08
+OBJECT_SHARED Models/lib/office32x25.ac 34.53184 38.76955 944.53 243.91
+OBJECT_SHARED Models/lib/fuel-truck.xml 34.53099 38.77053 945.28 160.02
+OBJECT_SHARED Models/lib/fuel-truck.xml 34.53113 38.77052 944.51 158.96
+OBJECT_SHARED Models/lib/fuel-truck.xml 34.53108 38.77053 944.47 160.2
+OBJECT_SHARED Models/lib/lamp10m.xml 34.52540 38.77205 944.47 0
+OBJECT_SHARED Models/lib/lamp10m.xml 34.52489 38.77225 943.53 0
+OBJECT_SHARED Models/lib/lamp10m.xml 34.52443 38.77244 943.11 0
+OBJECT_SHARED Models/lib/lamp10m.xml 34.52390 38.77265 942.96 0
+OBJECT_SHARED Models/lib/lamp10m.xml 34.52339 38.77285 942.66 0
+OBJECT_SHARED Models/lib/office32x25n.ac 34.51933 38.77334 942.20 152
+OBJECT_SHARED Models/lib/office65x50.ac 34.52452 38.77153 940.99 62.21
+OBJECT_SHARED Models/lib/FireStationLg.ac 34.52846 38.77102 944.23 61.67
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 34.52259 38.77256 944.55 332.77
+# END dsf2stg

@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargoip.xml -100.00112 42.57598 0.00 257.91
+OBJECT_SHARED Models/Airport/cargoip.xml -100.00112 42.57600 786.36 104.04
+OBJECT_SHARED Models/Airport/cargobox.xml -100.00112 42.57602 786.36 10.62
+OBJECT_SHARED Models/Airport/cargobox.xml -100.00133 42.57606 786.36 101.89
+OBJECT_SHARED Models/Airport/cargobox.xml -100.00130 42.57606 786.36 0
+OBJECT_SHARED Models/Airport/cargobox.xml -100.00127 42.57607 786.36 91.85
+OBJECT_SHARED Models/lib/lamp10m.xml -100.00069 42.57726 786.36 77.24
+OBJECT_SHARED Models/lib/shed8x10.ac -100.00083 42.57740 786.32 180.54
+OBJECT_SHARED Models/lib/cars6.ac -100.00101 42.57726 786.32 346.74
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.00112 42.57899 786.32 26.56
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.00112 42.57883 786.27 246.8
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.00176 42.57838 786.28 151.11
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.00216 42.57836 786.37 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.00117 42.57891 786.37 38.37
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.00188 42.57838 786.28 293.63
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.00259 42.57822 786.37 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.00227 42.57836 785.99 99.46
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.00205 42.57838 786.37 42.27
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.00167 42.57837 786.37 192.53
+OBJECT_SHARED Models/lib/MedHangar.ac -100.00070 42.57603 786.37 179.99
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.00220 42.57662 786.36 331.97
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.00178 42.57635 786.44 106.74
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.00243 42.57680 786.45 317.79
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.00186 42.57670 786.43 17.28
+OBJECT_SHARED Models/lib/SmHangar.ac -100.00021 42.57725 786.44 90.31
+OBJECT_SHARED Models/lib/MedHangar.ac -100.00100 42.57679 786.27 180.3
+OBJECT_SHARED Models/lib/SmHangar.ac -100.00111 42.57543 786.34 179.86
+OBJECT_SHARED Models/lib/hangar81x16.ac -100.00120 42.57417 786.39 90.91
+OBJECT_SHARED Models/lib/office8x14.ac -100.00221 42.57889 785.91 90.03
+# END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -88.76681 43.62494 282.64 309.286
+OBJECT_SHARED Models/lib/SmHangar.ac -88.76565 43.62500 283.00 0.899521
+OBJECT_SHARED Models/lib/SmHangar.ac -88.76582 43.62407 283.00 88.8959
+OBJECT_SHARED Models/lib/SmHangar.ac -88.76582 43.62401 282.98 88.8959
+OBJECT_SHARED Models/lib/SmHangar.ac -88.76585 43.62368 282.64 0.410622
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -88.76581 43.62487 283.05 5.16916
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -88.76588 43.62487 282.83 180.398
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -88.76593 43.62487 282.81 180.003
+OBJECT_SHARED Models/Transport/Norberttruck.xml -88.76682 43.62478 282.81 284.458
+OBJECT_SHARED Models/lib/trailer-fedex.ac -88.76690 43.62479 282.88 98.1849
+# END dsf2stg

@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -91.76994 38.13282 0.00 44
+OBJECT_SHARED Models/lib/LongRow.ac -91.76886 38.13360 339.67 44
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -91.77366 38.13534 338.28 319.05
+OBJECT_SHARED Models/lib/lamp10m.xml -91.77257 38.13134 341.68 135.56
+OBJECT_SHARED Models/lib/lamp10m.xml -91.77156 38.13204 342.80 135.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.75882 38.13612 341.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.75905 38.13605 339.24 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.75926 38.13591 338.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.75888 38.13652 338.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.75920 38.13651 338.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.75940 38.13651 338.09 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.75948 38.13660 337.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.75961 38.13642 337.53 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.75976 38.13649 337.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.76017 38.13641 337.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.77262 38.13246 336.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.77303 38.13491 342.06 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.77177 38.13405 341.30 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.77172 38.13387 340.61 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.77184 38.13362 340.63 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.77227 38.13232 340.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -91.77292 38.13271 341.93 0
+OBJECT_SHARED Models/lib/cars10.ac -91.77171 38.13244 342.16 42.39
+OBJECT_SHARED Models/lib/cars10.ac -91.77132 38.13250 341.39 223.23
+OBJECT_SHARED Models/lib/MedHangar.ac -91.77234 38.13169 341.00 133.76
+OBJECT_SHARED Models/lib/FireStationLg.ac -91.77302 38.13097 342.32 314.02
+OBJECT_SHARED Models/lib/LongRow.ac -91.77315 38.13033 343.25 133.83
+OBJECT_SHARED Models/lib/SmHangar.ac -91.77328 38.13073 343.79 134.26
+OBJECT_SHARED Models/lib/MedHangar.ac -91.77110 38.13208 343.61 43.78
+OBJECT_SHARED Models/lib/prop_a.ac -91.77147 38.13155 341.14 223.65
+OBJECT_SHARED Models/lib/prop_a.ac -91.77156 38.13165 341.90 45.43
+OBJECT_SHARED Models/lib/prop_a.ac -91.77217 38.13097 341.82 315
+# END dsf2stg

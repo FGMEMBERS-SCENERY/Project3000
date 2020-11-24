@@ -1,0 +1,55 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 1.72595 52.63571 0.00 0
+OBJECT_SHARED Models/lib/shed8x10.ac 1.72704 52.63565 -0.88 113.02
+OBJECT_SHARED Models/lib/schranke.ac 1.72704 52.63574 -0.81 204.15
+OBJECT_SHARED Models/Transport/hatchback_green.ac 1.72358 52.63675 -0.83 108.43
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 1.72708 52.63569 -0.68 294.58
+OBJECT_SHARED Models/Transport/van_silver.ac 1.72604 52.63765 -0.82 181.91
+OBJECT_SHARED Models/Transport/van_red.ac 1.72608 52.63763 -1.44 181.36
+OBJECT_SHARED Models/Transport/hatchback_black.ac 1.72608 52.63767 -1.44 182.56
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 1.72611 52.63769 -1.50 173.29
+OBJECT_SHARED Models/Transport/van_silver.ac 1.72612 52.63763 -1.50 189.46
+OBJECT_SHARED Models/Transport/hatchback_black.ac 1.72614 52.63758 -1.44 181.4
+OBJECT_SHARED Models/lib/coal_pile.ac 1.72416 52.63722 -1.44 269.41
+OBJECT_SHARED Models/lib/coal_pile.ac 1.72405 52.63720 -0.96 218.66
+OBJECT_SHARED Models/lib/coal_pile.ac 1.72394 52.63726 -0.92 288.1
+OBJECT_SHARED Models/lib/coal_pile.ac 1.72404 52.63726 -0.93 219.29
+OBJECT_SHARED Models/lib/coal_pile.ac 1.72404 52.63733 -0.95 268.36
+OBJECT_SHARED Models/lib/coal_pile.ac 1.72394 52.63736 -0.95 242.95
+OBJECT_SHARED Models/Airport/cargobox.xml 1.72353 52.63670 -0.96 185.71
+OBJECT_SHARED Models/Airport/cargobox.xml 1.72356 52.63671 -0.67 192.8
+OBJECT_SHARED Models/Airport/cargobox.xml 1.72366 52.63675 -0.68 204.27
+OBJECT_SHARED Models/Airport/cargobox.xml 1.72366 52.63677 -0.70 199.01
+OBJECT_SHARED Models/Airport/cargobox.xml 1.72365 52.63680 -0.69 123.15
+OBJECT_SHARED Models/Airport/cargobox.xml 1.72362 52.63681 -0.69 108.26
+OBJECT_SHARED Models/Airport/cargobox.xml 1.72362 52.63674 -0.69 113.9
+OBJECT_SHARED Models/Airport/cargobox.xml 1.72360 52.63671 -0.69 111.61
+OBJECT_SHARED Models/Airport/cargobox.xml 1.72363 52.63672 -0.68 110.77
+OBJECT_SHARED Models/Airport/cargobox.xml 1.72367 52.63673 -0.69 105.64
+OBJECT_SHARED Models/lib/HorizTanks2.ac 1.72320 52.63725 -0.67 197.71
+OBJECT_SHARED Models/lib/cars4.ac 1.72818 52.63586 -0.72 176.07
+OBJECT_SHARED Models/lib/cars4.ac 1.72802 52.63563 -0.69 355.03
+OBJECT_SHARED Models/lib/cars4.ac 1.72824 52.63553 -0.71 267.61
+OBJECT_SHARED Models/lib/4space_wStop.ac 1.72359 52.63716 -0.70 288.55
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72372 52.63732 -0.80 0.870003
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72192 52.63693 -0.86 288.52
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72219 52.63699 -0.39 288.52
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72247 52.63705 -0.39 288.52
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72220 52.63712 -0.44 105.43
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72192 52.63707 -0.39 104.58
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72118 52.63668 -0.35 353.39
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72089 52.63688 -0.41 107.63
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72061 52.63683 -0.32 107.63
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72053 52.63661 -0.37 184.84
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72055 52.63644 -0.54 184.84
+OBJECT_SHARED Models/lib/6space_wStop.ac 1.72094 52.63636 -0.69 288.38
+OBJECT_SHARED Models/lib/4_spaces_dual.ac 1.72097 52.63651 -0.62 96.45
+OBJECT_SHARED Models/lib/4_spaces_dual.ac 1.72076 52.63647 -0.54 96.45
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 1.72092 52.63671 -0.57 6.58
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 1.72072 52.63666 -0.39 6.58
+OBJECT_SHARED Models/lib/cars2.ac 1.72819 52.63528 -0.42 268.42
+OBJECT_SHARED Models/lib/cars2.ac 1.72791 52.63552 -0.71 87.4
+OBJECT_SHARED Models/lib/4space_wStop.ac 1.72347 52.63728 -0.72 165.55
+# END dsf2stg

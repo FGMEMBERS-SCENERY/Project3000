@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -6.07002 36.74495 29.00 0
+OBJECT_SHARED Models/lib/fboModern1.ac -6.06900 36.74566 28.36 88.28
+OBJECT_SHARED Models/lib/MedHangar.ac -6.06889 36.74522 28.61 358.24
+OBJECT_SHARED Models/lib/lamp10m.xml -6.06452 36.74803 27.98 0
+OBJECT_SHARED Models/lib/lamp10m.xml -6.06425 36.74859 28.16 0
+OBJECT_SHARED Models/lib/lamp10m.xml -6.06397 36.74915 28.42 0
+OBJECT_SHARED Models/lib/lamp10m.xml -6.06374 36.74963 28.59 0
+OBJECT_SHARED Models/lib/MedHangar.ac -6.06463 36.74857 29.24 157.95
+OBJECT_SHARED Models/lib/fuel-truck.xml -6.06418 36.74668 28.62 0
+OBJECT_SHARED Models/lib/fuel-truck.xml -6.06414 36.74600 27.09 356.91
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -6.06440 36.74606 26.60 87.66
+OBJECT_SHARED Models/lib/HorizTanks2.ac -6.06431 36.74616 26.80 177.95
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -6.06438 36.74625 26.82 357.71
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -6.06466 36.74771 26.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -6.06444 36.74817 28.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -6.06438 36.74856 28.25 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -6.06415 36.74894 28.49 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -6.06411 36.74908 28.56 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -6.06534 36.74466 29.34 358.51
+# END dsf2stg

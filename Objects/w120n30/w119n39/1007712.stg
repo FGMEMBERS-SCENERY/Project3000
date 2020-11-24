@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac -118.75168 39.50031 1205.94 217.168
+OBJECT_SHARED Models/lib/prop_a.ac -118.75170 39.50001 1205.94 309.67
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -118.75129 39.50015 1205.50 129.736
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -118.75126 39.50013 1205.07 308.991
+OBJECT_SHARED Models/lib/watertank3x1.ac -118.75123 39.50011 1205.07 310.426
+OBJECT_SHARED Models/lib/watertank3x1.ac -118.75121 39.50009 1205.07 311.112
+OBJECT_SHARED Models/lib/watertank3x1.ac -118.75119 39.50007 1205.07 312.089
+# END dsf2stg

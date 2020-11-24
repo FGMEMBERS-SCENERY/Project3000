@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 139.86956 -36.82231 0.00 152.58
+OBJECT_SHARED Models/lib/office3x10.ac 139.86948 -36.82231 2.22 330.44
+OBJECT_SHARED Models/lib/SmHangar.ac 139.86986 -36.82240 2.33 330.94
+OBJECT_SHARED Models/Transport/van_red.ac 139.86963 -36.82260 2.20 220.18
+OBJECT_SHARED Models/Transport/van_red.ac 139.86959 -36.82262 2.17 207.57
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 139.86967 -36.82259 2.17 0
+OBJECT_SHARED Models/Transport/van_red.ac 139.86956 -36.82263 2.17 202.23
+OBJECT_SHARED Models/lib/watertank3x1.ac 139.86973 -36.82266 2.17 59.91
+OBJECT_SHARED Models/lib/shed8x10.ac 139.86946 -36.82249 2.16 62.34
+OBJECT_SHARED Models/lib/shed8x10.ac 139.87008 -36.82243 2.30 62.93
+OBJECT_SHARED Models/lib/shed8x10.ac 139.87002 -36.82253 2.20 62.6
+OBJECT_SHARED Models/lib/shed8x10.ac 139.86977 -36.82291 2.19 243
+OBJECT_SHARED Models/lib/shed8x10.ac 139.86985 -36.82279 2.12 242.88
+OBJECT_SHARED Models/lib/industrial13x24.ac 139.86975 -36.82258 2.14 331.34
+# END dsf2stg

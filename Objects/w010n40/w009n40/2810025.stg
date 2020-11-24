@@ -1,6 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -8.73873 40.65902 1.94 66.89
-OBJECT_SHARED Models/lib/large-hangar.ac -8.73765 40.65898 3.35 337.07
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -8.73873 40.65902 0.00 66.89
+OBJECT_SHARED Models/lib/large-hangar.ac -8.73765 40.65898 2.87 337.07
+OBJECT_SHARED Models/lib/MedHangar.ac -8.73547 40.65790 3.34 277.56
+OBJECT_SHARED Models/lib/SmHangar.ac -8.73806 40.65892 2.57 152.22
 # END dsf2stg

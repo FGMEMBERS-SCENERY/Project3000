@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -97.10609 40.86383 0.00 180
+OBJECT_SHARED Models/lib/lamp10m.xml -97.10591 40.86358 456.76 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.10393 40.86428 456.75 359
+OBJECT_SHARED Models/lib/lamp10m.xml -97.10591 40.86241 454.08 -0.309998
+OBJECT_SHARED Models/lib/lamp10m.xml -97.10591 40.86216 457.00 -0.059998
+OBJECT_SHARED Models/lib/cone.ac -97.10622 40.86296 457.03 58.44
+OBJECT_SHARED Models/lib/stack_of_cones.ac -97.10606 40.86275 456.96 58.44
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -97.10620 40.86299 456.99 0.290009
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.10621 40.86274 456.96 58.44
+OBJECT_SHARED Models/Misc/6barrels.ac -97.10600 40.86295 457.02 58.44
+OBJECT_SHARED Models/Misc/6barrels.ac -97.10597 40.86295 456.91 58.44
+OBJECT_SHARED Models/lib/2vending-machines.ac -97.10620 40.86297 456.91 270.64
+OBJECT_SHARED Models/lib/garages22x9.ac -97.10420 40.86377 456.96 90
+OBJECT_SHARED Models/lib/garages22x9.ac -97.10427 40.86377 454.14 90
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.10396 40.86386 454.19 156.89
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.10408 40.86386 454.04 155.48
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.10417 40.86447 454.09 88.6
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -97.10414 40.86386 454.08 160.3
+OBJECT_SHARED Models/lib/cars2.ac -97.10591 40.86415 454.09 90
+OBJECT_SHARED Models/lib/cars2.ac -97.10603 40.86372 456.62 90
+OBJECT_SHARED Models/lib/6space_wStop.ac -97.10565 40.86371 456.76 1.01
+OBJECT_SHARED Models/lib/propane-tank.ac -97.10584 40.86297 456.68 266.73
+OBJECT_SHARED Models/lib/propane-tank.ac -97.10603 40.86413 456.86 180
+OBJECT_SHARED Models/lib/prop_a.ac -97.10649 40.86430 456.66 269.19
+# END dsf2stg

@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -10.22609 8.36190 438.17 180.01
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -10.22635 8.36239 438.45 0
-OBJECT_SHARED Models/lib/HorizTanks2.ac -10.22630 8.36241 438.45 90
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -10.22609 8.36190 0.00 180.01
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -10.22635 8.36239 438.34 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -10.22630 8.36241 438.60 90
 # END dsf2stg

@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -90.99413 33.48525 0.00 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -90.99404 33.48612 38.53 0
+OBJECT_SHARED Models/lib/RampParking.xml -90.98974 33.48226 38.50 301.33
+OBJECT_SHARED Models/lib/RampParking.xml -90.98973 33.48167 38.32 231.04
+OBJECT_SHARED Models/lib/LgMaint.ac -90.99447 33.47718 38.34 90
+OBJECT_SHARED Models/lib/MedHangar.ac -90.99212 33.47746 38.62 135
+OBJECT_SHARED Models/lib/SmHangar.ac -90.99061 33.47873 38.70 135
+OBJECT_SHARED Models/lib/MedHangar.ac -90.99002 33.47919 38.58 135
+OBJECT_SHARED Models/lib/MedHangar.ac -90.99130 33.47815 38.49 135
+OBJECT_SHARED Models/lib/MedHangar.ac -90.99099 33.47840 38.66 135
+OBJECT_SHARED Models/lib/LongRow.ac -90.99039 33.47901 38.62 135
+OBJECT_SHARED Models/lib/FireStationLg.ac -90.99179 33.48342 38.54 135
+OBJECT_SHARED Models/lib/fboModern1.ac -90.99025 33.48271 38.50 180
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -90.99032 33.48108 38.37 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -90.99001 33.48195 38.37 0
+OBJECT_SHARED Models/lib/office40x25.ac -90.99014 33.48158 38.37 90
+OBJECT_SHARED Models/lib/office40x25.ac -90.99021 33.48215 38.39 270
+OBJECT_SHARED Models/lib/MedHangar.ac -90.99575 33.48549 38.39 180
+OBJECT_SHARED Models/lib/LgMaint.ac -90.99370 33.48656 38.53 90
+OBJECT_SHARED Models/lib/MedHangar.ac -90.99529 33.48655 38.47 90
+OBJECT_SHARED Models/lib/large-hangar.ac -90.99263 33.48412 38.51 315
+OBJECT_SHARED Models/lib/LgMaint.ac -90.99381 33.48318 38.53 90
+OBJECT_SHARED Models/lib/LgMaint.ac -90.99381 33.48475 38.60 270
+# END dsf2stg

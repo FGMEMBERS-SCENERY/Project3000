@@ -1,20 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/watertank3x1.ac -115.32844 33.75453 161.18 255.43
-OBJECT_SHARED Models/lib/stack_of_cones.ac -115.32836 33.75459 161.18 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -115.32844 33.75459 161.18 0
-OBJECT_SHARED Models/lib/propane-tank.ac -115.32846 33.75454 161.18 71.91
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32836 33.75451 161.18 180
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32836 33.75452 161.18 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32844 33.75461 161.18 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32843 33.75461 161.18 0
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.32844 33.75461 161.18 0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -115.32844 33.75428 161.17 346.08
-OBJECT_SHARED Models/Transport/hatchback_black.ac -115.32851 33.75430 161.68 345.14
-OBJECT_SHARED Models/Transport/hatchback_black.ac -115.32855 33.75431 161.68 343.27
-OBJECT_SHARED Models/lib/farm19x12.ac -115.32848 33.75435 161.17 254.07
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -115.32815 33.75464 161.18 205.87
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -115.32872 33.75350 161.61 255.17
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -115.32825 33.75445 161.17 21.8
+OBJECT_SHARED Models/lib/watertank3x1.ac -115.33090 33.75402 0.00 259.35
+OBJECT_SHARED Models/lib/stack_of_cones.ac -115.33083 33.75409 162.78 3.92001
+OBJECT_SHARED Models/lib/stack_of_cones.ac -115.33092 33.75408 162.87 3.92001
+OBJECT_SHARED Models/lib/propane-tank.ac -115.33093 33.75404 162.87 75.83
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.33083 33.75401 162.78 183.92
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.33082 33.75402 162.78 3.92001
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.33091 33.75410 162.78 3.92001
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.33090 33.75411 162.87 3.92001
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -115.33091 33.75411 162.87 3.92001
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -115.33089 33.75378 162.87 350
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -115.33096 33.75379 162.75 349.06
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -115.33099 33.75380 162.75 347.19
+OBJECT_SHARED Models/lib/farm19x12.ac -115.33093 33.75384 162.75 257.99
 # END dsf2stg

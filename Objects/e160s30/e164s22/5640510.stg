@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 164.83841 -21.05404 0.00 0
+OBJECT_SHARED Models/lib/prop_a.ac 164.83946 -21.05447 8.12 262.362
+OBJECT_SHARED Models/lib/lamp10m.xml 164.83870 -21.05451 7.19 80.19
+OBJECT_SHARED Models/lib/lamp10m.xml 164.83842 -21.05446 7.19 83.56
+OBJECT_SHARED Models/lib/lamp10m.xml 164.84032 -21.05485 7.45 350.93
+OBJECT_SHARED Models/lib/lamp10m.xml 164.83976 -21.05472 7.00 351.06
+OBJECT_SHARED Models/lib/lamp10m.xml 164.83916 -21.05462 7.14 350.93
+OBJECT_SHARED Models/lib/lamp10m.xml 164.83928 -21.05425 7.03 81.19
+OBJECT_SHARED Models/lib/lamp10m.xml 164.83877 -21.05440 7.72 348.37
+OBJECT_SHARED Models/lib/lamp10m.xml 164.83834 -21.05432 7.36 350.37
+OBJECT_SHARED Models/lib/schranke.ac 164.83874 -21.05459 7.72 175.81
+OBJECT_SHARED Models/lib/6space_wStop.ac 164.83824 -21.05451 7.03 170.84
+OBJECT_SHARED Models/lib/4space_wStop.ac 164.83847 -21.05466 7.45 259.38
+OBJECT_SHARED Models/lib/6space_wStop.ac 164.83861 -21.05468 7.09 260.28
+OBJECT_SHARED Models/lib/4space_wStop.ac 164.83841 -21.05447 6.88 80.75
+OBJECT_SHARED Models/Transport/hatchback_green.ac 164.83852 -21.05455 7.45 81.55
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 164.83850 -21.05451 7.03 348.37
+OBJECT_SHARED Models/Transport/van_red.ac 164.83828 -21.05447 7.45 78.52
+OBJECT_SHARED Models/Transport/hatchback_black.ac 164.83827 -21.05450 7.45 77.01
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 164.83842 -21.05450 7.45 348.69
+OBJECT_SHARED Models/Transport/hatchback_green.ac 164.83863 -21.05466 7.45 171.75
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 164.83860 -21.05465 6.88 170.36
+OBJECT_SHARED Models/Transport/van_silver.ac 164.83855 -21.05452 6.88 349.14
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 164.83858 -21.05452 7.19 346.84
+OBJECT_SHARED Models/Transport/hatchback_red.ac 164.83861 -21.05452 7.19 348.83
+OBJECT_SHARED Models/Transport/hatchback_green.ac 164.83863 -21.05453 7.19 349.26
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 164.83866 -21.05453 7.19 351.03
+OBJECT_SHARED Models/lib/watertank3x1.ac 164.83819 -21.05446 7.19 347.28
+OBJECT_SHARED Models/lib/HorizTanks2.ac 164.83921 -21.05470 7.45 170.54
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 164.83960 -21.05473 6.88 169.22
+OBJECT_SHARED Models/lib/SmHangar.ac 164.83935 -21.05464 7.14 260.54
+OBJECT_SHARED Models/lib/SmHangar.ac 164.83893 -21.05465 7.03 350.54
+OBJECT_SHARED Models/lib/admin31x12.ac 164.83854 -21.05440 6.88 79.83
+OBJECT_SHARED Models/Airport/cargoip.xml 164.84058 -21.05467 7.36 87.32
+OBJECT_SHARED Models/Airport/cargoip.xml 164.84057 -21.05469 6.75 262.3
+OBJECT_SHARED Models/Airport/cargoip.xml 164.84057 -21.05471 6.75 75.17
+OBJECT_SHARED Models/Airport/cargoip.xml 164.84056 -21.05473 6.75 72.18
+OBJECT_SHARED Models/Airport/cargoip.xml 164.84055 -21.05475 6.75 75.17
+OBJECT_SHARED Models/Airport/cargoip.xml 164.84055 -21.05477 6.75 76.43
+OBJECT_SHARED Models/Airport/cargoip.xml 164.84055 -21.05480 6.63 0
+# END dsf2stg

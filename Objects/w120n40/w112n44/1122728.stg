@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -111.89375 44.68114 0.00 90.746
+OBJECT_SHARED Models/lib/industrial13x24.ac -111.89410 44.68117 2029.14 178.919
+OBJECT_SHARED Models/lib/garden-shed.ac -111.89390 44.68128 2029.18 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.89426 44.68100 2029.23 272.386
+# END dsf2stg

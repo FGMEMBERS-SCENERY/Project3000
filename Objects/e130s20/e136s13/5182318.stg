@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 136.82236 -12.26971 0.00 216.53
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 136.82259 -12.26990 57.93 325.78
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 136.82268 -12.26903 58.20 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 136.82227 -12.26890 58.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 136.82283 -12.26968 59.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 136.82265 -12.26953 58.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 136.82256 -12.26947 58.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 136.82274 -12.26962 58.54 0
+OBJECT_SHARED Models/lib/MedHangar.ac 136.82532 -12.27349 58.45 49.83
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 136.82663 -12.27437 55.51 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 136.82642 -12.27423 55.87 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 136.82632 -12.27417 54.79 153.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml 136.82633 -12.27428 54.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 136.82649 -12.27425 54.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 136.82668 -12.27446 54.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 136.82655 -12.27435 55.18 0
+OBJECT_SHARED Models/lib/SmHangar.ac 136.82654 -12.27449 55.87 48.46
+OBJECT_SHARED Models/lib/SmHangar.ac 136.82643 -12.27439 55.18 48.46
+OBJECT_SHARED Models/lib/fboModern1.ac 136.82483 -12.27320 54.66 49.49
+OBJECT_SHARED Models/lib/cars10.ac 136.82422 -12.27243 55.72 358.45
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 136.82206 -12.27014 56.39 53.67
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 136.82208 -12.27010 57.64 53.63
+OBJECT_SHARED Models/lib/belt_loader.ac 136.82205 -12.27010 57.64 49.4
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 136.82206 -12.27002 57.64 205.64
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 136.82203 -12.27001 57.71 142.31
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 136.82203 -12.27005 57.71 143.37
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 136.82201 -12.27010 57.64 135.5
+OBJECT_SHARED Models/lib/cars6.ac 136.82282 -12.26933 57.64 140.57
+OBJECT_SHARED Models/lib/cars6.ac 136.82289 -12.26940 58.71 319.25
+OBJECT_SHARED Models/lib/cars6.ac 136.82271 -12.26946 58.62 137.73
+OBJECT_SHARED Models/lib/cars6.ac 136.82300 -12.26929 58.54 319.32
+OBJECT_SHARED Models/lib/cars10.ac 136.82305 -12.26951 58.71 140.7
+OBJECT_SHARED Models/lib/cars10.ac 136.82266 -12.26922 58.54 320.41
+OBJECT_SHARED Models/lib/cars10.ac 136.82293 -12.26965 58.80 139.26
+OBJECT_SHARED Models/lib/cars10.ac 136.82277 -12.26911 58.45 320.85
+OBJECT_SHARED Models/Transport/hatchback_black.ac 136.82261 -12.26982 58.88 53.25
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 136.82250 -12.26973 58.28 50.91
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 136.82227 -12.26902 57.93 24.23
+OBJECT_SHARED Models/Transport/hatchback_red.ac 136.82238 -12.26909 59.37 251.13
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 136.82240 -12.26904 59.29 252.39
+OBJECT_SHARED Models/Transport/hatchback_black.ac 136.82251 -12.26883 59.37 250.5
+OBJECT_SHARED Models/Transport/van_red.ac 136.82248 -12.26897 59.05 250.17
+OBJECT_SHARED Models/Transport/hatchback_green.ac 136.82236 -12.26892 59.37 26.57
+OBJECT_SHARED Models/Transport/van_red.ac 136.82232 -12.26898 59.70 24.66
+# END dsf2stg

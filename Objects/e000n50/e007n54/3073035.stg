@@ -1,14 +1,27 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/FireStationLg.ac 7.91549 54.18732 1.84 304.22
-OBJECT_SHARED Models/lib/admin31x12.ac 7.91430 54.18690 1.61 124.93
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 7.91499 54.18708 1.72 125.41
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.91482 54.18694 1.68 305.54
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.91487 54.18696 1.69 305.54
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.91502 54.18702 1.72 36.03
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.91493 54.18698 1.70 305.54
-OBJECT_SHARED Models/Misc/picnic_table.ac 7.91477 54.18691 1.67 305.54
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 7.91464 54.18660 1.70 37.97
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 7.91491 54.18671 1.71 37.97
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 7.88949 54.17585 0.00 199.09
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 7.88967 54.17550 2.93 27.65
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.88970 54.17603 3.12 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.88981 54.17593 3.52 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.88993 54.17581 3.47 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89006 54.17568 3.42 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89014 54.17562 3.37 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89025 54.17556 3.26 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89046 54.17543 3.25 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89036 54.17549 2.98 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89057 54.17536 3.11 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89069 54.17529 2.95 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89057 54.17522 2.80 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89048 54.17517 2.73 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89040 54.17512 2.73 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89031 54.17507 2.64 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89022 54.17502 2.65 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89013 54.17496 2.56 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.89001 54.17504 2.56 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.88991 54.17510 2.57 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.88980 54.17517 2.65 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.88969 54.17523 2.76 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 7.88959 54.17530 2.75 0
 # END dsf2stg

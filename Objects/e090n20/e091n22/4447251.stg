@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 91.83042 22.25033 -0.00 61.93
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 91.83257 22.25479 -0.00 61.93
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 91.83155 22.25293 -0.00 61.93
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 91.83180 22.25345 -0.00 61.93
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 91.83191 22.25376 -0.00 61.93
+OBJECT_SHARED Models/lib/trailer-fedex.ac 91.82906 22.25605 -0.00 159.7
+OBJECT_SHARED Models/lib/trailer-fedex.ac 91.82910 22.25617 7.27 159.7
+OBJECT_SHARED Models/lib/trailer-fedex.ac 91.82914 22.25627 7.32 159.7
+OBJECT_SHARED Models/lib/trailer-fedex.ac 91.82919 22.25637 7.38 159.7
+OBJECT_SHARED Models/lib/trailer-fedex.ac 91.82923 22.25648 7.37 159.7
+OBJECT_SHARED Models/lib/industrial15x22.ac 91.81527 22.25619 5.88 128.16
+OBJECT_SHARED Models/lib/lamp10m.xml 91.82204 22.25877 6.05 0
+OBJECT_SHARED Models/lib/belt_loader.ac 91.82205 22.25879 7.28 -47.73
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 91.82200 22.25883 7.28 312.27
+OBJECT_SHARED Models/lib/CargoPodPkng.ac 91.82205 22.25877 7.28 -46.64
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 91.82028 22.26044 7.28 219.81
+OBJECT_SHARED Models/lib/MedHangar.ac 91.82182 22.25971 7.54 357.4
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 91.81440 22.25563 7.35 136.97
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 91.83358 22.26113 7.33 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 91.82526 22.26797 -0.00 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 91.82722 22.26693 0.00 90
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 91.82683 22.26746 0.00 90
+OBJECT_SHARED Models/lib/hangar81x16.ac 91.82487 22.25436 6.13 223.05
+OBJECT_SHARED Models/lib/CargoPodPkng.ac 91.81470 22.26392 6.25 -41.56
+OBJECT_SHARED Models/lib/fboModern1.ac 91.82246 22.25930 8.35 87.61
+OBJECT_SHARED Models/lib/lamp10m.xml 91.81654 22.26308 -1.50 39.61
+OBJECT_SHARED Models/lib/lamp10m.xml 91.81617 22.26345 8.11 39.61
+OBJECT_SHARED Models/lib/lamp10m.xml 91.81588 22.26373 8.17 39.61
+OBJECT_SHARED Models/lib/lamp10m.xml 91.81567 22.26394 8.23 39.61
+OBJECT_SHARED Models/lib/lamp10m.xml 91.81543 22.26419 8.28 39.61
+OBJECT_SHARED Models/lib/lamp10m.xml 91.81518 22.26444 8.34 39.61
+OBJECT_SHARED Models/lib/lamp10m.xml 91.81811 22.26169 8.38 -48.55
+OBJECT_SHARED Models/lib/lamp10m.xml 91.81882 22.26100 7.83 133.53
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 91.82142 22.25903 7.72 273.65
+OBJECT_SHARED Models/lib/large-hangar.ac 91.81292 22.25207 5.97 42.88
+OBJECT_SHARED Models/lib/LongRow.ac 91.82049 22.25838 5.99 133.78
+OBJECT_SHARED Models/lib/MedHangar.ac 91.82416 22.25429 7.40 220.91
+OBJECT_SHARED Models/lib/SmHangar.ac 91.81307 22.25449 6.04 280.47
+# END dsf2stg

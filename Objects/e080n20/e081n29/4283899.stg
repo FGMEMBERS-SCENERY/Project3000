@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac 81.81841 29.97129 2968.73 168.071
-OBJECT_SHARED Models/Airport/cargoip.xml 81.81899 29.97117 2968.53 346.409
-OBJECT_SHARED Models/Airport/cargobox.xml 81.81896 29.97117 2968.53 344.774
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81884 29.97153 2969.10 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81909 29.97139 2968.91 0
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 81.81841 29.97129 0.00 168.071
+OBJECT_SHARED Models/Airport/cargoip.xml 81.81899 29.97117 2969.06 346.409
+OBJECT_SHARED Models/Airport/cargobox.xml 81.81896 29.97117 2968.73 344.774
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81884 29.97153 2968.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81909 29.97139 2969.36 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81912 29.97146 2969.09 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81821 29.97160 2969.44 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81785 29.97168 2969.73 0
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 81.81806 29.97174 2969.69 345.287
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 81.81900 29.97162 2969.30 345.155
-OBJECT_SHARED Models/Aircraft/B1900_services.xml 81.81799 29.97122 2968.55 272.24
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81821 29.97160 2969.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 81.81785 29.97168 2969.74 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 81.81806 29.97174 2970.12 345.287
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 81.81900 29.97162 2970.01 345.155
+OBJECT_SHARED Models/Aircraft/B1900_services.xml 81.81799 29.97122 2969.50 272.24
 # END dsf2stg

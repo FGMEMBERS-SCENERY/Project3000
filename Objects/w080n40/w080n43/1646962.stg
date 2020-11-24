@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -79.36639 43.86120 0.00 98.43
+OBJECT_SHARED Models/lib/LongRow.ac -79.36695 43.86115 193.07 98.44
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -79.37231 43.86546 193.07 200.56
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.36899 43.86568 197.89 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.36891 43.86569 195.43 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.36912 43.86571 195.31 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.36906 43.86567 195.54 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.36679 43.86371 195.54 70.2
+OBJECT_SHARED Models/lib/LongRow.ac -79.36768 43.86407 193.43 337.22
+OBJECT_SHARED Models/lib/prop_a.ac -79.37029 43.86443 194.08 218.66
+OBJECT_SHARED Models/lib/prop_a.ac -79.37066 43.86478 195.81 216.43
+OBJECT_SHARED Models/lib/prop_a.ac -79.36974 43.86492 196.36 214.29
+OBJECT_SHARED Models/lib/prop_a.ac -79.37096 43.86405 195.97 213.92
+OBJECT_SHARED Models/lib/prop_a.ac -79.36864 43.86262 195.85 7.94
+OBJECT_SHARED Models/lib/prop_a.ac -79.36724 43.86104 194.06 188.04
+OBJECT_SHARED Models/lib/prop_a.ac -79.36834 43.86235 193.01 189.39
+OBJECT_SHARED Models/lib/prop_a.ac -79.36832 43.86223 193.79 188.25
+# END dsf2stg

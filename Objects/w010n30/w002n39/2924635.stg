@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -1.03821 39.47467 0.00 340.37
+OBJECT_SHARED Models/lib/cars4.ac -1.03903 39.47495 713.32 249.47
+OBJECT_SHARED Models/lib/office16x4n.ac -1.03739 39.47384 713.04 250.18
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -1.03744 39.47450 714.09 339.71
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -1.03845 39.47511 713.63 121.24
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -1.03860 39.47514 713.28 295.82
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -1.03871 39.47518 713.26 10.81
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -1.03888 39.47522 713.25 322.43
+OBJECT_SHARED Models/lib/lamp10m.xml -1.03808 39.47514 713.14 247.05
+OBJECT_SHARED Models/lib/lamp10m.xml -1.03743 39.47415 713.45 247.91
+OBJECT_SHARED Models/lib/lamp10m.xml -1.03659 39.47446 713.77 70.3
+OBJECT_SHARED Models/lib/lamp10m.xml -1.03669 39.47423 714.23 72.05
+OBJECT_SHARED Models/lib/lamp10m.xml -1.03819 39.47493 714.39 247.91
+OBJECT_SHARED Models/lib/stack_of_cones.ac -1.03740 39.47452 713.34 266.33
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -1.03677 39.47417 713.64 150.62
+# END dsf2stg

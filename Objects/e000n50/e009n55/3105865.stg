@@ -1,0 +1,54 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.25201 55.22784 37.23 160.18
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.26386 55.22578 37.49 182.07
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.28167 55.21374 39.76 195.46
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.28012 55.21374 39.65 140.24
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.27839 55.21391 39.46 285.38
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.27813 55.21452 39.34 285.38
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.27799 55.21484 39.49 285.38
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.28359 55.22225 39.56 332.12
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.25282 55.21845 41.51 44.79
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.25205 55.21801 38.32 46.47
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.25165 55.21779 38.30 44.64
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.27825 55.22156 38.28 165.38
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.27772 55.22164 41.11 165.39
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.27666 55.22180 41.08 164.55
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 9.27611 55.22188 41.02 162.9
+OBJECT_SHARED Models/lib/cars14.ac 9.29104 55.22223 40.99 65.65
+OBJECT_SHARED Models/lib/cars14.ac 9.28993 55.22218 41.56 245.62
+OBJECT_SHARED Models/lib/cars14.ac 9.29011 55.22235 41.58 65.74
+OBJECT_SHARED Models/lib/cars14.ac 9.29019 55.22245 41.58 65.74
+OBJECT_SHARED Models/lib/cars7.ac 9.28925 55.22240 41.59 52.59
+OBJECT_SHARED Models/lib/cars7.ac 9.29150 55.22211 41.60 65.97
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 9.25994 55.22564 41.55 270
+OBJECT_SHARED Models/Transport/hatchback_green.ac 9.25994 55.22567 39.08 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 9.25994 55.22570 39.09 270
+OBJECT_SHARED Models/Transport/van_red.ac 9.26026 55.22539 39.09 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac 9.26026 55.22541 39.12 270.87
+OBJECT_SHARED Models/Transport/hatchback_black.ac 9.26026 55.22544 39.12 93.19
+OBJECT_SHARED Models/Transport/hatchback_red.ac 9.26025 55.22546 39.12 275.31
+OBJECT_SHARED Models/Transport/van_red.ac 9.26025 55.22549 39.13 91.14
+OBJECT_SHARED Models/Transport/hatchback_green.ac 9.26024 55.22552 39.13 271.76
+OBJECT_SHARED Models/lib/SmHangar.ac 9.29330 55.22152 39.13 82.56
+OBJECT_SHARED Models/lib/SmHangar.ac 9.29247 55.22155 41.52 80.01
+OBJECT_SHARED Models/lib/fboModern1.ac 9.27999 55.22394 41.54 163.93
+OBJECT_SHARED Models/lib/fboModern1.ac 9.28327 55.21205 38.01 270.14
+OBJECT_SHARED Models/lib/farm19x12.ac 9.26086 55.22561 39.51 1.85
+OBJECT_SHARED Models/lib/farm19x12.ac 9.26050 55.22567 39.25 2.87
+OBJECT_SHARED Models/lib/lamp10m.xml 9.28372 55.21215 38.04 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.28279 55.21212 39.61 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.28023 55.22421 39.44 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.27985 55.22359 41.54 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.28938 55.22190 41.47 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.29149 55.22114 41.58 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.29230 55.22129 41.55 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.29197 55.22162 41.54 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.29138 55.22169 41.54 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.29087 55.22185 41.55 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.29034 55.22180 41.55 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.28168 55.22292 41.57 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.28095 55.22201 41.50 0
+OBJECT_SHARED Models/lib/lamp10m.xml 9.29003 55.22163 41.35 0
+# END dsf2stg

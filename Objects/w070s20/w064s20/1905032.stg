@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.96819 -19.81828 0.00 271.11
+OBJECT_SHARED Models/Transport/hatchback_black.ac -63.96821 -19.81824 1118.27 92.71
+OBJECT_SHARED Models/Transport/hatchback_red.ac -63.96822 -19.81822 1118.43 270.82
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.96824 -19.81819 1118.43 281.16
+OBJECT_SHARED Models/Transport/hatchback_black.ac -63.96826 -19.81815 1118.43 89.87
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -63.96828 -19.81812 1118.33 267.88
+OBJECT_SHARED Models/Transport/hatchback_black.ac -63.96830 -19.81810 1118.49 271.27
+OBJECT_SHARED Models/Transport/hatchback_black.ac -63.96831 -19.81806 1118.49 270.29
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.96833 -19.81803 1118.49 261.27
+OBJECT_SHARED Models/Transport/van_silver.ac -63.96839 -19.81794 1118.64 271.79
+OBJECT_SHARED Models/Transport/hatchback_black.ac -63.96840 -19.81792 1118.70 268.76
+OBJECT_SHARED Models/Transport/van_silver.ac -63.96842 -19.81789 1118.70 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.96844 -19.81786 1118.70 270.31
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.96850 -19.81777 1118.70 268.71
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.96853 -19.81771 1118.77 91.01
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -63.96851 -19.81774 1118.94 269.36
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -63.96855 -19.81768 1118.94 271.74
+OBJECT_SHARED Models/Transport/hatchback_black.ac -63.96857 -19.81765 1118.84 270.55
+OBJECT_SHARED Models/Transport/hatchback_black.ac -63.96858 -19.81762 1119.00 269.5
+OBJECT_SHARED Models/Transport/van_silver.ac -63.96861 -19.81759 1119.00 272.02
+OBJECT_SHARED Models/Transport/van_silver.ac -63.96862 -19.81756 1119.00 275.78
+OBJECT_SHARED Models/Transport/van_red.ac -63.96864 -19.81753 1119.00 271.9
+OBJECT_SHARED Models/lib/cone.ac -63.96817 -19.81728 1119.17 324.16
+OBJECT_SHARED Models/lib/cone.ac -63.96818 -19.81728 1119.95 30.47
+OBJECT_SHARED Models/lib/cone.ac -63.96816 -19.81728 1119.95 327.99
+OBJECT_SHARED Models/lib/stack_of_cones.ac -63.96817 -19.81727 1119.95 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -63.96775 -19.81818 1119.95 210.82
+OBJECT_SHARED Models/lib/chariot3curve.ac -63.96816 -19.81758 1118.93 129.37
+OBJECT_SHARED Models/lib/belt_loader.ac -63.96830 -19.81735 1119.42 211.14
+OBJECT_SHARED Models/Airport/cargobox.xml -63.96780 -19.81819 1119.85 30.03
+OBJECT_SHARED Models/Airport/cargoip.xml -63.96779 -19.81818 1118.83 29.93
+OBJECT_SHARED Models/Airport/cargobox.xml -63.96778 -19.81820 1118.83 31.78
+OBJECT_SHARED Models/Airport/cargobox.xml -63.96780 -19.81817 1118.83 29.86
+OBJECT_SHARED Models/Airport/cargobox.xml -63.96781 -19.81818 1118.83 32.48
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -63.96782 -19.81809 1118.83 302.73
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -63.96784 -19.81812 1118.99 298.8
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -63.96786 -19.81809 1118.99 288.61
+OBJECT_SHARED Models/lib/schranke.ac -63.96795 -19.81810 1118.89 29.78
+OBJECT_SHARED Models/lib/transformer3x3.ac -63.96850 -19.81622 1118.79 316.99
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.95482 -19.83012 1121.83 36.25
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -63.96789 -19.81820 1112.38 119.96
+# END dsf2stg

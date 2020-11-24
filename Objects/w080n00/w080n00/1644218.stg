@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.62504 0.97599 0.00 87.21
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.62503 0.97635 8.26 87.27
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -79.62501 0.97671 8.13 87.22
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.62508 0.97810 8.28 0
+# END dsf2stg

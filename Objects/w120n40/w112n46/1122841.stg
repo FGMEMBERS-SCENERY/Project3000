@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.57907 46.41944 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.57842 46.41867 1165.16 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.57853 46.41861 1164.98 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.57868 46.41896 1165.62 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.57856 46.41889 1165.48 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.57833 46.41882 1165.56 0
+OBJECT_SHARED Models/lib/propane-tank.ac -111.57870 46.41903 1165.07 156.801
+OBJECT_SHARED Models/lib/shed8x10.ac -111.57899 46.41900 1165.48 69.228
+OBJECT_SHARED Models/lib/shed8x10.ac -111.57894 46.42305 1165.48 3.01272
+OBJECT_SHARED Models/lib/shed8x10.ac -111.57897 46.42170 1171.49 182.726
+OBJECT_SHARED Models/lib/farm19x12.ac -111.57876 46.42177 1169.31 90
+OBJECT_SHARED Models/lib/SmHangar.ac -111.57789 46.41503 1169.53 180.58
+OBJECT_SHARED Models/lib/SmHangar.ac -111.57790 46.41470 1162.82 179.27
+OBJECT_SHARED Models/Misc/picnic_table.ac -111.57674 46.41567 1162.72 0
+OBJECT_SHARED Models/lib/SmHangar.ac -111.57893 46.42028 1161.82 180
+OBJECT_SHARED Models/lib/farm19x12.ac -111.57881 46.41681 1167.46 103.134
+OBJECT_SHARED Models/lib/shed8x10.ac -111.57877 46.41646 1164.11 100.491
+OBJECT_SHARED Models/lib/shed8x10.ac -111.57861 46.41487 1164.03 90
+OBJECT_SHARED Models/lib/lamp10m.xml -111.57682 46.41569 1163.34 147.528
+OBJECT_SHARED Models/lib/farm19x12.ac -111.57871 46.41891 1161.82 67.401
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -111.57893 46.41890 1165.56 160.71
+OBJECT_SHARED Models/Transport/hatchback_red.ac -111.57888 46.41726 1165.56 74.0544
+OBJECT_SHARED Models/Transport/hatchback_green.ac -111.57906 46.41617 1165.16 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -111.57907 46.41576 1164.00 262.235
+OBJECT_SHARED Models/Transport/hatchback_black.ac -111.57875 46.41564 1163.92 124.509
+OBJECT_SHARED Models/Transport/hatchback_black.ac -111.57869 46.41560 1163.87 131.424
+OBJECT_SHARED Models/Transport/van_silver.ac -111.57898 46.41567 1163.87 255.068
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.57863 46.41781 1163.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -111.57872 46.41792 1165.50 0
+# END dsf2stg

@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -130.09837 61.41385 0.00 140.29
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -130.09845 61.41424 1330.79 163.41
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -130.10028 61.41438 1333.15 236.89
+OBJECT_SHARED Models/Transport/van_silver.ac -130.10038 61.41431 1326.09 221.99
+OBJECT_SHARED Models/lib/office3x10.ac -130.09924 61.41440 1325.87 242.59
+OBJECT_SHARED Models/lib/2container-office.ac -130.10040 61.41468 1326.48 315
+OBJECT_SHARED Models/lib/2container-office.ac -130.09764 61.41423 1326.78 340.71
+OBJECT_SHARED Models/lib/office16x4n.ac -130.09924 61.41411 1333.15 48.22
+OBJECT_SHARED Models/lib/trailer-fedex.ac -130.09590 61.41343 1325.81 317.29
+OBJECT_SHARED Models/lib/trailer-fedex.ac -130.09656 61.41317 1332.09 229.19
+OBJECT_SHARED Models/lib/trailer-fedex.ac -130.09685 61.41322 1327.96 48.12
+OBJECT_SHARED Models/lib/trailer-fedex.ac -130.09856 61.41383 1327.96 50.2
+OBJECT_SHARED Models/lib/trailer-fedex.ac -130.09833 61.41378 1325.20 233.47
+OBJECT_SHARED Models/lib/industrial13x24.ac -130.09813 61.41435 1330.17 254.19
+# END dsf2stg

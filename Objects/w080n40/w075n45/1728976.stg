@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -74.84872 45.29856 0.00 116.31
+OBJECT_SHARED Models/lib/cone.ac -74.85492 45.29613 101.19 175.28
+OBJECT_SHARED Models/lib/stack_of_cones.ac -74.85469 45.29631 96.75 175.28
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -74.85497 45.29612 96.76 117.13
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -74.85462 45.29624 96.62 175.28
+OBJECT_SHARED Models/Misc/6barrels.ac -74.85499 45.29625 97.02 175.28
+OBJECT_SHARED Models/Misc/6barrels.ac -74.85500 45.29626 96.50 175.28
+OBJECT_SHARED Models/lib/2vending-machines.ac -74.85494 45.29613 96.39 27.48
+OBJECT_SHARED Models/lib/cone.ac -74.85394 45.29650 96.75 175.28
+OBJECT_SHARED Models/lib/stack_of_cones.ac -74.85371 45.29668 97.52 175.28
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -74.85399 45.29649 97.50 117.13
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -74.85364 45.29661 97.40 175.28
+OBJECT_SHARED Models/Misc/6barrels.ac -74.85401 45.29662 97.74 175.28
+OBJECT_SHARED Models/Misc/6barrels.ac -74.85402 45.29663 97.28 175.28
+OBJECT_SHARED Models/lib/2vending-machines.ac -74.85396 45.29650 97.28 27.48
+OBJECT_SHARED Models/lib/cone.ac -74.85448 45.29629 97.40 175.28
+OBJECT_SHARED Models/lib/stack_of_cones.ac -74.85425 45.29648 97.02 175.28
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -74.85453 45.29629 97.16 117.13
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -74.85418 45.29641 97.02 175.28
+OBJECT_SHARED Models/Misc/6barrels.ac -74.85454 45.29641 97.28 175.28
+OBJECT_SHARED Models/Misc/6barrels.ac -74.85455 45.29643 96.90 175.28
+OBJECT_SHARED Models/lib/2vending-machines.ac -74.85450 45.29630 96.77 27.48
+OBJECT_SHARED Models/lib/farm19x12.ac -74.85674 45.29583 97.02 46.13
+OBJECT_SHARED Models/lib/farm19x12.ac -74.85778 45.29398 95.86 210.58
+OBJECT_SHARED Models/lib/farm19x12.ac -74.85706 45.29420 95.65 28.3
+OBJECT_SHARED Models/lib/farm19x12.ac -74.85846 45.29360 96.72 32.01
+OBJECT_SHARED Models/lib/farm19x12.ac -74.85850 45.29334 94.88 210.74
+OBJECT_SHARED Models/lib/farm19x12.ac -74.85725 45.29502 94.93 249.15
+# END dsf2stg

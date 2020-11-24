@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/NoParkStripes.xml -159.60061 21.89797 6.69 120.274
-OBJECT_SHARED Models/lib/cars10.ac -159.60033 21.89819 5.56 32.255
-OBJECT_SHARED Models/lib/office16x4n.ac -159.60034 21.89827 5.95 241.091
-OBJECT_SHARED Models/lib/SmHangar.ac -159.59986 21.89794 5.56 8.59684
-OBJECT_SHARED Models/lib/SmHangar.ac -159.60047 21.89850 6.79 30.0022
-OBJECT_SHARED Models/lib/SmHangar.ac -159.60055 21.89846 7.49 30.0022
-OBJECT_SHARED Models/lib/SmHangar.ac -159.60063 21.89842 7.30 30.0022
-OBJECT_SHARED Models/lib/garage-small-white.ac -159.60237 21.89731 5.37 199.079
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -159.60057 21.89829 7.14 299.5
-OBJECT_SHARED Models/Transport/hatchback_black.ac -159.60062 21.89834 7.14 299.5
+OBJECT_SHARED Models/lib/NoParkStripes.xml -159.60061 21.89797 0.00 120.274
+OBJECT_SHARED Models/lib/cars10.ac -159.60033 21.89819 6.71 32.255
+OBJECT_SHARED Models/lib/office16x4n.ac -159.60034 21.89827 6.18 241.091
+OBJECT_SHARED Models/lib/SmHangar.ac -159.59986 21.89794 6.25 8.59684
+OBJECT_SHARED Models/lib/SmHangar.ac -159.60047 21.89850 6.07 30.0022
+OBJECT_SHARED Models/lib/SmHangar.ac -159.60055 21.89846 6.39 30.0022
+OBJECT_SHARED Models/lib/SmHangar.ac -159.60063 21.89842 7.12 30.0022
+OBJECT_SHARED Models/lib/garage-small-white.ac -159.60237 21.89731 7.04 199.079
+OBJECT_SHARED Models/Transport/van_red.ac -159.60057 21.89829 6.06 299.5
+OBJECT_SHARED Models/Transport/van_red.ac -159.60062 21.89834 6.96 299.5
 # END dsf2stg

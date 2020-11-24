@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -89.61114 40.79264 0.00 95.26
+OBJECT_SHARED Models/lib/LongRow.ac -89.61123 40.79338 234.79 95.26
+OBJECT_SHARED Models/lib/SmHangar.ac -89.61140 40.79560 234.77 95.15
+OBJECT_SHARED Models/lib/HorizTanks2.ac -89.61201 40.79553 234.89 5.25
+OBJECT_SHARED Models/lib/admin31x12.ac -89.61193 40.79586 234.18 3.62
+OBJECT_SHARED Models/lib/LongRow.ac -89.61173 40.79230 234.38 5.41
+OBJECT_SHARED Models/lib/LongRow.ac -89.61141 40.79445 234.16 94.76
+OBJECT_SHARED Models/lib/SmHangar.ac -89.61200 40.79500 234.69 5.4
+OBJECT_SHARED Models/lib/SmHangar.ac -89.61198 40.79480 234.14 5.09
+OBJECT_SHARED Models/lib/SmHangar.ac -89.61156 40.79265 234.14 96.02
+OBJECT_SHARED Models/lib/LongRow.ac -89.61161 40.79284 234.28 95.67
+OBJECT_SHARED Models/lib/LongRow.ac -89.61167 40.79330 234.30 95.67
+OBJECT_SHARED Models/lib/prop_a.ac -89.61225 40.79640 234.25 183.6
+OBJECT_SHARED Models/lib/prop_a.ac -89.61267 40.79656 234.24 4.97
+OBJECT_SHARED Models/lib/prop_a.ac -89.61227 40.79654 234.13 184.37
+OBJECT_SHARED Models/lib/deciduous-tree.xml -89.61224 40.79735 234.28 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -89.61224 40.79728 234.71 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -89.61223 40.79722 234.71 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -89.61222 40.79715 234.60 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -89.61221 40.79709 234.56 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -89.61221 40.79702 234.56 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -89.61179 40.79598 234.52 99.75
+OBJECT_SHARED Models/Transport/van_silver.ac -89.61180 40.79606 234.50 101.82
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -89.61188 40.79642 234.53 275.39
+OBJECT_SHARED Models/Transport/hatchback_green.ac -89.61210 40.79643 234.54 98.21
+OBJECT_SHARED Models/Transport/van_red.ac -89.61209 40.79638 234.37 91.07
+# END dsf2stg

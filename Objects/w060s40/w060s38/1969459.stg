@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LgMaint.ac -59.24108 -37.23585 0.00 132.37
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -59.23796 -37.23753 175.77 42.03
+OBJECT_SHARED Models/lib/LgMaint.ac -59.23931 -37.23646 176.46 222.41
+OBJECT_SHARED Models/lib/fboModern1.ac -59.23705 -37.23955 176.00 162
+OBJECT_SHARED Models/lib/office8x14.ac -59.23603 -37.24081 177.46 43.52
+OBJECT_SHARED Models/lib/LgMaint.ac -59.23595 -37.24045 177.92 132.16
+OBJECT_SHARED Models/lib/office112x50.ac -59.23443 -37.24130 177.76 44.43
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -59.23371 -37.24032 177.91 98.29
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -59.23378 -37.24074 177.34 223.5
+# END dsf2stg

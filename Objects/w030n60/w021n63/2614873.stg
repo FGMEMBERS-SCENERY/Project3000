@@ -1,16 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -20.27329 63.42473 0.00 206.911
-OBJECT_SHARED Models/lib/SmHangar.ac -20.27323 63.42492 0.00 70
-OBJECT_SHARED Models/lib/SmHangar.ac -20.27290 63.42486 0.00 70
-OBJECT_SHARED Models/lib/cube16x10.ac -20.27233 63.42477 0.00 250
-OBJECT_SHARED Models/lib/SmHangar.ac -20.27158 63.42463 0.00 70
-OBJECT_SHARED Models/lib/cars7.ac -20.26917 63.42546 0.00 70
-OBJECT_SHARED Models/lib/cars7.ac -20.26913 63.42545 -0.00 250
-OBJECT_SHARED Models/lib/cars4.ac -20.26881 63.42505 0.00 68.3857
-OBJECT_SHARED Models/lib/lamp10m.xml -20.27026 63.42525 -0.00 203.962
-OBJECT_SHARED Models/lib/lamp10m.xml -20.26869 63.42497 -0.00 93.4475
-OBJECT_SHARED Models/lib/stack_of_cones.ac -20.26900 63.42500 0.00 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -20.26905 63.42502 0.00 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -20.26868 63.42508 0.00 157.57
+OBJECT_SHARED Models/Transport/van_silver.ac -20.26872 63.42509 99.34 339.09
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -20.26876 63.42510 99.34 157.57
+OBJECT_SHARED Models/Transport/van_silver.ac -20.26872 63.42504 99.26 339.71
+OBJECT_SHARED Models/Transport/hatchback_black.ac -20.26877 63.42505 99.34 157.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac -20.26881 63.42506 99.26 338.28
+OBJECT_SHARED Models/Transport/hatchback_black.ac -20.26886 63.42507 99.26 339.91
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -20.26881 63.42511 99.17 157.57
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -20.26913 63.42524 99.26 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -20.26919 63.42526 99.01 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -20.26924 63.42526 98.92 0
+OBJECT_SHARED Models/lib/lamp10m.xml -20.27027 63.42525 98.92 203.96
+OBJECT_SHARED Models/lib/lamp10m.xml -20.26889 63.42497 98.03 93.45
+OBJECT_SHARED Models/lib/stack_of_cones.ac -20.26901 63.42501 99.17 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -20.26927 63.42502 99.09 16.7
+OBJECT_SHARED Models/lib/shed8x10.ac -20.27602 63.42550 98.84 12.53
+OBJECT_SHARED Models/lib/cars4.ac -20.26882 63.42541 92.43 245.96
+OBJECT_SHARED Models/lib/cars4.ac -20.26914 63.42548 99.27 245.96
+OBJECT_SHARED Models/lib/cars4.ac -20.26945 63.42554 99.01 245.96
+OBJECT_SHARED Models/lib/cars4.ac -20.26893 63.42530 98.76 65.86
+OBJECT_SHARED Models/lib/cars4.ac -20.26924 63.42537 99.18 65.86
+OBJECT_SHARED Models/lib/cars4.ac -20.26955 63.42543 98.92 65.86
+OBJECT_SHARED Models/lib/lamp10m.xml -20.26924 63.42537 99.18 247.46
+OBJECT_SHARED Models/lib/lamp10m.xml -20.26955 63.42543 98.92 247.46
 # END dsf2stg

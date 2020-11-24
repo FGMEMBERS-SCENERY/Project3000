@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25.ac -86.11847 41.99146 0.00 90
+OBJECT_SHARED Models/lib/SmHangar.ac -86.12262 41.99102 228.08 0.720001
+OBJECT_SHARED Models/lib/SmHangar.ac -86.12061 41.99186 226.77 45.15
+OBJECT_SHARED Models/lib/SmHangar.ac -86.12084 41.99153 227.28 45.39
+OBJECT_SHARED Models/lib/SmHangar.ac -86.12158 41.99156 227.31 45.52
+OBJECT_SHARED Models/lib/SmHangar.ac -86.12179 41.99139 227.03 259.9
+OBJECT_SHARED Models/lib/hangar81x16.ac -86.12050 41.99130 227.00 180.06
+OBJECT_SHARED Models/lib/hangar81x16.ac -86.11908 41.99236 227.48 135.71
+OBJECT_SHARED Models/lib/cars10.ac -86.12007 41.99216 227.49 225.09
+OBJECT_SHARED Models/lib/cars10.ac -86.12058 41.99215 227.32 45.11
+OBJECT_SHARED Models/lib/cars10.ac -86.12253 41.99092 227.23 0.690002
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.11814 41.99244 226.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.11772 41.99114 227.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.11763 41.99115 228.52 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.11893 41.99115 228.56 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.11900 41.99115 228.07 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.11944 41.99117 228.03 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -86.12051 41.99258 227.89 316.74
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -86.12275 41.99057 227.14 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -86.12277 41.99057 226.74 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -86.12278 41.99057 226.74 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -86.12279 41.99057 226.74 0
+# END dsf2stg

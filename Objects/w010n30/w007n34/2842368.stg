@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -6.76286 34.04604 94.07 218.02
+OBJECT_SHARED Models/lib/lamp10m.xml -6.76312 34.04631 77.46 218.77
+OBJECT_SHARED Models/lib/lamp10m.xml -6.76142 34.04751 77.27 34.65
+OBJECT_SHARED Models/lib/lamp10m.xml -6.76081 34.04686 76.66 40.6
+OBJECT_SHARED Models/lib/lamp10m.xml -6.75889 34.04806 77.13 131.05
+OBJECT_SHARED Models/lib/lamp10m.xml -6.75966 34.04755 76.92 133.03
+OBJECT_SHARED Models/lib/admin31x12.ac -6.76205 34.04575 77.05 128.16
+OBJECT_SHARED Models/lib/LgMaint.ac -6.76112 34.04718 93.92 38.36
+OBJECT_SHARED Models/lib/LgMaint.ac -6.75927 34.04781 76.89 128.58
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -6.76102 34.04494 93.19 296.26
+OBJECT_SHARED Models/lib/lamp10m.xml -6.75343 34.03862 93.15 0
+OBJECT_SHARED Models/lib/lamp10m.xml -6.75142 34.03809 88.50 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -6.75100 34.03601 -1.56 172
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -6.75124 34.03601 -1.74 179
+OBJECT_SHARED Models/lib/HorizTanks2.ac -6.75114 34.03580 93.11 325.67
+# END dsf2stg

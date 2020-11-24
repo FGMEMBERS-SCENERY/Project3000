@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.68327 53.58435 0.00 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.68243 53.58428 36.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.68083 53.58411 35.39 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.69143 53.58354 33.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.69143 53.58343 44.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.69144 53.58254 44.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.68010 53.58411 45.68 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.68163 53.58419 33.74 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.68138 53.58418 34.84 0
+OBJECT_SHARED Models/lib/prop_a.ac 10.70329 53.58315 34.65 14.74
+OBJECT_SHARED Models/Transport/van_silver.ac 10.70461 53.58319 50.37 196.7
+OBJECT_SHARED Models/Transport/van_silver.ac 10.70457 53.58318 50.84 196.7
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 10.70453 53.58317 50.84 196.7
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.70431 53.58303 50.81 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.70435 53.58303 50.71 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.70434 53.58306 50.73 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.70430 53.58305 50.73 0
+OBJECT_SHARED Models/lib/shed8x10.ac 10.70375 53.58296 50.73 285.32
+OBJECT_SHARED Models/lib/SmHangar.ac 10.70403 53.58311 50.53 285.959
+OBJECT_SHARED Models/lib/SmHangar.ac 10.70386 53.58308 50.64 285.959
+OBJECT_SHARED Models/lib/SmHangar.ac 10.70356 53.58302 50.60 286.06
+# END dsf2stg

@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 10.75434 35.76081 0.00 286.34
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 10.75073 35.75981 3.46 195.2
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 10.75551 35.76087 3.01 240.77
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 10.75707 35.76124 2.55 240.77
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 10.75772 35.76142 2.35 240.77
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 10.75865 35.76233 2.28 240.77
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 10.75938 35.76250 2.25 240.77
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 10.76014 35.76266 2.15 240.77
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 10.76088 35.76284 2.07 240.77
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 10.76164 35.76302 1.96 240.77
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75594 35.76103 1.87 201.15
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75531 35.76097 2.50 197.6
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75521 35.76125 2.60 195.42
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75583 35.76127 2.68 206.41
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75521 35.76122 2.58 202.86
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75588 35.76117 2.66 206.33
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75526 35.76111 2.54 202.78
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75590 35.76115 2.62 207.88
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75527 35.76108 2.52 204.33
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75591 35.76110 2.62 204.97
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75528 35.76103 2.52 201.42
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75636 35.76104 2.60 16.24
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75742 35.76125 2.42 15.45
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75673 35.76108 2.29 16.63
+OBJECT_SHARED Models/lib/belt_loader.ac 10.75828 35.76206 2.39 249.52
+OBJECT_SHARED Models/Transport/van_silver.ac 10.75562 35.76119 2.29 289.7
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.75552 35.76120 2.59 289.24
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 10.75536 35.76132 2.61 105.15
+OBJECT_SHARED Models/Transport/hatchback_green.ac 10.75558 35.76102 2.65 108.05
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 10.75615 35.76095 3.14 16.06
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 10.75438 35.76056 2.46 16.01
+OBJECT_SHARED Models/lib/industrial13x24.ac 10.75608 35.76110 3.43 16.25
+# END dsf2stg

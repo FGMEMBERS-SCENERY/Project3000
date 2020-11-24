@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -133.38412 62.21073 0.00 156.64
+OBJECT_SHARED Models/lib/container6-HD.ac -133.38255 62.21047 699.36 192.53
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -133.38260 62.21040 699.36 274.76
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -133.38282 62.21044 699.55 90
+OBJECT_SHARED Models/lib/shed8x10.ac -133.38304 62.21067 699.55 140.79
+OBJECT_SHARED Models/lib/shed8x10.ac -133.38342 62.21080 698.89 154.85
+OBJECT_SHARED Models/lib/office8x14.ac -133.38395 62.21069 698.64 245.28
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -133.38303 62.21060 699.36 0
+# END dsf2stg

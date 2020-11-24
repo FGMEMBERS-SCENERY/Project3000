@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -76.16973 24.88926 0.00 271.364
+OBJECT_SHARED Models/lib/stack_of_cones.ac -76.16867 24.88919 4.90 104.931
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.16823 24.88874 5.13 234.293
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.16822 24.88876 5.33 29.1974
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.16824 24.88875 5.32 25.8209
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.16824 24.88874 5.33 116.565
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.17029 24.88937 5.33 358.363
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.17027 24.88930 4.73 352.569
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.17027 24.88928 4.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.17026 24.88922 4.71 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.17020 24.88926 4.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -76.17017 24.88922 4.76 0
+OBJECT_SHARED Models/lib/prop_a.ac -76.17061 24.88965 4.74 55.4915
+OBJECT_SHARED Models/lib/cars6.ac -76.16934 24.88888 4.68 90
+OBJECT_SHARED Models/lib/cars6.ac -76.16935 24.88907 4.91 270
+OBJECT_SHARED Models/lib/cars6.ac -76.16955 24.88901 4.90 270.377
+OBJECT_SHARED Models/lib/cars6.ac -76.16861 24.88893 4.87 0.931557
+OBJECT_SHARED Models/lib/cars10.ac -76.16886 24.88872 5.23 181.534
+OBJECT_SHARED Models/lib/cars10.ac -76.16855 24.88872 5.13 181.534
+# END dsf2stg

@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/container6-HD.ac -102.41210 44.86945 0.00 0
+OBJECT_SHARED Models/lib/container6-HD.ac -102.41222 44.86947 775.76 315
+OBJECT_SHARED Models/Transport/hatchback_red.ac -102.41228 44.86939 775.76 180
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -102.41183 44.86920 775.82 316.637
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -102.41128 44.86978 775.92 180
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -102.41143 44.86977 774.29 264.289
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -102.41169 44.86958 774.29 249.864
+OBJECT_SHARED Models/lib/garden-shed.ac -102.41167 44.86993 775.71 69.546
+OBJECT_SHARED Models/lib/garden-shed.ac -102.41166 44.86995 775.49 69.546
+OBJECT_SHARED Models/lib/garden-shed.ac -102.41164 44.86998 775.42 69.546
+OBJECT_SHARED Models/lib/shed8x10.ac -102.41151 44.86968 775.42 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -102.41132 44.86963 775.64 154.308
+OBJECT_SHARED Models/lib/industrial13x24.ac -102.41182 44.86946 774.44 90
+OBJECT_SHARED Models/lib/SmHangar.ac -102.41205 44.86930 775.76 90
+# END dsf2stg

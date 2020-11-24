@@ -1,31 +1,31 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66039 -33.97092 45.16 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66056 -33.97125 45.32 329.74
-OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66053 -33.97121 45.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66039 -33.97092 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66056 -33.97125 45.02 329.74
+OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66053 -33.97121 45.32 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66051 -33.97116 45.31 74.05
-OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66048 -33.97112 45.14 25.02
-OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66045 -33.97107 45.14 323.75
-OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66042 -33.97103 45.15 42.51
-OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66040 -33.97098 45.15 69.44
-OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66034 -33.97089 45.16 315
-OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66032 -33.97083 45.17 5.70999
-OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66107 -33.97136 45.31 322.304
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 137.66168 -33.97047 45.12 120.289
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 137.66165 -33.97042 45.08 115.288
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 137.66163 -33.97038 45.08 115.201
-OBJECT_SHARED Models/lib/SmHangar.ac 137.66129 -33.97083 45.29 28.217
-OBJECT_SHARED Models/lib/shed8x10.ac 137.66118 -33.97065 45.27 25.9764
-OBJECT_SHARED Models/lib/shed8x10.ac 137.66173 -33.97063 45.16 27.2997
-OBJECT_SHARED Models/lib/SmHangar.ac 137.66138 -33.97097 45.30 28.217
-OBJECT_SHARED Models/lib/SmHangar.ac 137.66099 -33.97127 45.32 28.217
-OBJECT_SHARED Models/lib/SmHangar.ac 137.66125 -33.97113 45.31 208.089
-OBJECT_SHARED Models/lib/SmHangar.ac 137.66084 -33.97135 45.31 207.244
-OBJECT_SHARED Models/lib/SmHangar.ac 137.66076 -33.97121 45.31 207.244
+OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66048 -33.97112 45.31 25.02
+OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66045 -33.97107 44.87 323.75
+OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66042 -33.97103 44.87 42.51
+OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66040 -33.97098 44.95 69.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66034 -33.97089 44.95 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66032 -33.97083 45.02 5.70999
+OBJECT_SHARED Models/Trees/billboard-tree.xml 137.66107 -33.97136 45.10 322.304
+OBJECT_SHARED Models/Transport/hatchback_black.ac 137.66168 -33.97047 45.30 120.289
+OBJECT_SHARED Models/Transport/hatchback_red.ac 137.66165 -33.97042 45.12 115.288
+OBJECT_SHARED Models/Transport/hatchback_red.ac 137.66163 -33.97038 45.08 115.201
+OBJECT_SHARED Models/lib/SmHangar.ac 137.66129 -33.97083 45.08 28.217
+OBJECT_SHARED Models/lib/shed8x10.ac 137.66118 -33.97065 45.28 25.9764
+OBJECT_SHARED Models/lib/shed8x10.ac 137.66173 -33.97063 45.27 27.2997
+OBJECT_SHARED Models/lib/SmHangar.ac 137.66138 -33.97097 45.16 28.217
+OBJECT_SHARED Models/lib/SmHangar.ac 137.66099 -33.97127 45.30 28.217
+OBJECT_SHARED Models/lib/SmHangar.ac 137.66125 -33.97113 45.32 208.089
+OBJECT_SHARED Models/lib/SmHangar.ac 137.66084 -33.97135 45.30 207.244
+OBJECT_SHARED Models/lib/SmHangar.ac 137.66076 -33.97121 45.30 207.244
 OBJECT_SHARED Models/lib/SmHangar.ac 137.66066 -33.97107 45.31 207.244
-OBJECT_SHARED Models/lib/SmHangar.ac 137.66053 -33.97084 45.29 207.244
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 137.66025 -33.97056 45.16 0
+OBJECT_SHARED Models/lib/SmHangar.ac 137.66053 -33.97084 45.30 207.244
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 137.66025 -33.97056 45.28 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 137.66025 -33.97056 45.16 0
 OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 137.66024 -33.97056 45.16 0
 # END dsf2stg

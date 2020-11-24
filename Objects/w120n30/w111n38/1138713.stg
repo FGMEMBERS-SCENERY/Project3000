@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -110.69913 38.41364 0.00 352.64
+OBJECT_SHARED Models/lib/industrial13x24.ac -110.69943 38.41391 1344.22 348.29
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -110.69915 38.41354 1344.59 351.12
+OBJECT_SHARED Models/lib/lamp10m.xml -110.69834 38.41380 1344.09 81.72
+OBJECT_SHARED Models/lib/lamp10m.xml -110.69900 38.41354 1344.36 266.82
+OBJECT_SHARED Models/lib/garden-shed.ac -110.70407 38.41798 1344.09 346.4
+# END dsf2stg

@@ -1,20 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/transformer3x3.ac -73.09653 43.98766 -0.00 180.6
-OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09662 43.98643 0.00 239.04
-OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09655 43.98657 0.00 135
-OBJECT_SHARED Models/lib/SmHangar.ac -73.09605 43.98381 0.00 182.01
-OBJECT_SHARED Models/lib/SmHangar.ac -73.09643 43.98715 0.00 184.44
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -73.09646 43.98559 0.00 2.97
-OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09693 43.98738 0.00 227.49
-OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09655 43.98670 0.00 239.42
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -73.09607 43.98660 0.00 272.76
-OBJECT_SHARED Models/lib/SmHangar.ac -73.09610 43.98487 0.00 181.5
-OBJECT_SHARED Models/lib/SmHangar.ac -73.09641 43.98692 0.00 184.34
-OBJECT_SHARED Models/lib/SmHangar.ac -73.09626 43.98602 0.00 184.71
-OBJECT_SHARED Models/lib/SmHangar.ac -73.09640 43.98641 0.00 178.32
-OBJECT_SHARED Models/lib/SmHangar.ac -73.09639 43.98662 0.00 178.84
-OBJECT_SHARED Models/Trees/billboard-tree.xml -73.09689 43.98744 0.00 52.5
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -73.09632 43.98626 0.00 181.31
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -73.09680 43.98616 0.00 183.42
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -73.09647 43.98452 146.76 272.38
+OBJECT_SHARED Models/lib/LongRow.ac -73.09788 43.98997 146.22 1.4
+OBJECT_SHARED Models/lib/shed10x50.ac -73.09648 43.98411 142.46 91.44
+OBJECT_SHARED Models/lib/fboModern1.ac -73.09641 43.98662 145.83 182
 # END dsf2stg

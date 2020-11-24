@@ -2,17 +2,17 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/lib/SmHangar.ac 12.20386 47.94641 0.00 123.05
-OBJECT_SHARED Models/lib/SmHangar.ac 12.20405 47.94649 0.00 123.05
-OBJECT_SHARED Models/lib/MedHangar.ac 12.20327 47.94625 0.00 122.21
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 12.20291 47.94622 0.00 204.23
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 12.20452 47.94638 0.00 211.55
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 12.20470 47.94645 0.00 211.55
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.20372 47.94633 0.00 210.53
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.20376 47.94634 0.00 212.62
-OBJECT_SHARED Models/Misc/picnic_table.ac 12.20380 47.94636 0.00 212.08
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.20422 47.94655 0.00 124.35
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 12.20356 47.94636 0.00 214.9
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.20487 47.94553 0.00 0
-OBJECT_SHARED Models/lib/lamp10m.xml 12.20412 47.94660 -0.00 304.46
-OBJECT_SHARED Models/lib/lamp10m.xml 12.20369 47.94635 0.00 216.35
+OBJECT_SHARED Models/lib/SmHangar.ac 12.20405 47.94649 465.25 123.05
+OBJECT_SHARED Models/lib/MedHangar.ac 12.20327 47.94625 465.43 122.21
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 12.20291 47.94622 465.31 204.23
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 12.20452 47.94638 465.29 211.55
+OBJECT_SHARED Models/Aircraft/Cessna172.ac 12.20470 47.94645 465.05 211.55
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.20372 47.94633 464.98 210.53
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.20376 47.94634 465.13 212.62
+OBJECT_SHARED Models/Misc/picnic_table.ac 12.20380 47.94636 465.09 212.08
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 12.20422 47.94655 465.29 124.35
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 12.20356 47.94636 465.56 214.9
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.20487 47.94553 465.37 0
+OBJECT_SHARED Models/lib/lamp10m.xml 12.20412 47.94660 464.40 304.46
+OBJECT_SHARED Models/lib/lamp10m.xml 12.20369 47.94635 465.60 216.35
 # END dsf2stg

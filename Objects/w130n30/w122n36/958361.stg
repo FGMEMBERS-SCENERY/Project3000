@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/Norberttruck.xml -121.72682 36.48084 0.00 140.19
+OBJECT_SHARED Models/lib/SmHangar.ac -121.72631 36.48033 140.38 52.75
+OBJECT_SHARED Models/lib/SmHangar.ac -121.72662 36.48059 140.93 146
+# END dsf2stg

@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25n.ac -76.98465 -0.46409 0.00 203.7
+OBJECT_SHARED Models/lib/office32x25.ac -76.98511 -0.46429 255.95 205.93
+OBJECT_SHARED Models/lib/FireStationLg.ac -76.98538 -0.46406 256.12 204.66
+OBJECT_SHARED Models/lib/garage-small-white.ac -76.98516 -0.46308 256.11 115.87
+OBJECT_SHARED Models/lib/farm19x12.ac -76.98539 -0.46290 255.86 114.39
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -76.98486 -0.46385 255.85 116.57
+OBJECT_SHARED Models/lib/office8x14.ac -76.98518 -0.46331 255.99 296.17
+OBJECT_SHARED Models/lib/office8x14.ac -76.98514 -0.46339 255.91 296.17
+OBJECT_SHARED Models/lib/office8x14.ac -76.98510 -0.46347 255.91 296.17
+OBJECT_SHARED Models/lib/office8x14.ac -76.98506 -0.46355 255.93 296.17
+OBJECT_SHARED Models/lib/office4x14.ac -76.99047 -0.45729 255.94 28.49
+OBJECT_SHARED Models/lib/office4x14.ac -76.99043 -0.45727 254.79 28.49
+OBJECT_SHARED Models/lib/office40x25.ac -76.99040 -0.45766 254.80 26.57
+OBJECT_SHARED Models/lib/SmHangar.ac -76.98691 -0.46120 254.82 117.74
+OBJECT_SHARED Models/lib/SmHangar.ac -76.98672 -0.46110 255.63 117.28
+OBJECT_SHARED Models/lib/office32x25.ac -76.98658 -0.46128 255.61 207.48
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.98554 -0.46249 255.64 117
+# END dsf2stg

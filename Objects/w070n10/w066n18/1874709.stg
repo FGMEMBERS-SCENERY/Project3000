@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/NoParkStripes.xml -65.30519 18.31422 0.00 149.421
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.30313 18.31179 12.71 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.30292 18.31161 8.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.30281 18.31163 8.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.30272 18.31170 8.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.30284 18.31179 8.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -65.30294 18.31183 8.20 0
+OBJECT_SHARED Models/lib/cars10.ac -65.30406 18.31216 8.23 242.315
+OBJECT_SHARED Models/lib/cars10.ac -65.30437 18.31196 8.96 62.4613
+OBJECT_SHARED Models/lib/cars10.ac -65.30173 18.31270 9.17 150.107
+OBJECT_SHARED Models/lib/cars10.ac -65.30144 18.31255 9.63 151.008
+OBJECT_SHARED Models/lib/prop_a.ac -65.30155 18.31229 9.68 54.2935
+OBJECT_SHARED Models/lib/prop_a.ac -65.30196 18.31250 9.22 60.2553
+OBJECT_SHARED Models/lib/prop_a.ac -65.30209 18.31257 9.05 56.3101
+OBJECT_SHARED Models/lib/prop_a.ac -65.30221 18.31264 9.10 56.7252
+OBJECT_SHARED Models/lib/prop_a.ac -65.30233 18.31271 9.02 57.6527
+OBJECT_SHARED Models/lib/prop_a.ac -65.30212 18.31281 9.10 241.526
+# END dsf2stg

@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -80.25976 44.00910 0.00 187.944
+OBJECT_SHARED Models/lib/industrial13x24.ac -80.25956 44.00907 484.76 186.925
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.25921 44.00830 484.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26012 44.00828 484.36 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26052 44.00859 484.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26039 44.00878 485.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26224 44.00776 484.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26306 44.00779 485.64 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26339 44.00809 486.04 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26367 44.00805 486.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26525 44.01011 486.35 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26536 44.01005 487.41 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26530 44.00997 487.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26515 44.00998 487.40 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26694 44.00885 487.35 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26636 44.00852 487.95 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -80.26662 44.00834 487.66 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -80.26068 44.00803 487.71 302.348
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -80.26031 44.00813 484.99 220.462
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.26038 44.00813 484.82 6.95294
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -80.26044 44.00812 484.87 209.931
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.26051 44.00810 484.87 14.25
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.26029 44.00817 484.92 42.0316
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -80.26024 44.00816 484.84 46.3971
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.26028 44.00813 484.80 221.082
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -80.26034 44.00812 484.82 31.908
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.26041 44.00813 484.82 209.876
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -80.26047 44.00811 484.87 25.1447
+OBJECT_SHARED Models/Transport/hatchback_black.ac -80.26054 44.00810 484.92 18.4349
+# END dsf2stg

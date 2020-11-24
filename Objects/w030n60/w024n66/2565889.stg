@@ -1,25 +1,29 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fuel-truck.xml -23.14147 66.05557 4.62 205.73
-OBJECT_SHARED Models/lib/cars4.ac -23.14347 66.05485 4.29 118.202
-OBJECT_SHARED Models/lib/cars7.ac -23.14151 66.05527 4.96 116.232
-OBJECT_SHARED Models/lib/cars7.ac -23.14228 66.05514 4.70 118.886
-OBJECT_SHARED Models/lib/HorizTanks2.ac -23.13988 66.05508 6.24 333.43
-OBJECT_SHARED Models/lib/MedHangar.ac -23.14624 66.05456 2.64 296.28
-OBJECT_SHARED Models/lib/stack_of_cones.ac -23.14211 66.05554 4.40 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -23.14205 66.05554 4.40 270
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac -23.14219 66.05547 4.34 114.444
-OBJECT_SHARED Models/lib/luggage-cart-HD.ac -23.14229 66.05547 4.29 41.9867
-OBJECT_SHARED Models/Airport/cargoim.xml -23.14257 66.05544 4.23 0
-OBJECT_SHARED Models/Airport/cargobox.xml -23.14248 66.05547 4.17 0
-OBJECT_SHARED Models/lib/stack_of_cones.ac -23.14174 66.05560 4.51 0
-OBJECT_SHARED Models/lib/SmHangar.ac -23.14491 66.05441 3.62 296.16
-OBJECT_SHARED Models/lib/propane-tank.ac -23.14555 66.05458 3.04 116.38
-OBJECT_SHARED Models/lib/lamp10m.xml -23.14571 66.05463 2.97 299.56
-OBJECT_SHARED Models/lib/lamp10m.xml -23.14465 66.05449 3.68 351.54
-OBJECT_SHARED Models/lib/lamp10m.xml -23.14311 66.05529 4.05 26.57
-OBJECT_SHARED Models/lib/lamp10m.xml -23.14166 66.05558 4.51 78.16
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -23.14507 66.05458 3.33 30.99
-OBJECT_SHARED Models/lib/MedHangar.ac -23.14398 66.05465 4.10 296.77
+OBJECT_SHARED Models/lib/cars4.ac -23.14137 66.05501 0.00 213.11
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -23.14662 66.05451 5.36 219.64
+OBJECT_SHARED Models/Airport/cargoim.xml -23.14578 66.05441 2.40 28.16
+OBJECT_SHARED Models/Airport/cargoim.xml -23.14574 66.05442 2.98 28.16
+OBJECT_SHARED Models/Airport/cargoim.xml -23.14581 66.05442 3.05 28.16
+OBJECT_SHARED Models/Airport/cargoim.xml -23.14581 66.05440 2.98 28.16
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -23.14356 66.05467 2.98 122.24
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -23.14366 66.05523 4.30 209.25
+OBJECT_SHARED Models/lib/shed8x10.ac -23.14593 66.05449 3.79 118.86
+OBJECT_SHARED Models/lib/SmHangar.ac -23.14496 66.05441 2.87 298.35
+OBJECT_SHARED Models/lib/MedHangar.ac -23.14413 66.05461 3.55 298.41
+OBJECT_SHARED Models/lib/cars4.ac -23.14167 66.05528 4.03 28.69
+OBJECT_SHARED Models/lib/stack_of_cones.ac -23.14227 66.05544 4.82 118.58
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -23.14267 66.05519 4.40 34.05
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -23.14205 66.05533 4.38 30.62
+OBJECT_SHARED Models/lib/cars10.ac -23.14176 66.05491 4.66 212.64
+OBJECT_SHARED Models/lib/cars10.ac -23.14197 66.05504 5.17 212.35
+OBJECT_SHARED Models/lib/cars10.ac -23.14348 66.05488 4.97 118.28
+OBJECT_SHARED Models/lib/cars10.ac -23.14281 66.05522 4.20 209.71
+OBJECT_SHARED Models/lib/cars10.ac -23.14358 66.05518 4.33 28.97
+OBJECT_SHARED Models/lib/cars10.ac -23.14258 66.05506 3.85 210.25
+OBJECT_SHARED Models/lib/cars10.ac -23.14196 66.05521 4.54 210.49
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -23.14412 66.05504 4.76 28.97
+OBJECT_SHARED Models/lib/HorizTanks2.ac -23.13987 66.05503 3.71 57.53
+OBJECT_SHARED Models/lib/FireStationLg.ac -23.14176 66.05547 6.37 119.38
 # END dsf2stg

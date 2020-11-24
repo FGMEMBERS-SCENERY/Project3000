@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 175.64702 -36.73602 5.51 128.26
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 175.65290 -36.73228 6.05 237.3
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 175.64646 -36.73676 -0.00 90
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64792 -36.73592 5.93 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64724 -36.73618 5.36 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64745 -36.73606 5.43 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64637 -36.73571 1.31 180
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64666 -36.73552 5.69 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64681 -36.73541 5.85 0
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 175.64757 -36.73593 5.93 51.34
-OBJECT_SHARED Models/Transport/van_silver.ac 175.64765 -36.73587 5.93 63.44
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 175.64754 -36.73595 5.86 59.42
-OBJECT_SHARED Models/Transport/hatchback_red.ac 175.64729 -36.73611 5.43 62.47
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 175.64702 -36.73602 0.00 128.26
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 175.65290 -36.73228 5.51 237.3
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 175.64646 -36.73676 6.05 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64792 -36.73592 -0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64724 -36.73618 5.93 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64745 -36.73606 5.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64637 -36.73571 5.43 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64666 -36.73552 2.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 175.64681 -36.73541 5.69 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 175.64757 -36.73593 5.85 51.34
+OBJECT_SHARED Models/Transport/hatchback_black.ac 175.64765 -36.73587 5.93 63.44
+OBJECT_SHARED Models/Transport/hatchback_black.ac 175.64754 -36.73595 5.93 59.42
+OBJECT_SHARED Models/Transport/hatchback_red.ac 175.64729 -36.73611 5.86 62.47
 # END dsf2stg

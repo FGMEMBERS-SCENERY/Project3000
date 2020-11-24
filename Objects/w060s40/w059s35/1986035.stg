@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -58.24863 -34.18460 0.00 133.7
+OBJECT_SHARED Models/Transport/hatchback_black.ac -58.24868 -34.18458 8.72 173.88
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -58.24844 -34.18512 8.94 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -58.24847 -34.18504 8.70 0
+OBJECT_SHARED Models/Misc/6barrels.ac -58.24844 -34.18495 8.83 181.91
+OBJECT_SHARED Models/Misc/6barrels.ac -58.24857 -34.18467 8.53 121.61
+OBJECT_SHARED Models/Misc/6barrels.ac -58.24855 -34.18465 8.81 19.65
+OBJECT_SHARED Models/Misc/6barrels.ac -58.24854 -34.18466 8.81 209.74
+OBJECT_SHARED Models/lib/watertank3x1.ac -58.24863 -34.18467 8.58 100.3
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.24841 -34.18479 8.81 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.24834 -34.18496 8.46 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.24828 -34.18512 8.41 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.24824 -34.18533 8.48 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.24818 -34.18545 8.43 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.24811 -34.18563 8.52 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -58.24834 -34.18452 8.47 0
+# END dsf2stg

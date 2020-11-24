@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -101.02387 40.18842 0.00 2.04
+OBJECT_SHARED Models/lib/garden-shed.ac -101.02395 40.18846 849.67 271.61
+OBJECT_SHARED Models/Airport/cargobox.xml -101.02382 40.18823 849.74 189.46
+OBJECT_SHARED Models/Airport/cargobox.xml -101.02388 40.18827 849.48 0
+OBJECT_SHARED Models/Airport/cargobox.xml -101.02385 40.18826 849.57 198.43
+OBJECT_SHARED Models/Airport/cargobox.xml -101.02387 40.18830 849.57 175.91
+OBJECT_SHARED Models/Airport/cargobox.xml -101.02385 40.18828 849.57 90
+OBJECT_SHARED Models/Airport/cargobox.xml -101.02382 40.18826 849.57 180
+OBJECT_SHARED Models/Airport/cargobox.xml -101.02381 40.18828 849.57 225
+OBJECT_SHARED Models/lib/SmHangar.ac -101.02366 40.18821 849.57 91.28
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.02439 40.18790 849.48 355.76
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.02435 40.18787 849.20 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -101.02431 40.18789 849.20 2.23001
+OBJECT_SHARED Models/lib/trailer-fedex.ac -101.02366 40.18767 849.20 271.09
+OBJECT_SHARED Models/lib/trailer-fedex.ac -101.02377 40.18768 849.00 278.16
+OBJECT_SHARED Models/lib/trailer-fedex.ac -101.02382 40.18768 849.00 275.72
+OBJECT_SHARED Models/lib/trailer-fedex.ac -101.02387 40.18775 849.00 178.7
+OBJECT_SHARED Models/lib/trailer-fedex.ac -101.02397 40.18790 849.11 178.7
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.02355 40.18769 849.20 99.32
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.02372 40.18769 849.00 94.29
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.02392 40.18779 849.00 359.43
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.02393 40.18782 849.11 359.43
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.03029 40.19085 849.11 306.01
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.02393 40.18786 844.12 359.43
+OBJECT_SHARED Models/lib/propane-tank.ac -101.02404 40.18818 849.20 0.690002
+OBJECT_SHARED Models/lib/propane-tank.ac -101.02404 40.18820 849.48 0.690002
+OBJECT_SHARED Models/lib/industrial13x24.ac -101.02411 40.18822 849.48 90.22
+OBJECT_SHARED Models/lib/shed8x10.ac -101.03003 40.19102 849.48 180.22
+OBJECT_SHARED Models/lib/shed8x10.ac -101.02986 40.19015 844.70 4.14
+OBJECT_SHARED Models/lib/shed8x10.ac -101.02423 40.18790 839.49 88
+OBJECT_SHARED Models/lib/SmHangar.ac -101.02415 40.18763 849.20 42.55
+OBJECT_SHARED Models/lib/SmHangar.ac -101.02363 40.18742 848.89 91.51
+OBJECT_SHARED Models/lib/SmHangar.ac -101.02382 40.18742 848.69 91.51
+OBJECT_SHARED Models/lib/SmHangar.ac -101.02403 40.18753 848.69 39.3
+# END dsf2stg

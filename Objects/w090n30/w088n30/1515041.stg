@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -87.56156 30.54257 0.00 180.97
+OBJECT_SHARED Models/lib/garden-shed.ac -87.56295 30.54284 39.36 100.01
+OBJECT_SHARED Models/lib/shed8x10.ac -87.56416 30.54263 39.69 179.665
+OBJECT_SHARED Models/lib/shed8x10.ac -87.56404 30.54314 40.20 0.720001
+OBJECT_SHARED Models/Transport/hatchback_black.ac -87.56398 30.54320 39.84 88.9509
+OBJECT_SHARED Models/lib/garden-shed.ac -87.56427 30.54265 39.78 117.55
+OBJECT_SHARED Models/lib/prop_a.ac -87.56420 30.54308 40.23 89.54
+OBJECT_SHARED Models/Transport/hatchback_red.ac -87.56411 30.54256 39.91 29.74
+OBJECT_SHARED Models/Transport/van_silver.ac -87.56416 30.54256 40.17 24.77
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -87.56419 30.54256 40.20 11.89
+OBJECT_SHARED Models/Transport/hatchback_red.ac -87.56285 30.54299 40.20 268.88
+OBJECT_SHARED Models/lib/shed8x10.ac -87.56159 30.54287 39.54 0.809998
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -87.56388 30.54312 39.18 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -87.56387 30.54317 39.81 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -87.56386 30.54313 39.75 211.12
+OBJECT_SHARED Models/Transport/hatchback_green.ac -87.56181 30.54269 39.81 128.87
+OBJECT_SHARED Models/lib/deciduous-tree.xml -87.56021 30.54300 39.36 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -87.56058 30.54300 39.03 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56079 30.54308 39.07 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56084 30.54317 38.81 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56090 30.54331 38.75 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56218 30.54328 38.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56202 30.54327 39.14 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56189 30.54328 39.08 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56291 30.54272 39.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56283 30.54272 39.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56275 30.54272 39.69 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56302 30.54295 39.65 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.56309 30.54290 39.63 0
+# END dsf2stg

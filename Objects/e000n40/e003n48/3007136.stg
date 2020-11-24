@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac 3.01301 48.59440 0.00 90
+OBJECT_SHARED Models/lib/cars6.ac 3.00364 48.59257 126.70 218.126
+OBJECT_SHARED Models/lib/cars4.ac 3.01378 48.59416 124.73 88.6361
+OBJECT_SHARED Models/lib/cars4.ac 3.01396 48.59446 127.80 357.955
+OBJECT_SHARED Models/lib/deciduous-tree.xml 3.01354 48.59409 127.41 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 3.01343 48.59411 127.83 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 3.01333 48.59412 127.77 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 3.01321 48.59414 127.71 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 3.01342 48.59405 127.44 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 3.01365 48.59405 127.93 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 3.01375 48.59400 127.88 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 3.01360 48.59401 127.95 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 3.01347 48.59401 127.94 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 3.01333 48.59402 127.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.01415 48.59452 127.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.01427 48.59450 127.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.01428 48.59462 127.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.01416 48.59468 127.47 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.01385 48.59481 127.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.01377 48.59479 126.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.01368 48.59474 126.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.01385 48.59401 126.93 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.01397 48.59402 127.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.01359 48.59446 127.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.01332 48.59431 127.19 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.01338 48.59435 127.37 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.01415 48.59410 127.41 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.01437 48.59482 127.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.01418 48.59481 127.24 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.01410 48.59488 127.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.01419 48.59495 126.98 0
+# END dsf2stg

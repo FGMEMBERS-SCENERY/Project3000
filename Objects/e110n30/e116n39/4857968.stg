@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampGroup.xml 116.12864 39.75495 0.00 58.96
+OBJECT_SHARED Models/lib/RampGroup.xml 116.12890 39.75529 51.87 58.51
+OBJECT_SHARED Models/lib/RampGroup.xml 116.12919 39.75564 51.82 58.97
+OBJECT_SHARED Models/lib/RampParking.xml 116.13228 39.75888 51.76 105.27
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.13145 39.75799 51.48 328.2
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 116.13113 39.75815 51.53 328.53
+OBJECT_SHARED Models/lib/RampParking.xml 116.13178 39.75922 51.48 148.82
+OBJECT_SHARED Models/lib/office8x14.ac 116.12293 39.75211 51.34 329.62
+OBJECT_SHARED Models/lib/admin31x12.ac 116.12891 39.75514 49.60 148.43
+# END dsf2stg

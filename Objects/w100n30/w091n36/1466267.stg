@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -90.16751 36.37921 0.00 180.08
+OBJECT_SHARED Models/lib/office4x14.ac -90.16671 36.38165 79.79 272.01
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -90.16675 36.38127 80.20 90
+OBJECT_SHARED Models/lib/prop_a.ac -90.16721 36.37879 80.15 180
+OBJECT_SHARED Models/Transport/van_red.ac -90.16745 36.37933 79.69 313.531
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.16665 36.38116 79.83 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -90.16668 36.38161 80.13 0
+# END dsf2stg

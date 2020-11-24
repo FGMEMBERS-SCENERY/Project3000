@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48978 48.28850 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48965 48.28834 787.71 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48956 48.28815 787.92 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48862 48.28673 788.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48822 48.28578 789.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48805 48.28562 790.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48820 48.28564 791.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48832 48.28566 791.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48887 48.28643 790.94 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48888 48.28654 790.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48843 48.28637 790.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48856 48.28633 790.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48869 48.28626 790.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48860 48.28613 790.20 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -115.48926 48.28665 790.39 199.61
+OBJECT_SHARED Models/Misc/picnic_table.ac -115.48932 48.28675 789.92 199.03
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -115.48921 48.28685 789.83 0
+OBJECT_SHARED Models/lib/SmHangar.ac -115.48766 48.28217 789.64 13.72
+OBJECT_SHARED Models/lib/SmHangar.ac -115.48763 48.28293 793.47 285.25
+OBJECT_SHARED Models/lib/SmHangar.ac -115.48795 48.28287 793.03 284.99
+OBJECT_SHARED Models/lib/SmHangar.ac -115.48737 48.28318 793.03 104.35
+OBJECT_SHARED Models/lib/SmHangar.ac -115.48776 48.28318 792.90 14.39
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -115.48811 48.28416 792.81 194.68
+OBJECT_SHARED Models/lib/fuel-truck.xml -115.48944 48.28717 792.09 195.16
+OBJECT_SHARED Models/lib/office16x4n.ac -115.48877 48.28712 789.37 20.59
+OBJECT_SHARED Models/lib/lamp10m.xml -115.48925 48.28697 789.46 13.39
+OBJECT_SHARED Models/lib/lamp10m.xml -115.48882 48.28519 789.55 -30.53
+OBJECT_SHARED Models/lib/lamp10m.xml -115.48834 48.28466 791.21 12.34
+OBJECT_SHARED Models/lib/lamp10m.xml -115.48807 48.28427 791.74 17.93
+OBJECT_SHARED Models/lib/lamp10m.xml -115.48712 48.28317 792.02 2.12
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48736 48.28399 792.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48751 48.28439 792.53 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48748 48.28434 791.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48758 48.28455 792.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48793 48.28519 791.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48790 48.28511 791.34 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48862 48.28502 791.42 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48841 48.28507 791.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -115.48849 48.28464 791.42 0
+# END dsf2stg

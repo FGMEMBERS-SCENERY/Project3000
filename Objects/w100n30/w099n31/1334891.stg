@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14511 31.67157 0.00 176.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14534 31.67159 394.63 356.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14512 31.67143 394.74 176.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14535 31.67144 394.68 356.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14513 31.67129 394.85 176.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14536 31.67131 394.70 356.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14514 31.67115 394.87 176.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14537 31.67117 394.73 356.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14515 31.67103 394.89 176.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14538 31.67104 394.78 356.73
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14421 31.67147 394.94 84.08
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14432 31.67148 394.07 84.08
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14449 31.67082 394.14 354.48
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14435 31.67081 394.45 174.48
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14433 31.67095 394.39 174.48
+OBJECT_SHARED Models/lib/SmHangar.ac -98.14437 31.67117 394.27 265.01
+OBJECT_SHARED Models/lib/LongRow.ac -98.14527 31.67100 394.29 86.73
+OBJECT_SHARED Models/lib/LongRow.ac -98.14394 31.67047 394.89 77.88
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.14470 31.66999 394.09 262.77
+OBJECT_SHARED Models/Transport/hatchback_black.ac -98.14397 31.67012 394.67 87.04
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.14429 31.67015 394.22 341.61
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.14441 31.67157 394.40 263.53
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -98.14447 31.67109 394.18 263.53
+OBJECT_SHARED Models/Transport/van_silver.ac -98.14432 31.67016 394.38 341.61
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.14441 31.67018 394.40 341.61
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.14524 31.67089 394.46 10.5
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.14528 31.67090 394.85 350.19
+OBJECT_SHARED Models/Transport/van_red.ac -98.14383 31.67118 394.91 167.17
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.14392 31.67114 393.86 257.52
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.14400 31.67038 393.95 344.75
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.14403 31.67039 394.18 344.75
+OBJECT_SHARED Models/lib/prop_a.ac -98.14408 31.66993 394.18 82.81
+OBJECT_SHARED Models/lib/prop_a.ac -98.14542 31.67159 394.31 176.23
+OBJECT_SHARED Models/lib/coal_pile.ac -98.14408 31.67158 394.80 90
+# END dsf2stg

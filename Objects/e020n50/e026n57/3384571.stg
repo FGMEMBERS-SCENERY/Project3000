@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 26.97619 57.93593 0.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 26.97621 57.93591 101.52 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 26.97439 57.93648 101.52 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 26.97438 57.93648 102.50 0
+OBJECT_SHARED Models/lib/cone.ac 26.97644 57.93625 102.50 308
+OBJECT_SHARED Models/lib/cone.ac 26.97643 57.93641 101.31 308
+OBJECT_SHARED Models/lib/stack_of_cones.ac 26.97539 57.93695 101.27 56.31
+OBJECT_SHARED Models/lib/prop_a.ac 26.97633 57.93584 101.52 180
+OBJECT_SHARED Models/lib/prop_a.ac 26.97483 57.93684 101.51 4.4
+OBJECT_SHARED Models/lib/propane-tank.ac 26.97417 57.93625 101.91 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 26.97546 57.93666 102.96 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac 26.97546 57.93670 101.61 90
+OBJECT_SHARED Models/Transport/van_silver.ac 26.97641 57.93766 101.61 0.01001
+OBJECT_SHARED Models/Transport/van_red.ac 26.97635 57.93766 100.70 356.19
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 26.97629 57.93765 100.71 3.82999
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 26.97623 57.93765 100.71 3.82999
+OBJECT_SHARED Models/Transport/hatchback_black.ac 26.97617 57.93765 100.71 356.19
+OBJECT_SHARED Models/lib/transformer3x3.ac 26.97454 57.93670 100.71 95
+OBJECT_SHARED Models/lib/farm19x12.ac 26.97507 57.93670 102.21 180
+OBJECT_SHARED Models/lib/shed8x10.ac 26.97425 57.93646 101.81 180
+OBJECT_SHARED Models/lib/shed8x10.ac 26.97577 57.93765 102.57 94.09
+OBJECT_SHARED Models/lib/shed8x10.ac 26.97622 57.93774 100.77 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 26.97608 57.93580 100.71 90
+# END dsf2stg

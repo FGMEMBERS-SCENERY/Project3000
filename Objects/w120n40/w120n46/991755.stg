@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.11884 46.19872 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.11882 46.19854 122.64 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.11979 46.19841 122.37 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.12033 46.19841 121.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -119.12065 46.19842 121.85 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -119.11901 46.19993 120.63 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -119.11897 46.19988 122.90 90
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -119.11973 46.19933 122.90 3.26999
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -119.11983 46.19932 120.76 180
+OBJECT_SHARED Models/lib/4_spaces_dual.ac -119.12027 46.19982 120.76 358.21
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -119.12047 46.19983 120.01 88.02
+OBJECT_SHARED Models/lib/lamp10m.xml -119.11991 46.19853 120.01 180
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -119.12005 46.19919 121.75 312.36
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -119.11995 46.20003 121.00 268.02
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -119.12058 46.19933 119.76 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -119.12059 46.19944 118.50 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -119.12058 46.19938 118.26 0
+OBJECT_SHARED Models/lib/cars10.ac -119.12009 46.19900 118.26 179.48
+OBJECT_SHARED Models/lib/cars10.ac -119.12066 46.19915 121.22 359.5
+# END dsf2stg

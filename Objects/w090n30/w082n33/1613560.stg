@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.79384 33.92539 0.00 262
+OBJECT_SHARED Models/lib/LongRow.ac -81.79371 33.92463 162.01 262
+OBJECT_SHARED Models/lib/office6x12.ac -81.79318 33.92534 162.08 264
+OBJECT_SHARED Models/lib/shed8x10.ac -81.79318 33.92541 161.27 174
+# END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4container-office.ac -123.29647 40.20743 0.00 268.1
+OBJECT_SHARED Models/lib/SmHangar.ac -123.29557 40.20698 845.38 210.87
+OBJECT_SHARED Models/lib/SmHangar.ac -123.29566 40.20708 845.82 210.87
+OBJECT_SHARED Models/lib/SmHangar.ac -123.29630 40.20841 845.70 117.6
+OBJECT_SHARED Models/lib/4container-office.ac -123.29648 40.20804 844.36 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -123.29578 40.20739 844.76 303.37
+OBJECT_SHARED Models/Transport/hatchback_red.ac -123.29580 40.20743 845.38 303.37
+OBJECT_SHARED Models/lib/industrial13x24.ac -123.29724 40.20778 845.38 79.38
+OBJECT_SHARED Models/lib/LongRow.ac -123.29655 40.20456 845.68 137.29
+OBJECT_SHARED Models/lib/farm19x12.ac -123.29715 40.20530 856.06 299.95
+# END dsf2stg

@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac -79.66074 45.27145 0.00 275.67
+OBJECT_SHARED Models/lib/cone.ac -79.65733 45.27053 251.69 18.23
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.65734 45.27038 258.40 18.23
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -79.65731 45.27053 257.49 320.08
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.65744 45.27044 258.40 18.23
+OBJECT_SHARED Models/Misc/6barrels.ac -79.65720 45.27044 257.63 18.23
+OBJECT_SHARED Models/Misc/6barrels.ac -79.65719 45.27043 257.36 18.23
+OBJECT_SHARED Models/lib/2vending-machines.ac -79.65732 45.27052 257.36 230.43
+OBJECT_SHARED Models/Transport/hatchback_black.ac -79.65719 45.27074 258.40 139.09
+OBJECT_SHARED Models/lib/2container-office.ac -79.65680 45.27059 260.09 175.09
+OBJECT_SHARED Models/Transport/Norberttruck.xml -79.65334 45.26776 260.38 146.85
+OBJECT_SHARED Models/lib/office3x10.ac -79.65333 45.26766 252.00 57.86
+OBJECT_SHARED Models/lib/trailer-fedex.ac -79.65335 45.26771 251.78 332.05
+# END dsf2stg

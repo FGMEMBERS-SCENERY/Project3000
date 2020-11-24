@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -109.48099 49.89716 0.00 16.03
+OBJECT_SHARED Models/lib/propane-tank.ac -109.48211 49.89672 765.21 198.13
+OBJECT_SHARED Models/lib/industrial13x24.ac -109.48240 49.89667 765.09 287.375
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -109.48135 49.89686 765.09 202.38
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -109.48205 49.89667 765.20 16.9715
+OBJECT_SHARED Models/lib/SmHangar.ac -109.48178 49.89684 765.09 108.17
+OBJECT_SHARED Models/lib/shed8x10.ac -109.48051 49.89715 765.09 288.84
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -109.48122 49.89713 765.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -109.48135 49.89709 765.20 0
+# END dsf2stg

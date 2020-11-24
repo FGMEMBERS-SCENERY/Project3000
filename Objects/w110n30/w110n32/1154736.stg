@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87860 32.84585 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87842 32.84605 948.55 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87837 32.84600 947.23 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87648 32.84565 947.02 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87656 32.84567 934.06 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87663 32.84568 939.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87688 32.84604 939.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87693 32.84606 940.61 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87698 32.84608 940.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87737 32.84589 940.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87726 32.84596 940.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87812 32.84581 940.61 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87808 32.84583 946.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87813 32.84567 946.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87808 32.84566 946.38 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87805 32.84584 946.38 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87799 32.84580 946.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87796 32.84565 946.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -109.87802 32.84563 946.38 0
+OBJECT_SHARED Models/lib/lamp10m.xml -109.87990 32.84860 946.17 288.22
+OBJECT_SHARED Models/lib/garage-small-white.ac -109.87722 32.84681 942.26 271.28
+OBJECT_SHARED Models/lib/garden-shed.ac -109.87658 32.84541 942.41 351.87
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -109.87864 32.84623 939.33 270
+OBJECT_SHARED Models/Transport/hatchback_green.ac -109.87860 32.84604 947.82 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -109.87862 32.84616 948.31 270
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -109.87863 32.84620 947.82 270
+OBJECT_SHARED Models/lib/prop_a.ac -109.87849 32.84623 947.82 85.6
+OBJECT_SHARED Models/Transport/van_red.ac -109.87707 32.84593 947.44 347.91
+OBJECT_SHARED Models/lib/prop_a.ac -109.87773 32.84634 940.39 90
+OBJECT_SHARED Models/lib/watertank3x1.ac -109.87728 32.84675 947.65 7.59
+OBJECT_SHARED Models/lib/SmHangar.ac -109.87702 32.84679 942.09 97.34
+OBJECT_SHARED Models/lib/SmHangar.ac -109.87677 32.84682 942.41 97.34
+OBJECT_SHARED Models/lib/lamp10m.xml -109.87715 32.84678 942.41 221.94
+OBJECT_SHARED Models/lib/lamp10m.xml -109.87806 32.84580 942.41 270
+OBJECT_SHARED Models/lib/lamp10m.xml -109.87997 32.84840 946.59 255.96
+OBJECT_SHARED Models/lib/SmHangar.ac -109.87998 32.84830 942.62 161.56
+OBJECT_SHARED Models/lib/SmHangar.ac -109.87990 32.84850 942.81 162.32
+OBJECT_SHARED Models/lib/2container-office.ac -109.87991 32.84872 942.44 102.53
+OBJECT_SHARED Models/lib/prop_a.ac -109.87969 32.84915 942.08 342.47
+# END dsf2stg

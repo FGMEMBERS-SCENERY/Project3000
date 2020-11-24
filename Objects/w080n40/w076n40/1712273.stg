@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -75.66924 40.25959 0.00 21.09
+OBJECT_SHARED Models/Transport/hatchback_black.ac -75.66922 40.25975 74.18 22.48
+OBJECT_SHARED Models/Transport/van_silver.ac -75.67137 40.25873 74.26 333.44
+OBJECT_SHARED Models/Transport/van_silver.ac -75.67182 40.25861 75.26 114.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac -75.67217 40.25850 75.60 293.48
+OBJECT_SHARED Models/lib/MedHangar.ac -75.66796 40.26047 75.93 293.12
+OBJECT_SHARED Models/lib/hangar81x16.ac -75.66989 40.25891 74.03 112.69
+OBJECT_SHARED Models/lib/hangar81x16.ac -75.67031 40.25878 74.40 112.69
+OBJECT_SHARED Models/lib/LongRow.ac -75.67198 40.25889 75.20 22.53
+OBJECT_SHARED Models/lib/LongRow.ac -75.67254 40.25871 75.53 22.53
+OBJECT_SHARED Models/lib/cars6.ac -75.66878 40.25977 75.91 204.15
+OBJECT_SHARED Models/lib/cars10.ac -75.66920 40.26000 74.00 22.39
+OBJECT_SHARED Models/lib/cars6.ac -75.66806 40.26009 74.49 22.78
+OBJECT_SHARED Models/lib/cars10.ac -75.66856 40.25992 73.62 22.69
+OBJECT_SHARED Models/lib/propane-tank.ac -75.66917 40.25978 73.90 292.71
+OBJECT_SHARED Models/lib/HorizTanks2.ac -75.66930 40.25999 74.36 292.9
+OBJECT_SHARED Models/lib/cars10.ac -75.66803 40.25973 74.54 203.44
+OBJECT_SHARED Models/lib/cars10.ac -75.66812 40.25988 73.06 203.44
+OBJECT_SHARED Models/lib/cars10.ac -75.66913 40.25985 73.40 23.25
+OBJECT_SHARED Models/lib/cars10.ac -75.66813 40.25988 74.28 23.25
+OBJECT_SHARED Models/lib/cars10.ac -75.66769 40.25984 73.40 203.44
+OBJECT_SHARED Models/lib/cars10.ac -75.66878 40.25996 72.90 203.44
+OBJECT_SHARED Models/lib/cars10.ac -75.66778 40.25999 74.23 203.44
+OBJECT_SHARED Models/lib/cars10.ac -75.66847 40.25977 73.25 23.25
+OBJECT_SHARED Models/lib/office65x50.ac -75.66892 40.26390 73.68 260.81
+OBJECT_SHARED Models/lib/office112x50.ac -75.66848 40.26247 71.59 170.74
+OBJECT_SHARED Models/lib/office40x25.ac -75.66710 40.26244 74.27 81.15
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66935 40.26039 73.51 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66944 40.26038 75.17 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66949 40.26043 75.18 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66955 40.26054 75.20 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66961 40.26066 75.19 180
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66976 40.26062 75.14 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66969 40.26050 75.15 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66963 40.26039 75.18 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66962 40.26032 75.20 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66969 40.26028 75.21 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.66976 40.26025 75.21 0
+# END dsf2stg

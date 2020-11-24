@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.55713 36.60162 0.00 152.67
+OBJECT_SHARED Models/lib/canopy38x8.ac -78.55423 36.60122 125.95 59.96
+OBJECT_SHARED Models/lib/SmHangar.ac -78.55732 36.60146 124.52 152.17
+OBJECT_SHARED Models/lib/SmHangar.ac -78.55745 36.60126 125.74 154.31
+OBJECT_SHARED Models/lib/SmHangar.ac -78.55756 36.60107 125.32 154.31
+OBJECT_SHARED Models/lib/SmHangar.ac -78.55767 36.60089 124.89 154.31
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -78.55190 36.60134 124.45 0
+OBJECT_SHARED Models/lib/2container-office.ac -78.55424 36.60012 125.20 262.12
+OBJECT_SHARED Models/lib/2container-office.ac -78.55409 36.60004 120.57 327.92
+OBJECT_SHARED Models/lib/2container-office.ac -78.55406 36.60010 120.21 333.43
+OBJECT_SHARED Models/lib/2container-office.ac -78.55394 36.60020 120.70 333.78
+OBJECT_SHARED Models/lib/2container-office.ac -78.55391 36.60027 121.43 338.37
+OBJECT_SHARED Models/lib/4container-office.ac -78.55450 36.60041 121.92 64.13
+OBJECT_SHARED Models/lib/2container-office.ac -78.55404 36.60042 121.97 241.97
+OBJECT_SHARED Models/lib/2container-office.ac -78.55430 36.60012 122.27 259.27
+OBJECT_SHARED Models/lib/2container-office.ac -78.55436 36.60012 120.44 257.26
+OBJECT_SHARED Models/lib/2container-office.ac -78.55442 36.60012 120.31 254.77
+OBJECT_SHARED Models/lib/2container-office.ac -78.55447 36.60014 120.31 247.36
+OBJECT_SHARED Models/lib/2container-office.ac -78.55456 36.60014 120.18 243.44
+OBJECT_SHARED Models/lib/farm19x12.ac -78.55589 36.60123 120.05 332.75
+OBJECT_SHARED Models/lib/prop_a.ac -78.55679 36.60151 124.63 123.22
+# END dsf2stg

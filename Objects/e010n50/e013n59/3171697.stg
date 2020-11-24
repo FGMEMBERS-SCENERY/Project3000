@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 13.49176 59.79765 91.10 212.57
-OBJECT_SHARED Models/Misc/picnic_table.ac 13.49180 59.79783 91.05 0
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.49152 59.79743 91.30 63.84
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 13.49176 59.79765 0.00 212.57
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.49180 59.79783 91.10 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 13.49152 59.79743 91.05 63.84
 # END dsf2stg

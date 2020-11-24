@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12955 48.98192 0.00 0
+OBJECT_SHARED Models/lib/shed8x10.ac 17.12956 48.98147 201.03 100.04
+OBJECT_SHARED Models/lib/transformer3x3.ac 17.12902 48.98277 200.30 196.12
+OBJECT_SHARED Models/lib/transformer3x3.ac 17.12908 48.98260 202.68 196.31
+OBJECT_SHARED Models/lib/garden-shed.ac 17.12895 48.98327 202.34 199.43
+OBJECT_SHARED Models/lib/garden-shed.ac 17.12897 48.98324 203.35 199.47
+OBJECT_SHARED Models/lib/garden-shed.ac 17.12898 48.98322 203.22 199.64
+OBJECT_SHARED Models/lib/office3x10.ac 17.12903 48.98320 203.22 287.88
+OBJECT_SHARED Models/lib/office3x10.ac 17.12972 48.98166 203.22 196.73
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 17.12892 48.98272 200.56 288.44
+OBJECT_SHARED Models/Transport/van_silver.ac 17.12892 48.98270 202.57 283.32
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 17.12894 48.98267 202.57 283.24
+OBJECT_SHARED Models/Airport/cargoip.xml 17.12912 48.98261 202.57 285.59
+OBJECT_SHARED Models/Airport/cargoip.xml 17.12906 48.98277 202.34 12.63
+OBJECT_SHARED Models/Transport/hatchback_black.ac 17.12925 48.98179 202.64 285.33
+OBJECT_SHARED Models/Transport/hatchback_black.ac 17.12925 48.98177 201.07 285.33
+OBJECT_SHARED Models/Transport/hatchback_red.ac 17.12912 48.98224 201.00 285.33
+OBJECT_SHARED Models/Transport/hatchback_black.ac 17.12909 48.98232 201.75 285.33
+OBJECT_SHARED Models/Transport/van_silver.ac 17.12907 48.98239 201.90 285.33
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 17.12908 48.98236 202.05 285.33
+OBJECT_SHARED Models/Transport/hatchback_black.ac 17.12911 48.98228 202.05 285.33
+OBJECT_SHARED Models/Transport/hatchback_red.ac 17.12898 48.98259 201.90 287.35
+OBJECT_SHARED Models/Transport/van_silver.ac 17.12895 48.98265 202.39 287.35
+OBJECT_SHARED Models/Transport/hatchback_red.ac 17.12897 48.98261 202.43 283.63
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12788 48.98358 202.39 258.47
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12826 48.98358 203.99 16.7
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12840 48.98319 203.90 278.13
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12851 48.98323 203.39 287.1
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12830 48.98316 203.36 82.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12818 48.98314 203.42 265.76
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12808 48.98312 203.33 341.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12848 48.98287 203.36 281.89
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12907 48.98290 203.00 157.75
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 17.12887 48.98280 202.78 348.41
+# END dsf2stg

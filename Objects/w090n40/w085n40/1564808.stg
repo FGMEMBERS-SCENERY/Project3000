@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -84.92222 40.17046 0.00 188.01
+OBJECT_SHARED Models/lib/lamp10m.xml -84.92252 40.17044 339.73 180
+OBJECT_SHARED Models/lib/lamp10m.xml -84.92279 40.17057 339.77 271.02
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -84.92202 40.17148 339.67 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -84.92206 40.17147 339.23 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -84.92182 40.17156 339.23 0
+OBJECT_SHARED Models/lib/shed8x10.ac -84.92222 40.17060 339.15 270
+OBJECT_SHARED Models/lib/shed10x50.ac -84.92252 40.17067 339.68 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -84.92205 40.17140 339.62 358.57
+OBJECT_SHARED Models/lib/prop_a.ac -84.92102 40.17095 339.29 0
+OBJECT_SHARED Models/lib/handicap-sign.ac -84.92097 40.17117 339.52 269.62
+OBJECT_SHARED Models/lib/handicap-sign.ac -84.92094 40.17117 339.36 269.61
+OBJECT_SHARED Models/lib/LongRow.ac -84.92224 40.17134 339.35 270
+OBJECT_SHARED Models/lib/SmHangar.ac -84.92179 40.17130 339.35 89.85
+OBJECT_SHARED Models/lib/cars14.ac -84.92117 40.17117 339.32 270
+# END dsf2stg

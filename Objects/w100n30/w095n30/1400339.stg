@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac -94.07633 30.32675 0.00 225.167
+OBJECT_SHARED Models/lib/stack_of_cones.ac -94.07637 30.32677 11.87 0
+OBJECT_SHARED Models/Transport/van_red.ac -94.07644 30.32657 11.85 202.563
+OBJECT_SHARED Models/Transport/van_silver.ac -94.07538 30.32673 11.86 0
+OBJECT_SHARED Models/lib/MedHangar.ac -94.07565 30.32677 11.97 114.986
+# END dsf2stg

@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/admin31x12.ac -81.35941 13.35848 0.00 187.883
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -81.35925 13.35832 11.60 119.299
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -81.35898 13.35808 10.88 0
+OBJECT_SHARED Models/lib/SmHangar.ac -81.35758 13.35751 10.43 3.24079
+# END dsf2stg

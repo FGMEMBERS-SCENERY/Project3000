@@ -1,44 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -76.24826 36.74575 5.00 106
-OBJECT_SHARED Models/lib/office32x25n.ac -76.24703 36.74470 5.00 107
-OBJECT_SHARED Models/lib/office32x25.ac -76.24789 36.74666 5.01 196
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24794 36.74543 5.50 45
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24789 36.74544 5.50 45
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24785 36.74545 5.50 45
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24780 36.74546 5.50 45
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24776 36.74547 5.50 45
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24786 36.74560 5.50 45
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24782 36.74561 5.50 45
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24795 36.74558 5.50 45
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24799 36.74557 5.50 45
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24791 36.74559 5.50 45
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24795 36.74546 5.50 320
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24798 36.74553 5.50 320
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24796 36.74550 5.50 320
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24777 36.74550 5.50 320
-OBJECT_SHARED Models/Effects/taxilampblue.xml -76.24780 36.74557 5.50 320
-OBJECT_SHARED Models/lib/industrial13x24.ac -76.24725 36.74576 5.01 285
-OBJECT_SHARED Models/lib/garages18x9.ac -76.24815 36.74558 5.00 17
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24816 36.74530 5.00 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24840 36.74558 5.00 138
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24839 36.74553 5.00 138
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24813 36.74524 5.00 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24811 36.74518 5.00 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24808 36.74512 5.00 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24799 36.74489 5.00 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24806 36.74507 5.00 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24802 36.74495 5.00 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24803 36.74501 5.00 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24789 36.74465 5.01 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24797 36.74483 5.01 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24792 36.74471 5.00 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24794 36.74477 5.00 103
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24750 36.74661 5.02 113
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24803 36.74635 5.01 113
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24795 36.74617 5.01 113
-OBJECT_SHARED Models/Trees/billboard-tree.xml -76.24799 36.74627 5.01 113
-OBJECT_SHARED Models/lib/transformer3x3.ac -76.24821 36.74551 5.00 108
-OBJECT_SHARED Models/lib/transformer3x3.ac -76.24742 36.74562 5.00 286
+OBJECT_SHARED Models/lib/office8x14.ac -76.12936 36.70546 0.00 205
+OBJECT_SHARED Models/lib/office8x14.ac -76.12866 36.70430 3.03 200
+OBJECT_SHARED Models/lib/trailer-fedex.ac -76.12926 36.70543 2.97 115.01
+OBJECT_SHARED Models/lib/FireStationLg.ac -76.12870 36.70523 3.02 205
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -76.12906 36.70567 -92.02 0
+OBJECT_SHARED Models/lib/office4x14.ac -76.12873 36.70447 3.01 203
+OBJECT_SHARED Models/lib/office40x25.ac -76.12851 36.70471 2.97 295
+OBJECT_SHARED Models/lib/office32x25n.ac -76.12836 36.70588 2.96 254
 # END dsf2stg

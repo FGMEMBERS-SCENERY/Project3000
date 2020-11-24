@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -100.81659 39.11737 0.00 89.42
+OBJECT_SHARED Models/lib/MedHangar.ac -100.81635 39.11763 926.57 180.34
+OBJECT_SHARED Models/lib/SmHangar.ac -100.81557 39.11816 926.20 180.19
+OBJECT_SHARED Models/lib/SmHangar.ac -100.81557 39.11837 925.88 179.96
+OBJECT_SHARED Models/lib/SmHangar.ac -100.81517 39.11816 925.73 89.5
+OBJECT_SHARED Models/Misc/6barrels.ac -100.81667 39.11731 925.48 10.01
+OBJECT_SHARED Models/Misc/6barrels.ac -100.81669 39.11731 926.60 10.01
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.81373 39.11779 926.60 4.57001
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.81377 39.11779 925.29 191.63
+OBJECT_SHARED Models/Misc/picnic_table.ac -100.81439 39.11831 925.29 171.87
+OBJECT_SHARED Models/Misc/picnic_table.ac -100.81444 39.11832 924.98 199.86
+OBJECT_SHARED Models/Misc/picnic_table.ac -100.81448 39.11832 924.98 205.91
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -100.81482 39.11828 924.98 180
+OBJECT_SHARED Models/lib/propane-tank.ac -100.81675 39.11730 925.42 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -100.81571 39.11807 926.60 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -100.81642 39.11743 925.95 180.16
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -100.81531 39.11836 926.26 269.94
+OBJECT_SHARED Models/lib/4space_wStop.ac -100.81512 39.11829 925.36 270.56
+OBJECT_SHARED Models/Transport/van_red.ac -100.81393 39.11825 925.42 225.67
+OBJECT_SHARED Models/Transport/hatchback_red.ac -100.81392 39.11829 924.98 279.46
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.81393 39.11833 924.98 265.49
+OBJECT_SHARED Models/Transport/Norberttruck.xml -100.81686 39.11742 924.98 75.85
+OBJECT_SHARED Models/lib/farm19x12.ac -100.81749 39.11876 926.57 17.68
+# END dsf2stg

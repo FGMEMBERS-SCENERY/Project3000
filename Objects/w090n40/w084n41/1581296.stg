@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/coal_pile.ac -83.86715 41.85573 0.00 90
+OBJECT_SHARED Models/lib/coal_pile.ac -83.86623 41.85569 209.38 270
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -83.86619 41.85560 209.32 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -83.86660 41.85540 209.25 0.600006
+OBJECT_SHARED Models/lib/propane-tank.ac -83.86639 41.85545 209.16 91.59
+OBJECT_SHARED Models/lib/propane-tank.ac -83.86621 41.85529 209.15 358.57
+OBJECT_SHARED Models/Misc/picnic_table.ac -83.86632 41.85537 209.08 90
+OBJECT_SHARED Models/lib/SmHangar.ac -83.86723 41.85546 209.14 90.19
+OBJECT_SHARED Models/lib/SmHangar.ac -83.86763 41.85545 209.28 90.79
+OBJECT_SHARED Models/lib/shed8x10.ac -83.86636 41.85570 209.33 0.269997
+OBJECT_SHARED Models/lib/SmHangar.ac -83.86771 41.85565 209.33 0.550003
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -83.86789 41.85551 209.44 0.599998
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -83.86660 41.85559 209.37 270.85
+OBJECT_SHARED Models/lib/industrial13x24.ac -83.86695 41.85566 209.28 0.800003
+OBJECT_SHARED Models/lib/garden-shed.ac -83.86642 41.85544 209.37 2.32
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -83.86603 41.85544 209.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -83.86647 41.85570 209.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -83.86610 41.85560 209.33 0
+# END dsf2stg

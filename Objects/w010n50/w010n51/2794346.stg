@@ -1,7 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -9.48885 51.67619 10.94 294.29
-OBJECT_SHARED Models/Misc/6barrels.ac -9.48866 51.67626 10.41 341.37
-OBJECT_SHARED Models/lib/transformer3x3.ac -9.48918 51.67578 13.81 154.77
+OBJECT_SHARED Models/lib/prop_a.ac -9.48790 51.67667 0.00 113.96
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -9.48910 51.67626 5.80 294.3
+OBJECT_SHARED Models/Misc/6barrels.ac -9.48909 51.67622 6.07 0
+OBJECT_SHARED Models/Misc/6barrels.ac -9.48909 51.67624 6.30 0
+OBJECT_SHARED Models/lib/prop_a.ac -9.48811 51.67661 6.30 119.43
+OBJECT_SHARED Models/lib/prop_a.ac -9.48831 51.67654 5.90 121.43
+OBJECT_SHARED Models/lib/office8x14.ac -9.48476 51.67882 6.02 266.19
+OBJECT_SHARED Models/Transport/van_silver.ac -9.49032 51.67600 1.07 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -9.49029 51.67598 6.28 293.2
+OBJECT_SHARED Models/Transport/van_red.ac -9.49027 51.67596 6.29 288.44
+OBJECT_SHARED Models/Transport/hatchback_black.ac -9.49023 51.67594 6.30 293.96
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -9.49039 51.67594 6.53 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -9.49045 51.67598 6.49 217.87
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -9.49000 51.67602 6.25 277.69
+OBJECT_SHARED Models/Transport/hatchback_green.ac -9.49053 51.67604 6.39 292.25
+OBJECT_SHARED Models/Misc/6barrels.ac -9.48866 51.67626 6.23 341.37
+OBJECT_SHARED Models/lib/transformer3x3.ac -9.48917 51.67575 6.28 143.16
 # END dsf2stg

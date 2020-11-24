@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 3.26328 50.14349 0.00 190.84
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 3.26400 50.14394 92.98 336.11
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.26298 50.14316 93.29 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.26270 50.14314 92.84 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.26480 50.14339 92.80 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.26480 50.14345 93.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.26487 50.14332 93.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.26495 50.14343 92.96 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.26492 50.14358 93.03 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.26472 50.14353 93.13 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.26467 50.14341 93.06 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.26467 50.14332 93.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.26702 50.14345 92.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.26691 50.14349 92.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.26675 50.14351 92.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 3.26664 50.14352 92.97 0
+OBJECT_SHARED Models/lib/MedHangar.ac 3.26541 50.14323 92.98 104.59
+OBJECT_SHARED Models/lib/SmHangar.ac 3.26614 50.14340 92.92 104.04
+OBJECT_SHARED Models/lib/MedHangar.ac 3.26418 50.14349 92.98 105.26
+OBJECT_SHARED Models/lib/LongRow.ac 3.26147 50.14258 93.03 197.2
+# END dsf2stg

@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -82.39577 40.54285 0.00 176.29
+OBJECT_SHARED Models/lib/lamp10m.xml -82.39580 40.54262 396.12 176.29
+OBJECT_SHARED Models/lib/shed8x10.ac -82.39750 40.54206 395.62 49.4
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -82.39754 40.54267 397.10 90.12
+OBJECT_SHARED Models/lib/shed10x50.ac -82.39756 40.54138 399.44 64.04
+OBJECT_SHARED Models/lib/shed10x50.ac -82.39235 40.53856 393.67 60.6
+OBJECT_SHARED Models/lib/shed8x10.ac -82.39479 40.53778 383.18 357.99
+# END dsf2stg

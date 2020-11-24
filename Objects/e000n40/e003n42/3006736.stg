@@ -1,13 +1,18 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/HorizTanks2.ac 3.10904 42.25979 0.95 103.02
-OBJECT_SHARED Models/lib/SmHangar.ac 3.10886 42.26065 1.08 196.42
-OBJECT_SHARED Models/lib/SmHangar.ac 3.10802 42.26032 1.80 87.49
-OBJECT_SHARED Models/lib/SmHangar.ac 3.10863 42.26049 1.25 107.36
-OBJECT_SHARED Models/lib/SmHangar.ac 3.10987 42.25814 1.45 196.72
-OBJECT_SHARED Models/lib/LongRow.ac 3.10765 42.26002 1.88 347.78
-OBJECT_SHARED Models/lib/LongRow.ac 3.10822 42.25939 1.68 164.71
-OBJECT_SHARED Models/lib/fuel-truck.xml 3.10838 42.25940 1.53 161.13
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 3.10988 42.25821 1.37 290.56
+OBJECT_SHARED Models/lib/HorizTanks2.ac 3.10907 42.25975 0.00 103.02
+OBJECT_SHARED Models/lib/SmHangar.ac 3.10886 42.26065 0.95 196.42
+OBJECT_SHARED Models/lib/SmHangar.ac 3.10802 42.26032 1.08 87.49
+OBJECT_SHARED Models/lib/SmHangar.ac 3.10863 42.26049 1.80 107.36
+OBJECT_SHARED Models/lib/SmHangar.ac 3.10987 42.25814 1.25 196.72
+OBJECT_SHARED Models/lib/LongRow.ac 3.10765 42.26002 1.45 347.78
+OBJECT_SHARED Models/lib/LongRow.ac 3.10822 42.25939 2.21 164.71
+OBJECT_SHARED Models/lib/fuel-truck.xml 3.10838 42.25940 1.68 161.13
+OBJECT_SHARED Models/Transport/hatchback_black.ac 3.10988 42.25821 1.53 290.56
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 3.10898 42.25973 1.37 12.09
+OBJECT_SHARED Models/lib/garden-shed.ac 3.10900 42.25974 1.01 283.2
+OBJECT_SHARED Models/Transport/hatchback_red.ac 3.10895 42.25989 0.99 106.31
+OBJECT_SHARED Models/Misc/picnic_table.ac 3.10892 42.25979 1.01 283.18
+OBJECT_SHARED Models/lib/office3x10.ac 3.10895 42.25979 1.03 192.38
 # END dsf2stg

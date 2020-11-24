@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -90.71349 37.12385 0.00 53.1299
+OBJECT_SHARED Models/lib/SmHangar.ac -90.71376 37.12413 138.88 238.381
+OBJECT_SHARED Models/lib/LongRow.ac -90.71428 37.12346 138.75 58.6714
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.71378 37.12418 138.56 147.995
+OBJECT_SHARED Models/Transport/hatchback_red.ac -90.71368 37.12413 138.76 150.208
+OBJECT_SHARED Models/lib/prop_a.ac -90.71317 37.12437 138.78 147.528
+# END dsf2stg

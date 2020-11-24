@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -89.45095 30.37417 0.00 90
+OBJECT_SHARED Models/lib/HorizTanks2.ac -89.45105 30.37417 4.86 90
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -89.45153 30.37222 4.50 180
+OBJECT_SHARED Models/lib/LongRow.ac -89.45143 30.37027 4.61 0
+OBJECT_SHARED Models/lib/LongRow.ac -89.45141 30.37066 4.22 0
+OBJECT_SHARED Models/lib/fboModern1.ac -89.45149 30.37183 4.30 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -89.45039 30.37382 4.54 270
+OBJECT_SHARED Models/lib/admin-with-cars.ac -89.45039 30.37286 4.77 0
+# END dsf2stg

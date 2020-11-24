@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/egkk_oil.xml -74.34645 40.03200 0.00 0
+OBJECT_SHARED Models/lib/office32x25n.ac -74.34587 40.03142 24.78 128.85
+OBJECT_SHARED Models/lib/office65x50.ac -74.34753 40.03229 24.18 38.57
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -74.34152 40.03320 25.02 94.45
+OBJECT_SHARED Models/lib/office65x50.ac -74.34047 40.03359 24.17 273.62
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -74.33803 40.03521 24.17 10
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33669 40.02793 24.92 59.39
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33442 40.02685 20.66 238.81
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33532 40.02730 20.63 59.39
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33579 40.02749 20.46 238.81
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33624 40.02772 20.37 59.39
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33488 40.02707 20.62 238.81
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33486 40.02709 20.54 59.39
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33625 40.02770 20.54 238.81
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33578 40.02751 20.62 59.39
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33533 40.02728 20.37 238.81
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33440 40.02688 20.46 59.39
+OBJECT_SHARED Models/lib/large-hangar.ac -74.33670 40.02791 20.63 238.81
+# END dsf2stg

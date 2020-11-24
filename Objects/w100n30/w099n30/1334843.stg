@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.22975 30.92586 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.22967 30.92583 421.46 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.22954 30.92583 421.50 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.22955 30.92577 421.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.22939 30.92581 421.61 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.22927 30.92604 421.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.22933 30.92604 422.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.22956 30.92599 422.05 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.22972 30.92603 421.73 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.23000 30.92604 421.62 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.23117 30.92607 421.30 44.9995
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.23108 30.92607 420.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.23079 30.92560 420.33 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.23071 30.92563 420.32 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.23077 30.92570 420.35 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.23035 30.92587 420.34 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -98.23041 30.92577 420.81 0
+OBJECT_SHARED Models/lib/prop_a.ac -98.23114 30.92424 420.75 318.725
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -98.23098 30.92495 419.95 322.944
+OBJECT_SHARED Models/lib/watertank3x1.ac -98.23089 30.92489 420.14 229.003
+OBJECT_SHARED Models/lib/propane-tank.ac -98.23102 30.92499 420.15 136.821
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.23083 30.92606 420.14 237.166
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.23053 30.92604 420.50 143.393
+OBJECT_SHARED Models/lib/farm19x12.ac -98.22998 30.92578 420.77 357.475
+OBJECT_SHARED Models/lib/dGreenhse.ac -98.22999 30.92568 421.18 358.337
+# END dsf2stg

@@ -1,28 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10470 -25.37281 851.68 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10463 -25.37277 851.38 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10455 -25.37277 851.08 243.43
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10467 -25.37273 852.32 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10656 -25.37320 849.95 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10663 -25.37320 849.95 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10662 -25.37315 849.36 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10657 -25.37315 849.95 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10519 -25.37365 847.79 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10519 -25.37357 847.79 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10514 -25.37358 847.30 270
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10788 -25.37232 847.78 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10803 -25.37241 848.91 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10822 -25.37251 850.59 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10837 -25.37257 852.26 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10847 -25.37264 852.83 0
-OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 31.10736 -25.37301 851.01 148.96
-OBJECT_SHARED Models/Aircraft/737virgin.xml 31.10528 -25.37323 850.92 258.01
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 31.10706 -25.37462 850.40 326.58
-OBJECT_SHARED Models/lib/MedHangar.ac 31.10578 -25.37367 850.34 234.72
-OBJECT_SHARED Models/lib/MedHangar.ac 31.10615 -25.37390 850.64 235.43
-OBJECT_SHARED Models/lib/MedHangar.ac 31.10651 -25.37412 850.19 236.15
-OBJECT_SHARED Models/lib/MedHangar.ac 31.10688 -25.37435 850.22 236.06
-OBJECT_SHARED Models/lib/fboModern1.ac 31.10775 -25.37296 852.20 56.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10470 -25.37281 848.99 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10463 -25.37277 852.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10455 -25.37277 852.19 243.43
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10467 -25.37273 851.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10656 -25.37320 852.49 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10663 -25.37320 855.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10662 -25.37315 855.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10657 -25.37315 855.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10519 -25.37365 855.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10519 -25.37357 852.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10514 -25.37358 852.09 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10788 -25.37232 851.95 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10803 -25.37241 852.42 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10822 -25.37251 852.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10837 -25.37257 853.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 31.10847 -25.37264 853.33 0
+OBJECT_SHARED Models/Aircraft/bae-ootas-tnt.xml 31.10736 -25.37301 853.53 148.96
+OBJECT_SHARED Models/Aircraft/737virgin.xml 31.10528 -25.37323 856.17 258.01
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 31.10706 -25.37462 853.69 326.58
+OBJECT_SHARED Models/lib/MedHangar.ac 31.10578 -25.37367 852.41 234.72
+OBJECT_SHARED Models/lib/MedHangar.ac 31.10615 -25.37390 852.58 235.43
+OBJECT_SHARED Models/lib/MedHangar.ac 31.10651 -25.37412 852.27 236.15
+OBJECT_SHARED Models/lib/MedHangar.ac 31.10688 -25.37435 852.11 236.06
+OBJECT_SHARED Models/lib/fboModern1.ac 31.10775 -25.37296 852.50 56.31
 # END dsf2stg

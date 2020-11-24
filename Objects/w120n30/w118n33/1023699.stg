@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office4x14.ac -117.24906 33.35546 206.69 359.49
+OBJECT_SHARED Models/Transport/hatchback_green.ac -117.24911 33.35552 206.77 0.679993
+OBJECT_SHARED Models/Transport/hatchback_green.ac -117.24901 33.35653 206.77 167.82
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -117.24923 33.35652 206.63 49.21
+OBJECT_SHARED Models/Transport/hatchback_green.ac -117.24925 33.35638 206.63 49.21
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -117.24932 33.35623 206.67 222.9
+OBJECT_SHARED Models/Transport/hatchback_green.ac -117.24940 33.35595 206.72 29.84
+OBJECT_SHARED Models/lib/stack_of_cones.ac -117.24932 33.35620 203.75 171.09
+# END dsf2stg

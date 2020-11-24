@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -86.46121 38.58109 0.00 130.25
+OBJECT_SHARED Models/lib/LongRow.ac -86.46099 38.58089 241.17 130.25
+OBJECT_SHARED Models/lib/hangar81x16.ac -86.46110 38.58020 240.97 129.89
+OBJECT_SHARED Models/lib/farm19x12.ac -86.46005 38.57944 240.47 41.47
+OBJECT_SHARED Models/lib/4space_wStop.ac -86.46024 38.57930 239.23 40.1
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.46135 38.58015 239.07 0
+OBJECT_SHARED Models/lib/LongRow.ac -86.46072 38.57960 240.40 130.15
+OBJECT_SHARED Models/lib/shed8x10.ac -86.46158 38.57988 239.67 130.2
+OBJECT_SHARED Models/lib/coal_pile.ac -86.46525 38.58256 240.25 319.19
+OBJECT_SHARED Models/lib/transformer3x3.ac -86.46149 38.58032 242.66 39.81
+OBJECT_SHARED Models/Transport/hatchback_black.ac -86.46161 38.58050 240.69 313.67
+OBJECT_SHARED Models/Transport/hatchback_black.ac -86.46170 38.58056 240.94 313.67
+OBJECT_SHARED Models/Transport/hatchback_black.ac -86.46171 38.58060 241.04 313.67
+OBJECT_SHARED Models/lib/prop_a.ac -86.46205 38.58141 241.04 101.69
+# END dsf2stg

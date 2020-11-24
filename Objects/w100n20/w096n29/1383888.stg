@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -95.88497 29.27165 0.00 40.1472
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.88941 29.27800 18.53 0
+OBJECT_SHARED Models/lib/SmHangar.ac -95.88477 29.27105 20.47 41.0762
+OBJECT_SHARED Models/lib/SmHangar.ac -95.88493 29.27121 18.48 40.6179
+OBJECT_SHARED Models/lib/prop_a.ac -95.88483 29.27100 18.53 218.157
+OBJECT_SHARED Models/lib/prop_a.ac -95.88498 29.27116 18.48 219.659
+# END dsf2stg

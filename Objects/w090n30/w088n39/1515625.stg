@@ -1,0 +1,53 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -87.67499 39.69677 0.00 266.027
+OBJECT_SHARED Models/Transport/hatchback_black.ac -87.67474 39.69711 199.54 184.574
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -87.67475 39.69721 199.37 177.274
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -87.67508 39.69757 199.33 275.711
+OBJECT_SHARED Models/lib/hangar81x16.ac -87.67603 39.69639 199.10 91.72
+OBJECT_SHARED Models/lib/hangar81x16.ac -87.67791 39.69784 199.71 272.44
+OBJECT_SHARED Models/lib/hangar81x16.ac -87.67787 39.69709 198.41 272.44
+OBJECT_SHARED Models/lib/hangar81x16.ac -87.67609 39.69772 198.89 271.72
+OBJECT_SHARED Models/lib/hangar81x16.ac -87.67569 39.69669 198.95 91.72
+OBJECT_SHARED Models/lib/propane-tank.ac -87.67519 39.69697 199.62 90
+OBJECT_SHARED Models/lib/propane-tank.ac -87.67519 39.69702 199.47 90
+OBJECT_SHARED Models/lib/propane-tank.ac -87.67519 39.69699 199.47 90
+OBJECT_SHARED Models/lib/propane-tank.ac -87.67519 39.69705 199.47 90
+OBJECT_SHARED Models/lib/office3x10.ac -87.67540 39.69738 199.47 181.97
+OBJECT_SHARED Models/lib/HorizTanks2.ac -87.67569 39.69784 199.22 180.75
+OBJECT_SHARED Models/lib/industrial15x22.ac -87.68236 39.69901 198.92 318.45
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -87.68275 39.69926 195.07 325.2
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -87.68308 39.69955 99.85 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -87.68296 39.69949 99.59 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -87.68284 39.69943 99.66 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -87.68272 39.69937 99.78 0
+OBJECT_SHARED Models/lib/cars4.ac -87.67514 39.69692 194.85 96.2
+OBJECT_SHARED Models/lib/cars6.ac -87.67517 39.69722 199.52 3.28
+OBJECT_SHARED Models/lib/prop_a.ac -87.67582 39.69767 199.36 18.1
+OBJECT_SHARED Models/lib/prop_a.ac -87.67755 39.69746 198.98 282.09
+OBJECT_SHARED Models/lib/prop_a.ac -87.67778 39.69594 198.76 355.68
+OBJECT_SHARED Models/lib/prop_a.ac -87.67775 39.69610 199.51 0
+OBJECT_SHARED Models/lib/prop_a.ac -87.67759 39.69789 199.44 358.96
+OBJECT_SHARED Models/lib/prop_a.ac -87.67758 39.69801 198.44 352.87
+OBJECT_SHARED Models/lib/prop_a.ac -87.67510 39.69788 198.37 274.76
+OBJECT_SHARED Models/lib/prop_a.ac -87.67527 39.69786 198.89 274.57
+OBJECT_SHARED Models/lib/stack_of_cones.ac -87.67583 39.69795 198.87 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -87.67570 39.69779 198.76 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -87.67573 39.69789 198.92 0
+OBJECT_SHARED Models/Misc/6barrels.ac -87.67493 39.69731 198.84 0
+OBJECT_SHARED Models/Misc/6barrels.ac -87.67498 39.69756 199.30 270
+OBJECT_SHARED Models/Misc/6barrels.ac -87.67576 39.69758 199.10 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -87.67467 39.69732 199.06 238.782
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -87.67466 39.69735 199.30 241.113
+OBJECT_SHARED Models/Transport/hatchback_red.ac -87.67791 39.69778 199.30 266.906
+OBJECT_SHARED Models/Transport/van_silver.ac -87.67791 39.69776 198.41 265.426
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -87.67789 39.69773 198.41 268.493
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -87.68262 39.69930 198.49 239.036
+OBJECT_SHARED Models/Transport/hatchback_red.ac -87.68232 39.69886 194.92 116.03
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -87.68221 39.69904 195.15 246.615
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -87.67500 39.69756 195.22 265.786
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -87.67579 39.69757 199.10 3.33847
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -87.67613 39.69757 199.06 0
+OBJECT_SHARED Models/lib/prop_a.ac -87.67559 39.69670 199.02 7.59467
+# END dsf2stg

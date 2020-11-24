@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 139.43463 42.07281 0.00 55.84
+OBJECT_SHARED Models/lib/lamp10m.xml 139.43521 42.07256 45.59 57.49
+OBJECT_SHARED Models/lib/lamp10m.xml 139.43491 42.07298 45.14 277.01
+OBJECT_SHARED Models/lib/lamp10m.xml 139.43455 42.07314 46.03 330.48
+OBJECT_SHARED Models/lib/lamp10m.xml 139.43578 42.07231 46.25 59.06
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 139.43627 42.07248 44.16 330.604
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 139.43520 42.07265 44.59 59.7736
+OBJECT_SHARED Models/lib/belt_loader.ac 139.43523 42.07264 45.36 60.474
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 139.43586 42.07255 45.14 329.43
+# END dsf2stg

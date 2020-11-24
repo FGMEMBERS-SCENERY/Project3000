@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac -98.23233 38.74830 0.00 166.82
+OBJECT_SHARED Models/lib/propane-tank.ac -98.23229 38.74699 488.17 82.41
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.23202 38.74760 487.70 179.18
+OBJECT_SHARED Models/lib/SmHangar.ac -98.23201 38.74705 487.99 180.56
+OBJECT_SHARED Models/lib/SmHangar.ac -98.23202 38.74725 487.85 178.78
+OBJECT_SHARED Models/lib/LongRow.ac -98.23165 38.74674 487.91 88.78
+OBJECT_SHARED Models/lib/prop_a.ac -98.23186 38.74801 487.95 90
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.23209 38.74774 488.17 0
+OBJECT_SHARED Models/lib/cars2.ac -98.23224 38.74836 487.99 348.53
+# END dsf2stg

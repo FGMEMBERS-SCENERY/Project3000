@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 49.59581 25.90649 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 49.59589 25.90635 71.82 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac 49.59568 25.90670 71.86 29.37
+OBJECT_SHARED Models/Airport/cargobox.xml 49.59586 25.90653 71.79 29.63
+OBJECT_SHARED Models/Airport/cargobox.xml 49.59588 25.90654 71.83 29.63
+OBJECT_SHARED Models/lib/office6x12.ac 49.59582 25.90663 71.83 299.71
+OBJECT_SHARED Models/Transport/van_red.ac 49.59629 25.90634 71.81 324.08
+OBJECT_SHARED Models/Transport/hatchback_red.ac 49.59617 25.90611 71.89 275.95
+OBJECT_SHARED Models/Transport/hatchback_black.ac 49.59601 25.90616 71.91 213.69
+# END dsf2stg

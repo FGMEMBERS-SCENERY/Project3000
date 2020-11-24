@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -96.66475 32.32753 0.00 256.25
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -96.66483 32.32774 146.18 256.25
+OBJECT_SHARED Models/Misc/6barrels.ac -96.66489 32.32748 146.12 15.69
+OBJECT_SHARED Models/Misc/6barrels.ac -96.66491 32.32750 146.10 286.91
+OBJECT_SHARED Models/lib/2vending-machines.ac -96.66476 32.32752 146.10 108.45
+OBJECT_SHARED Models/lib/cone.ac -96.66485 32.32778 146.20 256.25
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -96.66493 32.32799 146.14 256.25
+OBJECT_SHARED Models/Misc/6barrels.ac -96.66498 32.32773 146.19 15.69
+OBJECT_SHARED Models/Misc/6barrels.ac -96.66501 32.32775 146.15 286.91
+OBJECT_SHARED Models/lib/2vending-machines.ac -96.66485 32.32777 146.16 108.45
+OBJECT_SHARED Models/lib/SmHangar.ac -96.66188 32.32674 146.15 108.43
+OBJECT_SHARED Models/lib/SmHangar.ac -96.66201 32.32670 144.06 108.43
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -96.66442 32.32751 144.07 288.55
+OBJECT_SHARED Models/Transport/hatchback_red.ac -96.66492 32.32735 146.11 18.36
+OBJECT_SHARED Models/Transport/van_red.ac -96.66477 32.32738 146.22 18.36
+OBJECT_SHARED Models/Transport/hatchback_red.ac -96.66495 32.32734 146.20 18.36
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.66487 32.32736 146.22 18.36
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.66480 32.32737 146.12 18.36
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.66480 32.32726 146.20 198.35
+OBJECT_SHARED Models/Transport/van_red.ac -96.66471 32.32729 146.19 198.35
+OBJECT_SHARED Models/Transport/hatchback_green.ac -96.66468 32.32729 146.17 198.35
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -96.66274 32.32398 146.17 313.01
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -96.66219 32.32859 143.68 313.01
+OBJECT_SHARED Models/lib/coal_pile.ac -96.66458 32.32739 144.30 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.66463 32.32741 146.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.66402 32.32574 146.15 0
+# END dsf2stg

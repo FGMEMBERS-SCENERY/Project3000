@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -74.10222 48.35224 0.00 242.49
+OBJECT_SHARED Models/lib/canopy18x8.ac -74.10169 48.35207 -1000.00 65.93
+OBJECT_SHARED Models/lib/canopy18x10.ac -74.10232 48.35241 -1000.00 49.34
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -74.10164 48.35205 -1000.00 156.25
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -74.10173 48.35208 -1000.00 155.97
+OBJECT_SHARED Models/lib/farm19x12.ac -74.10160 48.35167 -1000.00 231.84
+OBJECT_SHARED Models/lib/farm19x12.ac -74.10131 48.35186 -1000.00 221.01
+OBJECT_SHARED Models/lib/farm19x12.ac -74.10242 48.35246 -1000.00 321.32
+# END dsf2stg

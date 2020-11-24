@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac -63.98051 10.79272 0.00 289.537
+OBJECT_SHARED Models/lib/cars10.ac -63.98060 10.79299 11.32 288.638
+OBJECT_SHARED Models/lib/cars10.ac -63.98070 10.79326 11.41 288.99
+OBJECT_SHARED Models/lib/cars10.ac -63.98079 10.79352 10.27 288.862
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -63.98037 10.79358 9.40 179.488
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.98110 10.79369 8.88 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.98063 10.79353 8.61 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.98059 10.79345 9.35 270
+OBJECT_SHARED Models/lib/lamp10m.xml -63.98047 10.79261 9.79 23.4986
+OBJECT_SHARED Models/lib/lamp10m.xml -63.98052 10.79274 11.32 22.249
+OBJECT_SHARED Models/lib/lamp10m.xml -63.98057 10.79289 11.32 17.8787
+OBJECT_SHARED Models/lib/lamp10m.xml -63.98061 10.79301 11.57 16.6992
+OBJECT_SHARED Models/lib/lamp10m.xml -63.98066 10.79315 11.41 17.5256
+OBJECT_SHARED Models/lib/lamp10m.xml -63.98072 10.79330 10.71 23.1986
+OBJECT_SHARED Models/lib/lamp10m.xml -63.98076 10.79345 10.27 20.5561
+OBJECT_SHARED Models/lib/SmHangar.ac -63.98036 10.79371 9.79 0.301537
+OBJECT_SHARED Models/lib/transformer3x3.ac -63.98052 10.79389 8.27 177.138
+# END dsf2stg

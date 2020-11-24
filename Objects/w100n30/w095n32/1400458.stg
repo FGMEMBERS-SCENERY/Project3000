@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac -94.29618 32.17229 0.00 285.64
+OBJECT_SHARED Models/lib/office8x14.ac -94.29618 32.17191 73.06 285.64
+OBJECT_SHARED Models/lib/office8x14.ac -94.29614 32.17036 73.03 144.19
+OBJECT_SHARED Models/lib/office8x14.ac -94.29648 32.17058 72.92 201.5
+OBJECT_SHARED Models/lib/office4x14.ac -94.29604 32.17076 73.00 131.27
+OBJECT_SHARED Models/lib/office4x14.ac -94.29651 32.17099 72.91 197.97
+OBJECT_SHARED Models/lib/office4x14.ac -94.29651 32.17232 73.03 211.63
+OBJECT_SHARED Models/lib/office4x14.ac -94.29657 32.17197 73.15 173.66
+OBJECT_SHARED Models/Misc/6barrels.ac -94.29632 32.17227 73.16 34.82
+OBJECT_SHARED Models/Misc/6barrels.ac -94.29636 32.17245 73.09 0
+OBJECT_SHARED Models/Misc/6barrels.ac -94.29629 32.17238 73.13 66.8
+OBJECT_SHARED Models/Misc/6barrels.ac -94.29638 32.17237 73.09 315
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -94.29644 32.17363 73.12 2.21
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.29643 32.17335 73.23 2.21
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.29643 32.17327 73.21 2.21
+OBJECT_SHARED Models/lib/fboModern1.ac -94.29638 32.17292 73.20 2.21
+# END dsf2stg

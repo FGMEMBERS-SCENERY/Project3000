@@ -1,29 +1,29 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml -2.99102 43.39105 12.31 266.33
-OBJECT_SHARED Models/lib/lamp10m.xml -2.99085 43.39096 12.75 -65.56
-OBJECT_SHARED Models/lib/lamp10m.xml -2.99079 43.39079 13.14 -76.1
-OBJECT_SHARED Models/lib/lamp10m.xml -2.99074 43.39065 13.53 -76.97
-OBJECT_SHARED Models/lib/lamp10m.xml -2.99069 43.39048 13.79 -77.47
-OBJECT_SHARED Models/lib/lamp10m.xml -2.99115 43.39041 13.20 -86.27
-OBJECT_SHARED Models/lib/lamp10m.xml -2.99119 43.39058 12.83 -79.38
-OBJECT_SHARED Models/lib/lamp10m.xml -2.99124 43.39073 12.67 -78.69
-OBJECT_SHARED Models/lib/lamp10m.xml -2.99129 43.39090 12.30 -77.39
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99000 43.39100 20.40 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99006 43.39098 19.23 90
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99007 43.39089 19.37 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99016 43.39093 18.64 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99079 43.39033 20.72 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99070 43.39033 21.92 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99032 43.39086 17.16 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99039 43.39077 17.83 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99076 43.39118 8.97 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99083 43.39114 12.04 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99091 43.39109 12.47 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99108 43.39112 12.22 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99119 43.39114 12.04 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99131 43.39116 4.21 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99147 43.39084 6.83 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99147 43.39097 5.03 0
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99102 43.39105 0.00 266.33
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99085 43.39096 12.31 -65.56
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99079 43.39079 12.75 -76.1
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99074 43.39065 13.14 -76.97
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99069 43.39048 13.53 -77.47
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99115 43.39041 13.79 -86.27
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99119 43.39058 13.20 -79.38
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99124 43.39073 12.83 -78.69
+OBJECT_SHARED Models/lib/lamp10m.xml -2.99129 43.39090 12.67 -77.39
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99000 43.39100 12.30 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99006 43.39098 20.28 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99007 43.39089 19.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99016 43.39093 20.09 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99079 43.39033 19.46 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99070 43.39033 20.70 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99032 43.39086 21.52 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99039 43.39077 18.17 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99076 43.39118 18.28 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99083 43.39114 9.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99091 43.39109 12.34 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99108 43.39112 12.47 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99119 43.39114 12.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99131 43.39116 12.04 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99147 43.39084 4.47 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99147 43.39097 7.53 0
 # END dsf2stg

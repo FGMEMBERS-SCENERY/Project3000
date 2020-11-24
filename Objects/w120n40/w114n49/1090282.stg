@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -113.41488 49.70356 0.00 285.05
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -113.41512 49.70352 950.35 285.05
+OBJECT_SHARED Models/lib/lamp10m.xml -113.41507 49.70451 950.38 -54.09
+OBJECT_SHARED Models/lib/lamp10m.xml -113.41487 49.70503 950.15 103.75
+OBJECT_SHARED Models/lib/lamp10m.xml -113.41439 49.70503 950.14 70.27
+OBJECT_SHARED Models/lib/lamp10m.xml -113.41424 49.70467 949.69 -22.97
+OBJECT_SHARED Models/lib/lamp10m.xml -113.41458 49.70511 949.67 68.66
+OBJECT_SHARED Models/lib/lamp10m.xml -113.41557 49.70490 950.16 236.55
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -113.41483 49.70505 950.58 13.88
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -113.41442 49.70500 950.14 90
+OBJECT_SHARED Models/lib/stack_of_cones.ac -113.41449 49.70501 949.69 200.85
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -113.41448 49.70501 949.69 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -113.41447 49.70501 949.69 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -113.41554 49.70483 949.69 193.96
+OBJECT_SHARED Models/lib/fboModern1.ac -113.41508 49.70489 950.59 103.96
+OBJECT_SHARED Models/lib/SmHangar.ac -113.41456 49.70505 950.12 13.96
+# END dsf2stg

@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -90.24324 43.93551 275.76 270
+OBJECT_SHARED Models/lib/lamp10m.xml -90.24330 43.93611 274.46 270
+OBJECT_SHARED Models/lib/lamp10m.xml -90.24517 43.93606 274.36 270
+OBJECT_SHARED Models/lib/lamp10m.xml -90.24517 43.93540 274.63 270
+OBJECT_SHARED Models/lib/lamp10m.xml -90.24963 43.93640 275.26 25.81
+OBJECT_SHARED Models/lib/lamp10m.xml -90.24945 43.93617 275.11 25.45
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -90.24945 43.93602 279.21 0
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -90.24978 43.93610 275.24 20.24
+OBJECT_SHARED Models/lib/LgMaint.ac -90.24346 43.93543 275.25 271.36
+OBJECT_SHARED Models/lib/LgMaint.ac -90.24457 43.93542 274.53 269.85
+# END dsf2stg

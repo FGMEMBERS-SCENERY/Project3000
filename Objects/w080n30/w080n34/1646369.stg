@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -79.73140 34.62047 0.00 123.17
+OBJECT_SHARED Models/lib/office16x4n.ac -79.73129 34.62091 42.19 212.06
+OBJECT_SHARED Models/lib/propane-tank.ac -79.73334 34.62045 42.30 212.8
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.73218 34.62028 42.15 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.73215 34.62018 42.15 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.73204 34.62009 42.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.73226 34.62036 42.09 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.73232 34.62043 42.18 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.73246 34.62059 42.18 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.73252 34.62067 42.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -79.73285 34.62068 42.26 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.73279 34.62097 42.26 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.73287 34.62106 42.35 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.73276 34.62111 42.38 302.01
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.73280 34.62109 42.38 300.07
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.73284 34.62107 42.38 302.62
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.73276 34.62104 42.38 21.8
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.73274 34.62101 42.35 30.26
+OBJECT_SHARED Models/Misc/picnic_table.ac -79.73271 34.62103 42.35 3.01001
+OBJECT_SHARED Models/lib/NoParkStripes.xml -79.73269 34.62068 42.35 210.22
+OBJECT_SHARED Models/lib/cars10.ac -79.73270 34.62033 42.26 123.44
+OBJECT_SHARED Models/lib/cube16x10.ac -79.73222 34.62106 42.14 31.68
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73266 34.62078 42.37 93.86
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73237 34.62092 42.29 236.14
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73246 34.62103 42.32 175.01
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73219 34.62056 42.35 147.96
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73207 34.62061 42.23 94.21
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73224 34.62061 42.23 263.54
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73234 34.62077 42.23 154.46
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73276 34.62074 42.29 141.77
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73247 34.62040 42.26 -57.53
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73268 34.62030 42.18 250.96
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73293 34.62060 42.14 169.46
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73353 34.62033 42.23 253.1
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73318 34.62081 42.11 -22.2
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73400 34.62097 42.28 169.7
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73376 34.62061 42.30 171.63
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73296 34.62104 42.19 -9.20999
+OBJECT_SHARED Models/lib/lamp10m.xml -79.73314 34.62087 42.35 268.88
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.73311 34.62096 42.32 302.01
+OBJECT_SHARED Models/lib/cars4.ac -79.73225 34.62074 42.35 301.83
+OBJECT_SHARED Models/lib/cars4.ac -79.73219 34.62055 42.26 30.43
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -79.73300 34.62099 42.23 301.35
+OBJECT_SHARED Models/lib/prop_a.ac -79.73378 34.62078 42.35 31.44
+OBJECT_SHARED Models/lib/prop_a.ac -79.73319 34.62132 42.25 302.61
+OBJECT_SHARED Models/lib/prop_a.ac -79.73341 34.62078 42.44 120.97
+# END dsf2stg

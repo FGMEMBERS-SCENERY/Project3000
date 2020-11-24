@@ -1,26 +1,26 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -5.82505 57.25332 9.13 129.4
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -5.82505 57.25332 0.00 129.4
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -5.82548 57.25327 9.13 121.4
-OBJECT_SHARED Models/lib/lamp10m.xml -5.82423 57.25348 8.77 151.699
-OBJECT_SHARED Models/lib/lamp10m.xml -5.82393 57.25324 10.41 270
-OBJECT_SHARED Models/lib/schranke.ac -5.82366 57.25310 10.63 317.046
-OBJECT_SHARED Models/lib/cars10.ac -5.82396 57.25323 10.43 120.408
-OBJECT_SHARED Models/lib/coal_pile.ac -5.82352 57.25362 8.55 90
-OBJECT_SHARED Models/lib/coal_pile.ac -5.82337 57.25367 8.36 90
-OBJECT_SHARED Models/lib/coal_pile.ac -5.82344 57.25375 8.18 90
-OBJECT_SHARED Models/lib/coal_pile.ac -5.82354 57.25371 8.37 90
-OBJECT_SHARED Models/lib/coal_pile.ac -5.82380 57.25378 8.20 90
-OBJECT_SHARED Models/lib/coal_pile.ac -5.82362 57.25381 8.19 90
-OBJECT_SHARED Models/lib/coal_pile.ac -5.82348 57.25387 8.00 90
+OBJECT_SHARED Models/lib/lamp10m.xml -5.82423 57.25348 9.13 151.699
+OBJECT_SHARED Models/lib/lamp10m.xml -5.82393 57.25324 8.77 270
+OBJECT_SHARED Models/lib/schranke.ac -5.82366 57.25310 9.81 317.046
+OBJECT_SHARED Models/lib/cars10.ac -5.82396 57.25323 10.01 120.408
+OBJECT_SHARED Models/lib/coal_pile.ac -5.82352 57.25362 9.82 90
+OBJECT_SHARED Models/lib/coal_pile.ac -5.82337 57.25367 8.55 90
+OBJECT_SHARED Models/lib/coal_pile.ac -5.82344 57.25375 8.36 90
+OBJECT_SHARED Models/lib/coal_pile.ac -5.82354 57.25371 8.18 90
+OBJECT_SHARED Models/lib/coal_pile.ac -5.82380 57.25378 8.37 90
+OBJECT_SHARED Models/lib/coal_pile.ac -5.82362 57.25381 8.20 90
+OBJECT_SHARED Models/lib/coal_pile.ac -5.82348 57.25387 8.19 90
 OBJECT_SHARED Models/lib/coal_pile.ac -5.82358 57.25395 8.00 90
-OBJECT_SHARED Models/lib/coal_pile.ac -5.82365 57.25389 8.01 90
+OBJECT_SHARED Models/lib/coal_pile.ac -5.82365 57.25389 8.00 90
 OBJECT_SHARED Models/lib/coal_pile.ac -5.82369 57.25386 8.01 90
-OBJECT_SHARED Models/lib/coal_pile.ac -5.82381 57.25384 8.20 90
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.82450 57.25339 8.95 32.1472
+OBJECT_SHARED Models/lib/coal_pile.ac -5.82381 57.25384 8.01 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.82450 57.25339 8.20 32.1472
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.82454 57.25338 8.95 32.1472
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.82458 57.25336 8.95 32.1472
 OBJECT_SHARED Models/lib/office3x10.ac -5.82522 57.25340 8.95 27.7857
-OBJECT_SHARED Models/lib/shed8x10.ac -5.82536 57.25319 9.31 303.818
+OBJECT_SHARED Models/lib/shed8x10.ac -5.82536 57.25319 8.95 303.818
 # END dsf2stg

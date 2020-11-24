@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -87.93612 15.44279 0.00 139.92
+OBJECT_SHARED Models/lib/MedHangar.ac -87.93590 15.44305 31.89 139.92
+OBJECT_SHARED Models/lib/MedHangar.ac -87.93566 15.44332 31.84 139.92
+OBJECT_SHARED Models/lib/MedHangar.ac -87.93519 15.44386 31.75 139.92
+OBJECT_SHARED Models/lib/MedHangar.ac -87.93543 15.44359 31.61 139.92
+OBJECT_SHARED Models/lib/SmHangar.ac -87.93364 15.44566 31.68 139.92
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -87.93230 15.44676 31.23 229.2
+OBJECT_SHARED Models/lib/HorizTanks2.ac -87.93239 15.44684 31.07 49.2
+OBJECT_SHARED Models/lib/fboModern1.ac -87.93198 15.44653 31.06 49.2
+OBJECT_SHARED Models/lib/lamp10m.xml -87.91981 15.46387 31.17 139.92
+OBJECT_SHARED Models/lib/lamp10m.xml -87.93313 15.44627 27.62 139.92
+OBJECT_SHARED Models/lib/lamp10m.xml -87.91945 15.46428 31.13 139.92
+OBJECT_SHARED Models/lib/lamp10m.xml -87.93275 15.44670 27.50 139.92
+OBJECT_SHARED Models/lib/lamp10m.xml -87.92015 15.46347 31.06 139.92
+OBJECT_SHARED Models/lib/lamp10m.xml -87.93346 15.44588 27.75 139.92
+OBJECT_SHARED Models/lib/MedHangar.ac -87.93317 15.44499 31.19 229.92
+OBJECT_SHARED Models/lib/MedHangar.ac -87.93359 15.44534 31.45 229.92
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -87.92940 15.45104 31.34 230.65
+OBJECT_SHARED Models/lib/LgMaint.ac -87.92042 15.46315 30.57 139.92
+OBJECT_SHARED Models/lib/large-hangar.ac -87.93015 15.44861 27.84 49.98
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -87.91920 15.46367 30.91 229.92
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -87.93573 15.44244 27.71 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -87.93543 15.44278 32.07 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -87.93508 15.44317 31.95 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -87.93474 15.44355 31.84 0
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -87.91961 15.46320 31.74 229.92
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -87.92002 15.46273 27.85 229.92
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -87.92618 15.45604 27.99 229.92
+# END dsf2stg

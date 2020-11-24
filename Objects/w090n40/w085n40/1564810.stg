@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -84.30906 40.16350 0.00 89.15
+OBJECT_SHARED Models/Transport/hatchback_black.ac -84.30817 40.16302 298.43 253.56
+OBJECT_SHARED Models/lib/prop_a.ac -84.30928 40.16233 297.60 187.13
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -84.30816 40.16304 297.10 249.19
+OBJECT_SHARED Models/lib/cars10.ac -84.30840 40.16273 297.60 93.09
+OBJECT_SHARED Models/lib/cars6.ac -84.30815 40.16297 297.24 271.09
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -84.30828 40.16316 297.60 0.459991
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -84.30831 40.16317 297.84 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -84.30834 40.16316 297.84 359.63
+OBJECT_SHARED Models/Transport/van_red.ac -84.30870 40.16249 297.84 333.44
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -84.30892 40.16248 297.00 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -84.30894 40.16251 297.10 270
+OBJECT_SHARED Models/lib/cars10.ac -84.30815 40.16279 297.10 271.26
+OBJECT_SHARED Models/lib/propane-tank.ac -84.30967 40.16215 297.36 2
+OBJECT_SHARED Models/lib/propane-tank.ac -84.30967 40.16217 297.09 0
+OBJECT_SHARED Models/lib/propane-tank.ac -84.31022 40.16343 297.22 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -84.30833 40.16324 299.02 181.64
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -84.30834 40.16330 297.84 0
+# END dsf2stg

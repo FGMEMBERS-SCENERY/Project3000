@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -106.94810 47.32636 0.00 157.8
+OBJECT_SHARED Models/lib/lamp10m.xml -106.94842 47.32609 802.64 156.3
+OBJECT_SHARED Models/lib/SmHangar.ac -106.94809 47.32607 802.16 154.83
+OBJECT_SHARED Models/lib/SmHangar.ac -106.94799 47.32621 802.16 154.69
+OBJECT_SHARED Models/lib/watertank3x1.ac -106.94684 47.32561 802.32 0.346405
+OBJECT_SHARED Models/lib/watertank3x1.ac -106.94686 47.32561 801.63 357.583
+OBJECT_SHARED Models/lib/watertank3x1.ac -106.94688 47.32561 801.63 358.728
+OBJECT_SHARED Models/lib/propane-tank.ac -106.94816 47.32633 801.63 56.3098
+OBJECT_SHARED Models/Transport/hatchback_black.ac -106.94798 47.32636 802.48 67.0674
+OBJECT_SHARED Models/Transport/Norberttruck.xml -106.94674 47.32557 802.64 180.181
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -106.94699 47.32613 801.63 65.0562
+OBJECT_SHARED Models/lib/lamp10m.xml -106.95176 47.32652 802.37 155.77
+OBJECT_SHARED Models/lib/lamp10m.xml -106.95224 47.32668 802.27 155.56
+OBJECT_SHARED Models/lib/lamp10m.xml -106.95272 47.32684 802.63 154.98
+# END dsf2stg

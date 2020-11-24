@@ -1,25 +1,21 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -133.91690 56.96541 35.97 52.79
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -133.91711 56.96567 36.11 49.96
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -133.91640 56.96535 36.91 50.73
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -133.91497 56.96497 37.55 75.39
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -133.91695 56.96575 36.16 230.74
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -133.91726 56.96558 36.06 51.53
-OBJECT_SHARED Models/lib/lamp10m.xml -133.91480 56.96506 37.66 51.12
-OBJECT_SHARED Models/lib/lamp10m.xml -133.91517 56.96523 37.74 51.12
-OBJECT_SHARED Models/lib/lamp10m.xml -133.91560 56.96542 36.98 51.12
-OBJECT_SHARED Models/lib/lamp10m.xml -133.91592 56.96557 37.09 51.12
-OBJECT_SHARED Models/lib/SmHangar.ac -133.91576 56.96549 37.05 50.24
-OBJECT_SHARED Models/lib/SmHangar.ac -133.91537 56.96531 37.81 49.51
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -133.91501 56.96513 37.66 49.92
-OBJECT_SHARED Models/lib/container6-HD.ac -133.91493 56.96508 37.66 232.87
-OBJECT_SHARED Models/Transport/van_silver.ac -133.91520 56.96521 37.74 320.8
-OBJECT_SHARED Models/Transport/hatchback_black.ac -133.91710 56.96583 36.16 320.6
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -133.91544 56.96540 37.88 198.06
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -133.91557 56.96538 36.98 231.38
-OBJECT_SHARED Models/Transport/van_red.ac -133.91525 56.96523 37.74 305.81
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -133.91624 56.96569 37.12 227.02
-OBJECT_SHARED Models/Transport/hatchback_black.ac -133.91609 56.96563 37.09 230.14
+OBJECT_SHARED Models/lib/prop_a.ac -133.91690 56.96541 0.00 320.74
+OBJECT_SHARED Models/lib/prop_a.ac -133.91695 56.96575 35.60 320.74
+OBJECT_SHARED Models/lib/lamp10m.xml -133.91480 56.96506 35.81 51.12
+OBJECT_SHARED Models/lib/lamp10m.xml -133.91517 56.96523 37.60 51.12
+OBJECT_SHARED Models/lib/lamp10m.xml -133.91560 56.96542 37.68 51.12
+OBJECT_SHARED Models/lib/lamp10m.xml -133.91592 56.96557 36.75 51.12
+OBJECT_SHARED Models/lib/SmHangar.ac -133.91576 56.96549 36.87 50.24
+OBJECT_SHARED Models/lib/SmHangar.ac -133.91537 56.96531 36.82 49.51
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -133.91501 56.96513 37.75 49.92
+OBJECT_SHARED Models/lib/container6-HD.ac -133.91493 56.96508 37.60 232.87
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -133.91520 56.96521 37.60 320.8
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -133.91710 56.96583 37.68 320.6
+OBJECT_SHARED Models/Transport/hatchback_black.ac -133.91544 56.96540 35.81 198.06
+OBJECT_SHARED Models/Transport/hatchback_black.ac -133.91557 56.96538 37.82 231.38
+OBJECT_SHARED Models/Transport/hatchback_green.ac -133.91525 56.96523 36.75 305.81
+OBJECT_SHARED Models/Transport/hatchback_green.ac -133.91624 56.96569 37.68 227.02
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -133.91609 56.96563 36.91 230.14
 # END dsf2stg

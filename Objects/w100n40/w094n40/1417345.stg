@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.59201 40.07945 0.00 180.22
+OBJECT_SHARED Models/lib/LongRow.ac -93.59251 40.07999 230.09 180
+OBJECT_SHARED Models/lib/LongRow.ac -93.59277 40.07963 230.27 180
+OBJECT_SHARED Models/lib/prop_a.ac -93.59197 40.08027 230.68 248.199
+OBJECT_SHARED Models/lib/prop_a.ac -93.59348 40.07981 230.06 356.864
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.59256 40.07989 231.91 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -93.59212 40.07946 230.35 90
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -93.59221 40.07925 230.12 270
+OBJECT_SHARED Models/lib/cars6.ac -93.59240 40.07904 230.37 270.398
+OBJECT_SHARED Models/Transport/van_red.ac -93.59290 40.07873 230.61 90
+OBJECT_SHARED Models/lib/prop_a.ac -93.59225 40.08030 231.10 270
+# END dsf2stg

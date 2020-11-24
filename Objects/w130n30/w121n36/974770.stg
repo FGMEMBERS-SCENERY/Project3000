@@ -1,0 +1,40 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.37200 36.75659 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.37201 36.75659 49.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.37202 36.75659 49.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.37203 36.75661 49.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.37204 36.75663 49.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.37204 36.75663 49.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.37204 36.75663 49.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.37210 36.75674 49.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.37211 36.75675 48.99 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.37211 36.75675 48.99 0
+OBJECT_SHARED Models/lib/office65x50.ac -120.37228 36.75526 48.99 217.98
+OBJECT_SHARED Models/lib/office65x50.ac -120.37183 36.75480 49.00 217.98
+OBJECT_SHARED Models/lib/fuel-truck.xml -120.37245 36.75696 49.00 110.53
+OBJECT_SHARED Models/lib/office40x25.ac -120.37299 36.75578 49.00 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.37219 36.75728 49.00 116.55
+OBJECT_SHARED Models/lib/shed8x10.ac -120.37219 36.75677 49.00 12.41
+OBJECT_SHARED Models/lib/shed8x10.ac -120.37203 36.75670 48.99 111.78
+OBJECT_SHARED Models/lib/shed8x10.ac -120.37196 36.75655 48.99 111.63
+OBJECT_SHARED Models/lib/office112x50.ac -120.37246 36.75801 49.00 178.92
+OBJECT_SHARED Models/Misc/6barrels.ac -120.37211 36.75733 49.00 153.03
+OBJECT_SHARED Models/Misc/6barrels.ac -120.37212 36.75733 49.00 0
+OBJECT_SHARED Models/Misc/6barrels.ac -120.37212 36.75734 49.00 250.92
+OBJECT_SHARED Models/Transport/Norberttruck.xml -120.37230 36.75751 49.00 195.26
+OBJECT_SHARED Models/Airport/cargobox.xml -120.37270 36.75878 49.00 0
+OBJECT_SHARED Models/Airport/cargobox.xml -120.37272 36.75878 49.00 0
+OBJECT_SHARED Models/Airport/cargobox.xml -120.37274 36.75878 49.00 0
+OBJECT_SHARED Models/Airport/cargobox.xml -120.37275 36.75878 49.00 0
+OBJECT_SHARED Models/Airport/cargobox.xml -120.37278 36.75878 49.00 0
+OBJECT_SHARED Models/Airport/cargoip.xml -120.37275 36.75876 49.00 0
+OBJECT_SHARED Models/Airport/cargoip.xml -120.37275 36.75874 49.00 0
+OBJECT_SHARED Models/Airport/cargoip.xml -120.37275 36.75872 49.00 0
+OBJECT_SHARED Models/Airport/cargoip.xml -120.37275 36.75870 49.00 0
+OBJECT_SHARED Models/Airport/cargoim.xml -120.37278 36.75876 49.00 0
+OBJECT_SHARED Models/Airport/cargoim.xml -120.37278 36.75874 49.00 0
+OBJECT_SHARED Models/Airport/cargoim.xml -120.37278 36.75872 49.00 0
+OBJECT_SHARED Models/Airport/cargoim.xml -120.37278 36.75870 49.00 0
+# END dsf2stg

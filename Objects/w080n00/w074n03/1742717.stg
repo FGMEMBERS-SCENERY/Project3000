@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -73.33731 3.88178 0.00 270
+OBJECT_SHARED Models/lib/lamp10m.xml -73.33690 3.88206 251.01 84.81
+OBJECT_SHARED Models/lib/lamp10m.xml -73.33796 3.88178 251.38 270
+OBJECT_SHARED Models/lib/lamp10m.xml -73.33715 3.88227 250.27 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac -73.33710 3.88207 251.10 1.23
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -73.33676 3.88175 251.15 0
+OBJECT_SHARED Models/lib/office4x14.ac -73.33757 3.88180 251.57 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33799 3.88218 250.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33799 3.88197 250.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33782 3.88172 250.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33759 3.88172 250.45 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33734 3.88172 250.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33709 3.88174 251.03 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33707 3.88193 251.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33689 3.88176 251.19 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33691 3.88193 251.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33677 3.88198 251.41 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33677 3.88214 251.51 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33692 3.88219 251.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -73.33714 3.88218 251.34 0
+# END dsf2stg

@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 126.14719 7.31265 0.00 268.24
+OBJECT_SHARED Models/Transport/hatchback_black.ac 126.14720 7.31288 628.65 175.24
+OBJECT_SHARED Models/Transport/van_red.ac 126.14715 7.31288 628.43 199.44
+OBJECT_SHARED Models/lib/watertank3x1.ac 126.14713 7.31297 628.43 180
+OBJECT_SHARED Models/lib/transformer3x3.ac 126.14732 7.31297 628.34 91.27
+OBJECT_SHARED Models/lib/shed8x10.ac 126.14719 7.31224 628.34 268.23
+OBJECT_SHARED Models/lib/shed8x10.ac 126.14740 7.31218 629.06 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.14751 7.31148 629.12 123.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.14759 7.31233 630.80 136.12
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.14753 7.31237 630.43 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.14763 7.31249 630.41 143.13
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.14750 7.31251 630.39 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 126.14731 7.31214 628.79 0
+# END dsf2stg

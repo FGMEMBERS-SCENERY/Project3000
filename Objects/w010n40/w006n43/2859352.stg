@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.83198 43.43722 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.83185 43.43719 162.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.83220 43.43574 161.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.83214 43.43564 160.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.83225 43.43560 160.73 326.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.83135 43.43189 160.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.83162 43.43212 158.35 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -5.83173 43.43210 158.47 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -5.83055 43.43674 158.47 174.12
+OBJECT_SHARED Models/Transport/van_red.ac -5.83062 43.43675 160.98 174.12
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -5.83067 43.43676 161.08 174.12
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -5.83072 43.43676 161.11 174.12
+OBJECT_SHARED Models/Transport/hatchback_red.ac -5.83076 43.43676 161.12 174.12
+OBJECT_SHARED Models/Transport/van_red.ac -5.83080 43.43677 161.14 174.12
+OBJECT_SHARED Models/lib/prop_a.ac -5.83120 43.43687 161.15 199.37
+OBJECT_SHARED Models/lib/hangar81x16.ac -5.83211 43.43623 161.38 86.42
+OBJECT_SHARED Models/lib/cars4.ac -5.83208 43.43599 161.21 354.34
+OBJECT_SHARED Models/lib/industrial13x24.ac -5.83205 43.43549 161.02 175.79
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -5.83209 43.43534 160.60 174.14
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -5.83101 43.43653 160.48 262.235
+# END dsf2stg

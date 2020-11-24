@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/admin-with-cars.ac -94.31141 32.52072 0.00 203.19
+OBJECT_SHARED Models/lib/MedHangar.ac -94.31146 32.52139 103.79 203.19
+OBJECT_SHARED Models/lib/MedHangar.ac -94.31163 32.52172 104.69 203.19
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.31206 32.52220 105.05 203.19
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.31210 32.52227 105.50 203.19
+OBJECT_SHARED Models/lib/fboModern1.ac -94.31192 32.52239 105.64 113.19
+OBJECT_SHARED Models/lib/LongRow.ac -94.31049 32.51947 105.85 203.19
+OBJECT_SHARED Models/lib/LongRow.ac -94.31070 32.51984 102.60 203.19
+# END dsf2stg

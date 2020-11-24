@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/2container-office.ac -70.25899 -45.70422 0.00 57.36
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.25904 -45.70433 546.63 55.17
+OBJECT_SHARED Models/lib/shed8x10.ac -70.25977 -45.70451 546.48 353.66
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.25974 -45.70443 546.10 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.25994 -45.70443 546.26 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.25978 -45.70461 546.24 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.25960 -45.70461 545.96 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.25901 -45.70385 545.97 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.25885 -45.70408 547.23 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.25881 -45.70392 546.80 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -70.25877 -45.70387 547.10 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -70.25878 -45.70377 547.10 242.85
+# END dsf2stg

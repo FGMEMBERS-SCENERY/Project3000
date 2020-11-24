@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/schranke.ac 13.44844 48.40338 0.00 218
+OBJECT_SHARED Models/lib/shed8x10.ac 13.44919 48.40348 335.53 36.1
+OBJECT_SHARED Models/lib/prop_a.ac 13.44768 48.40180 335.98 234
+OBJECT_SHARED Models/lib/prop_a.ac 13.44815 48.40226 333.89 51
+OBJECT_SHARED Models/lib/prop_a.ac 13.44752 48.40266 334.34 202
+OBJECT_SHARED Models/Transport/hatchback_black.ac 13.44740 48.40191 334.50 323.13
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 13.44769 48.40200 333.87 231.84
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.44773 48.40203 334.02 231.84
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.44739 48.40214 334.02 322
+OBJECT_SHARED Models/Transport/van_red.ac 13.44729 48.40220 334.01 322
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.44719 48.40225 334.06 322
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.44704 48.40233 334.03 322
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 13.44758 48.40235 334.03 348.69
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 13.44744 48.40255 334.27 147.71
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.44754 48.40212 334.38 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.44747 48.40216 334.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.44740 48.40220 334.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.44733 48.40223 334.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.44724 48.40228 334.06 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.44717 48.40232 334.09 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.44709 48.40236 334.09 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.44701 48.40240 334.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 13.44693 48.40243 334.10 0
+OBJECT_SHARED Models/lib/schranke.ac 13.44712 48.40286 334.05 49
+OBJECT_SHARED Models/lib/transformer3x3.ac 13.44712 48.40284 334.51 48.5
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.44778 48.40248 334.43 321.5
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.44773 48.40250 334.42 321.5
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.44773 48.40253 334.38 321.5
+OBJECT_SHARED Models/Misc/picnic_table.ac 13.44767 48.40253 334.38 321.5
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 13.44726 48.40285 334.38 135
+OBJECT_SHARED Models/lib/industrial13x24.ac 13.44726 48.40250 334.59 141.5
+OBJECT_SHARED Models/lib/industrial13x24.ac 13.44744 48.40240 334.26 141.5
+OBJECT_SHARED Models/lib/industrial13x24.ac 13.44772 48.40239 334.22 141.5
+OBJECT_SHARED Models/lib/LongRow.ac 13.44864 48.40163 334.31 142
+OBJECT_SHARED Models/lib/LongRow.ac 13.44856 48.40156 334.00 142
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 13.44962 48.40087 334.50 235.5
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 13.44955 48.40081 334.47 235.5
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 13.44965 48.40076 334.45 235.5
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 13.44975 48.40072 334.48 235.5
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 13.44982 48.40078 334.50 235.5
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 13.44989 48.40085 334.52 235.5
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 13.44979 48.40090 334.58 235.5
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 13.44969 48.40094 334.54 235.5
+OBJECT_SHARED Models/lib/cube16x10.ac 13.44941 48.40102 334.00 323
+# END dsf2stg

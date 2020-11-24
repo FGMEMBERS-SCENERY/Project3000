@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 24.94814 37.42161 0.00 314.094
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 24.94819 37.42205 67.31 314.43
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 24.94819 37.42233 67.82 314.403
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 24.94819 37.42276 68.08 315
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 24.94727 37.42224 68.54 0
+OBJECT_SHARED Models/lib/lamp10m.xml 24.94732 37.42248 67.10 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 24.94760 37.42157 67.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 24.94775 37.42246 66.73 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 24.94776 37.42233 67.96 0
+OBJECT_SHARED Models/lib/cars10.ac 24.94742 37.42210 67.73 270.431
+OBJECT_SHARED Models/lib/cars10.ac 24.94724 37.42182 67.10 90.5554
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 24.94701 37.42192 66.49 359.179
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 24.94701 37.42220 66.36 359.179
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 24.94702 37.42244 66.72 359.179
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 24.94775 37.42129 66.96 0
+OBJECT_SHARED Models/lib/SmHangar.ac 24.94726 37.42147 66.60 176.222
+# END dsf2stg

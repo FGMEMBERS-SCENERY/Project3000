@@ -1,22 +1,31 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68489 44.10296 228.69 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68474 44.10280 228.82 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68461 44.10251 228.80 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68455 44.10231 228.78 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68436 44.10289 229.15 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68448 44.10287 229.05 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68415 44.10252 229.24 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68425 44.10259 229.12 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68412 44.10244 229.19 0
-OBJECT_SHARED Models/lib/propane-tank.ac -88.68481 44.10333 228.86 90
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -88.68477 44.10314 228.82 180
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -88.68416 44.10347 229.53 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68485 44.10342 228.72 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -88.68414 44.10339 229.61 0
-OBJECT_SHARED Models/lib/SmHangar.ac -88.68413 44.10272 229.34 180.418
-OBJECT_SHARED Models/lib/SmHangar.ac -88.68421 44.10305 229.41 270
-OBJECT_SHARED Models/lib/SmHangar.ac -88.68450 44.10305 229.12 270.494
-OBJECT_SHARED Models/lib/SmHangar.ac -88.68425 44.10355 229.42 179.605
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59973 44.01388 0.50 180
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59961 44.01388 235.88 180.79
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59961 44.01407 235.78 180.31
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59972 44.01407 235.88 180.32
+OBJECT_SHARED Models/lib/lamp10m.xml -88.59966 44.01377 235.48 -89.42
+OBJECT_SHARED Models/lib/lamp10m.xml -88.59966 44.01415 235.33 89.34
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -88.60100 44.01150 235.51 180
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -88.60168 44.01130 234.96 180
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -88.60257 44.01189 235.33 180
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -88.59900 44.01350 236.61 180
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -88.59868 44.01350 234.76 180
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -88.59840 44.01350 234.57 180
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -88.60199 44.01141 234.39 319.29
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -88.60236 44.01170 235.65 319.29
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -88.60233 44.01250 236.25 270
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -88.60222 44.01332 236.88 270
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -88.60221 44.01362 237.31 270
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -88.60115 44.01409 237.41 270
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -88.60040 44.01409 236.76 270
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59954 44.01388 236.63 180
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59954 44.01407 235.71 180.51
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59980 44.01388 235.77 178.32
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59954 44.01393 235.97 180
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59954 44.01402 235.71 180.67
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59980 44.01393 235.72 180.3
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59980 44.01402 235.97 180.2
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -88.59980 44.01407 236.04 180
 # END dsf2stg

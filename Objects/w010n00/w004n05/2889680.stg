@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -3.93452 5.25037 0.00 246.92
+OBJECT_SHARED Models/lib/prop_a.ac -3.93464 5.25043 7.09 247.36
+OBJECT_SHARED Models/lib/office32x25n.ac -3.93306 5.25335 7.09 337.18
+OBJECT_SHARED Models/lib/office32x25.ac -3.92936 5.26144 6.59 247.78
+OBJECT_SHARED Models/lib/office32x25n.ac -3.93139 5.25753 4.70 336.76
+OBJECT_SHARED Models/lib/office65x50.ac -3.93395 5.25139 5.74 337.42
+OBJECT_SHARED Models/lib/office112x50.ac -3.93360 5.25218 6.92 337.57
+OBJECT_SHARED Models/lib/office32x25n.ac -3.93215 5.25544 6.79 336.67
+OBJECT_SHARED Models/lib/hangar81x16.ac -3.93540 5.25024 6.19 337.66
+OBJECT_SHARED Models/lib/MedHangar.ac -3.93430 5.25006 7.12 247.89
+OBJECT_SHARED Models/lib/MedHangar.ac -3.92856 5.26283 7.24 157.74
+OBJECT_SHARED Models/lib/MedHangar.ac -3.92872 5.26246 7.38 157.79
+OBJECT_SHARED Models/lib/MedHangar.ac -3.93361 5.25072 7.42 157.78
+OBJECT_SHARED Models/lib/MedHangar.ac -3.92887 5.26209 6.98 157.8
+OBJECT_SHARED Models/lib/MedHangar.ac -3.93376 5.25035 7.46 157.96
+OBJECT_SHARED Models/lib/loader.ac -3.93226 5.25344 7.03 157.72
+OBJECT_SHARED Models/lib/loader.ac -3.93195 5.25416 6.52 -24.62
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -3.93315 5.25147 6.39 247.64
+OBJECT_SHARED Models/lib/MedHangar.ac -3.93429 5.25035 6.86 67.44
+OBJECT_SHARED Models/lib/MedHangar.ac -3.93466 5.25050 7.07 67.44
+OBJECT_SHARED Models/lib/MedHangar.ac -3.93503 5.25065 7.08 67.36
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -3.93351 5.25056 7.10 66.83
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -3.93203 5.25425 6.99 335.72
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -3.93278 5.25237 6.38 156.3
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -3.93278 5.25231 6.71 156.57
+OBJECT_SHARED Models/lib/caisses_group.ac -3.93226 5.25337 6.72 246.8
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -3.93186 5.25414 6.54 65.17
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -3.93188 5.25417 6.39 65.62
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -3.93167 5.25640 6.38 247.56
+OBJECT_SHARED Models/lib/jetway_e16m.ac -3.93188 5.25458 5.98 156.17
+OBJECT_SHARED Models/lib/jetway_e12m.ac -3.93190 5.25463 6.31 156.09
+OBJECT_SHARED Models/lib/jetway_e14m.ac -3.93221 5.25382 6.31 155.81
+OBJECT_SHARED Models/lib/jetway_e16m.ac -3.93221 5.25377 6.46 157.2
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -3.93280 5.25226 6.47 155.87
+# END dsf2stg

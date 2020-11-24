@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac 23.57290 59.02159 0.00 75.0687
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 23.57277 59.02149 5.73 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 23.57275 59.02148 5.86 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 23.57264 59.02161 5.86 44.0769
+OBJECT_SHARED Models/lib/prop_a.ac 23.57298 59.02171 5.61 211
+OBJECT_SHARED Models/lib/propane-tank.ac 23.57292 59.02107 5.57 50
+OBJECT_SHARED Models/Trees/billboard-tree.xml 23.57255 59.02167 6.63 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 23.57279 59.02155 5.45 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 23.57293 59.02128 5.68 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 23.57267 59.02111 6.27 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 23.57325 59.02125 6.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 23.57318 59.02131 6.53 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 23.57313 59.02136 6.35 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 23.57308 59.02141 6.15 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 23.57304 59.02147 6.15 0
+OBJECT_SHARED Models/lib/farm19x12.ac 23.57237 59.02128 5.94 142.8
+OBJECT_SHARED Models/lib/shed8x10.ac 23.57309 59.02118 6.06 225
+OBJECT_SHARED Models/lib/shed8x10.ac 23.57256 59.02156 6.51 135
+OBJECT_SHARED Models/lib/shed8x10.ac 23.57288 59.02146 5.61 135
+# END dsf2stg

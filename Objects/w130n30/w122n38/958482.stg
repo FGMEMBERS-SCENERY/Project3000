@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -121.42448 38.30144 5.08 197.39
-OBJECT_SHARED Models/lib/SmHangar.ac -121.42466 38.30289 5.13 194.68
-OBJECT_SHARED Models/lib/SmHangar.ac -121.42446 38.30306 5.26 15.52
-OBJECT_SHARED Models/lib/SmHangar.ac -121.42440 38.30286 5.24 15.35
-OBJECT_SHARED Models/lib/SmHangar.ac -121.42503 38.30294 5.13 104.99
-OBJECT_SHARED Models/lib/SmHangar.ac -121.42471 38.30303 5.14 194.8
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -121.42460 38.30157 5.03 107.82
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -121.42482 38.30216 5.07 107.53
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -121.42474 38.30191 5.05 107.1
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -121.43068 38.30655 5.01 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -121.43442 38.30444 4.99 0
+OBJECT_SHARED Models/lib/SmHangar.ac -121.42448 38.30144 0.00 197.39
+OBJECT_SHARED Models/lib/SmHangar.ac -121.42466 38.30289 5.08 194.68
+OBJECT_SHARED Models/lib/SmHangar.ac -121.42446 38.30306 5.13 15.52
+OBJECT_SHARED Models/lib/SmHangar.ac -121.42440 38.30286 5.26 15.35
+OBJECT_SHARED Models/lib/SmHangar.ac -121.42503 38.30294 5.24 104.99
+OBJECT_SHARED Models/lib/SmHangar.ac -121.42471 38.30303 5.13 194.8
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -121.42460 38.30157 5.14 107.82
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -121.42482 38.30216 5.03 107.53
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -121.42474 38.30191 5.07 107.1
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -121.43068 38.30655 5.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -121.43442 38.30444 5.01 0
 # END dsf2stg

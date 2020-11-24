@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac 9.75651 55.07537 0.00 85.7241
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.75629 55.07539 12.72 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.75627 55.07541 12.72 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.75627 55.07544 12.72 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 9.75651 55.07540 12.72 90.5008
+OBJECT_SHARED Models/Transport/hatchback_red.ac 9.75652 55.07544 12.72 270.288
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 9.75652 55.07547 12.72 270.581
+OBJECT_SHARED Models/Transport/van_silver.ac 9.75652 55.07550 12.58 85.7912
+OBJECT_SHARED Models/lib/SmHangar.ac 9.75586 55.07521 12.58 270.572
+OBJECT_SHARED Models/Misc/picnic_table.ac 9.75628 55.07553 12.98 101.535
+OBJECT_SHARED Models/lib/shed8x10.ac 9.75639 55.07546 12.60 0
+OBJECT_SHARED Models/lib/shed8x10.ac 9.75633 55.07512 12.60 90.001
+OBJECT_SHARED Models/lib/shed8x10.ac 9.75633 55.07522 13.17 90.001
+OBJECT_SHARED Models/lib/shed8x10.ac 9.75614 55.07516 13.02 0.763893
+# END dsf2stg

@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml 0.83077 51.20837 185.27 142.88
-OBJECT_SHARED Models/lib/lamp10m.xml 0.83099 51.20884 184.35 107.78
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.83109 51.20654 187.85 6.94
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 0.83065 51.20756 186.65 286.93
-OBJECT_SHARED Models/lib/prop_a.ac 0.83064 51.20901 184.06 297.672
-OBJECT_SHARED Models/lib/prop_a.ac 0.83037 51.20786 186.24 18.9807
+OBJECT_SHARED Models/lib/lamp10m.xml 0.83077 51.20837 0.00 142.88
+OBJECT_SHARED Models/lib/lamp10m.xml 0.83099 51.20884 185.08 107.78
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 0.83109 51.20654 184.33 6.94
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 0.83065 51.20756 188.09 286.93
+OBJECT_SHARED Models/lib/prop_a.ac 0.83064 51.20901 186.40 297.672
+OBJECT_SHARED Models/lib/prop_a.ac 0.83037 51.20786 184.00 18.9807
 # END dsf2stg

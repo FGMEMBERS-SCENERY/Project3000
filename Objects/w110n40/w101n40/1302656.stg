@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -100.81395 40.10307 0.00 7.23
+OBJECT_SHARED Models/lib/shed8x10.ac -100.81373 40.10291 818.00 274.65
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.81411 40.10340 817.55 93.29
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.81424 40.10305 818.04 277.13
+OBJECT_SHARED Models/lib/propane-tank.ac -100.81437 40.10329 817.83 3.14
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -100.81385 40.10341 818.03 5.42
+# END dsf2stg

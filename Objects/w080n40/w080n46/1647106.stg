@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.49119 46.10887 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.49104 46.10890 226.57 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.49183 46.10828 226.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.49084 46.10798 225.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -79.49108 46.10797 228.30 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.49111 46.10798 227.66 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.49086 46.10798 227.66 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.48976 46.10935 228.09 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.48988 46.10827 227.41 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.48986 46.10957 228.94 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.48995 46.10838 227.18 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.48998 46.10960 228.88 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.49008 46.10837 227.12 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.49009 46.10963 228.64 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.49022 46.10832 227.07 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.49021 46.10963 228.66 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -79.49030 46.10844 227.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.48974 46.10897 228.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.48983 46.10819 228.12 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.49016 46.10927 229.13 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.48994 46.10817 227.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.48998 46.10953 229.01 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.49005 46.10831 227.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.49019 46.10954 228.73 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.49018 46.10827 227.09 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.49025 46.10838 228.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.49032 46.10849 228.59 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -79.49020 46.10852 228.44 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -79.48994 46.10944 228.52 201.62
+OBJECT_SHARED Models/lib/shed8x10.ac -79.49053 46.10879 227.35 110.08
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.49099 46.10919 227.46 294.44
+# END dsf2stg

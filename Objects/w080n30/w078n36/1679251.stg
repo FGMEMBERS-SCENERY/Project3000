@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -77.17265 36.29503 0.00 0
+OBJECT_SHARED Models/lib/cars6.ac -77.17270 36.29520 18.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.16618 36.29197 18.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.16741 36.29147 18.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17289 36.29657 18.95 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17285 36.29660 19.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17285 36.29652 19.01 348.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17289 36.29649 19.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17289 36.29638 19.03 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17276 36.29628 19.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17266 36.29618 18.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17275 36.29610 18.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17267 36.29611 18.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17274 36.29601 18.94 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17283 36.29644 18.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17281 36.29464 18.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17283 36.29460 18.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17289 36.29463 18.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17289 36.29506 18.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17278 36.29506 18.92 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.17284 36.29467 18.88 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -77.17251 36.29801 18.85 90.5
+OBJECT_SHARED Models/lib/prop_a.ac -77.17206 36.29538 18.99 270
+OBJECT_SHARED Models/lib/prop_a.ac -77.17196 36.29797 18.68 270.95
+OBJECT_SHARED Models/lib/prop_a.ac -77.17264 36.29757 18.87 1.16
+OBJECT_SHARED Models/lib/transformer3x3.ac -77.17246 36.29806 19.00 3.67001
+OBJECT_SHARED Models/lib/garage-small-white.ac -77.17257 36.29725 18.77 271.13
+OBJECT_SHARED Models/lib/shed8x10.ac -77.17259 36.29740 18.98 91.51
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.17231 36.29535 18.99 90
+OBJECT_SHARED Models/lib/prop_a.ac -77.17239 36.29528 18.73 307.06
+OBJECT_SHARED Models/lib/garage-small-white.ac -77.16608 36.29240 18.76 106.93
+OBJECT_SHARED Models/lib/farm19x12.ac -77.16772 36.29151 17.67 29.99
+OBJECT_SHARED Models/lib/prop_a.ac -77.17189 36.29466 18.97 89.38
+# END dsf2stg

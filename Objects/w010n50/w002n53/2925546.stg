@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -1.25651 53.62990 0.00 320.19
+OBJECT_SHARED Models/lib/shed8x10.ac -1.26330 53.62993 58.23 161.34
+OBJECT_SHARED Models/lib/cars4.ac -1.25592 53.63031 43.75 324.57
+OBJECT_SHARED Models/lib/cars6.ac -1.25601 53.62995 58.62 141.91
+OBJECT_SHARED Models/lib/cars4.ac -1.25645 53.63022 59.46 35.14
+OBJECT_SHARED Models/lib/cars4.ac -1.25630 53.63029 57.34 29.35
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.25736 53.62938 57.58 14.74
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.25677 53.62955 56.67 14.74
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.25663 53.62956 58.48 14.74
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.25678 53.62962 58.94 14.74
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.25690 53.62964 58.43 14.74
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.25742 53.62946 57.90 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.25690 53.62956 56.09 0
+OBJECT_SHARED Models/Misc/6barrels.ac -1.25599 53.62993 57.90 106.42
+OBJECT_SHARED Models/Misc/6barrels.ac -1.25601 53.62993 59.90 238.82
+OBJECT_SHARED Models/Misc/6barrels.ac -1.25620 53.62979 59.84 51.34
+OBJECT_SHARED Models/lib/SmHangar.ac -1.25717 53.62965 59.57 250.88
+OBJECT_SHARED Models/lib/SmHangar.ac -1.25651 53.63001 56.70 51.91
+# END dsf2stg

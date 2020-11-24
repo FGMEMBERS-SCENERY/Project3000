@@ -1,6 +1,6 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed8x10.ac 168.10469 -46.89794 81.34 203.419
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 168.10752 -46.89787 78.83 292.844
+OBJECT_SHARED Models/lib/shed8x10.ac 168.10469 -46.89794 0.00 203.419
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 168.10752 -46.89787 81.28 292.844
 # END dsf2stg

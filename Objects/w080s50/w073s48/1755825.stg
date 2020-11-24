@@ -1,13 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cars7.ac -72.58570 -47.24475 201.95 104.53
-OBJECT_SHARED Models/lib/handicap-sign.ac -72.58558 -47.24474 202.13 102.74
-OBJECT_SHARED Models/lib/cube16x10.ac -72.58530 -47.24453 202.50 181.74
-OBJECT_SHARED Models/lib/SmHangar.ac -72.58536 -47.24468 202.17 271.7
-OBJECT_SHARED Models/lib/SmHangar.ac -72.58589 -47.24496 201.56 0
-OBJECT_SHARED Models/lib/SmHangar.ac -72.58662 -47.24490 201.54 93.34
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -72.58662 -47.24438 202.37 269.28
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -72.58522 -47.24418 202.94 207
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.58625 -47.24474 201.99 337.01
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -72.58604 -47.24400 0.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac -72.58468 -47.24427 202.91 270.15
+OBJECT_SHARED Models/Transport/hatchback_black.ac -72.58631 -47.24401 203.02 5.95001
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -72.58487 -47.24432 202.73 359.99
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -72.58483 -47.24432 202.94 180
+OBJECT_SHARED Models/Transport/van_red.ac -72.58480 -47.24432 203.01 178.49
+OBJECT_SHARED Models/lib/garage-small-white.ac -72.58591 -47.24439 203.01 270.01
+OBJECT_SHARED Models/lib/stack_of_cones.ac -72.58477 -47.24429 202.35 37.41
 # END dsf2stg

@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -123.82154 46.69767 0.00 315.84
+OBJECT_SHARED Models/lib/lamp10m.xml -123.82174 46.69838 3.11 136.08
+OBJECT_SHARED Models/lib/lamp10m.xml -123.82192 46.69825 3.22 313.34
+OBJECT_SHARED Models/lib/garages22x9.ac -123.82212 46.69846 3.21 222.74
+OBJECT_SHARED Models/lib/garage-small-white.ac -123.82165 46.69814 3.23 135.51
+OBJECT_SHARED Models/lib/garage-small-white.ac -123.82241 46.69868 3.17 315.65
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -123.82146 46.69802 3.14 315.76
+OBJECT_SHARED Models/lib/cars10.ac -123.82176 46.69817 3.12 135.54
+# END dsf2stg

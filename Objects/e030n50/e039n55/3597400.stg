@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 39.04088 55.45620 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 39.04202 55.45712 135.46 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 39.04408 55.45831 135.31 256.38
+OBJECT_SHARED Models/lib/prop_a.ac 39.04108 55.45692 137.19 168.56
+OBJECT_SHARED Models/lib/prop_a.ac 39.04094 55.45664 135.01 162.12
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 39.04143 55.45672 135.13 71.94
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 39.04146 55.45678 135.33 68.92
+# END dsf2stg

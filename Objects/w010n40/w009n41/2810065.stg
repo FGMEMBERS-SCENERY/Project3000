@@ -1,9 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -8.67934 41.25494 55.28 279.19
-OBJECT_SHARED Models/lib/MedHangar.ac -8.67923 41.25524 55.29 10.37
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -8.67921 41.25582 -39.91 0
-OBJECT_SHARED Models/lib/cube16x10.ac -8.67966 41.25637 54.41 280.49
-OBJECT_SHARED Models/lib/FireStationLg.ac -8.67947 41.25612 54.71 191.31
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -8.51958 41.27925 0.00 294.57
+OBJECT_SHARED Models/lib/fuel-truck.xml -8.51687 41.27970 225.45 117.63
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -8.51699 41.27975 226.96 296.11
+OBJECT_SHARED Models/lib/NoParkStripes.xml -8.51868 41.27978 227.17 25.81
+OBJECT_SHARED Models/lib/NoParkStripes.xml -8.51882 41.27973 227.02 25.81
+OBJECT_SHARED Models/lib/NoParkStripes.xml -8.51897 41.27968 226.78 25.81
+OBJECT_SHARED Models/lib/NoParkStripes.xml -8.51912 41.27962 226.72 25.81
+OBJECT_SHARED Models/lib/cars10.ac -8.51769 41.28089 226.47 117.18
 # END dsf2stg

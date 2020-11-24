@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.74523 38.55395 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.74059 38.55392 162.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.74059 38.55367 164.34 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.73935 38.55377 164.38 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.73952 38.55379 164.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.73967 38.55378 164.57 284.04
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.73984 38.55380 164.53 0
+OBJECT_SHARED Models/lib/SmHangar.ac -82.73187 38.55240 164.52 137.23
+OBJECT_SHARED Models/lib/SmHangar.ac -82.73802 38.55258 164.51 229.65
+OBJECT_SHARED Models/lib/SmHangar.ac -82.74240 38.55259 164.63 351.18
+OBJECT_SHARED Models/lib/SmHangar.ac -82.73818 38.55269 164.09 229.65
+OBJECT_SHARED Models/lib/SmHangar.ac -82.73833 38.55279 164.65 229.65
+OBJECT_SHARED Models/lib/MedHangar.ac -82.73772 38.55305 164.67 261.27
+OBJECT_SHARED Models/lib/MedHangar.ac -82.73637 38.55290 164.81 261.27
+OBJECT_SHARED Models/lib/MedHangar.ac -82.73683 38.55295 164.88 261.27
+OBJECT_SHARED Models/lib/HorizTanks2.ac -82.73617 38.55308 164.83 354.49
+OBJECT_SHARED Models/lib/prop_a.ac -82.73656 38.55300 164.94 349.26
+OBJECT_SHARED Models/lib/prop_a.ac -82.73653 38.55313 164.89 351.64
+OBJECT_SHARED Models/lib/prop_a.ac -82.73860 38.55349 164.93 354.81
+OBJECT_SHARED Models/lib/prop_a.ac -82.73652 38.55327 164.80 354.81
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.74299 38.55402 164.94 260.91
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.74287 38.55399 163.67 258.11
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.74268 38.55397 163.70 263.28
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.74259 38.55398 163.76 257.01
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.74249 38.55396 163.79 270
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.74280 38.55399 163.83 267.27
+OBJECT_SHARED Models/lib/container6-HD.ac -82.74205 38.55353 163.73 354.56
+OBJECT_SHARED Models/lib/container6-HD.ac -82.74178 38.55352 164.05 165.96
+OBJECT_SHARED Models/lib/container6-HD.ac -82.74278 38.55268 164.15 90
+OBJECT_SHARED Models/lib/container6-HD.ac -82.74396 38.55372 164.02 0
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -82.74366 38.55313 163.49 85.71
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -82.74392 38.55398 163.78 83.66
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -82.74356 38.55379 163.37 81.03
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -82.74129 38.55324 163.57 336.04
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -82.74204 38.55303 164.28 175.24
+OBJECT_SHARED Models/Transport/van_red.ac -82.73739 38.55288 164.15 243.43
+OBJECT_SHARED Models/Transport/van_silver.ac -82.73742 38.55279 164.76 50.19
+OBJECT_SHARED Models/Transport/hatchback_green.ac -82.73740 38.55283 164.73 41.63
+# END dsf2stg

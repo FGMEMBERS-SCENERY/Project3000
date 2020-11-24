@@ -1,16 +1,16 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.38170 -37.77385 94.23 158
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.38169 -37.77383 94.17 158
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.38223 -37.77490 94.19 157
-OBJECT_SHARED Models/lib/handicap-sign.ac -73.38225 -37.77492 94.19 157
-OBJECT_SHARED Models/lib/cars14.ac -73.38176 -37.77397 94.22 158
-OBJECT_SHARED Models/lib/cars14.ac -73.38216 -37.77475 94.19 157
-OBJECT_SHARED Models/lib/SmHangar.ac -73.38175 -37.77352 93.77 337
-OBJECT_SHARED Models/lib/SmHangar.ac -73.38125 -37.77263 93.35 29.28
-OBJECT_SHARED Models/lib/office32x25.ac -73.38122 -37.77418 94.40 341
-OBJECT_SHARED Models/lib/office40x25.ac -73.37995 -37.77549 94.25 74
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.38266 -37.77493 93.86 15.64
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -73.38160 -37.77328 93.83 243
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.38170 -37.77385 0.00 158
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.38169 -37.77383 93.95 158
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.38223 -37.77490 93.87 157
+OBJECT_SHARED Models/lib/handicap-sign.ac -73.38225 -37.77492 93.98 157
+OBJECT_SHARED Models/lib/cars14.ac -73.38176 -37.77397 93.98 158
+OBJECT_SHARED Models/lib/cars14.ac -73.38216 -37.77475 93.94 157
+OBJECT_SHARED Models/lib/SmHangar.ac -73.38175 -37.77352 93.97 337
+OBJECT_SHARED Models/lib/SmHangar.ac -73.38125 -37.77263 93.43 29.28
+OBJECT_SHARED Models/lib/office32x25.ac -73.38122 -37.77418 92.98 341
+OBJECT_SHARED Models/lib/office40x25.ac -73.37995 -37.77549 94.24 74
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -73.38266 -37.77493 94.24 15.64
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -73.38160 -37.77328 93.65 243
 # END dsf2stg

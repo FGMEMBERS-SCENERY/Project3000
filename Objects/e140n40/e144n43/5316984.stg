@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 144.15845 43.88217 0.00 275.07
+OBJECT_SHARED Models/lib/lamp10m.xml 144.15924 43.88055 30.09 180
+OBJECT_SHARED Models/lib/lamp10m.xml 144.15933 43.87993 33.60 180
+OBJECT_SHARED Models/lib/lamp10m.xml 144.15939 43.87938 34.06 180
+OBJECT_SHARED Models/lib/lamp10m.xml 144.15901 43.88378 34.42 180
+OBJECT_SHARED Models/lib/lamp10m.xml 144.15894 43.88442 30.96 180
+OBJECT_SHARED Models/lib/lamp10m.xml 144.15892 43.88280 30.45 180
+OBJECT_SHARED Models/lib/lamp10m.xml 144.15911 43.88167 31.81 180
+OBJECT_SHARED Models/lib/lamp10m.xml 144.15917 43.88119 32.70 180
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 144.15937 43.88132 33.46 182.06
+OBJECT_SHARED Models/lib/MedHangar.ac 144.15867 43.88403 33.00 183.88
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 144.15791 43.88330 30.79 93.98
+OBJECT_SHARED Models/lib/chariot3curve.ac 144.15922 43.88061 30.90 90
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 144.15931 43.88007 33.53 183.98
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 144.15933 43.88001 33.91 184.63
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 144.15917 43.88069 33.99 96.31
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 144.15930 43.88193 33.46 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 144.15941 43.88113 32.54 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 144.15948 43.88084 33.16 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 144.15959 43.87983 33.39 0
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 144.15948 43.87999 33.81 276.22
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 144.15949 43.88019 33.99 275.44
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 144.15925 43.88182 33.84 90
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 144.15923 43.88099 32.62 90
+OBJECT_SHARED Models/lib/lamp10m.xml 144.16028 43.87853 33.24 -42.9149
+OBJECT_SHARED Models/lib/lamp10m.xml 144.16021 43.87909 34.61 4.79422
+# END dsf2stg

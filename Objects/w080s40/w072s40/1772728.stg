@@ -1,7 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -71.99319 -39.05145 396.49 9
-OBJECT_SHARED Models/lib/cars4.ac -71.99320 -39.05133 396.48 98
-OBJECT_SHARED Models/lib/handicap-sign.ac -71.99320 -39.05131 396.48 189
+OBJECT_SHARED Models/lib/SmHangar.ac -71.99319 -39.05145 0.00 9
+OBJECT_SHARED Models/lib/cars4.ac -71.99320 -39.05133 396.46 98
+OBJECT_SHARED Models/lib/handicap-sign.ac -71.99320 -39.05131 396.46 189
 # END dsf2stg

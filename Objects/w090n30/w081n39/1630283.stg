@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -80.21529 39.13707 0.00 248.63
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -80.21326 39.13702 401.84 43.76
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -80.21190 39.13730 402.27 54.95
+OBJECT_SHARED Models/lib/shed8x10.ac -80.20696 39.13825 402.74 173.25
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -80.20720 39.13855 403.14 351.7
+# END dsf2stg

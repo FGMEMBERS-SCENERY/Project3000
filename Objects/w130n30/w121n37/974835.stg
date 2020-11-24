@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -120.18172 37.86179 0.00 69.08
+OBJECT_SHARED Models/lib/industrial13x24.ac -120.17751 37.86060 882.75 158.3
+OBJECT_SHARED Models/lib/NoParkStripes.xml -120.17744 37.86043 888.21 68.64
+OBJECT_SHARED Models/lib/NoParkStripes.xml -120.17761 37.86052 889.11 158.3
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -120.17745 37.86047 888.24 158.3
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -120.17759 37.86023 889.11 158.56
+OBJECT_SHARED Models/lib/LongRow.ac -120.17793 37.85963 888.33 0.339996
+OBJECT_SHARED Models/lib/LongRow.ac -120.17680 37.86023 888.02 338.45
+# END dsf2stg

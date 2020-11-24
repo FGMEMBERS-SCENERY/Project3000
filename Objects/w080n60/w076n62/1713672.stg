@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac -75.66983 62.18261 0.00 353.63
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.66960 62.18223 218.10 356.93
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -75.66942 62.18208 217.59 175.82
+OBJECT_SHARED Models/lib/SmHangar.ac -75.66937 62.18201 217.61 175.43
+OBJECT_SHARED Models/lib/HorizTanks2.ac -75.66845 62.18252 217.46 85.99
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.66957 62.18240 218.83 356.93
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.66936 62.18248 217.90 356.93
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.66937 62.18209 218.22 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.66938 62.18209 217.61 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.66937 62.18208 217.61 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.66938 62.18208 217.61 0
+OBJECT_SHARED Models/lib/propane-tank.ac -75.66938 62.18221 217.61 356.1
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -75.66827 62.18260 217.76 262.41
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -75.66959 62.18205 218.99 84.12
+OBJECT_SHARED Models/Airport/cargoip.xml -75.66963 62.18198 217.44 353.52
+OBJECT_SHARED Models/Airport/cargobox.xml -75.66963 62.18200 217.28 355.1
+OBJECT_SHARED Models/Transport/van_red.ac -75.66950 62.18182 217.28 266.7
+OBJECT_SHARED Models/lib/lamp10m.xml -75.66938 62.18208 217.05 182.14
+OBJECT_SHARED Models/lib/lamp10m.xml -75.66978 62.18251 217.61 177.54
+# END dsf2stg

@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -110.22827 38.96494 0.00 38.0471
+OBJECT_SHARED Models/lib/propane-tank.ac -110.22898 38.96521 1285.45 40.1
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -110.22734 38.96433 1286.02 311.42
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -110.22733 38.96434 1285.42 311.42
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -110.22731 38.96435 1285.42 311.42
+OBJECT_SHARED Models/lib/transformer3x3.ac -110.22742 38.96428 1285.31 308.99
+OBJECT_SHARED Models/lib/transformer3x3.ac -110.22746 38.96435 1285.42 310.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml -110.22739 38.96439 1285.31 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -110.22837 38.96506 1285.31 307.69
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -110.22831 38.96500 1285.37 36.38
+OBJECT_SHARED Models/lib/shed8x10.ac -110.22904 38.96526 1285.41 128.24
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -110.22887 38.96563 1285.98 217.75
+OBJECT_SHARED Models/lib/office6x12.ac -110.22881 38.96538 1285.89 306.715
+OBJECT_SHARED Models/Transport/van_silver.ac -110.22848 38.96507 1285.95 131.38
+OBJECT_SHARED Models/Transport/hatchback_green.ac -110.22892 38.96560 1285.37 217.75
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -110.22915 38.96514 1285.89 0
+OBJECT_SHARED Models/lib/SmHangar.ac -110.22862 38.96494 1286.05 128.5
+OBJECT_SHARED Models/lib/stack_of_cones.ac -110.22871 38.96490 1286.11 0
+OBJECT_SHARED Models/lib/coal_pile.ac -110.22857 38.96546 1286.11 136.64
+OBJECT_SHARED Models/lib/cone.ac -110.22712 38.96336 1285.92 0
+OBJECT_SHARED Models/lib/cone.ac -110.22713 38.96346 1285.49 0
+OBJECT_SHARED Models/lib/cone.ac -110.22725 38.96349 1285.46 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -110.22824 38.96495 1285.46 307.875
+# END dsf2stg

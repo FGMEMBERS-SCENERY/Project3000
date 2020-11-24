@@ -1,48 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/lamp10m.xml 10.87115 44.83673 18.98 -30
-OBJECT_SHARED Models/lib/lamp10m.xml 10.87171 44.83760 19.53 -30
-OBJECT_SHARED Models/lib/lamp10m.xml 10.87158 44.83742 19.52 -30
-OBJECT_SHARED Models/lib/lamp10m.xml 10.87144 44.83720 19.34 -30
-OBJECT_SHARED Models/lib/lamp10m.xml 10.87132 44.83703 19.21 -30
-OBJECT_SHARED Models/lib/office32x25n.ac 10.87211 44.83735 19.72 155
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 10.87243 44.83718 19.87 346
-OBJECT_SHARED Models/lib/canopy18x8.ac 10.87243 44.83718 19.87 76
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87392 44.83647 19.54 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87412 44.83687 19.34 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87343 44.83542 19.80 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.87365 44.83586 19.82 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 10.87401 44.83668 19.44 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 10.87409 44.83680 19.35 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87383 44.83629 19.63 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87387 44.83633 19.12 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87396 44.83656 19.44 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87399 44.83661 19.44 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87415 44.83695 19.29 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87421 44.83709 19.19 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87425 44.83719 19.12 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.86878 44.83188 17.62 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.86880 44.83193 17.62 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87096 44.83671 18.89 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.87114 44.83702 19.06 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 10.87135 44.83733 19.37 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.87225 44.83767 19.68 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 10.87234 44.83764 19.73 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 10.87212 44.83768 19.65 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87167 44.83752 19.55 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87159 44.83741 19.52 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87154 44.83735 19.44 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87140 44.83714 19.32 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.87134 44.83705 19.24 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml 10.86767 44.83003 17.15 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.86764 44.82993 17.10 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.86777 44.82992 17.84 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.86800 44.82984 17.93 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.86793 44.82986 17.92 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 10.86784 44.82989 17.84 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.86831 44.82979 18.17 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.86839 44.82977 18.25 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.86959 44.82949 18.85 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 10.86953 44.82951 18.86 0
+OBJECT_SHARED Models/lib/cars2.ac 10.87181 44.83713 0.00 333.44
+OBJECT_SHARED Models/lib/cars10.ac 10.87135 44.83632 19.59 155.47
+OBJECT_SHARED Models/lib/cars2.ac 10.87155 44.83692 19.05 154.36
+OBJECT_SHARED Models/lib/SmHangar.ac 10.87120 44.83603 19.40 157.38
+OBJECT_SHARED Models/lib/prop_a.ac 10.87172 44.83639 18.88 157.48
+OBJECT_SHARED Models/lib/prop_a.ac 10.87225 44.83639 19.40 157.48
+OBJECT_SHARED Models/lib/prop_a.ac 10.87217 44.83626 19.75 157.48
+OBJECT_SHARED Models/lib/industrial13x24.ac 10.87159 44.83718 19.73 64.65
+OBJECT_SHARED Models/lib/transformer3x3.ac 10.87195 44.83716 19.44 333.97
 # END dsf2stg

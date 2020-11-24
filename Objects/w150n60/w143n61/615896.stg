@@ -1,0 +1,23 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -142.89858 61.43815 0.00 143.13
+OBJECT_SHARED Models/lib/prop_a.ac -142.90012 61.43817 458.70 32.47
+OBJECT_SHARED Models/lib/prop_a.ac -142.89988 61.43837 458.01 9.46
+OBJECT_SHARED Models/lib/prop_a.ac -142.89559 61.44088 456.54 61.19
+OBJECT_SHARED Models/lib/prop_a.ac -142.89542 61.44011 453.81 47.12
+OBJECT_SHARED Models/lib/prop_a.ac -142.89751 61.43969 455.90 40.6
+OBJECT_SHARED Models/lib/prop_a.ac -142.89683 61.44012 452.68 32.91
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -142.89463 61.44061 455.14 81.57
+OBJECT_SHARED Models/Transport/hatchback_red.ac -142.89468 61.44056 454.95 57.53
+OBJECT_SHARED Models/Transport/hatchback_black.ac -142.89476 61.44053 454.95 45
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -142.89480 61.44049 455.17 61.56
+OBJECT_SHARED Models/lib/office3x10.ac -142.89724 61.43907 455.17 51.52
+OBJECT_SHARED Models/lib/trailer-fedex.ac -142.89503 61.44042 457.38 325.43
+OBJECT_SHARED Models/lib/office16x4n.ac -142.89458 61.44083 455.35 143.76
+OBJECT_SHARED Models/lib/propane-tank.ac -142.89617 61.43952 454.50 236.82
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -142.89614 61.43966 456.95 231.46
+OBJECT_SHARED Models/lib/SmHangar.ac -142.89395 61.44120 456.50 53.13
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -142.89916 61.43799 453.05 323.79
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -142.89927 61.43792 458.93 323.64
+# END dsf2stg

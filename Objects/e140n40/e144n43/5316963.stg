@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.97197 43.58014 0.50 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.97191 43.58012 58.54 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.97185 43.58011 58.54 135
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.94791 43.57413 58.54 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.94797 43.57415 68.38 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.94803 43.57417 68.38 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.94841 43.57396 68.31 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.94839 43.57399 68.44 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.94837 43.57403 68.44 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.97170 43.57996 68.44 18.62
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.97094 43.57977 58.52 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.97046 43.57984 59.22 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.94826 43.57411 59.88 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.94903 43.57430 68.38 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.94937 43.57456 67.87 0
+OBJECT_SHARED Models/lib/lamp10m.xml 144.95561 43.57290 67.17 17.91
+OBJECT_SHARED Models/lib/lamp10m.xml 144.95693 43.57343 65.04 -70.72
+OBJECT_SHARED Models/lib/lamp10m.xml 144.95640 43.57329 64.44 -70.72
+OBJECT_SHARED Models/lib/lamp10m.xml 144.95583 43.57315 64.90 -70.72
+OBJECT_SHARED Models/lib/lamp10m.xml 144.95524 43.57300 64.94 -70.72
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 144.95567 43.57323 65.44 18.1
+OBJECT_SHARED Models/lib/cube16x10.ac 144.95723 43.57332 64.94 108.04
+OBJECT_SHARED Models/lib/SmHangar.ac 144.96343 43.57469 64.47 322.95
+OBJECT_SHARED Models/lib/office32x25.ac 144.95677 43.57317 61.73 107.81
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 144.95508 43.57251 64.50 17.92
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.97112 43.58066 66.12 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.97114 43.58062 59.52 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 144.97116 43.58058 59.48 0
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 144.95537 43.57288 58.98 288
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 144.95535 43.57287 65.48 288
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 144.95532 43.57287 65.48 288
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 144.95544 43.57302 65.48 289.27
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 144.95546 43.57299 65.44 289.27
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 144.95556 43.57291 65.44 106.81
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 144.95514 43.57317 65.04 288.15
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 144.95602 43.57314 65.38 110
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 144.95609 43.57316 64.97 110
+OBJECT_SHARED Models/lib/belt_loader.ac 144.95567 43.57307 64.94 -70
+OBJECT_SHARED Models/lib/belt_loader.ac 144.95571 43.57308 64.97 -70
+OBJECT_SHARED Models/lib/loader.ac 144.95510 43.57309 64.97 -72.58
+OBJECT_SHARED Models/lib/HorizTanks2.ac 144.95756 43.57296 65.41 17.35
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 144.95756 43.57286 66.86 287.84
+OBJECT_SHARED Models/lib/industrial15x22.ac 144.95829 43.57354 66.90 287.48
+OBJECT_SHARED Models/lib/SmHangar.ac 144.95790 43.57362 63.98 288.91
+# END dsf2stg

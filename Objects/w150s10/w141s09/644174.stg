@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -140.22200 -8.79432 0.00 24.47
+OBJECT_SHARED Models/lib/lamp10m.xml -140.22217 -8.79472 64.54 -66.43
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -140.22253 -8.79514 65.51 281.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -140.22254 -8.79505 65.82 56.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -140.22243 -8.79491 65.62 262.41
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -140.22226 -8.79531 65.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -140.22176 -8.79517 66.90 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -140.22073 -8.79363 66.58 205.35
+OBJECT_SHARED Models/lib/lamp10m.xml -140.22257 -8.79489 63.57 -62.15
+OBJECT_SHARED Models/lib/SmHangar.ac -140.22277 -8.79519 65.26 26.72
+OBJECT_SHARED Models/lib/cube16x10.ac -140.22178 -8.79459 65.93 112.17
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -140.22192 -8.79447 65.19 201.25
+# END dsf2stg

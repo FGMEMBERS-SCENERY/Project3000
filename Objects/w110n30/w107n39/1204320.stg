@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -106.97252 39.60069 0.00 123.96
+OBJECT_SHARED Models/lib/shed8x10.ac -106.97282 39.60020 2054.65 0.989998
+OBJECT_SHARED Models/lib/propane-tank.ac -106.97286 39.60013 2055.42 90
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -106.97274 39.60027 2054.91 135
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -106.97275 39.60028 2055.26 0
+# END dsf2stg

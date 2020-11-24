@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -163.02092 69.72918 0.00 293.068
+OBJECT_SHARED Models/lib/MedHangar.ac -163.02104 69.72927 1.30 293.068
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -163.00496 69.73489 1.39 27.8238
+OBJECT_SHARED Models/Transport/van_silver.ac -163.00268 69.73522 1.72 359.197
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -163.00297 69.73521 1.93 192.094
+OBJECT_SHARED Models/lib/stack_of_cones.ac -163.02055 69.72935 1.93 224.999
+OBJECT_SHARED Models/lib/stack_of_cones.ac -163.02061 69.72934 1.39 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -163.00281 69.73534 1.39 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -163.00275 69.73535 1.94 0
+OBJECT_SHARED Models/lib/container6-HD.ac -163.00326 69.73530 1.95 25.7097
+OBJECT_SHARED Models/lib/container6-HD.ac -163.00308 69.73534 1.94 25.7097
+OBJECT_SHARED Models/lib/container6-HD.ac -163.00293 69.73537 1.94 25.7097
+# END dsf2stg

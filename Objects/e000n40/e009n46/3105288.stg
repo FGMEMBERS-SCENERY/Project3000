@@ -1,6 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/schranke.ac 9.08926 46.23194 260.39 10.95
-OBJECT_SHARED Models/lib/MedHangar.ac 9.08956 46.23200 260.75 281.11
+OBJECT_SHARED Models/lib/cars4.ac 9.02572 46.18347 0.00 213.979
+OBJECT_SHARED Models/lib/schranke.ac 9.02564 46.18325 273.69 292.77
+OBJECT_SHARED Models/lib/cars2.ac 9.02574 46.18298 273.37 126.119
+OBJECT_SHARED Models/lib/cars2.ac 9.02570 46.18302 274.52 126.119
+OBJECT_SHARED Models/lib/cars2.ac 9.02565 46.18306 274.17 126.119
 # END dsf2stg

@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91595 30.91079 0.00 243.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91598 30.91089 918.70 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91607 30.91102 918.56 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91578 30.91068 918.41 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91316 30.90902 918.85 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91317 30.90879 919.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91281 30.90856 919.53 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91050 30.90774 919.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91051 30.90791 918.43 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91050 30.90782 919.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91397 30.90952 918.34 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -102.91374 30.90937 919.31 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -102.91187 30.90913 919.45 321.14
+OBJECT_SHARED Models/lib/MedHangar.ac -102.91409 30.90998 918.45 232.97
+OBJECT_SHARED Models/lib/MedHangar.ac -102.91277 30.90888 918.64 232.83
+OBJECT_SHARED Models/lib/cars6.ac -102.91374 30.90954 919.41 324.69
+OBJECT_SHARED Models/lib/cars6.ac -102.91312 30.90940 919.31 323.23
+OBJECT_SHARED Models/lib/admin31x12.ac -102.91298 30.90940 918.77 52.35
+OBJECT_SHARED Models/lib/office3x10.ac -102.91253 30.90853 918.77 323.03
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -102.91453 30.91077 919.92 0
+OBJECT_SHARED Models/lib/office16x4n.ac -102.91451 30.91089 918.14 50.23
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -102.91364 30.90951 918.00 140.01
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -102.91293 30.90929 919.31 145.36
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -102.91313 30.90943 918.90 139.68
+OBJECT_SHARED Models/lib/2vending-machines.ac -102.91300 30.90949 918.77 50.81
+OBJECT_SHARED Models/lib/2space_wStop.ac -102.91376 30.90956 918.67 53.87
+# END dsf2stg

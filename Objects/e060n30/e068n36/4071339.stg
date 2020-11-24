@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml 68.91299 36.66673 0.00 0
+OBJECT_SHARED Models/lib/LuggCartGroup.ac 68.91156 36.66720 446.74 65.73
+OBJECT_SHARED Models/lib/trailer-fedex.ac 68.91343 36.66688 446.24 337.21
+OBJECT_SHARED Models/lib/trailer-fedex.ac 68.91347 36.66696 447.28 338.08
+OBJECT_SHARED Models/lib/trailer-fedex.ac 68.91346 36.66692 447.40 338.08
+OBJECT_SHARED Models/lib/trailer-ups.ac 68.91146 36.66757 447.28 335.66
+OBJECT_SHARED Models/lib/trailer-ups.ac 68.91146 36.66752 445.99 336.52
+OBJECT_SHARED Models/lib/container6-HD.ac 68.91061 36.66755 446.05 332
+OBJECT_SHARED Models/lib/container6-HD.ac 68.91393 36.66638 446.03 246.27
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 68.91011 36.66777 447.71 337.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac 68.91291 36.66675 445.89 68.46
+OBJECT_SHARED Models/Transport/hatchback_black.ac 68.91219 36.66706 446.59 161.82
+OBJECT_SHARED Models/Transport/hatchback_green.ac 68.90924 36.66777 446.30 278.53
+OBJECT_SHARED Models/Transport/hatchback_red.ac 68.90995 36.66774 446.02 251.39
+OBJECT_SHARED Models/Transport/van_silver.ac 68.90983 36.66754 445.93 339.25
+OBJECT_SHARED Models/lib/HorizTanks2.ac 68.90978 36.66780 445.99 68.61
+OBJECT_SHARED Models/lib/garages18x9.ac 68.91332 36.66678 445.82 69.7
+OBJECT_SHARED Models/lib/garages22x9.ac 68.91248 36.66707 447.16 159.01
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 68.91128 36.66726 446.47 246.21
+OBJECT_SHARED Models/lib/shed8x10.ac 68.90989 36.66781 446.17 66.23
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 68.91041 36.66763 445.85 338.48
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 68.91009 36.66743 445.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 68.91260 36.66728 446.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 68.91235 36.66696 447.41 0
+OBJECT_SHARED Models/Airport/cargoip.xml 68.91305 36.66671 446.37 346.87
+OBJECT_SHARED Models/Airport/cargoip.xml 68.91303 36.66672 446.74 0
+# END dsf2stg

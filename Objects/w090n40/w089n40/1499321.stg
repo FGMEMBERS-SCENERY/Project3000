@@ -1,10 +1,10 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -88.62364 40.92203 198.58 0
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -88.62346 40.92203 198.61 0
-OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -88.62372 40.92137 198.68 180
-OBJECT_SHARED Models/lib/office40x25.ac -88.62367 40.92179 198.59 270
-OBJECT_SHARED Models/lib/LongRow.ac -88.62245 40.92091 199.18 90
-OBJECT_SHARED Models/lib/LongRow.ac -88.62300 40.92090 199.00 90
+OBJECT_SHARED Models/lib/office3x10.ac -88.62363 40.92114 0.00 90
+OBJECT_SHARED Models/lib/office3x10.ac -88.62388 40.92123 198.21 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -88.62360 40.92125 198.10 270
+OBJECT_SHARED Models/lib/LongRow.ac -88.62242 40.92097 198.19 90
+OBJECT_SHARED Models/lib/LongRow.ac -88.62297 40.92159 198.60 270
+OBJECT_SHARED Models/lib/MedHangar.ac -88.62366 40.92182 198.33 270
 # END dsf2stg

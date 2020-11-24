@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -71.63330 21.30838 0.00 47.73
+OBJECT_SHARED Models/Transport/van_silver.ac -71.63345 21.30755 -0.35 88.49
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -71.63321 21.30726 -0.00 300.14
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -71.63275 21.30652 0.00 30.14
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.63166 21.30789 1.55 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.63419 21.30625 3.36 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.63420 21.30670 0.55 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.63353 21.30699 -1.41 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.63293 21.30724 -0.31 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.63223 21.30680 0.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.63212 21.30700 1.41 0
+OBJECT_SHARED Models/lib/lamp10m.xml -71.63300 21.30869 1.89 85.24
+OBJECT_SHARED Models/lib/lamp10m.xml -71.63322 21.30866 -0.01 138.18
+OBJECT_SHARED Models/lib/lamp10m.xml -71.63280 21.30821 -0.55 -40.24
+OBJECT_SHARED Models/lib/lamp10m.xml -71.63258 21.30848 0.36 -39.99
+OBJECT_SHARED Models/lib/lamp10m.xml -71.63148 21.30725 1.04 118.45
+OBJECT_SHARED Models/lib/lamp10m.xml -71.63156 21.30739 3.70 121.23
+OBJECT_SHARED Models/lib/lamp10m.xml -71.63209 21.30691 3.46 208.89
+OBJECT_SHARED Models/lib/lamp10m.xml -71.63227 21.30724 1.86 27.93
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -71.63313 21.30842 1.40 139.64
+OBJECT_SHARED Models/lib/canopy18x8.ac -71.63295 21.30821 -0.41 50.91
+OBJECT_SHARED Models/lib/canopy18x8.ac -71.63315 21.30832 -0.20 50.91
+OBJECT_SHARED Models/lib/office8x14.ac -71.63423 21.30715 -0.36 0
+OBJECT_SHARED Models/lib/propane-tank.ac -71.63376 21.30687 -0.27 214.29
+OBJECT_SHARED Models/lib/propane-tank.ac -71.63385 21.30683 -0.71 30.53
+OBJECT_SHARED Models/lib/watertank3x1.ac -71.63392 21.30680 -0.93 295.94
+OBJECT_SHARED Models/lib/watertank3x1.ac -71.63367 21.30698 -0.99 211.14
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -71.63409 21.30644 -0.42 29.31
+OBJECT_SHARED Models/lib/coal_pile.ac -71.63466 21.30593 0.55 62.7
+OBJECT_SHARED Models/lib/coal_pile.ac -71.63463 21.30586 -1.24 90
+OBJECT_SHARED Models/lib/coal_pile.ac -71.63469 21.30585 -1.45 29.05
+OBJECT_SHARED Models/lib/coal_pile.ac -71.63473 21.30593 -1.24 28.81
+OBJECT_SHARED Models/lib/industrial13x24.ac -71.63356 21.30673 -1.24 209.66
+OBJECT_SHARED Models/lib/industrial13x24.ac -71.63392 21.30653 0.73 29.66
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -71.63313 21.30775 0.63 90
+# END dsf2stg

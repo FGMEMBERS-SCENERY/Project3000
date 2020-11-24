@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/belt_loader.ac -133.50002 68.30598 67.33 108.92
+OBJECT_SHARED Models/lib/shed10x50.ac -133.51863 68.30148 84.77 10.0498
+OBJECT_SHARED Models/lib/lamp10m.xml -133.50087 68.30597 67.61 140.526
+OBJECT_SHARED Models/lib/lamp10m.xml -133.50066 68.30484 67.09 238.815
+OBJECT_SHARED Models/lib/lamp10m.xml -133.50083 68.30565 65.69 180
+OBJECT_SHARED Models/lib/shed8x10.ac -133.50203 68.30589 66.59 273.42
+OBJECT_SHARED Models/lib/SmHangar.ac -133.50182 68.30604 66.83 182.88
+OBJECT_SHARED Models/lib/SmHangar.ac -133.50184 68.30617 66.96 182.88
+# END dsf2stg

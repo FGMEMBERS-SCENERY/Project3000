@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -7.71860 41.27720 0.00 72.42
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.71876 41.27671 553.12 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.71877 41.27668 553.39 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.71879 41.27666 553.40 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.71882 41.27673 553.41 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.71883 41.27670 553.43 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.71884 41.27668 553.43 0
+OBJECT_SHARED Models/lib/office16x4n.ac -7.71808 41.27826 553.43 276.62
+OBJECT_SHARED Models/lib/SmHangar.ac -7.71855 41.27650 552.04 342.03
+OBJECT_SHARED Models/lib/cone.ac -7.71853 41.27625 553.36 0
+OBJECT_SHARED Models/lib/cone.ac -7.71849 41.27635 553.39 0
+OBJECT_SHARED Models/lib/cone.ac -7.71867 41.27641 553.36 0
+OBJECT_SHARED Models/lib/cone.ac -7.71872 41.27630 553.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.71931 41.27524 553.46 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.71964 41.27531 553.60 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72088 41.27705 553.83 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72080 41.27721 554.57 243.43
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72115 41.27712 560.25 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72095 41.27718 554.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72126 41.27711 560.62 333.44
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72267 41.27201 554.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72272 41.27184 552.93 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72277 41.27170 552.67 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72323 41.27061 552.56 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72327 41.27051 550.92 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -7.72330 41.27043 550.75 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -7.71849 41.27588 550.58 72.75
+OBJECT_SHARED Models/lib/watertank3x1.ac -7.71890 41.27566 555.50 254.05
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -7.71853 41.27632 553.52 253.44
+OBJECT_SHARED Models/lib/fuel-truck.xml -7.71932 41.27537 553.39 162.52
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -7.71925 41.27536 553.66 341.99
+OBJECT_SHARED Models/lib/cars4.ac -7.72248 41.27584 553.62 206.38
+OBJECT_SHARED Models/lib/cars4.ac -7.72266 41.27577 559.53 206.38
+# END dsf2stg

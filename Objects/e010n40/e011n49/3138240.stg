@@ -1,8 +1,8 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office3x10.ac 11.14249 49.03236 543.83 279.1
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 11.14273 49.03236 543.85 8.01999
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.14268 49.03236 543.85 5.89002
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 11.14262 49.03235 543.84 0.220001
+OBJECT_SHARED Models/lib/office3x10.ac 11.14249 49.03236 0.00 279.1
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 11.14273 49.03236 548.10 8.01999
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 11.14268 49.03236 547.99 5.89002
+OBJECT_SHARED Models/Transport/van_silver.ac 11.14262 49.03235 547.99 0.220001
 # END dsf2stg

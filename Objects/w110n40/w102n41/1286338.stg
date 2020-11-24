@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36681 41.06309 0.00 228.99
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36670 41.06308 980.45 328.67
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36657 41.06308 980.45 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml -101.36693 41.06309 980.45 165.96
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36709 41.06253 980.45 235.3
+OBJECT_SHARED Models/Trees/billboard-tree.xml -101.36663 41.06257 980.41 102.63
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36690 41.06267 980.11 249.1
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.36706 41.06213 980.17 328.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -101.36681 41.06217 980.19 94.47
+OBJECT_SHARED Models/Trees/billboard-tree.xml -101.36666 41.06213 980.24 8.13
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.36621 41.06214 980.19 29.05
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.36646 41.06214 984.78 150.26
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36633 41.06215 984.78 36.03
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36622 41.06222 984.78 280.78
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36622 41.06230 984.77 177.61
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36623 41.06238 984.69 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36625 41.06247 984.61 198.43
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36625 41.06255 984.53 62.65
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36627 41.06264 984.53 241.39
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36626 41.06272 981.79 336.37
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -101.36653 41.06275 981.85 342.18
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.36641 41.06282 980.17 131.5
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -101.36661 41.06283 981.90 309.81
+OBJECT_SHARED Models/lib/lamp10m.xml -101.36805 41.06265 980.26 181.11
+OBJECT_SHARED Models/lib/propane-tank.ac -101.36626 41.06314 980.35 179.85
+OBJECT_SHARED Models/lib/propane-tank.ac -101.36741 41.06226 981.99 179.14
+OBJECT_SHARED Models/lib/watertank3x1.ac -101.36765 41.06285 980.30 266.02
+OBJECT_SHARED Models/lib/watertank3x1.ac -101.36766 41.06283 980.44 266.02
+OBJECT_SHARED Models/Transport/hatchback_red.ac -101.36719 41.06322 980.44 6.38
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.36751 41.06297 980.49 224.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.36745 41.06261 980.63 266.39
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.36792 41.06275 980.11 226.15
+OBJECT_SHARED Models/Transport/van_silver.ac -101.36794 41.06271 980.44 53.9
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -101.36795 41.06268 980.35 59.04
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.36796 41.06249 980.35 359.44
+OBJECT_SHARED Models/lib/farm19x12.ac -101.36650 41.06253 980.17 270
+OBJECT_SHARED Models/lib/industrial13x24.ac -101.36749 41.06258 984.53 268.82
+OBJECT_SHARED Models/lib/industrial13x24.ac -101.36737 41.06286 980.11 87.46
+OBJECT_SHARED Models/lib/office3x10.ac -101.36796 41.06258 980.33 179.75
+OBJECT_SHARED Models/lib/shed8x10.ac -101.36773 41.06251 980.26 268.58
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -101.36730 41.06332 980.17 271.52
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.36766 41.06295 980.53 123.69
+OBJECT_SHARED Models/Transport/Norberttruck.xml -101.36741 41.06311 980.54 358.59
+OBJECT_SHARED Models/lib/shed10x50.ac -101.37156 41.06311 980.45 270.27
+OBJECT_SHARED Models/lib/shed10x50.ac -101.37145 41.06311 986.10 270.27
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -101.37120 41.06339 889.75 78.48
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -101.37101 41.06335 890.02 67.11
+OBJECT_SHARED Models/lib/SmHangar.ac -101.36627 41.06331 985.02 270.16
+# END dsf2stg

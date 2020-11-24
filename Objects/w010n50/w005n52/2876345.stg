@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -4.57296 52.89653 0.00 271.15
+OBJECT_SHARED Models/Transport/hatchback_black.ac -4.57280 52.89665 79.11 120.01
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57278 52.89643 79.25 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57293 52.89640 80.10 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57303 52.89649 79.61 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57314 52.89656 78.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57316 52.89659 78.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57320 52.89661 78.06 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57323 52.89663 77.92 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57325 52.89666 77.83 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57328 52.89668 77.36 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57336 52.89686 77.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57334 52.89692 76.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57341 52.89694 76.28 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57332 52.89698 76.05 153.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57324 52.89695 75.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57327 52.89699 76.61 153.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml -4.57211 52.89607 76.12 180
+OBJECT_SHARED Models/lib/industrial13x24.ac -4.57284 52.89665 82.00 122.71
+OBJECT_SHARED Models/lib/office6x12.ac -4.57317 52.89698 79.12 210.07
+OBJECT_SHARED Models/lib/office3x10.ac -4.57312 52.89706 76.45 219.26
+OBJECT_SHARED Models/lib/dGreenhse.ac -4.57270 52.89645 76.22 212.76
+# END dsf2stg

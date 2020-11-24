@@ -1,18 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/transformer3x3.ac 7.87837 46.64812 687.01 186.34
-OBJECT_SHARED Models/lib/MedHangar.ac 7.87841 46.64788 686.79 33.83
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 7.87814 46.64804 686.66 151.46
-OBJECT_SHARED Models/Transport/hatchback_green.ac 7.87817 46.64802 686.68 147.64
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.87819 46.64799 686.70 149.56
-OBJECT_SHARED Models/Transport/hatchback_black.ac 7.87821 46.64797 686.72 150.33
-OBJECT_SHARED Models/Transport/hatchback_green.ac 7.87823 46.64794 686.59 147.62
-OBJECT_SHARED Models/Transport/hatchback_red.ac 7.87826 46.64792 686.61 151.86
-OBJECT_SHARED Models/lib/cars10.ac 7.87807 46.64836 687.05 303.94
-OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87804 46.64807 686.72 164.4
-OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87795 46.64794 686.47 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87793 46.64800 686.60 100.62
-OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87800 46.64801 686.61 310.82
-OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87795 46.64813 686.69 19.44
+OBJECT_SHARED Models/lib/lamp10m.xml 7.87829 46.64806 0.00 33.87
+OBJECT_SHARED Models/lib/lamp10m.xml 7.87861 46.64773 686.93 33.87
+OBJECT_SHARED Models/lib/transformer3x3.ac 7.87837 46.64812 686.76 186.34
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87787 46.64814 687.01 164.4
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87798 46.64819 686.64 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87790 46.64807 686.78 100.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87787 46.64825 686.68 310.82
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.87795 46.64813 685.62 19.44
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 7.87856 46.64810 686.69 36.94
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.87884 46.64782 687.23 95.49
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.87881 46.64783 687.03 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 7.87833 46.64801 686.99 0
+OBJECT_SHARED Models/lib/cars4.ac 7.87813 46.64830 686.83 304.53
+OBJECT_SHARED Models/lib/cars4.ac 7.87822 46.64821 686.92 304.49
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.87906 46.64786 686.95 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.87906 46.64777 698.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.87820 46.64836 693.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.87837 46.64835 690.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.87829 46.64824 692.85 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 7.87870 46.64775 688.71 331.858
 # END dsf2stg

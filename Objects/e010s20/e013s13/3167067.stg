@@ -1,20 +1,20 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 13.40281 -12.60557 31.20 318.52
-OBJECT_SHARED Models/lib/cars10.ac 13.40367 -12.60556 29.98 140.38
-OBJECT_SHARED Models/lib/cars10.ac 13.40343 -12.60538 30.03 320.13
-OBJECT_SHARED Models/lib/cars10.ac 13.40357 -12.60529 29.80 319.08
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 13.40455 -12.60596 31.58 140.51
-OBJECT_SHARED Models/lib/MedHangar.ac 13.40326 -12.60566 30.64 139.16
-OBJECT_SHARED Models/lib/SmHangar.ac 13.40344 -12.60673 31.96 231.6
-OBJECT_SHARED Models/lib/SmHangar.ac 13.40359 -12.60684 31.88 231.49
-OBJECT_SHARED Models/lib/cargo_pod_lot.ac 13.40202 -12.60578 31.40 36.63
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 13.40370 -12.60570 30.14 229
-OBJECT_SHARED Models/lib/loader.ac 13.40415 -12.60606 30.15 137.69
-OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 13.40413 -12.60605 30.28 175.24
-OBJECT_SHARED Models/lib/cargo-container1-HD.ac 13.40409 -12.60601 30.12 322.31
-OBJECT_SHARED Models/lib/container6-HD.ac 13.40403 -12.60598 30.25 231.81
-OBJECT_SHARED Models/lib/cargo-container1-HD.ac 13.40406 -12.60601 30.12 228.42
-OBJECT_SHARED Models/lib/belt_loader.ac 13.40392 -12.60589 30.21 142.65
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 13.40281 -12.60557 0.00 318.52
+OBJECT_SHARED Models/lib/cars10.ac 13.40367 -12.60556 31.20 140.38
+OBJECT_SHARED Models/lib/cars10.ac 13.40343 -12.60538 29.98 320.13
+OBJECT_SHARED Models/lib/cars10.ac 13.40357 -12.60529 30.03 319.08
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 13.40455 -12.60596 30.35 140.51
+OBJECT_SHARED Models/lib/MedHangar.ac 13.40326 -12.60566 32.09 139.16
+OBJECT_SHARED Models/lib/SmHangar.ac 13.40344 -12.60673 30.64 231.6
+OBJECT_SHARED Models/lib/SmHangar.ac 13.40359 -12.60684 31.96 231.49
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 13.40202 -12.60578 31.87 36.63
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 13.40370 -12.60570 31.40 229
+OBJECT_SHARED Models/lib/loader.ac 13.40415 -12.60606 30.14 137.69
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac 13.40413 -12.60605 30.15 175.24
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 13.40409 -12.60601 30.28 322.31
+OBJECT_SHARED Models/lib/container6-HD.ac 13.40403 -12.60598 30.12 231.81
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 13.40406 -12.60601 30.25 228.42
+OBJECT_SHARED Models/lib/belt_loader.ac 13.40392 -12.60589 30.12 142.65
 # END dsf2stg

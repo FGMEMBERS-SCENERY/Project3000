@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 90.34358 25.66253 0.00 16.24
+OBJECT_SHARED Models/lib/shed8x10.ac 90.34475 25.66220 533.92 278.56
+OBJECT_SHARED Models/lib/admin-with-cars.ac 90.34267 25.66204 534.92 199.06
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 90.34470 25.66229 534.07 231.19
+OBJECT_SHARED Models/Misc/picnic_table.ac 90.34468 25.66239 534.83 291.04
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 90.34470 25.66229 534.83 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 90.34471 25.66229 534.83 11.53
+OBJECT_SHARED Models/lib/SmHangar.ac 90.34482 25.66231 534.83 109.42
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 90.34387 25.66269 534.93 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 90.34375 25.66271 534.09 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 90.34423 25.66236 533.95 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 90.34404 25.66277 534.35 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 90.34395 25.66272 534.16 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 90.34352 25.66190 534.09 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 90.34378 25.66202 534.06 0
+# END dsf2stg

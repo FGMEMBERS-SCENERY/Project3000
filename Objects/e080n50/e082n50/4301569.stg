@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac 82.48611 50.04280 287.06 318.72
+OBJECT_SHARED Models/lib/shed8x10.ac 82.49762 50.03029 287.91 144.01
+OBJECT_SHARED Models/lib/transformer3x3.ac 82.49824 50.03676 284.90 225.23
+OBJECT_SHARED Models/lib/lamp10m.xml 82.49985 50.02985 287.45 0
+OBJECT_SHARED Models/lib/cube16x10.ac 82.49824 50.03011 288.11 50.33
+OBJECT_SHARED Models/lib/shed8x10.ac 82.48642 50.04278 287.02 47.46
+OBJECT_SHARED Models/lib/transformer3x3.ac 82.49886 50.03005 288.22 53.83
+# END dsf2stg

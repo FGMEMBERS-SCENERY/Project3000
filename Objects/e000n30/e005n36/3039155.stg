@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 5.87738 36.79376 0.00 7.17
+OBJECT_SHARED Models/lib/CargoPodPkng.ac 5.87751 36.79381 6.32 187.17
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 5.87751 36.79383 6.34 7.17
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 5.87729 36.79303 6.34 180
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 5.87724 36.79303 6.58 180
+OBJECT_SHARED Models/lib/loader.ac 5.87720 36.79307 6.58 180
+OBJECT_SHARED Models/lib/loader.ac 5.87718 36.79311 6.53 180
+OBJECT_SHARED Models/lib/belt_loader.ac 5.87720 36.79313 6.53 180
+OBJECT_SHARED Models/lib/belt_loader.ac 5.87720 36.79315 6.53 180
+OBJECT_SHARED Models/lib/4space_wStop.ac 5.87903 36.79276 6.53 185.69
+OBJECT_SHARED Models/lib/4space_wStop.ac 5.87904 36.79266 6.89 185.69
+OBJECT_SHARED Models/lib/4space_wStop.ac 5.87906 36.79256 6.92 185.69
+OBJECT_SHARED Models/lib/4space_wStop.ac 5.87907 36.79246 6.95 185.69
+OBJECT_SHARED Models/lib/4space_wStop.ac 5.87967 36.79250 6.98 5.29
+OBJECT_SHARED Models/lib/4space_wStop.ac 5.87965 36.79260 7.06 5.29
+OBJECT_SHARED Models/lib/4space_wStop.ac 5.87964 36.79271 7.03 5.29
+OBJECT_SHARED Models/lib/4space_wStop.ac 5.87963 36.79281 7.00 5.29
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 5.87926 36.79250 6.97 185.28
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 5.87923 36.79270 7.00 185.62
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 5.87946 36.79252 6.94 186.26
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 5.87943 36.79272 7.03 7.28999
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 5.87958 36.79309 6.97 186.88
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 5.87954 36.79330 6.88 6.95
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 5.87934 36.79327 6.81 187.61
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 5.87937 36.79308 6.79 187.12
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 5.87918 36.79306 6.85 188.13
+OBJECT_SHARED Models/lib/10_spaces_dual.ac 5.87914 36.79326 6.82 188.42
+OBJECT_SHARED Models/lib/cars4.ac 5.87895 36.79326 6.76 97.67
+OBJECT_SHARED Models/lib/cars10.ac 5.87900 36.79298 6.73 97.67
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 5.87642 36.79477 6.83 98.83
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 5.87652 36.79427 5.82 98.83
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 5.87664 36.79379 6.01 98.83
+OBJECT_SHARED Models/lib/RampParkingStripe.xml 5.87672 36.79325 6.21 98.83
+OBJECT_SHARED Models/lib/office32x25.ac 5.87806 36.79432 6.44 11.41
+# END dsf2stg

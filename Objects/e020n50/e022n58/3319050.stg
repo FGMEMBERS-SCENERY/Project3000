@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 22.50679 58.23137 0.00 119
+OBJECT_SHARED Models/lib/cars4.ac 22.50415 58.23222 4.35 121
+OBJECT_SHARED Models/lib/cars10.ac 22.50433 58.23246 4.23 301
+OBJECT_SHARED Models/lib/stack_of_cones.ac 22.50496 58.23277 4.23 81.25
+OBJECT_SHARED Models/lib/stack_of_cones.ac 22.50495 58.23278 4.25 281.31
+OBJECT_SHARED Models/lib/schranke.ac 22.50427 58.23257 4.24 88
+OBJECT_SHARED Models/lib/schranke.ac 22.50408 58.23257 4.23 268
+OBJECT_SHARED Models/lib/lamp10m.xml 22.50571 58.23364 4.23 90
+OBJECT_SHARED Models/lib/lamp10m.xml 22.50539 58.23122 4.21 120
+OBJECT_SHARED Models/lib/lamp10m.xml 22.50593 58.23139 4.31 120
+OBJECT_SHARED Models/lib/lamp10m.xml 22.50615 58.23171 4.32 210
+OBJECT_SHARED Models/lib/lamp10m.xml 22.50589 58.23198 4.33 210
+OBJECT_SHARED Models/lib/lamp10m.xml 22.50521 58.23266 4.30 210
+OBJECT_SHARED Models/lib/lamp10m.xml 22.50491 58.23302 4.26 210
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.50382 58.23244 4.24 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.50376 58.23251 4.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.50388 58.23258 4.22 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.50374 58.23259 4.23 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 22.50403 58.23271 4.22 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 22.50405 58.23330 4.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 22.50408 58.23323 4.23 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 22.50419 58.23313 4.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 22.50415 58.23294 4.23 0
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 22.50490 58.23307 4.23 118.38
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 22.50488 58.23306 4.24 28.3
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 22.50486 58.23308 4.24 28.3
+OBJECT_SHARED Models/lib/trailer-fedex.ac 22.50363 58.23352 4.24 297
+OBJECT_SHARED Models/lib/trailer-fedex.ac 22.50357 58.23351 4.25 297
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 22.50345 58.23347 4.25 119.41
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 22.50383 58.23271 4.25 210
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 22.50373 58.23274 4.22 120
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 22.50372 58.23275 4.22 120
+OBJECT_SHARED Models/lib/belt_loader.ac 22.50352 58.23339 4.23 119.41
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac 22.50400 58.23308 4.24 32.01
+OBJECT_SHARED Models/Airport/cargobox.xml 22.50406 58.23311 4.23 29.52
+OBJECT_SHARED Models/Airport/cargobox.xml 22.50404 58.23312 4.23 28.97
+OBJECT_SHARED Models/Misc/6barrels.ac 22.50387 58.23327 4.23 115.35
+OBJECT_SHARED Models/Misc/6barrels.ac 22.50389 58.23328 4.23 292.62
+OBJECT_SHARED Models/lib/coal_pile.ac 22.50392 58.23324 4.23 29.5
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 22.50497 58.23264 4.23 119
+OBJECT_SHARED Models/lib/LongRow.ac 22.50370 58.23284 4.25 119
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 22.50531 58.23371 4.23 90
+OBJECT_SHARED Models/lib/schranke.ac 22.50323 58.23458 4.21 210
+OBJECT_SHARED Models/lib/schranke.ac 22.50334 58.23450 4.33 30
+OBJECT_SHARED Models/lib/cars10.ac 22.50354 58.23465 4.32 27
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 22.50495 58.23455 4.80 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 22.50501 58.23449 4.69 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 22.50513 58.23452 4.69 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 22.50524 58.23456 4.68 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 22.50518 58.23462 4.68 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 22.50512 58.23468 4.68 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 22.50501 58.23464 4.68 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml 22.50489 58.23461 4.69 0
+# END dsf2stg

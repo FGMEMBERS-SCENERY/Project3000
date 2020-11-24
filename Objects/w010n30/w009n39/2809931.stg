@@ -1,5 +1,54 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/HorizTanks2.ac -8.05810 39.20485 113.51 335.39
+OBJECT_SHARED Models/lib/cars14.ac -8.04975 39.21871 0.00 335.71
+OBJECT_SHARED Models/lib/cars14.ac -8.05339 39.21237 115.43 335.71
+OBJECT_SHARED Models/lib/cars14.ac -8.05265 39.21365 113.88 335.71
+OBJECT_SHARED Models/lib/cars14.ac -8.05366 39.21190 114.04 335.71
+OBJECT_SHARED Models/lib/cars14.ac -8.05292 39.21318 113.83 335.71
+OBJECT_SHARED Models/lib/HorizTanks2.ac -8.05812 39.20483 113.97 336.2
+OBJECT_SHARED Models/lib/prop_a.ac -8.04942 39.21963 113.08 281.69
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.04978 39.21981 115.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.04987 39.21968 115.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.04994 39.21953 115.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05004 39.21937 115.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05023 39.21903 115.76 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05031 39.21888 115.71 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05040 39.21875 115.73 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.04933 39.21920 115.69 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.04909 39.21986 115.17 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.04902 39.21975 116.02 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.04992 39.21848 116.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05524 39.20935 115.37 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05533 39.20923 113.65 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05539 39.20910 113.61 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05547 39.20896 113.59 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05567 39.20862 113.59 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05574 39.20850 113.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05580 39.20838 113.51 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05586 39.20825 113.49 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05616 39.20705 113.43 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05616 39.20713 113.03 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05621 39.20721 113.08 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05630 39.20727 113.14 220.6
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05643 39.20733 113.23 233.13
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05651 39.20736 113.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05666 39.20740 113.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05677 39.20744 113.47 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05830 39.20487 113.53 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05767 39.20455 113.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05785 39.20457 112.80 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05813 39.20462 112.88 255.96
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05802 39.20433 113.03 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05813 39.20433 112.88 225
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05810 39.20441 112.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05776 39.20465 112.95 68.2
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05806 39.20468 112.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -8.05837 39.20468 113.02 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -8.05644 39.20778 18.19 0
+OBJECT_SHARED Models/lib/lamp10m.xml -8.05678 39.20610 113.56 -26.06
+OBJECT_SHARED Models/lib/lamp10m.xml -8.05697 39.20578 112.94 -26.06
+OBJECT_SHARED Models/lib/lamp10m.xml -8.05715 39.20547 112.91 -26.06
+OBJECT_SHARED Models/lib/lamp10m.xml -8.05733 39.20516 112.87 -26.06
+OBJECT_SHARED Models/lib/lamp10m.xml -8.05751 39.20485 112.85 -26.06
 # END dsf2stg

@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -157.99550 21.70403 0.00 49
+OBJECT_SHARED Models/lib/4container-office.ac -157.99546 21.70406 8.91 140.01
+OBJECT_SHARED Models/lib/2container-office.ac -157.99556 21.70382 11.22 140.01
+OBJECT_SHARED Models/lib/shed8x10.ac -157.99564 21.70391 9.02 140.01
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99554 21.70415 9.04 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99562 21.70406 8.12 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99569 21.70398 8.12 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99573 21.70394 8.91 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99571 21.70387 9.04 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99563 21.70381 9.04 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99541 21.70366 9.02 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99531 21.70367 10.21 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99523 21.70375 10.21 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99515 21.70383 10.28 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99510 21.70392 10.28 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99530 21.70407 10.04 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99539 21.70414 11.22 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -157.99548 21.70420 11.22 90
+OBJECT_SHARED Models/lib/lamp10m.xml -157.99538 21.70404 11.53 230
+OBJECT_SHARED Models/lib/lamp10m.xml -157.99543 21.70399 10.61 230
+OBJECT_SHARED Models/lib/lamp10m.xml -157.99558 21.70390 10.61 230
+# END dsf2stg

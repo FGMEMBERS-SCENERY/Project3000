@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -133.03406 69.43759 0.00 55.27
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -133.03790 69.43800 0.03 357.71
+OBJECT_SHARED Models/lib/lamp10m.xml -133.02341 69.43521 0.03 0
+OBJECT_SHARED Models/lib/lamp10m.xml -133.03482 69.43765 -0.05 270
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -133.03508 69.43729 0.03 326.05
+OBJECT_SHARED Models/lib/SmHangar.ac -133.02298 69.43515 0.03 53.95
+OBJECT_SHARED Models/lib/MedHangar.ac -133.02587 69.43647 -0.06 75.13
+# END dsf2stg

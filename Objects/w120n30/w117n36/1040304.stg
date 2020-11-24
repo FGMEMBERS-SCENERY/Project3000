@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -116.78477 36.86755 961.10 269.72
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -116.78501 36.86808 962.36 270
-OBJECT_SHARED Models/Transport/van_silver.ac -116.78501 36.86811 962.36 270
-OBJECT_SHARED Models/lib/office16x4n.ac -116.78390 36.86808 962.28 90
-OBJECT_SHARED Models/lib/SmHangar.ac -116.78391 36.86837 962.95 0.190002
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -116.78490 36.86820 962.58 0
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -116.78482 36.86771 961.52 89.79
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -116.78413 36.86834 962.73 89.35
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -116.78412 36.86847 963.17 270.61
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -116.78477 36.86755 0.00 269.72
+OBJECT_SHARED Models/Transport/hatchback_black.ac -116.78501 36.86808 961.10 270
+OBJECT_SHARED Models/Transport/hatchback_red.ac -116.78501 36.86811 962.36 270
+OBJECT_SHARED Models/lib/office16x4n.ac -116.78390 36.86808 962.36 90
+OBJECT_SHARED Models/lib/SmHangar.ac -116.78391 36.86837 962.28 0.190002
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -116.78490 36.86820 962.95 0
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -116.78482 36.86771 962.58 89.79
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -116.78413 36.86834 961.51 89.35
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -116.78412 36.86847 962.73 270.61
 # END dsf2stg

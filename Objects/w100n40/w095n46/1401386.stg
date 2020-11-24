@@ -1,9 +1,6 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/fboModern1.ac -94.38538 46.72797 394.51 193.58
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.38476 46.72829 394.81 11.31
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -94.38446 46.72742 394.29 16.5
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -94.38429 46.72786 394.60 196.26
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac -94.38480 46.72737 394.23 190.62
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.38502 46.72726 0.00 197.29
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -94.38503 46.72773 394.13 197.29
 # END dsf2stg

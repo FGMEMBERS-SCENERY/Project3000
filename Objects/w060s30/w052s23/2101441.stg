@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac -51.54721 -22.97990 0.00 108.43
+OBJECT_SHARED Models/Misc/6barrels.ac -51.54722 -22.97990 540.52 22.17
+OBJECT_SHARED Models/Misc/6barrels.ac -51.54722 -22.97991 540.52 0
+OBJECT_SHARED Models/Misc/6barrels.ac -51.54722 -22.97991 540.52 217.28
+OBJECT_SHARED Models/lib/prop_a.ac -51.54708 -22.97991 540.52 355.46
+OBJECT_SHARED Models/lib/large-hangar.ac -51.54747 -22.97961 540.65 359.3
+OBJECT_SHARED Models/Transport/hatchback_black.ac -51.54719 -22.97978 539.89 251.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac -51.54718 -22.97966 540.50 282.26
+OBJECT_SHARED Models/Transport/van_red.ac -51.54718 -22.97959 540.37 274.57
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -51.54719 -22.97962 540.23 273.27
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54439 -22.98225 540.23 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54167 -22.97828 533.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.53905 -22.97803 564.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.53912 -22.97916 560.73 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.53921 -22.97925 556.80 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.53925 -22.97933 556.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.53938 -22.97950 556.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.53944 -22.97956 556.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.53950 -22.97965 556.39 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.53953 -22.97977 556.36 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.53958 -22.97989 555.90 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.53966 -22.97998 555.34 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54078 -22.98140 554.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54126 -22.98099 554.77 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54123 -22.98089 548.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54550 -22.97972 547.34 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54561 -22.97879 543.80 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54760 -22.97949 539.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54659 -22.97885 538.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54709 -22.98080 538.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -51.54627 -22.98102 535.65 0
+# END dsf2stg

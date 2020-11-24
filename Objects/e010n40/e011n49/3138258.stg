@@ -1,15 +1,15 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 11.57104 49.26647 555.90 206.15
-OBJECT_SHARED Models/lib/SmHangar.ac 11.57097 49.26656 555.60 206.15
-OBJECT_SHARED Models/lib/SmHangar.ac 11.57091 49.26664 555.68 206.15
-OBJECT_SHARED Models/lib/SmHangar.ac 11.57077 49.26638 556.38 26.15
-OBJECT_SHARED Models/lib/SmHangar.ac 11.57070 49.26647 556.16 26.15
-OBJECT_SHARED Models/lib/SmHangar.ac 11.57064 49.26656 555.93 26.15
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 11.57035 49.26633 557.01 310.53
-OBJECT_SHARED Models/Transport/hatchback_black.ac 11.57022 49.26642 556.88 311.83
-OBJECT_SHARED Models/Transport/hatchback_green.ac 11.57032 49.26635 557.10 306.79
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 11.57030 49.26638 556.79 307.43
-OBJECT_SHARED Models/Transport/hatchback_red.ac 11.57026 49.26640 556.79 308.11
+OBJECT_SHARED Models/lib/SmHangar.ac 11.57104 49.26647 0.00 206.15
+OBJECT_SHARED Models/lib/SmHangar.ac 11.57097 49.26656 555.38 206.15
+OBJECT_SHARED Models/lib/SmHangar.ac 11.57091 49.26664 555.16 206.15
+OBJECT_SHARED Models/lib/SmHangar.ac 11.57077 49.26638 555.19 26.15
+OBJECT_SHARED Models/lib/SmHangar.ac 11.57070 49.26647 555.67 26.15
+OBJECT_SHARED Models/lib/SmHangar.ac 11.57064 49.26656 555.47 26.15
+OBJECT_SHARED Models/Transport/hatchback_black.ac 11.57035 49.26633 555.27 310.53
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 11.57022 49.26642 556.01 311.83
+OBJECT_SHARED Models/Transport/hatchback_green.ac 11.57032 49.26635 555.86 306.79
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.57030 49.26638 556.06 307.43
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.57026 49.26640 555.82 308.11
 # END dsf2stg

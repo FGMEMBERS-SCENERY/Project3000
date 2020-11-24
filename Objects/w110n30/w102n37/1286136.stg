@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -101.75129 37.99522 1006.08 180.498
+OBJECT_SHARED Models/lib/propane-tank.ac -101.75161 37.99579 1005.67 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.75146 37.99552 1006.51 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.75137 37.99552 1005.96 0
+# END dsf2stg

@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -96.22212 32.87006 0.00 42.27
+OBJECT_SHARED Models/Transport/hatchback_black.ac -96.22299 32.86664 161.12 226.08
+OBJECT_SHARED Models/lib/propane-tank.ac -96.22291 32.86651 166.52 313.53
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -96.22269 32.86672 166.33 242.11
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -96.22192 32.86638 166.18 320.91
+OBJECT_SHARED Models/lib/SmHangar.ac -96.22186 32.86633 164.95 227.58
+OBJECT_SHARED Models/lib/prop_a.ac -96.22221 32.87015 164.89 139.76
+OBJECT_SHARED Models/lib/prop_a.ac -96.22140 32.86634 160.75 133.363
+OBJECT_SHARED Models/lib/prop_a.ac -96.22152 32.86625 164.23 134.977
+OBJECT_SHARED Models/lib/cone.ac -96.22147 32.86612 164.30 0
+OBJECT_SHARED Models/lib/cone.ac -96.22142 32.86617 164.24 0
+OBJECT_SHARED Models/lib/cone.ac -96.22125 32.86630 164.17 0
+OBJECT_SHARED Models/lib/cone.ac -96.22138 32.86620 164.09 0
+OBJECT_SHARED Models/lib/cone.ac -96.22121 32.86634 164.17 0
+OBJECT_SHARED Models/lib/cone.ac -96.22134 32.86623 163.96 0
+OBJECT_SHARED Models/lib/cone.ac -96.22118 32.86636 164.03 0
+OBJECT_SHARED Models/lib/cone.ac -96.22131 32.86626 164.02 0
+OBJECT_SHARED Models/lib/cone.ac -96.22112 32.86641 164.09 0
+OBJECT_SHARED Models/lib/cone.ac -96.22178 32.86625 163.89 0
+OBJECT_SHARED Models/lib/cone.ac -96.22121 32.86648 164.75 315
+OBJECT_SHARED Models/lib/cone.ac -96.22134 32.86638 164.08 315
+OBJECT_SHARED Models/lib/cone.ac -96.22145 32.86628 164.15 315
+OBJECT_SHARED Models/lib/cone.ac -96.22156 32.86619 164.36 315
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.22191 32.86986 164.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -96.22290 32.86670 161.89 0
+# END dsf2stg

@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -95.64956 45.32645 0.00 90
+OBJECT_SHARED Models/lib/prop_a.ac -95.64958 45.32876 315.00 34.7708
+OBJECT_SHARED Models/lib/prop_a.ac -95.64968 45.32886 315.00 36.745
+OBJECT_SHARED Models/lib/prop_a.ac -95.64961 45.32912 315.00 216.518
+OBJECT_SHARED Models/lib/prop_a.ac -95.64972 45.32922 315.00 217.379
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -95.64998 45.32855 315.00 305.776
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.65003 45.32865 315.00 216.117
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.64858 45.32641 315.00 0.783279
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.65020 45.32693 315.00 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.64983 45.32693 315.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac -95.64913 45.32754 315.00 125.856
+OBJECT_SHARED Models/lib/SmHangar.ac -95.64911 45.32662 315.00 270.134
+OBJECT_SHARED Models/lib/lamp10m.xml -95.64968 45.32827 315.00 214.919
+OBJECT_SHARED Models/lib/lamp10m.xml -95.65036 45.32892 315.00 214.957
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.64985 45.32813 315.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.65000 45.32806 315.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.64979 45.32807 315.00 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -95.64963 45.32812 315.00 125.34
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.65011 45.32848 315.00 303.928
+OBJECT_SHARED Models/Transport/hatchback_green.ac -95.65013 45.32836 315.00 214.624
+OBJECT_SHARED Models/Transport/van_red.ac -95.65009 45.32837 315.00 214.624
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.64936 45.32626 315.00 89.7332
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.64937 45.32622 315.00 89.7332
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -95.64937 45.32620 315.00 89.7332
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.64937 45.32615 315.00 89.7332
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -95.64819 45.32643 315.00 290.458
+OBJECT_SHARED Models/Transport/hatchback_red.ac -95.64868 45.32633 315.00 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -95.64871 45.32633 315.00 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -95.64830 45.32589 315.00 269.762
+# END dsf2stg

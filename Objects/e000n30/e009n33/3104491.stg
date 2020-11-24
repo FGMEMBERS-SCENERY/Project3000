@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 9.92241 33.73869 0.00 120.96
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 9.92239 33.73871 123.42 119.2
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 9.92233 33.73869 123.45 120.07
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 9.91402 33.73783 123.53 0
+OBJECT_SHARED Models/lib/fboModern1.ac 9.91515 33.73652 123.82 117.09
+OBJECT_SHARED Models/lib/fboModern1.ac 9.91466 33.73631 124.48 117.09
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 9.92050 33.73978 124.53 -63.81
+OBJECT_SHARED Models/lib/cars2.ac 9.92061 33.74076 123.37 25.87
+OBJECT_SHARED Models/lib/cars2.ac 9.92048 33.74071 122.94 205.61
+OBJECT_SHARED Models/lib/cars2.ac 9.92051 33.74092 122.97 25.87
+OBJECT_SHARED Models/lib/cars6.ac 9.92074 33.74063 122.89 207.78
+OBJECT_SHARED Models/lib/cars6.ac 9.92041 33.74068 123.04 25.34
+OBJECT_SHARED Models/lib/cars6.ac 9.92067 33.74079 122.97 205.08
+OBJECT_SHARED Models/lib/cars6.ac 9.92031 33.74085 122.94 25.34
+OBJECT_SHARED Models/lib/schranke.ac 9.92233 33.74071 122.92 297.49
+OBJECT_SHARED Models/lib/schranke.ac 9.92230 33.74070 123.11 115.93
+OBJECT_SHARED Models/lib/garage-small-white.ac 9.92234 33.74067 123.11 206.86
+OBJECT_SHARED Models/lib/FireStationLg.ac 9.91829 33.73743 123.11 297.85
+# END dsf2stg

@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -166.07671 66.25386 0.00 205.26
+OBJECT_SHARED Models/lib/4container-office.ac -166.07690 66.25404 5.55 112.38
+OBJECT_SHARED Models/lib/office3x10.ac -166.08137 66.25278 5.61 206.56
+OBJECT_SHARED Models/lib/office3x10.ac -166.08142 66.25292 5.36 204.88
+OBJECT_SHARED Models/lib/shed8x10.ac -166.08064 66.25297 5.35 295.49
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -166.08119 66.25278 5.33 115.43
+OBJECT_SHARED Models/lib/stack_of_cones.ac -166.07975 66.25272 5.36 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -166.07995 66.25285 5.41 0
+# END dsf2stg

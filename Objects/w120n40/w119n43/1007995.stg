@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac -118.12995 43.95882 0.00 253.496
+OBJECT_SHARED Models/Transport/Norberttruck.xml -118.12888 43.95882 1052.80 270
+OBJECT_SHARED Models/lib/garage-small-white.ac -118.12922 43.95891 1051.85 356.906
+OBJECT_SHARED Models/lib/garage-small-white.ac -118.12898 43.95861 1052.09 358.781
+OBJECT_SHARED Models/lib/garage-small-white.ac -118.12917 43.95942 1051.39 90
+OBJECT_SHARED Models/lib/farm19x12.ac -118.12906 43.95870 1053.85 358.112
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -118.13046 43.95845 1051.62 52.1248
+OBJECT_SHARED Models/lib/SmHangar.ac -118.13041 43.95873 1052.08 339.567
+OBJECT_SHARED Models/lib/SmHangar.ac -118.13071 43.95840 1052.50 316.619
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.12950 43.95852 1053.73 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.12904 43.95902 1052.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.12898 43.95898 1052.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.12912 43.95890 1052.32 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.12905 43.95882 1052.09 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.12939 43.95866 1051.85 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -118.12940 43.95895 1051.62 0
+# END dsf2stg

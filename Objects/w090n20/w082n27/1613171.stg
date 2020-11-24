@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -81.20165 27.77324 0.00 117.633
+OBJECT_SHARED Models/lib/cars6.ac -81.20136 27.77256 15.70 226.88
+OBJECT_SHARED Models/lib/cars10.ac -81.20141 27.77210 15.85 140.52
+OBJECT_SHARED Models/lib/cars10.ac -81.20151 27.77239 16.02 322.32
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -81.20167 27.77350 15.92 269.51
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.20130 27.77206 15.65 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.20134 27.77212 16.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.20123 27.77216 16.02 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -81.20128 27.77266 15.99 318.637
+# END dsf2stg

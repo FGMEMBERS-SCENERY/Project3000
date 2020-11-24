@@ -1,28 +1,28 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/cone.ac -89.55044 44.42086 327.04 0
-OBJECT_SHARED Models/lib/cone.ac -89.55043 44.42087 327.04 0
-OBJECT_SHARED Models/lib/cone.ac -89.55044 44.42089 327.04 0
-OBJECT_SHARED Models/lib/cone.ac -89.55044 44.42091 327.04 0
-OBJECT_SHARED Models/lib/cone.ac -89.55043 44.42093 327.04 0
-OBJECT_SHARED Models/lib/lamp10m.xml -89.54964 44.42083 327.04 270
-OBJECT_SHARED Models/lib/lamp10m.xml -89.55029 44.42068 327.06 270
-OBJECT_SHARED Models/lib/lamp10m.xml -89.55011 44.42076 327.09 270
-OBJECT_SHARED Models/lib/lamp10m.xml -89.54988 44.42036 327.02 270
+OBJECT_SHARED Models/lib/cone.ac -89.55044 44.42086 0.00 0
+OBJECT_SHARED Models/lib/cone.ac -89.55043 44.42087 326.91 0
+OBJECT_SHARED Models/lib/cone.ac -89.55044 44.42089 326.91 0
+OBJECT_SHARED Models/lib/cone.ac -89.55044 44.42091 326.91 0
+OBJECT_SHARED Models/lib/cone.ac -89.55043 44.42093 326.91 0
+OBJECT_SHARED Models/lib/lamp10m.xml -89.54964 44.42083 326.91 270
+OBJECT_SHARED Models/lib/lamp10m.xml -89.55029 44.42068 327.08 270
+OBJECT_SHARED Models/lib/lamp10m.xml -89.55011 44.42076 326.92 270
+OBJECT_SHARED Models/lib/lamp10m.xml -89.54988 44.42036 326.97 270
 OBJECT_SHARED Models/lib/lamp10m.xml -89.54987 44.42021 327.00 270
-OBJECT_SHARED Models/Transport/hatchback_red.ac -89.54992 44.42010 327.00 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.54984 44.41976 327.00 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -89.54992 44.42010 326.99 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.54984 44.41976 326.99 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.54968 44.41995 327.00 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.54967 44.42033 327.00 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.54976 44.42037 327.01 0
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -89.54975 44.42081 327.06 0
-OBJECT_SHARED Models/lib/HorizTanks2.ac -89.55019 44.42062 327.09 90
-OBJECT_SHARED Models/lib/propane-tank.ac -89.54984 44.42019 327.00 180
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -89.54975 44.41995 327.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.54967 44.42033 327.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -89.54976 44.42037 327.04 0
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -89.54975 44.42081 327.02 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -89.55019 44.42062 327.04 90
+OBJECT_SHARED Models/lib/propane-tank.ac -89.54984 44.42019 326.92 180
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -89.54975 44.41995 327.01 0
 OBJECT_SHARED Models/lib/office16x4n.ac -89.54964 44.42009 327.00 0.144981
-OBJECT_SHARED Models/lib/office16x4n.ac -89.54981 44.42027 327.00 90
+OBJECT_SHARED Models/lib/office16x4n.ac -89.54981 44.42027 327.06 90
 OBJECT_SHARED Models/lib/SmHangar.ac -89.55029 44.42020 327.02 180.284
-OBJECT_SHARED Models/lib/SmHangar.ac -89.55022 44.41999 327.04 180
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -89.54995 44.42069 327.06 359.403
+OBJECT_SHARED Models/lib/SmHangar.ac -89.55022 44.41999 326.89 180
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -89.54995 44.42069 326.91 359.403
 # END dsf2stg

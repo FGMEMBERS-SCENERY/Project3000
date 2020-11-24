@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -96.34696 41.31393 0.00 327.72
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.34679 41.31409 347.00 139.4
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -96.34665 41.31422 347.00 350.27
+OBJECT_SHARED Models/Trees/billboard-tree.xml -96.34666 41.31413 347.00 322.04
+OBJECT_SHARED Models/Misc/picnic_table.ac -96.34653 41.31431 347.00 231.99
+OBJECT_SHARED Models/lib/cars6.ac -96.34727 41.31431 347.00 231.9
+OBJECT_SHARED Models/lib/cars10.ac -96.34660 41.31409 347.00 52.03
+OBJECT_SHARED Models/lib/cars10.ac -96.34683 41.31387 347.00 52.34
+OBJECT_SHARED Models/lib/deciduous-tree.xml -96.34648 41.31432 347.00 324.31
+OBJECT_SHARED Models/lib/cars6.ac -96.34708 41.31394 347.00 319.68
+# END dsf2stg

@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -105.30534 46.77815 0.00 180.365
+OBJECT_SHARED Models/lib/SmHangar.ac -105.30615 46.77847 690.36 130.695
+OBJECT_SHARED Models/lib/SmHangar.ac -105.30570 46.77852 690.08 90
+OBJECT_SHARED Models/lib/SmHangar.ac -105.30594 46.77857 690.08 88.6579
+OBJECT_SHARED Models/lib/lamp10m.xml -105.30605 46.77856 690.08 138.179
+OBJECT_SHARED Models/lib/lamp10m.xml -105.30555 46.77854 690.08 91.9749
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -105.30534 46.77806 690.08 88.9949
+OBJECT_SHARED Models/Transport/van_red.ac -105.30530 46.77856 690.36 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -105.30573 46.77873 690.38 181.736
+# END dsf2stg

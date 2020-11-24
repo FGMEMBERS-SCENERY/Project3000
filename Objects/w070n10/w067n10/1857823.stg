@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -66.09552 10.46373 0.00 109.95
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -66.09638 10.46394 3.87 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -66.09779 10.46301 3.95 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -66.09776 10.46310 4.06 206.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -66.09674 10.46386 4.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -66.09658 10.46370 3.98 0
+OBJECT_SHARED Models/lib/office32x25n.ac -66.09523 10.46419 3.99 289.16
+OBJECT_SHARED Models/lib/cube16x10.ac -66.09589 10.46363 3.81 289.22
+OBJECT_SHARED Models/lib/admin-with-cars.ac -66.09703 10.46373 3.93 109.83
+OBJECT_SHARED Models/lib/lamp10m.xml -66.09496 10.46393 4.02 107.82
+OBJECT_SHARED Models/lib/lamp10m.xml -66.09529 10.46382 3.78 111.29
+OBJECT_SHARED Models/lib/office16x4n.ac -66.09454 10.46441 3.83 19.08
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -66.09476 10.46425 3.74 -70.79
+# END dsf2stg

@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -111.26645 55.69675 0.00 165.5
+OBJECT_SHARED Models/lib/2container-office.ac -111.26542 55.69683 574.02 344.77
+OBJECT_SHARED Models/lib/2container-office.ac -111.26544 55.69680 574.00 344.77
+OBJECT_SHARED Models/lib/2container-office.ac -111.26545 55.69676 574.00 344.77
+OBJECT_SHARED Models/lib/2container-office.ac -111.26547 55.69673 574.00 344.77
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -111.26590 55.69662 574.12 210.36
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -111.26686 55.69678 574.15 210.36
+# END dsf2stg

@@ -1,13 +1,13 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 17.76466 63.04841 6.32 189.71
-OBJECT_SHARED Models/Aircraft/B1900_services.xml 17.76524 63.04845 6.14 279.29
-OBJECT_SHARED Models/lib/office32x25n.ac 17.76314 63.04779 6.46 7.07
-OBJECT_SHARED Models/lib/MedHangar.ac 17.76381 63.04881 6.98 96.88
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 17.76299 63.04803 6.64 7.85998
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 17.76479 63.04742 5.58 279.46
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac 17.76393 63.04812 6.45 41.19
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 17.76398 63.04789 6.27 7.76001
-OBJECT_SHARED Models/lib/HorizTanks2.ac 17.76504 63.04744 5.49 278.62
+OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 17.76466 63.04841 0.00 189.71
+OBJECT_SHARED Models/Aircraft/B1900_services.xml 17.76524 63.04845 6.32 279.29
+OBJECT_SHARED Models/lib/office32x25n.ac 17.76314 63.04779 6.14 7.07
+OBJECT_SHARED Models/lib/MedHangar.ac 17.76381 63.04881 6.44 96.88
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 17.76299 63.04803 6.98 7.85998
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 17.76479 63.04742 6.61 279.46
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 17.76393 63.04812 5.60 41.19
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 17.76398 63.04789 6.45 7.76001
+OBJECT_SHARED Models/lib/HorizTanks2.ac 17.76504 63.04744 6.27 278.62
 # END dsf2stg

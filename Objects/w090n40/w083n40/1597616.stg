@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -82.97018 40.78140 0.00 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -82.96991 40.78501 305.55 90.8303
+OBJECT_SHARED Models/lib/LongRow.ac -82.97005 40.78400 304.29 0.829147
+OBJECT_SHARED Models/lib/LongRow.ac -82.97004 40.78370 304.72 0.829147
+OBJECT_SHARED Models/lib/LongRow.ac -82.97003 40.78340 304.83 0.829147
+OBJECT_SHARED Models/lib/LongRow.ac -82.97002 40.78309 304.94 0.829147
+OBJECT_SHARED Models/lib/propane-tank.ac -82.96947 40.78254 305.05 90
+OBJECT_SHARED Models/lib/propane-tank.ac -82.96981 40.78518 305.33 90
+# END dsf2stg

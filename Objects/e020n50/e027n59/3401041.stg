@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 27.39727 59.32897 0.00 23.6295
+OBJECT_SHARED Models/Transport/van_red.ac 27.39705 59.32911 75.72 163.856
+OBJECT_SHARED Models/lib/prop_a.ac 27.39700 59.32888 75.78 113
+OBJECT_SHARED Models/lib/stack_of_cones.ac 27.39681 59.32892 75.72 21.8015
+OBJECT_SHARED Models/lib/container6-HD.ac 27.39693 59.32927 75.73 25.2013
+OBJECT_SHARED Models/Misc/6barrels.ac 27.39682 59.32923 75.86 294.444
+OBJECT_SHARED Models/Misc/6barrels.ac 27.39680 59.32926 75.83 294.444
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 27.39759 59.32953 75.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 27.39758 59.32943 76.07 135.001
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 27.39758 59.32935 76.27 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 27.39759 59.32926 76.27 135.001
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39667 59.32902 76.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39658 59.32901 75.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39652 59.32894 75.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39627 59.32939 75.76 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39638 59.32933 75.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39633 59.32929 75.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39640 59.32923 75.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39632 59.32912 75.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39631 59.32905 75.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39623 59.32919 75.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39615 59.32930 76.07 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39612 59.32939 76.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39633 59.32945 75.89 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39653 59.32939 75.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39662 59.32935 76.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 27.39658 59.32930 75.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 27.39760 59.32918 75.88 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 27.39675 59.32915 75.76 293
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 27.39705 59.32901 75.80 23
+# END dsf2stg

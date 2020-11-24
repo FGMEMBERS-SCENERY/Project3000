@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 14.57273 45.21838 0.00 124.12
+OBJECT_SHARED Models/lib/lamp10m.xml 14.57191 45.21914 88.01 123.69
+OBJECT_SHARED Models/lib/lamp10m.xml 14.57096 45.22005 88.38 126.92
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 14.57229 45.21683 88.58 273.2
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 14.57190 45.21684 87.42 267.8
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 14.56856 45.22039 87.59 165.71
+OBJECT_SHARED Models/lib/rw-guard-lights.ac 14.56847 45.22014 87.83 167.2
+OBJECT_SHARED Models/lib/cars7.ac 14.57312 45.21925 87.83 215.48
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 14.57224 45.21930 88.42 40.6
+OBJECT_SHARED Models/lib/cars14.ac 14.57329 45.21930 88.49 215.45
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 14.57279 45.21858 88.45 0.580002
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 14.57154 45.22085 88.11 124.09
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 14.57244 45.22004 89.03 213.29
+OBJECT_SHARED Models/Transport/van_red.ac 14.57232 45.22016 88.85 214.64
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 14.57205 45.22026 88.95 215.22
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 14.57193 45.22038 88.93 213.69
+OBJECT_SHARED Models/lib/lamp10m.xml 14.57278 45.21865 88.95 270
+OBJECT_SHARED Models/lib/lamp10m.xml 14.57239 45.21904 88.17 270
+OBJECT_SHARED Models/lib/lamp10m.xml 14.57243 45.21946 88.36 270
+OBJECT_SHARED Models/lib/lamp10m.xml 14.57222 45.21935 88.59 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 14.57262 45.21969 88.49 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.57138 45.21982 88.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.57141 45.21977 88.61 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.57134 45.21977 88.61 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 14.57523 45.21863 -6.41 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 14.57546 45.21874 -7.58 0
+# END dsf2stg

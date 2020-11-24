@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -2.25174 53.72255 0.00 166.29
+OBJECT_SHARED Models/lib/shed8x10.ac -2.25328 53.72336 274.77 64.29
+OBJECT_SHARED Models/lib/shed8x10.ac -2.25226 53.72262 285.11 68.46
+OBJECT_SHARED Models/lib/SmHangar.ac -2.25208 53.72264 277.76 248.57
+OBJECT_SHARED Models/lib/shed8x10.ac -2.25315 53.72332 276.73 243.95
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25157 53.72355 284.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25166 53.72361 276.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25178 53.72366 276.67 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25183 53.72371 277.59 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25637 53.72551 277.88 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25650 53.72545 298.05 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25661 53.72528 298.56 296.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25712 53.72447 299.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25719 53.72443 301.03 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25727 53.72441 301.30 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25459 53.72300 301.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25258 53.72241 290.13 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25178 53.72282 279.13 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25175 53.72285 275.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25171 53.72289 275.54 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25164 53.72272 275.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.25149 53.72276 274.44 0
+# END dsf2stg

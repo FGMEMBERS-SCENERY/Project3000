@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangar81x16.ac -78.96750 34.86609 0.00 257
+OBJECT_SHARED Models/lib/farm19x12.ac -78.96735 34.86644 49.94 65
+OBJECT_SHARED Models/lib/2container-office.ac -78.96819 34.86952 50.16 70
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.96725 34.86560 50.14 257
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.96720 34.86630 49.86 100
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.96714 34.86637 50.25 100
+OBJECT_SHARED Models/lib/garage-small-white.ac -78.96755 34.86642 50.37 65
+# END dsf2stg

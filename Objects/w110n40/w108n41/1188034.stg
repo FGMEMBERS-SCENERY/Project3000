@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -107.49381 41.03476 1970.62 18.0042
+OBJECT_SHARED Models/lib/propane-tank.ac -107.49382 41.03478 1979.42 17.5385
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -107.49300 41.03522 1971.80 18.95
+# END dsf2stg

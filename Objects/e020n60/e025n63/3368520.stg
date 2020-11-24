@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac 25.12202 63.12750 0.00 3.57632
+OBJECT_SHARED Models/lib/stack_of_cones.ac 25.12189 63.12735 151.34 54.4624
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 25.12161 63.12787 151.06 143.865
+OBJECT_SHARED Models/Transport/van_red.ac 25.12284 63.12757 152.16 55.7133
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 25.12210 63.12769 151.03 0
+OBJECT_SHARED Models/lib/garden-shed.ac 25.12210 63.12771 151.61 53.62
+# END dsf2stg

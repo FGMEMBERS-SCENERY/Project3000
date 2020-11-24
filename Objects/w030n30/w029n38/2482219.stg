@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac -28.16874 38.66491 0.00 324.846
+OBJECT_SHARED Models/lib/cars4.ac -28.16856 38.66480 100.95 324.846
+OBJECT_SHARED Models/lib/cube16x10.ac -28.17010 38.66449 100.65 323.629
+OBJECT_SHARED Models/lib/fuel-truck.xml -28.16991 38.66453 100.89 59.1841
+# END dsf2stg

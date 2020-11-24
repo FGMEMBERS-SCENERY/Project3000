@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -83.40878 34.83268 0.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac -83.41074 34.83263 480.79 90
+OBJECT_SHARED Models/lib/MedHangar.ac -83.41116 34.83263 481.42 89.3905
+OBJECT_SHARED Models/lib/SmHangar.ac -83.41016 34.83259 481.72 90
+OBJECT_SHARED Models/lib/SmHangar.ac -83.40972 34.83261 481.19 90
+OBJECT_SHARED Models/lib/prop_a.ac -83.40749 34.83256 480.75 270
+OBJECT_SHARED Models/lib/prop_a.ac -83.40769 34.83256 477.76 269.433
+OBJECT_SHARED Models/lib/prop_a.ac -83.40788 34.83256 478.04 269.438
+OBJECT_SHARED Models/lib/prop_a.ac -83.40805 34.83256 478.32 269.594
+# END dsf2stg

@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -85.58292 30.06731 0.00 43.78
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -85.58403 30.06838 5.26 0
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58835 30.07452 5.27 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58773 30.07405 4.92 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58730 30.07364 4.88 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58674 30.07314 4.88 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58617 30.07267 4.86 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58551 30.07213 4.85 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58483 30.07156 4.84 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58413 30.07095 4.82 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58423 30.07144 4.83 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58496 30.07206 4.75 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58567 30.07261 4.75 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58630 30.07315 4.77 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58684 30.07364 4.78 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58728 30.07404 4.77 290
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -85.58780 30.07443 4.79 290
+OBJECT_SHARED Models/lib/LgMaint.ac -85.57152 30.05757 4.81 225.38
+OBJECT_SHARED Models/lib/SmHangar.ac -85.57598 30.06225 4.34 315.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.57638 30.06204 4.69 315.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.58048 30.06545 4.76 225.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.58019 30.06520 5.11 225.38
+OBJECT_SHARED Models/Airport/egkk_oil.xml -85.57718 30.06122 5.09 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -85.57689 30.06152 4.89 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -85.58376 30.06700 4.85 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -85.58340 30.06673 5.41 0
+OBJECT_SHARED Models/lib/MedHangar.ac -85.58298 30.06759 5.39 135.38
+OBJECT_SHARED Models/lib/LgMaint.ac -85.58401 30.06936 5.24 225.38
+OBJECT_SHARED Models/lib/office40x25.ac -85.58706 30.07114 5.11 135.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.58754 30.07156 5.33 315.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.58806 30.07177 5.31 135.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.58725 30.07182 5.38 315.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.58776 30.07203 5.23 135.38
+OBJECT_SHARED Models/lib/LgMaint.ac -85.58891 30.07286 5.29 315.38
+OBJECT_SHARED Models/lib/LongRow.ac -85.59042 30.07422 5.34 0.68
+OBJECT_SHARED Models/lib/MedHangar.ac -85.59078 30.07469 5.44 225.38
+OBJECT_SHARED Models/lib/LongRow.ac -85.59058 30.07503 5.44 320.62
+OBJECT_SHARED Models/lib/office65x50.ac -85.58176 30.06693 5.34 135.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.57481 30.06089 5.14 225.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.57540 30.06140 4.58 225.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.57335 30.05930 4.64 225.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.57368 30.05958 4.46 225.38
+OBJECT_SHARED Models/lib/MedHangar.ac -85.57397 30.05983 4.48 225.38
+OBJECT_SHARED Models/lib/large-hangar.ac -85.57815 30.06252 4.52 45.38
+OBJECT_SHARED Models/lib/large-hangar.ac -85.57783 30.06279 4.98 45.38
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -85.58191 30.06653 4.93 45.38
+# END dsf2stg

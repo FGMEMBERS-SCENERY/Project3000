@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.33233 40.24487 0.00 347.91
+OBJECT_SHARED Models/Transport/van_red.ac -100.32789 40.24553 710.49 97.5
+OBJECT_SHARED Models/Transport/hatchback_green.ac -100.33227 40.24484 709.98 180
+OBJECT_SHARED Models/lib/shed8x10.ac -100.33218 40.24487 710.45 5.76
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.32933 40.24572 710.49 341.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.32764 40.24582 710.30 141.34
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.32759 40.24555 710.04 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.32712 40.24508 710.00 45
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.32765 40.24501 709.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.32695 40.24561 710.00 302.73
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.32832 40.24502 710.00 0
+OBJECT_SHARED Models/lib/shed8x10.ac -100.32744 40.24581 710.00 184.64
+OBJECT_SHARED Models/lib/shed8x10.ac -100.32810 40.24518 710.00 276.33
+OBJECT_SHARED Models/lib/shed8x10.ac -100.32813 40.24528 709.94 4.8
+OBJECT_SHARED Models/lib/shed8x10.ac -100.32900 40.24516 709.95 171.71
+OBJECT_SHARED Models/lib/propane-tank.ac -100.32795 40.24535 710.02 91.07
+OBJECT_SHARED Models/lib/propane-tank.ac -100.32795 40.24546 709.95 270.47
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -100.32845 40.24523 709.98 20.37
+OBJECT_SHARED Models/Airport/cargobox.xml -100.32880 40.24564 709.94 180
+OBJECT_SHARED Models/Airport/cargobox.xml -100.32869 40.24546 710.23 196.43
+OBJECT_SHARED Models/Airport/cargobox.xml -100.32872 40.24545 710.18 94.97
+OBJECT_SHARED Models/Airport/cargobox.xml -100.32880 40.24566 710.18 102.09
+OBJECT_SHARED Models/Airport/cargobox.xml -100.32824 40.24529 710.30 180
+OBJECT_SHARED Models/Transport/Norberttruck.xml -100.32840 40.24527 709.95 200.34
+OBJECT_SHARED Models/Transport/Norberttruck.xml -100.32813 40.24565 709.95 4.89999
+OBJECT_SHARED Models/lib/SmHangar.ac -100.32855 40.24541 710.00 187.44
+OBJECT_SHARED Models/lib/SmHangar.ac -100.32885 40.24538 710.12 7.44
+OBJECT_SHARED Models/lib/SmHangar.ac -100.32821 40.24539 710.12 7.19
+OBJECT_SHARED Models/lib/SmHangar.ac -100.32870 40.24562 709.96 96.56
+OBJECT_SHARED Models/lib/SmHangar.ac -100.32853 40.24563 710.23 97.06
+# END dsf2stg

@@ -1,0 +1,33 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -83.34933 64.18773 0.00 297.204
+OBJECT_SHARED Models/lib/cars7.ac -83.34962 64.18800 57.90 122.057
+OBJECT_SHARED Models/lib/shed8x10.ac -83.34382 64.18937 58.38 38.8295
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -83.34284 64.18962 -37.25 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -83.34303 64.18955 -37.99 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -83.34322 64.18949 -37.86 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -83.34340 64.18942 -37.76 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -83.34320 64.18965 -37.66 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -83.34337 64.18958 -37.66 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -83.34356 64.18951 -37.45 0
+OBJECT_SHARED Models/lib/lamp10m.xml -83.34723 64.19004 57.65 124.561
+OBJECT_SHARED Models/lib/lamp10m.xml -83.34589 64.18930 60.66 33.4866
+OBJECT_SHARED Models/lib/lamp10m.xml -83.34624 64.18950 58.76 30.0691
+OBJECT_SHARED Models/lib/lamp10m.xml -83.34755 64.18896 59.30 29.0553
+OBJECT_SHARED Models/lib/lamp10m.xml -83.34807 64.18879 59.11 -57.5294
+OBJECT_SHARED Models/lib/lamp10m.xml -83.34990 64.18841 59.06 255.069
+OBJECT_SHARED Models/lib/lamp10m.xml -83.35037 64.18830 58.98 -71.5655
+OBJECT_SHARED Models/lib/lamp10m.xml -83.34881 64.18863 58.95 -64.4406
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -83.34896 64.18863 58.98 208.673
+OBJECT_SHARED Models/Transport/hatchback_red.ac -83.34961 64.18834 59.05 33.3661
+OBJECT_SHARED Models/Transport/hatchback_green.ac -83.34967 64.18833 58.77 33.2833
+OBJECT_SHARED Models/lib/watertank3x1.ac -83.34987 64.18838 58.79 30.0439
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -83.34866 64.18864 58.98 20.9247
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -83.34859 64.18865 58.95 299.358
+OBJECT_SHARED Models/lib/belt_loader.ac -83.34763 64.18891 59.07 -60.8329
+OBJECT_SHARED Models/lib/shed8x10.ac -83.34790 64.18880 59.00 29.4082
+OBJECT_SHARED Models/lib/industrial13x24.ac -83.34746 64.18892 58.98 29.0538
+OBJECT_SHARED Models/lib/shed8x10.ac -83.34570 64.18925 58.95 38.6043
+OBJECT_SHARED Models/lib/MedHangar.ac -83.34687 64.18989 58.62 33.849
+# END dsf2stg

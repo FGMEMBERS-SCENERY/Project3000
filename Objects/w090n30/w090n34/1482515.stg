@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03347 34.27265 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03343 34.27256 132.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03329 34.27258 132.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03313 34.27261 132.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03296 34.27257 133.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03277 34.27256 133.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03280 34.27245 133.35 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03281 34.27233 133.40 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03280 34.27220 133.43 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03267 34.27209 133.46 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03277 34.27208 133.59 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -89.03297 34.27209 133.48 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -89.03239 34.27218 133.20 91.7527
+OBJECT_SHARED Models/lib/shed8x10.ac -89.03322 34.27223 133.87 180
+OBJECT_SHARED Models/lib/SmHangar.ac -89.03283 34.27272 132.92 255.22
+OBJECT_SHARED Models/lib/SmHangar.ac -89.03331 34.27284 133.32 253.496
+OBJECT_SHARED Models/lib/SmHangar.ac -89.03295 34.27303 132.78 64.9601
+OBJECT_SHARED Models/lib/SmHangar.ac -89.03521 34.27306 133.14 152.347
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -89.03456 34.27293 129.69 246.075
+OBJECT_SHARED Models/lib/LongRow.ac -89.03495 34.27301 130.84 246.757
+# END dsf2stg

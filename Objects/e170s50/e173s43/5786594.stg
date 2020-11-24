@@ -1,12 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 173.60097 -42.42549 8.78 294.996
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 173.59900 -42.42613 8.54 358.581
-OBJECT_SHARED Models/lib/transformer3x3.ac 173.59966 -42.42683 7.73 38.5508
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 173.60372 -42.42176 12.38 25.5338
-OBJECT_SHARED Models/lib/SmHangar.ac 173.59878 -42.42613 8.54 204.822
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 173.60007 -42.42562 8.81 172.235
-OBJECT_SHARED Models/Misc/picnic_table.ac 173.60038 -42.42556 8.81 226.236
-OBJECT_SHARED Models/lib/vending-machine.ac 173.60029 -42.42572 8.81 294.184
+OBJECT_SHARED Models/lib/prop_a.ac 173.59937 -42.42605 0.00 240.95
+OBJECT_SHARED Models/lib/prop_a.ac 173.59926 -42.42616 8.35 340
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.60004 -42.42586 8.31 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.60010 -42.42585 8.73 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 173.60013 -42.42582 8.73 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 173.59985 -42.42684 8.73 38.55
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 173.60390 -42.42176 9.19 25.53
+OBJECT_SHARED Models/lib/SmHangar.ac 173.59896 -42.42613 10.73 204.82
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 173.60029 -42.42559 8.32 172.23
+OBJECT_SHARED Models/Misc/picnic_table.ac 173.60057 -42.42557 8.74 226.24
 # END dsf2stg

@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -104.74987 39.71009 1701.43 94.09
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -104.74980 39.71018 1702.90 196.16
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -104.74980 39.71007 1702.90 357.4
+# END dsf2stg

@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -9.57197 53.09419 0.00 133.265
+OBJECT_SHARED Models/Misc/6barrels.ac -9.57229 53.09460 4.15 216.87
+OBJECT_SHARED Models/lib/stack_of_cones.ac -9.57223 53.09460 3.95 85.0303
+OBJECT_SHARED Models/Transport/hatchback_red.ac -9.57180 53.09481 3.93 311.42
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -9.57184 53.09483 3.80 311.42
+OBJECT_SHARED Models/lib/transformer3x3.ac -9.57226 53.09435 3.96 127.2
+OBJECT_SHARED Models/lib/garage-small-white.ac -9.57232 53.09441 4.11 37.2
+# END dsf2stg

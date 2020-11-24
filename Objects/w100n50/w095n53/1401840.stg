@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -94.85152 53.84457 0.00 227.84
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.85186 53.84419 233.91 319.24
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.85191 53.84416 233.73 319.24
+OBJECT_SHARED Models/lib/trailer-fedex.ac -94.85196 53.84413 233.73 319.24
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.85173 53.84431 233.65 47.82
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -94.85263 53.84423 233.85 227.58
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.85131 53.84476 233.34 47.13
+OBJECT_SHARED Models/lib/SmHangar.ac -94.85156 53.84491 234.02 47.07
+OBJECT_SHARED Models/lib/farm19x12.ac -94.85212 53.84415 233.81 47.76
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.85255 53.84404 233.59 317.92
+# END dsf2stg

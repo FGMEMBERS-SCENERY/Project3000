@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -98.43708 32.17452 0.00 217.96
+OBJECT_SHARED Models/lib/stack_of_cones.ac -98.43727 32.17487 405.33 217.96
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -98.43698 32.17480 406.80 217.96
+OBJECT_SHARED Models/Misc/6barrels.ac -98.43749 32.17467 405.95 217.96
+OBJECT_SHARED Models/Misc/6barrels.ac -98.43754 32.17468 406.58 217.96
+OBJECT_SHARED Models/lib/2vending-machines.ac -98.43712 32.17452 406.58 70.16
+OBJECT_SHARED Models/lib/cone.ac -98.43707 32.17489 405.33 217.72
+OBJECT_SHARED Models/lib/stack_of_cones.ac -98.43720 32.17517 406.75 217.72
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -98.43698 32.17511 407.16 217.72
+OBJECT_SHARED Models/Misc/6barrels.ac -98.43737 32.17500 406.98 217.72
+OBJECT_SHARED Models/Misc/6barrels.ac -98.43741 32.17501 406.95 217.72
+OBJECT_SHARED Models/lib/2vending-machines.ac -98.43710 32.17489 406.95 69.92
+OBJECT_SHARED Models/lib/lamp10m.xml -98.43698 32.17554 406.75 248.5
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.43681 32.17548 407.50 158.39
+OBJECT_SHARED Models/Transport/van_red.ac -98.43750 32.17450 407.45 257.74
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.43709 32.17527 406.33 162.66
+OBJECT_SHARED Models/Transport/van_red.ac -98.43712 32.17527 407.25 181.74
+OBJECT_SHARED Models/Airport/cargobox.xml -98.43703 32.17442 407.25 323.7
+OBJECT_SHARED Models/Airport/cargobox.xml -98.43702 32.17445 404.39 204.78
+OBJECT_SHARED Models/Airport/cargobox.xml -98.43705 32.17445 404.72 0
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -98.43701 32.17451 404.39 242.42
+OBJECT_SHARED Models/lib/coal_pile.ac -98.43677 32.17566 404.72 90
+# END dsf2stg

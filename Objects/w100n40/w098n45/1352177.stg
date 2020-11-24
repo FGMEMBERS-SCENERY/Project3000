@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -97.74747 45.81653 0.00 40.31
+OBJECT_SHARED Models/lib/prop_a.ac -97.74670 45.81655 399.14 225
+OBJECT_SHARED Models/lib/prop_a.ac -97.74683 45.81664 399.14 224.86
+OBJECT_SHARED Models/lib/SmHangar.ac -97.74795 45.81676 399.14 225.29
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.74709 45.81568 399.18 237.91
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.74704 45.81578 399.03 315.32
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.74707 45.81580 399.04 309.37
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -97.74705 45.81613 399.05 45.14
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74283 45.81905 399.09 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74287 45.81907 399.18 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74278 45.81904 399.19 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74318 45.81916 399.20 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74314 45.81915 399.16 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74322 45.81917 399.18 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74599 45.81393 399.16 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74603 45.81395 398.64 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74595 45.81392 398.64 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74634 45.81404 398.63 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74630 45.81403 398.67 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -97.74638 45.81405 398.67 90
+OBJECT_SHARED Models/lib/lamp10m.xml -97.74645 45.81650 398.67 46.07
+OBJECT_SHARED Models/lib/lamp10m.xml -97.74689 45.81680 399.13 46.51
+OBJECT_SHARED Models/lib/lamp10m.xml -97.74666 45.81583 399.16 270
+OBJECT_SHARED Models/lib/lamp10m.xml -97.74755 45.81611 399.04 223.88
+OBJECT_SHARED Models/lib/lamp10m.xml -97.74759 45.81648 399.10 223.78
+# END dsf2stg

@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 14.82455 46.81991 0.00 155
+OBJECT_SHARED Models/lib/prop_a.ac 14.82460 46.81878 450.26 90
+OBJECT_SHARED Models/lib/prop_a.ac 14.82438 46.81881 448.56 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 14.82340 46.81919 448.76 239.5
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 14.82336 46.81909 450.52 239.5
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82413 46.82007 450.34 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82407 46.81998 451.18 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82402 46.81988 451.02 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82396 46.81981 450.97 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82391 46.81972 450.80 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82385 46.81965 450.75 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82379 46.81958 450.86 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82373 46.81951 450.70 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82366 46.81942 450.65 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82360 46.81932 450.49 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82354 46.81924 450.44 77.0053
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 14.82349 46.81917 450.40 0
+OBJECT_SHARED Models/Transport/van_red.ac 14.82334 46.81905 450.40 239.5
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.82385 46.81901 450.48 329
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.82387 46.81904 449.61 329
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.82390 46.81906 449.61 329
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.82412 46.81896 449.77 329
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.82412 46.81893 449.39 329
+OBJECT_SHARED Models/Misc/picnic_table.ac 14.82408 46.81892 449.23 329
+OBJECT_SHARED Models/lib/schranke.ac 14.82406 46.81909 449.23 239
+# END dsf2stg

@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.64390 5.69053 0.00 349.46
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.64390 5.69058 52.11 345.7
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.64389 5.69063 52.15 345.7
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.64389 5.69049 52.18 348.46
+OBJECT_SHARED Models/Transport/van_red.ac -76.64388 5.69053 52.08 345.48
+OBJECT_SHARED Models/Transport/hatchback_black.ac -76.64387 5.69058 52.11 347.26
+OBJECT_SHARED Models/Transport/hatchback_black.ac -76.64386 5.69063 52.15 344.73
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.64387 5.69068 52.18 25.61
+OBJECT_SHARED Models/Transport/hatchback_red.ac -76.64392 5.69072 52.22 57.71
+OBJECT_SHARED Models/Transport/hatchback_green.ac -76.64396 5.69075 52.25 56.01
+OBJECT_SHARED Models/Transport/hatchback_black.ac -76.64400 5.69078 52.13 60.21
+OBJECT_SHARED Models/Transport/hatchback_black.ac -76.64404 5.69081 52.15 57.35
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.64409 5.69083 52.17 60.57
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64458 5.69094 52.04 -32.3
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64458 5.69094 52.04 147.7
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64448 5.69088 51.45 -32.3
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64448 5.69088 51.45 147.7
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64439 5.69082 51.54 -32.3
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64439 5.69082 51.54 147.7
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64421 5.69070 51.63 57.7
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64421 5.69070 51.63 237.7
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64408 5.69062 51.81 57.7
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64408 5.69062 51.81 237.7
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64411 5.69047 51.90 136.5
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64411 5.69047 51.90 -43.5
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64386 5.69048 51.78 175.05
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64386 5.69048 51.78 -4.95001
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.64455 5.69141 52.07 147.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.64455 5.69168 51.91 327.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.64431 5.69153 52.09 327.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.64408 5.69138 52.27 327.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.64384 5.69123 52.45 327.5
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.64358 5.69107 52.75 327.5
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64369 5.69086 52.92 237.5
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64397 5.69103 52.63 237.5
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64429 5.69123 52.33 237.5
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64465 5.69143 52.07 237.5
+OBJECT_SHARED Models/lib/lamp10m.xml -76.64489 5.69171 51.79 237.63
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.64525 5.69229 51.59 212.78
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.64521 5.69222 51.35 212.78
+OBJECT_SHARED Models/lib/deciduous-tree.xml -76.64513 5.69202 51.46 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -76.64513 5.69209 51.50 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -76.64518 5.69201 51.54 0
+OBJECT_SHARED Models/lib/garages22x9.ac -76.64517 5.69240 51.37 31.5
+# END dsf2stg

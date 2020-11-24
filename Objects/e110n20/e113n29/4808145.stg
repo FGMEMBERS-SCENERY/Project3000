@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 113.27741 29.31527 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 113.27741 29.31484 70.03 0
+OBJECT_SHARED Models/lib/jetway_e16m.ac 113.27724 29.31396 69.95 90
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 113.27682 29.31496 69.76 270
+OBJECT_SHARED Models/lib/office65x50.ac 113.27674 29.31630 69.98 90
+OBJECT_SHARED Models/lib/office40x25.ac 113.27494 29.31449 70.18 90
+OBJECT_SHARED Models/lib/office32x25.ac 113.27590 29.31462 67.79 90
+OBJECT_SHARED Models/lib/office32x25.ac 113.27661 29.31444 68.87 179.45
+OBJECT_SHARED Models/lib/FireStationLg.ac 113.27708 29.31573 69.87 0
+OBJECT_SHARED Models/lib/jetway_e16m.ac 113.27723 29.31367 69.70 0
+OBJECT_SHARED Models/lib/RampGroup.xml 113.27741 29.31496 69.70 270.42
+OBJECT_SHARED Models/lib/RampGroup.xml 113.27741 29.31454 69.98 270.99
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 113.27501 29.31650 -22.10 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac 113.27501 29.31674 -23.80 0
+OBJECT_SHARED Models/lib/jetway_e16m.ac 113.27724 29.31320 69.78 1.49
+OBJECT_SHARED Models/lib/jetway_e16m.ac 113.27724 29.31411 69.60 1.04
+OBJECT_SHARED Models/lib/RampParking.xml 113.27754 29.31549 69.60 270.31
+# END dsf2stg

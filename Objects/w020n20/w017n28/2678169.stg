@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/6barrels.ac -16.64997 28.37731 0.00 160.43
+OBJECT_SHARED Models/lib/coal_pile.ac -16.64990 28.37734 433.01 215.52
+OBJECT_SHARED Models/lib/coal_pile.ac -16.64986 28.37737 433.11 252.41
+OBJECT_SHARED Models/lib/canopy18x8.ac -16.64948 28.37696 432.94 206.93
+OBJECT_SHARED Models/Transport/van_red.ac -16.64971 28.37720 434.15 113.96
+OBJECT_SHARED Models/Transport/van_red.ac -16.64960 28.37715 433.52 29.74
+OBJECT_SHARED Models/Transport/van_red.ac -16.64979 28.37736 433.62 22.52
+OBJECT_SHARED Models/Transport/van_silver.ac -16.64973 28.37709 433.04 37.75
+OBJECT_SHARED Models/lib/schranke.ac -16.64941 28.37690 433.73 288.54
+OBJECT_SHARED Models/lib/industrial13x24.ac -16.64903 28.37726 434.45 290.42
+OBJECT_SHARED Models/lib/shed10x50.ac -16.64990 28.37719 433.82 206
+# END dsf2stg

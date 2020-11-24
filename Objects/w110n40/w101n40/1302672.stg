@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.80558 40.31500 0.00 315
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.80483 40.31529 830.61 130.1
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.80477 40.31542 833.38 322.13
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.81096 40.31472 833.37 260.54
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.81074 40.31471 833.08 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.80368 40.31244 833.08 236.31
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.80345 40.31216 834.98 303.69
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.80419 40.31261 834.14 232.12
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.80387 40.31250 834.62 324.46
+OBJECT_SHARED Models/lib/watertank3x1.ac -100.80517 40.32158 834.80 90.22
+OBJECT_SHARED Models/lib/shed8x10.ac -100.80479 40.32114 844.87 269.91
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -100.80500 40.32060 843.37 288.08
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.80558 40.32091 841.86 32.6
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.80510 40.32162 841.43 58.99
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.80467 40.32109 844.87 333.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.81133 40.32089 843.37 36.87
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.81139 40.32101 842.35 285.52
+OBJECT_SHARED Models/lib/shed8x10.ac -100.80533 40.32084 842.27 0.309998
+OBJECT_SHARED Models/lib/shed8x10.ac -100.80572 40.32088 842.47 180.75
+OBJECT_SHARED Models/lib/shed8x10.ac -100.80560 40.32161 841.43 270
+OBJECT_SHARED Models/lib/garden-shed.ac -100.81278 40.32174 843.53 358.38
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.81227 40.32130 849.53 280.44
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.81207 40.32154 846.56 331.93
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.81212 40.32155 846.00 0
+OBJECT_SHARED Models/lib/4container-office.ac -100.81265 40.32150 846.00 268.77
+OBJECT_SHARED Models/lib/shed8x10.ac -100.81265 40.32118 849.38 357.88
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -100.81216 40.32115 848.82 357.95
+OBJECT_SHARED Models/lib/trailer-fedex.ac -100.81238 40.32120 846.00 265.66
+OBJECT_SHARED Models/lib/garage-small-white.ac -100.81211 40.32161 846.13 268.38
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.80910 40.32170 845.60 108.44
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -100.81001 40.32161 842.67 211.33
+OBJECT_SHARED Models/lib/industrial13x24.ac -100.80916 40.32174 843.49 179.9
+OBJECT_SHARED Models/lib/SmHangar.ac -100.81037 40.32156 842.67 91.44
+OBJECT_SHARED Models/lib/SmHangar.ac -100.80847 40.32160 843.49 91.44
+# END dsf2stg

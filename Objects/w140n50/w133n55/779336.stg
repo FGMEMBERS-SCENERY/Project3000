@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -132.81319 55.20087 0.00 10.33
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -132.81325 55.20095 2.89 92.3216
+OBJECT_SHARED Models/Transport/hatchback_black.ac -132.81314 55.20091 4.03 100.528
+OBJECT_SHARED Models/lib/shed10x50.ac -132.82373 55.20274 2.89 52.71
+# END dsf2stg

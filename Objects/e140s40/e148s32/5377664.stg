@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars2.ac 148.00248 -31.98014 0.00 260.25
+OBJECT_SHARED Models/lib/coal_pile.ac 148.00204 -31.98066 213.48 90
+OBJECT_SHARED Models/lib/coal_pile.ac 148.00205 -31.98061 213.60 90
+OBJECT_SHARED Models/lib/coal_pile.ac 148.00199 -31.98060 213.58 90
+OBJECT_SHARED Models/lib/coal_pile.ac 148.00222 -31.97992 213.58 170.44
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 148.00161 -31.98135 213.44 260.49
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 148.00207 -31.98195 213.80 347.16
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 148.00146 -31.98032 214.02 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 148.00156 -31.98019 215.45 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 148.00189 -31.98042 213.50 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 148.00143 -31.98046 213.53 0
+OBJECT_SHARED Models/lib/watertank3x1.ac 148.00245 -31.98023 215.66 350.89
+OBJECT_SHARED Models/lib/office3x10.ac 148.00244 -31.98031 213.50 351.8
+OBJECT_SHARED Models/lib/office4x14.ac 148.00241 -31.98044 213.51 171.67
+OBJECT_SHARED Models/lib/prop_a.ac 148.00174 -31.98080 213.53 340.57
+OBJECT_SHARED Models/lib/MedHangar.ac 148.00195 -31.98167 213.63 257.31
+OBJECT_SHARED Models/lib/shed8x10.ac 148.00205 -31.98051 213.90 171.15
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 148.00215 -31.98052 213.56 80.78
+OBJECT_SHARED Models/lib/shed8x10.ac 148.00206 -31.98042 213.56 171.33
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 148.00251 -31.98048 118.53 79.2
+OBJECT_SHARED Models/lib/shed8x10.ac 148.00170 -31.98095 213.44 170.71
+OBJECT_SHARED Models/lib/shed8x10.ac 148.00158 -31.98109 213.68 348.62
+OBJECT_SHARED Models/lib/shed8x10.ac 148.00158 -31.98121 213.71 78.39
+OBJECT_SHARED Models/lib/shed8x10.ac 148.00153 -31.98146 213.74 80.24
+# END dsf2stg

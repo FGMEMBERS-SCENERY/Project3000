@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -120.84295 43.21607 0.00 180
+OBJECT_SHARED Models/lib/SmHangar.ac -120.84307 43.21578 1315.78 270
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -120.84309 43.21624 1315.93 90
+OBJECT_SHARED Models/lib/garden-shed.ac -120.84314 43.21598 1315.73 90
+OBJECT_SHARED Models/lib/shed8x10.ac -120.84311 43.21564 1315.83 0
+OBJECT_SHARED Models/lib/shed8x10.ac -120.84298 43.21564 1316.03 0
+OBJECT_SHARED Models/Airport/cargoip.xml -120.84310 43.21590 1316.03 0
+OBJECT_SHARED Models/Airport/cargoip.xml -120.84306 43.21591 1315.88 0
+OBJECT_SHARED Models/Airport/cargoip.xml -120.84309 43.21592 1315.88 0
+OBJECT_SHARED Models/Airport/cargoip.xml -120.84307 43.21594 1315.88 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.84302 43.21602 1315.88 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -120.84302 43.21611 1315.83 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -120.84299 43.21577 1315.78 0
+OBJECT_SHARED Models/lib/propane-tank.ac -120.84316 43.21569 1315.93 90
+OBJECT_SHARED Models/Misc/picnic_table.ac -120.84299 43.21600 1315.98 0
+OBJECT_SHARED Models/lib/prop_a.ac -120.84305 43.21584 1315.83 90
+OBJECT_SHARED Models/Transport/van_red.ac -120.84287 43.21571 1315.93 179.12
+# END dsf2stg

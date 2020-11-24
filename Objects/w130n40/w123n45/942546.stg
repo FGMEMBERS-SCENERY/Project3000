@@ -1,36 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -122.32085 45.30983 212.91 179.27
-OBJECT_SHARED Models/lib/SmHangar.ac -122.31769 45.31284 219.85 0.529999
-OBJECT_SHARED Models/lib/SmHangar.ac -122.31996 45.30549 209.30 179.7
-OBJECT_SHARED Models/lib/SmHangar.ac -122.32085 45.31041 212.33 180
-OBJECT_SHARED Models/lib/hangar81x16.ac -122.31889 45.30703 215.88 270.93
-OBJECT_SHARED Models/lib/hangar81x16.ac -122.31931 45.30702 215.88 271.03
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -122.31886 45.30574 215.79 270.14
-OBJECT_SHARED Models/Transport/van_silver.ac -122.31940 45.31137 212.72 131.34
-OBJECT_SHARED Models/Transport/hatchback_black.ac -122.31937 45.31143 212.72 187.72
-OBJECT_SHARED Models/lib/garage-small-white.ac -122.31910 45.30415 214.43 356.68
-OBJECT_SHARED Models/lib/garage-small-white.ac -122.31909 45.30421 214.43 356.53
-OBJECT_SHARED Models/lib/farm19x12.ac -122.31932 45.30408 214.30 88.2
-OBJECT_SHARED Models/lib/farm19x12.ac -122.32015 45.30394 210.62 270.65
-OBJECT_SHARED Models/lib/garage-small-white.ac -122.32001 45.30386 210.62 237.06
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -122.31997 45.30392 210.62 22.38
-OBJECT_SHARED Models/Aircraft/Cessna172.ac -122.32006 45.30295 211.74 89.11
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -122.32028 45.30848 216.27 130.67
-OBJECT_SHARED Models/lib/garden-shed.ac -122.32080 45.31054 212.13 359.24
-OBJECT_SHARED Models/Transport/hatchback_black.ac -122.31917 45.30422 214.43 86.05
-OBJECT_SHARED Models/Transport/hatchback_black.ac -122.31917 45.30416 214.43 88.09
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -122.31992 45.30284 210.99 181.17
-OBJECT_SHARED Models/Transport/hatchback_green.ac -122.31991 45.30560 209.96 182.05
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -122.32021 45.30900 216.07 268.6
-OBJECT_SHARED Models/Transport/van_red.ac -122.32022 45.30895 216.11 270
-OBJECT_SHARED Models/Transport/hatchback_black.ac -122.32009 45.30980 213.59 37.3
-OBJECT_SHARED Models/Transport/hatchback_green.ac -122.32010 45.31040 211.30 359.11
-OBJECT_SHARED Models/lib/garden-shed.ac -122.32015 45.31020 212.06 90.2
-OBJECT_SHARED Models/lib/dGreenhse.ac -122.31987 45.30538 208.64 270
-OBJECT_SHARED Models/Misc/picnic_table.ac -122.31982 45.30569 210.62 18
-OBJECT_SHARED Models/Misc/picnic_table.ac -122.32038 45.31053 210.92 144.16
-OBJECT_SHARED Models/Misc/picnic_table.ac -122.32038 45.31047 210.92 358.57
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -122.31993 45.31001 212.82 358.43
+OBJECT_SHARED Models/Transport/hatchback_red.ac -122.36216 45.31980 0.00 296.56
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -122.36206 45.31964 119.97 26.57
+OBJECT_SHARED Models/Transport/van_red.ac -122.36317 45.31912 120.08 286.16
+OBJECT_SHARED Models/lib/cars4.ac -122.36157 45.31967 120.11 194.62
+OBJECT_SHARED Models/lib/cars4.ac -122.36187 45.31968 120.02 106.2
+OBJECT_SHARED Models/lib/office16x4n.ac -122.36183 45.32012 120.02 19.18
+OBJECT_SHARED Models/lib/SmHangar.ac -122.36215 45.31990 119.82 18.61
+OBJECT_SHARED Models/lib/SmHangar.ac -122.36211 45.31980 119.92 18.61
+OBJECT_SHARED Models/lib/SmHangar.ac -122.36206 45.31970 119.97 18.61
+OBJECT_SHARED Models/lib/MedHangar.ac -122.36176 45.31945 120.02 14.28
 # END dsf2stg

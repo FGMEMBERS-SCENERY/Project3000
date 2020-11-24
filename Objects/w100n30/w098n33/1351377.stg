@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -97.58283 33.25613 0.00 186.58
+OBJECT_SHARED Models/lib/MedHangar.ac -97.58235 33.25261 318.25 87.53
+OBJECT_SHARED Models/lib/SmHangar.ac -97.58323 33.25356 318.31 178.84
+OBJECT_SHARED Models/lib/LongRow.ac -97.58307 33.25446 319.38 90
+OBJECT_SHARED Models/lib/LongRow.ac -97.58349 33.25446 319.42 90
+OBJECT_SHARED Models/lib/LongRow.ac -97.58302 33.25402 319.72 176.88
+OBJECT_SHARED Models/lib/SmHangar.ac -97.58381 33.25373 319.17 268.86
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -97.58338 33.25341 319.69 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -97.58313 33.25342 319.59 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.58315 33.25346 319.32 270
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.58319 33.25346 319.31 268.15
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.58315 33.25344 319.40 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -97.58319 33.25344 319.32 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.58326 33.25343 319.42 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58325 33.25338 319.51 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58325 33.25335 319.51 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58325 33.25333 319.53 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58325 33.25330 319.53 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58325 33.25327 319.53 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58302 33.25323 319.53 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58305 33.25323 319.23 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58308 33.25323 319.23 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58311 33.25324 319.35 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58314 33.25323 319.35 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.58318 33.25323 319.35 0
+OBJECT_SHARED Models/lib/6space_wStop.ac -97.58326 33.25331 319.48 0
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -97.58323 33.25333 319.53 269.19
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -97.58297 33.25333 319.43 89.77
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -97.58261 33.25332 319.23 92.39
+OBJECT_SHARED Models/Aircraft/Cessna172.ac -97.58329 33.25437 318.75 1.22
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -97.58287 33.25366 319.19 90
+# END dsf2stg

@@ -1,0 +1,49 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -79.84996 33.71352 0.00 53.65
+OBJECT_SHARED Models/lib/lamp10m.xml -79.84997 33.71380 17.77 207.17
+OBJECT_SHARED Models/lib/lamp10m.xml -79.85144 33.71482 17.80 224.3
+OBJECT_SHARED Models/lib/lamp10m.xml -79.85319 33.71635 18.35 45.67
+OBJECT_SHARED Models/lib/lamp10m.xml -79.85251 33.71636 18.83 225.99
+OBJECT_SHARED Models/lib/lamp10m.xml -79.85346 33.71649 18.67 45
+OBJECT_SHARED Models/lib/lamp10m.xml -79.85395 33.71685 18.89 45
+OBJECT_SHARED Models/lib/coal_pile.ac -79.84997 33.71356 18.96 353.66
+OBJECT_SHARED Models/Misc/6barrels.ac -79.85023 33.71365 17.78 185.75
+OBJECT_SHARED Models/Misc/6barrels.ac -79.85024 33.71366 17.88 313.17
+OBJECT_SHARED Models/Misc/6barrels.ac -79.85011 33.71371 17.88 250.88
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -79.84912 33.71378 17.81 219.88
+OBJECT_SHARED Models/Transport/hatchback_red.ac -79.85342 33.71682 17.43 137.2
+OBJECT_SHARED Models/lib/trailer-fedex.ac -79.84917 33.71320 18.86 324.81
+OBJECT_SHARED Models/lib/trailer-fedex.ac -79.84906 33.71318 17.43 315
+OBJECT_SHARED Models/Transport/Norberttruck.xml -79.84948 33.71357 17.39 326.06
+OBJECT_SHARED Models/Transport/hatchback_green.ac -79.85351 33.71689 17.58 317.18
+OBJECT_SHARED Models/lib/prop_a.ac -79.85128 33.71454 18.87 324.33
+OBJECT_SHARED Models/lib/prop_a.ac -79.85141 33.71459 18.31 338.05
+OBJECT_SHARED Models/lib/prop_a.ac -79.85410 33.71675 18.35 318.24
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -79.85393 33.71698 18.99 135.06
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -79.85395 33.71697 18.93 315.06
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -79.85394 33.71697 18.93 315.06
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -79.84929 33.71322 18.93 315.02
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -79.84996 33.71362 17.47 95.46
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.84998 33.71365 17.78 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.84999 33.71367 17.79 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.84997 33.71366 17.79 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.84999 33.71365 17.79 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.84998 33.71366 17.78 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.84998 33.71366 17.79 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -79.84999 33.71366 17.79 0
+OBJECT_SHARED Models/lib/propane-tank.ac -79.85027 33.71369 17.79 317.94
+OBJECT_SHARED Models/lib/cars2.ac -79.85014 33.71374 17.91 49.25
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -79.85186 33.71462 17.81 317.54
+OBJECT_SHARED Models/lib/watertank3x1.ac -79.85017 33.71365 18.50 138.17
+OBJECT_SHARED Models/lib/office8x14.ac -79.84999 33.71403 17.88 175.44
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.84888 33.71343 17.81 220
+OBJECT_SHARED Models/lib/industrial15x22.ac -79.84909 33.71345 17.32 40
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -79.84914 33.71356 17.41 40
+OBJECT_SHARED Models/lib/industrial13x24.ac -79.85353 33.71671 17.42 139.09
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -79.85080 33.71424 18.88 324.39
+OBJECT_SHARED Models/lib/LongRow.ac -79.85289 33.71560 18.12 48.11
+OBJECT_SHARED Models/lib/shed8x10.ac -79.85226 33.71521 18.79 138.24
+OBJECT_SHARED Models/lib/shed8x10.ac -79.85121 33.71451 18.63 329.38
+# END dsf2stg

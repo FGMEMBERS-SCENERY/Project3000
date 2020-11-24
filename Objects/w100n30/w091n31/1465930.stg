@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -90.47146 31.18238 0.00 197.93
+OBJECT_SHARED Models/Airport/cargoip.xml -90.47155 31.18346 121.25 0
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -90.47169 31.18338 122.01 196.19
+OBJECT_SHARED Models/lib/container6-HD.ac -90.47165 31.18334 121.86 113.25
+OBJECT_SHARED Models/lib/belt_loader.ac -90.47146 31.18263 121.77 23.2
+OBJECT_SHARED Models/lib/SmHangar.ac -90.47126 31.18369 121.38 295.53
+OBJECT_SHARED Models/lib/LongRow.ac -90.47132 31.18405 122.41 204.57
+OBJECT_SHARED Models/lib/LongRow.ac -90.47112 31.18412 122.69 204.57
+OBJECT_SHARED Models/lib/SmHangar.ac -90.47096 31.18412 122.94 113.51
+OBJECT_SHARED Models/lib/HorizTanks2.ac -90.47151 31.18272 123.02 25.45
+OBJECT_SHARED Models/lib/lamp10m.xml -90.47140 31.18238 121.46 -8.44
+OBJECT_SHARED Models/lib/lamp10m.xml -90.47153 31.18279 121.32 25.3
+OBJECT_SHARED Models/lib/lamp10m.xml -90.47164 31.18341 121.53 -63.6
+OBJECT_SHARED Models/lib/lamp10m.xml -90.47172 31.18317 121.92 27.82
+# END dsf2stg

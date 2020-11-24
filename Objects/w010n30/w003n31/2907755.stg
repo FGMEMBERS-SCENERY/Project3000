@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -2.24950 31.64713 806.56 5.66
+OBJECT_SHARED Models/lib/large-hangar.ac -2.24946 31.62760 806.91 22.8
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -2.24637 31.62892 805.24 292.32
+OBJECT_SHARED Models/lib/MedHangar.ac -2.24776 31.62844 805.84 292.11
+OBJECT_SHARED Models/lib/MedHangar.ac -2.24818 31.62830 805.37 292.19
+OBJECT_SHARED Models/lib/large-hangar.ac -2.24975 31.62739 806.03 201.99
+# END dsf2stg

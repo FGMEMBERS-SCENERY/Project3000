@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -31.13065 39.45808 0.00 281.69
+OBJECT_SHARED Models/lib/cars6.ac -31.13169 39.45923 31.75 95.97
+OBJECT_SHARED Models/lib/cars6.ac -31.13137 39.45953 31.94 19.44
+OBJECT_SHARED Models/lib/fuel-truck.xml -31.13151 39.45982 31.68 96.63
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -31.13164 39.46003 31.57 99.46
+OBJECT_SHARED Models/lib/cube16x10.ac -31.13146 39.46021 31.48 279.86
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -31.13147 39.45866 31.31 325.01
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -31.13058 39.45832 32.15 146.31
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -31.13068 39.45871 31.59 146.48
+# END dsf2stg

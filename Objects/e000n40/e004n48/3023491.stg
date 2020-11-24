@@ -1,11 +1,22 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_red.ac 4.81638 48.11231 334.50 23.2
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 4.81643 48.11232 334.54 202.47
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.81657 48.11224 334.42 202.47
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 4.81632 48.11219 334.25 20.73
-OBJECT_SHARED Models/lib/SmHangar.ac 4.81576 48.11207 333.60 290.9
-OBJECT_SHARED Models/lib/SmHangar.ac 4.81555 48.11201 333.20 290.9
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 4.81516 48.11213 332.99 200.3
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 4.81521 48.11214 0.00 203.82
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.81645 48.11227 332.61 44.1274
+OBJECT_SHARED Models/lib/cars6.ac 4.81613 48.11233 334.33 21.04
+OBJECT_SHARED Models/lib/cars6.ac 4.81588 48.11227 334.02 21.04
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.81379 48.11165 333.73 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.81387 48.11161 329.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.81398 48.11155 329.96 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.81374 48.11178 330.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.81366 48.11182 329.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.81368 48.11174 329.70 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.81375 48.11184 329.66 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.81386 48.11184 329.88 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.81410 48.11166 330.09 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 4.81499 48.11217 330.44 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.81503 48.11209 332.32 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.81518 48.11198 332.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.81532 48.11183 332.47 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.81657 48.11247 332.43 0
 # END dsf2stg

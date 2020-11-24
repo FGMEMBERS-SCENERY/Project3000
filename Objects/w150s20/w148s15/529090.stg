@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -147.66005 -14.95589 0.00 246.71
+OBJECT_SHARED Models/lib/shed8x10.ac -147.65998 -14.95592 4.19 67.58
+OBJECT_SHARED Models/lib/watertank3x1.ac -147.65974 -14.95618 4.19 73.14
+OBJECT_SHARED Models/lib/stack_of_cones.ac -147.65866 -14.95620 4.44 81.39
+OBJECT_SHARED Models/lib/stack_of_cones.ac -147.65872 -14.95643 4.57 81.39
+OBJECT_SHARED Models/lib/stack_of_cones.ac -147.65872 -14.95665 2.94 7.34
+OBJECT_SHARED Models/Misc/picnic_table.ac -147.65891 -14.95663 1.43 69.87
+OBJECT_SHARED Models/Misc/picnic_table.ac -147.65889 -14.95656 1.43 250.22
+OBJECT_SHARED Models/Misc/picnic_table.ac -147.65887 -14.95652 1.43 250.22
+OBJECT_SHARED Models/Misc/picnic_table.ac -147.65886 -14.95649 2.12 250.22
+OBJECT_SHARED Models/Misc/picnic_table.ac -147.65890 -14.95659 2.12 250.22
+OBJECT_SHARED Models/lib/cone.ac -147.65857 -14.95595 1.43 81.39
+OBJECT_SHARED Models/lib/cone.ac -147.65860 -14.95602 4.22 88.33
+OBJECT_SHARED Models/lib/cone.ac -147.65859 -14.95600 4.22 88.33
+OBJECT_SHARED Models/lib/cone.ac -147.65862 -14.95608 4.22 88.33
+OBJECT_SHARED Models/lib/cone.ac -147.65865 -14.95617 4.53 88.33
+OBJECT_SHARED Models/lib/cone.ac -147.65864 -14.95614 4.57 88.33
+OBJECT_SHARED Models/lib/cone.ac -147.65858 -14.95598 4.53 88.33
+OBJECT_SHARED Models/lib/cone.ac -147.65857 -14.95594 4.22 88.33
+OBJECT_SHARED Models/lib/cone.ac -147.65856 -14.95591 3.92 88.33
+OBJECT_SHARED Models/lib/cone.ac -147.65861 -14.95606 3.92 88.33
+OBJECT_SHARED Models/lib/cone.ac -147.65863 -14.95611 4.53 88.33
+OBJECT_SHARED Models/lib/cone.ac -147.65860 -14.95604 4.53 158.77
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -147.65992 -14.95592 4.22 356.35
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -147.65994 -14.95595 4.19 356.35
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -147.65995 -14.95598 3.47 356.35
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -147.65991 -14.95589 3.47 20.66
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -147.65993 -14.95587 4.19 20.66
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -147.65874 -14.95625 4.19 133.83
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -147.65879 -14.95618 3.76 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -147.65876 -14.95619 4.57 0
+OBJECT_SHARED Models/Airport/cargoim.xml -147.65870 -14.95624 4.57 0
+OBJECT_SHARED Models/Airport/cargoip.xml -147.65873 -14.95620 4.57 0
+OBJECT_SHARED Models/Airport/cargobox.xml -147.65870 -14.95621 4.57 0
+OBJECT_SHARED Models/lib/propane-tank.ac -147.65975 -14.95620 4.57 163.16
+OBJECT_SHARED Models/lib/transformer3x3.ac -147.65976 -14.95623 4.44 71.2
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -147.65998 -14.95569 4.44 247.65
+OBJECT_SHARED Models/lib/lamp10m.xml -147.65853 -14.95674 3.92 252.19
+OBJECT_SHARED Models/lib/lamp10m.xml -147.65901 -14.95609 0.96 71.08
+OBJECT_SHARED Models/lib/lamp10m.xml -147.65875 -14.95617 4.53 71.08
+OBJECT_SHARED Models/lib/lamp10m.xml -147.65871 -14.95668 4.57 254.94
+OBJECT_SHARED Models/lib/lamp10m.xml -147.65755 -14.95702 0.96 253.56
+OBJECT_SHARED Models/lib/lamp10m.xml -147.65828 -14.95681 2.90 255.36
+OBJECT_SHARED Models/lib/lamp10m.xml -147.65776 -14.95697 2.50 252.74
+OBJECT_SHARED Models/lib/lamp10m.xml -147.65801 -14.95689 2.90 252.8
+OBJECT_SHARED Models/lib/shed8x10.ac -147.65952 -14.95628 2.34 71.85
+# END dsf2stg

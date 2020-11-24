@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -76.81422 40.28080 0.00 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81427 40.28090 155.56 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81408 40.28090 155.32 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81396 40.28091 155.07 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81400 40.28084 155.24 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81401 40.28077 155.61 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81402 40.28064 155.61 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81402 40.28070 155.02 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81403 40.28049 155.53 313.01
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81404 40.28043 154.24 313.01
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81402 40.28056 153.46 313.01
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81404 40.28036 155.02 313.01
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.81406 40.28029 153.46 313.01
+OBJECT_SHARED Models/lib/lamp10m.xml -76.81496 40.28057 152.69 265
+OBJECT_SHARED Models/lib/lamp10m.xml -76.81515 40.28059 155.48 265
+OBJECT_SHARED Models/lib/lamp10m.xml -76.81530 40.28060 156.03 265
+OBJECT_SHARED Models/lib/lamp10m.xml -76.81545 40.28061 156.00 265
+# END dsf2stg

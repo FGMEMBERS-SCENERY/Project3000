@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 8.91041 48.78475 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.91056 48.78483 449.42 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 8.90966 48.78378 449.57 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.90962 48.78369 447.44 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.90994 48.78487 447.18 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 8.90984 48.78395 453.38 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 8.91068 48.78482 448.40 0
+OBJECT_SHARED Models/Transport/van_silver.ac 8.90981 48.78426 449.53 69.44
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.90988 48.78436 448.91 70.56
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.90991 48.78442 449.05 70.02
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.90990 48.78440 449.04 73.15
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.91008 48.78450 449.04 252.82
+OBJECT_SHARED Models/Transport/van_silver.ac 8.91050 48.78437 449.15 281.31
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.90978 48.78421 448.86 66.43
+OBJECT_SHARED Models/lib/prop_a.ac 8.91162 48.78457 448.75 284.64
+# END dsf2stg

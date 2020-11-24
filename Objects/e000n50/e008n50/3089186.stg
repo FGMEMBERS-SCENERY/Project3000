@@ -1,26 +1,26 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 8.52728 50.57528 147.41 106.482
-OBJECT_SHARED Models/Transport/hatchback_blue.ac 8.52704 50.57522 146.92 275.906
-OBJECT_SHARED Models/Transport/van_silver.ac 8.52701 50.57525 146.82 276.483
-OBJECT_SHARED Models/Transport/hatchback_green.ac 8.51976 50.57182 148.96 283.829
-OBJECT_SHARED Models/Transport/van_silver.ac 8.51967 50.57180 148.96 28.0724
-OBJECT_SHARED Models/Transport/hatchback_red.ac 8.51960 50.57179 148.93 11.6336
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.51946 50.57176 148.89 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.51949 50.57178 148.90 43.5309
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.51942 50.57177 148.88 0
-OBJECT_SHARED Models/Misc/picnic_table.ac 8.52579 50.57291 149.57 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52684 50.57279 149.67 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52695 50.57281 149.68 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52286 50.57202 149.53 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52445 50.57398 146.75 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52464 50.57398 146.74 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52489 50.57410 146.32 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52756 50.57565 147.15 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52760 50.57558 147.58 11.3096
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52761 50.57550 147.91 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52766 50.57544 148.02 56.3092
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52765 50.57535 147.94 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52668 50.57525 147.94 0
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 8.52728 50.57528 0.00 106.482
+OBJECT_SHARED Models/Transport/hatchback_green.ac 8.52704 50.57522 149.30 275.906
+OBJECT_SHARED Models/Transport/van_red.ac 8.52701 50.57525 148.98 276.483
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.51976 50.57182 148.95 283.829
+OBJECT_SHARED Models/Transport/van_silver.ac 8.51967 50.57180 148.97 28.0724
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 8.51960 50.57179 148.95 11.6336
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51946 50.57176 148.93 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51949 50.57178 148.89 43.5309
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.51942 50.57177 148.90 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 8.52579 50.57291 148.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52684 50.57279 149.54 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52695 50.57281 148.82 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52286 50.57202 148.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52445 50.57398 149.16 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52464 50.57398 147.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52489 50.57410 147.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52756 50.57565 146.81 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52760 50.57558 149.85 11.3096
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52761 50.57550 149.83 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52766 50.57544 149.80 56.3092
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52765 50.57535 149.79 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 8.52668 50.57525 149.69 0
 # END dsf2stg

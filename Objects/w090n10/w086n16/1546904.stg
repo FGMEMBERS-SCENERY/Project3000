@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -85.90129 16.44182 0.00 334.093
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.90412 16.44358 -0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.90336 16.44325 5.69 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.90341 16.44323 5.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.90335 16.44321 5.12 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.90218 16.44302 1.66 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.90222 16.44306 0.48 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.90223 16.44301 5.39 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -85.90238 16.44319 0.48 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -85.90373 16.44333 5.50 338.199
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -85.90375 16.44340 5.20 0
+OBJECT_SHARED Models/lib/cone.ac -85.90364 16.44367 5.45 0
+OBJECT_SHARED Models/lib/cone.ac -85.90361 16.44365 6.22 0
+OBJECT_SHARED Models/lib/SmHangar.ac -85.90284 16.44424 6.22 63.3733
+OBJECT_SHARED Models/lib/dGreenhse.ac -85.90231 16.44290 8.08 333.435
+# END dsf2stg

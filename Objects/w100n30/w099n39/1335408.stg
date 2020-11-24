@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.79081 39.75821 0.50 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.79089 39.75832 544.51 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.79150 39.76007 544.58 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.79152 39.76004 545.93 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.79200 39.75999 545.86 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.79191 39.75987 545.89 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.79174 39.76039 545.81 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.79189 39.76033 546.17 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.79849 39.76862 546.11 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -98.79857 39.76873 542.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.79650 39.76887 541.33 86.63
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.79638 39.76886 541.83 338.2
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.79605 39.76997 541.87 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.79693 39.77026 541.28 180
+OBJECT_SHARED Models/lib/shed8x10.ac -98.79473 39.76848 540.93 2.61
+OBJECT_SHARED Models/lib/shed8x10.ac -98.79455 39.76876 543.09 270.35
+OBJECT_SHARED Models/lib/shed8x10.ac -98.79696 39.77002 542.79 89.06
+OBJECT_SHARED Models/lib/trailer-fedex.ac -98.79638 39.76980 541.07 270.47
+OBJECT_SHARED Models/lib/trailer-fedex.ac -98.79638 39.76995 541.32 269.57
+OBJECT_SHARED Models/lib/shed8x10.ac -98.79670 39.77002 541.26 0.739998
+OBJECT_SHARED Models/lib/shed8x10.ac -98.79093 39.76374 541.14 0.260002
+OBJECT_SHARED Models/lib/propane-tank.ac -98.79057 39.76545 547.24 270
+OBJECT_SHARED Models/lib/propane-tank.ac -98.79059 39.76545 548.20 270
+OBJECT_SHARED Models/lib/propane-tank.ac -98.79062 39.76545 548.26 270
+OBJECT_SHARED Models/lib/propane-tank.ac -98.79068 39.76566 548.20 270
+OBJECT_SHARED Models/lib/propane-tank.ac -98.79069 39.76566 548.41 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.79086 39.76542 548.41 179.75
+OBJECT_SHARED Models/Airport/cargobox.xml -98.79157 39.76076 548.29 143.97
+OBJECT_SHARED Models/Airport/cargobox.xml -98.79160 39.76078 545.96 270
+OBJECT_SHARED Models/lib/propane-tank.ac -98.79154 39.76087 545.96 8.06
+OBJECT_SHARED Models/lib/propane-tank.ac -98.79104 39.76307 546.02 88.09
+OBJECT_SHARED Models/lib/propane-tank.ac -98.79124 39.76333 547.14 358.18
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.79075 39.76389 547.30 180.12
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.79117 39.76306 547.29 89.98
+OBJECT_SHARED Models/lib/garden-shed.ac -98.79115 39.76044 547.19 210.02
+OBJECT_SHARED Models/lib/shed8x10.ac -98.79162 39.76083 545.61 179.76
+OBJECT_SHARED Models/lib/SmHangar.ac -98.79106 39.76075 545.96 179.99
+OBJECT_SHARED Models/lib/SmHangar.ac -98.79072 39.76091 545.81 359.43
+OBJECT_SHARED Models/lib/SmHangar.ac -98.79072 39.76110 545.86 359.43
+OBJECT_SHARED Models/lib/LongRow.ac -98.79116 39.76206 546.00 269.08
+OBJECT_SHARED Models/lib/LongRow.ac -98.79116 39.76186 546.77 269.08
+# END dsf2stg

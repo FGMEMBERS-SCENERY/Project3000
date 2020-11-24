@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac -149.13674 63.32809 0.00 124.39
+OBJECT_SHARED Models/lib/prop_a.ac -149.13599 63.32852 730.88 333.43
+OBJECT_SHARED Models/lib/prop_a.ac -149.13574 63.32858 730.27 270
+OBJECT_SHARED Models/lib/shed8x10.ac -149.13223 63.32852 730.17 124.992
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -149.13208 63.32845 728.29 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -149.13440 63.32867 728.30 213.689
+# END dsf2stg

@@ -1,0 +1,54 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -51.38789 -23.60804 0.00 183.81
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -51.38750 -23.60782 790.40 189.25
+OBJECT_SHARED Models/Transport/hatchback_black.ac -51.38807 -23.60790 790.48 144.58
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -51.38795 -23.60789 790.05 144.58
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -51.38790 -23.60788 790.27 144.58
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -51.38780 -23.60787 790.27 144.58
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38578 -23.60783 790.36 96.06
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38552 -23.60781 792.03 96.06
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38521 -23.60778 792.28 96.06
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38491 -23.60775 792.53 96.06
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38461 -23.60773 792.78 96.06
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38578 -23.60783 790.36 96.06
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38552 -23.60781 792.03 96.06
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38521 -23.60778 792.28 96.06
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38491 -23.60775 792.53 96.06
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38461 -23.60773 792.78 96.06
+OBJECT_SHARED Models/lib/prop_a.ac -51.38718 -23.60818 792.95 230.13
+OBJECT_SHARED Models/lib/prop_a.ac -51.38590 -23.60793 791.20 302.35
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38793 -23.60807 792.03 186.07
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38737 -23.60809 790.53 4.82999
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38737 -23.60809 790.53 185.88
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38737 -23.60809 790.53 -84.07
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38776 -23.60813 790.95 5.63
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38776 -23.60813 790.95 185.81
+OBJECT_SHARED Models/lib/lamp10m.xml -51.38776 -23.60813 790.95 -84.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38456 -23.60752 790.62 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38443 -23.60750 792.78 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38762 -23.60782 792.96 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38824 -23.60783 790.39 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38816 -23.60782 789.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38808 -23.60782 789.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38800 -23.60781 789.90 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38792 -23.60780 790.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38784 -23.60779 790.12 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38776 -23.60778 790.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38772 -23.60789 790.23 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38800 -23.60794 790.44 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38811 -23.60799 790.16 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38831 -23.60808 790.20 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38828 -23.60800 790.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38848 -23.60796 789.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38858 -23.60807 789.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38850 -23.60822 789.88 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38837 -23.60820 790.09 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -51.38835 -23.60835 790.19 0
+OBJECT_SHARED Models/lib/farm19x12.ac -51.38744 -23.60793 790.29 184.2
+OBJECT_SHARED Models/lib/farm19x12.ac -51.38844 -23.60816 790.69 273.25
+OBJECT_SHARED Models/lib/garage-small-white.ac -51.38639 -23.60767 790.19 274.69
+OBJECT_SHARED Models/lib/garage-small-white.ac -51.38753 -23.60796 791.38 274.42
+OBJECT_SHARED Models/lib/SmHangar.ac -51.38448 -23.60769 790.74 96.03
+# END dsf2stg

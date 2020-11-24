@@ -1,0 +1,50 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04682 53.58538 0.00 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -3.04608 53.58554 10.03 351.25
+OBJECT_SHARED Models/lib/schranke.ac -3.04913 53.58180 10.24 81.09
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -3.04973 53.58112 9.26 83.78
+OBJECT_SHARED Models/lib/prop_a.ac -3.05032 53.58194 9.06 191.53
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -3.04971 53.58162 9.20 262.68
+OBJECT_SHARED Models/lib/prop_a.ac -3.04850 53.58580 9.17 304.9
+OBJECT_SHARED Models/lib/MedHangar.ac -3.04959 53.58112 9.73 83.16
+OBJECT_SHARED Models/lib/hangar81x16.ac -3.04891 53.58512 9.07 84.8
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -3.04631 53.58348 9.70 273.38
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -3.04761 53.58383 10.23 182.37
+OBJECT_SHARED Models/lib/lamp10m.xml -3.04604 53.58363 9.93 325.18
+OBJECT_SHARED Models/lib/lamp10m.xml -3.04616 53.58368 10.33 325.14
+OBJECT_SHARED Models/lib/lamp10m.xml -3.04603 53.58380 10.32 145.71
+OBJECT_SHARED Models/lib/lamp10m.xml -3.04591 53.58374 10.35 149.55
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -3.05214 53.58335 10.38 187.25
+OBJECT_SHARED Models/lib/MedHangar.ac -3.04985 53.58391 9.63 60.96
+OBJECT_SHARED Models/lib/SmHangar.ac -3.05081 53.58441 9.57 329.78
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04724 53.58634 9.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04660 53.58625 9.86 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04631 53.58625 10.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04601 53.58488 10.13 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04742 53.58404 10.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04588 53.58406 10.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04573 53.58420 10.37 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04640 53.58455 10.43 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04663 53.58452 10.20 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04674 53.58442 10.16 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -3.04908 53.58211 10.15 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -3.04902 53.58274 9.33 91.85
+OBJECT_SHARED Models/lib/industrial13x24.ac -3.04817 53.58451 9.47 354.93
+OBJECT_SHARED Models/lib/industrial15x22.ac -3.04810 53.58381 9.86 181.58
+OBJECT_SHARED Models/lib/industrial15x22.ac -3.04817 53.58426 9.81 84.61
+OBJECT_SHARED Models/lib/transformer3x3.ac -3.04584 53.58376 9.88 54.06
+OBJECT_SHARED Models/lib/cars6.ac -3.04899 53.58160 10.39 99
+OBJECT_SHARED Models/lib/cars2.ac -3.04892 53.58193 9.23 101.55
+OBJECT_SHARED Models/lib/office8x14.ac -3.04601 53.58385 9.32 235.32
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -3.04703 53.58428 10.35 93.66
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -3.04706 53.58457 10.10 93.45
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -3.04889 53.58402 10.07 138.86
+OBJECT_SHARED Models/lib/shed8x10.ac -3.04829 53.58305 9.66 179.61
+OBJECT_SHARED Models/lib/shed8x10.ac -3.04812 53.58273 9.64 92.24
+OBJECT_SHARED Models/lib/office4x14.ac -3.04908 53.58225 9.63 10.99
+OBJECT_SHARED Models/lib/office4x14.ac -3.04971 53.58188 9.35 266.4
+OBJECT_SHARED Models/lib/office8x14.ac -3.04822 53.58212 9.23 279.51
+OBJECT_SHARED Models/lib/cars6.ac -3.04714 53.58386 9.48 2.32
+# END dsf2stg

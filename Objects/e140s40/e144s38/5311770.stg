@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 144.56806 -37.61844 0.00 101
+OBJECT_SHARED Models/lib/SmHangar.ac 144.56789 -37.61847 210.70 101
+OBJECT_SHARED Models/lib/SmHangar.ac 144.56774 -37.61849 210.48 101
+OBJECT_SHARED Models/lib/SmHangar.ac 144.56900 -37.61834 210.48 282
+OBJECT_SHARED Models/lib/SmHangar.ac 144.56887 -37.61804 211.13 101
+OBJECT_SHARED Models/lib/SmHangar.ac 144.56759 -37.61851 211.84 101
+OBJECT_SHARED Models/lib/MedHangar.ac 144.56791 -37.61802 210.48 280
+OBJECT_SHARED Models/lib/container6-HD.ac 144.56733 -37.61850 211.61 0
+OBJECT_SHARED Models/lib/container6-HD.ac 144.56741 -37.61849 210.76 14
+OBJECT_SHARED Models/lib/container6-HD.ac 144.56731 -37.61840 210.76 14
+OBJECT_SHARED Models/lib/container6-HD.ac 144.56738 -37.61762 210.98 14
+OBJECT_SHARED Models/lib/container6-HD.ac 144.56730 -37.61763 212.76 14
+OBJECT_SHARED Models/lib/trailer-fedex.ac 144.56818 -37.61733 212.76 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac 144.56814 -37.61732 213.25 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac 144.56810 -37.61734 213.25 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac 144.56806 -37.61734 213.25 90
+OBJECT_SHARED Models/lib/trailer-fedex.ac 144.56834 -37.61745 213.25 130
+OBJECT_SHARED Models/lib/trailer-fedex.ac 144.56831 -37.61747 213.02 137
+OBJECT_SHARED Models/lib/trailer-fedex.ac 144.56815 -37.61746 212.78 154
+OBJECT_SHARED Models/lib/trailer-fedex.ac 144.56809 -37.61752 212.78 137
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56936 -37.61847 212.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56937 -37.61841 210.66 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56929 -37.61841 210.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56935 -37.61831 210.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56927 -37.61833 211.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56885 -37.61837 211.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56915 -37.61832 210.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56925 -37.61808 211.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56917 -37.61804 211.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56933 -37.61807 211.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56925 -37.61798 211.60 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56909 -37.61799 211.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56807 -37.61711 211.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56800 -37.61710 213.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56803 -37.61713 213.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 144.56801 -37.61736 213.72 0
+OBJECT_SHARED Models/lib/hangar81x16.ac 144.56709 -37.61785 213.02 11
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 144.56866 -37.61746 212.09 90
+OBJECT_SHARED Models/lib/prop_a.ac 144.56903 -37.61784 213.01 90
+OBJECT_SHARED Models/lib/prop_a.ac 144.56827 -37.61812 212.31 140.01
+# END dsf2stg

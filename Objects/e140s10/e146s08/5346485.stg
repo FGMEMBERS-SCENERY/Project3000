@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65115 -7.21711 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65132 -7.21649 663.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65143 -7.21663 663.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65142 -7.21654 663.82 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65146 -7.21637 663.67 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65133 -7.21687 663.39 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65045 -7.21555 664.07 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65042 -7.21547 661.05 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65035 -7.21534 661.10 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.64998 -7.21502 661.19 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.64990 -7.21508 661.48 90
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65115 -7.21654 661.40 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65115 -7.21649 663.67 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65104 -7.21639 663.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 146.65110 -7.21645 663.42 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 146.65201 -7.21598 663.52 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 146.65207 -7.21595 665.06 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 146.65216 -7.21586 665.01 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 146.65212 -7.21592 664.88 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 146.65072 -7.21541 664.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 146.65155 -7.21674 662.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 146.65220 -7.21665 664.91 270
+OBJECT_SHARED Models/lib/schranke.ac 146.65162 -7.21569 664.94 28.6
+OBJECT_SHARED Models/lib/transformer3x3.ac 146.65162 -7.21574 664.63 34.22
+OBJECT_SHARED Models/lib/lamp10m.xml 146.65163 -7.21573 664.71 -58.13
+OBJECT_SHARED Models/lib/lamp10m.xml 146.65196 -7.21566 664.69 21.25
+OBJECT_SHARED Models/lib/lamp10m.xml 146.65165 -7.21533 664.59 123.11
+OBJECT_SHARED Models/lib/lamp10m.xml 146.65168 -7.21550 664.40 31.08
+OBJECT_SHARED Models/Airport/cargoip.xml 146.65165 -7.21534 664.42 37.41
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 146.65147 -7.21544 664.40 300.68
+OBJECT_SHARED Models/Airport/cargobox.xml 146.65139 -7.21531 662.60 0
+OBJECT_SHARED Models/Airport/cargoip.xml 146.65163 -7.21535 662.10 300.64
+OBJECT_SHARED Models/lib/cone.ac 146.65152 -7.21551 664.40 0
+OBJECT_SHARED Models/lib/cone.ac 146.65150 -7.21547 664.42 0
+OBJECT_SHARED Models/lib/office16x4n.ac 146.65188 -7.21578 662.62 203.96
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 146.65161 -7.21535 664.77 214.78
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 146.65161 -7.21542 664.40 113.46
+OBJECT_SHARED Models/lib/shed8x10.ac 146.65167 -7.21541 664.41 32.68
+OBJECT_SHARED Models/lib/office4x14.ac 146.65172 -7.21545 664.41 303.27
+# END dsf2stg

@@ -1,9 +1,9 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/hatchback_black.ac -119.76802 38.73109 1787.85 267.15
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -119.76706 38.74175 1775.89 282.2
-OBJECT_SHARED Models/lib/office16x4n.ac -119.76790 38.72911 1786.83 2.12
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -119.76808 38.73083 1787.80 268.69
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -119.76808 38.73096 1787.85 88.86
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -119.76802 38.73109 0.00 267.15
+OBJECT_SHARED Models/Transport/van_red.ac -119.76706 38.74175 1787.85 282.2
+OBJECT_SHARED Models/lib/office16x4n.ac -119.76790 38.72911 1775.88 2.12
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -119.76808 38.73083 1786.83 268.69
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -119.76808 38.73096 1787.80 88.86
 # END dsf2stg

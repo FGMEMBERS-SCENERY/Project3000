@@ -1,0 +1,24 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -71.56351 -4.52327 0.00 220.98
+OBJECT_SHARED Models/lib/transformer3x3.ac -71.56342 -4.52344 96.72 309.38
+OBJECT_SHARED Models/lib/transformer3x3.ac -71.56252 -4.52361 95.91 48.42
+OBJECT_SHARED Models/lib/transformer3x3.ac -71.56344 -4.52341 93.37 309.38
+OBJECT_SHARED Models/lib/transformer3x3.ac -71.56254 -4.52363 96.01 48.42
+OBJECT_SHARED Models/lib/transformer3x3.ac -71.56448 -4.52376 93.30 123.86
+OBJECT_SHARED Models/lib/transformer3x3.ac -71.56450 -4.52373 97.57 123.86
+OBJECT_SHARED Models/lib/office3x10.ac -71.56451 -4.52359 97.71 219.91
+OBJECT_SHARED Models/lib/office8x14.ac -71.56418 -4.52364 98.40 308.47
+OBJECT_SHARED Models/lib/shed8x10.ac -71.56393 -4.52343 96.94 127.65
+OBJECT_SHARED Models/lib/shed10x50.ac -71.56432 -4.52344 97.03 38.79
+OBJECT_SHARED Models/lib/shed8x10.ac -71.56438 -4.52379 98.24 216.68
+OBJECT_SHARED Models/lib/shed8x10.ac -71.56335 -4.52337 96.98 129.95
+OBJECT_SHARED Models/lib/industrial13x24.ac -71.56313 -4.52370 96.15 128.06
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -71.56436 -4.52366 94.36 126.95
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -71.56406 -4.52342 97.61 126.95
+OBJECT_SHARED Models/lib/cars4.ac -71.56336 -4.52371 97.49 219.15
+OBJECT_SHARED Models/lib/cars4.ac -71.56431 -4.52403 94.97 219.49
+OBJECT_SHARED Models/lib/cars6.ac -71.56353 -4.52358 95.81 127.62
+OBJECT_SHARED Models/lib/cars6.ac -71.56365 -4.52345 95.64 216.9
+# END dsf2stg

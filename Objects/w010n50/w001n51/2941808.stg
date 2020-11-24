@@ -1,0 +1,47 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -0.93469 51.77990 0.00 132.09
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -0.93256 51.77783 88.23 262.61
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -0.93239 51.77782 86.78 125.54
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.93525 51.77962 86.79 308
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93190 51.77768 88.24 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93186 51.77759 87.15 333.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93193 51.77755 87.02 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93194 51.77750 86.95 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93199 51.77753 86.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93204 51.77766 86.98 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93208 51.77765 86.78 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93232 51.77774 87.12 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93231 51.77770 86.74 45
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93224 51.77768 86.73 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93222 51.77770 86.74 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93218 51.77769 86.74 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93214 51.77772 86.75 116.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93208 51.77776 86.76 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93204 51.77778 86.79 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93201 51.77781 86.80 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93197 51.77785 86.80 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93202 51.77792 86.84 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93207 51.77794 86.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93208 51.77797 86.82 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93214 51.77801 86.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93218 51.77804 86.84 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93223 51.77808 86.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93304 51.77680 86.86 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93333 51.77688 86.58 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93340 51.77695 86.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93306 51.77719 86.33 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93307 51.77726 86.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93303 51.77734 86.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -0.93293 51.77753 86.51 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -0.93235 51.77794 86.63 307.23
+OBJECT_SHARED Models/lib/cone.ac -0.93244 51.77786 86.81 0
+OBJECT_SHARED Models/lib/cone.ac -0.93388 51.77906 86.80 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.93461 51.77983 87.64 130.43
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.93516 51.77965 88.18 37.41
+OBJECT_SHARED Models/Transport/hatchback_green.ac -0.93535 51.77957 88.21 123.69
+OBJECT_SHARED Models/Transport/hatchback_black.ac -0.93243 51.77824 88.27 217.41
+OBJECT_SHARED Models/Misc/6barrels.ac -0.94483 51.77429 86.86 117.98
+OBJECT_SHARED Models/Misc/6barrels.ac -0.94572 51.77500 83.25 149.86
+# END dsf2stg

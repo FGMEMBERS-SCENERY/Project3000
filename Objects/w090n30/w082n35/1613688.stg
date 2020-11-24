@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.99578 35.94750 0.00 291.33
+OBJECT_SHARED Models/lib/industrial13x24.ac -81.99483 35.94703 831.88 284.57
+OBJECT_SHARED Models/lib/lamp10m.xml -81.99596 35.94767 829.97 20.21
+OBJECT_SHARED Models/lib/transformer3x3.ac -81.99620 35.94744 832.34 290.45
+OBJECT_SHARED Models/lib/lamp10m.xml -81.99487 35.94718 831.81 106.65
+OBJECT_SHARED Models/lib/lamp10m.xml -81.99549 35.94706 830.47 18.75
+OBJECT_SHARED Models/lib/trailer-fedex.ac -81.99509 35.94655 830.95 293.97
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99690 35.94836 829.36 220.36
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99680 35.94827 833.37 223.79
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99668 35.94817 833.26 233.52
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99658 35.94812 833.14 238.42
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99648 35.94808 833.02 247.35
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99636 35.94804 833.05 243.77
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99618 35.94797 832.89 251.63
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99607 35.94794 832.90 253.27
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99597 35.94792 832.72 257.34
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99581 35.94791 832.72 262.82
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99594 35.94779 832.64 259.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml -81.99562 35.94727 832.49 292.34
+OBJECT_SHARED Models/lib/cars2.ac -81.99516 35.94560 831.43 109.15
+OBJECT_SHARED Models/lib/cars2.ac -81.99525 35.94578 827.80 109.15
+OBJECT_SHARED Models/lib/cars2.ac -81.99533 35.94596 828.19 109.15
+OBJECT_SHARED Models/lib/cars2.ac -81.99540 35.94615 828.69 109.15
+OBJECT_SHARED Models/lib/cars2.ac -81.99547 35.94634 829.17 109.15
+OBJECT_SHARED Models/lib/cars2.ac -81.99556 35.94654 829.46 109.15
+OBJECT_SHARED Models/lib/cars2.ac -81.99563 35.94672 829.91 109.15
+OBJECT_SHARED Models/lib/cars6.ac -81.99608 35.94729 830.29 110.14
+# END dsf2stg

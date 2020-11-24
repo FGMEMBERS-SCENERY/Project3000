@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargoim.xml -85.02516 73.00384 0.00 0
+OBJECT_SHARED Models/Airport/cargoim.xml -85.02515 73.00380 30.42 0
+OBJECT_SHARED Models/Airport/cargoip.xml -85.02525 73.00381 30.42 0
+OBJECT_SHARED Models/Airport/cargoip.xml -85.02536 73.00381 30.38 0
+OBJECT_SHARED Models/Airport/cargobox.xml -85.02550 73.00380 30.34 0
+OBJECT_SHARED Models/Airport/cargobox.xml -85.02552 73.00377 30.30 0
+OBJECT_SHARED Models/lib/container6-HD.ac -85.02533 73.00375 30.30 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -85.02634 73.00418 30.38 52.36
+OBJECT_SHARED Models/lib/stack_of_cones.ac -85.02746 73.00406 30.59 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -85.02621 73.00417 30.02 143.64
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -85.02752 73.00406 30.62 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -85.02750 73.00407 30.02 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -85.02747 73.00408 30.02 135
+OBJECT_SHARED Models/lib/SmHangar.ac -85.02576 73.00408 30.02 54.4
+OBJECT_SHARED Models/lib/HorizTanks2.ac -85.03382 73.00558 30.62 143.78
+OBJECT_SHARED Models/lib/lamp10m.xml -85.02591 73.00411 29.10 54.5365
+OBJECT_SHARED Models/lib/lamp10m.xml -85.02562 73.00405 30.59 54.8657
+# END dsf2stg

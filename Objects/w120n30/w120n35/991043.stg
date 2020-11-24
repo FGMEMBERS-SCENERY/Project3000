@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -119.06947 35.09512 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -119.06962 35.09511 98.71 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.06962 35.09534 99.02 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -119.06945 35.09539 98.87 0
+OBJECT_SHARED Models/lib/farm19x12.ac -119.06964 35.09525 98.50 180.94
+OBJECT_SHARED Models/lib/shed8x10.ac -119.07501 35.09509 98.94 270.03
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -119.07554 35.09519 5.81 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -119.06962 35.09517 101.09 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -119.06968 35.09522 98.94 3.69
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.07456 35.09523 98.94 271.18
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.07456 35.09527 100.72 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -119.07556 35.09506 100.64 270.88
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -119.07492 35.09507 101.16 0
+OBJECT_SHARED Models/lib/LongRow.ac -119.07474 35.09578 100.81 270.89
+# END dsf2stg

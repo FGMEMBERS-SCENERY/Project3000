@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -91.88307 32.75580 0.00 -20.99
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -91.88328 32.75553 48.23 156.32
+OBJECT_SHARED Models/lib/office40x25.ac -91.88527 32.75711 48.09 0
+OBJECT_SHARED Models/lib/office32x25n.ac -91.88491 32.75969 47.04 270
+# END dsf2stg

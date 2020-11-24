@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac -123.92910 40.71892 0.00 181.48
+OBJECT_SHARED Models/Transport/hatchback_green.ac -123.92934 40.71902 831.58 268.68
+OBJECT_SHARED Models/Transport/hatchback_red.ac -123.92923 40.71896 833.58 0
+OBJECT_SHARED Models/lib/cars4.ac -123.92908 40.71932 833.58 271.39
+OBJECT_SHARED Models/lib/cars6.ac -123.92908 40.71921 836.05 272.42
+OBJECT_SHARED Models/lib/dGreenhse.ac -123.92905 40.71970 836.77 280.52
+OBJECT_SHARED Models/lib/farm19x12.ac -123.92874 40.71966 831.12 10.77
+# END dsf2stg

@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office40x25.ac -97.31786 33.00561 208.56 282.2
-OBJECT_SHARED Models/lib/office32x25n.ac -97.31797 33.00497 209.47 280.38
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31723 33.00474 114.56 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31727 33.00491 114.34 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31741 33.00488 114.38 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31745 33.00517 113.96 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31726 33.00520 113.92 0
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31726 33.00520 113.92 0
-OBJECT_SHARED Models/Airport/egkk_oil.xml -97.31666 33.00141 212.69 0
-OBJECT_SHARED Models/Airport/egkk_oil.xml -97.31671 33.00166 212.47 0
-OBJECT_SHARED Models/lib/office32x25.ac -97.31744 33.00166 212.75 189.87
-OBJECT_SHARED Models/lib/office65x50.ac -97.31534 33.00282 211.02 190.56
-OBJECT_SHARED Models/lib/office112x50.ac -97.31348 33.00448 208.54 100.41
+OBJECT_SHARED Models/lib/office40x25.ac -97.31786 33.00561 209.42 282.2
+OBJECT_SHARED Models/lib/office32x25n.ac -97.31797 33.00497 208.55 280.38
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31723 33.00474 114.47 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31727 33.00491 114.57 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31741 33.00488 114.34 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31745 33.00517 114.38 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31726 33.00520 113.96 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -97.31726 33.00520 113.96 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -97.31666 33.00141 208.92 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -97.31671 33.00166 212.69 0
+OBJECT_SHARED Models/lib/office32x25.ac -97.31744 33.00166 212.47 189.87
+OBJECT_SHARED Models/lib/office65x50.ac -97.31534 33.00282 212.75 190.56
+OBJECT_SHARED Models/lib/office112x50.ac -97.31348 33.00448 211.02 100.41
 # END dsf2stg

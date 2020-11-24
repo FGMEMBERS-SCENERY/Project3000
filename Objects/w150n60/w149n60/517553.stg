@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -148.72459 60.77694 0.00 131.46
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -148.72370 60.77702 10.91 132.85
+OBJECT_SHARED Models/lib/industrial15x22.ac -148.72412 60.77699 9.63 45.17
+OBJECT_SHARED Models/Airport/egkk_oil.xml -148.72380 60.77903 9.63 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -148.72697 60.77840 -77.78 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -148.72886 60.77872 -68.16 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -148.72796 60.77841 -61.17 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -148.72927 60.77821 -66.08 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -148.72748 60.77779 -66.27 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -148.72854 60.77775 -73.81 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -148.72970 60.77767 -71.55 0
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -148.72610 60.77920 -71.55 0
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -148.72848 60.78004 -67.96 0
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -148.72185 60.77999 -52.55 0
+OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac -148.72848 60.77929 -77.14 0
+OBJECT_SHARED Models/lib/lamp10m.xml -148.72451 60.77698 34.39 272.19
+OBJECT_SHARED Models/lib/lamp10m.xml -148.72416 60.77681 11.01 0
+OBJECT_SHARED Models/lib/prop_a.ac -148.72236 60.77603 10.48 190.64
+# END dsf2stg

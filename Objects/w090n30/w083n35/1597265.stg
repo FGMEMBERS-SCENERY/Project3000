@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office40x25.ac -82.64943 35.26994 0.00 271.134
+OBJECT_SHARED Models/lib/office40x25.ac -82.64924 35.26965 641.98 0.493927
+OBJECT_SHARED Models/lib/MedHangar.ac -82.64639 35.27066 641.26 100.008
+OBJECT_SHARED Models/lib/LongRow.ac -82.64440 35.27080 642.98 191.489
+OBJECT_SHARED Models/lib/LongRow.ac -82.64430 35.27044 641.40 192.376
+OBJECT_SHARED Models/lib/garage-small-white.ac -82.65254 35.26777 640.52 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -82.65254 35.26783 636.11 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -82.64578 35.27015 636.11 286.557
+OBJECT_SHARED Models/lib/prop_a.ac -82.64632 35.27003 641.46 12.8045
+OBJECT_SHARED Models/lib/prop_a.ac -82.64404 35.27031 641.33 190.492
+# END dsf2stg

@@ -1,16 +1,5 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Misc/picnic_table.ac -122.94811 48.62206 62.67 223.05
-OBJECT_SHARED Models/Misc/picnic_table.ac -122.94821 48.62207 62.67 184.14
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -122.94934 48.62131 70.49 183.52
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -122.94919 48.62127 70.49 95.83
-OBJECT_SHARED Models/lib/shed8x10.ac -122.94801 48.62182 74.54 233.53
-OBJECT_SHARED Models/lib/industrial13x24.ac -122.94812 48.62177 74.54 233.53
-OBJECT_SHARED Models/Transport/van_silver.ac -122.94791 48.62191 70.59 52.43
-OBJECT_SHARED Models/Transport/hatchback_red.ac -122.94793 48.62188 70.59 54.32
-OBJECT_SHARED Models/lib/coal_pile.ac -122.94800 48.62196 66.63 40.21
-OBJECT_SHARED Models/Misc/6barrels.ac -122.94806 48.62176 74.54 245.32
-OBJECT_SHARED Models/Misc/6barrels.ac -122.94813 48.62180 74.54 174.07
-OBJECT_SHARED Models/Misc/6barrels.ac -122.94812 48.62181 74.54 349.29
+OBJECT_SHARED Models/lib/SmHangar.ac -122.81339 48.50365 0.00 4.12003
 # END dsf2stg

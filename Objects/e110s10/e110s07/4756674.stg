@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac 110.37359 -6.97437 4.60 140.94
+OBJECT_SHARED Models/lib/LongRow.ac 110.37483 -6.97542 4.28 140.94
+OBJECT_SHARED Models/lib/LgMaint.ac 110.37403 -6.97461 4.62 230.59
+OBJECT_SHARED Models/lib/large-hangar.ac 110.37220 -6.97337 4.86 319.8
+OBJECT_SHARED Models/lib/lamp10m.xml 110.37293 -6.97373 3.28 230.89
+OBJECT_SHARED Models/lib/lamp10m.xml 110.37371 -6.97435 4.10 230.89
+OBJECT_SHARED Models/lib/lamp10m.xml 110.37437 -6.97487 4.27 230.89
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 110.37320 -6.96576 4.97 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 110.37374 -6.96622 0.84 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 110.37436 -6.96674 0.89 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 110.37494 -6.96723 1.05 0
+# END dsf2stg

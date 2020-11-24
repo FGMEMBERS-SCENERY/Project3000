@@ -1,13 +1,11 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/farm19x12.ac 170.98510 -42.71404 40.28 341.829
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 170.98582 -42.71507 42.11 37.8743
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 170.98516 -42.71457 40.59 309.341
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 170.98474 -42.71391 40.22 346.172
-OBJECT_SHARED Models/lib/cube16x10.ac 170.98447 -42.71382 40.14 71.1222
-OBJECT_SHARED Models/lib/citation.ac 170.98568 -42.71473 41.41 307.022
-OBJECT_SHARED Models/Aircraft/D328_services.xml 170.98532 -42.71435 40.45 75.894
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 170.98503 -42.71426 40.45 223.84
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 170.98559 -42.71488 41.63 218.239
+OBJECT_SHARED Models/lib/admin31x12.ac 170.98476 -42.71403 0.00 69.63
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 170.98582 -42.71507 40.19 37.87
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 170.98540 -42.71471 41.07 309.34
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 170.98446 -42.71383 40.48 346.17
+OBJECT_SHARED Models/lib/cube16x10.ac 170.98447 -42.71382 39.80 71.12
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 170.98534 -42.71471 39.80 216.89
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 170.98559 -42.71488 40.48 218.24
 # END dsf2stg

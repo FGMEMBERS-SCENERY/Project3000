@@ -1,0 +1,37 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 137.18934 36.64453 0.00 -14.08
+OBJECT_SHARED Models/lib/lamp10m.xml 137.18924 36.64411 23.33 -16.03
+OBJECT_SHARED Models/lib/lamp10m.xml 137.18890 36.64304 23.63 -14.63
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 137.18915 36.64253 24.44 347.98
+OBJECT_SHARED Models/lib/MedHangar.ac 137.18676 36.63993 24.82 347.36
+OBJECT_SHARED Models/lib/LongRow.ac 137.18821 36.64004 25.64 76.62
+OBJECT_SHARED Models/lib/CargoPodPkng.ac 137.18803 36.64110 26.19 255.78
+OBJECT_SHARED Models/lib/CargoPodPkng.ac 137.18789 36.64113 25.25 255.78
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 137.18892 36.64193 25.25 346.47
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 137.18880 36.64191 25.26 345.86
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac 137.18903 36.64200 25.26 346.29
+OBJECT_SHARED Models/lib/FireStationLg.ac 137.18707 36.64071 25.18 167.14
+OBJECT_SHARED Models/lib/HorizTanks2.ac 137.18746 36.64105 24.85 166.83
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 137.18747 36.64115 24.58 -13.41
+OBJECT_SHARED Models/lib/jetway_e8m.ac 137.18879 36.64419 24.39 24.99
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 137.18852 36.64317 24.29 335.18
+OBJECT_SHARED Models/lib/JetWayWallBase.ac 137.18852 36.64314 24.29 340.4
+OBJECT_SHARED Models/lib/lamp10m.xml 137.18729 36.64108 24.37 -13.28
+OBJECT_SHARED Models/lib/lamp10m.xml 137.18673 36.63972 24.48 -13.06
+OBJECT_SHARED Models/lib/lamp10m.xml 137.18686 36.64011 25.86 -57.85
+OBJECT_SHARED Models/lib/lamp10m.xml 137.18702 36.64050 25.41 -13.41
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 137.18946 36.64434 25.04 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 137.18902 36.64283 23.48 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 137.18881 36.64212 24.59 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 137.18848 36.64301 25.11 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 137.18857 36.64329 23.69 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 137.18883 36.64428 24.22 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 137.18897 36.64475 23.48 338.53
+OBJECT_SHARED Models/lib/belt_loader.ac 137.18897 36.64472 23.17 -22.14
+OBJECT_SHARED Models/lib/belt_loader.ac 137.18887 36.64425 23.17 -10.68
+OBJECT_SHARED Models/lib/belt_loader.ac 137.18856 36.64322 23.56 244.72
+OBJECT_SHARED Models/lib/chariot3curve.ac 137.18845 36.64296 24.29 90
+OBJECT_SHARED Models/lib/chariot3curve.ac 137.18859 36.64383 23.69 90
+# END dsf2stg

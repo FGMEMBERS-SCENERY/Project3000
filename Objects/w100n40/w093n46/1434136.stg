@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -92.80064 46.42054 0.00 319.045
+OBJECT_SHARED Models/lib/prop_a.ac -92.80071 46.42067 326.04 139.075
+OBJECT_SHARED Models/lib/shed10x50.ac -92.79964 46.42003 325.66 49.4231
+OBJECT_SHARED Models/lib/SmHangar.ac -92.80076 46.42010 327.29 319.613
+OBJECT_SHARED Models/lib/SmHangar.ac -92.80026 46.42052 326.45 319.556
+OBJECT_SHARED Models/lib/SmHangar.ac -92.80016 46.42000 326.29 140.247
+OBJECT_SHARED Models/lib/SmHangar.ac -92.79997 46.42015 326.99 139.214
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.79950 46.42005 326.85 315
+OBJECT_SHARED Models/lib/prop_a.ac -92.79940 46.42004 327.22 229.131
+OBJECT_SHARED Models/lib/cars7.ac -92.80135 46.41963 327.38 319.852
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.79964 46.42113 326.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.79963 46.42120 326.00 165.964
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.79957 46.42128 325.87 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.79962 46.42132 325.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.80123 46.42001 325.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.80180 46.41959 326.29 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.80165 46.41953 326.43 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.80085 46.41981 326.74 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.80087 46.41989 326.80 175.601
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.80077 46.41992 326.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -92.80085 46.41998 326.73 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -92.80050 46.42034 326.52 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -92.80019 46.42059 326.41 319.062
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -92.80066 46.42014 326.22 229.303
+OBJECT_SHARED Models/lib/lamp10m.xml -92.80090 46.42032 326.53 228.484
+OBJECT_SHARED Models/lib/lamp10m.xml -92.80020 46.42085 326.08 48.5868
+# END dsf2stg

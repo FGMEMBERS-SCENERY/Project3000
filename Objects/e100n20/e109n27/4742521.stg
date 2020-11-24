@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 109.30600 27.88517 0.00 229.4
+OBJECT_SHARED Models/lib/shed8x10.ac 109.30708 27.88594 702.45 136.67
+OBJECT_SHARED Models/lib/cube16x10.ac 109.30645 27.88547 701.59 317.91
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 109.30677 27.88518 702.10 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 109.30597 27.88436 702.39 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 109.30754 27.88430 703.36 116.57
+OBJECT_SHARED Models/lib/admin31x12.ac 109.30585 27.88513 703.13 138.22
+# END dsf2stg

@@ -1,13 +1,38 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/LongRow.ac 7.81595 53.70543 -0.42 10.1
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 7.81537 53.70562 -0.13 281
-OBJECT_SHARED Models/lib/cars7.ac 7.81576 53.70506 -0.43 190.83
-OBJECT_SHARED Models/lib/cars7.ac 7.81610 53.70506 -0.57 10.98
-OBJECT_SHARED Models/lib/cars7.ac 7.81556 53.70509 -0.35 9.04
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 7.81613 53.70579 -0.35 279.65
-OBJECT_SHARED Models/lib/office32x25n.ac 7.81582 53.70517 -0.48 100.94
-OBJECT_SHARED Models/lib/lamp10m.xml 7.81527 53.70546 -0.11 -80.31
-OBJECT_SHARED Models/lib/lamp10m.xml 7.81581 53.70549 -0.32 255.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81521 53.70534 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81560 53.70450 -0.10 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81570 53.70451 -0.81 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81580 53.70449 -0.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81590 53.70454 -0.80 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81602 53.70450 -0.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81608 53.70456 -0.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81633 53.70454 -0.75 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81620 53.70457 -0.62 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81630 53.70465 -0.79 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81621 53.70469 -0.83 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81623 53.70477 -1.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81612 53.70480 -1.21 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81620 53.70486 -1.15 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81606 53.70486 -1.10 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81601 53.70478 -1.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81594 53.70485 -1.08 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81585 53.70486 -1.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81583 53.70478 -0.87 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81570 53.70476 -0.96 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81571 53.70484 -0.88 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.81559 53.70480 -0.89 0
+OBJECT_SHARED Models/lib/cars7.ac 7.81535 53.70511 -0.81 190.83
+OBJECT_SHARED Models/lib/cars7.ac 7.81566 53.70514 -0.44 190.83
+OBJECT_SHARED Models/lib/cars7.ac 7.81600 53.70504 -0.58 10.72
+OBJECT_SHARED Models/lib/cars7.ac 7.81566 53.70516 -0.86 10.35
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.81613 53.70580 -0.50 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 7.81520 53.70542 -0.35 9.88406
+OBJECT_SHARED Models/Transport/hatchback_green.ac 7.81518 53.70547 -0.09 9.88406
+OBJECT_SHARED Models/lib/cars4.ac 7.81676 53.70525 -0.07 190.201
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.81679 53.70526 -1.13 11.097
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 7.81599 53.70578 -1.02 0
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac 7.81550 53.70554 -0.30 175.6
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 7.81563 53.70556 -0.18 190.2
 # END dsf2stg

@@ -1,19 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/FGRefuel02.xml -1.18230 50.65515 12.98 137.83
-OBJECT_SHARED Models/lib/fuel-truck.xml -1.18233 50.65459 13.18 270
-OBJECT_SHARED Models/Transport/van_red.ac -1.18644 50.64878 16.63 43.45
-OBJECT_SHARED Models/Transport/Norberttruck.xml -1.18228 50.65387 13.11 226.08
-OBJECT_SHARED Models/lib/lamp10m.xml -1.18286 50.65344 13.72 40.6
-OBJECT_SHARED Models/lib/lamp10m.xml -1.18213 50.65401 12.93 141.07
-OBJECT_SHARED Models/lib/lamp10m.xml -1.18348 50.65330 14.49 307.18
-OBJECT_SHARED Models/lib/lamp10m.xml -1.18423 50.65290 15.21 228.01
-OBJECT_SHARED Models/Transport/van_red.ac -1.18624 50.64890 16.26 38.29
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -1.18424 50.64880 13.96 66.8
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -1.18491 50.64929 14.35 125.91
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -1.18282 50.65363 13.74 217.57
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -1.18445 50.65264 15.27 342.8
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -1.18424 50.65254 14.95 321.84
-OBJECT_SHARED Models/lib/cars6.ac -1.18327 50.65393 14.38 212.2
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -1.18230 50.65515 0.00 137.83
+OBJECT_SHARED Models/lib/fuel-truck.xml -1.18233 50.65459 13.47 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -1.18644 50.64878 13.68 43.45
+OBJECT_SHARED Models/Transport/Norberttruck.xml -1.18228 50.65387 16.45 226.08
+OBJECT_SHARED Models/lib/lamp10m.xml -1.18286 50.65344 13.56 40.6
+OBJECT_SHARED Models/lib/lamp10m.xml -1.18213 50.65401 14.15 141.07
+OBJECT_SHARED Models/lib/lamp10m.xml -1.18348 50.65330 13.39 307.18
+OBJECT_SHARED Models/lib/lamp10m.xml -1.18423 50.65290 14.93 228.01
+OBJECT_SHARED Models/Transport/hatchback_green.ac -1.18624 50.64890 15.59 38.29
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -1.18424 50.64880 16.12 66.8
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -1.18491 50.64929 13.84 125.91
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -1.18282 50.65363 14.16 217.57
+OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -1.18445 50.65264 14.16 342.8
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -1.18424 50.65254 15.60 321.84
+OBJECT_SHARED Models/lib/cars6.ac -1.18327 50.65393 15.25 212.2
 # END dsf2stg

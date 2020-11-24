@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -166.79922 68.34480 0.00 248.38
+OBJECT_SHARED Models/Misc/picnic_table.ac -166.79923 68.34544 0.64 108.44
+OBJECT_SHARED Models/lib/watertank3x1.ac -166.79740 68.34643 0.78 68.31
+OBJECT_SHARED Models/lib/stack_of_cones.ac -166.79830 68.34607 0.94 0
+OBJECT_SHARED Models/lib/propane-tank.ac -166.79816 68.34608 0.89 157.08
+OBJECT_SHARED Models/lib/cone.ac -166.79694 68.34630 0.89 0
+OBJECT_SHARED Models/lib/cone.ac -166.79701 68.34631 0.93 0
+# END dsf2stg

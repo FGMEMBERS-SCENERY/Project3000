@@ -1,0 +1,41 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 22.14630 70.48653 0.00 338.95
+OBJECT_SHARED Models/lib/lamp10m.xml 22.14696 70.48643 14.02 337.08
+OBJECT_SHARED Models/lib/lamp10m.xml 22.14739 70.48637 13.86 335.75
+OBJECT_SHARED Models/lib/lamp10m.xml 22.14737 70.48656 13.86 247.26
+OBJECT_SHARED Models/lib/lamp10m.xml 22.14734 70.48655 14.17 157.59
+OBJECT_SHARED Models/lib/lamp10m.xml 22.14652 70.48666 14.16 155.45
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14689 70.48570 14.79 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14705 70.48578 13.46 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14677 70.48562 13.57 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14631 70.48570 13.37 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14647 70.48582 13.56 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14639 70.48593 13.64 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14608 70.48588 13.77 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14591 70.48578 13.80 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14554 70.48597 13.71 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14564 70.48604 13.96 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml 22.14539 70.48587 13.95 0
+OBJECT_SHARED Models/lib/cube16x10.ac 22.14754 70.48624 13.35 247.37
+OBJECT_SHARED Models/lib/admin31x12.ac 22.14650 70.48644 13.55 66.17
+OBJECT_SHARED Models/lib/stack_of_cones.ac 22.14773 70.48621 13.86 155.96
+OBJECT_SHARED Models/lib/stack_of_cones.ac 22.14750 70.48593 13.55 90
+OBJECT_SHARED Models/lib/propane-tank.ac 22.14761 70.48593 13.14 155.24
+OBJECT_SHARED Models/Airport/cargobox.xml 22.14796 70.48622 13.13 156.64
+OBJECT_SHARED Models/Airport/cargobox.xml 22.14801 70.48625 13.53 181.4
+OBJECT_SHARED Models/Airport/cargobox.xml 22.14803 70.48619 13.69 133.59
+OBJECT_SHARED Models/Transport/hatchback_red.ac 22.14753 70.48660 13.53 66.83
+OBJECT_SHARED Models/Transport/hatchback_black.ac 22.14749 70.48657 14.17 68.53
+OBJECT_SHARED Models/Transport/hatchback_red.ac 22.14587 70.48652 14.17 155.97
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 22.14554 70.48657 14.01 156.84
+OBJECT_SHARED Models/Transport/hatchback_black.ac 22.14594 70.48651 14.11 156.8
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 22.14576 70.48654 14.01 338.86
+OBJECT_SHARED Models/Transport/van_red.ac 22.14612 70.48664 14.01 339.08
+OBJECT_SHARED Models/Transport/van_silver.ac 22.14604 70.48666 14.15 339.28
+OBJECT_SHARED Models/Transport/van_red.ac 22.14595 70.48667 14.26 157.11
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 22.14587 70.48668 14.26 339.64
+OBJECT_SHARED Models/Transport/hatchback_green.ac 22.14579 70.48669 14.26 339.41
+OBJECT_SHARED Models/Transport/hatchback_red.ac 22.14561 70.48671 14.25 336.61
+# END dsf2stg

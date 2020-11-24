@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.14518 33.23023 0.00 0.5
+OBJECT_SHARED Models/lib/hangar81x16.ac -98.14554 33.23103 314.01 350.91
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -98.14376 33.22612 312.61 259.26
+OBJECT_SHARED Models/lib/fuel-truck.xml -98.13912 33.23026 320.05 1.53973
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -98.13916 33.23035 321.96 273.43
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.14488 33.22403 321.45 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.14513 33.22409 323.61 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.14558 33.22367 323.56 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.14560 33.22375 324.37 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -98.14543 33.22385 324.22 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -98.14534 33.22373 323.98 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -98.14525 33.22375 325.11 136.82
+# END dsf2stg

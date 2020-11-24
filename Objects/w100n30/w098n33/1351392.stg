@@ -1,0 +1,52 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.77491 33.59715 0.50 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.77471 33.59677 327.54 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.77465 33.59677 326.63 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.77462 33.59699 326.63 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.77517 33.59936 327.18 0
+OBJECT_SHARED Models/lib/lamp10m.xml -97.77398 33.60299 330.91 358.83
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.77561 33.60406 333.94 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -97.77570 33.60388 334.19 0
+OBJECT_SHARED Models/lib/lamp10m.xml -97.77365 33.60308 333.65 359.05
+OBJECT_SHARED Models/lib/lamp10m.xml -97.77426 33.60483 333.22 89.63
+OBJECT_SHARED Models/lib/lamp10m.xml -97.77425 33.60442 333.40 88.9
+OBJECT_SHARED Models/lib/lamp10m.xml -97.77371 33.60362 333.54 180.77
+OBJECT_SHARED Models/lib/lamp10m.xml -97.77420 33.60407 333.36 90.56
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.77323 33.60397 333.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.77327 33.60441 333.09 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.77323 33.60403 333.11 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.77321 33.60410 333.09 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.77353 33.60374 333.09 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -97.77352 33.60354 333.26 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.77326 33.60434 333.25 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.77321 33.60437 333.12 0
+OBJECT_SHARED Models/lib/cars4.ac -97.77382 33.60384 333.06 269.13
+OBJECT_SHARED Models/lib/SmHangar.ac -97.77375 33.60287 333.40 1.65
+OBJECT_SHARED Models/lib/SmHangar.ac -97.77374 33.60266 333.30 2.29
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -97.77361 33.60496 333.21 41.42
+OBJECT_SHARED Models/lib/prop_a.ac -97.77380 33.60500 333.03 109.36
+OBJECT_SHARED Models/lib/prop_a.ac -97.77440 33.60336 333.12 269.91
+OBJECT_SHARED Models/lib/prop_a.ac -97.77418 33.60372 333.70 272.1
+OBJECT_SHARED Models/Transport/hatchback_black.ac -97.77392 33.60368 333.60 179.35
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -97.77366 33.60295 333.45 357.31
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -97.77351 33.60381 333.26 0
+OBJECT_SHARED Models/lib/propane-tank.ac -97.77353 33.60366 333.25 4.76
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -97.77341 33.60331 333.26 278.13
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77362 33.60309 333.15 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77365 33.60309 333.22 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77343 33.60319 333.28 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77343 33.60317 333.12 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77343 33.60307 333.12 90
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77343 33.60312 333.10 90
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77342 33.60302 333.10 90
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77344 33.60299 333.07 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77343 33.60322 333.07 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77343 33.60329 333.12 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77343 33.60326 333.15 270
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77342 33.60299 333.15 90
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77343 33.60332 333.07 90
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -97.77344 33.60337 333.15 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -97.77383 33.60364 333.17 0
+# END dsf2stg

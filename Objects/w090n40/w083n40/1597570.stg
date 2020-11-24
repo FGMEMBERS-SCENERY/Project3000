@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -82.46364 40.02273 0.00 180
+OBJECT_SHARED Models/lib/SmHangar.ac -82.46255 40.02274 266.47 356.65
+OBJECT_SHARED Models/lib/SmHangar.ac -82.46018 40.02363 266.21 2.58
+OBJECT_SHARED Models/lib/SmHangar.ac -82.46254 40.02292 265.43 356.45
+OBJECT_SHARED Models/lib/SmHangar.ac -82.46257 40.02258 266.25 356.32
+OBJECT_SHARED Models/lib/LongRow.ac -82.46004 40.02290 266.14 92.8
+OBJECT_SHARED Models/lib/LongRow.ac -82.46003 40.02276 265.47 92.8
+OBJECT_SHARED Models/lib/MedHangar.ac -82.45485 40.02357 265.47 312.6
+OBJECT_SHARED Models/lib/cars10.ac -82.46441 40.02356 264.25 269.31
+OBJECT_SHARED Models/lib/cars10.ac -82.46461 40.02329 267.07 90
+OBJECT_SHARED Models/lib/cars10.ac -82.46476 40.02329 267.06 90
+OBJECT_SHARED Models/lib/prop_a.ac -82.46233 40.02400 267.09 92.73
+OBJECT_SHARED Models/lib/prop_a.ac -82.46252 40.02399 266.15 90
+OBJECT_SHARED Models/Transport/van_silver.ac -82.46016 40.02269 266.24 202.62
+OBJECT_SHARED Models/Transport/hatchback_red.ac -82.46284 40.02327 265.50 270
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -82.46327 40.02332 266.42 66.04
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -82.46326 40.02328 266.64 104.04
+OBJECT_SHARED Models/lib/prop_a.ac -82.46303 40.02292 266.64 71.57
+OBJECT_SHARED Models/lib/prop_a.ac -82.46376 40.02312 266.39 180
+OBJECT_SHARED Models/lib/prop_a.ac -82.46375 40.02324 266.76 180
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.45976 40.02264 266.76 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.45987 40.02263 265.34 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.45998 40.02261 265.37 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.46011 40.02259 265.40 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.46261 40.02247 265.43 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.46264 40.02250 266.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.46435 40.02350 266.04 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.46435 40.02341 267.05 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.46435 40.02332 267.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -82.46462 40.02316 267.01 0
+# END dsf2stg

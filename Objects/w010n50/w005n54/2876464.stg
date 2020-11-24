@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac -4.95251 54.84754 0.00 326.89
+OBJECT_SHARED Models/lib/loader.ac -4.94396 54.84952 15.67 70.55
+OBJECT_SHARED Models/lib/loader.ac -4.94389 54.84950 14.77 70.55
+OBJECT_SHARED Models/lib/loader.ac -4.94403 54.84953 14.74 70.55
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -4.95149 54.84681 14.79 227.17
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -4.95174 54.84668 15.79 45
+OBJECT_SHARED Models/lib/HorizTanks2.ac -4.95150 54.84692 15.72 224.21
+OBJECT_SHARED Models/lib/HorizTanks2.ac -4.95191 54.84669 15.81 44.6
+OBJECT_SHARED Models/Transport/hatchback_black.ac -4.94458 54.84821 15.70 66.68
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -4.95041 54.84722 -80.30 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -4.95059 54.84713 -78.98 0
+OBJECT_SHARED Models/Transport/van_silver.ac -4.94461 54.84817 15.97 65.04
+OBJECT_SHARED Models/Transport/hatchback_red.ac -4.94484 54.84839 14.71 67.53
+OBJECT_SHARED Models/Transport/van_red.ac -4.94430 54.84826 14.90 338.34
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -4.94649 54.84782 14.63 228.6
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -4.94675 54.84795 15.35 227.32
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -4.94633 54.84791 15.47 228.4
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -4.94659 54.84804 15.31 227.41
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -4.94363 54.84938 15.45 337.71
+OBJECT_SHARED Models/Transport/hatchback_black.ac -4.94426 54.84824 14.66 339.41
+OBJECT_SHARED Models/Transport/hatchback_black.ac -4.94422 54.84824 14.58 337.01
+OBJECT_SHARED Models/Transport/van_silver.ac -4.94415 54.84822 14.56 337.29
+OBJECT_SHARED Models/Transport/van_silver.ac -4.94406 54.84823 14.54 341.18
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -4.94620 54.84979 14.52 95.19
+OBJECT_SHARED Models/lib/YellowTriangle2.xml -4.94640 54.84774 15.35 47.73
+# END dsf2stg

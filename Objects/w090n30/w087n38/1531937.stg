@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -86.64050 38.50396 0.00 144.93
+OBJECT_SHARED Models/lib/SmHangar.ac -86.63905 38.50427 235.56 14.21
+OBJECT_SHARED Models/lib/office3x10.ac -86.63888 38.50430 235.39 13.72
+OBJECT_SHARED Models/lib/propane-tank.ac -86.63875 38.50418 235.37 104.68
+OBJECT_SHARED Models/lib/cars7.ac -86.63996 38.50351 235.34 283.69
+OBJECT_SHARED Models/lib/cars10.ac -86.64021 38.50367 235.67 14.57
+OBJECT_SHARED Models/lib/LongRow.ac -86.64084 38.50299 235.61 193.48
+OBJECT_SHARED Models/lib/LongRow.ac -86.64094 38.50333 235.96 193.48
+OBJECT_SHARED Models/lib/transformer3x3.ac -86.64037 38.50340 235.79 12.8
+OBJECT_SHARED Models/lib/prop_a.ac -86.63948 38.50381 235.74 105.42
+# END dsf2stg

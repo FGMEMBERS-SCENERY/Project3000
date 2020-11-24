@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -82.15060 32.06085 0.00 72.13
+OBJECT_SHARED Models/lib/shed10x50.ac -82.15102 32.06083 56.09 71.83
+OBJECT_SHARED Models/lib/canopy38x8.ac -82.14876 32.05975 55.71 71.91
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -82.14840 32.05965 57.34 71.91
+# END dsf2stg

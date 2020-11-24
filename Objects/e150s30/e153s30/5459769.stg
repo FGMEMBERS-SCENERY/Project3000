@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 153.42055 -29.10220 0.00 80.11
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 153.42121 -29.10131 7.17 352.11
+OBJECT_SHARED Models/lib/SmHangar.ac 153.42157 -29.10195 7.23 85.24
+OBJECT_SHARED Models/lib/large-hangar.ac 153.42162 -29.10231 7.48 172.42
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 153.42125 -29.10186 6.98 347.76
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 153.42129 -29.10165 7.20 164.86
+OBJECT_SHARED Models/Airport/cargoip.xml 153.42109 -29.10138 7.21 294.85
+OBJECT_SHARED Models/Airport/cargoip.xml 153.42107 -29.10137 7.22 322.82
+OBJECT_SHARED Models/Airport/cargoip.xml 153.42104 -29.10137 7.22 0
+# END dsf2stg

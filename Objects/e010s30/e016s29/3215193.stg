@@ -1,0 +1,57 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44344 -28.58592 0.00 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44344 -28.58564 4.80 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44322 -28.58563 4.39 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44344 -28.58595 4.51 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44344 -28.58567 4.80 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44322 -28.58567 4.39 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44322 -28.58570 4.81 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44344 -28.58570 4.81 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44322 -28.58573 4.39 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44344 -28.58574 4.81 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44344 -28.58577 4.39 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44322 -28.58576 4.50 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44344 -28.58580 5.11 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44322 -28.58580 4.50 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44344 -28.58587 5.11 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44322 -28.58587 4.80 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44344 -28.58583 5.41 0.559998
+OBJECT_SHARED Models/lib/1car-stop.ac 16.44322 -28.58583 4.50 0.559998
+OBJECT_SHARED Models/lib/6space_wStop.ac 16.44322 -28.58612 5.11 179.57
+OBJECT_SHARED Models/lib/6space_wStop.ac 16.44344 -28.58609 5.69 359.57
+OBJECT_SHARED Models/Transport/hatchback_black.ac 16.44366 -28.58577 5.41 180.01
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.44456 -28.58701 4.42 173.97
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.44454 -28.58700 4.56 173.97
+OBJECT_SHARED Models/Misc/picnic_table.ac 16.44451 -28.58700 4.80 173.97
+OBJECT_SHARED Models/lib/office3x10.ac 16.44410 -28.58795 4.80 86.25
+OBJECT_SHARED Models/lib/office3x10.ac 16.44396 -28.58794 6.10 86.25
+OBJECT_SHARED Models/lib/2container-office.ac 16.44421 -28.58782 6.24 80.64
+OBJECT_SHARED Models/lib/garage-small-white.ac 16.44433 -28.58766 5.80 81.17
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 16.44404 -28.58711 -89.20 262.48
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 16.44402 -28.58558 5.78 1.07001
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 16.44402 -28.58562 4.42 1.07001
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 16.44402 -28.58567 4.42 1.07001
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 16.44401 -28.58571 4.42 1.07001
+OBJECT_SHARED Models/lib/belt_loader.ac 16.44391 -28.58571 4.42 180
+OBJECT_SHARED Models/lib/belt_loader.ac 16.44391 -28.58573 4.42 180
+OBJECT_SHARED Models/lib/belt_loader.ac 16.44391 -28.58573 4.42 180
+OBJECT_SHARED Models/lib/belt_loader.ac 16.44391 -28.58578 4.42 180
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 16.44341 -28.58587 4.43 269.31
+OBJECT_SHARED Models/Transport/van_red.ac 16.44341 -28.58580 4.80 269.31
+OBJECT_SHARED Models/Transport/van_red.ac 16.44341 -28.58576 4.50 269.31
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 16.44341 -28.58574 4.50 269.31
+OBJECT_SHARED Models/Transport/van_red.ac 16.44341 -28.58570 4.39 269.31
+OBJECT_SHARED Models/Transport/hatchback_black.ac 16.44341 -28.58567 4.39 269.31
+OBJECT_SHARED Models/Transport/hatchback_red.ac 16.44341 -28.58564 4.39 88.91
+OBJECT_SHARED Models/Transport/van_silver.ac 16.44325 -28.58567 4.39 88.91
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 16.44325 -28.58573 4.50 88.91
+OBJECT_SHARED Models/Transport/hatchback_green.ac 16.44325 -28.58576 4.50 88.91
+OBJECT_SHARED Models/Transport/hatchback_red.ac 16.44325 -28.58580 4.80 88.91
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 16.44325 -28.58587 4.80 88.91
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 16.44367 -28.58588 5.11 180.07
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 16.44392 -28.58566 4.43 179.42
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac 16.44392 -28.58567 4.42 179.42
+OBJECT_SHARED Models/lib/cars10.ac 16.44420 -28.58764 4.42 260.1
+# END dsf2stg

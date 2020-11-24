@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49998 38.33423 14.67 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49988 38.33434 14.67 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49981 38.33441 14.68 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49964 38.33459 14.69 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49947 38.33477 14.71 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49940 38.33485 14.72 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49930 38.33496 14.72 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49918 38.33508 14.73 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49909 38.33518 14.74 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49899 38.33528 14.75 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49935 38.33559 14.75 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49931 38.33546 14.74 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49933 38.33532 14.73 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49940 38.33520 14.74 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49953 38.33509 14.73 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49966 38.33499 14.72 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49975 38.33496 14.71 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49984 38.33497 14.71 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -75.49996 38.33502 14.70 0
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -75.49966 38.33625 14.16 323.21
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -75.49991 38.33598 14.21 323.21
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -75.49916 38.33595 14.20 323.21
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac -75.49941 38.33569 14.24 323.21
+OBJECT_SHARED Models/lib/transformer3x3.ac -75.49514 38.33481 12.85 142.86
+# END dsf2stg

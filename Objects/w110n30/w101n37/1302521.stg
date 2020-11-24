@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -100.71751 37.93003 0.00 0
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -100.71920 37.92290 877.33 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac -100.71940 37.92282 876.19 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -100.71940 37.92290 876.17 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -100.71940 37.92298 876.19 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -100.71901 37.92897 876.21 89.42
+OBJECT_SHARED Models/lib/HorizTanks2.ac -100.71998 37.92835 877.35 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -100.71998 37.92826 877.43 0
+OBJECT_SHARED Models/lib/fboModern1.ac -100.71954 37.92557 877.43 0.080002
+OBJECT_SHARED Models/lib/fboModern1.ac -100.72007 37.92791 876.90 0.080002
+OBJECT_SHARED Models/lib/FireStationLg.ac -100.71928 37.92505 877.36 180
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -100.71996 37.92652 876.61 0
+# END dsf2stg

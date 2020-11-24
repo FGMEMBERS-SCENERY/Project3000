@@ -1,14 +1,14 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 14.62201 53.39636 -0.54 253.54
-OBJECT_SHARED Models/lib/cars2.ac 14.62175 53.39625 -0.60 78.26
-OBJECT_SHARED Models/Transport/hatchback_black.ac 14.62201 53.39642 -0.54 254.42
-OBJECT_SHARED Models/Aircraft/Cessna172_red.ac 14.62233 53.39608 -0.75 223.85
-OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 14.62257 53.39592 -0.89 219.09
-OBJECT_SHARED Models/Trees/billboard-tree.xml 14.62184 53.39662 -0.41 0
-OBJECT_SHARED Models/lib/deciduous-tree.xml 14.62180 53.39652 -0.47 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 14.62172 53.39634 -0.60 0
-OBJECT_SHARED Models/lib/large-hangar.ac 14.61992 53.39658 -0.33 346.2
-OBJECT_SHARED Models/Airport/FGRefuel02.xml 14.62332 53.39613 -0.78 75.81
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 14.62201 53.39636 0.00 253.54
+OBJECT_SHARED Models/lib/cars2.ac 14.62175 53.39625 -0.54 78.26
+OBJECT_SHARED Models/Transport/hatchback_black.ac 14.62201 53.39642 -0.60 254.42
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 14.62233 53.39608 -0.54 223.85
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 14.62257 53.39592 -0.75 219.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.62184 53.39662 -0.89 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 14.62180 53.39652 -0.41 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 14.62172 53.39634 -0.47 0
+OBJECT_SHARED Models/lib/large-hangar.ac 14.61992 53.39658 -0.60 346.2
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 14.62332 53.39613 -0.33 75.81
 # END dsf2stg

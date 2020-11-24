@@ -1,0 +1,45 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/6space_wStop.ac -3.82269 43.42320 0.00 249.67
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -3.82519 43.42410 2.16 217.81
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -3.82145 43.42286 1.22 237.45
+OBJECT_SHARED Models/lib/container6-HD.ac -3.82131 43.42283 2.54 338.19
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -3.82486 43.42407 2.75 218.4
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -3.82391 43.42379 1.19 91.02
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -3.82427 43.42383 1.43 73.61
+OBJECT_SHARED Models/lib/cars10.ac -3.82262 43.42269 1.44 159.5
+OBJECT_SHARED Models/lib/cars10.ac -3.82283 43.42318 3.35 338.93
+OBJECT_SHARED Models/lib/SmHangar.ac -3.82684 43.42409 2.19 247.88
+OBJECT_SHARED Models/lib/SmHangar.ac -3.82717 43.42419 1.53 247.88
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -3.82195 43.42279 1.49 159.06
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -3.81879 43.42233 2.92 249.95
+OBJECT_SHARED Models/lib/cars7.ac -3.82258 43.42290 0.80 339.19
+OBJECT_SHARED Models/lib/cars10.ac -3.82236 43.42303 2.85 248.93
+OBJECT_SHARED Models/lib/cars7.ac -3.82276 43.42295 2.54 339.19
+OBJECT_SHARED Models/lib/FireStationLg.ac -3.82173 43.42297 2.66 69.36
+OBJECT_SHARED Models/lib/shed8x10.ac -3.82822 43.42467 2.37 65.64
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -3.82605 43.42409 1.28 69.94
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -3.82291 43.42269 1.37 341.57
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -3.82295 43.42270 3.40 338.75
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82651 43.42411 3.41 247.48
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82643 43.42428 1.46 247.48
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82609 43.42400 1.23 247.48
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82601 43.42416 1.49 247.48
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82570 43.42390 1.26 247.48
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82627 43.42360 1.58 250.41
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82607 43.42355 2.14 250.41
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82639 43.42375 2.25 204.1
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82590 43.42364 2.00 204.1
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82580 43.42351 2.06 204.1
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82302 43.42285 2.28 247.48
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82541 43.42382 3.19 247.48
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82561 43.42405 1.73 247.48
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82530 43.42410 1.29 249.79
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82405 43.42376 1.24 249.79
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82277 43.42342 1.43 249.79
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82194 43.42320 1.81 249.79
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82309 43.42142 2.04 -48.73
+OBJECT_SHARED Models/lib/lamp10m.xml -3.82262 43.42250 6.57 21.86
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -3.80473 43.42105 3.83 226.81
+# END dsf2stg

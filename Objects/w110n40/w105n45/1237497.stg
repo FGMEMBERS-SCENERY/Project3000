@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -104.57653 45.90972 0.00 57.381
+OBJECT_SHARED Models/lib/lamp10m.xml -104.57735 45.91021 1028.59 181.79
+OBJECT_SHARED Models/lib/lamp10m.xml -104.57688 45.91093 1028.12 -50.7111
+OBJECT_SHARED Models/lib/lamp10m.xml -104.57737 45.91048 1027.15 180
+OBJECT_SHARED Models/lib/lamp10m.xml -104.57739 45.91088 1027.71 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -104.57655 45.91104 1027.15 0
+OBJECT_SHARED Models/lib/farm19x12.ac -104.57668 45.91096 1027.00 82.6791
+OBJECT_SHARED Models/lib/dGreenhse.ac -104.57666 45.91104 1027.00 260.655
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -104.57697 45.91008 1027.00 30.6734
+OBJECT_SHARED Models/Transport/hatchback_black.ac -104.57736 45.91055 1028.24 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -104.57738 45.91061 1027.57 268.493
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -104.57762 45.91025 1027.57 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -104.57748 45.91021 1028.26 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -104.57730 45.91031 1028.12 0
+OBJECT_SHARED Models/lib/shed8x10.ac -104.57694 45.91122 1028.00 168.559
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -104.57746 45.91132 1026.72 168.579
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -104.57796 45.91138 1026.58 79.8021
+OBJECT_SHARED Models/lib/industrial13x24.ac -104.57751 45.91072 1026.67 271.45
+OBJECT_SHARED Models/lib/propane-tank.ac -104.57766 45.91041 1027.68 279.462
+OBJECT_SHARED Models/lib/SmHangar.ac -104.57689 45.90994 1028.12 48.9326
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.57684 45.91080 1028.43 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.57636 45.91082 1027.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.57607 45.91078 1027.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.57620 45.91062 1027.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.57633 45.91055 1027.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.57644 45.91048 1027.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.57661 45.91038 1027.41 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.57676 45.91032 1027.86 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -104.57696 45.91027 1028.00 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -104.57698 45.91001 1028.00 136.082
+# END dsf2stg

@@ -1,0 +1,10 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -97.46446 29.52659 0.00 20.12
+OBJECT_SHARED Models/lib/HorizTanks2.ac -97.46430 29.52681 104.04 200.91
+OBJECT_SHARED Models/lib/SmHangar.ac -97.46456 29.52707 104.39 202.31
+OBJECT_SHARED Models/lib/SmHangar.ac -97.46446 29.52711 104.20 202.05
+OBJECT_SHARED Models/lib/SmHangar.ac -97.46457 29.52732 104.32 202
+OBJECT_SHARED Models/lib/LongRow.ac -97.46396 29.52581 104.29 111.07
+# END dsf2stg

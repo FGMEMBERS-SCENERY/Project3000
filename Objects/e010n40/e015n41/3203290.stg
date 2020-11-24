@@ -1,12 +1,12 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/HorizTanks2.ac 15.54346 41.43093 76.01 113.75
-OBJECT_SHARED Models/lib/FireStationLg.ac 15.54464 41.43240 75.43 186.45
-OBJECT_SHARED Models/lib/SmHangar.ac 15.54413 41.43199 75.62 276.58
-OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 15.54394 41.43383 75.35 95.77
-OBJECT_SHARED Models/lib/lamp10m.xml 15.54401 41.43244 75.59 0
-OBJECT_SHARED Models/lib/lamp10m.xml 15.54394 41.43333 75.45 0
-OBJECT_SHARED Models/lib/lamp10m.xml 15.54369 41.43443 75.28 0
-OBJECT_SHARED Models/lib/lamp10m.xml 15.54356 41.43512 75.12 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac 15.54346 41.43093 0.00 113.75
+OBJECT_SHARED Models/lib/FireStationLg.ac 15.54464 41.43240 76.01 186.45
+OBJECT_SHARED Models/lib/SmHangar.ac 15.54413 41.43199 75.43 276.58
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 15.54394 41.43383 75.62 95.77
+OBJECT_SHARED Models/lib/lamp10m.xml 15.54401 41.43244 75.35 0
+OBJECT_SHARED Models/lib/lamp10m.xml 15.54394 41.43333 75.59 0
+OBJECT_SHARED Models/lib/lamp10m.xml 15.54369 41.43443 75.45 0
+OBJECT_SHARED Models/lib/lamp10m.xml 15.54356 41.43512 75.27 0
 # END dsf2stg

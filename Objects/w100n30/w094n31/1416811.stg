@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/large-hangar.ac -93.09597 31.73662 0.00 284.77
+OBJECT_SHARED Models/lib/SmHangar.ac -93.09650 31.74088 34.59 104.83
+OBJECT_SHARED Models/lib/SmHangar.ac -93.09593 31.74098 33.72 104.74
+OBJECT_SHARED Models/lib/SmHangar.ac -93.09761 31.74062 33.73 103.86
+OBJECT_SHARED Models/lib/MedHangar.ac -93.09492 31.73736 33.71 332.88
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.09425 31.73881 34.52 7.9
+OBJECT_SHARED Models/lib/LongRow.ac -93.09654 31.73798 34.32 12.98
+OBJECT_SHARED Models/lib/LongRow.ac -93.09707 31.73788 34.41 12.5
+OBJECT_SHARED Models/lib/MedHangar.ac -93.09395 31.73768 34.36 333.21
+OBJECT_SHARED Models/lib/SmHangar.ac -93.09440 31.73916 34.39 13.58
+OBJECT_SHARED Models/lib/SmHangar.ac -93.09422 31.73865 34.26 9.7
+OBJECT_SHARED Models/lib/fboModern1.ac -93.09597 31.73537 34.34 12.75
+# END dsf2stg

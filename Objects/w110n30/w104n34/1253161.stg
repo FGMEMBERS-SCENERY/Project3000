@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -103.59986 34.73037 0.00 135
+OBJECT_SHARED Models/Trees/billboard-tree.xml -103.59982 34.73013 1422.26 341.57
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -103.59993 34.73011 1422.11 149.04
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -103.60005 34.73004 1422.11 28.61
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -103.60011 34.73063 1422.05 161.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -103.60016 34.73108 1422.37 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -103.60045 34.73111 1422.63 244
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -103.59992 34.73089 1422.63 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -103.59966 34.73122 1422.53 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -103.59987 34.73110 1422.69 323.75
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -103.60184 34.73002 1422.63 296.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -103.61019 34.72151 1424.04 247.38
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -103.61015 34.72164 1423.65 329.74
+OBJECT_SHARED Models/Trees/billboard-tree.xml -103.61026 34.72161 1423.68 26.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -103.61033 34.72148 1423.68 31.26
+OBJECT_SHARED Models/lib/propane-tank.ac -103.60015 34.73001 1423.65 0.650002
+OBJECT_SHARED Models/lib/trailer-fedex.ac -103.59935 34.73120 1422.05 358.37
+OBJECT_SHARED Models/Transport/hatchback_black.ac -103.59974 34.73012 1421.70 186.34
+OBJECT_SHARED Models/Transport/hatchback_red.ac -103.59973 34.73007 1422.11 184.17
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -103.59972 34.73000 1422.11 187.91
+OBJECT_SHARED Models/lib/watertank3x1.ac -103.60013 34.73081 1422.05 94.29
+OBJECT_SHARED Models/lib/watertank3x1.ac -103.59909 34.73104 1422.47 176.42
+OBJECT_SHARED Models/lib/office3x10.ac -103.59938 34.73092 1421.59 270.02
+OBJECT_SHARED Models/lib/industrial13x24.ac -103.59923 34.73084 1421.54 2.9
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -103.59929 34.73100 1421.48 359.33
+OBJECT_SHARED Models/lib/garage-small-white.ac -103.60054 34.73098 1421.59 0.269997
+OBJECT_SHARED Models/lib/shed8x10.ac -103.60934 34.72226 1423.57 180.06
+OBJECT_SHARED Models/lib/SmHangar.ac -103.60178 34.72992 1423.76 179.66
+# END dsf2stg

@@ -1,0 +1,34 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -92.41203 41.74599 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -92.41170 41.74614 249.96 332.3
+OBJECT_SHARED Models/lib/lamp10m.xml -92.41232 41.74621 249.94 278.8
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -92.41133 41.74623 250.03 179.17
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -92.41222 41.74578 249.89 178.49
+OBJECT_SHARED Models/lib/shed8x10.ac -92.41243 41.74589 249.99 87.46
+OBJECT_SHARED Models/lib/propane-tank.ac -92.41154 41.74632 250.02 0.339996
+OBJECT_SHARED Models/lib/cars2.ac -92.41153 41.74623 249.87 270
+OBJECT_SHARED Models/lib/cars10.ac -92.41197 41.74631 249.92 0.330002
+OBJECT_SHARED Models/lib/cone.ac -92.41238 41.74596 249.96 147.86
+OBJECT_SHARED Models/lib/stack_of_cones.ac -92.41221 41.74602 250.01 147.86
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -92.41240 41.74596 249.98 89.71
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -92.41220 41.74596 250.01 147.86
+OBJECT_SHARED Models/Misc/6barrels.ac -92.41237 41.74605 249.98 147.86
+OBJECT_SHARED Models/Misc/6barrels.ac -92.41237 41.74606 250.01 147.86
+OBJECT_SHARED Models/lib/2vending-machines.ac -92.41238 41.74596 250.02 0.059998
+OBJECT_SHARED Models/lib/cone.ac -92.41199 41.74620 250.01 238.22
+OBJECT_SHARED Models/lib/stack_of_cones.ac -92.41209 41.74631 249.99 238.22
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -92.41200 41.74618 249.97 180.07
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -92.41199 41.74631 249.99 238.22
+OBJECT_SHARED Models/Misc/6barrels.ac -92.41213 41.74620 249.96 238.22
+OBJECT_SHARED Models/Misc/6barrels.ac -92.41214 41.74620 250.01 238.22
+OBJECT_SHARED Models/lib/2vending-machines.ac -92.41200 41.74619 250.01 90.42
+OBJECT_SHARED Models/lib/cone.ac -92.41197 41.74597 249.99 148.5
+OBJECT_SHARED Models/lib/stack_of_cones.ac -92.41172 41.74606 249.96 148.5
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -92.41200 41.74598 249.94 90.35
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -92.41171 41.74597 249.96 148.5
+OBJECT_SHARED Models/Misc/6barrels.ac -92.41195 41.74610 249.92 148.5
+OBJECT_SHARED Models/Misc/6barrels.ac -92.41195 41.74611 249.97 148.5
+OBJECT_SHARED Models/lib/2vending-machines.ac -92.41198 41.74598 249.97 0.700012
+# END dsf2stg

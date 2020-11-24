@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -71.90834 -41.74403 298.57 191.31
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac -71.90941 -41.74238 296.99 277.7
-OBJECT_SHARED Models/lib/garden-shed.ac -71.90643 -41.74302 298.51 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.90649 -41.74254 298.20 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.90659 -41.74259 298.13 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.90667 -41.74261 297.96 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.90673 -41.74245 297.76 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.90890 -41.74231 296.82 90
-OBJECT_SHARED Models/lib/farm19x12.ac -71.90910 -41.74207 296.72 324.62
-OBJECT_SHARED Models/lib/farm19x12.ac -71.90896 -41.74249 296.98 328.22
-OBJECT_SHARED Models/lib/farm19x12.ac -71.91000 -41.74199 296.81 146.85
-OBJECT_SHARED Models/lib/farm19x12.ac -71.90933 -41.74226 296.90 329.7
-OBJECT_SHARED Models/lib/SmHangar.ac -71.91099 -41.74131 296.65 48.77
+OBJECT_SHARED Models/Aircraft/Cessna172_red.ac -71.90834 -41.74403 0.00 191.31
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -71.90941 -41.74238 298.57 277.7
+OBJECT_SHARED Models/lib/garden-shed.ac -71.90643 -41.74302 296.98 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.90649 -41.74254 298.42 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.90659 -41.74259 302.65 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.90667 -41.74261 302.24 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.90673 -41.74245 301.57 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.90890 -41.74231 301.07 90
+OBJECT_SHARED Models/lib/farm19x12.ac -71.90910 -41.74207 296.82 324.62
+OBJECT_SHARED Models/lib/farm19x12.ac -71.90896 -41.74249 296.72 328.22
+OBJECT_SHARED Models/lib/farm19x12.ac -71.91000 -41.74199 296.97 146.85
+OBJECT_SHARED Models/lib/farm19x12.ac -71.90933 -41.74226 296.81 329.7
+OBJECT_SHARED Models/lib/SmHangar.ac -71.91099 -41.74131 296.90 48.77
 # END dsf2stg

@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 113.11216 41.12701 0.00 344.549
+OBJECT_SHARED Models/lib/container6-HD.ac 113.11196 41.12684 1404.90 153.551
+OBJECT_SHARED Models/Airport/cargobox.xml 113.11244 41.12688 1404.71 77.0052
+OBJECT_SHARED Models/lib/belt_loader.ac 113.11302 41.12697 1404.81 199.95
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 113.11238 41.12949 1404.66 155.557
+OBJECT_SHARED Models/lib/office40x25.ac 113.11476 41.12670 1407.11 98.5931
+OBJECT_SHARED Models/lib/shed8x10.ac 113.11559 41.12707 1403.70 197.464
+OBJECT_SHARED Models/lib/FireStationLg.ac 113.11492 41.12735 1403.77 97.7982
+OBJECT_SHARED Models/lib/lamp10m.xml 113.11322 41.12699 1404.30 0
+OBJECT_SHARED Models/lib/lamp10m.xml 113.10750 41.12635 1404.66 0
+OBJECT_SHARED Models/lib/transformer3x3.ac 113.08819 41.12756 1404.94 262.828
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 113.11431 41.12716 1409.91 98.1862
+# END dsf2stg

@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -93.64652 47.78068 0.00 27.68
+OBJECT_SHARED Models/lib/prop_a.ac -93.64670 47.78089 409.03 27.91
+OBJECT_SHARED Models/lib/prop_a.ac -93.64690 47.78088 409.10 208.07
+OBJECT_SHARED Models/lib/SmHangar.ac -93.64659 47.78191 409.10 30.84
+OBJECT_SHARED Models/Transport/van_silver.ac -93.64663 47.78195 409.41 349.92
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -93.64573 47.78040 409.44 300.8
+OBJECT_SHARED Models/lib/garden-shed.ac -93.64591 47.78080 408.92 29.17
+OBJECT_SHARED Models/lib/shed8x10.ac -93.64618 47.78080 409.06 119.13
+# END dsf2stg

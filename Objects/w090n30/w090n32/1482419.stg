@@ -1,0 +1,8 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -89.12402 32.80095 0.00 0
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -89.12029 32.80115 132.32 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -89.12437 32.80128 127.58 332.776
+OBJECT_SHARED Models/lib/cars14.ac -89.12455 32.80096 131.83 175.12
+# END dsf2stg

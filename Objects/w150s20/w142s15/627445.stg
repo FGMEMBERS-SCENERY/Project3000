@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -141.26617 -14.17560 0.00 180.66
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -141.26698 -14.17562 5.13 263.42
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -141.26534 -14.17606 5.06 119.19
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -141.26667 -14.17551 4.83 139.09
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -141.26652 -14.17545 5.11 264.81
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -141.26614 -14.17547 5.16 105.79
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -141.26599 -14.17559 5.15 273.01
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -141.26631 -14.17556 5.13 251.57
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -141.26604 -14.17574 5.13 56.89
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -141.26589 -14.17607 5.11 208.39
+OBJECT_SHARED Models/lib/watertank3x1.ac -141.26566 -14.17610 4.93 340.77
+OBJECT_SHARED Models/lib/office16x4n.ac -141.26592 -14.17586 4.93 63.99
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -141.26563 -14.17604 5.05 163.6
+OBJECT_SHARED Models/lib/lamp10m.xml -141.26641 -14.17573 5.00 63.94
+OBJECT_SHARED Models/lib/lamp10m.xml -141.26620 -14.17582 5.11 63.9
+# END dsf2stg

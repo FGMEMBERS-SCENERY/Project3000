@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac 145.71039 -36.96688 0.00 138.93
+OBJECT_SHARED Models/lib/transformer3x3.ac 145.70922 -36.96947 337.98 313.26
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 145.71005 -36.96899 332.97 0
+OBJECT_SHARED Models/lib/watertank3x1.ac 145.71018 -36.96677 333.00 350.61
+OBJECT_SHARED Models/Transport/hatchback_black.ac 145.70804 -36.96857 338.80 45
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 145.70794 -36.96861 334.63 323.47
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 145.70802 -36.96863 334.63 0
+OBJECT_SHARED Models/lib/shed8x10.ac 145.70663 -36.96634 334.63 317
+OBJECT_SHARED Models/lib/shed10x50.ac 145.70990 -36.96669 339.36 348.37
+OBJECT_SHARED Models/lib/prop_a.ac 145.70700 -36.96777 339.34 47.12
+# END dsf2stg

@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -98.08559 40.65055 0.00 1.54819
+OBJECT_SHARED Models/Transport/hatchback_black.ac -98.08562 40.65013 550.54 270
+OBJECT_SHARED Models/Transport/hatchback_green.ac -98.08567 40.65079 550.41 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -98.08561 40.65169 550.58 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -98.08564 40.65168 550.87 0
+OBJECT_SHARED Models/lib/prop_a.ac -98.08664 40.65552 550.87 346.534
+OBJECT_SHARED Models/lib/prop_a.ac -98.08486 40.64932 551.89 90
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -98.08603 40.65235 550.39 270.764
+OBJECT_SHARED Models/Misc/6barrels.ac -98.08608 40.65224 550.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.08707 40.65495 550.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.08742 40.65500 551.69 315.001
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.08752 40.65521 551.70 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.08743 40.65545 551.86 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.08746 40.65566 551.85 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -98.08826 40.64988 551.96 0
+OBJECT_SHARED Models/lib/SmHangar.ac -98.08541 40.65266 548.99 90
+OBJECT_SHARED Models/lib/office8x14.ac -98.08921 40.65063 551.19 0
+OBJECT_SHARED Models/lib/shed8x10.ac -98.08911 40.65090 549.08 90
+OBJECT_SHARED Models/lib/shed8x10.ac -98.08888 40.65104 549.39 180
+OBJECT_SHARED Models/lib/propane-tank.ac -98.08569 40.65022 549.51 0
+OBJECT_SHARED Models/lib/office6x12.ac -98.08808 40.65023 550.41 270
+OBJECT_SHARED Models/Transport/van_red.ac -98.08905 40.65074 549.32 358.268
+OBJECT_SHARED Models/Transport/van_silver.ac -98.08895 40.65070 549.28 344.476
+OBJECT_SHARED Models/Transport/hatchback_black.ac -98.08892 40.65077 549.31 342.474
+# END dsf2stg

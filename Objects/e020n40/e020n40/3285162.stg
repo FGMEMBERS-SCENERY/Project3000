@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml 20.74108 40.65300 0.00 163.2
+OBJECT_SHARED Models/Transport/hatchback_green.ac 20.74095 40.65300 827.90 196.27
+OBJECT_SHARED Models/lib/transformer3x3.ac 20.74104 40.65301 828.04 165.51
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 20.74037 40.65317 828.04 208.89
+OBJECT_SHARED Models/Trees/billboard-tree.xml 20.73996 40.65174 828.85 133.83
+# END dsf2stg

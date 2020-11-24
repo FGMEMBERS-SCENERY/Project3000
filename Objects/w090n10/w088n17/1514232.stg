@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -87.96521 17.91751 0.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac -87.96724 17.91557 3.45 320.75
+OBJECT_SHARED Models/lib/SmHangar.ac -87.96713 17.91565 3.75 320.71
+OBJECT_SHARED Models/lib/farm19x12.ac -87.96745 17.91662 3.75 121.86
+OBJECT_SHARED Models/lib/shed8x10.ac -87.97004 17.91510 3.15 121.68
+OBJECT_SHARED Models/lib/industrial15x22.ac -87.96624 17.91713 2.45 120.78
+OBJECT_SHARED Models/Trees/billboard-tree.xml -87.97194 17.91277 3.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -87.97229 17.91293 3.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -87.97252 17.91275 2.99 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -87.97183 17.91304 2.72 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -87.97216 17.91276 3.58 0
+OBJECT_SHARED Models/lib/farm19x12.ac -87.96967 17.91413 2.88 49.05
+OBJECT_SHARED Models/lib/shed8x10.ac -87.96917 17.91457 3.47 142.55
+OBJECT_SHARED Models/lib/industrial13x24.ac -87.96838 17.91469 2.92 142.39
+OBJECT_SHARED Models/lib/shed8x10.ac -87.96606 17.91636 2.98 210.84
+OBJECT_SHARED Models/Trees/billboard-tree.xml -87.96543 17.91651 3.41 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.96520 17.91701 4.08 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -87.96550 17.91655 3.48 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.96588 17.91642 4.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -87.96640 17.91611 3.43 0
+OBJECT_SHARED Models/lib/shed8x10.ac -87.96573 17.91656 3.51 28.35
+OBJECT_SHARED Models/lib/industrial13x24.ac -87.96664 17.91589 3.40 47.56
+OBJECT_SHARED Models/lib/cars14.ac -87.96463 17.91728 3.60 134.19
+# END dsf2stg

@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -104.98107 40.12201 0.00 1.07999
+OBJECT_SHARED Models/Transport/van_silver.ac -104.98119 40.12205 1510.19 65.96
+OBJECT_SHARED Models/Transport/hatchback_red.ac -104.98119 40.12213 1510.31 64.94
+OBJECT_SHARED Models/Transport/hatchback_green.ac -104.98119 40.12215 1510.31 66.8
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -104.98159 40.12222 1510.43 178.72
+OBJECT_SHARED Models/Transport/hatchback_red.ac -104.98151 40.12222 1511.09 197.02
+OBJECT_SHARED Models/Transport/van_red.ac -104.98107 40.12219 1511.09 0.019989
+OBJECT_SHARED Models/lib/office3x10.ac -104.98157 40.12206 1510.43 0.350006
+OBJECT_SHARED Models/lib/garden-shed.ac -104.98102 40.12219 1510.98 181.59
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -104.98135 40.12196 1510.43 89.31
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -104.98162 40.12223 1510.19 38.35
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -104.98158 40.12215 1511.09 90.24
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -104.98165 40.12221 1510.98 34.07
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -104.98135 40.12222 1511.09 34.99
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -104.98129 40.12222 1510.43 326.09
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -104.98124 40.12217 1510.43 124.59
+# END dsf2stg

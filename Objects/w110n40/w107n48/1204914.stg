@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -106.41455 48.85810 0.00 265.914
+OBJECT_SHARED Models/Transport/hatchback_black.ac -106.41433 48.85767 993.28 0
+OBJECT_SHARED Models/lib/SmHangar.ac -106.41438 48.85753 993.35 89.2985
+OBJECT_SHARED Models/lib/SmHangar.ac -106.41474 48.85750 993.25 90.673
+OBJECT_SHARED Models/Transport/Norberttruck.xml -106.41480 48.85780 992.81 270
+OBJECT_SHARED Models/lib/garage-small-white.ac -106.41915 48.85732 993.12 90
+OBJECT_SHARED Models/lib/LongRow.ac -106.41437 48.85805 991.73 90
+OBJECT_SHARED Models/lib/garden-shed.ac -106.41917 48.85739 993.62 85.5482
+OBJECT_SHARED Models/lib/prop_a.ac -106.41535 48.85756 991.80 184.279
+OBJECT_SHARED Models/Transport/van_red.ac -106.41455 48.85820 992.91 88.8767
+OBJECT_SHARED Models/lib/trailer-fedex.ac -106.41470 48.85833 993.25 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -106.41498 48.85760 993.25 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -106.41374 48.85776 992.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -106.41374 48.85827 993.42 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -106.41378 48.85808 993.72 0
+# END dsf2stg

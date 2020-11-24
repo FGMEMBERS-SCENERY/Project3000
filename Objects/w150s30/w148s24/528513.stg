@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars14.ac -147.66526 -23.88459 0.00 110.24
+OBJECT_SHARED Models/lib/cars7.ac -147.66510 -23.88476 2.84 287.49
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -147.66493 -23.88521 2.47 16.26
+OBJECT_SHARED Models/lib/LuggCartPkng.ac -147.66558 -23.88476 1.80 200.71
+OBJECT_SHARED Models/Airport/cargoim.xml -147.66513 -23.88481 3.34 0
+OBJECT_SHARED Models/Airport/cargoim.xml -147.66515 -23.88482 2.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -147.66620 -23.88508 2.47 315
+OBJECT_SHARED Models/Trees/billboard-tree.xml -147.66613 -23.88507 2.75 299.36
+OBJECT_SHARED Models/Trees/billboard-tree.xml -147.66607 -23.88505 2.75 302.91
+OBJECT_SHARED Models/Trees/billboard-tree.xml -147.66599 -23.88502 2.95 300.96
+OBJECT_SHARED Models/Trees/billboard-tree.xml -147.66495 -23.88468 2.95 72.9
+OBJECT_SHARED Models/Trees/billboard-tree.xml -147.66497 -23.88462 2.65 73.61
+OBJECT_SHARED Models/Trees/billboard-tree.xml -147.66499 -23.88456 2.84 79.38
+OBJECT_SHARED Models/Trees/billboard-tree.xml -147.66509 -23.88480 2.84 82.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -147.66502 -23.88449 2.47 82.57
+OBJECT_SHARED Models/lib/lamp10m.xml -147.66579 -23.88498 3.02 197.61
+OBJECT_SHARED Models/lib/lamp10m.xml -147.66471 -23.88458 2.95 -66.1
+OBJECT_SHARED Models/lib/lamp10m.xml -147.66471 -23.88460 2.84 41.79
+OBJECT_SHARED Models/lib/lamp10m.xml -147.66566 -23.88494 2.84 196.28
+OBJECT_SHARED Models/lib/stack_of_cones.ac -147.66603 -23.88530 3.14 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac -147.66549 -23.88502 2.39 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -147.66544 -23.88487 2.13 16.88
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -147.66564 -23.88494 2.30 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -147.66581 -23.88499 3.14 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -147.66469 -23.88488 2.95 15.21
+OBJECT_SHARED Models/lib/lamp10m.xml -147.66546 -23.88494 2.30 109.26
+OBJECT_SHARED Models/lib/lamp10m.xml -147.66602 -23.88543 2.30 197.12
+OBJECT_SHARED Models/lib/lamp10m.xml -147.66590 -23.88507 2.21 107.57
+OBJECT_SHARED Models/lib/lamp10m.xml -147.66507 -23.88504 2.75 15.59
+OBJECT_SHARED Models/lib/cube16x10.ac -147.66509 -23.88499 2.13 198.76
+OBJECT_SHARED Models/lib/admin31x12.ac -147.66574 -23.88491 2.13 107.68
+# END dsf2stg

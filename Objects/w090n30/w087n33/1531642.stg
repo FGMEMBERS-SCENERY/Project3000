@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_silver.ac -86.38001 33.96969 0.00 214.93
+OBJECT_SHARED Models/lib/prop_a.ac -86.38067 33.96985 333.14 32.17
+OBJECT_SHARED Models/lib/prop_a.ac -86.38099 33.97004 332.79 213.51
+OBJECT_SHARED Models/lib/cars4.ac -86.38031 33.96948 332.59 214.67
+OBJECT_SHARED Models/lib/cars6.ac -86.38066 33.96926 333.11 122.99
+OBJECT_SHARED Models/lib/office6x12.ac -86.38044 33.96954 333.01 304.59
+OBJECT_SHARED Models/lib/propane-tank.ac -86.37941 33.97029 333.06 36.03
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -86.37927 33.97060 333.05 218.52
+OBJECT_SHARED Models/lib/SmHangar.ac -86.37943 33.97035 332.90 215.86
+OBJECT_SHARED Models/lib/LongRow.ac -86.37959 33.96995 332.99 124.44
+OBJECT_SHARED Models/lib/LongRow.ac -86.37992 33.96977 333.20 124.44
+# END dsf2stg

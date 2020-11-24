@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac -143.33778 63.37042 0.00 40.6
+OBJECT_SHARED Models/lib/watertank3x1.ac -143.33928 63.37149 471.80 299.98
+OBJECT_SHARED Models/lib/watertank3x1.ac -143.33924 63.37145 471.45 300.07
+OBJECT_SHARED Models/Transport/Norberttruck.xml -143.33913 63.37128 471.45 213.69
+OBJECT_SHARED Models/lib/trailer-ups.ac -143.33797 63.37113 471.49 32.28
+OBJECT_SHARED Models/lib/office16x4n.ac -143.33745 63.36995 471.63 214.06
+OBJECT_SHARED Models/lib/coal_pile.ac -143.33881 63.37172 472.03 90
+OBJECT_SHARED Models/lib/coal_pile.ac -143.33864 63.37158 471.41 90
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -143.33938 63.37156 471.43 304.99
+# END dsf2stg

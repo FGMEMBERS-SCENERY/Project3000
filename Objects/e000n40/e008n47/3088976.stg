@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac 8.02637 47.31426 0.00 11.51
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.02608 47.31424 460.00 221.99
+OBJECT_SHARED Models/lib/lamp10m.xml 8.02651 47.31392 460.00 192.04
+OBJECT_SHARED Models/lib/lamp10m.xml 8.02640 47.31391 460.00 192.04
+OBJECT_SHARED Models/lib/2space_wStop.ac 8.02634 47.31428 460.00 100.67
+# END dsf2stg

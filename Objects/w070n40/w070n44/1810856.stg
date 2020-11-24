@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -69.86291 44.71765 0.00 230.47
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -69.86300 44.71773 77.94 140.72
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -69.86280 44.71761 77.97 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -69.86332 44.71813 77.91 19.04
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -69.86311 44.71818 78.04 18.48
+OBJECT_SHARED Models/Transport/van_red.ac -69.86322 44.71816 77.99 18.58
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -69.86291 44.71823 78.01 18.18
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -69.86320 44.71821 77.95 199.26
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -69.86327 44.71819 78.01 198.68
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -69.86341 44.71816 78.03 199.13
+OBJECT_SHARED Models/Transport/hatchback_black.ac -69.86337 44.71817 78.05 198.79
+OBJECT_SHARED Models/lib/20_spaces_dual.ac -69.86306 44.71822 78.05 288.99
+OBJECT_SHARED Models/lib/lamp10m.xml -69.86277 44.71759 77.99 49.84
+OBJECT_SHARED Models/lib/lamp10m.xml -69.86299 44.71771 77.91 51.94
+OBJECT_SHARED Models/lib/lamp10m.xml -69.86314 44.71780 77.97 82.82
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86063 44.71578 78.00 19.33
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86051 44.71550 76.68 18.17
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86079 44.71598 76.53 50.87
+OBJECT_SHARED Models/lib/LongRow.ac -69.86002 44.71478 76.84 110.93
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86387 44.71876 76.08 352.22
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86500 44.71822 78.05 79.46
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86480 44.71819 78.31 79.54
+OBJECT_SHARED Models/lib/LongRow.ac -69.86476 44.71839 78.29 79.49
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86231 44.71690 78.23 50.43
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86259 44.71707 77.63 49.33
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86215 44.71766 77.78 320.92
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86089 44.71623 77.71 9.61
+OBJECT_SHARED Models/lib/MedHangar.ac -69.86243 44.71737 76.97 50.91
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86186 44.71705 77.77 50.86
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86094 44.71644 77.55 10.92
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86111 44.71661 77.01 51.54
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86137 44.71677 77.14 51.4
+OBJECT_SHARED Models/lib/SmHangar.ac -69.86162 44.71692 77.30 51.54
+OBJECT_SHARED Models/lib/LongRow.ac -69.86141 44.71641 77.41 140.62
+OBJECT_SHARED Models/lib/LongRow.ac -69.86433 44.71823 77.18 79.45
+OBJECT_SHARED Models/lib/prop_a.ac -69.86074 44.71574 78.23 196.93
+OBJECT_SHARED Models/lib/prop_a.ac -69.86283 44.71728 76.68 136.97
+OBJECT_SHARED Models/lib/prop_a.ac -69.86502 44.71815 77.88 306.03
+# END dsf2stg

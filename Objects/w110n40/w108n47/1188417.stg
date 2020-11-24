@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -107.50120 47.10411 0.00 315
+OBJECT_SHARED Models/Misc/picnic_table.ac -107.50180 47.10425 957.58 27.6
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -107.50171 47.10406 957.22 0
+OBJECT_SHARED Models/lib/lamp10m.xml -107.50155 47.10417 956.99 212.91
+OBJECT_SHARED Models/Transport/van_silver.ac -107.50127 47.10414 957.06 143.75
+OBJECT_SHARED Models/Transport/hatchback_black.ac -107.50125 47.10413 957.58 137.73
+OBJECT_SHARED Models/lib/propane-tank.ac -107.50151 47.10416 957.58 208.07
+OBJECT_SHARED Models/lib/SmHangar.ac -107.50176 47.10416 957.06 31.4
+# END dsf2stg

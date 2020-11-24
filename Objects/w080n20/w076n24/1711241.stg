@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.52393 24.15383 0.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.52391 24.15384 -1000.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.52372 24.15387 -1000.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.52371 24.15387 -1000.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.52356 24.15390 -1000.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -75.52355 24.15390 -1000.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.51739 24.15624 -1000.00 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.51721 24.15630 2.19 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.51710 24.15601 1.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.51723 24.15581 2.71 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.51717 24.15557 3.25 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.51760 24.15552 3.89 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.51766 24.15567 4.60 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.51777 24.15575 4.22 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -75.51790 24.15620 4.13 0
+OBJECT_SHARED Models/lib/garage-small-white.ac -75.52491 24.14840 3.16 178.47
+# END dsf2stg

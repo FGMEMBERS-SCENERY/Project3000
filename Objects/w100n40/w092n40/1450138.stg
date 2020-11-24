@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -91.43488 40.46402 0.00 40.76
+OBJECT_SHARED Models/lib/fboModern1.ac -91.43295 40.46364 200.26 48
+OBJECT_SHARED Models/lib/prop_a.ac -91.43401 40.46380 200.68 42.95
+OBJECT_SHARED Models/Transport/van_red.ac -91.43283 40.46450 200.41 164.41
+OBJECT_SHARED Models/Transport/van_red.ac -91.43277 40.46449 199.93 348.47
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -91.43166 40.46414 199.93 322.5
+OBJECT_SHARED Models/Transport/hatchback_black.ac -91.43153 40.46408 200.13 325.49
+OBJECT_SHARED Models/Transport/hatchback_green.ac -91.43156 40.46410 200.09 323.5
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -91.43163 40.46413 200.11 323.62
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -91.43159 40.46411 200.11 323.87
+OBJECT_SHARED Models/lib/office40x25.ac -91.43328 40.46410 200.11 137.65
+OBJECT_SHARED Models/lib/LongRow.ac -91.43141 40.46288 200.39 55.23
+OBJECT_SHARED Models/lib/LongRow.ac -91.43217 40.46331 200.60 49.58
+OBJECT_SHARED Models/lib/SmHangar.ac -91.43108 40.46271 200.78 331.38
+OBJECT_SHARED Models/lib/SmHangar.ac -91.43504 40.46397 200.56 128.96
+OBJECT_SHARED Models/lib/MedHangar.ac -91.43393 40.46424 200.25 47.72
+OBJECT_SHARED Models/lib/SmHangar.ac -91.43229 40.46393 200.30 137.93
+OBJECT_SHARED Models/lib/MedHangar.ac -91.43464 40.46414 200.41 128.97
+# END dsf2stg

@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -80.20684 33.58863 0.00 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -80.20679 33.58862 28.95 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -80.20700 33.58790 28.95 258
+OBJECT_SHARED Models/lib/transformer3x3.ac -80.20701 33.58766 28.54 169.32
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20606 33.58918 28.46 295.76
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20610 33.58936 29.87 301.27
+OBJECT_SHARED Models/Trees/billboard-tree.xml -80.20643 33.58935 29.96 299.31
+OBJECT_SHARED Models/lib/lamp10m.xml -80.20641 33.58856 29.66 78.06
+OBJECT_SHARED Models/lib/lamp10m.xml -80.20670 33.58867 29.26 -8.92999
+OBJECT_SHARED Models/lib/lamp10m.xml -80.20689 33.58786 29.07 255.9
+OBJECT_SHARED Models/lib/propane-tank.ac -80.20633 33.58914 28.59 350.49
+OBJECT_SHARED Models/lib/transformer3x3.ac -80.20604 33.58855 29.62 262.32
+OBJECT_SHARED Models/lib/MedHangar.ac -80.20651 33.58809 29.57 348
+OBJECT_SHARED Models/lib/MedHangar.ac -80.20665 33.58901 28.92 350.49
+OBJECT_SHARED Models/lib/LongRow.ac -80.20694 33.58685 29.20 347.52
+OBJECT_SHARED Models/lib/LongRow.ac -80.20683 33.58721 28.15 347.52
+OBJECT_SHARED Models/lib/trailer-fedex.ac -80.20625 33.59019 28.34 171.25
+OBJECT_SHARED Models/lib/trailer-fedex.ac -80.20625 33.59016 30.21 171.25
+OBJECT_SHARED Models/lib/trailer-fedex.ac -80.20626 33.59013 30.11 171.25
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -80.20570 33.58844 30.07 350.06
+OBJECT_SHARED Models/lib/cars4.ac -80.20617 33.58870 29.78 270.19
+OBJECT_SHARED Models/lib/cars6.ac -80.20654 33.58855 29.50 349.61
+# END dsf2stg

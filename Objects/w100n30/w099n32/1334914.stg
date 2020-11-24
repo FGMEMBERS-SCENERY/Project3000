@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -98.32791 32.06896 0.00 169.24
+OBJECT_SHARED Models/lib/cone.ac -98.32806 32.06891 452.23 169.24
+OBJECT_SHARED Models/lib/stack_of_cones.ac -98.32794 32.06904 452.19 232.85
+OBJECT_SHARED Models/Misc/6barrels.ac -98.32810 32.06899 452.23 118.9
+OBJECT_SHARED Models/lib/2vending-machines.ac -98.32807 32.06892 452.44 21.44
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -98.32773 32.06902 452.19 169.24
+OBJECT_SHARED Models/lib/cone.ac -98.32788 32.06897 452.02 169.24
+OBJECT_SHARED Models/lib/stack_of_cones.ac -98.32776 32.06909 452.23 232.85
+OBJECT_SHARED Models/Misc/6barrels.ac -98.32792 32.06905 452.37 118.9
+OBJECT_SHARED Models/lib/2vending-machines.ac -98.32789 32.06898 452.23 21.44
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -98.32756 32.06908 452.23 169.24
+OBJECT_SHARED Models/lib/cone.ac -98.32771 32.06903 452.16 169.24
+OBJECT_SHARED Models/lib/stack_of_cones.ac -98.32759 32.06915 452.02 232.85
+OBJECT_SHARED Models/Misc/6barrels.ac -98.32774 32.06911 452.41 118.9
+OBJECT_SHARED Models/lib/2vending-machines.ac -98.32771 32.06903 452.26 21.44
+OBJECT_SHARED Models/lib/cone.ac -98.32820 32.07003 452.02 349.4
+OBJECT_SHARED Models/lib/stack_of_cones.ac -98.32842 32.06988 453.19 53.01
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -98.32845 32.06994 452.94 349.4
+OBJECT_SHARED Models/Misc/6barrels.ac -98.32816 32.06995 452.82 299.06
+OBJECT_SHARED Models/lib/2vending-machines.ac -98.32819 32.07003 453.19 201.6
+OBJECT_SHARED Models/lib/cone.ac -98.32801 32.06966 453.19 259.26
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -98.32807 32.06979 453.26 259.26
+OBJECT_SHARED Models/Misc/6barrels.ac -98.32813 32.06962 453.31 18.7
+OBJECT_SHARED Models/Misc/6barrels.ac -98.32815 32.06962 453.08 289.92
+OBJECT_SHARED Models/lib/2vending-machines.ac -98.32801 32.06966 453.12 111.46
+OBJECT_SHARED Models/lib/SmHangar.ac -98.32798 32.06957 453.26 201.06
+OBJECT_SHARED Models/lib/SmHangar.ac -98.32831 32.06959 453.04 111.06
+OBJECT_SHARED Models/lib/SmHangar.ac -98.32727 32.06919 453.06 21.06
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -98.32782 32.06959 452.12 291.06
+OBJECT_SHARED Models/Transport/hatchback_black.ac -98.32852 32.06887 452.95 21.14
+OBJECT_SHARED Models/Transport/hatchback_red.ac -98.32855 32.06886 452.41 21.14
+OBJECT_SHARED Models/lib/canopy18x8.ac -98.32854 32.06886 452.38 292
+OBJECT_SHARED Models/lib/coal_pile.ac -98.32837 32.06971 452.41 90
+OBJECT_SHARED Models/Transport/hatchback_green.ac -98.32804 32.06947 452.94 19.33
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -98.32752 32.06910 452.81 87.03
+# END dsf2stg

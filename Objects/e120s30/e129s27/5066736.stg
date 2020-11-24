@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office6x12.ac 129.13010 -26.17206 0.00 294.01
+OBJECT_SHARED Models/lib/office16x4n.ac 129.13004 -26.17193 628.18 296.23
+OBJECT_SHARED Models/Transport/hatchback_red.ac 129.12983 -26.17215 628.21 190.89
+OBJECT_SHARED Models/Transport/hatchback_green.ac 129.12990 -26.17213 628.18 202.66
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 129.12992 -26.17211 628.18 202.66
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 129.12995 -26.17211 628.18 202.66
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 129.13023 -26.17206 628.18 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 129.13021 -26.17186 628.18 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 129.12975 -26.17198 628.21 0
+# END dsf2stg

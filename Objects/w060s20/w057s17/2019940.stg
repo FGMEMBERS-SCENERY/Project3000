@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -56.42010 -16.49480 0.00 90.78
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -56.42011 -16.49437 122.42 90.78
+OBJECT_SHARED Models/lib/transformer3x3.ac -56.41995 -16.49399 123.10 337.23
+OBJECT_SHARED Models/lib/transformer3x3.ac -56.42001 -16.49413 122.25 151.39
+OBJECT_SHARED Models/lib/cars6.ac -56.41992 -16.49442 122.26 90.4855
+OBJECT_SHARED Models/lib/transformer3x3.ac -56.42087 -16.49393 122.29 180
+OBJECT_SHARED Models/lib/transformer3x3.ac -56.42089 -16.49389 122.47 184.24
+OBJECT_SHARED Models/lib/transformer3x3.ac -56.42070 -16.49374 122.47 185.84
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -56.42112 -16.49430 121.71 268.76
+OBJECT_SHARED Models/lib/FireStationLg.ac -56.42110 -16.49419 122.56 178.98
+# END dsf2stg

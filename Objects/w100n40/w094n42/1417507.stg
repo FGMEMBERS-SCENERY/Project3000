@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04235 42.54944 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04259 42.54966 323.91 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04250 42.54972 324.13 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04258 42.54983 323.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04138 42.54972 324.17 90
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04101 42.54977 323.73 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04100 42.54972 323.83 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04231 42.54969 323.72 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04189 42.54966 323.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04210 42.54967 323.61 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04227 42.54984 323.61 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04228 42.54998 323.68 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -93.04176 42.54972 323.82 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -93.04100 42.54992 323.66 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -93.04214 42.55007 323.94 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -93.04138 42.55011 324.03 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -93.04156 42.55011 324.27 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -93.04180 42.55007 324.26 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -93.04189 42.55011 324.17 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.04181 42.55049 324.12 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -93.04181 42.55038 324.67 90
+OBJECT_SHARED Models/Transport/hatchback_black.ac -93.04158 42.54989 324.55 247.17
+OBJECT_SHARED Models/Transport/van_silver.ac -93.04151 42.54993 324.00 66.09
+OBJECT_SHARED Models/Transport/van_silver.ac -93.04158 42.54995 324.02 246.9
+OBJECT_SHARED Models/lib/lamp10m.xml -93.04131 42.54997 324.00 180.43
+OBJECT_SHARED Models/lib/lamp10m.xml -93.04131 42.54987 324.12 180.43
+OBJECT_SHARED Models/lib/lamp10m.xml -93.04155 42.54986 323.98 -0.570007
+OBJECT_SHARED Models/lib/lamp10m.xml -93.04155 42.54995 324.02 -0.570007
+# END dsf2stg

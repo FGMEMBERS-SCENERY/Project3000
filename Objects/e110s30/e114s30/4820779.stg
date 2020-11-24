@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 114.92797 -29.29269 -95.00 0
+OBJECT_SHARED Models/lib/SmHangar.ac 114.92666 -29.29279 4.59 178.525
+OBJECT_SHARED Models/lib/SmHangar.ac 114.92665 -29.29245 4.54 178.525
+OBJECT_SHARED Models/lib/shed8x10.ac 114.92795 -29.29253 4.43 0
+OBJECT_SHARED Models/Transport/van_silver.ac 114.92650 -29.29394 4.51 272.911
+OBJECT_SHARED Models/lib/prop_a.ac 114.92675 -29.29277 4.75 28.6105
+OBJECT_SHARED Models/lib/cars6.ac 114.92679 -29.29445 4.54 179.453
+# END dsf2stg

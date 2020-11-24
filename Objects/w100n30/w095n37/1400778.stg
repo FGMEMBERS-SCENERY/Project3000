@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -94.49393 37.15112 289.94 0
+OBJECT_SHARED Models/lib/office32x25.ac -94.49421 37.15134 293.68 179.98
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -94.49432 37.15107 293.63 0
+# END dsf2stg

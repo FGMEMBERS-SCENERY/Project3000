@@ -1,0 +1,31 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 21.16164 46.67688 0.00 185.23
+OBJECT_SHARED Models/lib/shed8x10.ac 21.15920 46.67685 82.42 104.33
+OBJECT_SHARED Models/lib/FireStationLg.ac 21.16097 46.67811 82.20 2.14
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 21.16093 46.67582 82.39 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 21.16105 46.67582 82.30 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 21.16116 46.67583 82.32 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac 21.16136 46.67731 82.33 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 21.16000 46.67682 82.41 86.52
+OBJECT_SHARED Models/Transport/hatchback_black.ac 21.16020 46.67691 82.27 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 21.16013 46.67665 82.29 274.61
+OBJECT_SHARED Models/lib/coal_pile.ac 21.16137 46.67706 82.27 24.61
+OBJECT_SHARED Models/lib/coal_pile.ac 21.16133 46.67706 82.41 94.59
+OBJECT_SHARED Models/lib/coal_pile.ac 21.16135 46.67703 82.40 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 21.16101 46.67623 82.40 94.76
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 21.16097 46.67654 82.34 94.76
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 21.16070 46.67726 82.36 4.09
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 21.16067 46.67696 82.36 93.81
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 21.16160 46.67698 82.34 5.29001
+OBJECT_SHARED Models/lib/office40x25.ac 21.16124 46.67661 82.42 5.62
+OBJECT_SHARED Models/lib/MedHangar.ac 21.16035 46.67648 82.38 5.15
+OBJECT_SHARED Models/lib/cars10.ac 21.16177 46.67631 82.29 274.77
+OBJECT_SHARED Models/Misc/picnic_table.ac 21.16066 46.67606 82.43 5.01999
+OBJECT_SHARED Models/Misc/picnic_table.ac 21.16021 46.67671 82.31 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 21.16021 46.67677 82.28 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 21.16020 46.67683 82.28 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 21.16042 46.67665 82.28 5.17001
+OBJECT_SHARED Models/lib/stack_of_cones.ac 21.16168 46.67665 82.30 0
+# END dsf2stg

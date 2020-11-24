@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -107.91378 48.36862 0.00 180.446
+OBJECT_SHARED Models/lib/propane-tank.ac -107.91238 48.36854 686.00 273.576
+OBJECT_SHARED Models/lib/HorizTanks2.ac -107.91140 48.36838 686.01 91.273
+OBJECT_SHARED Models/lib/SmHangar.ac -107.91304 48.36886 686.01 90
+OBJECT_SHARED Models/lib/LongRow.ac -107.91329 48.36874 686.01 270.501
+OBJECT_SHARED Models/lib/lamp10m.xml -107.91266 48.36816 686.01 86.8203
+OBJECT_SHARED Models/lib/lamp10m.xml -107.91241 48.36842 686.00 182.121
+# END dsf2stg

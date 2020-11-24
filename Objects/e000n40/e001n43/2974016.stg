@@ -1,0 +1,28 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars2.ac 1.10691 43.00688 0.00 26.61
+OBJECT_SHARED Models/lib/cars2.ac 1.10670 43.00680 410.12 26.08
+OBJECT_SHARED Models/lib/cars4.ac 1.10690 43.00699 410.55 205.35
+OBJECT_SHARED Models/Transport/van_silver.ac 1.10388 43.00888 410.02 119.63
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 1.10405 43.00874 409.07 116.02
+OBJECT_SHARED Models/lib/MedHangar.ac 1.10632 43.00653 409.40 26.79
+OBJECT_SHARED Models/lib/SmHangar.ac 1.10596 43.00686 411.42 28.18
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 1.10574 43.00716 411.26 28.01
+OBJECT_SHARED Models/lib/SmHangar.ac 1.10451 43.00834 411.05 28.63
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.10551 43.00744 410.00 125.54
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 1.10554 43.00739 410.96 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.10554 43.00740 410.94 147.93
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.10705 43.00676 410.94 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.10694 43.00675 410.03 246.8
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.10685 43.00671 410.31 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.10671 43.00581 410.45 239.04
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.10657 43.00597 411.68 239.04
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.10642 43.00611 411.65 239.04
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.10688 43.00693 411.72 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.10679 43.00689 410.17 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.10501 43.00761 410.31 270
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 1.10669 43.00687 410.92 270
+OBJECT_SHARED Models/lib/prop_a.ac 1.10376 43.00817 410.43 120.02
+OBJECT_SHARED Models/lib/prop_a.ac 1.10620 43.00638 410.21 116.21
+# END dsf2stg

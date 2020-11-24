@@ -1,0 +1,40 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48793 31.77300 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48777 31.77307 94.42 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48805 31.77318 94.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48808 31.77331 94.63 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48765 31.77314 94.78 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48767 31.77331 94.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48785 31.77340 94.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48773 31.77345 95.00 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48756 31.77359 95.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48771 31.77368 95.28 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48757 31.77377 95.38 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48772 31.77384 95.49 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48752 31.77410 95.48 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48764 31.77426 95.76 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48780 31.77419 95.93 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48784 31.77428 95.87 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48791 31.77452 95.94 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48805 31.77446 96.07 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -94.48338 31.78067 96.08 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -94.48359 31.78056 96.80 350.85
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -94.48353 31.78057 96.81 45.08
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -94.48328 31.78075 96.79 96.55
+OBJECT_SHARED Models/Transport/hatchback_red.ac -94.48329 31.78079 96.85 100.2
+OBJECT_SHARED Models/Transport/hatchback_green.ac -94.48329 31.78090 96.85 97.13
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -94.48347 31.78097 96.94 144.38
+OBJECT_SHARED Models/lib/coal_pile.ac -94.48338 31.78066 97.20 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -94.48337 31.78089 96.80 4.56
+OBJECT_SHARED Models/lib/shed8x10.ac -94.48339 31.78077 97.00 4.4
+OBJECT_SHARED Models/lib/shed8x10.ac -94.48766 31.77411 96.86 0
+OBJECT_SHARED Models/lib/SmHangar.ac -94.48360 31.78070 95.78 274.18
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -94.48359 31.78087 96.86 3.86
+OBJECT_SHARED Models/lib/farm19x12.ac -94.48765 31.77405 97.11 90
+OBJECT_SHARED Models/lib/garden-shed.ac -94.48751 31.77429 95.78 0
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.48771 31.77455 95.91 284.25
+OBJECT_SHARED Models/lib/industrial13x24.ac -94.48796 31.77438 96.06 14.25
+OBJECT_SHARED Models/lib/shed8x10.ac -94.48783 31.77327 96.03 284.54
+# END dsf2stg

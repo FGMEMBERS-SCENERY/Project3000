@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -114.52734 33.86393 0.00 6.23
+OBJECT_SHARED Models/lib/garden-shed.ac -114.52732 33.86277 91.04 270
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52740 33.86563 90.86 208.61
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52746 33.86586 91.60 270
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52755 33.86595 91.68 329.04
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52753 33.86592 91.49 90
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52751 33.86589 91.49 354.81
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52767 33.86518 91.49 0
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52765 33.86523 91.42 180
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52762 33.86524 91.42 0
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52759 33.86523 91.42 0
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52731 33.86398 91.42 270
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52726 33.86387 91.09 167.47
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52698 33.86383 91.04 90
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52696 33.86384 90.98 0
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52696 33.86385 90.98 0
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52700 33.86386 91.04 326.31
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52706 33.86386 91.04 180
+OBJECT_SHARED Models/Airport/cargobox.xml -114.52713 33.86386 91.04 274.57
+OBJECT_SHARED Models/Transport/van_red.ac -114.52713 33.86311 91.04 233.51
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -114.52723 33.86385 90.97 351.03
+OBJECT_SHARED Models/lib/SmHangar.ac -114.52733 33.86510 91.04 187.48
+OBJECT_SHARED Models/lib/SmHangar.ac -114.52750 33.86615 91.46 268.01
+OBJECT_SHARED Models/lib/SmHangar.ac -114.52743 33.86526 91.49 273.83
+OBJECT_SHARED Models/lib/SmHangar.ac -114.52750 33.86536 91.52 98.19
+OBJECT_SHARED Models/lib/SmHangar.ac -114.52769 33.86583 91.54 87.81
+OBJECT_SHARED Models/lib/SmHangar.ac -114.52766 33.86616 91.47 265.29
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -114.52760 33.86563 91.49 355.39
+# END dsf2stg

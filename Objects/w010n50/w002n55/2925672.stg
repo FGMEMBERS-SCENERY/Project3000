@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -1.89564 55.67882 0.00 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.89574 55.67820 23.09 281.74
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.89572 55.67815 25.22 281.74
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.89570 55.67810 24.97 281.74
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.89569 55.67805 24.89 281.74
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.89567 55.67800 24.85 281.74
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.89565 55.67795 24.61 281.74
+OBJECT_SHARED Models/Misc/picnic_table.ac -1.89563 55.67790 24.50 281.74
+OBJECT_SHARED Models/lib/cars10.ac -1.89562 55.67843 24.26 7.29999
+OBJECT_SHARED Models/lib/cars10.ac -1.89493 55.67849 24.46 187.28
+OBJECT_SHARED Models/lib/cars10.ac -1.89484 55.67834 20.23 187.28
+OBJECT_SHARED Models/lib/cars6.ac -1.89534 55.67830 20.26 187.28
+OBJECT_SHARED Models/lib/cars4.ac -1.89513 55.67847 23.07 7.29999
+OBJECT_SHARED Models/lib/cars4.ac -1.89542 55.67845 21.49 187.28
+OBJECT_SHARED Models/lib/cars4.ac -1.89569 55.67859 23.11 7.13
+OBJECT_SHARED Models/lib/cars10.ac -1.89549 55.67860 24.29 7.13
+# END dsf2stg

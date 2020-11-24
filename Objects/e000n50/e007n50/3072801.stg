@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac 7.26509 50.51051 0.00 327.1
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 7.26545 50.51037 205.02 320.71
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.25328 50.50760 205.06 0
+OBJECT_SHARED Models/lib/cone.ac 7.25392 50.50774 209.74 0
+OBJECT_SHARED Models/lib/cone.ac 7.25383 50.50776 209.50 0
+OBJECT_SHARED Models/lib/cone.ac 7.25378 50.50776 209.46 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 7.25318 50.50803 209.47 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 7.25387 50.50791 209.51 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 7.25558 50.50774 209.37 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 7.25388 50.50768 208.79 0
+OBJECT_SHARED Models/lib/stack_of_cones.ac 7.25320 50.50766 209.51 0
+OBJECT_SHARED Models/lib/office40x25.ac 7.26522 50.51044 209.70 56.89
+OBJECT_SHARED Models/lib/propane-tank.ac 7.25375 50.50766 205.04 0
+# END dsf2stg

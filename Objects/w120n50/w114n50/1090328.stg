@@ -1,0 +1,48 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -113.75599 50.45510 0.00 -1.04001
+OBJECT_SHARED Models/lib/lamp10m.xml -113.75599 50.45528 1044.18 -3.57999
+OBJECT_SHARED Models/lib/lamp10m.xml -113.75791 50.45461 1044.12 181.94
+OBJECT_SHARED Models/lib/lamp10m.xml -113.75672 50.45480 1043.83 247.75
+OBJECT_SHARED Models/lib/lamp10m.xml -113.75725 50.45491 1044.05 -86.7
+OBJECT_SHARED Models/lib/lamp10m.xml -113.75660 50.45432 1044.02 -11.13
+OBJECT_SHARED Models/lib/lamp10m.xml -113.75659 50.45439 1044.03 0
+OBJECT_SHARED Models/lib/lamp10m.xml -113.75691 50.45459 1044.07 93.9
+OBJECT_SHARED Models/lib/lamp10m.xml -113.75736 50.45455 1044.12 181.85
+OBJECT_SHARED Models/lib/prop_a.ac -113.75679 50.45389 1044.11 180
+OBJECT_SHARED Models/lib/prop_a.ac -113.75680 50.45403 1043.77 183.36
+OBJECT_SHARED Models/lib/prop_a.ac -113.75677 50.45417 1043.85 176.04
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75820 50.45468 1043.98 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75836 50.45465 1043.82 0
+OBJECT_SHARED Models/lib/prop_a.ac -113.75659 50.45488 1043.83 86.88
+OBJECT_SHARED Models/lib/prop_a.ac -113.75676 50.45489 1044.02 77.29
+OBJECT_SHARED Models/lib/prop_a.ac -113.75694 50.45495 1044.02 87.06
+OBJECT_SHARED Models/lib/prop_a.ac -113.75715 50.45496 1044.02 92.97
+OBJECT_SHARED Models/lib/prop_a.ac -113.75737 50.45498 1043.98 127.04
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75728 50.45431 1043.98 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75742 50.45436 1044.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75759 50.45435 1044.07 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75766 50.45445 1043.82 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75778 50.45439 1043.82 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75687 50.45482 1043.82 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75703 50.45484 1044.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75723 50.45484 1044.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75740 50.45484 1044.05 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75760 50.45486 1044.05 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75777 50.45487 1043.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75798 50.45489 1043.72 270
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75772 50.45472 1043.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75853 50.45463 1043.82 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -113.75871 50.45463 1043.59 0
+OBJECT_SHARED Models/lib/farm19x12.ac -113.75749 50.45458 1043.59 90
+OBJECT_SHARED Models/lib/industrial13x24.ac -113.75585 50.45508 1044.12 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -113.75662 50.45435 1044.18 356.1
+OBJECT_SHARED Models/Airport/cargobox.xml -113.75652 50.45446 1044.07 0
+OBJECT_SHARED Models/Airport/cargobox.xml -113.75654 50.45446 1044.11 0
+OBJECT_SHARED Models/Airport/cargobox.xml -113.75656 50.45446 1044.11 0
+OBJECT_SHARED Models/lib/garden-shed.ac -113.75656 50.45441 1044.11 357.75
+OBJECT_SHARED Models/lib/garden-shed.ac -113.75653 50.45451 1044.07 357.75
+OBJECT_SHARED Models/lib/garden-shed.ac -113.75660 50.45441 1044.11 357.75
+OBJECT_SHARED Models/lib/garden-shed.ac -113.75663 50.45431 1044.07 352.78
+# END dsf2stg

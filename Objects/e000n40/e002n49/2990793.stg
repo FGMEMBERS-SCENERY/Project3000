@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/F-15-lowres.ac 2.31039 49.16406 0.00 170.53
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 2.31286 49.16546 35.77 170.37
+OBJECT_SHARED Models/lib/industrial13x24.ac 2.31214 49.16526 38.99 260.37
+OBJECT_SHARED Models/lib/garage-small-white.ac 2.31147 49.16533 38.78 260.37
+OBJECT_SHARED Models/lib/garage-small-white.ac 2.31238 49.16520 38.90 260.37
+# END dsf2stg

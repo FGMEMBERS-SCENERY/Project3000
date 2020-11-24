@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/coal_pile.ac -99.80968 30.93103 0.00 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -99.80966 30.93116 585.28 115.21
+OBJECT_SHARED Models/lib/SmHangar.ac -99.80948 30.93097 585.29 203.88
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -99.80958 30.93171 585.02 160.53
+OBJECT_SHARED Models/Transport/van_silver.ac -99.80931 30.93053 585.16 324.03
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -99.80964 30.93081 584.73 175.93
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -99.80969 30.93078 585.13 207.13
+OBJECT_SHARED Models/Transport/hatchback_green.ac -99.80973 30.93077 585.25 207.13
+OBJECT_SHARED Models/Transport/van_red.ac -99.80961 30.93128 585.25 114.73
+OBJECT_SHARED Models/lib/lamp10m.xml -99.80930 30.93114 585.17 205.73
+OBJECT_SHARED Models/lib/lamp10m.xml -99.80894 30.93051 584.75 24.56
+OBJECT_SHARED Models/lib/lamp10m.xml -99.80975 30.93112 584.25 294.44
+OBJECT_SHARED Models/lib/lamp10m.xml -99.80991 30.93146 585.28 204.82
+OBJECT_SHARED Models/lib/prop_a.ac -99.80900 30.93060 585.58 114.75
+OBJECT_SHARED Models/lib/prop_a.ac -99.80913 30.93055 584.36 114.75
+OBJECT_SHARED Models/lib/prop_a.ac -99.80909 30.93109 584.49 295.05
+# END dsf2stg

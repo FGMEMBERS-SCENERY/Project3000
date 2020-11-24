@@ -1,0 +1,12 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/10_spaces_dual.ac -90.49675 41.45118 177.72 359.93
+OBJECT_SHARED Models/lib/office112x50.ac -90.49531 41.45144 176.12 269.43
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -90.49306 41.45103 178.29 47.73
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -90.49152 41.45101 175.15 42.8
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -90.49107 41.45198 174.72 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -90.49207 41.45199 174.61 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -90.49248 41.45199 175.33 225
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -90.49328 41.45200 175.46 225
+# END dsf2stg

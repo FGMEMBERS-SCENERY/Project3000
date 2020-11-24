@@ -1,0 +1,25 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -86.68971 38.01466 0.00 304.92
+OBJECT_SHARED Models/lib/prop_a.ac -86.68944 38.01476 196.73 28.27
+OBJECT_SHARED Models/lib/SmHangar.ac -86.68954 38.01463 196.80 134.62
+OBJECT_SHARED Models/lib/SmHangar.ac -86.68946 38.01457 197.00 134.62
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -86.68869 38.01462 197.00 47.59
+OBJECT_SHARED Models/lib/cars7.ac -86.68789 38.01419 197.45 21.56
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.68834 38.01557 198.48 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.68838 38.01545 196.93 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.68827 38.01537 197.01 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.68814 38.01541 197.19 0
+OBJECT_SHARED Models/lib/LongRow.ac -86.68917 38.01438 196.79 227.86
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.69491 38.02053 197.94 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.69506 38.02046 184.95 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.69473 38.02038 184.84 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.69482 38.02029 185.15 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.69491 38.02021 185.18 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.69502 38.02018 185.21 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.69515 38.02037 185.15 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.69517 38.02027 184.87 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.69512 38.02021 184.95 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.69478 38.02050 185.09 0
+# END dsf2stg

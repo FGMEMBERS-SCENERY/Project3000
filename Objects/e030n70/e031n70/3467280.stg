@@ -1,0 +1,35 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4space_wStop.ac 31.04033 70.35626 0.00 14.46
+OBJECT_SHARED Models/lib/4space_wStop.ac 31.04027 70.35634 9.55 14.46
+OBJECT_SHARED Models/lib/4space_wStop.ac 31.04010 70.35657 9.55 14.46
+OBJECT_SHARED Models/lib/4space_wStop.ac 31.04015 70.35649 9.35 14.46
+OBJECT_SHARED Models/lib/lamp10m.xml 31.04038 70.35620 9.40 103.61
+OBJECT_SHARED Models/lib/lamp10m.xml 31.04023 70.35640 9.60 104.64
+OBJECT_SHARED Models/lib/lamp10m.xml 31.04019 70.35645 9.50 104.62
+OBJECT_SHARED Models/lib/lamp10m.xml 31.04007 70.35661 9.40 104.18
+OBJECT_SHARED Models/lib/lamp10m.xml 31.04038 70.35691 9.35 285.54
+OBJECT_SHARED Models/lib/lamp10m.xml 31.04074 70.35646 8.92 288.66
+OBJECT_SHARED Models/lib/lamp10m.xml 31.04081 70.35637 9.16 286.82
+OBJECT_SHARED Models/lib/lamp10m.xml 31.04098 70.35616 9.19 334.19
+OBJECT_SHARED Models/lib/SmHangar.ac 31.03991 70.35716 9.25 193.93
+OBJECT_SHARED Models/lib/SmHangar.ac 31.04017 70.35719 8.77 193.93
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 31.04047 70.35604 8.61 193.98
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 31.04029 70.35622 9.71 283.13
+OBJECT_SHARED Models/Transport/hatchback_black.ac 31.04025 70.35627 9.64 282.98
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 31.04021 70.35632 9.60 284.68
+OBJECT_SHARED Models/Transport/van_silver.ac 31.04018 70.35635 9.60 103.71
+OBJECT_SHARED Models/Transport/hatchback_red.ac 31.04018 70.35637 9.60 284.87
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 31.04007 70.35650 9.50 283.44
+OBJECT_SHARED Models/Transport/hatchback_green.ac 31.04004 70.35653 9.45 282.79
+OBJECT_SHARED Models/Transport/van_silver.ac 31.04002 70.35658 9.49 284.44
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac 31.04127 70.35597 9.40 187.43
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 31.04054 70.35676 9.25 285.71
+OBJECT_SHARED Models/lib/stack_of_cones.ac 31.04101 70.35617 8.98 93.81
+OBJECT_SHARED Models/lib/stack_of_cones.ac 31.04142 70.35592 9.25 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 31.04122 70.35598 9.28 14.6868
+OBJECT_SHARED Models/lib/watertank3x1.ac 31.04061 70.35686 9.31 14.57
+OBJECT_SHARED Models/lib/propane-tank.ac 31.04014 70.35706 8.80 194.46
+OBJECT_SHARED Models/lib/HorizTanks2.ac 31.04146 70.35590 8.81 284.41
+# END dsf2stg

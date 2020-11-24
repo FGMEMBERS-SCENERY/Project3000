@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -132.37783 56.48421 0.00 56.7
+OBJECT_SHARED Models/lib/SmHangar.ac -132.37911 56.48464 8.23 60.71
+OBJECT_SHARED Models/lib/SmHangar.ac -132.38131 56.48535 7.48 59.52
+OBJECT_SHARED Models/lib/MedHangar.ac -132.38171 56.48589 6.90 239.7
+OBJECT_SHARED Models/lib/lamp10m.xml -132.37943 56.48505 6.30 237.26
+OBJECT_SHARED Models/lib/lamp10m.xml -132.38000 56.48534 6.68 237.26
+OBJECT_SHARED Models/lib/lamp10m.xml -132.38137 56.48576 6.49 237.26
+OBJECT_SHARED Models/lib/lamp10m.xml -132.38218 56.48609 6.00 237.26
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -132.37775 56.48436 5.95 149.83
+OBJECT_SHARED Models/Transport/hatchback_black.ac -132.37778 56.48438 7.54 152.08
+OBJECT_SHARED Models/Transport/hatchback_red.ac -132.37887 56.48463 7.54 57.79
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -132.37884 56.48466 7.48 60.77
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -132.37925 56.48479 7.28 239.45
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -132.37927 56.48476 7.08 236.92
+OBJECT_SHARED Models/Transport/van_red.ac -132.38007 56.48515 7.08 153.44
+OBJECT_SHARED Models/Transport/van_silver.ac -132.38030 56.48513 6.88 233.88
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -132.38025 56.48517 6.88 236.06
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -132.38061 56.48545 6.68 238.069
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -132.37996 56.48524 6.71 238.13
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -132.38076 56.48552 6.68 239.82
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -132.37927 56.48488 6.53 161.85
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -132.37932 56.48490 6.88 157.44
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -132.37921 56.48493 6.88 244.68
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -132.37926 56.48495 6.88 241.11
+OBJECT_SHARED Models/Misc/6barrels.ac -132.38045 56.48548 6.88 0
+OBJECT_SHARED Models/lib/cars7.ac -132.38020 56.48453 6.11 238.38
+OBJECT_SHARED Models/lib/cars14.ac -132.38083 56.48474 11.93 238.63
+OBJECT_SHARED Models/lib/cars14.ac -132.37967 56.48434 11.67 238.63
+OBJECT_SHARED Models/lib/cars14.ac -132.37968 56.48448 12.32 238.63
+OBJECT_SHARED Models/lib/cars14.ac -132.38057 56.48478 11.93 238.63
+OBJECT_SHARED Models/lib/cars14.ac -132.37947 56.48463 11.44 59.04
+OBJECT_SHARED Models/lib/cars14.ac -132.38045 56.48494 7.48 59.04
+OBJECT_SHARED Models/lib/RampParking.xml -132.37607 56.48431 7.26 56.84
+OBJECT_SHARED Models/lib/RampParking.xml -132.38135 56.48602 7.04 234.72
+OBJECT_SHARED Models/lib/RampParking.xml -132.38105 56.48624 5.64 233.62
+# END dsf2stg

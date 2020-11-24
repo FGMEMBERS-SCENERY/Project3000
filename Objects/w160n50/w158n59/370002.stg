@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -157.47339 59.35314 0.00 320.714
+OBJECT_SHARED Models/lib/SmHangar.ac -157.47725 59.35116 37.31 222.033
+OBJECT_SHARED Models/lib/watertank3x1.ac -157.47332 59.35291 37.12 48.5756
+OBJECT_SHARED Models/lib/propane-tank.ac -157.47344 59.35296 36.46 140.194
+OBJECT_SHARED Models/lib/prop_a.ac -157.47296 59.35330 36.89 179.198
+# END dsf2stg

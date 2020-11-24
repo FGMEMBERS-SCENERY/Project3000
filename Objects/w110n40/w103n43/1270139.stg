@@ -1,0 +1,18 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -102.24991 43.99848 855.98 134.1
+OBJECT_SHARED Models/lib/cars10.ac -102.24847 43.99892 855.91 90
+OBJECT_SHARED Models/lib/cars10.ac -102.24871 43.99891 855.73 90
+OBJECT_SHARED Models/lib/cars10.ac -102.24846 43.99830 855.81 90
+OBJECT_SHARED Models/lib/cars10.ac -102.24870 43.99830 856.10 90
+OBJECT_SHARED Models/lib/cars10.ac -102.24846 43.99861 856.15 90
+OBJECT_SHARED Models/lib/cars10.ac -102.24870 43.99860 855.91 90
+OBJECT_SHARED Models/lib/cars10.ac -102.24846 43.99800 855.98 90
+OBJECT_SHARED Models/lib/cars10.ac -102.24870 43.99799 856.28 90
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -102.24815 43.99902 856.28 90
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -102.24816 43.99850 855.66 90
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -102.24815 43.99876 855.98 90
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -102.24816 43.99823 855.79 90
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -102.24922 43.99768 856.16 49.3
+# END dsf2stg

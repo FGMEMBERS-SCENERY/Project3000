@@ -1,0 +1,39 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed10x50.ac -86.04619 40.29913 0.00 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -86.04564 40.29851 265.15 90
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -86.04551 40.29775 170.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -86.04551 40.29789 170.00 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -86.04525 40.29765 265.00 0
+OBJECT_SHARED Models/Airport/egkk_oil.xml -86.04525 40.29798 265.00 0
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -86.04957 40.29763 265.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04855 40.29716 265.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04838 40.29722 265.33 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04823 40.29717 265.43 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04823 40.29711 265.54 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04825 40.29701 265.53 352.88
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04824 40.29697 265.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04825 40.29694 265.52 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04824 40.29687 265.51 356.63
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04822 40.29683 265.51 29.74
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04842 40.29679 265.50 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04847 40.29687 265.39 206.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04890 40.29681 265.35 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04902 40.29707 265.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04934 40.29707 265.20 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04897 40.29758 265.12 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04895 40.29746 265.25 51.34
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04823 40.29777 265.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04832 40.29777 265.42 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04844 40.29775 265.41 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04860 40.29777 265.47 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04867 40.29780 265.35 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04893 40.29778 265.29 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04903 40.29781 265.18 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04910 40.29772 265.13 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04925 40.29776 265.14 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04966 40.29743 265.01 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.04977 40.29750 265.00 0
+OBJECT_SHARED Models/lib/shed10x50.ac -86.04698 40.29678 265.12 46.78
+# END dsf2stg

@@ -1,0 +1,27 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73423 52.97710 0.00 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73415 52.97713 177.91 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73407 52.97717 177.97 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73404 52.97726 178.07 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73402 52.97732 178.13 135
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73404 52.97735 178.14 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73411 52.97740 178.17 180
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73418 52.97744 178.12 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73426 52.97746 178.06 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73559 52.97724 178.05 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73568 52.97724 179.20 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73574 52.97724 179.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73583 52.97725 179.38 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73593 52.97725 179.49 225
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73602 52.97725 179.61 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -1.73610 52.97725 179.88 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -1.74721 52.96741 179.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -1.74704 52.96740 179.54 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.74539 52.97188 178.81 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -1.74737 52.96740 176.88 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -1.74893 52.96735 173.51 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -1.74912 52.96735 175.83 0
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -1.74840 52.97339 179.31 70.8
+# END dsf2stg

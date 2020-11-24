@@ -1,0 +1,11 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -3.02316 34.99333 0.00 191.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -3.02375 34.99323 175.61 191.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -3.02433 34.99313 175.81 191.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -3.02788 34.99252 176.00 191.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -3.02847 34.99241 177.12 191.93
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -3.02906 34.99231 177.30 191.93
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -3.02830 34.99309 177.47 14.72
+# END dsf2stg

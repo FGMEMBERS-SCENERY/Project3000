@@ -1,0 +1,21 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/large-hangar.ac -119.85459 34.01902 0.00 10.99
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -119.85453 34.01939 71.09 190.94
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -119.85427 34.01943 71.84 279.84
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -119.85437 34.01942 72.67 190.6
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -119.85431 34.01942 72.67 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -119.85372 34.01937 72.67 0
+OBJECT_SHARED Models/lib/lamp10m.xml -119.85423 34.01942 72.67 -77.09
+OBJECT_SHARED Models/lib/lamp10m.xml -119.85422 34.01931 72.67 191.04
+OBJECT_SHARED Models/lib/lamp10m.xml -119.85376 34.01939 72.52 13.28
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.85374 34.01937 72.67 32.53
+OBJECT_SHARED Models/Transport/hatchback_green.ac -119.85428 34.01915 72.67 340.91
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -119.85435 34.01920 72.26 340.46
+OBJECT_SHARED Models/Transport/van_red.ac -119.85427 34.01921 72.39 340.18
+OBJECT_SHARED Models/lib/stack_of_cones.ac -119.85371 34.01945 72.39 319.29
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.85375 34.01941 72.67 104.04
+OBJECT_SHARED Models/Misc/picnic_table.ac -119.85374 34.01939 72.67 103.16
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -119.85423 34.01911 72.67 102.57
+# END dsf2stg

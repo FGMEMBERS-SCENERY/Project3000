@@ -1,0 +1,13 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -53.20106 3.61996 0.00 -13.24
+OBJECT_SHARED Models/lib/prop_a.ac -53.20147 3.62071 227.21 282.2
+OBJECT_SHARED Models/lib/SmHangar.ac -53.20289 3.61703 228.62 343.74
+OBJECT_SHARED Models/lib/cone.ac -53.20150 3.62043 220.72 0
+OBJECT_SHARED Models/lib/cone.ac -53.20147 3.62033 227.91 0
+OBJECT_SHARED Models/lib/cone.ac -53.20146 3.62024 227.65 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -53.20100 3.62052 227.43 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -53.20102 3.62059 228.72 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -53.20100 3.62046 228.91 0
+# END dsf2stg

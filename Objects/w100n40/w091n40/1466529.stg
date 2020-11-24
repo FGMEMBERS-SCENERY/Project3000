@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -90.65686 40.51732 0.00 0.660004
+OBJECT_SHARED Models/lib/prop_a.ac -90.65736 40.51542 209.57 90
+OBJECT_SHARED Models/lib/MedHangar.ac -90.65740 40.51580 209.03 180.19
+OBJECT_SHARED Models/lib/LongRow.ac -90.65706 40.51541 209.15 90
+OBJECT_SHARED Models/lib/LongRow.ac -90.65706 40.51635 208.93 90
+OBJECT_SHARED Models/lib/LongRow.ac -90.65750 40.51634 209.21 90
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.65645 40.51670 209.35 267.27
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -90.65664 40.51670 209.15 90
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.65646 40.51676 209.19 87.61
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.65645 40.51678 209.19 266.05
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -90.65645 40.51686 209.19 272.73
+OBJECT_SHARED Models/Transport/hatchback_green.ac -90.65664 40.51686 209.24 270
+OBJECT_SHARED Models/lib/4space_wStop.ac -90.65642 40.51671 209.27 0
+OBJECT_SHARED Models/lib/2space_wStop.ac -90.65667 40.51687 209.12 180
+OBJECT_SHARED Models/lib/4space_wStop.ac -90.65667 40.51682 209.31 180.38
+OBJECT_SHARED Models/lib/6space_wStop.ac -90.65667 40.51669 209.26 180
+OBJECT_SHARED Models/lib/6space_wStop.ac -90.65642 40.51685 209.22 0
+OBJECT_SHARED Models/lib/prop_a.ac -90.65643 40.51759 209.16 0
+OBJECT_SHARED Models/lib/prop_a.ac -90.65746 40.51734 209.53 0.610001
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -90.65602 40.51678 209.79 90
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -90.65675 40.51732 209.02 300.96
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -90.65600 40.51752 209.50 135
+OBJECT_SHARED Models/lib/belt_loader.ac -90.65575 40.51715 209.34 270
+OBJECT_SHARED Models/Airport/cargobox.xml -90.65551 40.51712 209.05 0
+OBJECT_SHARED Models/Airport/cargoip.xml -90.65548 40.51711 208.98 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -90.65603 40.51711 208.98 316.85
+OBJECT_SHARED Models/lib/lamp10m.xml -90.65683 40.51701 209.15 -41.39
+OBJECT_SHARED Models/lib/lamp10m.xml -90.65543 40.51733 209.39 -3.25
+OBJECT_SHARED Models/lib/lamp10m.xml -90.65745 40.51558 209.04 217.46
+OBJECT_SHARED Models/lib/lamp10m.xml -90.65602 40.51707 209.12 270
+OBJECT_SHARED Models/lib/lamp10m.xml -90.65654 40.51696 209.15 90
+OBJECT_SHARED Models/lib/lamp10m.xml -90.65663 40.51707 209.28 270
+OBJECT_SHARED Models/lib/lamp10m.xml -90.65654 40.51659 209.36 270
+OBJECT_SHARED Models/lib/lamp10m.xml -90.65591 40.51657 209.11 232.21
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.65673 40.51686 208.90 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.65610 40.51653 209.31 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.65622 40.51654 208.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.65652 40.51703 208.97 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.65673 40.51667 209.28 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -90.65673 40.51678 209.22 0
+# END dsf2stg

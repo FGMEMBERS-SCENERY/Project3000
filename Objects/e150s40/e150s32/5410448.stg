@@ -1,0 +1,30 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 150.04130 -31.65336 0.00 26.63
+OBJECT_SHARED Models/lib/garage-small-white.ac 150.04214 -31.64936 524.74 90.2
+OBJECT_SHARED Models/lib/garden-shed.ac 150.04201 -31.64933 519.56 245.04
+OBJECT_SHARED Models/lib/dGreenhse.ac 150.04194 -31.64938 519.52 242.76
+OBJECT_SHARED Models/lib/shed8x10.ac 150.04224 -31.64895 519.56 127.23
+OBJECT_SHARED Models/lib/shed10x50.ac 150.04239 -31.64958 518.84 287.16
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac 150.04223 -31.64937 519.49 174.971
+OBJECT_SHARED Models/lib/stack_of_cones.ac 150.04138 -31.65326 519.56 351.384
+OBJECT_SHARED Models/Misc/6barrels.ac 150.04146 -31.65339 524.54 190.305
+OBJECT_SHARED Models/Misc/6barrels.ac 150.04146 -31.65338 524.74 151.39
+OBJECT_SHARED Models/Misc/6barrels.ac 150.04146 -31.65338 524.74 356.186
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04264 -31.64952 524.74 356.82
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04256 -31.64955 520.06 320.195
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04223 -31.64934 520.14 344.055
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04215 -31.64941 519.52 152.819
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04199 -31.64907 519.56 226.469
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04190 -31.64902 519.18 235.885
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04183 -31.64898 519.01 244.44
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04170 -31.64892 519.01 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04166 -31.64896 518.84 348.69
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04161 -31.64908 519.01 345.53
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04157 -31.64915 519.18 338.199
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04156 -31.64924 519.18 7.125
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04161 -31.64933 519.35 26.5649
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04182 -31.64938 519.52 185.711
+OBJECT_SHARED Models/Trees/billboard-tree.xml 150.04181 -31.64932 519.56 153.435
+# END dsf2stg

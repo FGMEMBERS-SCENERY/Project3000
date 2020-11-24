@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac 122.20481 43.55954 0.00 253.619
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 122.20107 43.55621 181.37 120.53
+OBJECT_SHARED Models/lib/lamp10m.xml 122.20378 43.55748 181.22 -16.47
+OBJECT_SHARED Models/lib/lamp10m.xml 122.20366 43.55720 181.25 -17.67
+OBJECT_SHARED Models/lib/lamp10m.xml 122.20354 43.55690 181.25 -18.23
+OBJECT_SHARED Models/lib/lamp10m.xml 122.20338 43.55654 181.25 -18.6
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 122.20332 43.55524 181.21 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 122.20347 43.55559 181.21 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 122.20363 43.55598 181.22 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 122.20404 43.55779 181.25 252.94
+OBJECT_SHARED Models/lib/jetway_e16m.ac 122.20350 43.55517 181.25 162.55
+OBJECT_SHARED Models/lib/jetway_e16m.ac 122.20365 43.55552 181.25 163.23
+OBJECT_SHARED Models/lib/jetway_e16m.ac 122.20382 43.55590 181.25 162.41
+OBJECT_SHARED Models/lib/transformer3x3.ac 122.20391 43.56930 181.21 163.6
+OBJECT_SHARED Models/lib/transformer3x3.ac 122.19527 43.55011 181.45 163.81
+# END dsf2stg

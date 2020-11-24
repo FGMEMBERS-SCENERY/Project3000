@@ -1,22 +1,22 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -48.56436 -26.21950 13.15 17
-OBJECT_SHARED Models/lib/SmHangar.ac -48.56445 -26.21952 13.15 17
-OBJECT_SHARED Models/lib/SmHangar.ac -48.56404 -26.22047 13.62 17
-OBJECT_SHARED Models/lib/SmHangar.ac -48.56413 -26.22049 13.46 17
-OBJECT_SHARED Models/lib/SmHangar.ac -48.56371 -26.22128 14.45 27
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -48.56433 -26.21970 13.21 287
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -48.56416 -26.22032 13.32 287
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56524 -26.21774 13.41 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56521 -26.21780 13.32 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56518 -26.21787 13.22 0
+OBJECT_SHARED Models/lib/SmHangar.ac -48.56436 -26.21950 0.00 17
+OBJECT_SHARED Models/lib/SmHangar.ac -48.56445 -26.21952 13.01 17
+OBJECT_SHARED Models/lib/SmHangar.ac -48.56404 -26.22047 13.01 17
+OBJECT_SHARED Models/lib/SmHangar.ac -48.56413 -26.22049 13.61 17
+OBJECT_SHARED Models/lib/SmHangar.ac -48.56371 -26.22128 13.45 27
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -48.56433 -26.21970 14.46 287
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -48.56416 -26.22032 13.03 287
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56524 -26.21774 13.26 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56521 -26.21780 13.41 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56518 -26.21787 13.32 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56516 -26.21793 13.22 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56514 -26.21799 13.14 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56512 -26.21805 13.04 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56514 -26.21799 13.22 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56512 -26.21805 13.14 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56510 -26.21811 13.04 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56508 -26.21818 12.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56508 -26.21818 13.04 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56505 -26.21823 12.99 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56503 -26.21830 12.93 0
-OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56501 -26.21836 12.98 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56503 -26.21830 12.99 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -48.56501 -26.21836 12.93 0
 # END dsf2stg

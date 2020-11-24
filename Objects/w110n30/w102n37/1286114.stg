@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -101.37569 37.60490 0.00 90
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -101.37784 37.60517 932.04 0
+OBJECT_SHARED Models/lib/hangar81x16.ac -101.36396 37.59213 932.77 270
+OBJECT_SHARED Models/lib/LongRow.ac -101.36434 37.59140 932.93 90
+OBJECT_SHARED Models/lib/shed8x10.ac -101.36400 37.59383 933.28 90
+OBJECT_SHARED Models/lib/shed8x10.ac -101.36420 37.59409 932.14 179.28
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -101.36536 37.59196 932.01 90
+OBJECT_SHARED Models/lib/SmHangar.ac -101.36531 37.59271 933.38 178.95
+OBJECT_SHARED Models/lib/SmHangar.ac -101.36532 37.59247 933.00 180
+OBJECT_SHARED Models/lib/SmHangar.ac -101.36533 37.59225 933.10 179.44
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.37814 37.60490 933.26 0
+OBJECT_SHARED Models/lib/prop_a.ac -101.36460 37.59311 932.78 357.27
+OBJECT_SHARED Models/Transport/hatchback_black.ac -101.37023 37.59942 932.78 15.95
+OBJECT_SHARED Models/lib/prop_a.ac -101.37106 37.59928 930.70 106.39
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -101.37010 37.59945 930.92 15.42
+OBJECT_SHARED Models/Transport/van_silver.ac -101.36392 37.59352 930.67 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -101.36388 37.59352 932.27 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -101.36377 37.59347 932.27 0
+# END dsf2stg

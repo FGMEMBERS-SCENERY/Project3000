@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.55314 40.53706 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -86.55341 40.53717 216.26 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -86.55137 40.53648 216.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -86.55337 40.53690 216.47 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -86.55338 40.53729 216.24 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -86.55327 40.53721 216.22 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -86.55292 40.53654 216.23 180
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -86.55262 40.53649 121.32 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -86.55279 40.53662 121.36 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -86.55260 40.53672 121.33 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -86.55254 40.53689 121.35 0
+OBJECT_SHARED Models/lib/SmHangar.ac -86.55302 40.53659 216.34 90
+OBJECT_SHARED Models/lib/shed10x50.ac -86.55263 40.53766 216.31 90
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -86.55287 40.53771 216.26 90
+OBJECT_SHARED Models/lib/lamp10m.xml -86.55292 40.54024 216.25 0
+OBJECT_SHARED Models/lib/schranke.ac -86.55280 40.54011 215.96 359.01
+OBJECT_SHARED Models/lib/office6x12.ac -86.55301 40.54036 215.94 0
+OBJECT_SHARED Models/lib/shed8x10.ac -86.55129 40.54091 215.97 0.300003
+# END dsf2stg

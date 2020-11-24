@@ -1,0 +1,42 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -100.50783 37.45106 0.00 270.45
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.50752 37.45121 847.22 45.78
+OBJECT_SHARED Models/Trees/billboard-tree.xml -100.50759 37.45128 847.22 222.15
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.50748 37.45127 847.22 8.47
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.50747 37.45096 847.04 119.02
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.50699 37.45087 847.04 40.56
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.50698 37.45127 847.04 113.96
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -100.50700 37.45105 847.04 58.81
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.50698 37.45094 847.04 64.45
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.50772 37.45119 847.04 129.09
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.50727 37.45127 847.22 354.56
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -100.50699 37.45118 847.04 90
+OBJECT_SHARED Models/lib/SmHangar.ac -100.50483 37.44622 847.04 179.64
+OBJECT_SHARED Models/lib/SmHangar.ac -100.50483 37.44605 845.78 179.74
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -100.50542 37.44626 845.73 358.94
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -100.50542 37.44616 845.81 358.94
+OBJECT_SHARED Models/lib/farm19x12.ac -100.50729 37.45095 845.78 177.33
+OBJECT_SHARED Models/lib/shed8x10.ac -100.50556 37.44606 847.04 269.03
+OBJECT_SHARED Models/lib/shed8x10.ac -100.50538 37.44642 845.91 359.2
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -100.50550 37.44651 845.84 185.46
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.50553 37.44651 845.86 176.99
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -100.50556 37.44651 845.99 358.32
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.50550 37.44659 845.99 0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -100.50553 37.44660 845.89 354.71
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -100.50556 37.44659 846.00 6.01001
+OBJECT_SHARED Models/Transport/van_red.ac -100.50573 37.44650 846.00 6.04001
+OBJECT_SHARED Models/Transport/van_red.ac -100.50567 37.44645 845.99 266.35
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.50568 37.44642 845.97 261.53
+OBJECT_SHARED Models/Transport/hatchback_green.ac -100.50569 37.44639 845.97 270.97
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.50566 37.44637 845.97 270
+OBJECT_SHARED Models/Transport/hatchback_black.ac -100.50573 37.44628 845.97 6.70999
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -100.50573 37.44632 845.95 0
+OBJECT_SHARED Models/Transport/hatchback_green.ac -100.50580 37.44631 845.95 354.88
+OBJECT_SHARED Models/lib/shed8x10.ac -100.50587 37.44634 845.95 89.4
+OBJECT_SHARED Models/Transport/van_silver.ac -100.50732 37.45094 845.95 163.67
+OBJECT_SHARED Models/lib/garden-shed.ac -100.50728 37.45114 847.04 266.16
+OBJECT_SHARED Models/lib/shed8x10.ac -100.50754 37.45109 847.04 178.77
+OBJECT_SHARED Models/lib/2container-office.ac -100.50724 37.45104 847.22 356.73
+# END dsf2stg

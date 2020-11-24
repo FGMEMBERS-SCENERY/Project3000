@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.69593 53.62617 0.00 127.17
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.69479 53.62590 190.63 126.54
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.69536 53.62603 191.43 125.75
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -77.69809 53.62672 191.13 66.91
+OBJECT_SHARED Models/lib/SmHangar.ac -77.69283 53.62604 189.15 337.6
+OBJECT_SHARED Models/lib/SmHangar.ac -77.69293 53.62590 191.63 337.27
+OBJECT_SHARED Models/lib/SmHangar.ac -77.69302 53.62577 191.80 336.76
+OBJECT_SHARED Models/lib/MedHangar.ac -77.70035 53.62756 191.97 68.04
+OBJECT_SHARED Models/lib/MedHangar.ac -77.69381 53.62589 186.93 66.39
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.69323 53.62578 191.64 163.1
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.69431 53.62605 191.94 203.01
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.69521 53.62628 191.16 203.9
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.69617 53.62656 190.59 203.2
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.69696 53.62695 189.78 201.43
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.69848 53.62702 188.81 232.96
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.69978 53.62735 188.47 202.62
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -77.69961 53.62713 193.31 0
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -77.69966 53.62714 188.02 0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -77.69952 53.62701 188.00 298.44
+OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -77.69818 53.62699 188.23 90
+OBJECT_SHARED Models/lib/cargo-container1-HD.ac -77.69798 53.62690 188.54 0
+OBJECT_SHARED Models/Airport/cargoip.xml -77.69796 53.62692 188.78 0
+OBJECT_SHARED Models/Airport/cargobox.xml -77.69800 53.62692 188.78 0
+OBJECT_SHARED Models/lib/loader.ac -77.69777 53.62687 188.78 17.93
+OBJECT_SHARED Models/lib/container6-HD.ac -77.69833 53.62703 188.82 0
+OBJECT_SHARED Models/lib/loader.ac -77.69966 53.62711 188.51 65.37
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -77.69486 53.62613 188.00 34.44
+OBJECT_SHARED Models/lib/luggage-train-straight2-HD.ac -77.69555 53.62626 191.03 158.96
+OBJECT_SHARED Models/lib/caisses_group.ac -77.69416 53.62602 190.51 53.81
+OBJECT_SHARED Models/lib/chariot3curve.ac -77.69437 53.62609 191.37 90
+OBJECT_SHARED Models/lib/belt_loader.ac -77.69416 53.62611 191.14 63.1
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.69706 53.62681 191.19 66.51
+# END dsf2stg

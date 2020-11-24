@@ -1,0 +1,17 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vending-machine.ac 140.26430 36.02286 0.00 282.19
+OBJECT_SHARED Models/lib/fuel-truck.xml 140.26500 36.02289 20.54 8.12
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 140.26494 36.02291 19.82 191
+OBJECT_SHARED Models/lib/cars4.ac 140.26418 36.02278 19.82 10.5
+OBJECT_SHARED Models/lib/cars4.ac 140.26436 36.02266 20.73 191.1
+OBJECT_SHARED Models/lib/prop_a.ac 140.26435 36.02318 21.55 8.97
+OBJECT_SHARED Models/lib/prop_a.ac 140.26438 36.02307 20.14 9.52
+OBJECT_SHARED Models/lib/prop_a.ac 140.26492 36.02315 20.27 188.39
+OBJECT_SHARED Models/lib/prop_a.ac 140.26519 36.02307 19.37 190.09
+OBJECT_SHARED Models/lib/prop_a.ac 140.26515 36.02319 19.49 189.99
+OBJECT_SHARED Models/lib/prop_a.ac 140.26513 36.02330 19.37 190.8
+OBJECT_SHARED Models/lib/prop_a.ac 140.26489 36.02327 19.24 189.11
+OBJECT_SHARED Models/lib/prop_a.ac 140.26475 36.02325 19.24 188.61
+# END dsf2stg

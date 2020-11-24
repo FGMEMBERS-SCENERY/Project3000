@@ -1,25 +1,25 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 21.09655 49.07819 320.37 128.16
-OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 21.09775 49.07701 319.33 126.03
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09385 49.08036 322.34 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09407 49.08026 322.20 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09493 49.07946 321.80 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09427 49.08009 322.11 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09453 49.07971 322.16 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09472 49.07966 321.90 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09460 49.07957 322.10 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09517 49.07927 321.57 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09538 49.07901 321.53 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09551 49.07891 321.46 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09804 49.07622 319.18 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09776 49.07641 319.40 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09640 49.07769 320.89 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09623 49.07775 321.16 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09615 49.07781 321.25 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09604 49.07790 321.33 0
-OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09658 49.07761 320.65 0
-OBJECT_SHARED Models/lib/MedHangar.ac 21.09634 49.07826 320.73 217.09
-OBJECT_SHARED Models/lib/MedHangar.ac 21.09763 49.07702 319.48 218.16
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 21.09655 49.07819 0.00 128.16
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac 21.09775 49.07701 320.37 126.03
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09385 49.08036 319.33 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09407 49.08026 322.24 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09493 49.07946 322.05 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09427 49.08009 321.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09453 49.07971 321.98 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09472 49.07966 322.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09460 49.07957 321.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09517 49.07927 322.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09538 49.07901 321.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09551 49.07891 321.53 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09804 49.07622 321.46 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09776 49.07641 319.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09640 49.07769 319.40 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09623 49.07775 320.89 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09615 49.07781 321.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09604 49.07790 321.26 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 21.09658 49.07761 321.35 0
+OBJECT_SHARED Models/lib/MedHangar.ac 21.09634 49.07826 320.65 217.09
+OBJECT_SHARED Models/lib/MedHangar.ac 21.09763 49.07702 320.73 218.16
 # END dsf2stg

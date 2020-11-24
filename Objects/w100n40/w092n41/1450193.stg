@@ -1,0 +1,20 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -91.67184 41.27901 0.00 0.826324
+OBJECT_SHARED Models/lib/lamp10m.xml -91.67339 41.27949 228.30 51.7433
+OBJECT_SHARED Models/lib/lamp10m.xml -91.67304 41.27922 228.23 194.085
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -91.67198 41.27904 228.24 185.711
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -91.67189 41.27939 228.29 130.292
+OBJECT_SHARED Models/Airport/cargoim.xml -91.67192 41.27942 228.31 0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -91.67338 41.27974 228.31 181.317
+OBJECT_SHARED Models/Transport/van_silver.ac -91.67159 41.27915 228.26 91.6683
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -91.67159 41.27920 228.31 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -91.67249 41.27947 228.31 268.247
+OBJECT_SHARED Models/lib/trailer-fedex.ac -91.67352 41.27980 228.29 267.905
+OBJECT_SHARED Models/lib/LongRow.ac -91.67061 41.27891 228.26 90
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -91.67295 41.27926 228.33 180.694
+OBJECT_SHARED Models/lib/propane-tank.ac -91.67351 41.27922 228.25 89.5416
+OBJECT_SHARED Models/lib/propane-tank.ac -91.67377 41.27935 228.20 179.999
+OBJECT_SHARED Models/lib/SmHangar.ac -91.67331 41.27931 228.19 270.731
+# END dsf2stg

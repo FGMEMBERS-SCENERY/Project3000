@@ -1,0 +1,14 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -0.25042 43.71167 0.00 62.82
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -0.25003 43.71113 81.87 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -0.25016 43.71167 82.20 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -0.25027 43.71171 81.94 243.43
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -0.25035 43.71173 81.84 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -0.25046 43.71178 81.78 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -0.25060 43.71182 81.73 253.3
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -0.25073 43.71185 81.61 233.13
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -0.25084 43.71189 81.54 270
+OBJECT_SHARED Models/lib/LongRow.ac -0.25014 43.71126 82.50 155.69
+# END dsf2stg

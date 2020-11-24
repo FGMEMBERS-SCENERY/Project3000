@@ -1,0 +1,32 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -99.15092 40.76068 0.00 183.98
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -99.15208 40.76156 667.03 297.41
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -99.15205 40.76149 667.39 293.5
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.15199 40.76144 667.47 333.44
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.15174 40.76134 667.89 292.48
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.15158 40.76143 667.27 123.69
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.15183 40.76140 666.51 180
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -99.15195 40.76136 667.20 333.44
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -99.15213 40.76163 667.89 243.43
+OBJECT_SHARED Models/lib/shed8x10.ac -99.15646 40.75900 667.39 87.01
+OBJECT_SHARED Models/lib/transformer3x3.ac -99.15519 40.76658 672.90 90
+OBJECT_SHARED Models/Airport/cargobox.xml -99.15418 40.76187 667.09 180
+OBJECT_SHARED Models/Airport/cargobox.xml -99.15420 40.76185 668.96 338.2
+OBJECT_SHARED Models/Airport/cargobox.xml -99.15418 40.76185 668.96 90
+OBJECT_SHARED Models/Airport/cargobox.xml -99.15415 40.76185 668.96 180
+OBJECT_SHARED Models/Misc/6barrels.ac -99.15430 40.76187 668.96 128.23
+OBJECT_SHARED Models/Misc/6barrels.ac -99.15433 40.76186 669.01 191.31
+OBJECT_SHARED Models/Misc/6barrels.ac -99.15434 40.76184 669.01 353.66
+OBJECT_SHARED Models/Misc/6barrels.ac -99.15436 40.76185 669.01 216.87
+OBJECT_SHARED Models/lib/trailer-fedex.ac -99.15351 40.76246 669.07 270.67
+OBJECT_SHARED Models/lib/garden-shed.ac -99.15297 40.76170 668.73 273.14
+OBJECT_SHARED Models/lib/garden-shed.ac -99.15515 40.76893 669.27 270
+OBJECT_SHARED Models/lib/garden-shed.ac -99.15351 40.76231 665.43 181.61
+OBJECT_SHARED Models/lib/container6-HD.ac -99.15388 40.76204 668.79 270
+OBJECT_SHARED Models/lib/industrial13x24.ac -99.15370 40.76207 668.89 267.86
+OBJECT_SHARED Models/lib/shed8x10.ac -99.15182 40.77254 668.86 0.019997
+OBJECT_SHARED Models/lib/shed8x10.ac -99.15700 40.76093 663.82 263.53
+OBJECT_SHARED Models/lib/garden-shed.ac -99.15177 40.76176 675.46 272.92
+# END dsf2stg

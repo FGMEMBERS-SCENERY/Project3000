@@ -1,0 +1,19 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -121.32410 50.78072 0.00 9.98001
+OBJECT_SHARED Models/Transport/hatchback_green.ac -121.32483 50.78100 -1000.00 10.78
+OBJECT_SHARED Models/lib/deciduous-tree.xml -121.32516 50.78099 -1000.00 126.42
+OBJECT_SHARED Models/lib/deciduous-tree.xml -121.32519 50.78111 -1000.00 296.1
+OBJECT_SHARED Models/lib/lamp10m.xml -121.32462 50.77995 -1000.00 190.77
+OBJECT_SHARED Models/lib/prop_a.ac -121.32405 50.78035 -1000.00 185.25
+OBJECT_SHARED Models/lib/prop_a.ac -121.32412 50.78057 -1000.00 190.31
+OBJECT_SHARED Models/lib/propane-tank.ac -121.32485 50.78019 -1000.00 280.64
+OBJECT_SHARED Models/lib/SmHangar.ac -121.32475 50.78039 -1000.00 189.04
+OBJECT_SHARED Models/lib/SmHangar.ac -121.32480 50.78059 -1000.00 190.25
+OBJECT_SHARED Models/lib/SmHangar.ac -121.32485 50.78076 -1000.00 190.88
+OBJECT_SHARED Models/lib/propane-tank.ac -121.32507 50.78060 -1000.00 188.13
+OBJECT_SHARED Models/lib/propane-tank.ac -121.32514 50.78088 -1000.00 185.47
+OBJECT_SHARED Models/lib/farm19x12.ac -121.32501 50.78111 -1000.00 100.55
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -121.32479 50.78089 -1000.00 102.01
+# END dsf2stg

@@ -1,0 +1,29 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.81357 40.08431 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.81386 40.08382 164.93 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.81306 40.08511 164.53 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -123.81287 40.08546 164.11 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -123.81291 40.08538 164.30 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -123.81259 40.08586 164.22 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -123.81211 40.08671 164.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -123.81202 40.08688 163.69 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -123.81191 40.08703 163.46 0
+OBJECT_SHARED Models/lib/SmHangar.ac -123.81231 40.08668 163.49 334.19
+OBJECT_SHARED Models/lib/shed8x10.ac -123.81348 40.08466 163.69 333.27
+OBJECT_SHARED Models/lib/shed8x10.ac -123.81341 40.08478 162.20 333.27
+OBJECT_SHARED Models/lib/transformer3x3.ac -123.81290 40.08621 162.86 172.18
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -123.81215 40.08681 164.79 242.51
+OBJECT_SHARED Models/Transport/hatchback_green.ac -123.81216 40.08679 163.73 65.97
+OBJECT_SHARED Models/Transport/hatchback_green.ac -123.81204 40.08707 163.73 264.4
+OBJECT_SHARED Models/Transport/van_silver.ac -123.81205 40.08703 163.50 85.24
+OBJECT_SHARED Models/Transport/hatchback_black.ac -123.81357 40.08455 163.49 178.45
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -123.81233 40.08699 165.11 156.47
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -123.81205 40.08704 163.49 82.87
+OBJECT_SHARED Models/Transport/hatchback_black.ac -123.81236 40.08695 163.49 145.1
+OBJECT_SHARED Models/Transport/hatchback_green.ac -123.81214 40.08683 163.46 60.71
+OBJECT_SHARED Models/Transport/hatchback_black.ac -123.81218 40.08675 163.73 66.8
+OBJECT_SHARED Models/Transport/hatchback_red.ac -123.81219 40.08673 163.73 66.34
+OBJECT_SHARED Models/Transport/van_silver.ac -123.81217 40.08677 163.69 67.77
+# END dsf2stg

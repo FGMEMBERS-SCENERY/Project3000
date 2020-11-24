@@ -1,0 +1,44 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66367 28.10082 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66444 28.10090 155.38 0
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66513 28.10100 155.62 0
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66597 28.10111 155.83 0
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66777 28.10163 156.10 -80.67
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66826 28.10164 156.59 -81.95
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66873 28.10198 156.73 -24.91
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66724 28.10156 156.78 -76.15
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66647 28.10119 156.43 -38.71
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66647 28.10140 156.24 230.51
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 81.66746 28.10103 156.22 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 81.66740 28.10102 156.63 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 81.66735 28.10102 156.60 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 81.66728 28.10101 156.57 0
+OBJECT_SHARED Models/lib/cars10.ac 81.66754 28.10057 156.57 7.62
+OBJECT_SHARED Models/lib/cars7.ac 81.66770 28.10041 156.71 97.69
+OBJECT_SHARED Models/lib/cars7.ac 81.66775 28.10024 156.82 278
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml 81.66956 28.10095 156.89 0
+OBJECT_SHARED Models/lib/SmHangar.ac 81.66933 28.10129 157.20 7.77
+OBJECT_SHARED Models/lib/SmHangar.ac 81.66703 28.10081 157.05 185.56
+OBJECT_SHARED Models/lib/MedHangar.ac 81.66305 28.10069 156.51 278
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66771 28.10150 155.18 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66783 28.10108 156.58 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66771 28.10107 156.70 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66803 28.10131 156.67 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66876 28.10028 156.72 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66828 28.10026 157.18 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66750 28.10061 157.03 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66790 28.10091 156.71 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66809 28.10014 156.77 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66748 28.10148 157.01 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66782 28.10156 156.52 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66720 28.10144 156.59 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66729 28.10145 156.45 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66688 28.10102 156.46 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 81.66673 28.10097 156.43 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 81.66778 28.10115 156.35 8.95001
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66703 28.10148 156.68 0
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66762 28.10155 156.37 0
+OBJECT_SHARED Models/lib/lamp10m.xml 81.66877 28.10172 156.55 59.86
+# END dsf2stg

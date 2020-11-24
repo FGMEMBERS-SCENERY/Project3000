@@ -2,17 +2,17 @@
 # do not edit below this line
 #
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.18642 47.96284 0.00 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.18672 47.96292 0.00 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.18725 47.96186 0.00 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.18699 47.96227 0.00 0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.18684 47.96224 0.00 0
-OBJECT_SHARED Models/Aircraft/Cessna150_no_reg.ac 18.18587 47.96265 0.00 21.98
-OBJECT_SHARED Models/lib/garage-small-white.ac 18.18670 47.96208 0.00 353.66
-OBJECT_SHARED Models/lib/shed10x50.ac 18.18678 47.96172 0.00 20.56
-OBJECT_SHARED Models/lib/MedHangar.ac 18.18652 47.96257 0.00 20.52
-OBJECT_SHARED Models/lib/coal_pile.ac 18.18613 47.96281 0.00 108.44
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.18607 47.96273 0.00 111.04
-OBJECT_SHARED Models/lib/shed8x10.ac 18.18625 47.96281 0.00 108.43
-OBJECT_SHARED Models/lib/shed8x10.ac 18.18707 47.96211 0.00 108.43
-OBJECT_SHARED Models/lib/shed8x10.ac 18.18692 47.96207 0.00 108.43
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.18672 47.96292 112.72 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.18725 47.96186 112.76 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.18699 47.96227 112.41 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 18.18684 47.96224 112.53 0
+OBJECT_SHARED Models/Aircraft/Cessna172_sky.ac 18.18587 47.96265 112.50 21.98
+OBJECT_SHARED Models/lib/garage-small-white.ac 18.18670 47.96208 112.66 353.66
+OBJECT_SHARED Models/lib/shed10x50.ac 18.18678 47.96172 112.48 20.56
+OBJECT_SHARED Models/lib/MedHangar.ac 18.18652 47.96257 112.37 20.52
+OBJECT_SHARED Models/lib/coal_pile.ac 18.18613 47.96281 112.64 108.44
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.18607 47.96273 112.73 111.04
+OBJECT_SHARED Models/lib/shed8x10.ac 18.18625 47.96281 112.69 108.43
+OBJECT_SHARED Models/lib/shed8x10.ac 18.18707 47.96211 112.73 108.43
+OBJECT_SHARED Models/lib/shed8x10.ac 18.18692 47.96207 112.47 108.43
 # END dsf2stg

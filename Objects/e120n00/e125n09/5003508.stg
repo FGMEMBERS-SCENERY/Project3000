@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac 125.59626 9.81108 0.00 214.803
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 125.59619 9.81118 6.86 279.462
+OBJECT_SHARED Models/lib/lamp10m.xml 125.59624 9.81123 1.81 205.641
+OBJECT_SHARED Models/lib/lamp10m.xml 125.59643 9.81118 1.24 -60.2552
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 125.59628 9.81123 1.81 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 125.59622 9.81122 1.24 137.121
+OBJECT_SHARED Models/Misc/picnic_table.ac 125.59626 9.81124 1.26 92.2906
+OBJECT_SHARED Models/Misc/picnic_table.ac 125.59629 9.81126 1.23 261.254
+OBJECT_SHARED Models/lib/garden-shed.ac 125.59637 9.81131 1.20 27.2162
+OBJECT_SHARED Models/lib/garden-shed.ac 125.59635 9.81130 1.12 27.2162
+OBJECT_SHARED Models/lib/garden-shed.ac 125.59632 9.81128 1.14 27.2162
+# END dsf2stg

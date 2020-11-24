@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.50909 37.33757 0.00 105.37
+OBJECT_SHARED Models/lib/shed10x50.ac -95.50945 37.33746 273.00 105.26
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.50864 37.33743 272.85 285.05
+OBJECT_SHARED Models/lib/MedHangar.ac -95.50893 37.33786 272.80 114.98
+OBJECT_SHARED Models/lib/SmHangar.ac -95.50991 37.33709 273.37 105.03
+# END dsf2stg

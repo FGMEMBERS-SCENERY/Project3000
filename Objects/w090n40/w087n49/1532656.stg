@@ -1,0 +1,36 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -86.92843 49.78265 0.00 191.31
+OBJECT_SHARED Models/lib/prop_a.ac -86.93320 49.78231 339.86 180
+OBJECT_SHARED Models/lib/prop_a.ac -86.93232 49.78329 340.23 184.59
+OBJECT_SHARED Models/lib/SmHangar.ac -86.92888 49.78411 340.10 16.25
+OBJECT_SHARED Models/lib/MedHangar.ac -86.92910 49.78375 339.94 287.1
+OBJECT_SHARED Models/lib/cars10.ac -86.92923 49.78439 339.95 197.17
+OBJECT_SHARED Models/lib/cars10.ac -86.92965 49.78429 339.97 16.93
+OBJECT_SHARED Models/lib/cars10.ac -86.92913 49.78420 339.99 197.27
+OBJECT_SHARED Models/lib/cars10.ac -86.92956 49.78409 339.96 17.65
+OBJECT_SHARED Models/lib/cars10.ac -86.92904 49.78402 340.00 197.27
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.93134 49.78210 340.45 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.93112 49.78165 340.62 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.94741 49.77680 340.60 225
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.94858 49.77657 344.51 251.56
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.92908 49.78069 344.80 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.92846 49.78081 340.24 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.92957 49.78174 340.13 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -86.92898 49.78185 340.42 180
+OBJECT_SHARED Models/lib/prop_a.ac -86.92825 49.78212 339.85 140.71
+OBJECT_SHARED Models/lib/SmHangar.ac -86.93077 49.78238 339.77 106.9
+OBJECT_SHARED Models/lib/MedHangar.ac -86.93312 49.78356 340.07 5.04
+OBJECT_SHARED Models/lib/SmHangar.ac -86.93244 49.78304 340.06 5.01
+OBJECT_SHARED Models/lib/SmHangar.ac -86.93245 49.78338 340.13 95.62
+OBJECT_SHARED Models/lib/SmHangar.ac -86.92873 49.78339 340.09 106.71
+OBJECT_SHARED Models/lib/SmHangar.ac -86.93258 49.78219 339.93 14.16
+OBJECT_SHARED Models/lib/office40x25.ac -86.93009 49.78240 340.21 106.65
+OBJECT_SHARED Models/lib/HorizTanks2.ac -86.93113 49.78214 340.01 106.73
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -86.92842 49.78285 340.10 17.54
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -86.92937 49.78464 339.88 15.95
+OBJECT_SHARED Models/Transport/hatchback_green.ac -86.92943 49.78462 339.98 15.78
+OBJECT_SHARED Models/lib/trailer-ups.ac -86.92956 49.78330 339.98 288.13
+OBJECT_SHARED Models/lib/trailer-ups.ac -86.92962 49.78329 339.99 287.59
+# END dsf2stg

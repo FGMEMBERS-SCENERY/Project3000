@@ -1,17 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -71.86430 -42.07494 251.04 284.58
-OBJECT_SHARED Models/lib/SmHangar.ac -71.86466 -42.07501 251.42 285.18
-OBJECT_SHARED Models/lib/garden-shed.ac -71.86459 -42.07569 252.55 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.86511 -42.07597 253.33 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.86473 -42.07593 252.94 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.86291 -42.07528 250.92 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.86352 -42.07572 251.93 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.86366 -42.07573 252.05 90
-OBJECT_SHARED Models/lib/garden-shed.ac -71.86413 -42.07582 252.45 90
-OBJECT_SHARED Models/lib/farm19x12.ac -71.86321 -42.07555 251.59 182.73
-OBJECT_SHARED Models/lib/farm19x12.ac -71.86368 -42.07558 251.88 183.48
-OBJECT_SHARED Models/lib/farm19x12.ac -71.86387 -42.07564 252.00 5.15
-OBJECT_SHARED Models/lib/farm19x12.ac -71.87214 -42.07514 253.86 189.3
+OBJECT_SHARED Models/lib/SmHangar.ac -71.86430 -42.07494 0.00 284.58
+OBJECT_SHARED Models/lib/SmHangar.ac -71.86466 -42.07501 252.66 285.18
+OBJECT_SHARED Models/lib/garden-shed.ac -71.86459 -42.07569 252.96 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.86511 -42.07597 254.22 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.86473 -42.07593 254.92 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.86291 -42.07528 254.62 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.86352 -42.07572 252.94 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.86366 -42.07573 253.87 90
+OBJECT_SHARED Models/lib/garden-shed.ac -71.86413 -42.07582 253.94 90
+OBJECT_SHARED Models/lib/farm19x12.ac -71.86321 -42.07555 254.24 182.73
+OBJECT_SHARED Models/lib/farm19x12.ac -71.86368 -42.07558 253.59 183.48
+OBJECT_SHARED Models/lib/farm19x12.ac -71.86387 -42.07564 253.75 5.15
+OBJECT_SHARED Models/lib/farm19x12.ac -71.87214 -42.07514 253.82 189.3
 # END dsf2stg

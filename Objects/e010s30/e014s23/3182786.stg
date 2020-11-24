@@ -1,9 +1,49 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 14.64277 -22.97759 84.90 143.19
-OBJECT_SHARED Models/lib/fboModern1.ac 14.64243 -22.97769 84.49 108
-OBJECT_SHARED Models/lib/cube16x10.ac 14.64306 -22.97742 85.21 287
-OBJECT_SHARED Models/lib/admin-with-cars.ac 14.64150 -22.97754 83.59 110
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml 14.64347 -22.97695 85.66 290
+OBJECT_SHARED Models/lib/cars10.ac 14.64083 -22.97685 0.00 18.29
+OBJECT_SHARED Models/lib/cars10.ac 14.64193 -22.97668 82.86 288.52
+OBJECT_SHARED Models/lib/cars10.ac 14.64172 -22.97710 84.03 108.72
+OBJECT_SHARED Models/lib/cars10.ac 14.64151 -22.97681 83.80 198.4
+OBJECT_SHARED Models/lib/cars4.ac 14.64199 -22.97715 83.61 287.97
+OBJECT_SHARED Models/lib/cars4.ac 14.64206 -22.97701 84.10 289.39
+OBJECT_SHARED Models/lib/cars10.ac 14.64130 -22.97726 84.22 198.47
+OBJECT_SHARED Models/lib/cars10.ac 14.64164 -22.97716 83.39 198.47
+OBJECT_SHARED Models/lib/cars10.ac 14.64158 -22.97699 83.70 198.47
+OBJECT_SHARED Models/lib/cars10.ac 14.64124 -22.97709 83.70 198.47
+OBJECT_SHARED Models/lib/cars10.ac 14.64119 -22.97691 83.29 198.94
+OBJECT_SHARED Models/lib/cars10.ac 14.64116 -22.97675 83.30 18.29
+OBJECT_SHARED Models/lib/cars10.ac 14.64122 -22.97691 83.30 18.29
+OBJECT_SHARED Models/lib/cars10.ac 14.64128 -22.97709 83.30 18.29
+OBJECT_SHARED Models/lib/cars10.ac 14.64095 -22.97719 83.39 18.29
+OBJECT_SHARED Models/lib/cars10.ac 14.64089 -22.97701 82.96 18.29
+OBJECT_SHARED Models/lib/FireStationLg.ac 14.64303 -22.97738 82.96 288.4
+OBJECT_SHARED Models/lib/garage-small-white.ac 14.64420 -22.97677 85.11 198.94
+OBJECT_SHARED Models/lib/garage-small-white.ac 14.64418 -22.97670 86.37 198.94
+OBJECT_SHARED Models/lib/garage-small-white.ac 14.64415 -22.97679 86.38 198.94
+OBJECT_SHARED Models/lib/garage-small-white.ac 14.64412 -22.97672 86.27 198.94
+OBJECT_SHARED Models/lib/garage-small-white.ac 14.64415 -22.97663 86.28 198.94
+OBJECT_SHARED Models/lib/garage-small-white.ac 14.64412 -22.97656 86.39 198.94
+OBJECT_SHARED Models/lib/transformer3x3.ac 14.64083 -22.97695 86.29 288.86
+OBJECT_SHARED Models/lib/transformer3x3.ac 14.64164 -22.97714 82.86 288.86
+OBJECT_SHARED Models/lib/2container-office.ac 14.64261 -22.97722 83.70 106.7
+OBJECT_SHARED Models/lib/2container-office.ac 14.64456 -22.97685 84.72 18.46
+OBJECT_SHARED Models/lib/2container-office.ac 14.64492 -22.97674 86.77 17.86
+OBJECT_SHARED Models/lib/garage-small-white.ac 14.64465 -22.97650 87.09 110.73
+OBJECT_SHARED Models/lib/office6x12.ac 14.64424 -22.97602 86.90 198.51
+OBJECT_SHARED Models/lib/garden-shed.ac 14.64492 -22.97575 86.47 103.47
+OBJECT_SHARED Models/Misc/6barrels.ac 14.64497 -22.97522 87.19 0
+OBJECT_SHARED Models/lib/coal_pile.ac 14.64234 -22.97663 87.37 287.43
+OBJECT_SHARED Models/lib/coal_pile.ac 14.64227 -22.97666 84.47 287.43
+OBJECT_SHARED Models/lib/shed8x10.ac 14.64436 -22.97599 84.46 106.09
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 14.64450 -22.97639 86.67 110.84
+OBJECT_SHARED Models/lib/industrial13x24.ac 14.64491 -22.97539 86.72 107.76
+OBJECT_SHARED Models/lib/coal_pile.ac 14.63994 -22.97802 87.25 0
+OBJECT_SHARED Models/lib/coal_pile.ac 14.64017 -22.97715 81.89 0
+OBJECT_SHARED Models/lib/coal_pile.ac 14.64025 -22.97737 82.20 0
+OBJECT_SHARED Models/lib/coal_pile.ac 14.64216 -22.97688 82.29 0
+OBJECT_SHARED Models/lib/coal_pile.ac 14.64283 -22.97664 84.33 0
+OBJECT_SHARED Models/lib/coal_pile.ac 14.64512 -22.97558 84.97 90
+OBJECT_SHARED Models/lib/transformer3x3.ac 14.64308 -22.97712 87.41 16.8
+OBJECT_SHARED Models/lib/transformer3x3.ac 14.64305 -22.97594 85.23 16.8
 # END dsf2stg

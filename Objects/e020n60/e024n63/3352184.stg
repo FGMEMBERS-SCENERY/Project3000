@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac 24.08116 63.92148 0.00 237.03
+OBJECT_SHARED Models/lib/stack_of_cones.ac 24.08077 63.92171 102.88 278.53
+OBJECT_SHARED Models/lib/prop_a.ac 24.08107 63.92142 103.12 148.57
+OBJECT_SHARED Models/lib/transformer3x3.ac 24.08072 63.92155 102.79 58
+OBJECT_SHARED Models/lib/office3x10.ac 24.08066 63.92171 102.95 238
+# END dsf2stg

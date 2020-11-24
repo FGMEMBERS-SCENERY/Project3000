@@ -1,0 +1,16 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 113.02331 3.12628 46.05 192.52
+OBJECT_SHARED Models/lib/office6x12.ac 113.02272 3.12798 31.72 12.57
+OBJECT_SHARED Models/lib/office8x14.ac 113.02262 3.12835 37.27 282.84
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 113.02281 3.12803 38.27 284.42
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 113.02273 3.12837 37.53 283.6
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 113.02280 3.12819 38.25 193.18
+OBJECT_SHARED Models/lib/loader.ac 113.02283 3.12780 32.73 105.02
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac 113.02284 3.12765 36.31 13.85
+OBJECT_SHARED Models/lib/container6-HD.ac 113.02278 3.12777 35.55 15.26
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 113.02373 3.12567 36.15 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 113.02371 3.12577 42.34 180
+OBJECT_SHARED Models/lib/transformer3x3.ac 113.02321 3.12529 40.54 102.42
+# END dsf2stg
